@@ -121,5 +121,91 @@
     "terms_link": "Terms of Use",
     "terms_url": "/terms.html",
     "app_store_link_text": "View on the App Store"
+  },
+  "seo": {
+    "breadcrumb_home": "Home",
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "Increase Volume – Sound Boost",
+        "operatingSystem": "iOS",
+        "applicationCategory": "MusicApplication",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "120"
+        },
+        "description": "Make any audio or video louder on iPhone with clear sound, powerful bass, and quick editing."
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://volumeboosting.com/",
+        "logo": "https://volumeboosting.com/img/logo.webp"
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Increase Volume – Sound Boost",
+        "url": "https://volumeboosting.com/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://volumeboosting.com/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "How to boost audio on iPhone",
+        "description": "Import audio or video, boost the volume, and save the louder file back to your device.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Import a file",
+            "text": "Import a video, song, or recording — or start directly from the Photos app."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Boost the volume",
+            "text": "Drag the boost slider to add loudness, clarity, and bass in real time."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Save and share",
+            "text": "Save the boosted file back to your device and share it anywhere."
+          }
+        ]
+      },
+      "faqpage": {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Does Increase Volume work for videos and audio?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. You can boost both video and audio files, including screen recordings, podcasts, and voice notes."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is the boosted file saved on my iPhone?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. After boosting, you can save the louder file back to your device and share it anywhere."
+            }
+          }
+        ]
+      }
+    }
   }
 }

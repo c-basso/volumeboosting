@@ -1220,6 +1220,27 @@
       </footer>
     </div>
 
+    <!-- Structured Data (JSON-LD) for SEO -->
+    <script type="application/ld+json">
+      {{seo.structured_data.software_application|json}}
+    </script>
+    <script type="application/ld+json">
+      {{seo.structured_data.organization|json}}
+    </script>
+    <script type="application/ld+json">
+      {{seo.structured_data.website|json}}
+    </script>
+    <script type="application/ld+json">
+      {{seo.structured_data.howto|json}}
+    </script>
+    <script type="application/ld+json">
+      {{seo.structured_data.faqpage|json}}
+    </script>
+    <!-- BreadcrumbList Schema -->
+    <script type="application/ld+json">
+      {{seo.structured_data.breadcrumb_list|json}}
+    </script>
+
     <script>
       // Wave toggle functionality
       const waveToggle = document.getElementById('waveToggle');
