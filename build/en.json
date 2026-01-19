@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "lang": "en",
+    "title": "Increase Volume – Sound Boost | Make Any Audio or Video Louder",
+    "description": "Make any audio or video louder on iPhone. Boost volume up to 10x while enhancing clarity, depth, and bass for music, videos, podcasts, and voice notes.",
+    "keywords": "increase volume, sound boost, volume booster, louder video, louder audio, iPhone volume booster, boost quiet video, audio enhancer app",
+    "author": "c-basso",
+    "canonical": "https://volumeboosting.com/",
+    "app_store_id": "6741472421",
+    "theme_color": "#050810",
+    "apple_mobile_web_app_status_bar_style": "black-translucent",
+    "alternate_languages": [
+      { "lang": "de", "url": "https://volumeboosting.com/de/" },
+      { "lang": "es", "url": "https://volumeboosting.com/es/" },
+      { "lang": "fr", "url": "https://volumeboosting.com/fr/" },
+      { "lang": "it", "url": "https://volumeboosting.com/it/" },
+      { "lang": "pt", "url": "https://volumeboosting.com/pt/" },
+      { "lang": "ru", "url": "https://volumeboosting.com/ru/" }
+    ],
+    "alternate_default": "https://volumeboosting.com/",
+    "og_title": "Increase Volume – Sound Boost",
+    "og_description": "Make any audio or video louder on iPhone. Boost volume up to 10x with clear sound, powerful bass, and quick editing.",
+    "og_image": "https://volumeboosting.com/img/logo.webp",
+    "og_image_alt": "Increase Volume – Sound Boost app icon",
+    "og_image_width": "512",
+    "og_image_height": "512",
+    "og_type": "website",
+    "og_url": "https://volumeboosting.com/",
+    "og_locale": "en_US",
+    "twitter_card": "summary_large_image",
+    "twitter_url": "https://volumeboosting.com/",
+    "twitter_title": "Increase Volume – Sound Boost",
+    "twitter_description": "Make any audio or video louder on iPhone. Boost volume up to 10x with clear sound, powerful bass, and quick editing.",
+    "twitter_image": "https://volumeboosting.com/img/logo.webp",
+    "twitter_image_alt": "Increase Volume – Sound Boost app icon",
+    "twitter_image_width": "512",
+    "twitter_image_height": "512",
+    "twitter_site": "@cbasso",
+    "twitter_creator": "@cbasso"
+  },
+  "header": {
+    "app_name_suffix": "Sound Boost for iPhone",
+    "logo_alt": "Increase Volume – Sound Boost app icon",
+    "app_name": "Increase Volume – Sound Boost",
+    "brand_name": "Volume Booster",
+    "brand_subtitle": "Sound Boost for iPhone",
+    "apple_pill_text": "Made for iPhone · Music app",
+    "download_text": "Download on the App Store",
+    "download_url": "https://apps.apple.com/app/id6741472421",
+    "download_aria_label": "Download Increase Volume – Sound Boost on the App Store"
+  },
+  "hero": {
+    "kicker_value": "10x",
+    "kicker_text": "Turn quiet videos and audio into loud, clear sound",
+    "title_prefix": "Make any audio or video",
+    "title_highlight": "up to 10x louder",
+    "title_suffix": "without losing clarity.",
+    "subtitle": "Increase Volume – Sound Boost is your dedicated iPhone volume booster. Fix quiet screen recordings, podcasts, and videos in seconds with clean, powerful sound and rich bass.",
+    "metadata_primary": "Only for iPhone",
+    "metadata_secondary": "Fast, simple, and privacy-respecting",
+    "cta_secondary_prefix": "Boost your first video for",
+    "cta_secondary_emphasis": "free",
+    "cta_secondary_suffix": ", keep the volume forever.",
+    "footnote_prefix": "Perfect for",
+    "footnote_item1": "quiet voice notes",
+    "footnote_item2": "movies",
+    "footnote_item3": "music",
+    "footnote_item4": "social clips",
+    "device_image_src": "/img/screenshots/1.webp",
+    "device_image_alt": ""
+  },
+  "wave": {
+    "before_label": "Before",
+    "after_label": "After",
+    "before_text": "Quiet, flat original audio",
+    "after_text": "Boosted, full and clear output"
+  },
+  "sections": {
+    "features_uses_aria": "Features and uses",
+    "audience_aria": "Who it's for and why people love it",
+    "feature_card": {
+      "eyebrow": "What it does",
+      "title_prefix": "Turn quiet recordings into",
+      "title_highlight": "bold, listenable sound",
+      "description": "Increase Volume – Sound Boost takes any audio or video on your iPhone and makes it dramatically louder while keeping it clear and easy to understand. No confusing controls, no editing skills required.",
+      "pill_1": "Boost videos from Photos",
+      "pill_2": "Music, podcasts and voice notes",
+      "pill_3": "Powerful bass and clarity",
+      "rating_1_strong": "Loved by users",
+      "rating_1_text": "for boosting quiet videos and audio",
+      "rating_2_strong": "Music",
+      "rating_2_text": "category on the App Store"
+    },
+    "steps_card": {
+      "eyebrow": "Use it in seconds",
+      "title": "Boosting your audio is this simple.",
+      "step_1": "Import a video, song, or recording — or start directly from the Photos app.",
+      "step_2": "Drag the boost slider to add loudness, clarity, and bass in real time.",
+      "step_3": "Save the boosted file back to your device and share it anywhere.",
+      "label": "Ideal for: screen recordings, TikTok/Reels clips, interviews, voice memos, and more."
+    },
+    "audience_card": {
+      "eyebrow": "Who it's for",
+      "title": "If your iPhone volume isn't enough, it is.",
+      "item_1": "People who constantly max out volume but still can't hear.",
+      "item_2": "Creators who need loud, clear audio for social videos.",
+      "item_3": "Anyone fixing quiet screen recordings and tutorials.",
+      "item_4": "Listeners boosting podcasts, lectures, or voice notes."
+    },
+    "testimonial_card": {
+      "eyebrow": "Why people keep it",
+      "title": "\"Works good and it's simple.\" – App Store review",
+      "paragraph_1": "Increase Volume is designed to get out of your way. Open, boost, save, done — with smart defaults and a clean layout that feels native to iPhone.",
+      "paragraph_2": "Under the hood, it's a powerful volume booster and sound enhancer that keeps your audio punchy instead of distorted."
+    }
+  },
+  "footer": {
+    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "privacy_link": "Privacy Policy",
+    "privacy_url": "/privacy.html",
+    "terms_link": "Terms of Use",
+    "terms_url": "/terms.html",
+    "app_store_link_text": "View on the App Store"
+  }
+}

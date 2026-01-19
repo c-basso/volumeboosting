@@ -2,9 +2,17 @@
   "name": "volumeboosting",
   "scripts": {
     "build": "node build/build.js",
-    "start": "npx http-server"
+    "validate": "node build/validate/index.js",
+    "sitemap": "node build/sitemap.js",
+    "start": "npx http-server",
+    "site:preview": "node build/preview.js",
+    "index:ya": "npx indexnow-submit submit-urls urls.txt --host volumeboosting.com --engine yandex.com --key ANmc63xrMRZdnah1f1N7xyzD",
+    "index:bing": "npx indexnow-submit submit-urls urls.txt --host volumeboosting.com --engine bing.com --key ANmc63xrMRZdnah1f1N7xyzD",
+    "index:now": "npm run index:ya && npm run index:bing",
+    "push": "git add . && git commit -m 'wip' && git push origin main",
+    "deploy": "npm run build && npm run validate && npm run sitemap && npm run push"
   },
-  "dependencies": {
-    "openai": "^5.10.1"
+  "devDependencies": {
+    "puppeteer": "^24.1.1"
   }
 }

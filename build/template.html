@@ -1,63 +1,63 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{meta.lang}}">
   <head>
     <meta charset="UTF-8" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover"
     />
-    <title>Increase Volume – Sound Boost | Make Any Audio or Video Louder</title>
+    <title>{{meta.title}}</title>
     <meta
       name="description"
-      content="Make any audio or video louder on iPhone. Boost volume up to 10x while enhancing clarity, depth, and bass for music, videos, podcasts, and voice notes."
+      content="{{meta.description}}"
     />
     <!-- App Store Smart App Banner -->
-    <meta name="apple-itunes-app" content="app-id=6741472421" />
+    <meta name="apple-itunes-app" content="app-id={{meta.app_store_id}}" />
     <!-- Core SEO -->
-    <meta name="keywords" content="increase volume, sound boost, volume booster, louder video, louder audio, iPhone volume booster, boost quiet video, audio enhancer app" />
-    <meta name="author" content="c-basso" />
+    <meta name="keywords" content="{{meta.keywords}}" />
+    <meta name="author" content="{{meta.author}}" />
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
     <meta name="googlebot" content="index, follow" />
     <meta name="bingbot" content="index, follow" />
-    <link rel="canonical" href="https://volumeboosting.com/" />
+    <link rel="canonical" href="{{meta.canonical}}" />
 
     <!-- Alternate Language Links -->
-    
-    <link rel="alternate" hreflang="en" href="https://volumeboosting.com/" />
-    
-    <link rel="alternate" hreflang="x-default" href="https://volumeboosting.com/" />
+    {{#each meta.alternate_languages as |lang|}}
+    <link rel="alternate" hreflang="{{lang.lang}}" href="{{lang.url}}" />
+    {{/each}}
+    <link rel="alternate" hreflang="x-default" href="{{meta.alternate_default}}" />
 
     <!-- PWA & Theming -->
-    <meta name="theme-color" content="#050810" />
-    <meta name="msapplication-TileColor" content="#050810" />
+    <meta name="theme-color" content="{{meta.theme_color}}" />
+    <meta name="msapplication-TileColor" content="{{meta.theme_color}}" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="{{meta.apple_mobile_web_app_status_bar_style}}" />
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Increase Volume – Sound Boost" />
-    <meta property="og:description" content="Make any audio or video louder on iPhone. Boost volume up to 10x with clear sound, powerful bass, and quick editing." />
-    <meta property="og:image" content="https://volumeboosting.com/img/logo.webp" />
-    <meta property="og:image:alt" content="Increase Volume – Sound Boost app icon" />
-    <meta property="og:image:width" content="512" />
-    <meta property="og:image:height" content="512" />
+    <meta property="og:title" content="{{meta.og_title}}" />
+    <meta property="og:description" content="{{meta.og_description}}" />
+    <meta property="og:image" content="{{meta.og_image}}" />
+    <meta property="og:image:alt" content="{{meta.og_image_alt}}" />
+    <meta property="og:image:width" content="{{meta.og_image_width}}" />
+    <meta property="og:image:height" content="{{meta.og_image_height}}" />
     <meta property="og:logo" content="https://bluetoothfinderapp.com/img/logo.webp" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://volumeboosting.com/" />
-    <meta property="og:site_name" content="Increase Volume – Sound Boost" />
-    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="{{meta.og_type}}" />
+    <meta property="og:url" content="{{meta.og_url}}" />
+    <meta property="og:site_name" content="{{header.app_name}}" />
+    <meta property="og:locale" content="{{meta.og_locale}}" />
 
     <!-- Twitter Cards -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content="https://volumeboosting.com/" />
-    <meta property="twitter:title" content="Increase Volume – Sound Boost" />
-    <meta property="twitter:description" content="Make any audio or video louder on iPhone. Boost volume up to 10x with clear sound, powerful bass, and quick editing." />
-    <meta property="twitter:image" content="https://volumeboosting.com/img/logo.webp" />
-    <meta name="twitter:image:alt" content="Increase Volume – Sound Boost app icon" />
-    <meta name="twitter:image:width" content="512" />
-    <meta name="twitter:image:height" content="512" />
-    <meta name="twitter:site" content="@cbasso" />
-    <meta name="twitter:creator" content="@cbasso" />
+    <meta property="twitter:card" content="{{meta.twitter_card}}" />
+    <meta property="twitter:url" content="{{meta.twitter_url}}" />
+    <meta property="twitter:title" content="{{meta.twitter_title}}" />
+    <meta property="twitter:description" content="{{meta.twitter_description}}" />
+    <meta property="twitter:image" content="{{meta.twitter_image}}" />
+    <meta name="twitter:image:alt" content="{{meta.twitter_image_alt}}" />
+    <meta name="twitter:image:width" content="{{meta.twitter_image_width}}" />
+    <meta name="twitter:image:height" content="{{meta.twitter_image_height}}" />
+    <meta name="twitter:site" content="{{meta.twitter_site}}" />
+    <meta name="twitter:creator" content="{{meta.twitter_creator}}" />
 
     <link
       rel="preconnect"
@@ -86,12 +86,12 @@
     <link rel="icon" type="image/svg+xml" href="/img/favicon.svg" />
     <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png" />
     <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png" />
-    <link rel="mask-icon" href="/img/favicon.svg" color="#050810" />
+    <link rel="mask-icon" href="/img/favicon.svg" color="{{meta.theme_color}}" />
     <link rel="manifest" href="/site.webmanifest" />
     <link rel="icon" type="image/png" sizes="192x192" href="/img/web-app-manifest-192x192.png" />
     <link rel="icon" type="image/png" sizes="512x512" href="/img/web-app-manifest-512x512.png" />
     <!-- Application Name -->
-    <meta name="application-name" content="Increase Volume – Sound Boost – Sound Boost for iPhone" />
+    <meta name="application-name" content="{{header.app_name}} – {{header.app_name_suffix}}" />
 
     <style>
       :root {
@@ -980,7 +980,7 @@
           <div class="brand-logo">
             <img
               src="img/logo.webp"
-              alt="Increase Volume – Sound Boost app icon"
+              alt="{{header.logo_alt}}"
               width="80"
               height="80"
               loading="eager"
@@ -988,13 +988,13 @@
             />
           </div>
           <div class="brand-text">
-            <div class="brand-name">Volume Booster</div>
-            <div class="brand-subtitle">Sound Boost for iPhone</div>
+            <div class="brand-name">{{header.brand_name}}</div>
+            <div class="brand-subtitle">{{header.brand_subtitle}}</div>
           </div>
         </div>
         <div class="apple-pill">
           <div class="apple-dot"></div>
-          <span>Made for iPhone · Music app</span>
+          <span>{{header.apple_pill_text}}</span>
         </div>
       </header>
 
@@ -1002,32 +1002,32 @@
         <section class="hero" aria-labelledby="hero-heading">
           <div class="hero-copy">
           <div class="hero-kicker">
-            <div class="pill-spark">10x</div>
-            <span>Turn quiet videos and audio into loud, clear sound</span>
+            <div class="pill-spark">{{hero.kicker_value}}</div>
+            <span>{{hero.kicker_text}}</span>
           </div>
           <h1 id="hero-heading">
-            Make any audio or video
-            <span class="hero-title-highlight">up to 10x louder</span>
-            without losing clarity.
+            {{hero.title_prefix}}
+            <span class="hero-title-highlight">{{hero.title_highlight}}</span>
+            {{hero.title_suffix}}
           </h1>
           <p class="hero-subtitle">
-            Increase Volume – Sound Boost is your dedicated iPhone volume booster. Fix quiet screen recordings, podcasts, and videos in seconds with clean, powerful sound and rich bass.
+            {{hero.subtitle}}
           </p>
 
           <div class="hero-metadata">
-            <span><span class="metadata-dot"></span> Only for iPhone</span>
-            <span>Fast, simple, and privacy-respecting</span>
+            <span><span class="metadata-dot"></span> {{hero.metadata_primary}}</span>
+            <span>{{hero.metadata_secondary}}</span>
           </div>
 
             <div class="cta-row">
               <a
                 class="cta-primary"
-              href="https://apps.apple.com/app/id6741472421"
+              href="{{header.download_url}}"
                 target="_blank"
                 rel="noopener noreferrer"
-              aria-label="Download Increase Volume – Sound Boost on the App Store"
+              aria-label="{{header.download_aria_label}}"
               >
-              <span>Download on the App Store</span>
+              <span>{{header.download_text}}</span>
                 <svg
                   width="18"
                   height="18"
@@ -1045,13 +1045,13 @@
                 </svg>
               </a>
               <div class="cta-secondary">
-              Boost your first video for <strong>free</strong>, keep the volume forever.
+              {{hero.cta_secondary_prefix}} <strong>{{hero.cta_secondary_emphasis}}</strong>{{hero.cta_secondary_suffix}}
               </div>
             </div>
 
             <p class="hero-footnote">
-            Perfect for <span>quiet voice notes</span>, <span>movies</span>,
-            <span>music</span>, and <span>social clips</span>.
+            {{hero.footnote_prefix}} <span>{{hero.footnote_item1}}</span>, <span>{{hero.footnote_item2}}</span>,
+            <span>{{hero.footnote_item3}}</span>, and <span>{{hero.footnote_item4}}</span>.
             </p>
           </div>
 
@@ -1061,8 +1061,8 @@
                 <div class="device-frame">
                   <div class="device-screen">
                   <img
-                    src="/img/screenshots/1.webp"
-                    alt=""
+                    src="{{hero.device_image_src}}"
+                    alt="{{hero.device_image_alt}}"
                     loading="lazy"
                     decoding="async"
                   />
@@ -1072,11 +1072,11 @@
               <div class="device-column wave-panel active" id="wavePanel">
                 <div class="wave-header">
                   <div class="wave-toggle-container">
-                  <span class="wave-toggle-label">Before</span>
+                  <span class="wave-toggle-label">{{wave.before_label}}</span>
                     <div class="wave-toggle active" id="waveToggle" role="switch" aria-checked="true" tabindex="0">
                       <div class="wave-toggle-handle"></div>
                     </div>
-                  <span class="wave-toggle-label">After</span>
+                  <span class="wave-toggle-label">{{wave.after_label}}</span>
                   </div>
                 </div>
                 <div class="wave-bars">
@@ -1108,12 +1108,12 @@
                 </div>
               <div class="wave-footer">
                 <div class="wave-footer-col">
-                  <div class="wave-footer-label">Before</div>
-                  <div class="wave-footer-text">Quiet, flat original audio</div>
+                  <div class="wave-footer-label">{{wave.before_label}}</div>
+                  <div class="wave-footer-text">{{wave.before_text}}</div>
                 </div>
                 <div class="wave-footer-col">
-                  <div class="wave-footer-label">After</div>
-                  <div class="wave-footer-text">Boosted, full and clear output</div>
+                  <div class="wave-footer-label">{{wave.after_label}}</div>
+                  <div class="wave-footer-text">{{wave.after_text}}</div>
                 </div>
               </div>
               </div>
@@ -1121,100 +1121,100 @@
           </div>
         </section>
 
-        <section class="sections" aria-label="Features and uses">
+        <section class="sections" aria-label="{{sections.features_uses_aria}}">
           <article class="card">
-            <h2>What it does</h2>
+            <h2>{{sections.feature_card.eyebrow}}</h2>
             <div class="card-title">
-              Turn quiet recordings into <span>bold, listenable sound</span>.
+              {{sections.feature_card.title_prefix}} <span>{{sections.feature_card.title_highlight}}</span>.
             </div>
             <p>
-              Increase Volume – Sound Boost takes any audio or video on your iPhone and makes it dramatically louder while keeping it clear and easy to understand. No confusing controls, no editing skills required.
+              {{sections.feature_card.description}}
             </p>
             <div class="pill-row">
-              <div class="pill">Boost videos from Photos</div>
-              <div class="pill">Music, podcasts and voice notes</div>
-              <div class="pill">Powerful bass and clarity</div>
+              <div class="pill">{{sections.feature_card.pill_1}}</div>
+              <div class="pill">{{sections.feature_card.pill_2}}</div>
+              <div class="pill">{{sections.feature_card.pill_3}}</div>
             </div>
             <div class="ratings-row">
               <div class="rating-block">
-                <strong>Loved by users</strong>
-                <span>for boosting quiet videos and audio</span>
+                <strong>{{sections.feature_card.rating_1_strong}}</strong>
+                <span>{{sections.feature_card.rating_1_text}}</span>
               </div>
               <div class="rating-block">
-                <strong>Music</strong>
-                <span>category on the App Store</span>
+                <strong>{{sections.feature_card.rating_2_strong}}</strong>
+                <span>{{sections.feature_card.rating_2_text}}</span>
               </div>
             </div>
           </article>
 
           <article class="card">
-            <h2>Use it in seconds</h2>
-            <div class="card-title">Boosting your audio is this simple.</div>
+            <h2>{{sections.steps_card.eyebrow}}</h2>
+            <div class="card-title">{{sections.steps_card.title}}</div>
             <ol class="steps">
               <li class="step">
                 <div class="step-number">1</div>
                 <div class="step-text">
-                  Import a video, song, or recording — or start directly from the Photos app.
+                  {{sections.steps_card.step_1}}
                 </div>
               </li>
               <li class="step">
                 <div class="step-number">2</div>
                 <div class="step-text">
-                  Drag the boost slider to add loudness, clarity, and bass in real time.
+                  {{sections.steps_card.step_2}}
                 </div>
               </li>
               <li class="step">
                 <div class="step-number">3</div>
                 <div class="step-text">
-                  Save the boosted file back to your device and share it anywhere.
+                  {{sections.steps_card.step_3}}
                 </div>
               </li>
             </ol>
             <div class="card-label">
-              Ideal for: screen recordings, TikTok/Reels clips, interviews, voice memos, and more.
+              {{sections.steps_card.label}}
             </div>
           </article>
         </section>
 
-        <section class="sections" aria-label="Who it's for and why people love it">
+        <section class="sections" aria-label="{{sections.audience_aria}}">
           <article class="card">
-            <h2>Who it's for</h2>
-            <div class="card-title">If your iPhone volume isn't enough, it is.</div>
+            <h2>{{sections.audience_card.eyebrow}}</h2>
+            <div class="card-title">{{sections.audience_card.title}}</div>
             <div class="audience-grid">
-              <span>People who constantly max out volume but still can't hear.</span>
-              <span>Creators who need loud, clear audio for social videos.</span>
-              <span>Anyone fixing quiet screen recordings and tutorials.</span>
-              <span>Listeners boosting podcasts, lectures, or voice notes.</span>
+              <span>{{sections.audience_card.item_1}}</span>
+              <span>{{sections.audience_card.item_2}}</span>
+              <span>{{sections.audience_card.item_3}}</span>
+              <span>{{sections.audience_card.item_4}}</span>
             </div>
           </article>
 
           <article class="card">
-            <h2>Why people keep it</h2>
+            <h2>{{sections.testimonial_card.eyebrow}}</h2>
             <div class="card-title">
-              "Works good and it's simple." – App Store review
+              {{sections.testimonial_card.title}}
             </div>
             <p>
-              Increase Volume is designed to get out of your way. Open, boost, save, done — with smart defaults and a clean layout that feels native to iPhone.
+              {{sections.testimonial_card.paragraph_1}}
             </p>
             <p>
-              Under the hood, it's a powerful volume booster and sound enhancer that keeps your audio punchy instead of distorted.
+              {{sections.testimonial_card.paragraph_2}}
             </p>
           </article>
         </section>
       </main>
 
       <footer>
-        <div>© 2026 c-basso · Increase Volume – Sound Boost</div>
+        <div>{{footer.copyright}}</div>
         <div>
-          <a href="/privacy.html">Privacy Policy</a>
+          <a href="{{footer.privacy_url}}">{{footer.privacy_link}}</a>
           &nbsp;·&nbsp;
-          <a href="/terms.html">Terms of Use</a>
+          <a href="{{footer.terms_url}}">{{footer.terms_link}}</a>
           &nbsp;·&nbsp;
           <a
-            href="https://apps.apple.com/app/id6741472421"
+            href="{{header.download_url}}"
             target="_blank"
             rel="noopener noreferrer"
-            >View on the App Store</a
+            >{{footer.app_store_link_text}}</a
           >
         </div>
       </footer>
