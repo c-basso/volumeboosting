@@ -28,11 +28,17 @@ const OG_DESCRIPTION_MAX_LENGTH = 160;
 
 function extractMetaTags(html) {
   const metaTags = {};
-  const re = /<meta\s+(?:property|name)=["']([^"']+)["']\s+content=["']([^"']+)["']/g;
+  // Match meta tags like:
+  // <meta property="og:description" content="Extraire le son d'une vidéo...">
+  // This regex:
+  //  - captures the meta property/name in group 1
+  //  - captures the quote character used for the content attribute in group 2
+  //  - captures the full content value (allowing the opposite quote inside) in group 3
+  const re = /<meta\s+(?:property|name)=["']([^"']+)["']\s+content=(["'])([\s\S]*?)\2/g;
   let m;
   while ((m = re.exec(html))) {
     const property = m[1];
-    const content = m[2];
+    const content = m[3];
     metaTags[property] = content;
   }
   return metaTags;
