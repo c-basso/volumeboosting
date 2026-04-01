@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "lang": "uk",
+    "title": "Збільшити гучність на iPhone – Sound Boost | Аудіо й відео до ~10× гучніше",
+    "description": "Зробіть будь-який звук або відео гучнішим на iPhone: посилення до ~10× із кращою чіткістю та басом. Тихі кліпи з Фото, подкасти, запис екрана й голосові нотатки — обробка на пристрої. Спробуйте безкоштовно в App Store.",
+    "keywords": "збільшити гучність iPhone, зробити відео гучніше, тихе відео, підсилювач звуку, бустер гучності, додаток iPhone, гучніший звук, запис екрана тихий, Sound Boost, Increase Volume",
+    "author": "c-basso",
+    "canonical": "https://volumeboosting.com/uk/",
+    "app_store_id": "6741472421",
+    "theme_color": "#050810",
+    "apple_mobile_web_app_status_bar_style": "black-translucent",
+    "alternate_languages": [],
+    "alternate_default": "https://volumeboosting.com/",
+    "og_title": "Збільшити гучність на iPhone – Sound Boost",
+    "og_description": "Аудіо й відео на iPhone до ~10× гучніше — Increase Volume – Sound Boost. Чіткий звук, бас; тихі кліпи й подкасти. Обробка на пристрої.",
+    "og_image": "https://volumeboosting.com/site_preview.png",
+    "og_image_alt": "Піктограма додатка Increase Volume – Sound Boost",
+    "og_image_width": "1026",
+    "og_image_height": "539",
+    "og_type": "website",
+    "og_url": "https://volumeboosting.com/uk/",
+    "og_locale": "uk_UA",
+    "twitter_card": "summary_large_image",
+    "twitter_url": "https://volumeboosting.com/uk/",
+    "twitter_title": "Збільшити гучність на iPhone – Sound Boost",
+    "twitter_description": "Аудіо й відео на iPhone до ~10× гучніше — Increase Volume – Sound Boost. Чіткий звук, бас; тихі кліпи й подкасти. Обробка на пристрої.",
+    "twitter_image": "https://volumeboosting.com/site_preview.png",
+    "twitter_image_alt": "Піктограма додатка Increase Volume – Sound Boost",
+    "twitter_image_width": "1026",
+    "twitter_image_height": "539",
+    "twitter_site": "@cbasso",
+    "twitter_creator": "@cbasso"
+  },
+  "header": {
+    "app_name_suffix": "Підсилення звуку для iPhone",
+    "logo_alt": "Піктограма додатка Increase Volume – Sound Boost",
+    "app_name": "Increase Volume – Sound Boost",
+    "brand_name": "Volume Booster",
+    "brand_subtitle": "Підсилення звуку для iPhone",
+    "apple_pill_text": "Для iPhone · додаток Музика",
+    "download_text": "Завантажити в App Store",
+    "download_url": "https://apps.apple.com/app/id6741472421",
+    "download_aria_label": "Завантажити Increase Volume – Sound Boost у App Store"
+  },
+  "hero": {
+    "kicker_value": "10x",
+    "kicker_text": "Перетворіть тихі відео й аудіо на гучний, чіткий звук",
+    "title_prefix": "Зробіть будь-який звук або відео",
+    "title_highlight": "до ~10× гучнішим",
+    "title_suffix": "без втрати чіткості.",
+    "subtitle": "Increase Volume – Sound Boost — ваш підсилювач гучності для iPhone: створює стабільно гучніший файл, а не лише тимчасово голосніше відтворення. За секунди виправте записи екрана, подкасти й тихі відео — чистий потужний звук і насичений бас.",
+    "metadata_primary": "Лише iPhone",
+    "metadata_secondary": "Швидко, просто й з повагою до приватності",
+    "cta_secondary_prefix": "Підсильте своє перше відео",
+    "cta_secondary_emphasis": "безкоштовно",
+    "cta_secondary_suffix": " й збережіть гучність назавжди.",
+    "footnote_prefix": "Ідеально для",
+    "footnote_item1": "тихих голосових нотаток",
+    "footnote_item2": "фільмів",
+    "footnote_item3": "музики",
+    "footnote_item4": "кліпів для соцмереж",
+    "device_image_src": "/img/screenshots/1.webp",
+    "device_image_alt": "Інтерфейс Increase Volume – Sound Boost на iPhone для підсилення гучності аудіо й відео"
+  },
+  "wave": {
+    "before_label": "До",
+    "after_label": "Після",
+    "before_text": "Тихий плоский оригінальний звук",
+    "after_text": "Підсилений повний і чіткий вихід"
+  },
+  "sections": {
+    "features_uses_aria": "Можливості й сценарії",
+    "audience_aria": "Для кого додаток і чому його залишають",
+    "feature_card": {
+      "eyebrow": "Що робить",
+      "title_prefix": "Перетворіть тихі записи на",
+      "title_highlight": "сміливий зручний для прослуховування звук",
+      "description": "Increase Volume – Sound Boost бере будь-яке аудіо чи відео на вашому iPhone і робить його помітно гучнішим, зберігаючи зрозумілість. Без заплутаних регуляторів і без навичок монтажу.",
+      "pill_1": "Підсилюйте відео з додатка Фото",
+      "pill_2": "Музика, подкасти й голосові нотатки",
+      "pill_3": "Потужний бас і чіткість",
+      "rating_1_strong": "Високо оцінюють користувачі",
+      "rating_1_text": "для підсилення тихих відео й аудіо",
+      "rating_2_strong": "Категорія Музика",
+      "rating_2_text": "в App Store"
+    },
+    "steps_card": {
+      "eyebrow": "За кілька секунд",
+      "title": "Підсилити звук так само просто.",
+      "step_1": "Імпортуйте відео, трек або запис — або почніть одразу з додатка Фото.",
+      "step_2": "Перетягніть повзунок підсилення, щоб додати гучність, чіткість і бас у реальному часі.",
+      "step_3": "Збережіть підсилений файл назад на пристрій і поділіться ним будь-де.",
+      "label": "Ідеально для: записів екрана, кліпів TikTok/Reels, інтерв'ю, голосових нотаток і не лише."
+    },
+    "audience_card": {
+      "eyebrow": "Для кого",
+      "title": "Якщо гучності iPhone не вистачає — цьому додатку вистачить.",
+      "item_1": "Тим, хто завжди на максимумі, але все одно чує погано.",
+      "item_2": "Творцям, яким потрібен гучний чіткий звук для соцвідео.",
+      "item_3": "Усім, хто виправляє тихі записи екрана й туторіали.",
+      "item_4": "Слухачам подкастів, лекцій або голосових нотаток."
+    },
+    "testimonial_card": {
+      "eyebrow": "Чому залишають додаток",
+      "title": "«Працює добре й усе просто.» – відгук у App Store",
+      "paragraph_1": "Increase Volume зроблено так, щоб не заважати: відкрити, підсилити, зберегти — готово. Розумні значення за замовчуванням і охайний макет у дусі iPhone.",
+      "paragraph_2": "Під капотом — потужний бустер гучності й покращення звуку: звук щільний без зайвих спотворень."
+    }
+  },
+  "geo": {
+    "summary_aria": "Що це за додаток",
+    "summary_lead": "Коротко: Increase Volume – Sound Boost — додаток для iPhone (категорія Музика в App Store), який обробляє аудіо й відео на пристрої, застосовує до ~10× посилення з регуляторами чіткості й басу та зберігає новий гучніший файл для збереження чи поширення. Це не обхід ліміту динаміка для всієї системи.",
+    "summary_body": "Опубліковано в Apple App Store від c-basso. Вирішує ті самі задачі, що й підвищення гучності тихих подкастів, нотаток, записів екрана й соцкліпів — близько до нормалізації в настільних редакторах, але заточено під короткий дотиковий сценарій на iOS.",
+    "row_aria": "Факти й порівняння",
+    "stats_eyebrow": "У цифрах",
+    "stats_title": "Перевірювані факти про додаток",
+    "stats": [
+      { "value": "До ~10×", "label": "Максимальний зазначений коефіцієнт підсилення для оброблених експортів." },
+      { "value": "iOS / iPhone", "label": "Платформа: нативний мобільний додаток, не macOS й не Android." },
+      { "value": "4,8 / 5", "label": "Середня оцінка в структурованих даних (120 оцінок); актуальне значення — у App Store." },
+      { "value": "Безкоштовно", "label": "У App Store як безкоштовний; ціна та покупки в додатку — на сторінці Apple." },
+      { "value": "Імпорт → підсилення → збереження", "label": "Основний потік: локальні файли на вхід, налаштований файл на вихід." }
+    ],
+    "compare_eyebrow": "Позиціонування",
+    "compare_title": "Increase Volume проти типових альтернатив",
+    "compare_intro": "Об'єктивні відмінності для цитування. «Конкуренти» — це категорії інструментів, не рейтинг додатків.",
+    "compare_col_topic": "Тема",
+    "compare_col_system": "Системна гучність iOS",
+    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_rows": [
+      {
+        "topic": "Створює новий гучніший файл",
+        "system": "Ні — змінює лише рівень відтворення.",
+        "app": "Так — експортує / зберігає підсилену копію."
+      },
+      {
+        "topic": "Працює офлайн на пристрої",
+        "system": "Н/Д для експорту файлу.",
+        "app": "Так — обробка на пристрої."
+      },
+      {
+        "topic": "Точне налаштування басу й чіткості",
+        "system": "Обмежено системним EQ / відтворенням.",
+        "app": "Так — окремі повзунки в інтерфейсі."
+      },
+      {
+        "topic": "Типовий сценарій",
+        "system": "Слухати гучніше зараз.",
+        "app": "Постійне виправлення тихих вихідних файлів."
+      }
+    ],
+    "faq_section_title": "Часті запитання",
+    "faq_section_dek": "Прямі відповіді у формулюваннях голосового пошуку й AI."
+  },
+  "footer": {
+    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "last_updated_label": "Сторінку оновлено:",
+    "privacy_link": "Політика конфіденційності",
+    "privacy_url": "/privacy.html",
+    "terms_link": "Умови використання",
+    "terms_url": "/terms.html",
+    "app_store_link_text": "Переглянути в App Store"
+  },
+  "seo": {
+    "breadcrumb_home": "Головна",
+    "faq": [
+      {
+        "question": "Що таке Increase Volume – Sound Boost?",
+        "answer": "Це додаток для iPhone в категорії Музика в App Store, який робить імпортовані аудіо- й відеофайли гучнішими — до ~10× — і дозволяє зберегти новий файл. Обробляє медіа на пристрої; призначений для тихих записів, подкастів і кліпів — не для обходу апаратних обмежень iOS для всього системного звуку."
+      },
+      {
+        "question": "Як працює Increase Volume – Sound Boost?",
+        "answer": "Ви імпортуєте відео, трек або запис (у тому числі з Фото), налаштовуєте гучність повзунком підсилення плюс чіткість і бас, слухаєте перегляд у реальному часі, потім зберігаєте підсилений файл на iPhone або поширюєте його."
+      },
+      {
+        "question": "Чи краще за просте підкручування гучності iPhone?",
+        "answer": "Це різні задачі. Системна гучність тимчасово робить відтворення голоснішим. Додаток створює стабільно гучніший файл — корисно, коли сам запис тихий або треба надіслати підсилену версію."
+      },
+      {
+        "question": "Чим Increase Volume відрізняється від VLC чи Audacity за гучністю?",
+        "answer": "VLC й Audacity — потужні настільні інструменти з нормалізацією, підсиленням і багатьма опціями. Increase Volume зроблено для iPhone: короткий ланцюжок імпорт → повзунок → збереження без таймлайну на комп'ютері."
+      },
+      {
+        "question": "Чи працює Increase Volume і для відео, і для аудіо?",
+        "answer": "Так. Можна підсилити відео зі звуковою доріжкою, треки, подкасти, голосові нотатки й записи екрана, потім зберегти результат."
+      },
+      {
+        "question": "Чи зберігається підсилений файл на моєму iPhone?",
+        "answer": "Так. Після обробки ви зберігаєте гучніший файл на пристрій і можете поширити його як будь-який інший медіафайл."
+      },
+      {
+        "question": "Скільки коштує Increase Volume – Sound Boost?",
+        "answer": "Актуальна ціна та покупки в додатку вказані в картці App Store. Структуровані дані сайту можуть зазначати безкоштовну пропозицію; перед цитуванням перевіряйте Apple."
+      },
+      {
+        "question": "Хто випускає Increase Volume – Sound Boost?",
+        "answer": "Додаток публікує c-basso й поширює Apple App Store (ID 6741472421). Сайт продукту — volumeboosting.com."
+      },
+      {
+        "question": "Як зробити тихе відео на iPhone гучнішим?",
+        "answer": "У Increase Volume – Sound Boost імпортуйте відео (наприклад з Фото), налаштуйте повзунок підсилення з живим переглядом і збережіть копію з гучнішою аудіодоріжкою. Так ви виправляєте рівень у файлі — на відміну від лише системної гучності під час відтворення."
+      },
+      {
+        "question": "Чи підвищує додаток максимальну гучність iPhone для музики й дзвінків?",
+        "answer": "Ні. Він обробляє файли, які ви імпортуєте, і дає гучнішу версію для збереження чи поширення. Апаратний ліміт і загальна гучність для Spotify, дзвінків тощо не змінюються."
+      }
+    ],
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "Increase Volume – Sound Boost",
+        "operatingSystem": "iOS",
+        "applicationCategory": "MusicApplication",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "120"
+        },
+        "description": "Додаток для iPhone, що імпортує аудіо або відео, застосовує до ~10× гучності з регуляторами басу й чіткості та експортує гучніший файл для збереження й поширення. Обробка на пристрої; не підвищує системну гучність для всіх додатків."
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://volumeboosting.com/",
+        "logo": "https://volumeboosting.com/img/logo.webp",
+        "description": "Незалежний видавець Increase Volume – Sound Boost і пов'язаних утиліт для iOS.",
+        "sameAs": ["https://twitter.com/cbasso"]
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Increase Volume – Sound Boost",
+        "url": "https://volumeboosting.com/uk/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://volumeboosting.com/uk/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Як підсилити звук на iPhone",
+        "description": "Імпортуйте аудіо або відео, збільшіть гучність і збережіть гучніший файл назад на пристрій.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Імпорт файлу",
+            "text": "Імпортуйте відео, трек або запис — або почніть одразу з додатка Фото."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Підсилення гучності",
+            "text": "Перетягніть повзунок підсилення, щоб додати гучність, чіткість і бас у реальному часі."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Збереження й поширення",
+            "text": "Збережіть підсилений файл назад на пристрій і поділіться ним будь-де."
+          }
+        ]
+      }
+    }
+  }
+}

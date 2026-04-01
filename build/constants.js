@@ -3,12 +3,20 @@ const DEFAULT_LANGUAGE = 'en';
 
 const LANGUAGES = [
     DEFAULT_LANGUAGE,
-    // 'ru',
-    // 'es',
-    // 'fr',
-    // 'de',
-    // 'it',
-    // 'pt'
+    'de',
+    'es',
+    'fr',
+    'it',
+    'ko',
+    'nl',
+    'pl',
+    'pt',
+    'ro',
+    'ru',
+    'th',
+    'tr',
+    'uk',
+    'vi',
 ];
 
 const URLS = LANGUAGES.map((lang) => ({

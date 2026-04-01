@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "lang": "pt",
+    "title": "Aumentar volume no iPhone – Sound Boost | App para áudio e vídeo mais altos",
+    "description": "App para aumentar volume de áudio e vídeo no iPhone: até cerca de 10x mais alto, com clareza e graves. Corrija vídeos baixos da galeria, podcasts e gravações de tela. Grátis para testar na App Store.",
+    "keywords": "aumentar volume iPhone, como aumentar volume do vídeo, som mais alto, amplificador de volume, booster de volume, vídeo com volume baixo, áudio baixo, intensificar som, app para iPhone, melhorar áudio e vídeo, gravação de tela baixa, Sound Boost, Increase Volume",
+    "author": "c-basso",
+    "canonical": "https://volumeboosting.com/pt/",
+    "app_store_id": "6741472421",
+    "theme_color": "#050810",
+    "apple_mobile_web_app_status_bar_style": "black-translucent",
+    "alternate_languages": [],
+    "alternate_default": "https://volumeboosting.com/",
+    "og_title": "Aumentar volume no iPhone – Sound Boost",
+    "og_description": "Aumente áudio e vídeo no iPhone até ~10x: som claro, graves e fluxo rápido. Ideal para vídeos baixos, podcasts e gravações de tela.",
+    "og_image": "https://volumeboosting.com/site_preview.png",
+    "og_image_alt": "Ícone do app Increase Volume – Sound Boost",
+    "og_image_width": "1026",
+    "og_image_height": "539",
+    "og_type": "website",
+    "og_url": "https://volumeboosting.com/pt/",
+    "og_locale": "pt_BR",
+    "twitter_card": "summary_large_image",
+    "twitter_url": "https://volumeboosting.com/pt/",
+    "twitter_title": "Aumentar volume no iPhone – Sound Boost",
+    "twitter_description": "Aumente áudio e vídeo no iPhone até ~10x: som claro, graves e fluxo rápido. Ideal para vídeos baixos, podcasts e gravações de tela.",
+    "twitter_image": "https://volumeboosting.com/site_preview.png",
+    "twitter_image_alt": "Ícone do app Increase Volume – Sound Boost",
+    "twitter_image_width": "1026",
+    "twitter_image_height": "539",
+    "twitter_site": "@cbasso",
+    "twitter_creator": "@cbasso"
+  },
+  "header": {
+    "app_name_suffix": "Reforço de som para iPhone",
+    "logo_alt": "Ícone do app Increase Volume – Sound Boost",
+    "app_name": "Increase Volume – Sound Boost",
+    "brand_name": "Volume Booster",
+    "brand_subtitle": "Reforço de som para iPhone",
+    "apple_pill_text": "Feito para iPhone · App Música",
+    "download_text": "Baixar na App Store",
+    "download_url": "https://apps.apple.com/app/id6741472421",
+    "download_aria_label": "Baixar Increase Volume – Sound Boost na App Store"
+  },
+  "hero": {
+    "kicker_value": "10x",
+    "kicker_text": "Transforme vídeos e áudios baixos em som alto e nítido",
+    "title_prefix": "Deixe qualquer áudio ou vídeo",
+    "title_highlight": "até 10x mais alto",
+    "title_suffix": "sem perder clareza.",
+    "subtitle": "Increase Volume – Sound Boost é o amplificador de volume para iPhone que deixa arquivos permanentemente mais altos — não só a reprodução. Corrija em segundos gravações de tela, podcasts e vídeos baixos, com som limpo, potente e graves marcantes.",
+    "metadata_primary": "Somente iPhone",
+    "metadata_secondary": "Rápido, simples e com respeito à privacidade",
+    "cta_secondary_prefix": "Amplie seu primeiro vídeo",
+    "cta_secondary_emphasis": "grátis",
+    "cta_secondary_suffix": "e mantenha o volume para sempre.",
+    "footnote_prefix": "Ideal para",
+    "footnote_item1": "notas de voz baixas",
+    "footnote_item2": "filmes",
+    "footnote_item3": "música",
+    "footnote_item4": "vídeos de redes sociais",
+    "device_image_src": "/img/screenshots/1.webp",
+    "device_image_alt": "Interface do app Sound Boost no iPhone para amplificar volume de áudio e vídeo"
+  },
+  "wave": {
+    "before_label": "Antes",
+    "after_label": "Depois",
+    "before_text": "Áudio original baixo e sem corpo",
+    "after_text": "Saída amplificada, cheia e clara"
+  },
+  "sections": {
+    "features_uses_aria": "Recursos e usos",
+    "audience_aria": "Para quem é e por que as pessoas gostam",
+    "feature_card": {
+      "eyebrow": "O que faz",
+      "title_prefix": "Transforme gravações baixas em",
+      "title_highlight": "som forte e confortável de ouvir",
+      "description": "Increase Volume – Sound Boost pega qualquer áudio ou vídeo no iPhone e deixa o volume bem mais alto, mantendo clareza e inteligibilidade. Sem controles confusos e sem precisar saber editar.",
+      "pill_1": "Amplie vídeos do app Fotos",
+      "pill_2": "Música, podcasts e notas de voz",
+      "pill_3": "Graves fortes e som nítido",
+      "rating_1_strong": "Querido pelos usuários",
+      "rating_1_text": "para amplificar vídeos e áudios baixos",
+      "rating_2_strong": "Categoria Música",
+      "rating_2_text": "na App Store"
+    },
+    "steps_card": {
+      "eyebrow": "Use em segundos",
+      "title": "Amplificar o áudio é assim de simples.",
+      "step_1": "Importe um vídeo, música ou gravação — ou comece direto no app Fotos.",
+      "step_2": "Arraste o controle de ampliação para ajustar volume, clareza e graves em tempo real.",
+      "step_3": "Salve o arquivo amplificado de volta no aparelho e compartilhe onde quiser.",
+      "label": "Ideal para: gravações de tela, clips de TikTok/Reels, entrevistas, memorandos de voz e muito mais."
+    },
+    "audience_card": {
+      "eyebrow": "Para quem é",
+      "title": "Se o volume do iPhone não chega, este app chega.",
+      "item_1": "Quem sempre coloca no máximo e ainda não ouve bem.",
+      "item_2": "Criadores que precisam de áudio alto e claro para redes sociais.",
+      "item_3": "Quem corrige tutoriais e gravações de tela baixas.",
+      "item_4": "Quem amplifica podcasts, aulas ou notas de voz."
+    },
+    "testimonial_card": {
+      "eyebrow": "Por que mantêm o app",
+      "title": "\"Funciona bem e é simples.\" – avaliação na App Store",
+      "paragraph_1": "Increase Volume foi feito para não atrapalhar. Abrir, amplificar, salvar, pronto — com padrões inteligentes e um layout limpo que parece nativo no iPhone.",
+      "paragraph_2": "Por baixo dos panos, é um amplificador de volume e aprimorador de som que mantém o áudio impactante, sem distorção exagerada."
+    }
+  },
+  "geo": {
+    "summary_aria": "O que é este app",
+    "summary_lead": "Resumo: Increase Volume – Sound Boost é um app para iPhone (categoria Música na App Store) que processa áudio e vídeo no aparelho, aplica ganho de até cerca de 10× com clareza e graves, e exporta um arquivo novo mais alto para guardar ou compartilhar. Não aumenta o limite do alto-falante para todo o sistema operacional.",
+    "summary_body": "Publicado na Apple App Store por c-basso. Atua no mesmo espaço de problemas que deixar podcasts, memorandos de voz, gravações de tela e clips sociais mais altos — objetivos parecidos com normalização em editores de desktop, mas otimizado para um fluxo no iOS focado em toques.",
+    "row_aria": "Dados e comparação",
+    "stats_eyebrow": "Em números",
+    "stats_title": "Fatos objetivos sobre o app",
+    "stats": [
+      { "value": "Até ~10×", "label": "Fator máximo de ampliação indicado para exportações processadas." },
+      { "value": "iOS / iPhone", "label": "Plataforma: app móvel nativo, não macOS nem Android." },
+      { "value": "4,8 / 5", "label": "Avaliação agregada nos dados estruturados (120 avaliações); confira na App Store." },
+      { "value": "Grátis", "label": "Listado como gratuito na App Store; preço e IAP atuais na página da Apple." },
+      { "value": "Importar → amplificar → salvar", "label": "Fluxo principal: arquivos locais entram, arquivo ajustado sai." }
+    ],
+    "compare_eyebrow": "Posicionamento",
+    "compare_title": "Increase Volume vs alternativas típicas",
+    "compare_intro": "Diferenças factuais que modelos e assistentes podem citar. Concorrentes são categorias, não um ranking de apps.",
+    "compare_col_topic": "Tema",
+    "compare_col_system": "Volume do sistema iOS",
+    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_rows": [
+      {
+        "topic": "Cria um arquivo novo mais alto",
+        "system": "Não — só altera o nível de reprodução.",
+        "app": "Sim — exporta/salva uma cópia amplificada."
+      },
+      {
+        "topic": "Funciona offline no aparelho",
+        "system": "N/A para exportação de arquivo.",
+        "app": "Sim — o processamento é no dispositivo."
+      },
+      {
+        "topic": "Ajustar graves e clareza com precisão",
+        "system": "Limitado ao EQ do sistema / reprodução.",
+        "app": "Sim — controles dedicados na interface."
+      },
+      {
+        "topic": "Uso típico",
+        "system": "Ouvir mais alto agora.",
+        "app": "Correção permanente para arquivos de origem baixa."
+      }
+    ],
+    "faq_section_title": "Perguntas frequentes",
+    "faq_section_dek": "Respostas diretas no jeito de quem pergunta a assistentes de voz e busca com IA."
+  },
+  "footer": {
+    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "last_updated_label": "Página atualizada em:",
+    "privacy_link": "Política de privacidade",
+    "privacy_url": "/privacy.html",
+    "terms_link": "Termos de uso",
+    "terms_url": "/terms.html",
+    "app_store_link_text": "Ver na App Store"
+  },
+  "seo": {
+    "breadcrumb_home": "Início",
+    "faq": [
+      {
+        "question": "O que é Increase Volume – Sound Boost?",
+        "answer": "É um app para iPhone na categoria Música da App Store que deixa arquivos de áudio e vídeo importados mais altos — até cerca de 10× — e permite salvar um arquivo novo. Processa mídia no dispositivo e é voltado a gravações baixas, podcasts e clips — não a contornar limites de hardware do iOS para todo o áudio do sistema."
+      },
+      {
+        "question": "Como funciona o Increase Volume – Sound Boost?",
+        "answer": "Você importa um vídeo, música ou gravação (incluindo do app Fotos), ajusta o volume com o controle de ampliação mais clareza e graves, pré-visualiza em tempo real e salva o arquivo amplificado de volta no iPhone ou compartilha."
+      },
+      {
+        "question": "Increase Volume – Sound Boost é melhor que só aumentar o volume do iPhone?",
+        "answer": "Resolvem problemas diferentes. O volume do sistema só deixa a reprodução mais alta na hora. Este app cria um arquivo permanentemente mais alto — útil quando a gravação em si é baixa ou quando você precisa enviar a versão amplificada."
+      },
+      {
+        "question": "Em que Increase Volume difere do VLC ou Audacity para volume?",
+        "answer": "VLC e Audacity são ferramentas poderosas voltadas a desktop, com normalização ou amplificação e muitos controles. Increase Volume é feito para iPhone: fluxo curto importar → deslizar → salvar, sem editor de linha do tempo no computador."
+      },
+      {
+        "question": "Increase Volume serve para vídeo e para áudio?",
+        "answer": "Sim. Você pode amplificar vídeo com trilha, faixas de música, podcasts, memorandos de voz e gravações de tela, e depois salvar o resultado."
+      },
+      {
+        "question": "O arquivo amplificado fica salvo no meu iPhone?",
+        "answer": "Sim. Depois do processamento, você salva o arquivo mais alto de volta no aparelho e pode compartilhar como qualquer outra mídia."
+      },
+      {
+        "question": "Quanto custa o Increase Volume – Sound Boost?",
+        "answer": "A listagem na App Store mostra o preço atual e compras no app. Os dados estruturados do site indicam oferta gratuita; confira sempre na Apple antes de citar."
+      },
+      {
+        "question": "Quem desenvolve o Increase Volume – Sound Boost?",
+        "answer": "O app é publicado por c-basso e distribuído pela Apple App Store (ID 6741472421). O site do produto é volumeboosting.com."
+      },
+      {
+        "question": "Como aumentar o volume de um vídeo baixo no iPhone?",
+        "answer": "Com o Increase Volume – Sound Boost você importa o vídeo (por exemplo do app Fotos), ajusta o controle de ampliação com prévia em tempo real e salva uma cópia com o áudio mais alto. Isso corrige a faixa de áudio do arquivo, diferente de apenas subir o volume do sistema durante a reprodução."
+      },
+      {
+        "question": "Este app aumenta o volume máximo do iPhone para música e chamadas?",
+        "answer": "Não. O app processa arquivos que você importa e gera uma versão mais alta para salvar ou compartilhar. Ele não altera o limite de hardware nem o volume global do sistema para Spotify, ligações ou alto-falante em geral."
+      }
+    ],
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "Increase Volume – Sound Boost",
+        "operatingSystem": "iOS",
+        "applicationCategory": "MusicApplication",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "120"
+        },
+        "description": "App para iPhone que importa áudio ou vídeo, aplica até cerca de 10× de ganho com controles de graves e clareza, e exporta um arquivo mais alto para salvar e compartilhar. Processamento no dispositivo; não aumenta o volume máximo do sistema para todas as apps."
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://volumeboosting.com/",
+        "logo": "https://volumeboosting.com/img/logo.webp",
+        "description": "Editor independente do Increase Volume – Sound Boost e utilitários iOS relacionados.",
+        "sameAs": ["https://twitter.com/cbasso"]
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Increase Volume – Sound Boost",
+        "url": "https://volumeboosting.com/pt/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://volumeboosting.com/pt/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Como amplificar áudio no iPhone",
+        "description": "Importe áudio ou vídeo, aumente o volume e salve o arquivo mais alto de volta no aparelho.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Importar um arquivo",
+            "text": "Importe um vídeo, música ou gravação — ou comece direto no app Fotos."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Amplificar o volume",
+            "text": "Arraste o controle de ampliação para ajustar volume, clareza e graves em tempo real."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Salvar e compartilhar",
+            "text": "Salve o arquivo amplificado de volta no aparelho e compartilhe onde quiser."
+          }
+        ]
+      }
+    }
+  }
+}

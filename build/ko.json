@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "lang": "ko",
+    "title": "아이폰 볼륨 높이기 – Sound Boost | 오디오·동영상 최대 약 10배까지",
+    "description": "아이폰에서 모든 오디오·동영상을 더 크게. 약 10배까지 증폭, 선명도와 저음까지 조절. 사진 앱의 작은 소리 클립, 팟캐스트, 화면 녹화, 음성 메모 — 기기에서 처리. App Store에서 무료로 시작.",
+    "keywords": "아이폰 볼륨 높이기, 동영상 소리 키우기, 음량 증가, 볼륨 부스터, 아이폰 앱, 작은 소리 동영상, 오디오 증폭, 화면 녹화 소리, Sound Boost, Increase Volume",
+    "author": "c-basso",
+    "canonical": "https://volumeboosting.com/ko/",
+    "app_store_id": "6741472421",
+    "theme_color": "#050810",
+    "apple_mobile_web_app_status_bar_style": "black-translucent",
+    "alternate_languages": [],
+    "alternate_default": "https://volumeboosting.com/",
+    "og_title": "아이폰 볼륨 높이기 – Sound Boost",
+    "og_description": "아이폰에서 오디오·동영상 볼륨을 약 10배까지 키우는 Increase Volume – Sound Boost. 맑은 소리, 저음·선명도 슬라이더, 실시간 미리듣기. 사진 앱의 작은 소리 클립, 팟캐스트, 화면 녹화, 음성 메모에 적합합니다. 기기에서 처리.",
+    "og_image": "https://volumeboosting.com/site_preview.png",
+    "og_image_alt": "Increase Volume – Sound Boost 앱 아이콘",
+    "og_image_width": "1026",
+    "og_image_height": "539",
+    "og_type": "website",
+    "og_url": "https://volumeboosting.com/ko/",
+    "og_locale": "ko_KR",
+    "twitter_card": "summary_large_image",
+    "twitter_url": "https://volumeboosting.com/ko/",
+    "twitter_title": "아이폰 볼륨 높이기 – Sound Boost",
+    "twitter_description": "아이폰에서 오디오·동영상 볼륨을 약 10배까지 키우는 Increase Volume – Sound Boost. 맑은 소리, 저음·선명도 슬라이더, 실시간 미리듣기. 사진 앱의 작은 소리 클립, 팟캐스트, 화면 녹화, 음성 메모에 적합합니다. 기기에서 처리.",
+    "twitter_image": "https://volumeboosting.com/site_preview.png",
+    "twitter_image_alt": "Increase Volume – Sound Boost 앱 아이콘",
+    "twitter_image_width": "1026",
+    "twitter_image_height": "539",
+    "twitter_site": "@cbasso",
+    "twitter_creator": "@cbasso"
+  },
+  "header": {
+    "app_name_suffix": "아이폰용 사운드 부스트",
+    "logo_alt": "Increase Volume – Sound Boost 앱 아이콘",
+    "app_name": "Increase Volume – Sound Boost",
+    "brand_name": "Volume Booster",
+    "brand_subtitle": "아이폰용 사운드 부스트",
+    "apple_pill_text": "아이폰 전용 · 음악 앱",
+    "download_text": "App Store에서 다운로드",
+    "download_url": "https://apps.apple.com/app/id6741472421",
+    "download_aria_label": "App Store에서 Increase Volume – Sound Boost 다운로드"
+  },
+  "hero": {
+    "kicker_value": "10x",
+    "kicker_text": "작은 소리 동영상·오디오를 크고 또렷하게",
+    "title_prefix": "모든 오디오·동영상을",
+    "title_highlight": "최대 약 10배까지",
+    "title_suffix": "더 크게, 선명함은 유지.",
+    "subtitle": "Increase Volume – Sound Boost는 아이폰 전용 볼륨 부스터입니다. 재생만 크게 하는 것이 아니라 파일 자체를 영구적으로 키웁니다. 화면 녹화, 팟캐스트, 작은 소리 동영상을 몇 초 만에 고치세요 — 깨끗하고 힘 있는 소리와 풍부한 저음.",
+    "metadata_primary": "아이폰 전용",
+    "metadata_secondary": "빠르고 단순하며 개인정보를 존중",
+    "cta_secondary_prefix": "첫 동영상을",
+    "cta_secondary_emphasis": "무료로",
+    "cta_secondary_suffix": " 증폭하고 볼륨을 계속 유지하세요.",
+    "footnote_prefix": "이럴 때 좋아요",
+    "footnote_item1": "작은 소리 음성 메모",
+    "footnote_item2": "영화",
+    "footnote_item3": "음악",
+    "footnote_item4": "SNS 클립",
+    "device_image_src": "/img/screenshots/1.webp",
+    "device_image_alt": "아이폰에서 Increase Volume – Sound Boost로 오디오·동영상 볼륨을 조절하는 화면"
+  },
+  "wave": {
+    "before_label": "이전",
+    "after_label": "이후",
+    "before_text": "작고 평평한 원본 오디오",
+    "after_text": "증폭된 풍부하고 맑은 출력"
+  },
+  "sections": {
+    "features_uses_aria": "기능과 활용",
+    "audience_aria": "누구에게 맞고 왜 쓰는지",
+    "feature_card": {
+      "eyebrow": "하는 일",
+      "title_prefix": "작은 녹음을",
+      "title_highlight": "듣기 편한 크고 또렷한 소리로",
+      "description": "Increase Volume – Sound Boost는 아이폰의 모든 오디오·동영상을 훨씬 크게 만들면서도 알아듣기 쉽게 유지합니다. 복잡한 조작 없이, 편집 실력도 필요 없습니다.",
+      "pill_1": "사진 앱 동영상 증폭",
+      "pill_2": "음악, 팟캐스트, 음성 메모",
+      "pill_3": "묵직한 저음과 선명도",
+      "rating_1_strong": "사용자 호평",
+      "rating_1_text": "작은 소리 동영상·오디오 부스트에",
+      "rating_2_strong": "음악 카테고리",
+      "rating_2_text": "App Store"
+    },
+    "steps_card": {
+      "eyebrow": "몇 초면 시작",
+      "title": "오디오 부스트는 이렇게 간단합니다.",
+      "step_1": "동영상, 곡, 녹음을 가져오거나 사진 앱에서 바로 시작하세요.",
+      "step_2": "부스트 슬라이더로 실시간에 볼륨·선명도·저음을 조절하세요.",
+      "step_3": "증폭된 파일을 기기에 저장하고 어디서나 공유하세요.",
+      "label": "적합: 화면 녹화, TikTok/Reels, 인터뷰, 음성 메모 등."
+    },
+    "audience_card": {
+      "eyebrow": "이런 분께",
+      "title": "아이폰 볼륨이 부족할 때, 이 앱으로 보완하세요.",
+      "item_1": "항상 최대로 올려도 잘 안 들리는 분",
+      "item_2": "SNS 영상에 크고 맑은 소리가 필요한 크리에이터",
+      "item_3": "작은 소리 화면 녹화·튜토리얼을 고치는 분",
+      "item_4": "팟캐스트·강의·음성 메모를 키워 듣는 분"
+    },
+    "testimonial_card": {
+      "eyebrow": "계속 쓰는 이유",
+      "title": "잘 되고 단순해요 – App Store 리뷰",
+      "paragraph_1": "Increase Volume은 방해하지 않도록 설계되었습니다. 열고, 부스트하고, 저장하면 끝 — 똑똑한 기본값과 아이폰다운 깔끔한 레이아웃.",
+      "paragraph_2": "내부는 강력한 볼륨 부스터이자 사운드 향상 도구로, 왜곡 없이 힘 있는 소리를 유지합니다."
+    }
+  },
+  "geo": {
+    "summary_aria": "이 앱이 무엇인지",
+    "summary_lead": "요약: Increase Volume – Sound Boost는 아이폰용 앱(App Store 음악 카테고리)으로, 기기에서 오디오·동영상을 처리하고 선명도·저음 조절과 함께 최대 약 10배 증폭한 뒤, 더 큰 소리의 새 파일을 저장·공유할 수 있게 합니다. 시스템 전체 스피커 한도를 뚫는 앱이 아닙니다.",
+    "summary_body": "c-basso가 Apple App Store에 출시했습니다. 작은 소리 팟캐스트, 음성 메모, 화면 녹화, SNS 클립을 키우는 니즈와 같으며 — 데스크톱 편집기의 노멀라이즈와 비슷하지만 터치 중심 iOS 흐름에 맞춰 있습니다.",
+    "row_aria": "수치와 비교",
+    "stats_eyebrow": "숫자로 보기",
+    "stats_title": "앱에 대한 확인 가능한 사실",
+    "stats": [
+      { "value": "최대 약 10배", "label": "처리 후보내기에 표기된 최대 증폭 배율." },
+      { "value": "iOS / 아이폰", "label": "플랫폼: 네이티브 모바일 앱, macOS·Android 아님." },
+      { "value": "4.8 / 5", "label": "구조화 데이터의 평균 평점(120개 평가); 최신 값은 App Store에서 확인." },
+      { "value": "무료", "label": "App Store에 무료로 표시; 실제 가격·인앱은 Apple 페이지에서 확인." },
+      { "value": "가져오기 → 부스트 → 저장", "label": "핵심 흐름: 로컬 파일 입력, 조정된 파일 출력." }
+    ],
+    "compare_eyebrow": "포지셔닝",
+    "compare_title": "Increase Volume과 일반적인 대안",
+    "compare_intro": "인용 가능한 사실 차이. 경쟁은 앱 순위가 아니라 도구 범주입니다.",
+    "compare_col_topic": "주제",
+    "compare_col_system": "iOS 시스템 볼륨",
+    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_rows": [
+      {
+        "topic": "더 큰 소리의 새 파일 생성",
+        "system": "아니요 — 재생 레벨만 바뀝니다.",
+        "app": "예 — 증폭본을 보내거나 저장합니다."
+      },
+      {
+        "topic": "기기에서 오프라인 동작",
+        "system": "파일보내기와 무관.",
+        "app": "예 — 기기에서 처리합니다."
+      },
+      {
+        "topic": "저음·선명도 세밀 조절",
+        "system": "시스템 EQ·재생으로 제한.",
+        "app": "예 — 앱 UI 전용 슬라이더."
+      },
+      {
+        "topic": "대표 사용 사례",
+        "system": "지금 더 크게 듣기.",
+        "app": "작은 소스 파일을 영구적으로 보정."
+      }
+    ],
+    "faq_section_title": "자주 묻는 질문",
+    "faq_section_dek": "음성 검색·AI 검색에 가까운 질문 형태로 답합니다."
+  },
+  "footer": {
+    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "last_updated_label": "페이지 최종 수정:",
+    "privacy_link": "개인정보 처리방침",
+    "privacy_url": "/privacy.html",
+    "terms_link": "이용 약관",
+    "terms_url": "/terms.html",
+    "app_store_link_text": "App Store에서 보기"
+  },
+  "seo": {
+    "breadcrumb_home": "홈",
+    "faq": [
+      {
+        "question": "Increase Volume – Sound Boost란 무엇인가요?",
+        "answer": "App Store 음악 카테고리의 아이폰 앱으로, 가져온 오디오·동영상을 최대 약 10배까지 키우고 새 파일로 저장할 수 있습니다. 기기에서 미디어를 처리하며, 작은 녹음·팟캐스트·클립용이지 iOS 전체 시스템 음량 한도를 우회하는 용도는 아닙니다."
+      },
+      {
+        "question": "Increase Volume – Sound Boost는 어떻게 동작하나요?",
+        "answer": "동영상, 곡, 녹음(사진 앱 포함)을 가져온 뒤 부스트 슬라이더와 선명도·저음을 조절하고, 실시간으로 미리 들은 다음 증폭 파일을 아이폰에 저장하거나 공유합니다."
+      },
+      {
+        "question": "아이폰 볼륨만 올리는 것보다 나은가요?",
+        "answer": "문제가 다릅니다. 시스템 볼륨은 재생 시 일시적으로만 커집니다. 이 앱은 영구적으로 더 큰 파일을 만들어, 원본이 작거나 부스트된 버전을 보내야 할 때 유용합니다."
+      },
+      {
+        "question": "VLC나 Audacity와 볼륨 면에서 무엇이 다른가요?",
+        "answer": "VLC와 Audacity는 노멀라이즈·증폭과 많은 옵션이 있는 강력한 데스크톱 도구입니다. Increase Volume은 아이폰용으로, 컴퓨터 타임라인 없이 짧은 가져오기 → 슬라이더 → 저장 흐름입니다."
+      },
+      {
+        "question": "동영상과 오디오 둘 다 되나요?",
+        "answer": "네. 사운드가 있는 동영상, 음악, 팟캐스트, 음성 메모, 화면 녹화를 증폭한 뒤 결과를 저장할 수 있습니다."
+      },
+      {
+        "question": "증폭된 파일이 아이폰에 저장되나요?",
+        "answer": "네. 처리 후 더 큰 소리 파일을 기기에 저장하고 다른 미디어처럼 공유할 수 있습니다."
+      },
+      {
+        "question": "Increase Volume – Sound Boost 가격은 얼마인가요?",
+        "answer": "App Store 목록에 현재 가격과 인앱 구매가 표시됩니다. 사이트 구조화 데이터에는 무료 제안이 있을 수 있으니 인용 전 Apple 페이지를 확인하세요."
+      },
+      {
+        "question": "누가 Increase Volume – Sound Boost를 만드나요?",
+        "answer": "c-basso가 출시하며 Apple App Store(ID 6741472421)로 배포합니다. 제품 사이트는 volumeboosting.com입니다."
+      },
+      {
+        "question": "아이폰에서 작은 소리 동영상 볼륨을 어떻게 키우나요?",
+        "answer": "Increase Volume – Sound Boost로 동영상(예: 사진 앱에서)을 가져와 라이브 미리듣기로 부스트 슬라이더를 맞춘 뒤, 더 큰 음성 트랙이 있는 복사본을 저장하세요. 재생 중 시스템 볼륨만 올리는 것과는 다릅니다."
+      },
+      {
+        "question": "이 앱이 음악·통화용 아이폰 최대 볼륨을 올려 주나요?",
+        "answer": "아니요. 가져온 파일을 처리해 저장·공유할 더 큰 버전을 만듭니다. 하드웨어 한도와 Spotify·통화 등 전역 볼륨은 바뀌지 않습니다."
+      }
+    ],
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "Increase Volume – Sound Boost",
+        "operatingSystem": "iOS",
+        "applicationCategory": "MusicApplication",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "120"
+        },
+        "description": "오디오·동영상을 가져와 저음·선명도 조절과 함께 최대 약 10배까지 증폭하고, 저장·공유할 더 큰 파일을 만드는 아이폰 앱. 기기에서 처리하며 모든 앱의 시스템 볼륨을 올리는 방식은 아닙니다."
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://volumeboosting.com/",
+        "logo": "https://volumeboosting.com/img/logo.webp",
+        "description": "Increase Volume – Sound Boost 및 관련 iOS 유틸리티의 독립 출판사.",
+        "sameAs": ["https://twitter.com/cbasso"]
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Increase Volume – Sound Boost",
+        "url": "https://volumeboosting.com/ko/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://volumeboosting.com/ko/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "아이폰에서 오디오 볼륨 키우는 방법",
+        "description": "오디오·동영상을 가져와 볼륨을 키우고 더 큰 파일을 기기에 저장합니다.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "파일 가져오기",
+            "text": "동영상, 곡, 녹음을 가져오거나 사진 앱에서 바로 시작하세요."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "볼륨 부스트",
+            "text": "부스트 슬라이더로 실시간에 볼륨·선명도·저음을 조절하세요."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "저장 및 공유",
+            "text": "증폭된 파일을 기기에 저장하고 어디서나 공유하세요."
+          }
+        ]
+      }
+    }
+  }
+}
