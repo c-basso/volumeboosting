@@ -25,6 +25,7 @@ const EXPECTED_JSON_LD_TYPES = [
     'WebSite',
     'HowTo',
     'FAQPage',
+    'WebPage',
     'BreadcrumbList'
 ];
 

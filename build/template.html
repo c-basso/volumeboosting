@@ -20,6 +20,12 @@
     <meta name="googlebot" content="index, follow" />
     <meta name="bingbot" content="index, follow" />
     <link rel="canonical" href="{{meta.canonical}}" />
+    <link
+      rel="alternate"
+      type="text/plain"
+      href="/llms.txt"
+      title="LLM / AI summary of this site"
+    />
 
     <!-- Alternate Language Links -->
     {{#each meta.alternate_languages as |lang|}}
@@ -41,7 +47,7 @@
     <meta property="og:image:alt" content="{{meta.og_image_alt}}" />
     <meta property="og:image:width" content="{{meta.og_image_width}}" />
     <meta property="og:image:height" content="{{meta.og_image_height}}" />
-    <meta property="og:logo" content="https://bluetoothfinderapp.com/img/logo.webp" />
+    <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
     <meta property="og:type" content="{{meta.og_type}}" />
     <meta property="og:url" content="{{meta.og_url}}" />
     <meta property="og:site_name" content="{{header.app_name}}" />
@@ -247,6 +253,52 @@
           </div>
         </section>
 
+        <aside class="geo-summary" aria-label="{{geo.summary_aria}}">
+          <p class="geo-summary-lead">{{geo.summary_lead}}</p>
+          <p class="geo-summary-body">{{geo.summary_body}}</p>
+        </aside>
+
+        <section class="sections geo-geo-row" aria-label="{{geo.row_aria}}">
+          <article class="card">
+            <h2>{{geo.stats_eyebrow}}</h2>
+            <div class="card-title">{{geo.stats_title}}</div>
+            <ul class="geo-stats-list">
+              {{#each geo.stats as |stat|}}
+              <li>
+                <span class="geo-stat-value">{{stat.value}}</span>
+                <span class="geo-stat-label">{{stat.label}}</span>
+              </li>
+              {{/each}}
+            </ul>
+          </article>
+
+          <article class="card geo-compare-card">
+            <h2>{{geo.compare_eyebrow}}</h2>
+            <div class="card-title">{{geo.compare_title}}</div>
+            <p class="geo-compare-intro">{{geo.compare_intro}}</p>
+            <div class="geo-table-wrap">
+              <table class="geo-compare-table">
+                <thead>
+                  <tr>
+                    <th scope="col">{{geo.compare_col_topic}}</th>
+                    <th scope="col">{{geo.compare_col_system}}</th>
+                    <th scope="col">{{geo.compare_col_app}}</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {{#each geo.compare_rows as |row|}}
+                  <tr>
+                    <th scope="row">{{row.topic}}</th>
+                    <td>{{row.system}}</td>
+                    <td>{{row.app}}</td>
+                  </tr>
+                  {{/each}}
+                </tbody>
+              </table>
+            </div>
+          </article>
+        </section>
+
         <section class="sections" aria-label="{{sections.features_uses_aria}}">
           <article class="card">
             <h2>{{sections.feature_card.eyebrow}}</h2>
@@ -327,10 +379,34 @@
             </p>
           </article>
         </section>
+
+        <section
+          class="sections geo-faq-section"
+          aria-labelledby="geo-faq-heading"
+        >
+          <article class="card geo-faq-card">
+            <h2 id="geo-faq-heading">{{geo.faq_section_title}}</h2>
+            <p class="geo-faq-dek">{{geo.faq_section_dek}}</p>
+            <div class="geo-faq-list">
+              {{#each seo.faq as |faq|}}
+              <div class="geo-faq-item">
+                <h3 class="geo-faq-q">{{faq.question}}</h3>
+                <p class="geo-faq-a">{{faq.answer}}</p>
+              </div>
+              {{/each}}
+            </div>
+          </article>
+        </section>
       </main>
 
       <footer>
-        <div>{{footer.copyright}}</div>
+        <div>
+          <div>{{footer.copyright}}</div>
+          <p class="footer-updated">
+            {{footer.last_updated_label}}
+            <time datetime="{{footer.last_updated_iso}}">{{footer.last_updated_iso}}</time>
+          </p>
+        </div>
         <div>
           <a href="{{footer.privacy_url}}">{{footer.privacy_link}}</a>
           &nbsp;·&nbsp;
@@ -361,6 +437,9 @@
     </script>
     <script type="application/ld+json">
       {{seo.structured_data.faqpage|json}}
+    </script>
+    <script type="application/ld+json">
+      {{seo.structured_data.webpage|json}}
     </script>
     <!-- BreadcrumbList Schema -->
     <script type="application/ld+json">

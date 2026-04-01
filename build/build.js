@@ -41,6 +41,21 @@ const {
             data.meta.version = buildTimestamp;
             data.meta.alternate_default = SITE_URL;
             data.meta.alternate_languages = URLS;
+
+            const isoDate = new Date().toISOString().slice(0, 10);
+            if (!data.footer) data.footer = {};
+            data.footer.last_updated_iso = isoDate;
+            if (data.seo?.structured_data) {
+                data.seo.structured_data.webpage = {
+                    '@context': 'https://schema.org',
+                    '@type': 'WebPage',
+                    name: data.meta?.title,
+                    url: data.meta?.canonical,
+                    description: data.meta?.description,
+                    dateModified: isoDate,
+                    inLanguage: data.meta?.lang
+                };
+            }
             
             // Replace {year} placeholder in footer.copyright with current year
             const currentYear = new Date().getFullYear();
