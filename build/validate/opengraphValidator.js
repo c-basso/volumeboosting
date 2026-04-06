@@ -154,7 +154,16 @@ function validateImageSize(ogImageUrl, { file, lang }) {
     imagePath = path.join(projectRoot, ogImageUrl);
   }
 
-  if (!fs.existsSync(imagePath)) {
+  // Locale-specific URLs (e.g. de/site_preview.png) may share one asset at repo root
+  let statPath = imagePath;
+  if (!fs.existsSync(statPath) && path.basename(statPath) === 'site_preview.png') {
+    const rootFallback = path.join(projectRoot, 'site_preview.png');
+    if (fs.existsSync(rootFallback)) {
+      statPath = rootFallback;
+    }
+  }
+
+  if (!fs.existsSync(statPath)) {
     return {
       ok: false,
       error: `og:image file not found: ${path.relative(projectRoot, imagePath)}`,
@@ -164,7 +173,7 @@ function validateImageSize(ogImageUrl, { file, lang }) {
     };
   }
 
-  const stats = fs.statSync(imagePath);
+  const stats = fs.statSync(statPath);
   const sizeKB = (stats.size / 1024).toFixed(2);
   const sizeBytes = stats.size;
 
