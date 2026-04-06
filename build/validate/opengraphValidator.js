@@ -28,18 +28,20 @@ const OG_DESCRIPTION_MAX_LENGTH = 160;
 
 function extractMetaTags(html) {
   const metaTags = {};
-  // Match meta tags like:
-  // <meta property="og:description" content="Extraire le son d'une vidéo...">
-  // This regex:
-  //  - captures the meta property/name in group 1
-  //  - captures the quote character used for the content attribute in group 2
-  //  - captures the full content value (allowing the opposite quote inside) in group 3
-  const re = /<meta\s+(?:property|name)=["']([^"']+)["']\s+content=(["'])([\s\S]*?)\2/g;
+  // Parse whole <meta ...> tags so apostrophes inside content="..." (e.g. French "jusqu'à") are not mistaken for delimiters.
+  const tagRe = /<meta\b[^>]*>/gi;
   let m;
-  while ((m = re.exec(html))) {
-    const property = m[1];
-    const content = m[3];
-    metaTags[property] = content;
+  while ((m = tagRe.exec(html))) {
+    const tag = m[0];
+    const propMatch = tag.match(/\b(?:property|name)=(["'])([^"']*)\1/i);
+    if (!propMatch) continue;
+    const property = propMatch[2];
+    const dq = tag.match(/\bcontent="([^"]*)"/i);
+    const sq = tag.match(/\bcontent='([^']*)'/i);
+    const content = dq ? dq[1] : sq ? sq[1] : null;
+    if (content !== null) {
+      metaTags[property] = content;
+    }
   }
   return metaTags;
 }

@@ -1,31 +1,40 @@
-const puppeteer = require('puppeteer');
+const { chromium } = require('playwright');
 
-const wait = (ms) => {
-    return new Promise((resolve) => {
-        setTimeout(() => {
-            resolve();
-        }, ms);
-    });
-};
+const wait = (ms) =>
+  new Promise((resolve) => {
+    setTimeout(resolve, ms);
+  });
 
+/** @param {ScreenshotOptions} options */
 const takeHtmlPageScreenshot = async (options) => {
-    const {htmlPath, url, screenshotPath, width, height} = options;
+  const { htmlPath, url, screenshotPath, width, height } = options;
 
-    const browser = await puppeteer.launch();
+  console.log();
+  console.log('[takeHtmlPageScreenshot] Starting screenshot with options:', options);
 
-    try {
-        const page = await browser.newPage();
-        await page.setViewport({width, height});
-        await page.goto(url ? url : 'file://' + htmlPath, { waitUntil: 'networkidle0' });
-        await wait(100);
-        await page.screenshot({path: screenshotPath});
-    } catch (e) {
-        console.log(e);
-    }
+  const browser = await chromium.launch();
 
-    await browser.close();
+  try {
+    const page = await browser.newPage();
+    await page.setViewportSize({ width, height });
+
+    const targetUrl = url ? url : `file://${htmlPath}`;
+    console.log('[takeHtmlPageScreenshot] Navigating to:', targetUrl);
+
+    page.setDefaultNavigationTimeout(60000);
+
+    await page.goto(targetUrl, { waitUntil: 'load' });
+    console.log('[takeHtmlPageScreenshot] Page loaded (load event fired), waiting before screenshot...');
+
+    await wait(100);
+    await page.screenshot({ path: screenshotPath });
+    console.log('[takeHtmlPageScreenshot] Screenshot saved to:', screenshotPath);
+  } catch (e) {
+    console.error('[takeHtmlPageScreenshot] Error while taking screenshot:', e);
+  }
+
+  await browser.close();
+  console.log('[takeHtmlPageScreenshot] Browser closed, done.');
 };
 
-module.exports = {
-    takeHtmlPageScreenshot
-};
+module.exports = { takeHtmlPageScreenshot };
