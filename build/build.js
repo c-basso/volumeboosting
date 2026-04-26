@@ -114,34 +114,67 @@ function absoluteSiteUrl(maybe) {
 
 function writeLlmsFile(defaultLocaleData) {
     const appName = defaultLocaleData.header?.app_name || DEFAULT_SITE_NAME;
-    const version = defaultLocaleData.seo?.structured_data?.software_application?.softwareVersion;
+    const description = stripHtml(defaultLocaleData.meta?.description) || 'iPhone app to boost audio and video volume.';
+    const lastUpdated = BUILD_DATE_ISO;
+    const privacyUrl = absoluteSiteUrl(defaultLocaleData.footer?.privacy_url);
+    const termsUrl = absoluteSiteUrl(defaultLocaleData.footer?.terms_url);
+    const localesCount = Math.max(0, LANGUAGES.length - 1);
 
     const lines = [
         `# ${appName}`,
         '',
-        `> ${stripHtml(defaultLocaleData.meta?.description) || 'iPhone app to boost audio and video volume.'}`,
+        `> ${description}`,
+        '',
+        '## Entity snapshot',
+        `- Name: ${appName}`,
+        '- Category: iOS utility app (audio and video loudness enhancement)',
+        '- Primary use case: raise volume on quiet local media files on iPhone',
+        '- Core workflow: import -> boost -> preview -> save',
+        `- App Store listing: ${APP_STORE_URL}`,
+        `- App Store id: ${APP_ID}`,
+        '',
+        '## By the numbers',
+        '- Maximum loudness claim: up to 10x boost',
+        `- Website locales: ${localesCount} language-specific pages`,
+        '- Primary platform: iPhone (iOS)',
+        `- Public website: ${SITE_URL}`,
+        `- Last website build date: ${lastUpdated}`,
         '',
         '## Main sections',
-        `- [Home](${SITE_URL}): App overview, use cases, and download`,
-        `- [FAQ](${SITE_URL}#geo-faq-heading): Common questions and direct answers`,
-        `- [Localized pages](${SITE_URL}): Language-specific landing pages`,
-        '',
-        '## Key facts',
-        '- Product type: iPhone app for boosting quiet audio/video files',
-        `- App Store: ${APP_STORE_URL} (id ${APP_ID})`,
-        '- Max boost claim: up to ~10x',
-        '- Core flow: import -> boost -> save',
-        `- Supported page languages: ${LANGUAGES.length}`,
-        `- Software version: ${version || '—'}`,
-        `- Last build date: ${BUILD_DATE_ISO}`,
+        `- [Home](${SITE_URL}): Product overview, use cases, screenshots, and App Store link`,
+        `- [FAQ](${SITE_URL}#geo-faq-heading): Direct answers to common product questions`,
+        `- [Localized pages](${SITE_URL}): Alternate language landing pages`,
+        `- [Privacy policy](${privacyUrl}): Data and privacy details`,
+        `- [Terms of service](${termsUrl}): Legal terms`,
         '',
         '## Language pages',
         ...ALTERNATE_LANGUAGE_LINKS.map(({ hreflang, url }) => `- [${hreflang}](${url})`),
         '',
+        '## LLM-ready Q&A facts',
+        `### What is ${appName}?`,
+        `${appName} is an iPhone app that increases loudness for quiet audio and video files and then exports a louder version.`,
+        '',
+        `### How does ${appName} work?`,
+        'The app workflow is import media, apply loudness enhancement, preview the result, and save the boosted output.',
+        '',
+        '### How much can it increase loudness?',
+        'The product claim is up to 10x volume boost, depending on source material quality and headroom.',
+        '',
+        '### What media types is it used for?',
+        'It is used for music tracks, podcasts, voice notes, and video clips that are difficult to hear at normal device volume.',
+        '',
+        '### Where can users download it?',
+        `Users can download it from the Apple App Store at ${APP_STORE_URL}.`,
+        '',
+        '### Is this an Android app?',
+        'No public Android listing is referenced on the website. The published listing is for iPhone on the Apple App Store.',
+        '',
         '## Contact and policies',
         `- Website: ${SITE_URL}`,
-        `- Privacy: ${absoluteSiteUrl(defaultLocaleData.footer?.privacy_url)}`,
-        `- Terms: ${absoluteSiteUrl(defaultLocaleData.footer?.terms_url)}`
+        `- Privacy: ${privacyUrl}`,
+        `- Terms: ${termsUrl}`,
+        '',
+        `Last updated: ${lastUpdated}`
     ];
 
     fs.writeFileSync(LLMS_PATH, `${lines.join('\n')}\n`, 'utf8');
