@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "nl",
-    "title": "Volume verhogen op iPhone – Sound Boost | Audio en video tot 10× luider",
-    "description": "Maak elk geluid of elke video luider op je iPhone: tot ongeveer 10× versterking met meer helderheid en bas. Stille clips uit Foto's, podcasts, schermopnames en spraakmemo's — verwerking op het apparaat. Gratis proberen in de App Store.",
+    "title": "Volume verhogen op iPhone – Sound Boost | Audio en video tot ~10× luider",
+    "description": "Maak elk geluid of elke video luider op je iPhone: tot ongeveer ~10× versterking met betere helderheid en bas. Stille clips in de Foto's-app, podcasts, schermopnames en spraakmemo's — verwerking op je apparaat. Gratis proberen in de App Store.",
     "keywords": "volume verhogen iPhone, video harder maken, stille video, volume booster, geluid versterken, iPhone app, audio luider, schermopname geluid, Sound Boost, Increase Volume",
     "author": "c-basso",
     "canonical": "https://volumeboosting.com/nl/",
@@ -12,7 +12,7 @@
     "alternate_languages": [],
     "alternate_default": "https://volumeboosting.com/",
     "og_title": "Volume verhogen op iPhone – Sound Boost",
-    "og_description": "Audio en video op iPhone tot ~10× luider — Increase Volume – Sound Boost. Heldere klank en bas; voor stille clips en podcasts. Lokaal verwerkt.",
+    "og_description": "Audio en video op iPhone tot ~10× luider — Increase Volume – Sound Boost. Heldere klank en bas; voor stille clips en podcasts. Verwerking op je apparaat.",
     "og_image": "https://volumeboosting.com/nl/site_preview.png",
     "og_image_alt": "App-pictogram van Increase Volume – Sound Boost",
     "og_image_width": "1026",
@@ -23,7 +23,7 @@
     "twitter_card": "summary_large_image",
     "twitter_url": "https://volumeboosting.com/nl/",
     "twitter_title": "Volume verhogen op iPhone – Sound Boost",
-    "twitter_description": "Audio en video op iPhone tot ~10× luider — Increase Volume – Sound Boost. Heldere klank en bas; voor stille clips en podcasts. Lokaal verwerkt.",
+    "twitter_description": "Audio en video op iPhone tot ~10× luider — Increase Volume – Sound Boost. Heldere klank en bas; voor stille clips en podcasts. Verwerking op je apparaat.",
     "twitter_image": "https://volumeboosting.com/nl/site_preview.png",
     "twitter_image_alt": "App-pictogram van Increase Volume – Sound Boost",
     "twitter_image_width": "1026",
@@ -37,7 +37,7 @@
     "app_name": "Increase Volume – Sound Boost",
     "brand_name": "Volume Booster",
     "brand_subtitle": "Geluidsboost voor iPhone",
-    "apple_pill_text": "Voor iPhone · app Muziek",
+    "apple_pill_text": "Voor iPhone · categorie «Muziek» in de App Store",
     "download_text": "Download in de App Store",
     "download_aria_label": "Download Increase Volume – Sound Boost in de App Store"
   },
@@ -45,14 +45,14 @@
     "kicker_value": "10x",
     "kicker_text": "Maak stille video's en audio luid, helder en verstaanbaar",
     "title_prefix": "Maak elk geluid of elke video",
-    "title_highlight": "tot 10× luider",
-    "title_suffix": "zonder helderheid te verliezen.",
+    "title_highlight": "tot ~10× luider",
+    "title_suffix": " zonder helderheid te verliezen.",
     "subtitle": "Increase Volume – Sound Boost is jouw volume-booster voor de iPhone: het maakt een blijvend luider bestand — niet alleen tijdelijk harder afspelen. Herstel in seconden stille schermopnames, podcasts en video's met schoon, krachtig geluid en volle bas.",
     "metadata_primary": "Alleen iPhone",
     "metadata_secondary": "Snel, eenvoudig en privacy-vriendelijk",
     "cta_secondary_prefix": "Versterk je eerste video",
     "cta_secondary_emphasis": "gratis",
-    "cta_secondary_suffix": " en houd het volume voor altijd.",
+    "cta_secondary_suffix": " en houd dit volume voor altijd vast.",
     "footnote_prefix": "Ideaal voor",
     "footnote_item1": "stille spraakmemo's",
     "footnote_item2": "films",
@@ -66,7 +66,7 @@
     "before_label": "Voor",
     "after_label": "Na",
     "before_text": "Stille, vlakke originele audio",
-    "after_text": "Versterkte, volle en heldere output"
+    "after_text": "Versterkte, volle en heldere uitvoer"
   },
   "sections": {
     "features_uses_aria": "Functies en toepassingen",
@@ -81,7 +81,7 @@
       "pill_3": "Krachtige bas en helderheid",
       "rating_1_strong": "Gewaardeerd door gebruikers",
       "rating_1_text": "voor het versterken van stille video's en audio",
-      "rating_2_strong": "Categorie Muziek",
+      "rating_2_strong": "Categorie «Muziek»",
       "rating_2_text": "in de App Store"
     },
     "steps_card": {
@@ -96,20 +96,20 @@
       "eyebrow": "Voor wie",
       "title": "Als het iPhone-volume niet genoeg is, is deze app genoeg.",
       "item_1": "Mensen die altijd op maximaal staan maar nog steeds weinig horen.",
-      "item_2": "Makers die luid, helder audio nodig hebben voor social video.",
+      "item_2": "Makers die luid, helder audio nodig hebben voor socialmedia-video's.",
       "item_3": "Iedereen die stille schermopnames en tutorials verbetert.",
-      "item_4": "Luisteraars die podcasts, colleges of spraaknotities versterken."
+      "item_4": "Mensen die podcasts, colleges of spraaknotities luider willen horen."
     },
     "testimonial_card": {
       "eyebrow": "Waarom mensen de app houden",
-      "title": "„Werkt goed en is eenvoudig.“ – App Store-recensie",
+      "title": "\"Werkt goed en is eenvoudig.\" – App Store-recensie",
       "paragraph_1": "Increase Volume is gemaakt om niet in de weg te zitten: openen, versterken, opslaan — klaar. Slimme standaardwaarden en een rustige lay-out die bij de iPhone past.",
       "paragraph_2": "Onder de motorkap een krachtige volume-booster en geluidsverbetering: punchy geluid zonder overdreven vervorming."
     }
   },
   "geo": {
     "summary_aria": "Wat deze app is",
-    "summary_lead": "Samenvatting: Increase Volume – Sound Boost is een iPhone-app (categorie Muziek in de App Store) die audio- en videobestanden op het apparaat verwerkt, tot ongeveer 10× versterking toepast met regelaars voor helderheid en bas, en een nieuw, luider bestand opslaat om te bewaren of te delen. Het is geen tool die systeembreed de luidsprekerlimiet doorbreekt.",
+    "summary_lead": "Samenvatting: Increase Volume – Sound Boost is een iPhone-app (categorie «Muziek» in de App Store) die audio- en videobestanden op het apparaat verwerkt, tot ongeveer ~10× versterking toepast met regelaars voor helderheid en bas, en een nieuw, luider bestand opslaat om te bewaren of te delen. Het is geen hulpmiddel dat systeembreed de luidsprekerlimiet doorbreekt.",
     "summary_body": "Gepubliceerd in de Apple App Store door c-basso. Lost dezelfde problemen op als het versterken van zachte podcasts, spraakmemo’s, schermopnames en social clips — vergelijkbaar met normalisatie in desktop-editors, maar geoptimaliseerd voor een korte, tik-vriendelijke iOS-flow.",
     "row_aria": "Feiten en vergelijking",
     "stats_eyebrow": "In cijfers",
@@ -133,12 +133,12 @@
       },
       {
         "value": "Importeren → boosten → opslaan",
-        "label": "Kernworkflow: lokale bestanden erin, aangepast bestand eruit."
+        "label": "Kernworkflow: lokale bestanden erin, verwerkt bestand eruit."
       }
     ],
     "compare_eyebrow": "Positionering",
     "compare_title": "Increase Volume versus gangbare alternatieven",
-    "compare_intro": "Objectieve verschillen die je kunt citeren. ‘Concurrenten’ zijn categorieën, geen app-ranglijst.",
+    "compare_intro": "Objectieve verschillen die modellen en assistenten kunnen citeren. ‘Concurrenten’ zijn categorieën, geen app-ranglijst.",
     "compare_col_topic": "Onderwerp",
     "compare_col_system": "iOS-systeemvolume",
     "compare_col_app": "Increase Volume – Sound Boost",
@@ -150,7 +150,7 @@
       },
       {
         "topic": "Werkt offline op het apparaat",
-        "system": "N.v.t. voor bestandsexport.",
+        "system": "Niet van toepassing op bestandsexport.",
         "app": "Ja — verwerking op het apparaat."
       },
       {
@@ -161,14 +161,14 @@
       {
         "topic": "Typisch gebruik",
         "system": "Nu harder luisteren.",
-        "app": "Blijvende fix voor zachte bronbestanden."
+        "app": "Blijvende verbetering van zachte bronbestanden."
       }
     ],
     "faq_section_title": "Veelgestelde vragen"
   },
   "footer": {
     "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
-    "last_updated_label": "Pagina bijgewerkt op:",
+    "last_updated_label": "Laatst bijgewerkt:",
     "privacy_link": "Privacybeleid",
     "privacy_url": "/privacy.html",
     "terms_link": "Gebruiksvoorwaarden",
@@ -180,11 +180,11 @@
     "faq": [
       {
         "question": "Wat is Increase Volume – Sound Boost?",
-        "answer": "Een iPhone-app in de categorie Muziek van de App Store die geïmporteerde audio- en videobestanden luider maakt — tot ongeveer 10× — en een nieuw bestand laat opslaan. Media worden op het apparaat verwerkt; bedoeld voor zachte opnames, podcasts en clips, niet om iOS-hardwarelimieten voor alle systeemaudio te omzeilen."
+        "answer": "Een iPhone-app in de categorie «Muziek» van de App Store die geïmporteerde audio- en videobestanden luider maakt — tot ongeveer ~10× — en een nieuw bestand laat opslaan. Media worden op het apparaat verwerkt; bedoeld voor zachte opnames, podcasts en clips, niet om iOS-hardwarelimieten voor alle systeemaudio te omzeilen."
       },
       {
         "question": "Hoe werkt Increase Volume – Sound Boost?",
-        "answer": "Je importeert een video, nummer of opname (ook uit Foto's), stelt het volume in met de boost-schuifregelaar plus helderheid en bas, luistert realtime naar de preview en slaat het versterkte bestand op je iPhone op of deelt het."
+        "answer": "Je importeert een video, nummer of opname (ook uit de Foto's-app), stelt het volume in met de boost-schuifregelaar, plus helderheid en bas, luistert in realtime naar de preview en slaat het versterkte bestand op je iPhone op of deelt het."
       },
       {
         "question": "Is Increase Volume beter dan alleen het iPhone-volume hoger zetten?",
@@ -236,7 +236,7 @@
           "ratingValue": "4.8",
           "ratingCount": "120"
         },
-        "description": "iPhone-app die audio of video importeert, tot ongeveer 10× versterkt met bas- en helderheidsregelaars, en een luider bestand exporteert om op te slaan en te delen. Verwerking op het apparaat; verhoogt niet het systeemvolume voor alle apps."
+        "description": "iPhone-app die audio of video importeert, met bas- en helderheidsregelaars tot ongeveer ~10× versterkt, en een luider bestand exporteert om op te slaan en te delen. Verwerking op het apparaat; verhoogt niet het systeemvolume voor alle apps."
       },
       "organization": {
         "@context": "https://schema.org",
