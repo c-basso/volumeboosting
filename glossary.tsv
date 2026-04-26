@@ -1,16 +1,16 @@
-key	en-US	vi-VN	uk-UA	tr-TR	th-TH	ro-RO	pt-BR	notes	apple_or_web_verified
-locale_voice	Consumer app neutral tone	Trung tính, thân thiện; ưu tiên cấu trúc không dùng đại từ xưng hô	Нейтральний B2C; звертання «ви»	Samimi-örtük «siz»; B2C pazarlama tonu	โทน B2C เป็นกันเอง ใช้ «คุณ» สม่ำเสมอ	Ton B2C, „tu” (informal) consistent în UI/FAQ	Tom B2C em «você», consistente (pt-BR)	Consistent voice across UI and FAQ	N/A
-settings	Settings	Cài đặt	Налаштування	Ayarlar	การตั้งค่า	Setări	Ajustes	System place in iOS	yes
-photos_app	Photos app	ứng dụng Ảnh	додаток «Фото»	Fotoğraflar uygulaması	แอปรูปภาพ	Aplicația Poze	app Fotos	Apple Photos app name in BR copy	yes
-app_store	App Store	App Store	App Store	App Store	App Store	App Store	App Store	Do not translate	yes
-music_category	Music category	danh mục Nhạc	категорія «Музика»	«Müzik» kategorisi	หมวดเพลงใน App Store	categoria „Muzică”	categoria «Música»	App Store category phrasing	yes
-privacy_policy	Privacy Policy	Chính sách quyền riêng tư	Політика конфіденційності	Gizlilik politikası	นโยบายความเป็นส่วนตัว	Politica de confidențialitate	Política de privacidade	Footer link	yes
-terms_of_use	Terms of Use	Điều khoản sử dụng	Умови використання	Kullanım koşulları	ข้อกำหนดการใช้งาน	Termeni de utilizare	Termos de uso	Footer link	yes
-download_cta	Download on the App Store	Tải trên App Store	Завантажити в App Store	App Store'dan indir	ดาวน์โหลดบน App Store	Descarcă din App Store	Baixar na App Store	Main CTA	yes
-boost_verb	boost	tăng cường	підсилення / підсилити	güçlendirmek	บูส / เพิ่มความดัง	amplificare / a amplifica	amplificar / boost (marca)	Slider/action; evitar «ampliação» (tamanho) para ganho de áudio	N/A
-loudness_noun	loudness	độ to / mức âm lượng	гучність	ses yüksekliği / daha yüksek ses	ความดัง / ระดับเสียง	volum / nivel de volum	volume / nível de volume	Audio level concept	N/A
-clarity	clarity	độ rõ	чіткість	netlik	ความชัด	claritate	clareza	Marketing + audio clarity	N/A
-bass	bass	bass	бас	bas	เบส	bas	graves	Loanword vs graves in BR marketing	N/A
-on_device	on-device	trên thiết bị	на пристрої	cihazda	บนเครื่อง	pe dispozitiv	no dispositivo / no aparelho	Local processing	N/A
-save_share	save and share	lưu và chia sẻ	зберегти й поширити	kaydetmek ve paylaşmak	บันทึกและแชร์	a salva și a partaja	salvar e compartilhar	Core flow phrase	N/A
-before_after	Before / After	Trước / Sau	До / Після	Önce / Sonra	ก่อน / หลัง	Înainte / După	Antes / Depois	Waveform labels	N/A
+key	en-US	vi-VN	uk-UA	tr-TR	th-TH	ro-RO	pt-BR	pl-PL	notes	apple_or_web_verified
+locale_voice	Consumer app neutral tone	Trung tính, thân thiện; ưu tiên cấu trúc không dùng đại từ xưng hô	Нейтральний B2C; звертання «ви»	Samimi-örtük «siz»; B2C pazarlama tonu	โทน B2C เป็นกันเอง ใช้ «คุณ» สม่ำเสมอ	Ton B2C, „tu” (informal) consistent în UI/FAQ	Tom B2C em «você», consistente (pt-BR)	Neutralny B2C, forma „Ty”/czas teraźniejszy	Consistent voice across UI and FAQ	N/A
+settings	Settings	Cài đặt	Налаштування	Ayarlar	การตั้งค่า	Setări	Ajustes	Ustawienia	System place in iOS	yes
+photos_app	Photos app	ứng dụng Ảnh	додаток «Фото»	Fotoğraflar uygulaması	แอปรูปภาพ	Aplicația Poze	app Fotos	aplikacja Zdjęcia	Apple Photos app name in PL copy	yes
+app_store	App Store	App Store	App Store	App Store	App Store	App Store	App Store	App Store	Do not translate	yes
+music_category	Music category	danh mục Nhạc	категорія «Музика»	«Müzik» kategorisi	หมวดเพลงใน App Store	categoria „Muzică”	categoria «Música»	kategoria «Muzyka»	App Store category phrasing	yes
+privacy_policy	Privacy Policy	Chính sách quyền riêng tư	Політика конфіденційності	Gizlilik politikası	นโยบายความเป็นส่วนตัว	Politica de confidențialitate	Política de privacidade	Polityka prywatności	Footer link	yes
+terms_of_use	Terms of Use	Điều khoản sử dụng	Умови використання	Kullanım koşulları	ข้อกำหนดการใช้งาน	Termeni de utilizare	Termos de uso	Warunki korzystania	Footer link	yes
+download_cta	Download on the App Store	Tải trên App Store	Завантажити в App Store	App Store'dan indir	ดาวน์โหลดบน App Store	Descarcă din App Store	Baixar na App Store	Pobierz w App Store	Main CTA	yes
+boost_verb	boost	tăng cường	підсилення / підсилити	güçlendirmek	บูส / เพิ่มความดัง	amplificare / a amplifica	amplificar / boost (marca)	wzmacniać / boost (marka)	Unikać mylenia: nie „powiększać (rozmiar)” w sensie audio	N/A
+loudness_noun	loudness	độ to / mức âm lượng	гучність	ses yüksekliği / daha yüksek ses	ความดัง / ระดับเสียง	volum / nivel de volum	volume / nível de volume	głośność	Audio level concept	N/A
+clarity	clarity	độ rõ	чіткість	netlik	ความชัด	claritate	clareza	klarowność	Marketing + audio clarity; PL „klarowność” w audio OK	N/A
+bass	bass	bass	бас	bas	เบส	bas	graves	bas	Loanword in PL audio copy	N/A
+on_device	on-device	trên thiết bị	на пристрої	cihazda	บนเครื่อง	pe dispozitiv	no dispositivo / no aparelho	na urządzeniu	Local processing	N/A
+save_share	save and share	lưu và chia sẻ	зберегти й поширити	kaydetmek ve paylaşmak	บันทึกและแชร์	a salva și a partaja	salvar e compartilhar	zapisać i udostępnić	Core flow phrase	N/A
+before_after	Before / After	Trước / Sau	До / Після	Önce / Sonra	ก่อน / หลัง	Înainte / După	Antes / Depois	Przed / Po	Waveform labels	N/A
