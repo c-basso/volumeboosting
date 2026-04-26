@@ -2,7 +2,7 @@
   "meta": {
     "lang": "vi",
     "title": "Tăng âm lượng trên iPhone – Sound Boost | Âm thanh & video to hơn tới ~10 lần",
-    "description": "Làm mọi âm thanh hoặc video to hơn trên iPhone: khuếch đại tới ~10 lần với độ trong và bass tốt hơn. Clip nhỏ từ Ảnh, podcast, bản ghi màn hình và ghi âm — xử lý trên thiết bị. Dùng thử miễn phí trên App Store.",
+    "description": "Làm mọi âm thanh hoặc video to hơn trên iPhone: khuếch đại tới ~10 lần với độ rõ và bass tốt hơn. Video nhỏ trong Ảnh, podcast, bản ghi màn hình và ghi âm — xử lý ngay trên thiết bị. Dùng thử miễn phí trên App Store.",
     "keywords": "tăng âm lượng iPhone, video âm thanh nhỏ, tăng volume iPhone, booster âm lượng, ứng dụng iPhone, âm thanh to hơn, ghi màn hình nhỏ, cải thiện âm thanh video, Sound Boost, Increase Volume",
     "author": "c-basso",
     "canonical": "https://volumeboosting.com/vi/",
@@ -37,7 +37,7 @@
     "app_name": "Increase Volume – Sound Boost",
     "brand_name": "Volume Booster",
     "brand_subtitle": "Tăng cường âm thanh cho iPhone",
-    "apple_pill_text": "Cho iPhone · ứng dụng Nhạc",
+    "apple_pill_text": "Dành cho iPhone · danh mục Nhạc",
     "download_text": "Tải trên App Store",
     "download_aria_label": "Tải Increase Volume – Sound Boost trên App Store"
   },
@@ -47,12 +47,12 @@
     "title_prefix": "Làm mọi âm thanh hoặc video",
     "title_highlight": "to hơn tới ~10 lần",
     "title_suffix": "mà không mất độ trong.",
-    "subtitle": "Increase Volume – Sound Boost là bộ tăng âm lượng dành cho iPhone: tạo tệp vĩnh viễn to hơn — không chỉ phát tạm thời to hơn. Sửa bản ghi màn hình, podcast và video nhỏ trong vài giây — âm thanh sạch, mạnh và bass đầy.",
+    "subtitle": "Increase Volume – Sound Boost là bộ tăng âm lượng dành cho iPhone: tạo tệp có âm lượng lớn hơn vĩnh viễn, không chỉ tăng tạm thời khi phát. Khắc phục bản ghi màn hình, podcast và video nhỏ chỉ trong vài giây — âm thanh sạch, mạnh và bass đầy.",
     "metadata_primary": "Chỉ dành cho iPhone",
     "metadata_secondary": "Nhanh, đơn giản và tôn trọng quyền riêng tư",
     "cta_secondary_prefix": "Tăng video đầu tiên của bạn",
     "cta_secondary_emphasis": "miễn phí",
-    "cta_secondary_suffix": " và giữ mức âm lượng mãi mãi.",
+    "cta_secondary_suffix": " và giữ mức âm lượng đó mãi mãi.",
     "footnote_prefix": "Lý tưởng cho",
     "footnote_item1": "ghi âm giọng nói nhỏ",
     "footnote_item2": "phim",
@@ -75,7 +75,7 @@
       "eyebrow": "Ứng dụng làm gì",
       "title_prefix": "Biến bản ghi nhỏ thành",
       "title_highlight": "âm thanh to, dễ nghe",
-      "description": "Increase Volume – Sound Boost lấy mọi âm thanh hoặc video trên iPhone của bạn và làm to hơn rõ rệt, vẫn dễ hiểu. Không có nút rối, không cần kỹ năng chỉnh sửa.",
+      "description": "Increase Volume – Sound Boost lấy mọi âm thanh hoặc video trên iPhone của bạn và tăng âm lượng đáng kể mà vẫn rõ, dễ nghe. Không có điều khiển rối rắm, không cần kỹ năng chỉnh sửa.",
       "pill_1": "Tăng video từ ứng dụng Ảnh",
       "pill_2": "Nhạc, podcast và ghi âm",
       "pill_3": "Bass mạnh và độ trong",
@@ -86,9 +86,9 @@
     },
     "steps_card": {
       "eyebrow": "Trong vài giây",
-      "title": "Tăng âm thanh đơn giản vậy thôi.",
+      "title": "Tăng âm thanh đơn giản đến vậy.",
       "step_1": "Nhập video, bài hát hoặc bản ghi — hoặc bắt đầu trực tiếp từ ứng dụng Ảnh.",
-      "step_2": "Kéo thanh trượt boost để thêm độ to, độ trong và bass theo thời gian thực.",
+      "step_2": "Kéo thanh trượt tăng cường để thêm độ to, độ rõ và bass theo thời gian thực.",
       "step_3": "Lưu tệp đã tăng trở lại thiết bị và chia sẻ ở đâu cũng được.",
       "label": "Lý tưởng cho: bản ghi màn hình, clip TikTok/Reels, phỏng vấn, ghi âm và hơn thế nữa."
     },
@@ -102,14 +102,14 @@
     },
     "testimonial_card": {
       "eyebrow": "Vì sao giữ ứng dụng",
-      "title": "«Hoạt động tốt và rất đơn giản.» – đánh giá App Store",
+      "title": "\"Hoạt động tốt và rất đơn giản.\" – đánh giá App Store",
       "paragraph_1": "Increase Volume được thiết kế để không cản đường: mở, tăng, lưu — xong. Mặc định thông minh và bố cục gọn như iPhone.",
       "paragraph_2": "Bên trong là bộ tăng âm lượng và cải thiện âm thanh mạnh — âm sắc gọn, không méo quá mức."
     }
   },
   "geo": {
     "summary_aria": "Ứng dụng này là gì",
-    "summary_lead": "Tóm tắt: Increase Volume – Sound Boost là ứng dụng cho iPhone (hạng mục Nhạc trên App Store) xử lý tệp âm thanh và video trên thiết bị, áp dụng khuếch đại tới ~10 lần với điều khiển độ trong và bass, rồi lưu tệp mới to hơn để giữ hoặc chia sẻ. Không phải công cụ vượt giới hạn loa cho toàn hệ thống.",
+    "summary_lead": "Tóm tắt: Increase Volume – Sound Boost là ứng dụng cho iPhone (hạng mục Nhạc trên App Store) xử lý tệp âm thanh và video trên thiết bị, áp dụng khuếch đại tới ~10 lần với điều khiển độ rõ và bass, rồi lưu tệp mới to hơn để giữ hoặc chia sẻ. Đây không phải công cụ vượt giới hạn loa của hệ thống.",
     "summary_body": "Được phát hành trên Apple App Store bởi c-basso. Giải quyết cùng nhu cầu với việc tăng podcast, ghi âm, bản ghi màn hình và clip mạng xã hội quá nhỏ — gần với chuẩn hóa trên phần mềm desktop nhưng tối ưu cho quy trình iOS ngắn, chạm là xong.",
     "row_aria": "Số liệu và so sánh",
     "stats_eyebrow": "Con số",
@@ -168,7 +168,7 @@
   },
   "footer": {
     "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
-    "last_updated_label": "Trang cập nhật lần cuối:",
+    "last_updated_label": "Cập nhật lần cuối:",
     "privacy_link": "Chính sách quyền riêng tư",
     "privacy_url": "/privacy.html",
     "terms_link": "Điều khoản sử dụng",
