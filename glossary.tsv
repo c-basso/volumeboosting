@@ -1,16 +1,16 @@
-key	en-US	vi-VN	notes	apple_or_web_verified
-locale_voice	Consumer app neutral tone	Trung tính, thân thiện; ưu tiên cấu trúc không dùng đại từ xưng hô	Keep consistent neutral B2C voice across UI and FAQ	N/A
-settings	Settings	Cài đặt	System place/entry in iOS	yes (Apple iOS terminology)
-photos_app	Photos app	ứng dụng Ảnh	System app name used in copy references	yes (Apple iOS terminology)
-app_store	App Store	App Store	Brand name, do not translate	yes (Apple branding)
-music_category	Music category	danh mục Nhạc	App Store category naming in this site context	yes (Apple App Store UI)
-privacy_policy	Privacy Policy	Chính sách quyền riêng tư	Footer/legal link label	yes (web convention)
-terms_of_use	Terms of Use	Điều khoản sử dụng	Footer/legal link label	yes (web convention)
-download_cta	Download on the App Store	Tải trên App Store	Main CTA style, imperative	yes (Apple/App Store convention)
-boost_verb	boost	tăng cường	Use for action context (slider/action), avoid multiple synonyms no reason	N/A
-loudness_noun	loudness	độ to / mức âm lượng	UI audio adjustment concept	N/A
-clarity	clarity	độ rõ	Audio quality attribute in marketing copy	N/A
-bass	bass	bass	Keep as common loanword in VN audio context	N/A
-on_device	on-device	trên thiết bị	Use when describing local processing	N/A
-save_share	save and share	lưu và chia sẻ	Core action flow phrase	N/A
-before_after	Before / After	Trước / Sau	Comparison waveform labels	N/A
+key	en-US	vi-VN	uk-UA	notes	apple_or_web_verified
+locale_voice	Consumer app neutral tone	Trung tính, thân thiện; ưu tiên cấu trúc không dùng đại từ xưng hô	Нейтральний B2C; звертання «ви»	Consistent voice across UI and FAQ	N/A
+settings	Settings	Cài đặt	Налаштування	System place in iOS	yes
+photos_app	Photos app	ứng dụng Ảnh	додаток «Фото»	Apple Photos app name in UA copy	yes
+app_store	App Store	App Store	App Store	Do not translate	yes
+music_category	Music category	danh mục Nhạc	категорія «Музика»	App Store category phrasing	yes
+privacy_policy	Privacy Policy	Chính sách quyền riêng tư	Політика конфіденційності	Footer link	yes
+terms_of_use	Terms of Use	Điều khoản sử dụng	Умови використання	Footer link	yes
+download_cta	Download on the App Store	Tải trên App Store	Завантажити в App Store	Main CTA	yes
+boost_verb	boost	tăng cường	підсилення / підсилити	Slider/action; avoid mixing synonyms	N/A
+loudness_noun	loudness	độ to / mức âm lượng	гучність	Audio level concept	N/A
+clarity	clarity	độ rõ	чіткість	Marketing + audio clarity	N/A
+bass	bass	bass	бас	Loanword standard in UA audio copy	N/A
+on_device	on-device	trên thiết bị	на пристрої	Local processing	N/A
+save_share	save and share	lưu và chia sẻ	зберегти й поширити	Core flow phrase	N/A
+before_after	Before / After	Trước / Sau	До / Після	Waveform labels	N/A
