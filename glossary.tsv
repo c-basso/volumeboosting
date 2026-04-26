@@ -1,16 +1,16 @@
-key	en-US	vi-VN	uk-UA	tr-TR	th-TH	ro-RO	pt-BR	pl-PL	nl-NL	ko-KR	notes	apple_or_web_verified
-locale_voice	Consumer app neutral tone	Trung tính, thân thiện; ưu tiên cấu trúc không dùng đại từ xưng hô	Нейтральний B2C; звертання «ви»	Samimi-örtük «siz»; B2C pazarlama tonu	โทน B2C เป็นกันเอง ใช้ «คุณ» สม่ำเสมอ	Ton B2C, „tu” (informal) consistent în UI/FAQ	Tom B2C em «você», consistente (pt-BR)	Neutralny B2C, forma „Ty”/czas teraźniejszy	Informele B2C-toon, consistent «je/jouw»	중립·친근 B2C; UI/FAQ 톤 일관	Consistent voice across UI and FAQ	N/A
-settings	Settings	Cài đặt	Налаштування	Ayarlar	การตั้งค่า	Setări	Ajustes	Ustawienia	Instellingen	설정	System place in iOS	yes
-photos_app	Photos app	ứng dụng Ảnh	додаток «Фото»	Fotoğraflar uygulaması	แอปรูปภาพ	Aplicația Poze	app Fotos	aplikacja Zdjęcia	Foto's-app	사진 앱	Apple Photos app name in copy	yes
-app_store	App Store	App Store	App Store	App Store	App Store	App Store	App Store	App Store	App Store	Do not translate	yes
-music_category	Music category	danh mục Nhạc	категорія «Музика»	«Müzik» kategorisi	หมวดเพลงใน App Store	categoria „Muzică”	categoria «Música»	kategoria «Muzyka»	categorie «Muziek»	App Store «음악» 카테고리	App Store category phrasing	yes
-privacy_policy	Privacy Policy	Chính sách quyền riêng tư	Політика конфіденційності	Gizlilik politikası	นโยบายความเป็นส่วนตัว	Politica de confidențialitate	Política de privacidade	Polityka prywatności	Privacybeleid	개인정보 처리방침	Footer link	yes
-terms_of_use	Terms of Use	Điều khoản sử dụng	Умови використання	Kullanım koşulları	ข้อกำหนดการใช้งาน	Termeni de utilizare	Termos de uso	Warunki korzystania	Gebruiksvoorwaarden	이용 약관	Footer link	yes
-download_cta	Download on the App Store	Tải trên App Store	Завантажити в App Store	App Store'dan indir	ดาวน์โหลดบน App Store	Descarcă din App Store	Baixar na App Store	Pobierz w App Store	Download in de App Store	App Store에서 다운로드	Main CTA	yes
-boost_verb	boost	tăng cường	підсилення / підсилити	güçlendirmek	บูส / เพิ่มความดัง	amplificare / a amplifica	amplificar / boost (marca)	wzmacniać / boost (marka)	versterken / boost	증폭 / 부스트(마케팅)	Slider; NL onderscheid: niet „vergroten” (formaat) voor audio-luidheid	N/A
-loudness_noun	loudness	độ to / mức âm lượng	гучність	ses yüksekliği / daha yüksek ses	ความดัง / ระดับเสียง	volum / nivel de volum	volume / nível de volume	głośność	volume	볼륨(음량)	Audio level concept	N/A
-clarity	clarity	độ rõ	чіткість	netlik	ความชัด	claritate	clareza	klarowność	helderheid	선명도	Marketing + audio clarity	N/A
-bass	bass	bass	бас	bas	เบส	bas	graves	bas	bas	베이스(저음)	NL loanword in audio marketing	N/A
-on_device	on-device	trên thiết bị	на пристрої	cihazda	บนเครื่อง	pe dispozitiv	no dispositivo / no aparelho	na urządzeniu	op het apparaat	기기에서 처리	Local processing	N/A
-save_share	save and share	lưu và chia sẻ	зберегти й поширити	kaydetmek ve paylaşmak	บันทึกและแชร์	a salva și a partaja	salvar e compartilhar	zapisać i udostępnić	opslaan en delen	저장·공유	Core flow phrase	N/A
-before_after	Before / After	Trước / Sau	До / Після	Önce / Sonra	ก่อน / หลัง	Înainte / După	Antes / Depois	Przed / Po	Voor / Na	이전 / 이후	Waveform labels	N/A
+key	en-US	vi-VN	uk-UA	tr-TR	th-TH	ro-RO	pt-BR	pl-PL	nl-NL	ko-KR	it-IT	notes	apple_or_web_verified
+locale_voice	Consumer app neutral tone	Trung tính, thân thiện; ưu tiên cấu trúc không dùng đại từ xưng hô	Нейтральний B2C; звертання «ви»	Samimi-örtük «siz»; B2C pazarlama tonu	โทน B2C เป็นกันเอง ใช้ «คุณ» สม่ำเสมอ	Ton B2C, „tu” (informal) consistent în UI/FAQ	Tom B2C em «você», consistente (pt-BR)	Neutralny B2C, forma „Ty”/czas teraźniejszy	Informele B2C-toon, consistent «je/jouw»	중립·친근 B2C; UI/FAQ 톤 일관	Tono B2C informale, coerente in UI/FAQ; «tu» implicito	Consistent voice across UI and FAQ	N/A
+settings	Settings	Cài đặt	Налаштування	Ayarlar	การตั้งค่า	Setări	Ajustes	Ustawienia	Instellingen	설정	Impostazioni	System place in iOS	yes
+photos_app	Photos app	ứng dụng Ảnh	додаток «Фото»	Fotoğraflar uygulaması	แอปรูปภาพ	Aplicația Poze	app Fotos	aplikacja Zdjęcia	Foto's-app	사진 앱	app Foto	Apple Photos app name in copy	yes
+app_store	App Store	App Store	App Store	App Store	App Store	App Store	App Store	App Store	App Store	App Store	App Store	Do not translate	yes
+music_category	Music category	danh mục Nhạc	категорія «Музика»	«Müzik» kategorisi	หมวดเพลงใน App Store	categoria „Muzică”	categoria «Música»	kategoria «Muzyka»	categorie «Muziek»	App Store «음악» 카테고리	categoria «Musica» in App Store	App Store category phrasing	yes
+privacy_policy	Privacy Policy	Chính sách quyền riêng tư	Політика конфіденційності	Gizlilik politikası	นโยบายความเป็นส่วนตัว	Politica de confidențialitate	Política de privacidade	Polityka prywatności	Privacybeleid	개인정보 처리방침	Informativa sulla privacy	Footer link	yes
+terms_of_use	Terms of Use	Điều khoản sử dụng	Умови використання	Kullanım koşulları	ข้อกำหนดการใช้งาน	Termeni de utilizare	Termos de uso	Warunki korzystania	Gebruiksvoorwaarden	이용 약관	Termini di utilizzo	Footer link	yes
+download_cta	Download on the App Store	Tải trên App Store	Завантажити в App Store	App Store'dan indir	ดาวน์โหลดบน App Store	Descarcă din App Store	Baixar na App Store	Pobierz w App Store	Download in de App Store	App Store에서 다운로드	Scarica su App Store	Main CTA	yes
+boost_verb	boost	tăng cường	підсилення / підсилити	güçlendirmek	บูส / เพิ่มความดัง	amplificare / a amplifica	amplificar / boost (marca)	wzmacniać / boost (marka)	versterken / boost	증폭 / 부스트(마케팅)	potenziare / «boost» (marchio)	Slider; NL onderscheid: niet „vergroten” (formaat) voor audio-luidheid	N/A
+loudness_noun	loudness	độ to / mức âm lượng	гучність	ses yüksekliği / daha yüksek ses	ความดัง / ระดับเสียง	volum / nivel de volum	volume / nível de volume	głośność	volume	볼륨(음량)	volume / sonorità	Audio level concept	N/A
+clarity	clarity	độ rõ	чіткість	netlik	ความชัด	claritate	clareza	klarowność	helderheid	선명도	nitidezza / chiarezza	Marketing + audio clarity	N/A
+bass	bass	bass	бас	bas	เบส	bas	graves	bas	bas	베이스(저음)	gravi	NL loanword in audio marketing	N/A
+on_device	on-device	trên thiết bị	на пристрої	cihazda	บนเครื่อง	pe dispozitiv	no dispositivo / no aparelho	na urządzeniu	op het apparaat	기기에서 처리	sul dispositivo	Local processing	N/A
+save_share	save and share	lưu và chia sẻ	зберегти й поширити	kaydetmek ve paylaşmak	บันทึกและแชร์	a salva și a partaja	salvar e compartilhar	zapisać i udostępnić	opslaan en delen	저장·공유	salva e condividi	Core flow phrase	N/A
+before_after	Before / After	Trước / Sau	До / Після	Önce / Sonra	ก่อน / หลัง	Înainte / După	Antes / Depois	Przed / Po	Voor / Na	이전 / 이후	Prima / Dopo	Waveform labels	N/A
