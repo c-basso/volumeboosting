@@ -1,16 +1,16 @@
-key	en-US	vi-VN	uk-UA	notes	apple_or_web_verified
-locale_voice	Consumer app neutral tone	Trung tính, thân thiện; ưu tiên cấu trúc không dùng đại từ xưng hô	Нейтральний B2C; звертання «ви»	Consistent voice across UI and FAQ	N/A
-settings	Settings	Cài đặt	Налаштування	System place in iOS	yes
-photos_app	Photos app	ứng dụng Ảnh	додаток «Фото»	Apple Photos app name in UA copy	yes
-app_store	App Store	App Store	App Store	Do not translate	yes
-music_category	Music category	danh mục Nhạc	категорія «Музика»	App Store category phrasing	yes
-privacy_policy	Privacy Policy	Chính sách quyền riêng tư	Політика конфіденційності	Footer link	yes
-terms_of_use	Terms of Use	Điều khoản sử dụng	Умови використання	Footer link	yes
-download_cta	Download on the App Store	Tải trên App Store	Завантажити в App Store	Main CTA	yes
-boost_verb	boost	tăng cường	підсилення / підсилити	Slider/action; avoid mixing synonyms	N/A
-loudness_noun	loudness	độ to / mức âm lượng	гучність	Audio level concept	N/A
-clarity	clarity	độ rõ	чіткість	Marketing + audio clarity	N/A
-bass	bass	bass	бас	Loanword standard in UA audio copy	N/A
-on_device	on-device	trên thiết bị	на пристрої	Local processing	N/A
-save_share	save and share	lưu và chia sẻ	зберегти й поширити	Core flow phrase	N/A
-before_after	Before / After	Trước / Sau	До / Після	Waveform labels	N/A
+key	en-US	vi-VN	uk-UA	tr-TR	notes	apple_or_web_verified
+locale_voice	Consumer app neutral tone	Trung tính, thân thiện; ưu tiên cấu trúc không dùng đại từ xưng hô	Нейтральний B2C; звертання «ви»	Samimi-örtük «siz»; B2C pazarlama tonu	Consistent voice across UI and FAQ	N/A
+settings	Settings	Cài đặt	Налаштування	Ayarlar	System place in iOS	yes
+photos_app	Photos app	ứng dụng Ảnh	додаток «Фото»	Fotoğraflar uygulaması	Apple Photos app name in copy	yes
+app_store	App Store	App Store	App Store	App Store	Do not translate	yes
+music_category	Music category	danh mục Nhạc	категорія «Музика»	«Müzik» kategorisi	App Store category phrasing	yes
+privacy_policy	Privacy Policy	Chính sách quyền riêng tư	Політика конфіденційності	Gizlilik politikası	Footer link	yes
+terms_of_use	Terms of Use	Điều khoản sử dụng	Умови використання	Kullanım koşulları	Footer link	yes
+download_cta	Download on the App Store	Tải trên App Store	Завантажити в App Store	App Store'dan indir	Main CTA	yes
+boost_verb	boost	tăng cường	підсилення / підсилити	güçlendirmek	Slider/action; avoid mixing synonyms	N/A
+loudness_noun	loudness	độ to / mức âm lượng	гучність	ses yüksekliği / daha yüksek ses	Audio level concept	N/A
+clarity	clarity	độ rõ	чіткість	netlik	Marketing + audio clarity	N/A
+bass	bass	bass	бас	bas	Loanword in audio copy	N/A
+on_device	on-device	trên thiết bị	на пристрої	cihazda	Local processing	N/A
+save_share	save and share	lưu và chia sẻ	зберегти й поширити	kaydetmek ve paylaşmak	Core flow phrase	N/A
+before_after	Before / After	Trước / Sau	До / Після	Önce / Sonra	Waveform labels	N/A

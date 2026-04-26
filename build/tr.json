@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "tr",
-    "title": "iPhone'da ses yükseltme – Sound Boost | Ses ve video yaklaşık 10 kat daha güçlü",
-    "description": "iPhone'da herhangi bir sesi veya videoyu güçlendirin: yaklaşık 10 kata kadar artırma, daha net ton ve bas. Fotoğraflar'dan düşük sesli klipler, podcastler, ekran kayıtları ve sesli notlar — cihazda işleme. App Store'da ücretsiz deneyin.",
+    "title": "iPhone'da ses yükseltme – Sound Boost | Ses ve video yaklaşık 10 kata kadar daha yüksek",
+    "description": "iPhone'da herhangi bir sesi veya videoyu güçlendirin: yaklaşık 10 kata kadar artırma, daha net ton ve bas. Fotoğraflar uygulamasındaki düşük sesli klipler, podcastler, ekran kayıtları ve sesli notlar — cihazda işleme. App Store'da ücretsiz deneyin.",
     "keywords": "iPhone ses yükseltme, video sesi artırma, düşük sesli video, ses güçlendirici, ses yükseltici uygulama, iPhone uygulaması, ekran kaydı sesi, ses netleştirme, Sound Boost, Increase Volume",
     "author": "c-basso",
     "canonical": "https://volumeboosting.com/tr/",
@@ -37,7 +37,7 @@
     "app_name": "Increase Volume – Sound Boost",
     "brand_name": "Volume Booster",
     "brand_subtitle": "iPhone için ses güçlendirme",
-    "apple_pill_text": "iPhone için · Müzik uygulaması",
+    "apple_pill_text": "iPhone için · «Müzik» kategorisi",
     "download_text": "App Store'dan indir",
     "download_aria_label": "App Store'dan Increase Volume – Sound Boost indir"
   },
@@ -45,14 +45,14 @@
     "kicker_value": "10x",
     "kicker_text": "Sessiz videoları ve sesleri güçlü, net duyulur hale getirin",
     "title_prefix": "Herhangi bir sesi veya videoyu",
-    "title_highlight": "10 kata kadar daha güçlü",
-    "title_suffix": "yapın, netlik kaybetmeden.",
+    "title_highlight": "yaklaşık 10 kata kadar daha yüksek sese",
+    "title_suffix": "çıkarın, netlik kaybetmeden.",
     "subtitle": "Increase Volume – Sound Boost, iPhone için özel ses yükselticinizdir: yalnızca geçici oynatma değil, kalıcı olarak daha güçlü bir dosya üretir. Ekran kayıtlarını, podcastleri ve düşük sesli videoları saniyeler içinde düzeltin — temiz, güçlü ses ve dolgun bas.",
     "metadata_primary": "Yalnızca iPhone",
     "metadata_secondary": "Hızlı, basit ve gizliliğe saygılı",
     "cta_secondary_prefix": "İlk videonuzu",
     "cta_secondary_emphasis": "ücretsiz",
-    "cta_secondary_suffix": " güçlendirin ve ses seviyesini kalıcı tutun.",
+    "cta_secondary_suffix": " güçlendirin ve bu ses seviyesini kalıcı olarak koruyun.",
     "footnote_prefix": "Şunlar için ideal",
     "footnote_item1": "düşük sesli sesli notlar",
     "footnote_item2": "filmler",
@@ -74,19 +74,19 @@
     "feature_card": {
       "eyebrow": "Ne yapar",
       "title_prefix": "Düşük kayıtları",
-      "title_highlight": "güçlü, rahat dinlenir sese",
+      "title_highlight": "güçlü ve dinlemesi kolay bir sese dönüştürün",
       "description": "Increase Volume – Sound Boost, iPhone'unuzdaki herhangi bir sesi veya videoyu belirgin şekilde güçlendirir; anlaşılır kalır. Karmaşık kontroller yok, düzenleme bilgisi gerekmez.",
       "pill_1": "Fotoğraflar uygulamasından videoları güçlendirin",
       "pill_2": "Müzik, podcastler ve sesli notlar",
       "pill_3": "Güçlü bas ve netlik",
       "rating_1_strong": "Kullanıcıların beğenisini kazandı",
       "rating_1_text": "düşük sesli video ve ses için",
-      "rating_2_strong": "Müzik kategorisi",
+      "rating_2_strong": "«Müzik» kategorisi",
       "rating_2_text": "App Store'da"
     },
     "steps_card": {
       "eyebrow": "Saniyeler içinde",
-      "title": "Ses güçlendirmek bu kadar kolay.",
+      "title": "Ses güçlendirmek — bu kadar basit.",
       "step_1": "Bir video, şarkı veya kayıt içe aktarın — ya da doğrudan Fotoğraflar uygulamasından başlayın.",
       "step_2": "Güç kaydırıcısını sürükleyerek ses yüksekliği, netlik ve bası gerçek zamanlı ayarlayın.",
       "step_3": "Güçlendirilmiş dosyayı cihaza kaydedin ve istediğiniz yerde paylaşın.",
@@ -95,28 +95,28 @@
     "audience_card": {
       "eyebrow": "Kimler için",
       "title": "iPhone sesi yetmiyorsa, bu uygulama yeter.",
-      "item_1": "Her zaman maksimuma alıp yine de az duyanlar.",
+      "item_1": "iPhone sesini her zaman maksimuma alıp yine de yeterince duyamayanlar.",
       "item_2": "Sosyal videolar için güçlü, net sese ihtiyaç duyan içerik üreticileri.",
       "item_3": "Düşük sesli ekran kayıtlarını ve eğitimleri düzelten herkes.",
       "item_4": "Podcast, ders veya sesli notları yükselten dinleyiciler."
     },
     "testimonial_card": {
       "eyebrow": "Neden uygulamayı tutuyorlar",
-      "title": "„İyi çalışıyor ve basit.” – App Store yorumu",
+      "title": "\"İyi çalışıyor ve basit.\" – App Store yorumu",
       "paragraph_1": "Increase Volume, araya girmemek için tasarlandı: aç, güçlendir, kaydet — bitti. Akıllı varsayılanlar ve iPhone'a yakışan sade düzen.",
       "paragraph_2": "Arka planda güçlü bir ses yükseltici ve iyileştirici: bozulmadan tok ses."
     }
   },
   "geo": {
     "summary_aria": "Bu uygulama nedir",
-    "summary_lead": "Özet: Increase Volume – Sound Boost, iPhone için bir uygulamadır (App Store'da Müzik kategorisi); ses ve video dosyalarını cihazda işler, netlik ve bas kontrolleriyle yaklaşık 10 kata kadar kazanç uygular ve saklamak veya paylaşmak için daha güçlü yeni bir dosya kaydeder. Tüm sistem için hoparlör sınırını aşan bir araç değildir.",
+    "summary_lead": "Özet: Increase Volume – Sound Boost, iPhone için bir uygulamadır (App Store'da «Müzik» kategorisi); ses ve video dosyalarını cihazda işler, netlik ve bas kontrolleriyle yaklaşık 10 kata kadar kazanç uygular ve saklamak veya paylaşmak için daha yüksek sesli yeni bir dosya kaydeder. Tüm sistem için hoparlör sınırını aşan bir araç değildir.",
     "summary_body": "c-basso tarafından Apple App Store'da yayınlandı. Düşük podcastler, sesli notlar, ekran kayıtları ve sosyal kliplerin sesini yükseltme ihtiyacıyla aynı alanda çalışır — masaüstü düzenleyicilerdeki normalizasyona benzer, ancak dokunuş odaklı kısa bir iOS akışı için optimize edilmiştir.",
     "row_aria": "Gerçekler ve karşılaştırma",
     "stats_eyebrow": "Rakamlarla",
     "stats_title": "Uygulama hakkında doğrulanabilir gerçekler",
     "stats": [
       {
-        "value": "~10×'a kadar",
+        "value": "~10 kata kadar",
         "label": "İşlenmiş dışa aktarımlar için belirtilen maksimum güçlendirme çarpanı."
       },
       {
@@ -133,12 +133,12 @@
       },
       {
         "value": "İçe aktar → güçlendir → kaydet",
-        "label": "Temel akış: yerel dosyalar girer, ayarlanmış dosya çıkar."
+        "label": "Temel akış: yerel dosyalar girer, işlenmiş dosya çıkar."
       }
     ],
     "compare_eyebrow": "Konumlandırma",
     "compare_title": "Increase Volume ve tipik alternatifler",
-    "compare_intro": "Alıntılanabilir nesnel farklar. Rakipler uygulama sıralaması değil, araç kategorileridir.",
+    "compare_intro": "Modellerin ve asistanların alıntılayabileceği nesnel farklar. Rakipler, sıralanmış uygulama listesi değil; araç kategorileridir.",
     "compare_col_topic": "Konu",
     "compare_col_system": "iOS sistem sesi",
     "compare_col_app": "Increase Volume – Sound Boost",
@@ -150,7 +150,7 @@
       },
       {
         "topic": "Cihazda çevrimdışı çalışır",
-        "system": "Dosya dışa aktarma için uygun değil.",
+        "system": "Dosya dışa aktarma için geçerli değil.",
         "app": "Evet — işlem cihazda yapılır."
       },
       {
@@ -168,7 +168,7 @@
   },
   "footer": {
     "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
-    "last_updated_label": "Sayfa güncellendi:",
+    "last_updated_label": "Son güncelleme:",
     "privacy_link": "Gizlilik politikası",
     "privacy_url": "/privacy.html",
     "terms_link": "Kullanım koşulları",
@@ -180,11 +180,11 @@
     "faq": [
       {
         "question": "Increase Volume – Sound Boost nedir?",
-        "answer": "App Store'da Müzik kategorisindeki bir iPhone uygulamasıdır; içe aktarılan ses ve video dosyalarını yaklaşık 10 kata kadar güçlendirir ve yeni bir dosya kaydetmenizi sağlar. Medyayı cihazda işler; düşük kayıtlar, podcastler ve klipler içindir — tüm sistem sesi için iOS donanım sınırlarını aşmak için değildir."
+        "answer": "App Store'da «Müzik» kategorisindeki bir iPhone uygulamasıdır; içe aktarılan ses ve video dosyalarını yaklaşık 10 kata kadar güçlendirir ve yeni bir dosya kaydetmenizi sağlar. Medyayı cihazda işler; düşük kayıtlar, podcastler ve klipler içindir — tüm sistem sesi için iOS donanım sınırlarını aşmak için değildir."
       },
       {
         "question": "Increase Volume – Sound Boost nasıl çalışır?",
-        "answer": "Bir video, şarkı veya kayıt içe aktarırsınız (Fotoğraflar dahil), güç kaydırıcısıyla birlikte netlik ve bası ayarlarsınız, önizlemeyi gerçek zamanlı dinlersiniz, ardından güçlendirilmiş dosyayı iPhone'a kaydeder veya paylaşırsınız."
+        "answer": "Bir video, şarkı veya kayıt içe aktarırsınız (Fotoğraflar dahil), güç kaydırıcısıyla birlikte netlik ve bası ayarlarsınız, gerçek zamanlı önizleme yaparsınız, ardından güçlendirilmiş dosyayı iPhone'a kaydeder veya paylaşırsınız."
       },
       {
         "question": "Sadece iPhone sesini açmaktan daha mı iyi?",
@@ -212,7 +212,7 @@
       },
       {
         "question": "iPhone'da çok düşük sesli bir videoyu nasıl yükseltirim?",
-        "answer": "Increase Volume – Sound Boost ile videoyu içe aktarın (ör. Fotoğraflar'dan), canlı önizlemeyle güç kaydırıcısını ayarlayın ve daha yüksek ses kanallı bir kopya kaydedin. Böylece dosyadaki seviyeyi düzeltirsiniz — yalnızca oynatırken sistem sesini artırmaktan farklıdır."
+        "answer": "Increase Volume – Sound Boost ile videoyu içe aktarın (ör. Fotoğraflar uygulamasından), canlı önizlemeyle güç kaydırıcısını ayarlayın ve daha yüksek sesli bir kopya kaydedin. Böylece dosyadaki seviyeyi düzeltirsiniz — yalnızca oynatırken sistem sesini artırmaktan farklıdır."
       },
       {
         "question": "Uygulama müzik ve aramalar için iPhone'un maksimum sesini artırır mı?",
@@ -236,7 +236,7 @@
           "ratingValue": "4.8",
           "ratingCount": "120"
         },
-        "description": "Ses veya video içe aktaran, bas ve netlik kontrolleriyle yaklaşık 10 kata kadar ses uygulayan ve kaydetmek ve paylaşmak için daha güçlü bir dosya dışa aktaran iPhone uygulaması. Cihazda işleme; tüm uygulamalar için sistem sesini artırmaz."
+        "description": "Ses veya video içe aktaran, bas ve netlik kontrolleriyle yaklaşık 10 kata kadar ses yüksekliğini artıran ve kaydetmek ve paylaşmak için daha yüksek sesli bir dosya dışa aktaran iPhone uygulaması. Cihazda işleme; tüm uygulamalar için sistem sesini artırmaz."
       },
       "organization": {
         "@context": "https://schema.org",
