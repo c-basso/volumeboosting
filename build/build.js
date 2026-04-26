@@ -7,7 +7,8 @@ const {
     DEFAULT_LANGUAGE,
     LANGUAGES,
     APP_ID,
-    APP_STORE_URL
+    APP_STORE_URL,
+    SHARED_SITE_META
 } = require('./constants');
 
 const ROOT_DIR = path.join(__dirname, '..');
@@ -267,6 +268,7 @@ function normalizeMeta(data, lang) {
     data.meta.og_site_name = data.meta.og_site_name || data.header?.app_name || DEFAULT_SITE_NAME;
     data.meta.og_locale = data.meta.og_locale || OG_LOCALE_BY_LANGUAGE[lang] || OG_LOCALE_BY_LANGUAGE.en;
     data.meta.last_updated_iso = BUILD_DATE_ISO;
+    Object.assign(data.meta, SHARED_SITE_META);
 }
 
 function normalizeFooter(data) {
@@ -286,7 +288,6 @@ function ensureSeoShape(data) {
 
 function applyAppStoreFromConstants(data) {
     data.meta = data.meta || {};
-    data.meta.app_store_id = String(APP_ID);
     data.header = data.header || {};
     data.header.download_url = APP_STORE_URL;
 

@@ -47,6 +47,22 @@ const EXPECTED_JSON_LD_TYPES = [
 
 const INDEX_NOW_KEY = 'ANmc63xrMRZdnah1f1N7xyzD';
 
+/** Site-wide meta duplicated across locales; merged at build time in `normalizeMeta`. */
+const SHARED_SITE_META = {
+    author: 'c-basso',
+    app_store_id: String(APP_ID),
+    theme_color: '#050810',
+    apple_mobile_web_app_status_bar_style: 'black-translucent',
+    og_image_width: '1026',
+    og_image_height: '539',
+    og_type: 'website',
+    twitter_card: 'summary_large_image',
+    twitter_image_width: '1026',
+    twitter_image_height: '539',
+    twitter_site: '@cbasso',
+    twitter_creator: '@cbasso'
+};
+
 // https://www.indexnow.org/searchengines.json
 const INDEX_NOW_ENGINES = [
     'indexnow.yep.com',
@@ -68,5 +84,6 @@ module.exports = {
     EXPECTED_JSON_LD_TYPES,
     INDEX_NOW_KEY,
     INDEX_NOW_ENGINES,
-    ADDITIONAL_URLS
+    ADDITIONAL_URLS,
+    SHARED_SITE_META
 };

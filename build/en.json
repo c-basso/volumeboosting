@@ -4,57 +4,18 @@
     "title": "Increase Volume – Sound Boost | Make Any Audio or Video Louder",
     "description": "Make any audio or video louder on iPhone. Boost volume up to 10x while enhancing clarity, depth, and bass for music, videos, podcasts, and voice notes.",
     "keywords": "increase volume, sound boost, volume booster, louder video, louder audio, iPhone volume booster, boost quiet video, audio enhancer app",
-    "author": "c-basso",
     "canonical": "https://volumeboosting.com/",
-    "app_store_id": "6741472421",
-    "theme_color": "#050810",
-    "apple_mobile_web_app_status_bar_style": "black-translucent",
-    "alternate_languages": [
-      {
-        "lang": "de",
-        "url": "https://volumeboosting.com/de/"
-      },
-      {
-        "lang": "es",
-        "url": "https://volumeboosting.com/es/"
-      },
-      {
-        "lang": "fr",
-        "url": "https://volumeboosting.com/fr/"
-      },
-      {
-        "lang": "it",
-        "url": "https://volumeboosting.com/it/"
-      },
-      {
-        "lang": "pt",
-        "url": "https://volumeboosting.com/pt/"
-      },
-      {
-        "lang": "ru",
-        "url": "https://volumeboosting.com/ru/"
-      }
-    ],
-    "alternate_default": "https://volumeboosting.com/",
     "og_title": "Increase Volume – Sound Boost",
     "og_description": "Make any audio or video louder on iPhone. Boost volume up to 10x with clear sound, powerful bass, and quick editing.",
     "og_image": "https://volumeboosting.com/site_preview.png",
     "og_image_alt": "Increase Volume – Sound Boost app icon",
-    "og_image_width": "1026",
-    "og_image_height": "539",
-    "og_type": "website",
     "og_url": "https://volumeboosting.com/",
     "og_locale": "en_US",
-    "twitter_card": "summary_large_image",
     "twitter_url": "https://volumeboosting.com/",
     "twitter_title": "Increase Volume – Sound Boost",
     "twitter_description": "Make any audio or video louder on iPhone. Boost volume up to 10x with clear sound, powerful bass, and quick editing.",
     "twitter_image": "https://volumeboosting.com/site_preview.png",
-    "twitter_image_alt": "Increase Volume – Sound Boost app icon",
-    "twitter_image_width": "1026",
-    "twitter_image_height": "539",
-    "twitter_site": "@cbasso",
-    "twitter_creator": "@cbasso"
+    "twitter_image_alt": "Increase Volume – Sound Boost app icon"
   },
   "header": {
     "app_name_suffix": "Sound Boost for iPhone",
