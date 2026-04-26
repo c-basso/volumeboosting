@@ -1,16 +1,16 @@
-key	en-US	vi-VN	uk-UA	tr-TR	th-TH	notes	apple_or_web_verified
-locale_voice	Consumer app neutral tone	Trung tính, thân thiện; ưu tiên cấu trúc không dùng đại từ xưng hô	Нейтральний B2C; звертання «ви»	Samimi-örtük «siz»; B2C pazarlama tonu	โทน B2C เป็นกันเอง ใช้ «คุณ» สม่ำเสมอ	Consistent voice across UI and FAQ	N/A
-settings	Settings	Cài đặt	Налаштування	Ayarlar	การตั้งค่า	System place in iOS	yes
-photos_app	Photos app	ứng dụng Ảnh	додаток «Фото»	Fotoğraflar uygulaması	แอปรูปภาพ	Apple Photos app name in copy	yes
-app_store	App Store	App Store	App Store	App Store	App Store	Do not translate	yes
-music_category	Music category	danh mục Nhạc	категорія «Музика»	«Müzik» kategorisi	หมวดเพลงใน App Store	App Store category phrasing	yes
-privacy_policy	Privacy Policy	Chính sách quyền riêng tư	Політика конфіденційності	Gizlilik politikası	นโยบายความเป็นส่วนตัว	Footer link	yes
-terms_of_use	Terms of Use	Điều khoản sử dụng	Умови використання	Kullanım koşulları	ข้อกำหนดการใช้งาน	Footer link	yes
-download_cta	Download on the App Store	Tải trên App Store	Завантажити в App Store	App Store'dan indir	ดาวน์โหลดบน App Store	Main CTA	yes
-boost_verb	boost	tăng cường	підсилення / підсилити	güçlendirmek	บูส / เพิ่มความดัง	Slider/action; avoid mixing synonyms	N/A
-loudness_noun	loudness	độ to / mức âm lượng	гучність	ses yüksekliği / daha yüksek ses	ความดัง / ระดับเสียง	Audio level concept	N/A
-clarity	clarity	độ rõ	чіткість	netlik	ความชัด	Marketing + audio clarity	N/A
-bass	bass	bass	бас	bas	เบส	Loanword in audio copy	N/A
-on_device	on-device	trên thiết bị	на пристрої	cihazda	บนเครื่อง	Local processing	N/A
-save_share	save and share	lưu và chia sẻ	зберегти й поширити	kaydetmek ve paylaşmak	บันทึกและแชร์	Core flow phrase	N/A
-before_after	Before / After	Trước / Sau	До / Після	Önce / Sonra	ก่อน / หลัง	Waveform labels	N/A
+key	en-US	vi-VN	uk-UA	tr-TR	th-TH	ro-RO	notes	apple_or_web_verified
+locale_voice	Consumer app neutral tone	Trung tính, thân thiện; ưu tiên cấu trúc không dùng đại từ xưng hô	Нейтральний B2C; звертання «ви»	Samimi-örtük «siz»; B2C pazarlama tonu	โทน B2C เป็นกันเอง ใช้ «คุณ» สม่ำเสมอ	Ton B2C, „tu” (informal) consistent în UI/FAQ	Consistent voice across UI and FAQ	N/A
+settings	Settings	Cài đặt	Налаштування	Ayarlar	การตั้งค่า	Setări	System place in iOS	yes
+photos_app	Photos app	ứng dụng Ảnh	додаток «Фото»	Fotoğraflar uygulaması	แอปรูปภาพ	Aplicația Poze	Apple Photos app name in RO copy	yes
+app_store	App Store	App Store	App Store	App Store	App Store	App Store	Do not translate	yes
+music_category	Music category	danh mục Nhạc	категорія «Музика»	«Müzik» kategorisi	หมวดเพลงใน App Store	categoria „Muzică”	App Store category phrasing	yes
+privacy_policy	Privacy Policy	Chính sách quyền riêng tư	Політика конфіденційності	Gizlilik politikası	นโยบายความเป็นส่วนตัว	Politica de confidențialitate	Footer link	yes
+terms_of_use	Terms of Use	Điều khoản sử dụng	Умови використання	Kullanım koşulları	ข้อกำหนดการใช้งาน	Termeni de utilizare	Footer link	yes
+download_cta	Download on the App Store	Tải trên App Store	Завантажити в App Store	App Store'dan indir	ดาวน์โหลดบน App Store	Descarcă din App Store	Main CTA	yes
+boost_verb	boost	tăng cường	підсилення / підсилити	güçlendirmek	บูส / เพิ่มความดัง	amplificare / a amplifica	Slider/action; avoid mixing synonyms	N/A
+loudness_noun	loudness	độ to / mức âm lượng	гучність	ses yüksekliği / daha yüksek ses	ความดัง / ระดับเสียง	volum / nivel de volum	Audio level concept	N/A
+clarity	clarity	độ rõ	чіткість	netlik	ความชัด	claritate	Marketing + audio clarity	N/A
+bass	bass	bass	бас	bas	เบส	bas	Loanword in audio copy	N/A
+on_device	on-device	trên thiết bị	на пристрої	cihazda	บนเครื่อง	pe dispozitiv	Local processing	N/A
+save_share	save and share	lưu và chia sẻ	зберегти й поширити	kaydetmek ve paylaşmak	บันทึกและแชร์	a salva și a partaja	Core flow phrase	N/A
+before_after	Before / After	Trước / Sau	До / Після	Önce / Sonra	ก่อน / หลัง	Înainte / După	Waveform labels	N/A
