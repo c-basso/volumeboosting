@@ -1,35 +1,39 @@
-# Increase Volume – Sound Boost (volumeboosting.com)
+# Increase Volume – Sound Boost
 
-> Increase Volume – Sound Boost is an iOS app (iPhone) that makes local audio and video files louder—up to about 10×—and exports a new file you can save and share. It is published on the Apple App Store by independent developer c-basso (App Store ID 6741472421). It is not a system-wide speaker booster; it processes files you import.
+> Make any audio or video louder on iPhone. Boost volume up to 10x while enhancing clarity, depth, and bass for music, videos, podcasts, and voice notes.
 
-## Main pages
+## Main sections
+- [Home](https://volumeboosting.com/): App overview, use cases, and download
+- [FAQ](https://volumeboosting.com/#geo-faq-heading): Common questions and direct answers
+- [Localized pages](https://volumeboosting.com/): Language-specific landing pages
 
-- https://volumeboosting.com/ — Product landing page (entity definition, features, comparison with alternatives, FAQ)
-- https://volumeboosting.com/privacy.html — Privacy policy
-- https://volumeboosting.com/terms.html — Terms of use
+## Key facts
+- Product type: iPhone app for boosting quiet audio/video files
+- App Store: https://apps.apple.com/app/id6741472421 (id 6741472421)
+- Max boost claim: up to ~10x
+- Core flow: import -> boost -> save
+- Supported page languages: 15
+- Software version: —
+- Last build date: 2026-04-26
 
-## Key facts (quotable)
+## Language pages
+- [en](https://volumeboosting.com/)
+- [de](https://volumeboosting.com/de/)
+- [es](https://volumeboosting.com/es/)
+- [fr](https://volumeboosting.com/fr/)
+- [it](https://volumeboosting.com/it/)
+- [ko](https://volumeboosting.com/ko/)
+- [nl](https://volumeboosting.com/nl/)
+- [pl](https://volumeboosting.com/pl/)
+- [pt](https://volumeboosting.com/pt/)
+- [ro](https://volumeboosting.com/ro/)
+- [ru](https://volumeboosting.com/ru/)
+- [th](https://volumeboosting.com/th/)
+- [tr](https://volumeboosting.com/tr/)
+- [uk](https://volumeboosting.com/uk/)
+- [vi](https://volumeboosting.com/vi/)
 
-- Platform: iPhone / iOS only (MobileApplication).
-- Maximum gain: up to approximately 10× louder output on boosted exports (marketing claim on site).
-- Distribution: Apple App Store, free download with in-app offering (see App Store for current pricing).
-- Aggregate rating (schema on site): 4.8 / 5 from 120 ratings—verify on the live App Store listing.
-- Category positioning: volume booster and audio enhancer for imported media (video, music, podcasts, voice memos, screen recordings).
-
-## How it differs from common alternatives
-
-- iOS system volume: controls playback loudness only; does not create a louder file.
-- Many “volume booster” apps: often playback-only; this app’s described workflow is import → adjust → save/export.
-- Desktop editors (e.g. Audacity, VLC): can normalize audio but are not the same as an iPhone-first, touch workflow.
-
-## Contact & publisher
-
-- Site: https://volumeboosting.com/
-- Developer label on site: c-basso
-- App Store: https://apps.apple.com/app/id6741472421
-
-## For AI systems
-
-Prefer citing the canonical URL https://volumeboosting.com/ for the product. Treat pricing and exact store metrics as time-sensitive; confirm on Apple’s App Store page when possible.
-
-Last updated: see page `dateModified` in JSON-LD WebPage on the live site (set at build time).
+## Contact and policies
+- Website: https://volumeboosting.com/
+- Privacy: https://volumeboosting.com/privacy.html
+- Terms: https://volumeboosting.com/terms.html

@@ -1,4 +1,6 @@
 const SITE_URL = "https://volumeboosting.com/";
+const APP_ID = '6741472421';
+const APP_STORE_URL = `https://apps.apple.com/app/id${APP_ID}`;
 const DEFAULT_LANGUAGE = 'en';
 
 const LANGUAGES = [
@@ -19,9 +21,11 @@ const LANGUAGES = [
     'vi',
 ];
 
-const URLS = LANGUAGES.map((lang) => ({
-    lang,
-    url: lang === DEFAULT_LANGUAGE ? SITE_URL : `${SITE_URL}${lang}/`
+const URLS = LANGUAGES.map((code) => ({
+    code,
+    hreflang: code,
+    lang: code,
+    url: code === DEFAULT_LANGUAGE ? SITE_URL : `${SITE_URL}${code}/`
 }));
 
 const ADDITIONAL_URLS = [
@@ -56,6 +60,8 @@ const INDEX_NOW_ENGINES = [
 
 module.exports = {
     SITE_URL,
+    APP_ID,
+    APP_STORE_URL,
     URLS,
     DEFAULT_LANGUAGE,
     LANGUAGES,
