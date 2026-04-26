@@ -10,12 +10,30 @@
     "theme_color": "#050810",
     "apple_mobile_web_app_status_bar_style": "black-translucent",
     "alternate_languages": [
-      { "lang": "de", "url": "https://volumeboosting.com/de/" },
-      { "lang": "es", "url": "https://volumeboosting.com/es/" },
-      { "lang": "fr", "url": "https://volumeboosting.com/fr/" },
-      { "lang": "it", "url": "https://volumeboosting.com/it/" },
-      { "lang": "pt", "url": "https://volumeboosting.com/pt/" },
-      { "lang": "ru", "url": "https://volumeboosting.com/ru/" }
+      {
+        "lang": "de",
+        "url": "https://volumeboosting.com/de/"
+      },
+      {
+        "lang": "es",
+        "url": "https://volumeboosting.com/es/"
+      },
+      {
+        "lang": "fr",
+        "url": "https://volumeboosting.com/fr/"
+      },
+      {
+        "lang": "it",
+        "url": "https://volumeboosting.com/it/"
+      },
+      {
+        "lang": "pt",
+        "url": "https://volumeboosting.com/pt/"
+      },
+      {
+        "lang": "ru",
+        "url": "https://volumeboosting.com/ru/"
+      }
     ],
     "alternate_default": "https://volumeboosting.com/",
     "og_title": "Increase Volume – Sound Boost",
@@ -123,11 +141,26 @@
     "stats_eyebrow": "By the numbers",
     "stats_title": "Quotable facts about the app",
     "stats": [
-      { "value": "Up to ~10×", "label": "Maximum boost factor stated for processed exports." },
-      { "value": "iOS / iPhone", "label": "Platform: native mobile app, not macOS or Android." },
-      { "value": "4.8 / 5", "label": "Aggregate rating in structured data (120 ratings); confirm live on the App Store." },
-      { "value": "$0 download", "label": "Listed as free with App Store offers; current price is on Apple’s listing." },
-      { "value": "Import → boost → save", "label": "Core workflow: local files in, adjusted file out." }
+      {
+        "value": "Up to ~10×",
+        "label": "Maximum boost factor stated for processed exports."
+      },
+      {
+        "value": "iOS / iPhone",
+        "label": "Platform: native mobile app, not macOS or Android."
+      },
+      {
+        "value": "4.8 / 5",
+        "label": "Aggregate rating in structured data (120 ratings); confirm live on the App Store."
+      },
+      {
+        "value": "$0 download",
+        "label": "Listed as free with App Store offers; current price is on Apple’s listing."
+      },
+      {
+        "value": "Import → boost → save",
+        "label": "Core workflow: local files in, adjusted file out."
+      }
     ],
     "compare_eyebrow": "Positioning",
     "compare_title": "Increase Volume vs typical alternatives",
@@ -157,8 +190,7 @@
         "app": "Permanent fix for quiet source files."
       }
     ],
-    "faq_section_title": "Frequently asked questions",
-    "faq_section_dek": "Direct answers phrased the way people ask voice assistants and AI search."
+    "faq_section_title": "Frequently asked questions"
   },
   "footer": {
     "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
@@ -231,7 +263,9 @@
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
         "description": "Independent publisher of Increase Volume – Sound Boost and related iOS utilities.",
-        "sameAs": ["https://twitter.com/cbasso"]
+        "sameAs": [
+          "https://twitter.com/cbasso"
+        ]
       },
       "website": {
         "@context": "https://schema.org",

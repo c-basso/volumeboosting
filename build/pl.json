@@ -116,11 +116,26 @@
     "stats_eyebrow": "W liczbach",
     "stats_title": "Sprawdzalne fakty o aplikacji",
     "stats": [
-      { "value": "Do ~10×", "label": "Maksymalny podany współczynnik wzmocnienia dla przetworzonych eksportów." },
-      { "value": "iOS / iPhone", "label": "Platforma: natywna aplikacja mobilna, nie macOS ani Android." },
-      { "value": "4,8 / 5", "label": "Średnia ocena w danych strukturalnych (120 ocen); sprawdź na żywo w App Store." },
-      { "value": "Za darmo", "label": "W App Store jako darmowa; aktualna cena i zakupy w aplikacji na stronie Apple." },
-      { "value": "Import → wzmocnienie → zapis", "label": "Rdzeń przepływu: lokalne pliki na wejściu, dostosowany plik na wyjściu." }
+      {
+        "value": "Do ~10×",
+        "label": "Maksymalny podany współczynnik wzmocnienia dla przetworzonych eksportów."
+      },
+      {
+        "value": "iOS / iPhone",
+        "label": "Platforma: natywna aplikacja mobilna, nie macOS ani Android."
+      },
+      {
+        "value": "4,8 / 5",
+        "label": "Średnia ocena w danych strukturalnych (120 ocen); sprawdź na żywo w App Store."
+      },
+      {
+        "value": "Za darmo",
+        "label": "W App Store jako darmowa; aktualna cena i zakupy w aplikacji na stronie Apple."
+      },
+      {
+        "value": "Import → wzmocnienie → zapis",
+        "label": "Rdzeń przepływu: lokalne pliki na wejściu, dostosowany plik na wyjściu."
+      }
     ],
     "compare_eyebrow": "Pozycjonowanie",
     "compare_title": "Increase Volume a typowe alternatywy",
@@ -150,8 +165,7 @@
         "app": "Trwała poprawa cichych plików źródłowych."
       }
     ],
-    "faq_section_title": "Często zadawane pytania",
-    "faq_section_dek": "Bezpośrednie odpowiedzi jak w wyszukiwaniu głosowym i z AI."
+    "faq_section_title": "Często zadawane pytania"
   },
   "footer": {
     "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
@@ -232,7 +246,9 @@
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
         "description": "Niezależny wydawca Increase Volume – Sound Boost i powiązanych narzędzi iOS.",
-        "sameAs": ["https://twitter.com/cbasso"]
+        "sameAs": [
+          "https://twitter.com/cbasso"
+        ]
       },
       "website": {
         "@context": "https://schema.org",

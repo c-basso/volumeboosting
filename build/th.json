@@ -116,11 +116,26 @@
     "stats_eyebrow": "เป็นตัวเลข",
     "stats_title": "ข้อเท็จจริงที่ตรวจสอบได้เกี่ยวกับแอป",
     "stats": [
-      { "value": "สูงสุดประมาณ 10×", "label": "ค่าบูสสูงสุดที่ระบุสำหรับไฟล์ที่ส่งออกหลังประมวลผล" },
-      { "value": "iOS / iPhone", "label": "แพลตฟอร์ม: แอปมือถือเนทีฟ ไม่ใช่ macOS หรือ Android" },
-      { "value": "4.8 / 5", "label": "คะแนนรวมในข้อมูลโครงสร้าง (120 รีวิว); ตรวจสอบบน App Store" },
-      { "value": "ฟรี", "label": "ระบุว่าฟรีบน App Store; ราคาและ IAP ปัจจุบันที่หน้า Apple" },
-      { "value": "นำเข้า → บูส → บันทึก", "label": "เวิร์กโฟลว์หลัก: ไฟล์ในเครื่องเข้า ไฟล์ที่ปรับแล้วออก" }
+      {
+        "value": "สูงสุดประมาณ 10×",
+        "label": "ค่าบูสสูงสุดที่ระบุสำหรับไฟล์ที่ส่งออกหลังประมวลผล"
+      },
+      {
+        "value": "iOS / iPhone",
+        "label": "แพลตฟอร์ม: แอปมือถือเนทีฟ ไม่ใช่ macOS หรือ Android"
+      },
+      {
+        "value": "4.8 / 5",
+        "label": "คะแนนรวมในข้อมูลโครงสร้าง (120 รีวิว); ตรวจสอบบน App Store"
+      },
+      {
+        "value": "ฟรี",
+        "label": "ระบุว่าฟรีบน App Store; ราคาและ IAP ปัจจุบันที่หน้า Apple"
+      },
+      {
+        "value": "นำเข้า → บูส → บันทึก",
+        "label": "เวิร์กโฟลว์หลัก: ไฟล์ในเครื่องเข้า ไฟล์ที่ปรับแล้วออก"
+      }
     ],
     "compare_eyebrow": "การวางตำแหน่ง",
     "compare_title": "Increase Volume เทียบกับทางเลือกทั่วไป",
@@ -150,8 +165,7 @@
         "app": "แก้ไฟล์ต้นทางที่เบาอย่างถาวร"
       }
     ],
-    "faq_section_title": "คำถามที่พบบ่อย",
-    "faq_section_dek": "คำตอบตรงๆ ในโทนเดียวกับการค้นด้วยเสียงและ AI"
+    "faq_section_title": "คำถามที่พบบ่อย"
   },
   "footer": {
     "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
@@ -232,7 +246,9 @@
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
         "description": "ผู้จัดพิมพ์อิสระของ Increase Volume – Sound Boost และยูทิลิตี้ iOS ที่เกี่ยวข้อง",
-        "sameAs": ["https://twitter.com/cbasso"]
+        "sameAs": [
+          "https://twitter.com/cbasso"
+        ]
       },
       "website": {
         "@context": "https://schema.org",

@@ -116,11 +116,26 @@
     "stats_eyebrow": "Rakamlarla",
     "stats_title": "Uygulama hakkında doğrulanabilir gerçekler",
     "stats": [
-      { "value": "~10×'a kadar", "label": "İşlenmiş dışa aktarımlar için belirtilen maksimum güçlendirme çarpanı." },
-      { "value": "iOS / iPhone", "label": "Platform: yerel mobil uygulama, macOS veya Android değil." },
-      { "value": "4,8 / 5", "label": "Yapılandırılmış verilerde toplam puan (120 değerlendirme); App Store'da güncel değeri doğrulayın." },
-      { "value": "Ücretsiz", "label": "App Store'da ücretsiz listelenir; güncel fiyat ve uygulama içi satın almalar Apple sayfasında." },
-      { "value": "İçe aktar → güçlendir → kaydet", "label": "Temel akış: yerel dosyalar girer, ayarlanmış dosya çıkar." }
+      {
+        "value": "~10×'a kadar",
+        "label": "İşlenmiş dışa aktarımlar için belirtilen maksimum güçlendirme çarpanı."
+      },
+      {
+        "value": "iOS / iPhone",
+        "label": "Platform: yerel mobil uygulama, macOS veya Android değil."
+      },
+      {
+        "value": "4,8 / 5",
+        "label": "Yapılandırılmış verilerde toplam puan (120 değerlendirme); App Store'da güncel değeri doğrulayın."
+      },
+      {
+        "value": "Ücretsiz",
+        "label": "App Store'da ücretsiz listelenir; güncel fiyat ve uygulama içi satın almalar Apple sayfasında."
+      },
+      {
+        "value": "İçe aktar → güçlendir → kaydet",
+        "label": "Temel akış: yerel dosyalar girer, ayarlanmış dosya çıkar."
+      }
     ],
     "compare_eyebrow": "Konumlandırma",
     "compare_title": "Increase Volume ve tipik alternatifler",
@@ -150,8 +165,7 @@
         "app": "Düşük kaynak dosyalar için kalıcı düzeltme."
       }
     ],
-    "faq_section_title": "Sık sorulan sorular",
-    "faq_section_dek": "Sesli arama ve yapay zekâ aramasına yakın doğrudan yanıtlar."
+    "faq_section_title": "Sık sorulan sorular"
   },
   "footer": {
     "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
@@ -232,7 +246,9 @@
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
         "description": "Increase Volume – Sound Boost ve ilgili iOS yardımcı programlarının bağımsız yayıncısı.",
-        "sameAs": ["https://twitter.com/cbasso"]
+        "sameAs": [
+          "https://twitter.com/cbasso"
+        ]
       },
       "website": {
         "@context": "https://schema.org",

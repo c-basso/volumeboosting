@@ -116,11 +116,26 @@
     "stats_eyebrow": "In cijfers",
     "stats_title": "Controleerbare feiten over de app",
     "stats": [
-      { "value": "Tot ~10×", "label": "Maximaal aangegeven versterkingsfactor voor geëxporteerde bestanden." },
-      { "value": "iOS / iPhone", "label": "Platform: native mobiele app, geen macOS of Android." },
-      { "value": "4,8 / 5", "label": "Geaggregeerde score in gestructureerde data (120 beoordelingen); controleer live in de App Store." },
-      { "value": "Gratis", "label": "In de App Store als gratis vermeld; actuele prijs en in-app aankopen op de Apple-pagina." },
-      { "value": "Importeren → boosten → opslaan", "label": "Kernworkflow: lokale bestanden erin, aangepast bestand eruit." }
+      {
+        "value": "Tot ~10×",
+        "label": "Maximaal aangegeven versterkingsfactor voor geëxporteerde bestanden."
+      },
+      {
+        "value": "iOS / iPhone",
+        "label": "Platform: native mobiele app, geen macOS of Android."
+      },
+      {
+        "value": "4,8 / 5",
+        "label": "Geaggregeerde score in gestructureerde data (120 beoordelingen); controleer live in de App Store."
+      },
+      {
+        "value": "Gratis",
+        "label": "In de App Store als gratis vermeld; actuele prijs en in-app aankopen op de Apple-pagina."
+      },
+      {
+        "value": "Importeren → boosten → opslaan",
+        "label": "Kernworkflow: lokale bestanden erin, aangepast bestand eruit."
+      }
     ],
     "compare_eyebrow": "Positionering",
     "compare_title": "Increase Volume versus gangbare alternatieven",
@@ -150,8 +165,7 @@
         "app": "Blijvende fix voor zachte bronbestanden."
       }
     ],
-    "faq_section_title": "Veelgestelde vragen",
-    "faq_section_dek": "Rechte antwoorden in de formulering van stemgestuurde zoekopdrachten en AI-zoekmachines."
+    "faq_section_title": "Veelgestelde vragen"
   },
   "footer": {
     "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
@@ -232,7 +246,9 @@
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
         "description": "Onafhankelijke uitgever van Increase Volume – Sound Boost en gerelateerde iOS-hulpprogramma's.",
-        "sameAs": ["https://twitter.com/cbasso"]
+        "sameAs": [
+          "https://twitter.com/cbasso"
+        ]
       },
       "website": {
         "@context": "https://schema.org",

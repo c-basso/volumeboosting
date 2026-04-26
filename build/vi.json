@@ -116,11 +116,26 @@
     "stats_eyebrow": "Con số",
     "stats_title": "Sự thật có thể kiểm chứng về ứng dụng",
     "stats": [
-      { "value": "Tới ~10×", "label": "Hệ số tăng tối đa ghi cho tệp xuất sau xử lý." },
-      { "value": "iOS / iPhone", "label": "Nền tảng: ứng dụng di động gốc, không phải macOS hay Android." },
-      { "value": "4,8 / 5", "label": "Điểm trung bình trong dữ liệu có cấu trúc (120 đánh giá); xác nhận trên App Store." },
-      { "value": "Miễn phí", "label": "Liệt kê miễn phí trên App Store; giá và mua trong ứng dụng tại trang Apple." },
-      { "value": "Nhập → tăng → lưu", "label": "Luồng chính: tệp cục bộ vào, tệp đã chỉnh ra." }
+      {
+        "value": "Tới ~10×",
+        "label": "Hệ số tăng tối đa ghi cho tệp xuất sau xử lý."
+      },
+      {
+        "value": "iOS / iPhone",
+        "label": "Nền tảng: ứng dụng di động gốc, không phải macOS hay Android."
+      },
+      {
+        "value": "4,8 / 5",
+        "label": "Điểm trung bình trong dữ liệu có cấu trúc (120 đánh giá); xác nhận trên App Store."
+      },
+      {
+        "value": "Miễn phí",
+        "label": "Liệt kê miễn phí trên App Store; giá và mua trong ứng dụng tại trang Apple."
+      },
+      {
+        "value": "Nhập → tăng → lưu",
+        "label": "Luồng chính: tệp cục bộ vào, tệp đã chỉnh ra."
+      }
     ],
     "compare_eyebrow": "Định vị",
     "compare_title": "Increase Volume so với lựa chọn thông thường",
@@ -150,8 +165,7 @@
         "app": "Sửa lâu dài cho tệp nguồn nhỏ."
       }
     ],
-    "faq_section_title": "Câu hỏi thường gặp",
-    "faq_section_dek": "Trả lời thẳng theo kiểu tìm bằng giọng nói và AI."
+    "faq_section_title": "Câu hỏi thường gặp"
   },
   "footer": {
     "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
@@ -232,7 +246,9 @@
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
         "description": "Nhà phát hành độc lập Increase Volume – Sound Boost và tiện ích iOS liên quan.",
-        "sameAs": ["https://twitter.com/cbasso"]
+        "sameAs": [
+          "https://twitter.com/cbasso"
+        ]
       },
       "website": {
         "@context": "https://schema.org",

@@ -116,11 +116,26 @@
     "stats_eyebrow": "숫자로 보기",
     "stats_title": "앱에 대한 확인 가능한 사실",
     "stats": [
-      { "value": "최대 약 10배", "label": "처리 후보내기에 표기된 최대 증폭 배율." },
-      { "value": "iOS / 아이폰", "label": "플랫폼: 네이티브 모바일 앱, macOS·Android 아님." },
-      { "value": "4.8 / 5", "label": "구조화 데이터의 평균 평점(120개 평가); 최신 값은 App Store에서 확인." },
-      { "value": "무료", "label": "App Store에 무료로 표시; 실제 가격·인앱은 Apple 페이지에서 확인." },
-      { "value": "가져오기 → 부스트 → 저장", "label": "핵심 흐름: 로컬 파일 입력, 조정된 파일 출력." }
+      {
+        "value": "최대 약 10배",
+        "label": "처리 후보내기에 표기된 최대 증폭 배율."
+      },
+      {
+        "value": "iOS / 아이폰",
+        "label": "플랫폼: 네이티브 모바일 앱, macOS·Android 아님."
+      },
+      {
+        "value": "4.8 / 5",
+        "label": "구조화 데이터의 평균 평점(120개 평가); 최신 값은 App Store에서 확인."
+      },
+      {
+        "value": "무료",
+        "label": "App Store에 무료로 표시; 실제 가격·인앱은 Apple 페이지에서 확인."
+      },
+      {
+        "value": "가져오기 → 부스트 → 저장",
+        "label": "핵심 흐름: 로컬 파일 입력, 조정된 파일 출력."
+      }
     ],
     "compare_eyebrow": "포지셔닝",
     "compare_title": "Increase Volume과 일반적인 대안",
@@ -150,8 +165,7 @@
         "app": "작은 소스 파일을 영구적으로 보정."
       }
     ],
-    "faq_section_title": "자주 묻는 질문",
-    "faq_section_dek": "음성 검색·AI 검색에 가까운 질문 형태로 답합니다."
+    "faq_section_title": "자주 묻는 질문"
   },
   "footer": {
     "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
@@ -232,7 +246,9 @@
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
         "description": "Increase Volume – Sound Boost 및 관련 iOS 유틸리티의 독립 출판사.",
-        "sameAs": ["https://twitter.com/cbasso"]
+        "sameAs": [
+          "https://twitter.com/cbasso"
+        ]
       },
       "website": {
         "@context": "https://schema.org",

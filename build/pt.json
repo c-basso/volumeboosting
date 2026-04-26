@@ -116,11 +116,26 @@
     "stats_eyebrow": "Em números",
     "stats_title": "Fatos objetivos sobre o app",
     "stats": [
-      { "value": "Até ~10×", "label": "Fator máximo de ampliação indicado para exportações processadas." },
-      { "value": "iOS / iPhone", "label": "Plataforma: app móvel nativo, não macOS nem Android." },
-      { "value": "4,8 / 5", "label": "Avaliação agregada nos dados estruturados (120 avaliações); confira na App Store." },
-      { "value": "Grátis", "label": "Listado como gratuito na App Store; preço e IAP atuais na página da Apple." },
-      { "value": "Importar → amplificar → salvar", "label": "Fluxo principal: arquivos locais entram, arquivo ajustado sai." }
+      {
+        "value": "Até ~10×",
+        "label": "Fator máximo de ampliação indicado para exportações processadas."
+      },
+      {
+        "value": "iOS / iPhone",
+        "label": "Plataforma: app móvel nativo, não macOS nem Android."
+      },
+      {
+        "value": "4,8 / 5",
+        "label": "Avaliação agregada nos dados estruturados (120 avaliações); confira na App Store."
+      },
+      {
+        "value": "Grátis",
+        "label": "Listado como gratuito na App Store; preço e IAP atuais na página da Apple."
+      },
+      {
+        "value": "Importar → amplificar → salvar",
+        "label": "Fluxo principal: arquivos locais entram, arquivo ajustado sai."
+      }
     ],
     "compare_eyebrow": "Posicionamento",
     "compare_title": "Increase Volume vs alternativas típicas",
@@ -150,8 +165,7 @@
         "app": "Correção permanente para arquivos de origem baixa."
       }
     ],
-    "faq_section_title": "Perguntas frequentes",
-    "faq_section_dek": "Respostas diretas no jeito de quem pergunta a assistentes de voz e busca com IA."
+    "faq_section_title": "Perguntas frequentes"
   },
   "footer": {
     "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
@@ -232,7 +246,9 @@
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
         "description": "Editor independente do Increase Volume – Sound Boost e utilitários iOS relacionados.",
-        "sameAs": ["https://twitter.com/cbasso"]
+        "sameAs": [
+          "https://twitter.com/cbasso"
+        ]
       },
       "website": {
         "@context": "https://schema.org",
