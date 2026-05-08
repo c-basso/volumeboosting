@@ -3,6 +3,22 @@ const path = require('path');
 
 const { SITE_URL, URLS, DEFAULT_LANGUAGE } = require('./constants');
 
+function resolvePagePathByUrl(loc) {
+  const parsed = new URL(loc);
+  const cleanPath = parsed.pathname.replace(/^\/+|\/+$/g, '');
+  if (!cleanPath) {
+    return path.join(__dirname, '..', 'index.html');
+  }
+  const [lang] = cleanPath.split('/');
+  return path.join(__dirname, '..', lang, 'index.html');
+}
+
+function getLastmodForUrl(loc) {
+  const pagePath = resolvePagePathByUrl(loc);
+  const stats = fs.statSync(pagePath);
+  return stats.mtime.toISOString().slice(0, 10);
+}
+
 (function main() {
   const sitemapPath = path.join(__dirname, '..', 'sitemap.xml');
   const robotsPath = path.join(__dirname, '..', 'robots.txt');
@@ -15,8 +31,10 @@ const { SITE_URL, URLS, DEFAULT_LANGUAGE } = require('./constants');
   lines.push('  ');
   const defaultUrl = URLS.find(({ lang }) => lang === DEFAULT_LANGUAGE)?.url ?? SITE_URL;
   for (const { url: loc } of URLS) {
+    const lastmod = getLastmodForUrl(loc);
     lines.push('  <url>');
     lines.push(`    <loc>${loc}</loc>`);
+    lines.push(`    <lastmod>${lastmod}</lastmod>`);
     for (const { lang, url } of URLS) {
       lines.push(`    <xhtml:link rel="alternate" hreflang="${lang}" href="${url}" />`);
     }
