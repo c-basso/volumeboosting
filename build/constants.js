@@ -58,9 +58,7 @@ const SHARED_SITE_META = {
     og_type: 'website',
     twitter_card: 'summary_large_image',
     twitter_image_width: '1026',
-    twitter_image_height: '539',
-    twitter_site: '@cbasso',
-    twitter_creator: '@cbasso'
+    twitter_image_height: '539'
 };
 
 // https://www.indexnow.org/searchengines.json
