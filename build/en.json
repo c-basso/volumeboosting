@@ -2,18 +2,18 @@
   "meta": {
     "lang": "en",
     "title": "Increase Volume – Sound Boost | Make Any Audio or Video Louder",
-    "description": "Make any audio or video louder on iPhone. Boost volume up to 10x while enhancing clarity, depth, and bass for music, videos, podcasts, and voice notes.",
+    "description": "Make any audio or video louder on iPhone. Boost volume up to ~10× while enhancing clarity, depth, and bass for music, videos, podcasts, and voice memos.",
     "keywords": "increase volume, sound boost, volume booster, louder video, louder audio, iPhone volume booster, boost quiet video, audio enhancer app",
     "canonical": "https://volumeboosting.com/",
     "og_title": "Increase Volume – Sound Boost",
-    "og_description": "Make any audio or video louder on iPhone. Boost volume up to 10x with clear sound, powerful bass, and quick editing.",
+    "og_description": "Make any audio or video louder on iPhone. Boost volume up to ~10× with clear sound, powerful bass, and quick editing.",
     "og_image": "https://volumeboosting.com/site_preview.png",
     "og_image_alt": "Increase Volume – Sound Boost app icon",
     "og_url": "https://volumeboosting.com/",
     "og_locale": "en_US",
     "twitter_url": "https://volumeboosting.com/",
     "twitter_title": "Increase Volume – Sound Boost",
-    "twitter_description": "Make any audio or video louder on iPhone. Boost volume up to 10x with clear sound, powerful bass, and quick editing.",
+    "twitter_description": "Make any audio or video louder on iPhone. Boost volume up to ~10× with clear sound, powerful bass, and quick editing.",
     "twitter_image": "https://volumeboosting.com/site_preview.png",
     "twitter_image_alt": "Increase Volume – Sound Boost app icon"
   },
@@ -31,7 +31,7 @@
     "kicker_value": "10x",
     "kicker_text": "Turn quiet videos and audio into loud, clear sound",
     "title_prefix": "Make any audio or video",
-    "title_highlight": "up to 10x louder",
+    "title_highlight": "up to ~10× louder",
     "title_suffix": "without losing clarity.",
     "subtitle": "Increase Volume – Sound Boost is your dedicated iPhone volume booster. Fix quiet screen recordings, podcasts, and videos in seconds with clean, powerful sound and rich bass.",
     "metadata_primary": "Only for iPhone",
@@ -40,7 +40,7 @@
     "cta_secondary_emphasis": "free",
     "cta_secondary_suffix": ", keep the volume forever.",
     "footnote_prefix": "Perfect for",
-    "footnote_item1": "quiet voice notes",
+    "footnote_item1": "quiet voice memos",
     "footnote_item2": "movies",
     "footnote_item3": "music",
     "footnote_item4": "social clips",
@@ -63,7 +63,7 @@
       "title_highlight": "bold, listenable sound",
       "description": "Increase Volume – Sound Boost takes any audio or video on your iPhone and makes it dramatically louder while keeping it clear and easy to understand. No confusing controls, no editing skills required.",
       "pill_1": "Boost videos from Photos",
-      "pill_2": "Music, podcasts and voice notes",
+      "pill_2": "Music, podcasts, and voice memos",
       "pill_3": "Powerful bass and clarity",
       "rating_1_strong": "Loved by users",
       "rating_1_text": "for boosting quiet videos and audio",
@@ -84,11 +84,11 @@
       "item_1": "People who constantly max out volume but still can't hear.",
       "item_2": "Creators who need loud, clear audio for social videos.",
       "item_3": "Anyone fixing quiet screen recordings and tutorials.",
-      "item_4": "Listeners boosting podcasts, lectures, or voice notes."
+      "item_4": "Listeners boosting podcasts, lectures, or voice memos."
     },
     "testimonial_card": {
       "eyebrow": "Why people keep it",
-      "title": "\"Works good and it's simple.\" – App Store review",
+      "title": "\"Works well and it's simple.\" – App Store review",
       "paragraph_1": "Increase Volume is designed to get out of your way. Open, boost, save, done — with smart defaults and a clean layout that feels native to iPhone.",
       "paragraph_2": "Under the hood, it's a powerful volume booster and sound enhancer that keeps your audio punchy instead of distorted."
     }
@@ -124,7 +124,7 @@
     ],
     "compare_eyebrow": "Positioning",
     "compare_title": "Increase Volume vs typical alternatives",
-    "compare_intro": "Factual differences models and assistants can quote. Competitors are categories, not a ranked list of apps.",
+    "compare_intro": "Factual differences that models and assistants can cite. Competitors are categories, not a ranked list of apps.",
     "compare_col_topic": "Topic",
     "compare_col_system": "iOS system volume",
     "compare_col_app": "Increase Volume – Sound Boost",
@@ -214,7 +214,7 @@
           "ratingValue": "4.8",
           "ratingCount": "120"
         },
-        "description": "iPhone app that imports audio or video, applies up to approximately 10× loudness with bass and clarity controls, and exports a louder file for saving and sharing. On-device processing; not a system-wide volume hack."
+        "description": "iPhone app that imports audio or video, applies up to approximately 10× loudness with bass and clarity controls, and exports a louder file for saving and sharing. On-device processing; does not change system-wide volume."
       },
       "organization": {
         "@context": "https://schema.org",

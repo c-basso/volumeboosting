@@ -1,31 +1,31 @@
 {
   "meta": {
     "lang": "ro",
-    "title": "Crește volumul pe iPhone – Sound Boost | Audio și video de până la ~10× mai tare",
-    "description": "Fă orice audio sau video mai tare pe iPhone: amplificare până la ~10× cu mai multă claritate și bas. Clipuri liniștite din Poze, podcasturi, înregistrări de ecran și note vocale — procesare pe dispozitiv. Încearcă gratuit în App Store.",
-    "keywords": "crește volum iPhone, video mai tare, sunet mai tare, volum mic, booster volum, aplicație iPhone, audio mai tare, înregistrare ecran sunet, Sound Boost, Increase Volume",
+    "title": "Crește volumul pe iPhone – Amplificare sunet | Audio și video de până la ~10× mai tare",
+    "description": "Fă orice audio sau video mai tare pe iPhone. Amplifică volumul până la circa 10× cu mai multă claritate, profunzime și bas pentru muzică, videoclipuri, podcasturi și note vocale.",
+    "keywords": "crește volum iPhone, video mai tare, sunet mai tare, volum mic, booster volum, aplicație iPhone, audio mai tare, înregistrare ecran sunet, amplificare sunet, Increase Volume",
     "canonical": "https://volumeboosting.com/ro/",
-    "og_title": "Crește volumul pe iPhone – Sound Boost",
-    "og_description": "Audio și video pe iPhone până la ~10× mai tare — Increase Volume – Sound Boost. Sunet clar, bas; clipuri și podcasturi liniștite. Procesare pe dispozitiv.",
+    "og_title": "Crește volumul pe iPhone – Amplificare sunet",
+    "og_description": "Fă audio și video mai tari pe iPhone: până la circa 10× cu sunet clar și bas puternic. Ideal pentru clipuri liniștite și podcasturi.",
     "og_image": "https://volumeboosting.com/ro/site_preview.png",
-    "og_image_alt": "Pictograma aplicației Increase Volume – Sound Boost",
+    "og_image_alt": "Pictograma aplicației Increase Volume – Amplificare sunet",
     "og_url": "https://volumeboosting.com/ro/",
     "og_locale": "ro_RO",
     "twitter_url": "https://volumeboosting.com/ro/",
-    "twitter_title": "Crește volumul pe iPhone – Sound Boost",
-    "twitter_description": "Audio și video pe iPhone până la ~10× mai tare — Increase Volume – Sound Boost. Sunet clar, bas; clipuri și podcasturi liniștite. Procesare pe dispozitiv.",
+    "twitter_title": "Crește volumul pe iPhone – Amplificare sunet",
+    "twitter_description": "Fă audio și video mai tari pe iPhone: până la circa 10× cu sunet clar și bas puternic. Ideal pentru clipuri liniștite și podcasturi.",
     "twitter_image": "https://volumeboosting.com/ro/site_preview.png",
-    "twitter_image_alt": "Pictograma aplicației Increase Volume – Sound Boost"
+    "twitter_image_alt": "Pictograma aplicației Increase Volume – Amplificare sunet"
   },
   "header": {
     "app_name_suffix": "Amplificare sunet pentru iPhone",
-    "logo_alt": "Pictograma aplicației Increase Volume – Sound Boost",
-    "app_name": "Increase Volume – Sound Boost",
+    "logo_alt": "Pictograma aplicației Increase Volume – Amplificare sunet",
+    "app_name": "Increase Volume – Amplificare sunet",
     "brand_name": "Volume Booster",
     "brand_subtitle": "Amplificare sunet pentru iPhone",
-    "apple_pill_text": "Pentru iPhone · categoria „Muzică” în App Store",
+    "apple_pill_text": "Pentru iPhone · Muzică",
     "download_text": "Descarcă din App Store",
-    "download_aria_label": "Descarcă Increase Volume – Sound Boost din App Store"
+    "download_aria_label": "Descarcă Increase Volume – Amplificare sunet din App Store"
   },
   "hero": {
     "kicker_value": "10x",
@@ -33,12 +33,12 @@
     "title_prefix": "Fă orice audio sau video",
     "title_highlight": "de până la ~10× mai tare",
     "title_suffix": " fără a pierde claritatea.",
-    "subtitle": "Increase Volume – Sound Boost este boosterul tău de volum pentru iPhone: creează un fișier permanent mai tare — nu doar o redare temporară mai puternică. Corectează în secunde înregistrările de ecran, podcasturile și videoclipurile liniștite — sunet curat, puternic și bas bogat.",
+    "subtitle": "Increase Volume – Amplificare sunet este boosterul tău dedicat de volum pentru iPhone. Corectează în secunde înregistrările de ecran, podcasturile și videoclipurile liniștite, cu sunet curat, puternic și bas bogat.",
     "metadata_primary": "Doar iPhone",
     "metadata_secondary": "Rapid, simplu și respectuos cu confidențialitatea",
     "cta_secondary_prefix": "Amplifică primul tău videoclip",
     "cta_secondary_emphasis": "gratuit",
-    "cta_secondary_suffix": " și păstrează acel nivel de volum pentru totdeauna.",
+    "cta_secondary_suffix": ", păstrează acel volum pentru totdeauna.",
     "footnote_prefix": "Perfect pentru",
     "footnote_item1": "note vocale încete",
     "footnote_item2": "filme",
@@ -46,13 +46,13 @@
     "footnote_item4": "clipuri pentru rețele sociale",
     "footnote_last_joiner": " și ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Sound Boost pe iPhone — amplifică volumul audio și video"
+    "device_image_alt": "Increase Volume – Amplificare sunet pe iPhone — amplifică volumul audio și video"
   },
   "wave": {
     "before_label": "Înainte",
     "after_label": "După",
     "before_text": "Audio original încet și plat",
-    "after_text": "Ieșire amplificată, plină și clară"
+    "after_text": "Amplificat: sunet plin și clar"
   },
   "sections": {
     "features_uses_aria": "Funcții și utilizări",
@@ -61,20 +61,20 @@
       "eyebrow": "Ce face",
       "title_prefix": "Transformă înregistrările încete în",
       "title_highlight": "sunet puternic, plăcut de ascultat",
-      "description": "Increase Volume – Sound Boost ia orice audio sau video de pe iPhone și îl face mult mai tare, păstrându-l clar și ușor de înțeles. Fără comenzi confuze, fără abilități de montaj.",
+      "description": "Increase Volume – Amplificare sunet ia orice audio sau video de pe iPhone și îl face mult mai tare, păstrându-l clar și ușor de înțeles. Fără comenzi confuze, fără abilități de montaj.",
       "pill_1": "Amplifică videoclipuri din aplicația Poze",
       "pill_2": "Muzică, podcasturi și note vocale",
       "pill_3": "Bas puternic și claritate",
       "rating_1_strong": "Apreciată de utilizatori",
       "rating_1_text": "pentru amplificarea videoclipurilor și audio-ului încet",
-      "rating_2_strong": "Categoria „Muzică”",
-      "rating_2_text": "în App Store"
+      "rating_2_strong": "Muzică",
+      "rating_2_text": "categorie în App Store"
     },
     "steps_card": {
       "eyebrow": "În câteva secunde",
       "title": "Amplificarea audio este atât de simplă.",
       "step_1": "Importă un videoclip, o melodie sau o înregistrare — sau începe direct din aplicația Poze.",
-      "step_2": "Trage cursorul de amplificare pentru volum, claritate și bas în timp real.",
+      "step_2": "Trage cursorul de amplificare pentru a ajusta volumul, claritatea și basul în timp real.",
       "step_3": "Salvează fișierul amplificat înapoi pe dispozitiv și partajează-l oriunde.",
       "label": "Ideal pentru: înregistrări de ecran, clipuri TikTok/Reels, interviuri, note vocale și multe altele."
     },
@@ -89,13 +89,13 @@
     "testimonial_card": {
       "eyebrow": "De ce o păstrează",
       "title": "\"Merge bine și e simplă.\" – recenzie App Store",
-      "paragraph_1": "Increase Volume este gândită să nu te încurce: deschide, amplifică, salvează — gata. Valori implicite inteligente și un layout curat, în spiritul iPhone-ului.",
+      "paragraph_1": "Increase Volume este gândită să nu îți stea în cale: Deschide, amplifică, salvează — gata. Valori implicite inteligente și un layout curat care pare nativ pe iPhone.",
       "paragraph_2": "Sub capotă, un booster de volum puternic și îmbunătățire a sunetului — audio pregnant, fără distorsiuni exagerate."
     }
   },
   "geo": {
     "summary_aria": "Ce este această aplicație",
-    "summary_lead": "Rezumat: Increase Volume – Sound Boost este o aplicație pentru iPhone (categoria „Muzică” în App Store) care procesează fișiere audio și video pe dispozitiv, aplică până la ~10× amplificare cu control al clarității și basului și salvează un fișier nou mai tare de păstrat sau partajat. Nu este un instrument care ocolește limita de volum a difuzorului pentru întregul sistem.",
+    "summary_lead": "Rezumat: Increase Volume – Amplificare sunet este o aplicație pentru iPhone care procesează fișiere audio și video pe dispozitiv, aplică amplificare de până la circa 10× cu controale pentru claritate și bas și salvează un fișier nou mai tare de păstrat sau partajat. Nu modifică volumul global al sistemului.",
     "summary_body": "Publicată în Apple App Store de c-basso. Abordează aceleași nevoi ca amplificarea podcasturilor încete, notelor vocale, înregistrărilor de ecran și clipurilor sociale — similar normalizării în editoare desktop, dar optimizată pentru un flux iOS scurt, la atingere.",
     "row_aria": "Fapte și comparație",
     "stats_eyebrow": "În cifre",
@@ -111,7 +111,7 @@
       },
       {
         "value": "4,8 / 5",
-        "label": "Evaluare agregată în datele structurate (120 evaluări); verifică live în App Store."
+        "label": "Evaluare agregată în datele structurate (120 evaluări); verifică live pe pagina din App Store."
       },
       {
         "value": "Gratuită",
@@ -119,7 +119,7 @@
       },
       {
         "value": "Import → amplificare → salvare",
-        "label": "Flux principal: fișiere locale la intrare, fișier procesat la ieșire."
+        "label": "Flux principal: fișiere locale la intrare, fișier ajustat la ieșire."
       }
     ],
     "compare_eyebrow": "Poziționare",
@@ -127,7 +127,7 @@
     "compare_intro": "Diferențe factuale pe care modelele și asistenții le pot cita. „Concurenții” sunt categorii de instrumente, nu un clasament de aplicații.",
     "compare_col_topic": "Subiect",
     "compare_col_system": "Volumul de sistem iOS",
-    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_col_app": "Increase Volume – Amplificare sunet",
     "compare_rows": [
       {
         "topic": "Creează un fișier nou mai tare",
@@ -136,7 +136,7 @@
       },
       {
         "topic": "Funcționează offline pe dispozitiv",
-        "system": "Nu se aplică în cazul exportului de fișiere.",
+        "system": "Nu se aplică în contextul exportului de fișiere.",
         "app": "Da — procesare pe dispozitiv."
       },
       {
@@ -153,7 +153,7 @@
     "faq_section_title": "Întrebări frecvente"
   },
   "footer": {
-    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "copyright": "© {year} c-basso · Increase Volume – Amplificare sunet",
     "last_updated_label": "Ultima actualizare:",
     "privacy_link": "Politica de confidențialitate",
     "privacy_url": "/privacy.html",
@@ -165,11 +165,11 @@
     "breadcrumb_home": "Acasă",
     "faq": [
       {
-        "question": "Ce este Increase Volume – Sound Boost?",
-        "answer": "Este o aplicație pentru iPhone în categoria „Muzică” din App Store care face fișierele audio și video importate mai tari — până la ~10× — și permite salvarea unui fișier nou. Procesează media pe dispozitiv; este pentru înregistrări încete, podcasturi și clipuri, nu pentru ocolirea limitelor hardware iOS pentru tot sunetul de sistem."
+        "question": "Ce este Increase Volume – Amplificare sunet?",
+        "answer": "Este o aplicație pentru iPhone în categoria „Muzică” din App Store care face fișierele audio și video importate mai tari — până la circa 10× — și permite salvarea unui fișier nou. Procesează media pe dispozitiv; este pentru înregistrări încete, podcasturi și clipuri, nu pentru ocolirea limitelor hardware iOS pentru tot sunetul de sistem."
       },
       {
-        "question": "Cum funcționează Increase Volume – Sound Boost?",
+        "question": "Cum funcționează Increase Volume – Amplificare sunet?",
         "answer": "Imporți un videoclip, o melodie sau o înregistrare (inclusiv din Poze), reglezi volumul cu cursorul de amplificare plus claritate și bas, asculți previzualizarea în timp real, apoi salvezi fișierul amplificat pe iPhone sau îl partajezi."
       },
       {
@@ -189,16 +189,16 @@
         "answer": "Da. După procesare salvezi fișierul mai tare pe dispozitiv și îl poți partaja ca orice alt fișier media."
       },
       {
-        "question": "Cât costă Increase Volume – Sound Boost?",
+        "question": "Cât costă Increase Volume – Amplificare sunet?",
         "answer": "Prețul actual și achizițiile în aplicație sunt pe pagina App Store. Datele structurate ale site-ului pot menționa o ofertă gratuită; verifică mereu la Apple înainte de a cita."
       },
       {
-        "question": "Cine publică Increase Volume – Sound Boost?",
+        "question": "Cine publică Increase Volume – Amplificare sunet?",
         "answer": "Aplicația este publicată de c-basso și distribuită prin Apple App Store (ID 6741472421). Site-ul produsului este volumeboosting.com."
       },
       {
         "question": "Cum fac un videoclip prea încet mai tare pe iPhone?",
-        "answer": "Cu Increase Volume – Sound Boost imporți videoclipul (ex. din Poze), reglezi cursorul de amplificare cu previzualizare live și salvezi o copie cu pistă audio mai tare. Astfel ajustezi nivelul în fișier — spre deosebire de simpla creștere a volumului de sistem la redare."
+        "answer": "Cu Increase Volume – Amplificare sunet imporți videoclipul (ex. din Poze), reglezi cursorul de amplificare cu previzualizare live și salvezi o copie cu pistă audio mai tare. Astfel ajustezi nivelul în fișier — spre deosebire de simpla creștere a volumului de sistem la redare."
       },
       {
         "question": "Aplicația crește volumul maxim al iPhone-ului pentru muzică și apeluri?",
@@ -209,7 +209,7 @@
       "software_application": {
         "@context": "https://schema.org",
         "@type": "MobileApplication",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – Amplificare sunet",
         "operatingSystem": "iOS",
         "applicationCategory": "MusicApplication",
         "offers": {
@@ -222,7 +222,7 @@
           "ratingValue": "4.8",
           "ratingCount": "120"
         },
-        "description": "Aplicație pentru iPhone care importă audio sau video, aplică amplificare de până la ~10× cu control asupra basului și clarității și exportă un fișier mai tare de salvat și partajat. Procesare pe dispozitiv; nu crește volumul de sistem pentru toate aplicațiile."
+        "description": "Aplicație pentru iPhone care importă audio sau video, aplică amplificare de până la circa 10× cu control asupra basului și clarității și exportă un fișier mai tare de salvat și partajat. Procesare pe dispozitiv; nu modifică volumul global al sistemului."
       },
       "organization": {
         "@context": "https://schema.org",
@@ -230,7 +230,7 @@
         "name": "c-basso",
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
-        "description": "Publicator independent al Increase Volume – Sound Boost și al utilitarelor iOS conexe.",
+        "description": "Publicator independent al Increase Volume – Amplificare sunet și al utilitarelor iOS conexe.",
         "sameAs": [
           "https://x.com/c__basso"
         ]
@@ -238,7 +238,7 @@
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – Amplificare sunet",
         "url": "https://volumeboosting.com/ro/",
         "potentialAction": {
           "@type": "SearchAction",
@@ -260,7 +260,7 @@
           {
             "@type": "HowToStep",
             "name": "Amplifică volumul",
-            "text": "Trage cursorul de amplificare pentru volum, claritate și bas în timp real."
+            "text": "Trage cursorul de amplificare pentru a ajusta volumul, claritatea și basul în timp real."
           },
           {
             "@type": "HowToStep",

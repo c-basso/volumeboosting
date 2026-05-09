@@ -1,44 +1,44 @@
 {
   "meta": {
     "lang": "th",
-    "title": "เพิ่มระดับเสียงบน iPhone – Sound Boost | เสียงและวิดีโอดังขึ้นได้ถึงประมาณ 10 เท่า",
-    "description": "ทำให้เสียงหรือวิดีโอใดก็ตามดังขึ้นบน iPhone: ขยายเสียงได้ถึงประมาณ 10 เท่า พร้อมความชัดและเบสที่ดีขึ้น เหมาะกับคลิปเบาจากรูปภาพ พอดแคสต์ การบันทึกหน้าจอ และโน้ตเสียง — ประมวลผลบนเครื่อง ลองใช้ฟรีบน App Store",
-    "keywords": "เพิ่มเสียง iPhone, วิดีโอเสียงเบา, เพิ่มระดับเสียง, บูสเสียง, แอป iPhone, เสียงดังขึ้น, บันทึกหน้าจอเสียงเบา, ปรับปรุงเสียงวิดีโอ, Sound Boost, Increase Volume",
+    "title": "เพิ่มระดับเสียงบน iPhone – บูสเสียง | เสียงและวิดีโอดังขึ้นได้ถึง ~10×",
+    "description": "ทำให้เสียงหรือวิดีโอใดก็ตามดังขึ้นบน iPhone เพิ่มความดังได้ประมาณ 10× พร้อมความชัด ความลึกของเสียง และเบสที่ดีขึ้น — เหมาะกับเพลง วิดีโอ พอดแคสต์ และโน้ตเสียง",
+    "keywords": "เพิ่มเสียง iPhone, วิดีโอเสียงเบา, เพิ่มระดับเสียง, บูสเสียง, แอป iPhone, เสียงดังขึ้น, บันทึกหน้าจอเสียงเบา, ปรับปรุงเสียงวิดีโอ, บูสเสียง, Increase Volume",
     "canonical": "https://volumeboosting.com/th/",
-    "og_title": "เพิ่มระดับเสียงบน iPhone – Sound Boost",
-    "og_description": "เสียงและวิดีโอบน iPhone ดังขึ้น ~10× — Increase Volume – Sound Boost เสียงชัด เบส คลิปและพอดแคสต์เบา ประมวลผลบนเครื่อง",
+    "og_title": "เพิ่มระดับเสียงบน iPhone – บูสเสียง",
+    "og_description": "ทำให้เสียงและวิดีโอบน iPhone ดังขึ้นประมาณ 10× เสียงชัด เบสแน่น แก้ไขได้รวดเร็ว เหมาะกับคลิปเบา พอดแคสต์ และการบันทึกหน้าจอ",
     "og_image": "https://volumeboosting.com/th/site_preview.png",
-    "og_image_alt": "ไอคอนแอป Increase Volume – Sound Boost",
+    "og_image_alt": "ไอคอนแอป Increase Volume – บูสเสียง",
     "og_url": "https://volumeboosting.com/th/",
     "og_locale": "th_TH",
     "twitter_url": "https://volumeboosting.com/th/",
-    "twitter_title": "เพิ่มระดับเสียงบน iPhone – Sound Boost",
-    "twitter_description": "เสียงและวิดีโอบน iPhone ดังขึ้น ~10× — Increase Volume – Sound Boost เสียงชัด เบส คลิปและพอดแคสต์เบา ประมวลผลบนเครื่อง",
+    "twitter_title": "เพิ่มระดับเสียงบน iPhone – บูสเสียง",
+    "twitter_description": "ทำให้เสียงและวิดีโอบน iPhone ดังขึ้นประมาณ 10× เสียงชัด เบสแน่น แก้ไขได้รวดเร็ว เหมาะกับคลิปเบา พอดแคสต์ และการบันทึกหน้าจอ",
     "twitter_image": "https://volumeboosting.com/th/site_preview.png",
-    "twitter_image_alt": "ไอคอนแอป Increase Volume – Sound Boost"
+    "twitter_image_alt": "ไอคอนแอป Increase Volume – บูสเสียง"
   },
   "header": {
     "app_name_suffix": "บูสเสียงสำหรับ iPhone",
-    "logo_alt": "ไอคอนแอป Increase Volume – Sound Boost",
-    "app_name": "Increase Volume – Sound Boost",
+    "logo_alt": "ไอคอนแอป Increase Volume – บูสเสียง",
+    "app_name": "Increase Volume – บูสเสียง",
     "brand_name": "Volume Booster",
     "brand_subtitle": "บูสเสียงสำหรับ iPhone",
-    "apple_pill_text": "สำหรับ iPhone · หมวดเพลงใน App Store",
+    "apple_pill_text": "สำหรับ iPhone · เพลง",
     "download_text": "ดาวน์โหลดบน App Store",
-    "download_aria_label": "ดาวน์โหลด Increase Volume – Sound Boost บน App Store"
+    "download_aria_label": "ดาวน์โหลด Increase Volume – บูสเสียง บน App Store"
   },
   "hero": {
     "kicker_value": "10x",
     "kicker_text": "เปลี่ยนวิดีโอและเสียงเบาให้ดัง ชัด และฟังง่าย",
     "title_prefix": "ทำให้เสียงหรือวิดีโอใดก็ตาม",
-    "title_highlight": "ดังขึ้นได้ถึงประมาณ 10 เท่า",
+    "title_highlight": "ดังขึ้นได้ถึง ~10×",
     "title_suffix": " โดยไม่เสียความชัด",
-    "subtitle": "Increase Volume – Sound Boost คือตัวบูสระดับเสียงเฉพาะ iPhone: สร้างไฟล์ที่ดังขึ้นอย่างถาวร — ไม่ใช่แค่เล่นแล้วดังชั่วคราว แก้คลิปบันทึกหน้าจอ พอดแคสต์ และวิดีโอเบาได้ในไม่กี่วินาที ด้วยเสียงสะอาด แรง และเบสเต็ม",
+    "subtitle": "Increase Volume – บูสเสียง คือตัวบูสระดับเสียงเฉพาะสำหรับ iPhone ของคุณ แก้คลิปบันทึกหน้าจอ พอดแคสต์ และวิดีโอเบาได้ในไม่กี่วินาที ด้วยเสียงสะอาด แรง และเบสเต็ม",
     "metadata_primary": "เฉพาะ iPhone",
     "metadata_secondary": "เร็ว เรียบง่าย และเคารพความเป็นส่วนตัว",
     "cta_secondary_prefix": "บูสวิดีโอแรกของคุณ",
     "cta_secondary_emphasis": "ฟรี",
-    "cta_secondary_suffix": " และคงระดับเสียงนั้นไว้ได้ตลอดไป",
+    "cta_secondary_suffix": ", คงความดังนั้นไว้ได้ตลอดไป",
     "footnote_prefix": "เหมาะกับ",
     "footnote_item1": "โน้ตเสียงเบา",
     "footnote_item2": "หนัง",
@@ -46,13 +46,13 @@
     "footnote_item4": "คลิปโซเชียล",
     "footnote_last_joiner": " และ ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Sound Boost บน iPhone — เพิ่มความดังของเสียงและวิดีโอ"
+    "device_image_alt": "Increase Volume – บูสเสียง บน iPhone — เพิ่มความดังของเสียงและวิดีโอ"
   },
   "wave": {
     "before_label": "ก่อน",
     "after_label": "หลัง",
     "before_text": "เสียงต้นฉบับเบาและแบน",
-    "after_text": "เสียงหลังปรับที่ดังขึ้น เต็ม และชัดขึ้น"
+    "after_text": "หลังบูส: เสียงเต็มและชัดขึ้น"
   },
   "sections": {
     "features_uses_aria": "ฟีเจอร์และการใช้งาน",
@@ -61,20 +61,20 @@
       "eyebrow": "ทำอะไรได้",
       "title_prefix": "เปลี่ยนการบันทึกที่เสียงเบาให้เป็น",
       "title_highlight": "เสียงดัง ชัด และฟังง่าย",
-      "description": "Increase Volume – Sound Boost รับเสียงหรือวิดีโอใดก็ได้บน iPhone แล้วทำให้ดังขึ้นอย่างชัดเจน ยังคงฟังรู้เรื่อง ไม่มีปุ่มสับสน ไม่ต้องมีทักษะตัดต่อ",
+      "description": "Increase Volume – บูสเสียง รับเสียงหรือวิดีโอใดก็ได้บน iPhone แล้วทำให้ดังขึ้นอย่างชัดเจน ยังคงฟังรู้เรื่อง ไม่มีปุ่มสับสน ไม่ต้องมีทักษะตัดต่อ",
       "pill_1": "บูสวิดีโอจากแอปรูปภาพ",
       "pill_2": "เพลง พอดแคสต์ และโน้ตเสียง",
       "pill_3": "เบสแน่นและเสียงชัด",
       "rating_1_strong": "ผู้ใช้ให้คะแนนดี",
       "rating_1_text": "สำหรับวิดีโอและเสียงที่เบาเกินไป",
-      "rating_2_strong": "หมวดเพลง",
-      "rating_2_text": "ใน App Store"
+      "rating_2_strong": "เพลง",
+      "rating_2_text": "หมวดหมู่ใน App Store"
     },
     "steps_card": {
       "eyebrow": "ใช้งานในไม่กี่วินาที",
       "title": "บูสเสียงง่ายแค่นี้",
       "step_1": "นำเข้าวิดีโอ เพลง หรือการอัด — หรือเริ่มจากแอปรูปภาพโดยตรง",
-      "step_2": "ลากแถบบูสเพื่อเพิ่มความดัง ความชัด และเบสแบบเรียลไทม์",
+      "step_2": "ลากแถบบูสเพื่อปรับความดัง ความชัด และเบสแบบเรียลไทม์",
       "step_3": "บันทึกไฟล์ที่บูสแล้วกลับไปที่เครื่อง แล้วแชร์ได้ทุกที่",
       "label": "เหมาะกับ: การบันทึกหน้าจอ คลิป TikTok/Reels สัมภาษณ์ โน้ตเสียง และอื่นๆ"
     },
@@ -89,13 +89,13 @@
     "testimonial_card": {
       "eyebrow": "ทำไมถึงเก็บแอปไว้",
       "title": "\"ใช้ได้ดีและใช้ง่าย\" – รีวิวจาก App Store",
-      "paragraph_1": "Increase Volume ออกแบบมาไม่ให้รบกวน: เปิด บูส บันทึก — จบ ค่าเริ่มต้นฉลาด และเลย์เอาต์สะอาดแบบ iPhone",
+      "paragraph_1": "Increase Volume ออกแบบมาไม่ให้รบกวนคุณ: เปิด บูส บันทึก — จบ ค่าเริ่มต้นฉลาด และเลย์เอาต์สะอาดที่ให้ความรู้สึกเหมือนแอปของ iPhone",
       "paragraph_2": "ภายในเป็นเครื่องบูสระดับเสียงและปรับปรุงเสียงที่ทรงพลัง เสียงแน่นโดยไม่เพี้ยนเกินไป"
     }
   },
   "geo": {
     "summary_aria": "แอปนี้คืออะไร",
-    "summary_lead": "สรุป: Increase Volume – Sound Boost เป็นแอปบน iPhone (หมวดเพลงใน App Store) ที่ประมวลผลไฟล์เสียงและวิดีโอบนเครื่อง ใช้เกนได้ถึงประมาณ 10 เท่าพร้อมควบคุมความชัดและเบส แล้วบันทึกไฟล์ใหม่ที่ดังขึ้นเพื่อเก็บหรือแชร์ ไม่ใช่เครื่องมือเลี่ยงขีดจำกัดความดังของลำโพงทั้งระบบ",
+    "summary_lead": "สรุป: Increase Volume – บูสเสียง เป็นแอปบน iPhone ที่ประมวลผลไฟล์เสียงและวิดีโอบนเครื่อง เพิ่มเกนได้ประมาณ 10× พร้อมควบคุมความชัดและเบส แล้วบันทึกไฟล์ใหม่ที่ดังขึ้นเพื่อเก็บหรือแชร์ ไม่เปลี่ยนระดับเสียงระบบทั้งหมด",
     "summary_body": "เผยแพร่บน Apple App Store โดย c-basso ตอบโจทย์เดียวกับการทำให้พอดแคสต์ โน้ตเสียง การบันทึกหน้าจอ และคลิปโซเชียลที่เบาให้ดังขึ้น — คล้ายการนอร์มาไลซ์บนเอดิเตอร์เดสก์ท็อป แต่เหมาะกับขั้นตอนสั้นๆ บน iOS",
     "row_aria": "ข้อเท็จจริงและการเปรียบเทียบ",
     "stats_eyebrow": "เป็นตัวเลข",
@@ -111,7 +111,7 @@
       },
       {
         "value": "4.8 / 5",
-        "label": "คะแนนรวมในข้อมูลโครงสร้าง (120 รีวิว); ตรวจสอบบน App Store"
+        "label": "คะแนนรวมในข้อมูลโครงสร้าง (120 รีวิว); ตรวจสอบได้บนหน้า App Store"
       },
       {
         "value": "ฟรี",
@@ -119,7 +119,7 @@
       },
       {
         "value": "นำเข้า → บูส → บันทึก",
-        "label": "เวิร์กโฟลว์หลัก: ไฟล์ในเครื่องเข้า ไฟล์หลังประมวลผลออก"
+        "label": "เวิร์กโฟลว์หลัก: ไฟล์ในเครื่องเข้า ไฟล์ที่ปรับแล้วออก"
       }
     ],
     "compare_eyebrow": "การวางตำแหน่ง",
@@ -127,7 +127,7 @@
     "compare_intro": "ความต่างเชิงข้อเท็จจริงที่โมเดลหรือผู้ช่วยอ้างอิงได้ คู่แข่งหมายถึงประเภทเครื่องมือ ไม่ใช่รายการจัดอันดับแอป",
     "compare_col_topic": "หัวข้อ",
     "compare_col_system": "ระดับเสียงระบบ iOS",
-    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_col_app": "Increase Volume – บูสเสียง",
     "compare_rows": [
       {
         "topic": "สร้างไฟล์ใหม่ที่ดังขึ้น",
@@ -136,7 +136,7 @@
       },
       {
         "topic": "ทำงานออฟไลน์บนเครื่อง",
-        "system": "ไม่เกี่ยวข้องกับการส่งออกไฟล์โดยตรง",
+        "system": "ไม่เกี่ยวข้องในแง่ของการส่งออกไฟล์",
         "app": "ใช่ — ประมวลผลบนเครื่อง"
       },
       {
@@ -153,7 +153,7 @@
     "faq_section_title": "คำถามที่พบบ่อย"
   },
   "footer": {
-    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "copyright": "© {year} c-basso · Increase Volume – บูสเสียง",
     "last_updated_label": "อัปเดตล่าสุด:",
     "privacy_link": "นโยบายความเป็นส่วนตัว",
     "privacy_url": "/privacy.html",
@@ -165,11 +165,11 @@
     "breadcrumb_home": "หน้าแรก",
     "faq": [
       {
-        "question": "Increase Volume – Sound Boost คืออะไร?",
-        "answer": "เป็นแอปบน iPhone ในหมวดเพลงของ App Store ที่ทำให้ไฟล์เสียงและวิดีโอที่นำเข้าดังขึ้น — ถึงประมาณ 10 เท่า — และบันทึกไฟล์ใหม่ได้ ประมวลผลสื่อบนเครื่อง เหมาะกับการบันทึกที่เสียงเบา พอดแคสต์ และคลิป ไม่ใช่การเลี่ยงขีดจำกัดฮาร์ดแวร์ iOS สำหรับเสียงระบบทั้งหมด"
+        "question": "Increase Volume – บูสเสียง คืออะไร?",
+        "answer": "เป็นแอปบน iPhone ในหมวดเพลงของ App Store ที่ทำให้ไฟล์เสียงและวิดีโอที่นำเข้าดังขึ้น — ประมาณ 10× — และบันทึกไฟล์ใหม่ได้ ประมวลผลสื่อบนเครื่อง เหมาะกับการบันทึกที่เสียงเบา พอดแคสต์ และคลิป ไม่ใช่การเลี่ยงขีดจำกัดฮาร์ดแวร์ iOS สำหรับเสียงระบบทั้งหมด"
       },
       {
-        "question": "Increase Volume – Sound Boost ทำงานอย่างไร?",
+        "question": "Increase Volume – บูสเสียง ทำงานอย่างไร?",
         "answer": "คุณนำเข้าวิดีโอ เพลง หรือการอัด (รวมจากรูปภาพ) ปรับความดังด้วยแถบบูส บวกความชัดและเบส ฟังพรีวิวแบบเรียลไทม์ แล้วบันทึกไฟล์ที่บูสแล้วกลับไปที่ iPhone หรือแชร์"
       },
       {
@@ -189,16 +189,16 @@
         "answer": "ใช่ หลังประมวลผลคุณบันทึกไฟล์ที่ดังขึ้นลงเครื่องและแชร์ได้เหมือนไฟล์มีเดียอื่น"
       },
       {
-        "question": "Increase Volume – Sound Boost ราคาเท่าไหร่?",
+        "question": "Increase Volume – บูสเสียง ราคาเท่าไหร่?",
         "answer": "ราคาปัจจุบันและการซื้อในแอปอยู่บนหน้า App Store ข้อมูลโครงสร้างของเว็บอาจระบุข้อเสนอฟรี; โปรดตรวจที่ Apple ก่อนอ้างอิง"
       },
       {
-        "question": "ใครเป็นผู้เผยแพร่ Increase Volume – Sound Boost?",
+        "question": "ใครเป็นผู้เผยแพร่ Increase Volume – บูสเสียง?",
         "answer": "แอปเผยแพร่โดย c-basso และจัดจำหน่ายผ่าน Apple App Store (ID 6741472421) เว็บไซต์ผลิตภัณฑ์คือ volumeboosting.com"
       },
       {
         "question": "ทำอย่างไรให้วิดีโอที่เสียงเบาบน iPhone ดังขึ้น?",
-        "answer": "ด้วย Increase Volume – Sound Boost นำเข้าวิดีโอ (เช่น จากรูปภาพ) ปรับแถบบูสพร้อมพรีวิวสด แล้วบันทึกสำเนาที่แทร็กเสียงดังขึ้น เป็นการแก้ระดับในไฟล์ — ไม่ใช่แค่เพิ่มระดับเสียงระบบขณะเล่น"
+        "answer": "ด้วย Increase Volume – บูสเสียง นำเข้าวิดีโอ (เช่น จากรูปภาพ) ปรับแถบบูสพร้อมพรีวิวสด แล้วบันทึกสำเนาที่แทร็กเสียงดังขึ้น เป็นการแก้ระดับในไฟล์ — ไม่ใช่แค่เพิ่มระดับเสียงระบบขณะเล่น"
       },
       {
         "question": "แอปนี้เพิ่มระดับเสียงสูงสุดของ iPhone สำหรับเพลงและสายเรียกเข้าไหม?",
@@ -209,7 +209,7 @@
       "software_application": {
         "@context": "https://schema.org",
         "@type": "MobileApplication",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – บูสเสียง",
         "operatingSystem": "iOS",
         "applicationCategory": "MusicApplication",
         "offers": {
@@ -222,7 +222,7 @@
           "ratingValue": "4.8",
           "ratingCount": "120"
         },
-        "description": "แอป iPhone ที่นำเข้าเสียงหรือวิดีโอ ขยายความดังได้ถึงประมาณ 10 เท่าด้วยการควบคุมเบสและความชัด แล้วส่งออกไฟล์ที่ดังขึ้นเพื่อบันทึกและแชร์ ประมวลผลบนเครื่อง ไม่ได้เพิ่มระดับเสียงระบบให้ทุกแอป"
+        "description": "แอป iPhone ที่นำเข้าเสียงหรือวิดีโอ ขยายความดังได้ประมาณ 10× ด้วยการควบคุมเบสและความชัด แล้วส่งออกไฟล์ที่ดังขึ้นเพื่อบันทึกและแชร์ ประมวลผลบนเครื่อง ไม่เปลี่ยนระดับเสียงระบบทั้งหมด"
       },
       "organization": {
         "@context": "https://schema.org",
@@ -230,7 +230,7 @@
         "name": "c-basso",
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
-        "description": "ผู้เผยแพร่อิสระของ Increase Volume – Sound Boost และยูทิลิตี้ iOS ที่เกี่ยวข้อง",
+        "description": "ผู้เผยแพร่อิสระของ Increase Volume – บูสเสียง และยูทิลิตี้ iOS ที่เกี่ยวข้อง",
         "sameAs": [
           "https://x.com/c__basso"
         ]
@@ -238,7 +238,7 @@
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – บูสเสียง",
         "url": "https://volumeboosting.com/th/",
         "potentialAction": {
           "@type": "SearchAction",
@@ -260,7 +260,7 @@
           {
             "@type": "HowToStep",
             "name": "บูสระดับเสียง",
-            "text": "ลากแถบบูสเพื่อเพิ่มความดัง ความชัด และเบสแบบเรียลไทม์"
+            "text": "ลากแถบบูสเพื่อปรับความดัง ความชัด และเบสแบบเรียลไทม์"
           },
           {
             "@type": "HowToStep",

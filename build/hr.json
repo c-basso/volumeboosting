@@ -1,31 +1,31 @@
 {
   "meta": {
     "lang": "hr",
-    "title": "Pojačaj glasnoću – Sound Boost | Svaki zvuk ili video glasniji",
+    "title": "Pojačaj glasnoću – Pojačanje zvuka | Svaki zvuk ili video glasniji",
     "description": "Učini bilo koji zvuk ili video glasnijim na iPhoneu. Pojačanje do ~10× s boljom jasnoćom, dubinom i basom — glazba, video, podcasti i glasovne bilješke. Obrada na uređaju. Isprobaj besplatno u App Storeu.",
-    "keywords": "pojačaj glasnoću iPhone, glasniji video, tihi video, pojačivač glasnoće, aplikacija za iPhone, glasniji zvuk, tihi snimak zaslona, Sound Boost, Increase Volume",
+    "keywords": "pojačaj glasnoću iPhone, glasniji video, tihi video, pojačivač glasnoće, aplikacija za iPhone, glasniji zvuk, tihi snimak zaslona, pojačanje zvuka, Increase Volume",
     "canonical": "https://volumeboosting.com/hr/",
-    "og_title": "Pojačaj glasnoću – Sound Boost",
-    "og_description": "Zvuk i video na iPhoneu do ~10× glasnije — Increase Volume – Sound Boost. Čist zvuk, bas; tihi klipovi i podcasti. Obrada na uređaju.",
+    "og_title": "Pojačaj glasnoću – Pojačanje zvuka",
+    "og_description": "Zvuk i video na iPhoneu do ~10× glasnije — Increase Volume – Pojačanje zvuka. Čist zvuk, bas; tihi klipovi i podcasti. Obrada na uređaju.",
     "og_image": "https://volumeboosting.com/hr/site_preview.png",
-    "og_image_alt": "Ikona aplikacije Increase Volume – Sound Boost",
+    "og_image_alt": "Ikona aplikacije Increase Volume – Pojačanje zvuka",
     "og_url": "https://volumeboosting.com/hr/",
     "og_locale": "hr_HR",
     "twitter_url": "https://volumeboosting.com/hr/",
-    "twitter_title": "Pojačaj glasnoću – Sound Boost",
-    "twitter_description": "Zvuk i video na iPhoneu do ~10× glasnije — Increase Volume – Sound Boost. Čist zvuk, bas; tihi klipovi i podcasti. Obrada na uređaju.",
+    "twitter_title": "Pojačaj glasnoću – Pojačanje zvuka",
+    "twitter_description": "Zvuk i video na iPhoneu do ~10× glasnije — Increase Volume – Pojačanje zvuka. Čist zvuk, bas; tihi klipovi i podcasti. Obrada na uređaju.",
     "twitter_image": "https://volumeboosting.com/hr/site_preview.png",
-    "twitter_image_alt": "Ikona aplikacije Increase Volume – Sound Boost"
+    "twitter_image_alt": "Ikona aplikacije Increase Volume – Pojačanje zvuka"
   },
   "header": {
     "app_name_suffix": "Pojačanje zvuka za iPhone",
-    "logo_alt": "Ikona aplikacije Increase Volume – Sound Boost",
-    "app_name": "Increase Volume – Sound Boost",
+    "logo_alt": "Ikona aplikacije Increase Volume – Pojačanje zvuka",
+    "app_name": "Increase Volume – Pojačanje zvuka",
     "brand_name": "Volume Booster",
     "brand_subtitle": "Pojačanje zvuka za iPhone",
-    "apple_pill_text": "Za iPhone · kategorija Glazba u App Storeu",
+    "apple_pill_text": "Za iPhone · Glazba",
     "download_text": "Preuzmi u App Storeu",
-    "download_aria_label": "Preuzmi Increase Volume – Sound Boost u App Storeu"
+    "download_aria_label": "Preuzmi Increase Volume – Pojačanje zvuka u App Storeu"
   },
   "hero": {
     "kicker_value": "10x",
@@ -33,9 +33,9 @@
     "title_prefix": "Učini bilo koji zvuk ili video",
     "title_highlight": "do ~10× glasnijim",
     "title_suffix": "bez gubitka jasnoće.",
-    "subtitle": "Increase Volume – Sound Boost je tvoj posvećeni pojačivač glasnoće za iPhone. Za par sekundi popravi tihe snimke zaslona, podcaste i videe — čist, jak zvuk i duboki bas.",
+    "subtitle": "Increase Volume – Pojačanje zvuka je tvoj posvećeni pojačivač glasnoće za iPhone. Za par sekundi popravi tihe snimke zaslona, podcaste i videe — čist, jak zvuk i duboki bas.",
     "metadata_primary": "Samo za iPhone",
-    "metadata_secondary": "Brzo, jednostavno i uz poštovanje privatnosti",
+    "metadata_secondary": "Brzo i jednostavno, uz poštovanje privatnosti",
     "cta_secondary_prefix": "Pojačaj svoj prvi video",
     "cta_secondary_emphasis": "besplatno",
     "cta_secondary_suffix": " i zadrži tu glasnoću zauvijek.",
@@ -46,13 +46,13 @@
     "footnote_item4": "klipove na društvenim mrežama",
     "footnote_last_joiner": " i ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Sound Boost na iPhoneu — pojačaj zvuk i video"
+    "device_image_alt": "Increase Volume – Pojačanje zvuka na iPhoneu — pojačaj zvuk i video"
   },
   "wave": {
     "before_label": "Prije",
     "after_label": "Poslije",
     "before_text": "Tih, ravan izvorni zvuk",
-    "after_text": "Pojačan, pun i čist izlaz"
+    "after_text": "Pojačan, pun i čist zvuk"
   },
   "sections": {
     "features_uses_aria": "Značajke i načini uporabe",
@@ -61,7 +61,7 @@
       "eyebrow": "Što radi",
       "title_prefix": "Od tihih snimki napravi",
       "title_highlight": "izražen, ugodan za slušanje zvuk",
-      "description": "Increase Volume – Sound Boost uzima bilo koju audio ili video datoteku na tvom iPhoneu i čini je znatno glasnijom — ostaje razumljiva. Bez zbunjujućih kontrola, bez vještina uređivanja.",
+      "description": "Increase Volume – Pojačanje zvuka uzima bilo koju audio ili video datoteku na tvom iPhoneu i čini je znatno glasnijom — ostaje razumljiva. Bez zbunjujućih kontrola, bez vještina uređivanja.",
       "pill_1": "Pojačaj video iz Fotografija",
       "pill_2": "Glazba, podcasti i glasovne bilješke",
       "pill_3": "Jak bas i jasnoća",
@@ -74,7 +74,7 @@
       "eyebrow": "Za nekoliko sekundi",
       "title": "Ovako jednostavno pojačavaš zvuk.",
       "step_1": "Uvezi video, pjesmu ili snimku — ili kreni izravno iz aplikacije Fotografije.",
-      "step_2": "Povuci klizač pojačanja da u stvarnom vremenu dodaš glasnoću, jasnoću i bas.",
+      "step_2": "Povuci klizač pojačanja da u stvarnom vremenu podesiš glasnoću, jasnoću i bas.",
       "step_3": "Spremi pojačanu datoteku natrag na uređaj i podijeli je bilo gdje.",
       "label": "Idealno za: snimke zaslona, TikTok/Reels klipove, intervjue, glasovne bilješke i više."
     },
@@ -89,13 +89,13 @@
     "testimonial_card": {
       "eyebrow": "Zašto ostaju uz nju",
       "title": "„Radi dobro i jednostavno je.“ – recenzija u App Storeu",
-      "paragraph_1": "Increase Volume je osmišljena da ne smeta. Otvori, pojačaj, spremi — gotovo — uz pametne zadane vrijednosti i čist raspored koji djeluje prirodno na iPhoneu.",
+      "paragraph_1": "Increase Volume je osmišljena da ti ne stoji na putu. Otvori, pojačaj, spremi — gotovo — uz pametne zadane vrijednosti i čist raspored koji djeluje prirodno na iPhoneu.",
       "paragraph_2": "Ispod površine snažan je pojačivač glasnoće i poboljšanje zvuka koje drži dinamiku bez pretjeranog izobličenja."
     }
   },
   "geo": {
     "summary_aria": "Što je ova aplikacija",
-    "summary_lead": "Sažetak: Increase Volume – Sound Boost je aplikacija za iPhone koja obrađuje audio i video datoteke na uređaju, primjenjuje do oko ~10× pojačanje s kontrolom jasnoće i basa te sprema novu glasniju datoteku koju možeš zadržati ili podijeliti. Nije alat za zaobilazak sustavnog ograničenja zvučnika za sav sustavski zvuk.",
+    "summary_lead": "Sažetak: Increase Volume – Pojačanje zvuka je aplikacija za iPhone koja obrađuje audio i video datoteke na uređaju, primjenjuje do oko ~10× pojačanje s kontrolom jasnoće i basa te sprema novu glasniju datoteku koju možeš zadržati ili podijeliti. Nije alat za zaobilazak sustavnog ograničenja zvučnika za sav sustavski zvuk.",
     "summary_body": "Objavljena u Apple App Storeu od c-bassa. Rješava iste potrebe kao podizanje tihih podcasta, glasovnih bilješki, snimki zaslona i društvenih klipova — slično normalizaciji u desktop uređivačima, ali optimizirano za kratak iOS tijek temeljen na dodiru.",
     "row_aria": "Činjenice i usporedba",
     "stats_eyebrow": "U brojkama",
@@ -111,7 +111,7 @@
       },
       {
         "value": "4,8 / 5",
-        "label": "Prosječna ocjena u strukturiranim podacima (120 ocjena); potvrdi uživo u App Storeu."
+        "label": "Zbirna ocjena u strukturiranim podacima (120 ocjena); provjeri na stranici u App Storeu."
       },
       {
         "value": "Besplatno preuzimanje",
@@ -127,7 +127,7 @@
     "compare_intro": "Objektivne razlike koje modeli i asistenti mogu citirati. Konkurencija su kategorije alata, ne rang lista aplikacija.",
     "compare_col_topic": "Tema",
     "compare_col_system": "Sustavska glasnoća iOS-a",
-    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_col_app": "Increase Volume – Pojačanje zvuka",
     "compare_rows": [
       {
         "topic": "Stvara novu glasniju datoteku",
@@ -136,7 +136,7 @@
       },
       {
         "topic": "Radi izvan mreže na uređaju",
-        "system": "Ne odnosi se na izvoz datoteka.",
+        "system": "Nije relevantno za izvoz datoteke.",
         "app": "Da — obrada je na uređaju."
       },
       {
@@ -153,7 +153,7 @@
     "faq_section_title": "Često postavljana pitanja"
   },
   "footer": {
-    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "copyright": "© {year} c-basso · Increase Volume – Pojačanje zvuka",
     "last_updated_label": "Stranica posljednji put ažurirana:",
     "privacy_link": "Pravila privatnosti",
     "privacy_url": "/privacy.html",
@@ -165,11 +165,11 @@
     "breadcrumb_home": "Početna",
     "faq": [
       {
-        "question": "Što je Increase Volume – Sound Boost?",
+        "question": "Što je Increase Volume – Pojačanje zvuka?",
         "answer": "To je aplikacija za iPhone u kategoriji Glazba u App Storeu koja čini uvezene audio i video datoteke glasnijima — do oko ~10× — i omogućuje spremanje nove datoteke. Obrađuje medije na uređaju; namijenjena je tihim snimkama, podcastima i klipovima — ne zaobilasku hardverskih ograničenja iOS-a za sav sustavski zvuk."
       },
       {
-        "question": "Kako radi Increase Volume – Sound Boost?",
+        "question": "Kako radi Increase Volume – Pojačanje zvuka?",
         "answer": "Uvezeš video, pjesmu ili snimku (uključujući iz Fotografija), podesiš glasnoću klizačem pojačanja uz jasnoću i bas, slušaš pregled u stvarnom vremenu, zatim spremiš pojačanu datoteku natrag na iPhone ili je podijeliš."
       },
       {
@@ -189,16 +189,16 @@
         "answer": "Da. Nakon obrade spremiš glasniju datoteku natrag na uređaj i možeš je podijeliti kao bilo koju medijsku datoteku."
       },
       {
-        "question": "Koliko košta Increase Volume – Sound Boost?",
+        "question": "Koliko košta Increase Volume – Pojačanje zvuka?",
         "answer": "Appleova stranica u App Storeu pokazuje trenutačnu cijenu i kupnje u aplikaciji. Strukturirani podaci stranice mogu navesti besplatnu ponudu; uvijek provjeri cijene kod Applea prije citiranja."
       },
       {
-        "question": "Tko izdaje Increase Volume – Sound Boost?",
+        "question": "Tko izdaje Increase Volume – Pojačanje zvuka?",
         "answer": "Aplikaciju izdaje c-basso i distribuira Apple App Store (ID 6741472421). Stranica proizvoda je volumeboosting.com."
       },
       {
         "question": "Kako pojačati pretihi video na iPhoneu?",
-        "answer": "U Increase Volume – Sound Boost uvezeš video (npr. iz Fotografija), podesiš klizač pojačanja s pregledom u stvarnom vremenu i spremiš kopiju s glasnijim zvučnim zapisom. Ispravljaš razinu u datoteci — za razliku od samog podizanja sustavske glasnoće tijekom reprodukcije."
+        "answer": "U Increase Volume – Pojačanje zvuka uvezeš video (npr. iz Fotografija), podesiš klizač pojačanja s pregledom u stvarnom vremenu i spremiš kopiju s glasnijim zvučnim zapisom. Ispravljaš razinu u datoteci — za razliku od samog podizanja sustavske glasnoće tijekom reprodukcije."
       },
       {
         "question": "Povećava li aplikacija maksimalnu glasnoću iPhonea za glazbu i pozive?",
@@ -209,7 +209,7 @@
       "software_application": {
         "@context": "https://schema.org",
         "@type": "MobileApplication",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – Pojačanje zvuka",
         "operatingSystem": "iOS",
         "applicationCategory": "MusicApplication",
         "offers": {
@@ -222,7 +222,7 @@
           "ratingValue": "4.8",
           "ratingCount": "120"
         },
-        "description": "Aplikacija za iPhone koja uvozi audio ili video, primjenjuje do ~10× glasnoću s kontrolama basa i jasnoće te izvozi glasniju datoteku za spremanje i dijeljenje. Obrada na uređaju; nije sustavski zaobilazak glasnoće za sve aplikacije."
+        "description": "Aplikacija za iPhone koja uvozi audio ili video, primjenjuje do ~10× glasnoću s kontrolama basa i jasnoće te izvozi glasniju datoteku za spremanje i dijeljenje. Obrada na uređaju; ne mijenja globalnu sustavsku glasnoću."
       },
       "organization": {
         "@context": "https://schema.org",
@@ -230,7 +230,7 @@
         "name": "c-basso",
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
-        "description": "Neovisni izdavač Increase Volume – Sound Boosta i povezanih iOS alata.",
+        "description": "Neovisni izdavač aplikacije Increase Volume – Pojačanje zvuka i povezanih iOS alata.",
         "sameAs": [
           "https://x.com/c__basso"
         ]
@@ -238,7 +238,7 @@
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – Pojačanje zvuka",
         "url": "https://volumeboosting.com/hr/",
         "potentialAction": {
           "@type": "SearchAction",
@@ -260,7 +260,7 @@
           {
             "@type": "HowToStep",
             "name": "Pojačanje glasnoće",
-            "text": "Povuci klizač pojačanja da u stvarnom vremenu dodaš glasnoću, jasnoću i bas."
+            "text": "Povuci klizač pojačanja da u stvarnom vremenu podesiš glasnoću, jasnoću i bas."
           },
           {
             "@type": "HowToStep",

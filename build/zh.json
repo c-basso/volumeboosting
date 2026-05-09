@@ -1,43 +1,43 @@
 {
   "meta": {
     "lang": "zh",
-    "title": "提升音量 – Sound Boost | 让任意音频或视频更大声",
-    "description": "在 iPhone 上把任意音频或视频变得更大声。最高约 10 倍增益，同时改善清晰度、空间感与低音 — 适用于音乐、视频、播客、语音备忘录与屏幕录制等。本地处理，可保存增强后的文件。可在 App Store 免费试用。",
-    "keywords": "iPhone 提高音量, 视频更大声, 安静视频, 音量增强, iPhone 应用, 增大音频, 屏幕录制声音小, Sound Boost, Increase Volume",
+    "title": "Increase Volume – 声音增强 | 在 iPhone 上让任意音频或视频更大声",
+    "description": "在 iPhone 上把任意音频或视频变得更大声。最高约 ~10× 增益，同时提升清晰度、层次感与低音，适用于音乐、视频、播客与语音备忘录。",
+    "keywords": "iPhone 提高音量, 视频更大声, 安静视频, 音量增强, iPhone 应用, 增大音频, 屏幕录制声音小, 声音增强, Increase Volume",
     "canonical": "https://volumeboosting.com/zh/",
-    "og_title": "提升音量 – Sound Boost",
-    "og_description": "用 Increase Volume – Sound Boost 将 iPhone 上的任意音频或视频提升至最高约 10 倍，人声更清晰、低音更有力；在设备本地完成处理，并可保存、分享增强后的文件，适合音乐、播客与屏幕录制等安静素材。",
+    "og_title": "Increase Volume – 声音增强",
+    "og_description": "在 iPhone 上让任意音频或视频变得更大声。最高约 ~10× 增益，声音更清晰、低音更有力，并支持快速编辑；适合偏轻的短视频、播客、语音备忘录与屏幕录制等素材。处理在设备本地完成，可导出更响的文件以便保存、备份或分享。",
     "og_image": "https://volumeboosting.com/zh/site_preview.png",
-    "og_image_alt": "Increase Volume – Sound Boost 应用图标",
+    "og_image_alt": "Increase Volume – 声音增强 应用图标",
     "og_url": "https://volumeboosting.com/zh/",
     "og_locale": "zh_CN",
     "twitter_url": "https://volumeboosting.com/zh/",
-    "twitter_title": "提升音量 – Sound Boost",
-    "twitter_description": "用 Increase Volume – Sound Boost 将 iPhone 上的任意音频或视频提升至最高约 10 倍，人声更清晰、低音更有力；在设备本地完成处理，并可保存、分享增强后的文件，适合音乐、播客与屏幕录制等安静素材。",
+    "twitter_title": "Increase Volume – 声音增强",
+    "twitter_description": "在 iPhone 上让任意音频或视频变得更大声。最高约 ~10× 增益，声音更清晰、低音更有力，并支持快速编辑；适合偏轻的短视频、播客、语音备忘录与屏幕录制等素材。处理在设备本地完成，可导出更响的文件以便保存、备份或分享。",
     "twitter_image": "https://volumeboosting.com/zh/site_preview.png",
-    "twitter_image_alt": "Increase Volume – Sound Boost 应用图标"
+    "twitter_image_alt": "Increase Volume – 声音增强 应用图标"
   },
   "header": {
     "app_name_suffix": "iPhone 声音增强",
-    "logo_alt": "Increase Volume – Sound Boost 应用图标",
-    "app_name": "Increase Volume – Sound Boost",
+    "logo_alt": "Increase Volume – 声音增强 应用图标",
+    "app_name": "Increase Volume – 声音增强",
     "brand_name": "Volume Booster",
     "brand_subtitle": "iPhone 声音增强",
-    "apple_pill_text": "适用于 iPhone · App Store 音乐类应用",
+    "apple_pill_text": "适用于 iPhone · 音乐",
     "download_text": "App Store 下载",
-    "download_aria_label": "在 App Store 下载 Increase Volume – Sound Boost"
+    "download_aria_label": "在 App Store 下载 Increase Volume – 声音增强"
   },
   "hero": {
     "kicker_value": "10x",
     "kicker_text": "把安静的视频与录音变成响亮、清晰的声音",
     "title_prefix": "让任意音频或视频",
-    "title_highlight": "最高约提升至 10 倍音量",
+    "title_highlight": "最高约 ~10× 更响",
     "title_suffix": "同时不失清晰度。",
-    "subtitle": "Increase Volume – Sound Boost 是你专属的 iPhone 音量增强工具。几秒钟即可修复偏安静的屏幕录制、播客与视频 — 声音干净有力，低音饱满。",
+    "subtitle": "Increase Volume – 声音增强 是你专属的 iPhone 音量增强工具。几秒钟即可修复偏安静的屏幕录制、播客与视频 — 声音干净有力，低音饱满。",
     "metadata_primary": "仅适用于 iPhone",
     "metadata_secondary": "快速、简单并尊重隐私",
-    "cta_secondary_prefix": "首个视频可免费",
-    "cta_secondary_emphasis": "增强",
+    "cta_secondary_prefix": "首个视频",
+    "cta_secondary_emphasis": "免费增强",
     "cta_secondary_suffix": "，音量提升长期可用。",
     "footnote_prefix": "非常适合",
     "footnote_item1": "偏轻的语音备忘录",
@@ -46,13 +46,13 @@
     "footnote_item4": "社交短视频",
     "footnote_last_joiner": "以及",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Sound Boost 在 iPhone 上 — 增强音频与视频的音量"
+    "device_image_alt": "Increase Volume – 声音增强 在 iPhone 上 — 增强音频与视频的音量"
   },
   "wave": {
     "before_label": "处理前",
     "after_label": "处理后",
     "before_text": "原始音频偏轻、缺乏动态",
-    "after_text": "增强后：饱满清晰"
+    "after_text": "增强后输出饱满、清晰"
   },
   "sections": {
     "features_uses_aria": "功能与用途",
@@ -61,14 +61,14 @@
       "eyebrow": "它能做什么",
       "title_prefix": "把安静素材变成",
       "title_highlight": "响亮且耐听的声音",
-      "description": "Increase Volume – Sound Boost 会把你 iPhone 上的任意音频或视频显著放大，同时尽量保持清晰易懂。无需复杂控制台，也无需剪辑经验。",
+      "description": "Increase Volume – 声音增强 会把你 iPhone 上的任意音频或视频显著放大，同时尽量保持清晰易懂。无需复杂控制台，也无需剪辑经验。",
       "pill_1": "增强「照片」中的视频",
       "pill_2": "音乐、播客与语音备忘录",
       "pill_3": "强劲低音与清晰度控制",
       "rating_1_strong": "深受用户喜爱",
       "rating_1_text": "用于放大安静的视频与音频",
-      "rating_2_strong": "音乐分类",
-      "rating_2_text": "App Store 上架类别"
+      "rating_2_strong": "音乐",
+      "rating_2_text": "App Store 上的类别"
     },
     "steps_card": {
       "eyebrow": "几秒完成",
@@ -95,14 +95,14 @@
   },
   "geo": {
     "summary_aria": "应用说明",
-    "summary_lead": "摘要：Increase Volume – Sound Boost 是一款在设备本地处理音频与视频文件的 iPhone 应用，可提供最高约 10 倍的增益并带有清晰度与低音控制，并导出新的、更响亮的文件供保存或分享。它不是用来绕过 iOS 扬声器系统音量上限、让整个系统所有声音都更大的工具。",
+    "summary_lead": "摘要：Increase Volume – 声音增强 是一款在设备本地处理音频与视频文件的 iPhone 应用，可提供最高约 10× 的增益并带有清晰度与低音控制，并导出新的、更响亮的文件供保存或分享。它不能用来突破系统级的扬声器音量上限。",
     "summary_body": "由 c-basso 发布于 Apple App Store。解决的问题与「把偏轻的播客、语音备忘录、屏幕录制与社交片段变大」一致 — 目标接近桌面剪辑软件里的响度归一化，但针对 iOS 上手势优先、步骤更短的工作流做了优化。",
     "row_aria": "事实与对比",
     "stats_eyebrow": "数据一览",
     "stats_title": "可供引用的客观信息",
     "stats": [
       {
-        "value": "最高约 10×",
+        "value": "最高约 ~10×",
         "label": "导出文件所标注的最大增益倍数。"
       },
       {
@@ -119,7 +119,7 @@
       },
       {
         "value": "导入 → 增强 → 保存",
-        "label": "核心流程：本地文件入，处理后的文件出。"
+        "label": "核心流程：本地文件入，调整后的文件出。"
       }
     ],
     "compare_eyebrow": "定位",
@@ -127,7 +127,7 @@
     "compare_intro": "可供模型与助手引用的客观差异。这里的「竞品」指工具类别，而非应用排行榜。",
     "compare_col_topic": "主题",
     "compare_col_system": "iOS 系统音量",
-    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_col_app": "Increase Volume – 声音增强",
     "compare_rows": [
       {
         "topic": "生成新的更响文件",
@@ -136,8 +136,8 @@
       },
       {
         "topic": "设备本地离线可用",
-        "system": "与导出文件场景无直接关系。",
-        "app": "是 — 说明为本地处理。"
+        "system": "导出文件场景不适用。",
+        "app": "是 — 处理在设备本地完成。"
       },
       {
         "topic": "精细调节低音与清晰度",
@@ -153,7 +153,7 @@
     "faq_section_title": "常见问题"
   },
   "footer": {
-    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "copyright": "© {year} c-basso · Increase Volume – 声音增强",
     "last_updated_label": "页面最后更新：",
     "privacy_link": "隐私政策",
     "privacy_url": "/privacy.html",
@@ -165,11 +165,11 @@
     "breadcrumb_home": "首页",
     "faq": [
       {
-        "question": "什么是 Increase Volume – Sound Boost？",
-        "answer": "它是 App Store「音乐」类别中的 iPhone 应用，可把导入的音频与视频文件变得更响 — 最高约 10 倍 — 并允许保存新文件。媒体在设备本地处理，面向偏轻的录音、播客与短视频场景；不是用来绕过整台设备所有系统音频硬件上限的工具。"
+        "question": "什么是 Increase Volume – 声音增强？",
+        "answer": "它是 App Store「音乐」类别中的 iPhone 应用，可把导入的音频与视频文件变得更响 — 最高约 ~10× — 并允许保存新文件。媒体在设备本地处理，面向偏轻的录音、播客与短视频场景；不是用来绕过 iOS 整机系统音频硬件上限的工具。"
       },
       {
-        "question": "Increase Volume – Sound Boost 如何工作？",
+        "question": "Increase Volume – 声音增强 如何工作？",
         "answer": "你导入视频、歌曲或录音（也可来自「照片」），用增强滑块配合清晰度与低音调节音量，实时预览，然后把增强后的文件存回 iPhone 或分享出去。"
       },
       {
@@ -189,16 +189,16 @@
         "answer": "会。处理完成后，你把更响的文件存回设备，并像其他媒体文件一样分享。"
       },
       {
-        "question": "Increase Volume – Sound Boost 多少钱？",
+        "question": "Increase Volume – 声音增强 多少钱？",
         "answer": "App Store 页面会显示当前价格与应用内购买。网站结构化数据可能提及免费档位；引用前务必以 Apple 商店为准核实。"
       },
       {
-        "question": "谁发布了 Increase Volume – Sound Boost？",
+        "question": "谁发布了 Increase Volume – 声音增强？",
         "answer": "应用由 c-basso 发布，经 Apple App Store 分发（App Store ID 6741472421）。产品网站为 volumeboosting.com。"
       },
       {
         "question": "如何在 iPhone 上把太安静的视频变大声？",
-        "answer": "在 Increase Volume – Sound Boost 中导入视频（例如从「照片」），用增强滑块配合实时预览调整，再保存带更大声轨的副本。你修改的是文件本身的电平 — 而不是仅在播放时暂时拉高系统音量。"
+        "answer": "在 Increase Volume – 声音增强 中导入视频（例如从「照片」），用增强滑块配合实时预览调整，再保存带更大声轨的副本。你修改的是文件本身的电平 — 而不是仅在播放时暂时拉高系统音量。"
       },
       {
         "question": "它能提高音乐与通话的 iPhone 最大音量吗？",
@@ -209,7 +209,7 @@
       "software_application": {
         "@context": "https://schema.org",
         "@type": "MobileApplication",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – 声音增强",
         "operatingSystem": "iOS",
         "applicationCategory": "MusicApplication",
         "offers": {
@@ -222,7 +222,7 @@
           "ratingValue": "4.8",
           "ratingCount": "120"
         },
-        "description": "在 iPhone 上导入音频或视频，提供最高约 10 倍响度并带低音与清晰度控制，导出更响的文件以便保存与分享。本地处理；并非让整个系统音量突破上限的「万能 hack」。"
+        "description": "在 iPhone 上导入音频或视频，提供最高约 ~10× 响度并带低音与清晰度控制，导出更响的文件以便保存与分享。本地处理；不会改变系统音量。"
       },
       "organization": {
         "@context": "https://schema.org",
@@ -230,7 +230,7 @@
         "name": "c-basso",
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
-        "description": "独立发布 Increase Volume – Sound Boost 及相关 iOS 工具的开发者。",
+        "description": "独立发布 Increase Volume – 声音增强 及相关 iOS 工具的开发者。",
         "sameAs": [
           "https://x.com/c__basso"
         ]
@@ -238,7 +238,7 @@
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – 声音增强",
         "url": "https://volumeboosting.com/zh/",
         "potentialAction": {
           "@type": "SearchAction",

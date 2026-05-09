@@ -1,31 +1,31 @@
 {
   "meta": {
     "lang": "hu",
-    "title": "Hangerő növelése – Sound Boost | Bármilyen hang vagy videó hangosabb",
-    "description": "Tedd hangosabbá bármilyen hangot vagy videót iPhone-on. Növelés akár ~10×-ig: élesebb hang, mélység és mély hang — zene, videó, podcast és hangjegyzetek. Feldolgozás az eszközön. Próbáld ki ingyen az App Store-ban.",
-    "keywords": "iPhone hangerő, hangosabb videó, halk videó, hangerő növelő, iPhone alkalmazás, hang erősítése, halk képernyőfelvétel, Sound Boost, Increase Volume",
+    "title": "Hangerő növelése – Hang kiemelés | Bármilyen hang vagy videó hangosabb",
+    "description": "Tedd hangosabbá bármilyen hangot vagy videót iPhone-on. Növelés akár ~10×-ig: élesebb hang, mélység és mély hang — zene, videó, podcast és hangjegyzetfelvételek. Feldolgozás az eszközön. Próbáld ki ingyen az App Store-ban.",
+    "keywords": "iPhone hangerő, hangosabb videó, halk videó, hangerő növelő, iPhone alkalmazás, hang erősítése, halk képernyőfelvétel, hang kiemelés, Increase Volume",
     "canonical": "https://volumeboosting.com/hu/",
-    "og_title": "Hangerő növelése – Sound Boost",
-    "og_description": "Hang és videó iPhone-on akár ~10× hangosabban — Increase Volume – Sound Boost. Tiszta hang, mély hang; halk klippek és podcastok. Feldolgozás az eszközön.",
+    "og_title": "Hangerő növelése – Hang kiemelés",
+    "og_description": "Hang és videó iPhone-on akár ~10× hangosabban — Increase Volume – Hang kiemelés. Tiszta hang, mély hang; halk klippek és podcastok. Feldolgozás az eszközön.",
     "og_image": "https://volumeboosting.com/hu/site_preview.png",
-    "og_image_alt": "Increase Volume – Sound Boost alkalmazás ikonja",
+    "og_image_alt": "Increase Volume – Hang kiemelés alkalmazás ikonja",
     "og_url": "https://volumeboosting.com/hu/",
     "og_locale": "hu_HU",
     "twitter_url": "https://volumeboosting.com/hu/",
-    "twitter_title": "Hangerő növelése – Sound Boost",
-    "twitter_description": "Hang és videó iPhone-on akár ~10× hangosabban — Increase Volume – Sound Boost. Tiszta hang, mély hang; halk klippek és podcastok. Feldolgozás az eszközön.",
+    "twitter_title": "Hangerő növelése – Hang kiemelés",
+    "twitter_description": "Hang és videó iPhone-on akár ~10× hangosabban — Increase Volume – Hang kiemelés. Tiszta hang, mély hang; halk klippek és podcastok. Feldolgozás az eszközön.",
     "twitter_image": "https://volumeboosting.com/hu/site_preview.png",
-    "twitter_image_alt": "Increase Volume – Sound Boost alkalmazás ikonja"
+    "twitter_image_alt": "Increase Volume – Hang kiemelés alkalmazás ikonja"
   },
   "header": {
     "app_name_suffix": "Hang kiemelés iPhone-ra",
-    "logo_alt": "Increase Volume – Sound Boost alkalmazás ikonja",
-    "app_name": "Increase Volume – Sound Boost",
+    "logo_alt": "Increase Volume – Hang kiemelés alkalmazás ikonja",
+    "app_name": "Increase Volume – Hang kiemelés",
     "brand_name": "Volume Booster",
     "brand_subtitle": "Hang kiemelés iPhone-ra",
-    "apple_pill_text": "iPhone-hoz · Zene kategória az App Store-ban",
+    "apple_pill_text": "iPhone-hoz · Zene",
     "download_text": "Letöltés az App Store-ból",
-    "download_aria_label": "Increase Volume – Sound Boost letöltése az App Store-ból"
+    "download_aria_label": "Increase Volume – Hang kiemelés letöltése az App Store-ból"
   },
   "hero": {
     "kicker_value": "10x",
@@ -33,26 +33,26 @@
     "title_prefix": "Tedd bármilyen hangot vagy videót",
     "title_highlight": "akár ~10× hangosabbá",
     "title_suffix": "az élesség elvesztése nélkül.",
-    "subtitle": "Az Increase Volume – Sound Boost a hangerőnövelő alkalmazásod iPhone-on. Néhány másodperc alatt javíthatod a halk képernyőfelvételeket, podcastokat és videókat — tiszta, erős hang és gazdag mély hang.",
+    "subtitle": "Az Increase Volume – Hang kiemelés a hangerőnövelő alkalmazásod iPhone-on. Néhány másodperc alatt javíthatod a halk képernyőfelvételeket, podcastokat és videókat — tiszta, erős hang és gazdag mély hang.",
     "metadata_primary": "Csak iPhone-ra",
-    "metadata_secondary": "Gyors, egyszerű és adatvédelmet tiszteletben tartó",
+    "metadata_secondary": "Gyors és egyszerű, a magánélet védelmével",
     "cta_secondary_prefix": "Emeld ki az első videódat",
     "cta_secondary_emphasis": "ingyen",
     "cta_secondary_suffix": ", és tartsd meg a hangerőt örökre.",
     "footnote_prefix": "Ideális",
-    "footnote_item1": "halk hangjegyzetekhez",
+    "footnote_item1": "halk hangjegyzetfelvételekhez",
     "footnote_item2": "filmekhez",
     "footnote_item3": "zenéhez",
     "footnote_item4": "közösségi média klippekhez",
     "footnote_last_joiner": ", és ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Sound Boost iPhone-on — hang és videó hangerejének növelése"
+    "device_image_alt": "Increase Volume – Hang kiemelés iPhone-on — hang és videó hangerejének növelése"
   },
   "wave": {
     "before_label": "Előtte",
     "after_label": "Utána",
     "before_text": "Halk, lapos eredeti hang",
-    "after_text": "Kiemelt, teljes és tiszta kimenet"
+    "after_text": "Kiemelt, teljes és tiszta hang"
   },
   "sections": {
     "features_uses_aria": "Funkciók és felhasználás",
@@ -61,9 +61,9 @@
       "eyebrow": "Mit csinál",
       "title_prefix": "Csendes felvételekből",
       "title_highlight": "élénk, kellemesen hallható hang",
-      "description": "Az Increase Volume – Sound Boost bármilyen hang- vagy videófájlt vesz az iPhone-odon és jelentősen hangosabbá teszi — miközben érthető marad. Nincs zavaró vezérlés, nincs szükség szerkesztői tapasztalatra.",
+      "description": "Az Increase Volume – Hang kiemelés bármilyen hang- vagy videófájlt vesz az iPhone-odon és jelentősen hangosabbá teszi — miközben érthető marad. Nincs zavaró vezérlés, nincs szükség szerkesztői tapasztalatra.",
       "pill_1": "Videók kiemelése a Fotók alkalmazásból",
-      "pill_2": "Zene, podcastok és hangjegyzetek",
+      "pill_2": "Zene, podcastok és hangjegyzetfelvételek",
       "pill_3": "Erős mély hang és élesség",
       "rating_1_strong": "A felhasználók kedvence",
       "rating_1_text": "halk videók és hang kiemelésére",
@@ -74,9 +74,9 @@
       "eyebrow": "Másodpercek alatt",
       "title": "Ennyire egyszerű a hang kiemelése.",
       "step_1": "Importálj videót, dalt vagy felvételt — vagy kezdj közvetlenül a Fotók alkalmazásból.",
-      "step_2": "Húzd a kiemelő csúszkát, hogy valós időben növeld a hangerőt, az élességet és a mély hangot.",
+      "step_2": "Húzd a kiemelő csúszkát, hogy valós időben állítsd a hangerőt, az élességet és a mély hangot.",
       "step_3": "Mentsd vissza a kiemelt fájlt az eszközre, és oszd meg bárhol.",
-      "label": "Ideális: képernyőfelvételekhez, TikTok/Reels klippekhez, interjúkhoz, hangjegyzetekhez és egyebekhez."
+      "label": "Ideális: képernyőfelvételekhez, TikTok/Reels klippekhez, interjúkhoz, hangjegyzetfelvételekhez és egyebekhez."
     },
     "audience_card": {
       "eyebrow": "Kinek",
@@ -84,19 +84,19 @@
       "item_1": "Akik mindig maximumon tartják a hangerőt, mégis alig hallanak valamit.",
       "item_2": "Alkotók, akiknek erős, tiszta hang kell közösségi videókhoz.",
       "item_3": "Mindenki, aki halk képernyőfelvételeket és útmutatókat javít.",
-      "item_4": "Hallgatók, akik podcastokat, előadásokat vagy hangjegyzeteket emelnek ki."
+      "item_4": "Hallgatók, akik podcastokat, előadásokat vagy hangjegyzetfelvételeket emelnek ki."
     },
     "testimonial_card": {
       "eyebrow": "Miért tartják meg",
       "title": "„Jól működik és egyszerű.” – App Store értékelés",
-      "paragraph_1": "Az Increase Volume úgy készült, hogy ne legyen útban. Nyisd meg, emeld ki, mentsd — kész — okos alapbeállításokkal és letisztult elrendezéssel, ami természetesen hat iPhone-on.",
+      "paragraph_1": "Az Increase Volume úgy készült, hogy ne álljon az utadba. Nyisd meg, emeld ki, mentsd — kész — okos alapbeállításokkal és letisztult elrendezéssel, ami természetesen hat iPhone-on.",
       "paragraph_2": "A motorháztető alatt erős hangerő-növelő és hangjavítás dolgozik, ami dinamikusan tartja a hangot, túlzott torzítás nélkül."
     }
   },
   "geo": {
     "summary_aria": "Mi ez az alkalmazás",
-    "summary_lead": "Összefoglaló: Az Increase Volume – Sound Boost egy iPhone alkalmazás, amely az eszközön dolgozza fel a hang- és videófájlokat, kb. ~10× erősítést alkalmaz élesség- és mélyhang-szabályzással, és új, hangosabb fájlt ment, amit megtarthatsz vagy megoszthatsz. Nem eszköz a rendszerhangszóró korlátjának megkerülésére az egész rendszerhangra.",
-    "summary_body": "Az Apple App Store-ban a c-basso adta ki. Ugyanazokat az igényeket elégíti ki, mint a halk podcastok, hangjegyzetek, képernyőfelvételek és közösségi klippek felhangosítása — hasonlóan az asztali szerkesztők normalizálásához, de rövid, érintésvezérelt iOS folyamatra optimalizálva.",
+    "summary_lead": "Összefoglaló: Az Increase Volume – Hang kiemelés egy iPhone alkalmazás, amely az eszközön dolgozza fel a hang- és videófájlokat, kb. ~10× erősítést alkalmaz élesség- és mélyhang-szabályzással, és új, hangosabb fájlt ment, amit megtarthatsz vagy megoszthatsz. Nem eszköz a rendszerhangszóró korlátjának megkerülésére az egész rendszerhangra.",
+    "summary_body": "Az Apple App Store-ban a c-basso adta ki. Ugyanazokat az igényeket elégíti ki, mint a halk podcastok, hangjegyzetfelvételek, képernyőfelvételek és közösségi klippek felhangosítása — hasonlóan az asztali szerkesztők normalizálásához, de rövid, érintésvezérelt iOS folyamatra optimalizálva.",
     "row_aria": "Tények és összehasonlítás",
     "stats_eyebrow": "Számokban",
     "stats_title": "Ellenőrizhető tények az alkalmazásról",
@@ -111,7 +111,7 @@
       },
       {
         "value": "4,8 / 5",
-        "label": "Átlagos értékelés a strukturált adatokban (120 értékelés); ellenőrizd élőben az App Store-ban."
+        "label": "Összesített értékelés a strukturált adatokban (120 értékelés); ellenőrizd az App Store listán."
       },
       {
         "value": "Ingyenes letöltés",
@@ -127,7 +127,7 @@
     "compare_intro": "Objektív különbségek, amelyeket modellek és asszisztensek idézhetnek. A „versenytársak” eszközkategóriák, nem alkalmazásranglista.",
     "compare_col_topic": "Téma",
     "compare_col_system": "iOS rendszer hangerő",
-    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_col_app": "Increase Volume – Hang kiemelés",
     "compare_rows": [
       {
         "topic": "Új, hangosabb fájlt hoz létre",
@@ -136,7 +136,7 @@
       },
       {
         "topic": "Offline működik az eszközön",
-        "system": "Nem vonatkozik fájl exportra.",
+        "system": "Nem releváns fájl exportálása szempontjából.",
         "app": "Igen — a feldolgozás az eszközön történik."
       },
       {
@@ -153,7 +153,7 @@
     "faq_section_title": "Gyakran ismételt kérdések"
   },
   "footer": {
-    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "copyright": "© {year} c-basso · Increase Volume – Hang kiemelés",
     "last_updated_label": "Az oldal utolsó frissítése:",
     "privacy_link": "Adatvédelmi irányelvek",
     "privacy_url": "/privacy.html",
@@ -165,11 +165,11 @@
     "breadcrumb_home": "Kezdőlap",
     "faq": [
       {
-        "question": "Mi az Increase Volume – Sound Boost?",
+        "question": "Mi az Increase Volume – Hang kiemelés?",
         "answer": "Egy iPhone alkalmazás az App Store Zene kategóriájában, amely az importált hang- és videófájlokat hangosabbá teszi — kb. ~10×-ig — és új fájl mentését teszi lehetővé. Az eszközön dolgozza fel a médiát; halk felvételekre, podcastokra és klippekre szól — nem az iOS hardverkorlátok megkerülésére az egész rendszerhangra."
       },
       {
-        "question": "Hogyan működik az Increase Volume – Sound Boost?",
+        "question": "Hogyan működik az Increase Volume – Hang kiemelés?",
         "answer": "Importálsz videót, dalt vagy felvételt (a Fotók alkalmazásból is), beállítod a hangerőt a kiemelő csúszkával plusz élesség és mély hang, valós időben hallgatod az előnézetet, majd elmented a kiemelt fájlt az iPhone-ra vagy megosztod."
       },
       {
@@ -182,23 +182,23 @@
       },
       {
         "question": "Működik az Increase Volume videóra és hangra is?",
-        "answer": "Igen. Kiemelhetsz videót hangsávval, zenét, podcastot, hangjegyzetet és képernyőfelvételt, majd elmented az eredményt."
+        "answer": "Igen. Kiemelhetsz videót hangsávval, zenét, podcastot, hangjegyzetfelvételt és képernyőfelvételt, majd elmented az eredményt."
       },
       {
         "question": "Az iPhone-omra kerül a kiemelt fájl?",
         "answer": "Igen. Feldolgozás után visszamented a hangosabb fájlt az eszközre, és bármilyen médiafájlhoz hasonlóan megoszthatod."
       },
       {
-        "question": "Mennyibe kerül az Increase Volume – Sound Boost?",
+        "question": "Mennyibe kerül az Increase Volume – Hang kiemelés?",
         "answer": "Az App Store lista mutatja az aktuális árat és az alkalmazáson belüli vásárlásokat. A webhely strukturált adatai ingyenes ajánlatra utalhatnak; mindig ellenőrizd az árakat az Apple-nél idézés előtt."
       },
       {
-        "question": "Ki készíti az Increase Volume – Sound Boostot?",
+        "question": "Ki készíti az Increase Volume – Hang kiemelésot?",
         "answer": "Az alkalmazást a c-basso adja ki, az Apple App Store terjeszti (App Store azonosító 6741472421). A termék oldala a volumeboosting.com."
       },
       {
         "question": "Hogyan lehet túl halk videót hangosabbá tenni iPhone-on?",
-        "answer": "Az Increase Volume – Sound Boostban importálod a videót (pl. a Fotók alkalmazásból), beállítod a kiemelő csúszkát valós idejű előnézettel, és elmentsz egy másolatot hangosabb hangsávval. A fájl szintjét javítod — nem csak a rendszer hangerőjét emeled lejátszás közben."
+        "answer": "Az Increase Volume – Hang kiemelésban importálod a videót (pl. a Fotók alkalmazásból), beállítod a kiemelő csúszkát valós idejű előnézettel, és elmentsz egy másolatot hangosabb hangsávval. A fájl szintjét javítod — nem csak a rendszer hangerőjét emeled lejátszás közben."
       },
       {
         "question": "Növeli az alkalmazás az iPhone maximális hangerőjét zenéhez és hívásokhoz?",
@@ -209,7 +209,7 @@
       "software_application": {
         "@context": "https://schema.org",
         "@type": "MobileApplication",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – Hang kiemelés",
         "operatingSystem": "iOS",
         "applicationCategory": "MusicApplication",
         "offers": {
@@ -222,7 +222,7 @@
           "ratingValue": "4.8",
           "ratingCount": "120"
         },
-        "description": "iPhone alkalmazás hang vagy videó importálásához, akár ~10× hangerő alkalmazásához mélyhang- és élességvezérlőkkel, és hangosabb fájl exportjához mentéshez és megosztáshoz. Feldolgozás az eszközön; nem rendszerszintű hangerő-trükk."
+        "description": "iPhone alkalmazás hang vagy videó importálásához, akár ~10× hangerő alkalmazásához mélyhang- és élességvezérlőkkel, és hangosabb fájl exportjához mentéshez és megosztáshoz. Feldolgozás az eszközön; nem változtatja meg a rendszerszintű hangerőt."
       },
       "organization": {
         "@context": "https://schema.org",
@@ -230,7 +230,7 @@
         "name": "c-basso",
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
-        "description": "Független kiadó az Increase Volume – Sound Boost és kapcsolódó iOS segédprogramok számára.",
+        "description": "Független kiadó az Increase Volume – Hang kiemelés és kapcsolódó iOS segédprogramok számára.",
         "sameAs": [
           "https://x.com/c__basso"
         ]
@@ -238,7 +238,7 @@
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – Hang kiemelés",
         "url": "https://volumeboosting.com/hu/",
         "potentialAction": {
           "@type": "SearchAction",
@@ -260,7 +260,7 @@
           {
             "@type": "HowToStep",
             "name": "Hangerő kiemelése",
-            "text": "Húzd a kiemelő csúszkát, hogy valós időben növeld a hangerőt, az élességet és a mély hangot."
+            "text": "Húzd a kiemelő csúszkát, hogy valós időben állítsd a hangerőt, az élességet és a mély hangot."
           },
           {
             "@type": "HowToStep",

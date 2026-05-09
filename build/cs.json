@@ -1,31 +1,31 @@
 {
   "meta": {
     "lang": "cs",
-    "title": "Zvýšení hlasitosti – Sound Boost | Hlasitější zvuk u jakéhokoli audia nebo videa",
+    "title": "Zvýšení hlasitosti – Zesílení zvuku | Hlasitější zvuk u jakéhokoli audia nebo videa",
     "description": "Udělej libovolné audio nebo video na iPhonu hlasitější. Zesilení až ~10× se srozumitelností, prostorem a basy — hudba, videa, podcasty a hlasové poznámky. Zpracování na zařízení. Vyzkoušej zdarma v App Store.",
-    "keywords": "zvýšení hlasitosti iPhone, hlasitější video, tiše nahrané video, zesilovač hlasitosti, aplikace iPhone, hlasitější audio, tiše záznam obrazovky, Sound Boost, Increase Volume",
+    "keywords": "zvýšení hlasitosti iPhone, hlasitější video, tiše nahrané video, zesilovač hlasitosti, aplikace iPhone, hlasitější audio, tiše nahraný záznam obrazovky, zesílení zvuku, Increase Volume",
     "canonical": "https://volumeboosting.com/cs/",
-    "og_title": "Zvýšení hlasitosti – Sound Boost",
-    "og_description": "Audio a video na iPhonu až ~10× hlasitěji — Increase Volume – Sound Boost. Čistý zvuk, basy; tiše nahrané klipy a podcasty. Zpracování na zařízení.",
+    "og_title": "Zvýšení hlasitosti – Zesílení zvuku",
+    "og_description": "Audio a video na iPhonu až ~10× hlasitěji — Increase Volume – Zesílení zvuku. Čistý zvuk, basy; tiše nahrané klipy a podcasty. Zpracování na zařízení.",
     "og_image": "https://volumeboosting.com/cs/site_preview.png",
-    "og_image_alt": "Ikona aplikace Increase Volume – Sound Boost",
+    "og_image_alt": "Ikona aplikace Increase Volume – Zesílení zvuku",
     "og_url": "https://volumeboosting.com/cs/",
     "og_locale": "cs_CZ",
     "twitter_url": "https://volumeboosting.com/cs/",
-    "twitter_title": "Zvýšení hlasitosti – Sound Boost",
-    "twitter_description": "Audio a video na iPhonu až ~10× hlasitěji — Increase Volume – Sound Boost. Čistý zvuk, basy; tiše nahrané klipy a podcasty. Zpracování na zařízení.",
+    "twitter_title": "Zvýšení hlasitosti – Zesílení zvuku",
+    "twitter_description": "Audio a video na iPhonu až ~10× hlasitěji — Increase Volume – Zesílení zvuku. Čistý zvuk, basy; tiše nahrané klipy a podcasty. Zpracování na zařízení.",
     "twitter_image": "https://volumeboosting.com/cs/site_preview.png",
-    "twitter_image_alt": "Ikona aplikace Increase Volume – Sound Boost"
+    "twitter_image_alt": "Ikona aplikace Increase Volume – Zesílení zvuku"
   },
   "header": {
     "app_name_suffix": "Zesílení zvuku pro iPhone",
-    "logo_alt": "Ikona aplikace Increase Volume – Sound Boost",
-    "app_name": "Increase Volume – Sound Boost",
+    "logo_alt": "Ikona aplikace Increase Volume – Zesílení zvuku",
+    "app_name": "Increase Volume – Zesílení zvuku",
     "brand_name": "Volume Booster",
     "brand_subtitle": "Zesílení zvuku pro iPhone",
     "apple_pill_text": "Pro iPhone · kategorie Hudba v App Store",
     "download_text": "Stáhnout v App Store",
-    "download_aria_label": "Stáhnout Increase Volume – Sound Boost v App Store"
+    "download_aria_label": "Stáhnout Increase Volume – Zesílení zvuku v App Store"
   },
   "hero": {
     "kicker_value": "10x",
@@ -33,7 +33,7 @@
     "title_prefix": "Udělej libovolné audio nebo video",
     "title_highlight": "až ~10× hlasitější",
     "title_suffix": "bez ztráty srozumitelnosti.",
-    "subtitle": "Increase Volume – Sound Boost je tvůj zesilovač hlasitosti pro iPhone. Za pár sekund oprav tiše nahrané záznamy obrazovky, podcasty a videa — čistý, silný zvuk a hluboké basy.",
+    "subtitle": "Increase Volume – Zesílení zvuku je tvůj zesilovač hlasitosti pro iPhone. Za pár sekund oprav tiše nahrané záznamy obrazovky, podcasty a videa — čistý, silný zvuk a hluboké basy.",
     "metadata_primary": "Jen pro iPhone",
     "metadata_secondary": "Rychlé, jednoduché a s ohledem na soukromí",
     "cta_secondary_prefix": "První video si zesil",
@@ -46,7 +46,7 @@
     "footnote_item4": "klipy ze sociálních sítí",
     "footnote_last_joiner": " a ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Sound Boost na iPhonu — zesílení hlasitosti audia a videa"
+    "device_image_alt": "Increase Volume – Zesílení zvuku na iPhonu — zesílení hlasitosti audia a videa"
   },
   "wave": {
     "before_label": "Před",
@@ -61,7 +61,7 @@
       "eyebrow": "Co dělá",
       "title_prefix": "Z tiších nahrávek udělej",
       "title_highlight": "výrazný, dobře poslouchatelný zvuk",
-      "description": "Increase Volume – Sound Boost vezme libovolné audio nebo video na iPhonu a výrazně ho zesílí, ale zůstane srozumitelné. Žádné složité ovládání, žádné editační dovednosti.",
+      "description": "Increase Volume – Zesílení zvuku vezme libovolné audio nebo video na iPhonu a výrazně ho zesílí, ale zůstane srozumitelné. Žádné složité ovládání, žádné editační dovednosti.",
       "pill_1": "Zesiluj videa z Fotek",
       "pill_2": "Hudba, podcasty a hlasové poznámky",
       "pill_3": "Silné basy a čistota zvuku",
@@ -81,7 +81,7 @@
     "audience_card": {
       "eyebrow": "Pro koho",
       "title": "Když ti hlasitost iPhonu nestačí, tahle aplikace stačí.",
-      "item_1": "Lidi, co mají volume pořád na maximum a pořád málo slyší.",
+      "item_1": "Lidi, co mají hlasitost pořád na maximum a pořád málo slyší.",
       "item_2": "Tvůrce, co potřebují hlasitý, čistý zvuk do videí na sociálních sítích.",
       "item_3": "Každého, kdo opravuje tiše nahrané tutoriály a záznamy obrazovky.",
       "item_4": "Posluchače, co si chce podpořit podcasty, přednášky nebo hlasové poznámky."
@@ -89,14 +89,14 @@
     "testimonial_card": {
       "eyebrow": "Proč u ní zůstávají",
       "title": "„Funguje dobře a je to jednoduché.“ – recenze v App Store",
-      "paragraph_1": "Increase Volume má překážet co nejmíň. Otevři, zesil, ulož — hotovo. Chytré výchozí hodnoty a přehledné rozhraní v duchu iPhonu.",
+      "paragraph_1": "Increase Volume je navržena tak, aby ti co nejméně překážela. Otevři, zesil, ulož — hotovo. Chytré výchozí hodnoty a přehledné rozhraní v duchu iPhonu.",
       "paragraph_2": "Pod kapotou je silný zesilovač a vylepšení zvuku, které drží dynamiku bez přehnaného zkreslení."
     }
   },
   "geo": {
     "summary_aria": "Co tahle aplikace je",
-    "summary_lead": "Shrnutí: Increase Volume – Sound Boost je aplikace pro iPhone (kategorie Hudba v App Store), která zpracovává audio a video soubory přímo na zařízení, aplikuje zesílení až zhruba ~10× s ovládáním čistoty a basů a uloží nový hlasitější soubor, který si necháš nebo sdílíš. Není to nástroj na obejití systémového limitu reproduktoru pro celý systém.",
-    "summary_body": "Vydaná v Apple App Store od c-basso. Řeší stejné potřeby jako podpoření tichých podcastů, hlasových poznámek, záznamů obrazovky a sociálních klipů — podobně jako normalizace v desktopových editorech, ale pro krátký dotykový postup na iOS.",
+    "summary_lead": "Shrnutí: Increase Volume – Zesílení zvuku je aplikace pro iPhone (kategorie Hudba v App Store), která zpracovává audio a video soubory přímo na zařízení, aplikuje zesílení až zhruba ~10× s ovládáním čistoty a basů a uloží nový hlasitější soubor, který si necháš nebo sdílíš. Není to nástroj na obejití systémového limitu reproduktoru pro celý systém.",
+    "summary_body": "Vydaná v Apple App Store od c-basso. Řeší stejný problém jako potřeba zesílit tiché podcasty, hlasové poznámky, záznamy obrazovky a klipy ze sociálních sítí — podobný cíl jako normalizace v desktopových editorech, ale optimalizovaný pro rychlý dotykový postup na iOS.",
     "row_aria": "Fakta a srovnání",
     "stats_eyebrow": "V číslech",
     "stats_title": "Ověřitelná fakta o aplikaci",
@@ -127,7 +127,7 @@
     "compare_intro": "Objektivní rozdíly, které mohou citovat modely a asistenti. „Konkurence“ jsou kategorie nástrojů, ne žebříček aplikací.",
     "compare_col_topic": "Téma",
     "compare_col_system": "Systémová hlasitost iOS",
-    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_col_app": "Increase Volume – Zesílení zvuku",
     "compare_rows": [
       {
         "topic": "Vytvoří nový hlasitější soubor",
@@ -136,7 +136,7 @@
       },
       {
         "topic": "Funguje offline na zařízení",
-        "system": "U exportu souborů nehraje roli.",
+        "system": "Neplatí pro export souborů.",
         "app": "Ano — zpracování na zařízení."
       },
       {
@@ -153,7 +153,7 @@
     "faq_section_title": "Často kladené otázky"
   },
   "footer": {
-    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "copyright": "© {year} c-basso · Increase Volume – Zesílení zvuku",
     "last_updated_label": "Stránka naposledy aktualizována:",
     "privacy_link": "Zásady ochrany osobních údajů",
     "privacy_url": "/privacy.html",
@@ -165,11 +165,11 @@
     "breadcrumb_home": "Domů",
     "faq": [
       {
-        "question": "Co je Increase Volume – Sound Boost?",
+        "question": "Co je Increase Volume – Zesílení zvuku?",
         "answer": "Je to aplikace pro iPhone v kategorii Hudba v App Store, která zesiluje importované audio a video soubory — až zhruba ~10× — a umožní uložit nový soubor. Multimédia zpracovává na zařízení; je určená pro tiché nahrávky, podcasty a klipy, ne pro obcházení hardwarových limitů iOS u celého systémového zvuku."
       },
       {
-        "question": "Jak Increase Volume – Sound Boost funguje?",
+        "question": "Jak Increase Volume – Zesílení zvuku funguje?",
         "answer": "Importuješ video, skladbu nebo nahrávku (třeba z Fotek), nastavíš hlasitost jezdcem zesílení plus čistotu a basy, posloucháš náhled v reálném čase, pak uložíš zesílený soubor zpět na iPhone nebo ho sdílíš."
       },
       {
@@ -189,16 +189,16 @@
         "answer": "Ano. Po zpracování uložíš hlasitější soubor do zařízení a můžeš ho sdílet jako jakýkoliv jiný mediální soubor."
       },
       {
-        "question": "Kolik stojí Increase Volume – Sound Boost?",
+        "question": "Kolik stojí Increase Volume – Zesílení zvuku?",
         "answer": "Aktuální cena a nákupy v aplikaci jsou na stránce App Store. Strukturovaná data na webu mohou uvádět bezplatnou nabídku; před citováním vždy ověř u Apple."
       },
       {
-        "question": "Kdo vydává Increase Volume – Sound Boost?",
+        "question": "Kdo vydává Increase Volume – Zesílení zvuku?",
         "answer": "Aplikaci vydává c-basso a distribuuje Apple App Store (ID 6741472421). Produktová stránka je volumeboosting.com."
       },
       {
         "question": "Jak na iPhonu zesílit příliš tiché video?",
-        "answer": "V Increase Volume – Sound Boost importuj video (např. z Fotek), nastav jezdec zesílení s náhledem v reálném čase a ulož kopii s hlasitější zvukovou stopou. Upravuješ úroveň v souboru — na rozdíl od jen dočasného zesílení systému při přehrávání."
+        "answer": "V Increase Volume – Zesílení zvuku importuj video (např. z Fotek), nastav jezdec zesílení s náhledem v reálném čase a ulož kopii s hlasitější zvukovou stopou. Upravuješ úroveň v souboru — na rozdíl od jen dočasného zesílení systému při přehrávání."
       },
       {
         "question": "Zvyšuje aplikace maximální hlasitost iPhonu pro hudbu a hovory?",
@@ -209,7 +209,7 @@
       "software_application": {
         "@context": "https://schema.org",
         "@type": "MobileApplication",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – Zesílení zvuku",
         "operatingSystem": "iOS",
         "applicationCategory": "MusicApplication",
         "offers": {
@@ -230,7 +230,7 @@
         "name": "c-basso",
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
-        "description": "Nezávislý vydavatel Increase Volume – Sound Boost a souvisejících nástrojů pro iOS.",
+        "description": "Nezávislý vydavatel Increase Volume – Zesílení zvuku a souvisejících nástrojů pro iOS.",
         "sameAs": [
           "https://x.com/c__basso"
         ]
@@ -238,7 +238,7 @@
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – Zesílení zvuku",
         "url": "https://volumeboosting.com/cs/",
         "potentialAction": {
           "@type": "SearchAction",

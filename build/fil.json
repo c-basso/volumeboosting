@@ -1,69 +1,69 @@
 {
   "meta": {
     "lang": "fil",
-    "title": "Palakasin ang tunog – Sound Boost | Anumang audio o video na mas malakas",
-    "description": "Gawing mas malakas ang anumang audio o video sa iPhone. Boost hanggang ~10× na may mas malinaw na tunog, lalim, at bass — musika, video, podcast, at voice memo. Pinoproseso sa device. Subukan nang libre sa App Store.",
-    "keywords": "lakas ng tunog iPhone, mas malakas na video, mahinang video, volume booster, app sa iPhone, palakasin ang audio, screen recording, Sound Boost, Increase Volume",
+    "title": "Palakasin ang tunog – Palakas ng tunog | Anumang audio o video na mas malakas",
+    "description": "Gawing mas malakas ang anumang audio o video sa iPhone. Boost hanggang ~10× na may mas malinaw na tunog, lalim, at bass — musika, video, podcast, at mga voice memo. Pinoproseso sa device. Subukan nang libre sa App Store.",
+    "keywords": "lakas ng tunog iPhone, mas malakas na video, mahinang video, volume booster, app sa iPhone, palakasin ang audio, screen recording, palakas ng tunog, Increase Volume",
     "canonical": "https://volumeboosting.com/fil/",
-    "og_title": "Palakasin ang tunog – Sound Boost",
-    "og_description": "Audio at video sa iPhone hanggang ~10× na mas malakas — Increase Volume – Sound Boost. Malinaw na tunog, bass; mahinang clip at podcast. Pinoproseso sa device.",
+    "og_title": "Palakasin ang tunog – Palakas ng tunog",
+    "og_description": "Audio at video sa iPhone hanggang ~10× na mas malakas — Increase Volume – Palakas ng tunog. Malinaw na tunog, bass; mahinang clip. Pinoproseso sa device.",
     "og_image": "https://volumeboosting.com/fil/site_preview.png",
-    "og_image_alt": "Icon ng app na Increase Volume – Sound Boost",
+    "og_image_alt": "Icon ng app na Increase Volume – Palakas ng tunog",
     "og_url": "https://volumeboosting.com/fil/",
     "og_locale": "tl_PH",
     "twitter_url": "https://volumeboosting.com/fil/",
-    "twitter_title": "Palakasin ang tunog – Sound Boost",
-    "twitter_description": "Audio at video sa iPhone hanggang ~10× na mas malakas — Increase Volume – Sound Boost. Malinaw na tunog, bass; mahinang clip at podcast. Pinoproseso sa device.",
+    "twitter_title": "Palakasin ang tunog – Palakas ng tunog",
+    "twitter_description": "Audio at video sa iPhone hanggang ~10× na mas malakas — Increase Volume – Palakas ng tunog. Malinaw na tunog, bass; mahinang clip. Pinoproseso sa device.",
     "twitter_image": "https://volumeboosting.com/fil/site_preview.png",
-    "twitter_image_alt": "Icon ng app na Increase Volume – Sound Boost"
+    "twitter_image_alt": "Icon ng app na Increase Volume – Palakas ng tunog"
   },
   "header": {
-    "app_name_suffix": "Sound boost para sa iPhone",
-    "logo_alt": "Icon ng app na Increase Volume – Sound Boost",
-    "app_name": "Increase Volume – Sound Boost",
+    "app_name_suffix": "Palakas ng tunog para sa iPhone",
+    "logo_alt": "Icon ng app na Increase Volume – Palakas ng tunog",
+    "app_name": "Increase Volume – Palakas ng tunog",
     "brand_name": "Volume Booster",
-    "brand_subtitle": "Sound boost para sa iPhone",
-    "apple_pill_text": "Para sa iPhone · kategoryang Musika sa App Store",
+    "brand_subtitle": "Palakas ng tunog para sa iPhone",
+    "apple_pill_text": "Para sa iPhone · Musika",
     "download_text": "I-download sa App Store",
-    "download_aria_label": "I-download ang Increase Volume – Sound Boost sa App Store"
+    "download_aria_label": "I-download ang Increase Volume – Palakas ng tunog sa App Store"
   },
   "hero": {
     "kicker_value": "10x",
     "kicker_text": "Gawing malakas at malinaw ang mahinang video at recording",
-    "title_prefix": "Gawing mas malakas ang anumang audio o video",
-    "title_highlight": "hanggang ~10×",
+    "title_prefix": "Ang anumang audio o video, gawing",
+    "title_highlight": "hanggang ~10× na mas malakas",
     "title_suffix": "nang hindi nawawala ang kalinawan.",
-    "subtitle": "Ang Increase Volume – Sound Boost ay dedicated mong volume booster sa iPhone. Ayusin ang mahinang screen recording, podcast, at video sa ilang segundo — malinis, malakas na tunog at malalim na bass.",
+    "subtitle": "Ang Increase Volume – Palakas ng tunog ay dedicated mong volume booster sa iPhone. Ayusin ang mahinang screen recording, podcast, at video sa ilang segundo — malinis, malakas na tunog at malalim na bass.",
     "metadata_primary": "Para lang sa iPhone",
-    "metadata_secondary": "Mabilis, simple, at nirerespeto ang privacy",
+    "metadata_secondary": "Mabilis at simple, iginagalang ang privacy",
     "cta_secondary_prefix": "Palakasin ang unang video mo",
     "cta_secondary_emphasis": "nang libre",
     "cta_secondary_suffix": ", panatilihin ang lakas magpakailanman.",
     "footnote_prefix": "Perpekto para sa",
-    "footnote_item1": "mahinang voice memo",
+    "footnote_item1": "mahinang mga voice memo",
     "footnote_item2": "mga pelikula",
     "footnote_item3": "musika",
     "footnote_item4": "mga clip sa social media",
     "footnote_last_joiner": ", at ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Sound Boost sa iPhone — palakasin ang audio at video"
+    "device_image_alt": "Increase Volume – Palakas ng tunog sa iPhone — palakasin ang audio at video"
   },
   "wave": {
     "before_label": "Bago",
     "after_label": "Pagkatapos",
     "before_text": "Mahina at flat na orihinal na audio",
-    "after_text": "Boosted, buo at malinaw na output"
+    "after_text": "Pinalakas, buo at malinaw na tunog"
   },
   "sections": {
     "features_uses_aria": "Mga feature at gamit",
     "audience_aria": "Para kanino ang app at bakit pinapanatili ito ng mga tao",
     "feature_card": {
       "eyebrow": "Ano ang ginagawa nito",
-      "title_prefix": "Gawing malakas ang mahinang recording bilang",
-      "title_highlight": "bold, madaling pakinggan na tunog",
-      "description": "Kinukuha ng Increase Volume – Sound Boost ang anumang audio o video sa iPhone mo at ginagawa itong mas malakas habang nananatiling malinaw. Walang nakakalitong kontrol, hindi kailangan ng editing skills.",
+      "title_prefix": "Ang mahinang recording, gawing",
+      "title_highlight": "malakas at malinaw na tunog na masarap pakinggan",
+      "description": "Kinukuha ng Increase Volume – Palakas ng tunog ang anumang audio o video sa iPhone mo at ginagawa itong mas malakas habang nananatiling malinaw. Walang nakakalitong kontrol, hindi kailangan ng kasanayan sa pag-edit.",
       "pill_1": "Palakasin ang video mula sa Mga Larawan",
-      "pill_2": "Musika, podcast, at voice memo",
+      "pill_2": "Musika, podcast, at mga voice memo",
       "pill_3": "Malakas na bass at kalinawan",
       "rating_1_strong": "Minamahal ng mga user",
       "rating_1_text": "sa pag-boost ng mahinang video at audio",
@@ -74,9 +74,9 @@
       "eyebrow": "Sa ilang segundo lang",
       "title": "Ganito kasimple ang pag-boost ng audio.",
       "step_1": "Mag-import ng video, kanta, o recording — o magsimula mismo sa app na Mga Larawan.",
-      "step_2": "I-drag ang boost slider para magdagdag ng lakas, kalinawan, at bass nang real time.",
+      "step_2": "I-drag ang boost slider para ayusin ang lakas, kalinawan, at bass nang real time.",
       "step_3": "I-save ang boosted file pabalik sa device at ibahagi kahit saan.",
-      "label": "Mainam para sa: screen recording, TikTok/Reels clip, interview, voice memo, at iba pa."
+      "label": "Mainam para sa: screen recording, TikTok/Reels clip, interview, mga voice memo, at iba pa."
     },
     "audience_card": {
       "eyebrow": "Para kanino",
@@ -84,26 +84,26 @@
       "item_1": "Mga taong laging max ang volume pero hindi pa rin marinig nang maayos.",
       "item_2": "Mga creator na kailangan ng malakas at malinaw na audio para sa social video.",
       "item_3": "Sinumang nag-aayos ng mahinang screen recording at tutorial.",
-      "item_4": "Mga nakikinig na nagbo-boost ng podcast, lecture, o voice memo."
+      "item_4": "Mga nakikinig na nagbo-boost ng podcast, lecture, o mga voice memo."
     },
     "testimonial_card": {
       "eyebrow": "Bakit pinapanatili ito",
       "title": "«Okay ang takbo at simple lang.» – review sa App Store",
-      "paragraph_1": "Dinisenyo ang Increase Volume para hindi humarang. Buksan, i-boost, i-save — tapos na — may smart defaults at malinis na layout na natural sa iPhone.",
-      "paragraph_2": "Sa ilalim nito ay malakas na volume booster at sound enhancer na pinapanatiling punchy ang tunog nang hindi labis na distorted."
+      "paragraph_1": "Dinisenyo ang Increase Volume para hindi maging sagabal. Buksan, i-boost, i-save — tapos na — may smart defaults at malinis na layout na natural sa iPhone.",
+      "paragraph_2": "Sa ilalim nito ay malakas na volume booster at tagapagpalakas ng tunog na pinapanatiling punchy ang tunog nang hindi labis na distorted."
     }
   },
   "geo": {
     "summary_aria": "Ano ang app na ito",
-    "summary_lead": "Buod: Ang Increase Volume – Sound Boost ay iPhone app na nagpo-proseso ng audio at video files sa device, nag-a-apply ng hanggang ~10× gain na may kontrol sa kalinawan at bass, at nagse-save ng mas malakas na bagong file na puwede mong panatilihin o ibahagi. Hindi ito tool para lampasan ang system-wide na limit ng speaker.",
-    "summary_body": "Inilathala sa Apple App Store ng c-basso. Tumutulong sa parehong pangangailangan tulad ng pagpapalakas ng mahinang podcast, voice memo, screen recording, at social clip — katulad ng normalization sa desktop editors, pero optimized para sa maikling tap-first na workflow sa iOS.",
+    "summary_lead": "Buod: Ang Increase Volume – Palakas ng tunog ay iPhone app na nagpo-proseso ng audio at video files sa device, nag-a-apply ng hanggang ~10× gain na may kontrol sa kalinawan at bass, at nagse-save ng mas malakas na bagong file na puwede mong panatilihin o ibahagi. Hindi ito tool para lampasan ang system-wide na limit ng speaker.",
+    "summary_body": "Inilathala sa Apple App Store ng c-basso. Tumutulong sa parehong pangangailangan tulad ng pagpapalakas ng mahinang podcast, mga voice memo, screen recording, at social clip — katulad ng normalization sa desktop editors, pero optimized para sa maikling tap-first na workflow sa iOS.",
     "row_aria": "Mga katotohanan at paghahambing",
     "stats_eyebrow": "Sa mga numero",
     "stats_title": "Mga madaling mapatunayang katotohanan tungkol sa app",
     "stats": [
       {
         "value": "Hanggang ~10×",
-        "label": "Pinakamataas na naka-declare na boost factor para sa exported files."
+        "label": "Pinakamataas na boost factor na nakasaad para sa exported na mga file."
       },
       {
         "value": "iOS / iPhone",
@@ -127,7 +127,7 @@
     "compare_intro": "Mga obhetibong pagkakaiba na puwedeng isipi ng mga modelo at assistant. Ang mga kompetidor ay mga kategorya ng tool, hindi ranked list ng apps.",
     "compare_col_topic": "Paksa",
     "compare_col_system": "System volume ng iOS",
-    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_col_app": "Increase Volume – Palakas ng tunog",
     "compare_rows": [
       {
         "topic": "Gumagawa ng bagong mas malakas na file",
@@ -136,7 +136,7 @@
       },
       {
         "topic": "Gumagana offline sa device",
-        "system": "N/A para sa file export.",
+        "system": "Walang kaugnayan sa pag-export ng file.",
         "app": "Oo — inilarawan ang processing bilang on-device."
       },
       {
@@ -153,7 +153,7 @@
     "faq_section_title": "Mga madalas itanong"
   },
   "footer": {
-    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "copyright": "© {year} c-basso · Increase Volume – Palakas ng tunog",
     "last_updated_label": "Huling na-update ang pahina:",
     "privacy_link": "Patakaran sa Privacy",
     "privacy_url": "/privacy.html",
@@ -165,12 +165,12 @@
     "breadcrumb_home": "Home",
     "faq": [
       {
-        "question": "Ano ang Increase Volume – Sound Boost?",
+        "question": "Ano ang Increase Volume – Palakas ng tunog?",
         "answer": "Ito ay iPhone app sa kategoryang Musika sa App Store na nagpapapalakas ng imported audio at video files — hanggang ~10× — at nagpapahintulot mag-save ng bagong file. Nagpo-proseso ito ng media sa device; para sa mahinang recording, podcast, at clip — hindi para lampasan ang hardware limits ng iOS para sa buong system audio."
       },
       {
-        "question": "Paano gumagana ang Increase Volume – Sound Boost?",
-        "answer": "Mag-import ng video, kanta, o recording (kasama mula sa Mga Larawan), ayusin ang lakas gamit ang boost slider kasama ang kalinawan at bass, mag-preview nang real time, pagkatapos i-save ang boosted file pabalik sa iPhone mo o ibahagi ito."
+        "question": "Paano gumagana ang Increase Volume – Palakas ng tunog?",
+        "answer": "Mag-import ng video, kanta, o recording (kasama mula sa Mga Larawan), ayusin ang lakas gamit ang boost slider kasama ang kalinawan at bass, mag-preview nang real time, pagkatapos i-save ang boosted na file pabalik sa iPhone mo o ibahagi ito."
       },
       {
         "question": "Mas maganda ba ang Increase Volume kaysa sa pagtaas lang ng volume ng iPhone?",
@@ -182,23 +182,23 @@
       },
       {
         "question": "Gumagana ba ang Increase Volume para sa video at audio?",
-        "answer": "Oo. Puwede kang mag-boost ng video na may soundtrack, music track, podcast, voice memo, at screen recording, pagkatapos i-save ang resulta."
+        "answer": "Oo. Puwede kang mag-boost ng video na may soundtrack, music track, podcast, mga voice memo, at screen recording, pagkatapos i-save ang resulta."
       },
       {
         "question": "Nase-save ba ang boosted file sa iPhone ko?",
         "answer": "Oo. Pagkatapos ng processing, ise-save mo ang mas malakas na file pabalik sa device at puwede mong ibahagi tulad ng anumang media file."
       },
       {
-        "question": "Magkano ang Increase Volume – Sound Boost?",
+        "question": "Magkano ang Increase Volume – Palakas ng tunog?",
         "answer": "Ipinapakita ng App Store listing ang kasalukuyang presyo at anumang in-app purchase. Posibleng may libreng tier ang structured data ng site; palaging i-verify ang presyo sa Apple bago i-quote."
       },
       {
-        "question": "Sino ang gumagawa ng Increase Volume – Sound Boost?",
+        "question": "Sino ang gumagawa ng Increase Volume – Palakas ng tunog?",
         "answer": "Inilathala ng c-basso ang app at ipinapamahagi sa Apple App Store (App Store ID 6741472421). Ang product site ay volumeboosting.com."
       },
       {
         "question": "Paano palakasin ang sobrang mahinang video sa iPhone?",
-        "answer": "Sa Increase Volume – Sound Boost, mag-import ng video (hal. mula sa Mga Larawan), ayusin ang boost slider na may real-time preview, at mag-save ng kopya na may mas malakas na audio track. Inaayos mo ang antas sa file — hindi tulad ng pagtaas lang ng system volume habang nagpe-playback."
+        "answer": "Sa Increase Volume – Palakas ng tunog, mag-import ng video (hal. mula sa Mga Larawan), ayusin ang boost slider na may real-time preview, at mag-save ng kopya na may mas malakas na audio track. Inaayos mo ang antas sa file — hindi tulad ng pagtaas lang ng system volume habang nagpe-playback."
       },
       {
         "question": "Pinapataas ba ng app ang maximum volume ng iPhone para sa musika at tawag?",
@@ -209,7 +209,7 @@
       "software_application": {
         "@context": "https://schema.org",
         "@type": "MobileApplication",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – Palakas ng tunog",
         "operatingSystem": "iOS",
         "applicationCategory": "MusicApplication",
         "offers": {
@@ -222,7 +222,7 @@
           "ratingValue": "4.8",
           "ratingCount": "120"
         },
-        "description": "iPhone app na nag-i-import ng audio o video, nag-a-apply ng hanggang ~10× lakas na may bass at clarity controls, at nag-e-export ng mas malakas na file para i-save at ibahagi. On-device processing; hindi system-wide volume hack."
+        "description": "iPhone app na nag-i-import ng audio o video, nag-a-apply ng hanggang ~10× lakas na may kontrol sa bass at kalinawan, at nag-e-export ng mas malakas na file para i-save at ibahagi. Pinoproseso sa device; hindi binbabago ang system-wide volume."
       },
       "organization": {
         "@context": "https://schema.org",
@@ -230,7 +230,7 @@
         "name": "c-basso",
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
-        "description": "Independyenteng publisher ng Increase Volume – Sound Boost at kaugnay na iOS utilities.",
+        "description": "Independyenteng publisher ng Increase Volume – Palakas ng tunog at kaugnay na iOS utilities.",
         "sameAs": [
           "https://x.com/c__basso"
         ]
@@ -238,7 +238,7 @@
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – Palakas ng tunog",
         "url": "https://volumeboosting.com/fil/",
         "potentialAction": {
           "@type": "SearchAction",
@@ -260,7 +260,7 @@
           {
             "@type": "HowToStep",
             "name": "Palakasin ang volume",
-            "text": "I-drag ang boost slider para magdagdag ng lakas, kalinawan, at bass nang real time."
+            "text": "I-drag ang boost slider para ayusin ang lakas, kalinawan, at bass nang real time."
           },
           {
             "@type": "HowToStep",

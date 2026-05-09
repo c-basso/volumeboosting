@@ -1,6 +1,6 @@
 # Increase Volume – Sound Boost
 
-> Make any audio or video louder on iPhone. Boost volume up to 10x while enhancing clarity, depth, and bass for music, videos, podcasts, and voice notes.
+> Make any audio or video louder on iPhone. Boost volume up to ~10× while enhancing clarity, depth, and bass for music, videos, podcasts, and voice memos.
 
 ## Entity snapshot
 - Name: Increase Volume – Sound Boost

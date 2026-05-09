@@ -1,31 +1,31 @@
 {
   "meta": {
     "lang": "ms",
-    "title": "Tingkatkan kelantangan – Sound Boost | Sebarang audio atau video lebih kuat",
-    "description": "Jadikan sebarang audio atau video lebih kuat di iPhone. Boost hingga ~10× dengan kejernihan, kelajuan dan bass yang lebih baik — muzik, video, podcast dan memo suara. Diproses pada peranti. Cuba percuma di App Store.",
-    "keywords": "kelantangan iPhone, video lebih kuat, video perlahan, peningkat kelantangan, aplikasi iPhone, perkuat audio, rakaman skrin perlahan, Sound Boost, Increase Volume",
+    "title": "Tingkatkan kelantangan – Penambah bunyi | Sebarang audio atau video lebih kuat",
+    "description": "Jadikan sebarang audio atau video lebih kuat di iPhone. Boost hingga ~10× dengan kejernihan, kedalaman dan bass yang lebih baik — muzik, video, podcast dan memo suara. Diproses pada peranti. Cuba percuma di App Store.",
+    "keywords": "kelantangan iPhone, video lebih kuat, video perlahan, peningkat kelantangan, aplikasi iPhone, perkuat audio, rakaman skrin perlahan, penambah bunyi, Increase Volume",
     "canonical": "https://volumeboosting.com/ms/",
-    "og_title": "Tingkatkan kelantangan – Sound Boost",
-    "og_description": "Tingkatkan audio dan video iPhone hingga ~10× dengan Increase Volume – Sound Boost: bunyi jernih, bass mantap. Pemprosesan pada peranti; simpan dan kongsi.",
+    "og_title": "Tingkatkan kelantangan – Penambah bunyi",
+    "og_description": "Tingkatkan audio dan video iPhone hingga ~10× dengan Increase Volume – Penambah bunyi: bunyi jernih, bass mantap. Pemprosesan pada peranti; simpan dan kongsi.",
     "og_image": "https://volumeboosting.com/ms/site_preview.png",
-    "og_image_alt": "Ikon aplikasi Increase Volume – Sound Boost",
+    "og_image_alt": "Ikon aplikasi Increase Volume – Penambah bunyi",
     "og_url": "https://volumeboosting.com/ms/",
     "og_locale": "ms_MY",
     "twitter_url": "https://volumeboosting.com/ms/",
-    "twitter_title": "Tingkatkan kelantangan – Sound Boost",
-    "twitter_description": "Tingkatkan audio dan video iPhone hingga ~10× dengan Increase Volume – Sound Boost: bunyi jernih, bass mantap. Pemprosesan pada peranti; simpan dan kongsi.",
+    "twitter_title": "Tingkatkan kelantangan – Penambah bunyi",
+    "twitter_description": "Tingkatkan audio dan video iPhone hingga ~10× dengan Increase Volume – Penambah bunyi: bunyi jernih, bass mantap. Pemprosesan pada peranti; simpan dan kongsi.",
     "twitter_image": "https://volumeboosting.com/ms/site_preview.png",
-    "twitter_image_alt": "Ikon aplikasi Increase Volume – Sound Boost"
+    "twitter_image_alt": "Ikon aplikasi Increase Volume – Penambah bunyi"
   },
   "header": {
     "app_name_suffix": "Penambah bunyi untuk iPhone",
-    "logo_alt": "Ikon aplikasi Increase Volume – Sound Boost",
-    "app_name": "Increase Volume – Sound Boost",
+    "logo_alt": "Ikon aplikasi Increase Volume – Penambah bunyi",
+    "app_name": "Increase Volume – Penambah bunyi",
     "brand_name": "Volume Booster",
     "brand_subtitle": "Penambah bunyi untuk iPhone",
-    "apple_pill_text": "Untuk iPhone · kategori Muzik di App Store",
+    "apple_pill_text": "Untuk iPhone · Muzik",
     "download_text": "Muat turun di App Store",
-    "download_aria_label": "Muat turun Increase Volume – Sound Boost di App Store"
+    "download_aria_label": "Muat turun Increase Volume – Penambah bunyi di App Store"
   },
   "hero": {
     "kicker_value": "10x",
@@ -33,12 +33,12 @@
     "title_prefix": "Jadikan sebarang audio atau video",
     "title_highlight": "hingga ~10× lebih kuat",
     "title_suffix": "tanpa hilang kejernihan.",
-    "subtitle": "Increase Volume – Sound Boost ialah peningkat kelantangan khusus anda untuk iPhone. Baiki rakaman skrin, podcast dan video perlahan dalam beberapa saat — bunyi bersih dan kuat serta bass yang dalam.",
+    "subtitle": "Increase Volume – Penambah bunyi ialah peningkat kelantangan khusus anda untuk iPhone. Baiki rakaman skrin, podcast dan video perlahan dalam beberapa saat — bunyi bersih dan kuat serta bass yang dalam.",
     "metadata_primary": "Hanya untuk iPhone",
     "metadata_secondary": "Pantas, mudah dan menghormati privasi",
     "cta_secondary_prefix": "Boost video pertama anda",
     "cta_secondary_emphasis": "percuma",
-    "cta_secondary_suffix": ", dan kekalkan kelantangan itu.",
+    "cta_secondary_suffix": ", dan kekalkan kelantangan itu untuk selamanya.",
     "footnote_prefix": "Sesuai untuk",
     "footnote_item1": "memo suara perlahan",
     "footnote_item2": "filem",
@@ -46,13 +46,13 @@
     "footnote_item4": "klip media sosial",
     "footnote_last_joiner": ", dan ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Sound Boost pada iPhone — tingkatkan kelantangan audio dan video"
+    "device_image_alt": "Increase Volume – Penambah bunyi pada iPhone — tingkatkan kelantangan audio dan video"
   },
   "wave": {
     "before_label": "Sebelum",
     "after_label": "Selepas",
     "before_text": "Audio asli perlahan dan rata",
-    "after_text": "Output di-boost: penuh dan jernih"
+    "after_text": "Suara yang diperkuat, penuh dan jernih"
   },
   "sections": {
     "features_uses_aria": "Ciri dan penggunaan",
@@ -61,20 +61,20 @@
       "eyebrow": "Apa ia lakukan",
       "title_prefix": "Ubah rakaman perlahan kepada",
       "title_highlight": "bunyi yang tegas dan selesa didengar",
-      "description": "Increase Volume – Sound Boost mengambil sebarang audio atau video pada iPhone anda dan menjadikannya jauh lebih kuat — kejelasan dikekalkan. Tiada kawalan mengelirukan, tiada kemahiran penyuntingan diperlukan.",
+      "description": "Increase Volume – Penambah bunyi mengambil sebarang audio atau video pada iPhone anda dan menjadikannya jauh lebih kuat — kejelasan dikekalkan. Tiada kawalan mengelirukan, tiada kemahiran penyuntingan diperlukan.",
       "pill_1": "Boost video dari Foto",
       "pill_2": "Muzik, podcast dan memo suara",
       "pill_3": "Bass kuat dan kejernihan",
       "rating_1_strong": "Disukai pengguna",
       "rating_1_text": "untuk boost video dan audio perlahan",
-      "rating_2_strong": "Kategori Muzik",
-      "rating_2_text": "di App Store"
+      "rating_2_strong": "Muzik",
+      "rating_2_text": "kategori di App Store"
     },
     "steps_card": {
       "eyebrow": "Dalam beberapa saat",
       "title": "Begini mudahnya boost audio.",
       "step_1": "Import video, lagu atau rakaman — atau mulakan terus dari aplikasi Foto.",
-      "step_2": "Seret peluncur boost untuk menambah kelantangan, kejernihan dan bass secara masa nyata.",
+      "step_2": "Seret peluncur boost untuk melaraskan kelantangan, kejernihan dan bass secara masa nyata.",
       "step_3": "Simpan fail yang telah di-boost semula ke peranti dan kongsi ke mana sahaja.",
       "label": "Sesuai untuk: rakaman skrin, klip TikTok/Reels, temu bual, memo suara dan banyak lagi."
     },
@@ -89,13 +89,13 @@
     "testimonial_card": {
       "eyebrow": "Mengapa dikekalkan",
       "title": "«Berfungsi baik dan mudah.» – ulasan App Store",
-      "paragraph_1": "Increase Volume direka agar tidak menghalang. Buka, boost, simpan — siap — dengan lalai pintar dan susun atur bersih yang terasa semula jadi pada iPhone.",
+      "paragraph_1": "Increase Volume direka supaya tidak menghalangi anda. Buka, boost, simpan — siap — dengan pratetap pintar dan susun atur bersih yang terasa asli pada iPhone.",
       "paragraph_2": "Di sebaliknya terdapat peningkat kelantangan dan penambah bunyi yang mengekalkan audio bertenaga tanpa herotan berlebihan."
     }
   },
   "geo": {
     "summary_aria": "Apakah aplikasi ini",
-    "summary_lead": "Ringkasan: Increase Volume – Sound Boost ialah aplikasi iPhone yang memproses fail audio dan video pada peranti, menggunakan peningkatan hingga ~10× dengan kawalan kejernihan dan bass, dan menyimpan fail baharu yang lebih kuat untuk anda simpan atau kongsi. Ia bukan alat untuk memintas had pembesar suara sistem bagi keseluruhan audio sistem.",
+    "summary_lead": "Ringkasan: Increase Volume – Penambah bunyi ialah aplikasi iPhone yang memproses fail audio dan video pada peranti, menggunakan peningkatan hingga kira-kira 10× dengan kawalan kejernihan dan bass, dan menyimpan fail baharu yang lebih kuat untuk anda simpan atau kongsi. Ia tidak mengubah kelantangan sistem secara menyeluruh.",
     "summary_body": "Diterbitkan di Apple App Store oleh c-basso. Menangani keperluan yang sama seperti meningkatkan podcast perlahan, memo suara, rakaman skrin dan klip sosial — serupa normalisasi dalam editor desktop, tetapi dioptimumkan untuk aliran iOS pendek berasaskan ketik.",
     "row_aria": "Fakta dan perbandingan",
     "stats_eyebrow": "Dalam angka",
@@ -111,7 +111,7 @@
       },
       {
         "value": "4,8 / 5",
-        "label": "Purata penilaian dalam data berstruktur (120 ulasan); sahkan secara langsung di App Store."
+        "label": "Penilaian agregat dalam data berstruktur (120 ulasan); sahkan pada halaman App Store."
       },
       {
         "value": "Muat turun percuma",
@@ -119,7 +119,7 @@
       },
       {
         "value": "Import → boost → simpan",
-        "label": "Aliran teras: fail tempatan masuk, fail diproses keluar."
+        "label": "Aliran teras: fail tempatan masuk, fail yang dilaraskan keluar."
       }
     ],
     "compare_eyebrow": "Kedudukan",
@@ -127,7 +127,7 @@
     "compare_intro": "Perbezaan objektif yang boleh dipetik oleh model dan pembantu. Pesaing ialah kategori alat, bukan senarai kedudukan aplikasi.",
     "compare_col_topic": "Topik",
     "compare_col_system": "Kelantangan sistem iOS",
-    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_col_app": "Increase Volume – Penambah bunyi",
     "compare_rows": [
       {
         "topic": "Mencipta fail baharu yang lebih kuat",
@@ -136,7 +136,7 @@
       },
       {
         "topic": "Berfungsi luar talian pada peranti",
-        "system": "Tidak relevan untuk eksport fail.",
+        "system": "Tidak berkenaan dalam konteks eksport fail.",
         "app": "Ya — pemprosesan dijelaskan sebagai pada peranti."
       },
       {
@@ -153,7 +153,7 @@
     "faq_section_title": "Soalan lazim"
   },
   "footer": {
-    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "copyright": "© {year} c-basso · Increase Volume – Penambah bunyi",
     "last_updated_label": "Halaman terakhir dikemas kini:",
     "privacy_link": "Dasar Privasi",
     "privacy_url": "/privacy.html",
@@ -165,12 +165,12 @@
     "breadcrumb_home": "Laman utama",
     "faq": [
       {
-        "question": "Apakah Increase Volume – Sound Boost?",
+        "question": "Apakah Increase Volume – Penambah bunyi?",
         "answer": "Ia ialah aplikasi iPhone dalam kategori Muzik di App Store yang menjadikan fail audio dan video yang diimport lebih kuat — hingga ~10× — dan membolehkan anda menyimpan fail baharu. Ia memproses media pada peranti; ditujukan untuk rakaman perlahan, podcast dan klip — bukan untuk memintas had perkakasan iOS bagi keseluruhan audio sistem."
       },
       {
-        "question": "Bagaimana Increase Volume – Sound Boost berfungsi?",
-        "answer": "Anda mengimport video, lagu atau rakaman (termasuk dari Foto), melaraskan kelantangan dengan peluncur boost ditambah kejernihan dan bass, mendengar pratonton secara masa nyata, kemudian menyimpan fail yang telah di-boost semula ke iPhone atau berkongsinya."
+        "question": "Bagaimana Increase Volume – Penambah bunyi berfungsi?",
+        "answer": "Anda mengimport video, lagu atau rakaman (termasuk dari Foto), melaraskan kelantangan, kejernihan dan bass dengan peluncur boost, mendengar pratonton secara masa nyata, kemudian menyimpan fail yang telah di-boost semula ke iPhone atau berkongsinya."
       },
       {
         "question": "Adakah Increase Volume lebih baik daripada hanya menaikkan kelantangan iPhone?",
@@ -189,16 +189,16 @@
         "answer": "Ya. Selepas pemprosesan, anda menyimpan fail yang lebih kuat semula ke peranti dan boleh berkongsi seperti mana-mana fail media."
       },
       {
-        "question": "Berapakah harga Increase Volume – Sound Boost?",
+        "question": "Berapakah harga Increase Volume – Penambah bunyi?",
         "answer": "Senarai App Store menunjukkan harga semasa dan pembelian dalam aplikasi. Data berstruktur tapak mungkin menyebut tawaran percuma; sentiasa sahkan harga di Apple sebelum memetik."
       },
       {
-        "question": "Siapa yang menerbitkan Increase Volume – Sound Boost?",
+        "question": "Siapa yang menerbitkan Increase Volume – Penambah bunyi?",
         "answer": "Aplikasi diterbitkan oleh c-basso dan diedarkan melalui Apple App Store (ID App Store 6741472421). Tapak produk ialah volumeboosting.com."
       },
       {
         "question": "Bagaimana memperkuat video yang terlalu perlahan pada iPhone?",
-        "answer": "Dalam Increase Volume – Sound Boost, import video (contohnya dari Foto), laraskan peluncur boost dengan pratonton masa nyata, dan simpan salinan dengan trek audio lebih kuat. Anda membaiki paras dalam fail — berbeza daripada hanya menaikkan kelantangan sistem semasa main balik."
+        "answer": "Dalam Increase Volume – Penambah bunyi, import video (contohnya dari Foto), laraskan peluncur boost dengan pratonton masa nyata, dan simpan salinan dengan trek audio lebih kuat. Anda membaiki paras dalam fail — berbeza daripada hanya menaikkan kelantangan sistem semasa main balik."
       },
       {
         "question": "Adakah aplikasi ini menaikkan kelantangan maksimum iPhone untuk muzik dan panggilan?",
@@ -209,7 +209,7 @@
       "software_application": {
         "@context": "https://schema.org",
         "@type": "MobileApplication",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – Penambah bunyi",
         "operatingSystem": "iOS",
         "applicationCategory": "MusicApplication",
         "offers": {
@@ -222,7 +222,7 @@
           "ratingValue": "4.8",
           "ratingCount": "120"
         },
-        "description": "Aplikasi iPhone yang mengimport audio atau video, menggunakan hingga ~10× kelantangan dengan kawalan bass dan kejernihan, dan mengeksport fail lebih kuat untuk disimpan dan dikongsi. Pemprosesan pada peranti; bukan pintasan kelantangan sistem untuk semua aplikasi."
+        "description": "Aplikasi iPhone yang mengimport audio atau video, menggunakan hingga kira-kira 10× kelantangan dengan kawalan bass dan kejernihan, dan mengeksport fail lebih kuat untuk disimpan dan dikongsi. Pemprosesan pada peranti; tidak mengubah kelantangan sistem secara menyeluruh."
       },
       "organization": {
         "@context": "https://schema.org",
@@ -230,7 +230,7 @@
         "name": "c-basso",
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
-        "description": "Penerbit bebas Increase Volume – Sound Boost dan utiliti iOS berkaitan.",
+        "description": "Penerbit bebas Increase Volume – Penambah bunyi dan utiliti iOS berkaitan.",
         "sameAs": [
           "https://x.com/c__basso"
         ]
@@ -238,7 +238,7 @@
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – Penambah bunyi",
         "url": "https://volumeboosting.com/ms/",
         "potentialAction": {
           "@type": "SearchAction",
@@ -260,7 +260,7 @@
           {
             "@type": "HowToStep",
             "name": "Boost kelantangan",
-            "text": "Seret peluncur boost untuk menambah kelantangan, kejernihan dan bass secara masa nyata."
+            "text": "Seret peluncur boost untuk melaraskan kelantangan, kejernihan dan bass secara masa nyata."
           },
           {
             "@type": "HowToStep",

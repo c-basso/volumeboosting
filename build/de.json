@@ -1,31 +1,31 @@
 {
   "meta": {
     "lang": "de",
-    "title": "Lautstärke auf dem iPhone erhöhen – Sound Boost | Audio & Video bis ~10× lauter",
-    "description": "Mach jedes Audio und Video auf dem iPhone lauter: Verstärkung bis ~10× mit mehr Klarheit und Bass. Leise Clips aus „Fotos“, Podcasts, Bildschirmaufnahmen, Sprachmemos – Verarbeitung auf dem Gerät. Kostenlos in der App Store testen.",
-    "keywords": "Lautstärke iPhone erhöhen, Video lauter machen, leises Video, Volume Booster, Ton verstärken, Sound verstärken, iPhone App, Audio lauter, Bildschirmaufnahme leise, Sound Boost, Increase Volume",
+    "title": "Lautstärke auf dem iPhone erhöhen – Klangboost | Audio & Video bis ~10× lauter",
+    "description": "Mach jedes Audio und Video auf dem iPhone lauter: Verstärkung bis ~10× mit mehr Klarheit und Bass. Leise Clips aus „Fotos“, Podcasts, Bildschirmaufnahmen, Sprachmemos – Verarbeitung auf dem Gerät. Kostenlos im App Store testen.",
+    "keywords": "Lautstärke iPhone erhöhen, Video lauter machen, leises Video, Volume Booster, Ton verstärken, Sound verstärken, iPhone App, Audio lauter, Bildschirmaufnahme leise, klangboost, Increase Volume",
     "canonical": "https://volumeboosting.com/de/",
-    "og_title": "Lautstärke auf dem iPhone erhöhen – Sound Boost",
-    "og_description": "Audio & Video iPhone bis ~10×: Klarheit, kräftiger Bass, schnell. Clips, Podcasts, Aufnahme. Verarbeitung auf dem Gerät.",
+    "og_title": "Lautstärke auf dem iPhone erhöhen – Klangboost",
+    "og_description": "Audio und Video auf dem iPhone bis ~10× lauter: Klarheit, kräftiger Bass, schnell. Clips, Podcasts, Aufnahmen. Verarbeitung auf dem Gerät.",
     "og_image": "https://volumeboosting.com/de/site_preview.png",
-    "og_image_alt": "App-Symbol von Increase Volume – Sound Boost",
+    "og_image_alt": "App-Symbol von Increase Volume – Klangboost",
     "og_url": "https://volumeboosting.com/de/",
     "og_locale": "de_DE",
     "twitter_url": "https://volumeboosting.com/de/",
-    "twitter_title": "Lautstärke auf dem iPhone erhöhen – Sound Boost",
-    "twitter_description": "Audio & Video iPhone bis ~10×: Klarheit, kräftiger Bass, schnell. Clips, Podcasts, Aufnahme. Verarbeitung auf dem Gerät.",
+    "twitter_title": "Lautstärke auf dem iPhone erhöhen – Klangboost",
+    "twitter_description": "Audio und Video auf dem iPhone bis ~10× lauter: Klarheit, kräftiger Bass, schnell. Clips, Podcasts, Aufnahmen. Verarbeitung auf dem Gerät.",
     "twitter_image": "https://volumeboosting.com/de/site_preview.png",
-    "twitter_image_alt": "App-Symbol von Increase Volume – Sound Boost"
+    "twitter_image_alt": "App-Symbol von Increase Volume – Klangboost"
   },
   "header": {
-    "app_name_suffix": "Sound-Boost für iPhone",
-    "logo_alt": "App-Symbol von Increase Volume – Sound Boost",
-    "app_name": "Increase Volume – Sound Boost",
+    "app_name_suffix": "Klangboost für iPhone",
+    "logo_alt": "App-Symbol von Increase Volume – Klangboost",
+    "app_name": "Increase Volume – Klangboost",
     "brand_name": "Volume Booster",
-    "brand_subtitle": "Sound-Boost für iPhone",
-    "apple_pill_text": "Für iPhone · Kategorie „Musik“ im App Store",
+    "brand_subtitle": "Klangboost für iPhone",
+    "apple_pill_text": "Für iPhone · Musik-App",
     "download_text": "Im App Store laden",
-    "download_aria_label": "Increase Volume – Sound Boost im App Store laden"
+    "download_aria_label": "Increase Volume – Klangboost im App Store laden"
   },
   "hero": {
     "kicker_value": "10x",
@@ -33,7 +33,7 @@
     "title_prefix": "Mach jedes Audio oder Video",
     "title_highlight": "bis ~10× lauter",
     "title_suffix": " ohne Klarheit zu verlieren.",
-    "subtitle": "Increase Volume – Sound Boost ist dein Volume-Booster fürs iPhone: Er erzeugt dauerhaft lautere Dateien – nicht nur lautere Wiedergabe. Behebe in Sekunden leise Bildschirmaufnahmen, Podcasts und Videos mit sauberem, kraftvollem Sound und satten Bässen.",
+    "subtitle": "Increase Volume – Klangboost ist dein Volume-Booster fürs iPhone: Er erzeugt dauerhaft lautere Dateien – nicht nur lautere Wiedergabe. Behebe in Sekunden leise Bildschirmaufnahmen, Podcasts und Videos mit sauberem, kraftvollem Sound und satten Bässen.",
     "metadata_primary": "Nur für iPhone",
     "metadata_secondary": "Schnell, einfach und datenschutzfreundlich",
     "cta_secondary_prefix": "Verstärke dein erstes Video",
@@ -46,7 +46,7 @@
     "footnote_item4": "Social-Media-Clips",
     "footnote_last_joiner": " und ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Sound Boost auf dem iPhone — Audio und Video lauter machen"
+    "device_image_alt": "Increase Volume – Klangboost auf dem iPhone — Audio und Video lauter machen"
   },
   "wave": {
     "before_label": "Vorher",
@@ -61,12 +61,12 @@
       "eyebrow": "Was die App macht",
       "title_prefix": "Verwandle leise Aufnahmen in",
       "title_highlight": "einen kraftvollen, gut hörbaren Klang",
-      "description": "Increase Volume – Sound Boost nimmt jede Audio- und Videodatei auf deinem iPhone und macht sie deutlich lauter – bei verständlicher, klarer Klangqualität. Keine verwirrenden Regler, keine Schnittkenntnisse nötig.",
+      "description": "Increase Volume – Klangboost nimmt jede Audio- und Videodatei auf deinem iPhone und macht sie deutlich lauter – bei verständlicher, klarer Klangqualität. Keine verwirrenden Regler, keine Schnittkenntnisse nötig.",
       "pill_1": "Videos aus der App „Fotos“ verstärken",
       "pill_2": "Musik, Podcasts und Sprachmemos",
       "pill_3": "Kräftiger Bass und Klarheit",
       "rating_1_strong": "Von Nutzern geschätzt",
-      "rating_1_text": "für lautere leise Videos und Audios",
+      "rating_1_text": "zum Verstärken leiser Videos und Audios",
       "rating_2_strong": "Kategorie „Musik“",
       "rating_2_text": "im App Store"
     },
@@ -74,17 +74,17 @@
       "eyebrow": "In Sekunden startklar",
       "title": "So einfach verstärkst du dein Audio.",
       "step_1": "Importiere ein Video, einen Song oder eine Aufnahme – oder starte direkt aus der App „Fotos“.",
-      "step_2": "Ziehe den Boost-Regler für Lautstärke, Klarheit und Bass in Echtzeit.",
+      "step_2": "Ziehe den Boost-Regler, um Lautstärke, Klarheit und Bass in Echtzeit anzupassen.",
       "step_3": "Speichere die verstärkte Datei zurück auf dem Gerät und teile sie überall.",
       "label": "Ideal für: Bildschirmaufnahmen, TikTok-/Reels-Clips, Interviews, Sprachmemos und mehr."
     },
     "audience_card": {
       "eyebrow": "Für wen",
       "title": "Wenn die iPhone-Lautstärke nicht reicht, reicht diese App.",
-      "item_1": "Wer immer auf Maximum hört und trotzdem wenig versteht.",
+      "item_1": "Wer die Lautstärke immer auf Maximum hat und trotzdem kaum etwas hört.",
       "item_2": "Creator, die lauten, klaren Ton für Social Videos brauchen.",
       "item_3": "Wer leise Screencasts und Tutorials repariert.",
-      "item_4": "Hörer, die Podcasts, Vorlesungen oder Sprachnotizen anheben."
+      "item_4": "Hörer, die Podcasts, Vorlesungen oder Sprachmemos anheben."
     },
     "testimonial_card": {
       "eyebrow": "Warum Nutzer sie behalten",
@@ -95,8 +95,8 @@
   },
   "geo": {
     "summary_aria": "Was diese App ist",
-    "summary_lead": "Kurz: Increase Volume – Sound Boost ist eine iPhone-App (Kategorie „Musik“ im App Store), die Audio- und Videodateien auf dem Gerät verarbeitet, bis ~10× Verstärkung mit Klarheits- und Bassreglern anwendet und eine neue, lautere Datei zum Speichern oder Teilen ausgibt. Kein Werkzeug, das systemweit Lautsprecher-Limits umgeht.",
-    "summary_body": "Im App Store von c-basso veröffentlicht. Trifft dieselbe Aufgabe: Podcasts, Sprachmemos, Bildschirmaufnahmen und leise Social-Clips anheben – ähnlich wie Normalisierung in Desktop-Editoren, aber optimiert für einen kurzen, tippbasierten iOS-Workflow.",
+    "summary_lead": "Kurz: Increase Volume – Klangboost ist eine iPhone-App (Kategorie „Musik“ im App Store), die Audio- und Videodateien auf dem Gerät verarbeitet, bis ~10× Verstärkung mit Klarheits- und Bassreglern anwendet und eine neue, lautere Datei zum Speichern oder Teilen ausgibt. Kein Werkzeug, das systemweit Lautsprecher-Limits umgeht.",
+    "summary_body": "Im App Store von c-basso veröffentlicht. Sie zielt auf denselben Bedarf wie das Anheben leiser Podcasts, Sprachmemos, Bildschirmaufnahmen und Social-Media-Clips – vergleichbar mit Normalisierung in Desktop-Editoren, aber optimiert für einen kurzen, tippbasierten iOS-Workflow.",
     "row_aria": "Fakten und Vergleich",
     "stats_eyebrow": "In Zahlen",
     "stats_title": "Sachliche Fakten zur App",
@@ -127,7 +127,7 @@
     "compare_intro": "Faktische Unterschiede, die Modelle und Assistenten zitieren können. „Konkurrenz“ bezeichnet Werkzeugkategorien, keine sortierte App-Liste.",
     "compare_col_topic": "Thema",
     "compare_col_system": "iOS-Systemlautstärke",
-    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_col_app": "Increase Volume – Klangboost",
     "compare_rows": [
       {
         "topic": "Erstellt eine neue, lautere Datei",
@@ -136,7 +136,7 @@
       },
       {
         "topic": "Funktioniert offline auf dem Gerät",
-        "system": "Entfällt: kein Dateiexport.",
+        "system": "Beim Dateiexport nicht relevant.",
         "app": "Ja – Verarbeitung auf dem Gerät."
       },
       {
@@ -153,7 +153,7 @@
     "faq_section_title": "Häufige Fragen"
   },
   "footer": {
-    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "copyright": "© {year} c-basso · Increase Volume – Klangboost",
     "last_updated_label": "Seite zuletzt aktualisiert:",
     "privacy_link": "Datenschutz",
     "privacy_url": "/privacy.html",
@@ -165,11 +165,11 @@
     "breadcrumb_home": "Start",
     "faq": [
       {
-        "question": "Was ist Increase Volume – Sound Boost?",
+        "question": "Was ist Increase Volume – Klangboost?",
         "answer": "Eine iPhone-App (Kategorie „Musik“ im App Store), die importierte Audio- und Videodateien lauter macht – bis ~10× – und eine neue Datei speichern lässt. Verarbeitung auf dem Gerät; für leise Aufnahmen, Podcasts und Clips, nicht dafür, die Systemlautstärke für alle Apps dauerhaft zu umgehen."
       },
       {
-        "question": "Wie funktioniert Increase Volume – Sound Boost?",
+        "question": "Wie funktioniert Increase Volume – Klangboost?",
         "answer": "Du importierst Video, Song oder Aufnahme (auch aus „Fotos“), stellst mit dem Boost-Regler Lautstärke, Klarheit und Bass ein, hörst die Vorschau in Echtzeit und speicherst die verstärkte Datei auf dem iPhone oder teilst sie."
       },
       {
@@ -189,16 +189,16 @@
         "answer": "Ja. Nach der Verarbeitung speicherst du die lautere Datei auf dem Gerät und kannst sie wie jede andere Mediendatei teilen."
       },
       {
-        "question": "Was kostet Increase Volume – Sound Boost?",
+        "question": "Was kostet Increase Volume – Klangboost?",
         "answer": "Preis und In-App-Käufe stehen in der App Store-Liste. Die strukturierten Daten der Website nennen ein Gratis-Angebot; vor Zitaten immer die Apple-Seite prüfen."
       },
       {
-        "question": "Wer entwickelt Increase Volume – Sound Boost?",
+        "question": "Wer entwickelt Increase Volume – Klangboost?",
         "answer": "Die App wird von c-basso veröffentlicht und über den Apple App Store vertrieben (App Store ID 6741472421). Die Produktseite ist volumeboosting.com."
       },
       {
         "question": "Wie mache ich ein leises Video auf dem iPhone lauter?",
-        "answer": "Mit Increase Volume – Sound Boost importierst du das Video (z. B. aus „Fotos“), stellst den Boost-Regler mit Live-Vorschau ein und speicherst eine Kopie mit lauterer Tonspur. So wird die Tonspur der Datei angepasst – anders als nur die Systemlautstärke beim Abspielen zu erhöhen."
+        "answer": "Mit Increase Volume – Klangboost importierst du das Video (z. B. aus „Fotos“), stellst den Boost-Regler mit Live-Vorschau ein und speicherst eine Kopie mit lauterer Tonspur. So wird die Tonspur der Datei angepasst – anders als nur die Systemlautstärke beim Abspielen zu erhöhen."
       },
       {
         "question": "Erhöht die App die maximale Lautstärke des iPhones für Musik und Anrufe?",
@@ -209,7 +209,7 @@
       "software_application": {
         "@context": "https://schema.org",
         "@type": "MobileApplication",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – Klangboost",
         "operatingSystem": "iOS",
         "applicationCategory": "MusicApplication",
         "offers": {
@@ -222,7 +222,7 @@
           "ratingValue": "4.8",
           "ratingCount": "120"
         },
-        "description": "iPhone-App: Import von Audio oder Video, Verstärkung bis ~10× mit Bass- und Klarheitsreglern, Export einer lauteren Datei zum Speichern und Teilen. Verarbeitung auf dem Gerät; hebt die Systemlautstärke für alle Apps nicht in einem Schlag an."
+        "description": "iPhone-App: Import von Audio oder Video, Verstärkung bis ~10× mit Bass- und Klarheitsreglern, Export einer lauteren Datei zum Speichern und Teilen. Verarbeitung auf dem Gerät; keine Änderung der systemweiten Lautstärke."
       },
       "organization": {
         "@context": "https://schema.org",
@@ -230,7 +230,7 @@
         "name": "c-basso",
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
-        "description": "Unabhängiger Entwickler von Increase Volume – Sound Boost und verwandten iOS-Hilfsprogrammen.",
+        "description": "Unabhängiger Herausgeber von Increase Volume – Klangboost und verwandten iOS-Hilfsprogrammen.",
         "sameAs": [
           "https://x.com/c__basso"
         ]
@@ -238,7 +238,7 @@
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume – Klangboost",
         "url": "https://volumeboosting.com/de/",
         "potentialAction": {
           "@type": "SearchAction",
@@ -260,7 +260,7 @@
           {
             "@type": "HowToStep",
             "name": "Lautstärke verstärken",
-            "text": "Ziehe den Boost-Regler für Lautstärke, Klarheit und Bass in Echtzeit."
+            "text": "Ziehe den Boost-Regler, um Lautstärke, Klarheit und Bass in Echtzeit anzupassen."
           },
           {
             "@type": "HowToStep",
