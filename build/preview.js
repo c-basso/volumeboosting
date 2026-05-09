@@ -1,9 +1,13 @@
 const path = require('path');
 const {execSync} = require('child_process');
 const fs = require('fs');
+const sharp = require('sharp');
 const {takeHtmlPageScreenshot} = require('./takeHtmlPageScreenshot');
 
-const {URLS, DEFAULT_LANGUAGE} = require('./constants');
+const {URLS, DEFAULT_LANGUAGE, SHARED_SITE_META} = require('./constants');
+
+const OG_PREVIEW_WIDTH = parseInt(SHARED_SITE_META.og_image_width, 10);
+const OG_PREVIEW_HEIGHT = parseInt(SHARED_SITE_META.og_image_height, 10);
 
 const MAX_SIZE_KB = 600;
 const MAX_SIZE_BYTES = MAX_SIZE_KB * 1024;
@@ -124,6 +128,43 @@ function optimizeImage(imagePath) {
     return true;
 }
 
+/**
+ * ImageMagick size optimization may resize below og:image width/height; validators require an exact match.
+ */
+async function ensureOgPreviewDimensions(imagePath) {
+    if (
+        !Number.isFinite(OG_PREVIEW_WIDTH) ||
+        !Number.isFinite(OG_PREVIEW_HEIGHT) ||
+        OG_PREVIEW_WIDTH <= 0 ||
+        OG_PREVIEW_HEIGHT <= 0
+    ) {
+        return;
+    }
+
+    const meta = await sharp(imagePath).metadata();
+    if (meta.width === OG_PREVIEW_WIDTH && meta.height === OG_PREVIEW_HEIGHT) {
+        return;
+    }
+
+    console.log(
+        `Normalizing ${path.relative(path.join(__dirname, '..'), imagePath)} to ${OG_PREVIEW_WIDTH}×${OG_PREVIEW_HEIGHT} (was ${meta.width}×${meta.height})`
+    );
+
+    let buf = await sharp(imagePath)
+        .resize(OG_PREVIEW_WIDTH, OG_PREVIEW_HEIGHT, { fit: 'fill' })
+        .png({ compressionLevel: 9, palette: true })
+        .toBuffer();
+
+    if (buf.length > MAX_SIZE_BYTES) {
+        buf = await sharp(imagePath)
+            .resize(OG_PREVIEW_WIDTH, OG_PREVIEW_HEIGHT, { fit: 'fill' })
+            .png({ compressionLevel: 9, effort: 10 })
+            .toBuffer();
+    }
+
+    fs.writeFileSync(imagePath, buf);
+}
+
 (async () => {
     for (let item of URLS) {
         const screenshotPath = DEFAULT_LANGUAGE === item.code
@@ -139,5 +180,6 @@ function optimizeImage(imagePath) {
 
         console.log(`\nOptimizing image: ${screenshotPath}`);
         optimizeImage(screenshotPath);
+        await ensureOgPreviewDimensions(screenshotPath);
     }
 })()
