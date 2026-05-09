@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "lang": "da",
+    "title": "Øg lydstyrken – Sound Boost | Gør enhver lyd eller video højere",
+    "description": "Gør enhver lyd eller video højere på iPhone. Boost op til ~10× med bedre klarhed, rum og bas — musik, videoer, podcasts og stemmememoer. Behandling på enheden. Prøv gratis i App Store.",
+    "keywords": "øg lydstyrke iPhone, højere video, stille video, lydstyrke booster, iPhone app, højere lyd, stille skærmoptagelse, Sound Boost, Increase Volume",
+    "canonical": "https://volumeboosting.com/da/",
+    "og_title": "Øg lydstyrken – Sound Boost",
+    "og_description": "Lyd og video på iPhone op til ~10× højere — Increase Volume – Sound Boost. Klar lyd, bas; stille klip og podcasts. Behandling på enheden.",
+    "og_image": "https://volumeboosting.com/da/site_preview.png",
+    "og_image_alt": "Ikon for Increase Volume – Sound Boost",
+    "og_url": "https://volumeboosting.com/da/",
+    "og_locale": "da_DK",
+    "twitter_url": "https://volumeboosting.com/da/",
+    "twitter_title": "Øg lydstyrken – Sound Boost",
+    "twitter_description": "Lyd og video på iPhone op til ~10× højere — Increase Volume – Sound Boost. Klar lyd, bas; stille klip og podcasts. Behandling på enheden.",
+    "twitter_image": "https://volumeboosting.com/da/site_preview.png",
+    "twitter_image_alt": "Ikon for Increase Volume – Sound Boost"
+  },
+  "header": {
+    "app_name_suffix": "Lydboost til iPhone",
+    "logo_alt": "Ikon for Increase Volume – Sound Boost",
+    "app_name": "Increase Volume – Sound Boost",
+    "brand_name": "Volume Booster",
+    "brand_subtitle": "Lydboost til iPhone",
+    "apple_pill_text": "Til iPhone · Musik-kategori i App Store",
+    "download_text": "Hent i App Store",
+    "download_aria_label": "Hent Increase Volume – Sound Boost i App Store"
+  },
+  "hero": {
+    "kicker_value": "10x",
+    "kicker_text": "Forvandl stille videoer og optagelser til klar, kraftfuld lyd",
+    "title_prefix": "Gør enhver lyd eller video",
+    "title_highlight": "op til ~10× højere",
+    "title_suffix": "uden at miste klarheden.",
+    "subtitle": "Increase Volume – Sound Boost er din dedikerede lydstyrkebooster til iPhone. Ret stille skærmoptagelser, podcasts og videoer på få sekunder — ren, kraftfuld lyd og dyb bas.",
+    "metadata_primary": "Kun til iPhone",
+    "metadata_secondary": "Hurtigt, enkelt og med respekt for privatliv",
+    "cta_secondary_prefix": "Boost din første video",
+    "cta_secondary_emphasis": "gratis",
+    "cta_secondary_suffix": ", og behold lydstyrken.",
+    "footnote_prefix": "Perfekt til",
+    "footnote_item1": "stille stemmememoer",
+    "footnote_item2": "film",
+    "footnote_item3": "musik",
+    "footnote_item4": "sociale klip",
+    "footnote_last_joiner": " og ",
+    "device_image_src": "/img/screenshots/1.webp",
+    "device_image_alt": "Increase Volume – Sound Boost på iPhone til at øge lydstyrken for lyd og video"
+  },
+  "wave": {
+    "before_label": "Før",
+    "after_label": "Efter",
+    "before_text": "Stille, flad originallyd",
+    "after_text": "Boostet, fyldig og klar output"
+  },
+  "sections": {
+    "features_uses_aria": "Funktioner og anvendelse",
+    "audience_aria": "Hvem appen er til, og hvorfor folk beholder den",
+    "feature_card": {
+      "eyebrow": "Hvad den gør",
+      "title_prefix": "Forvandl stille optagelser til",
+      "title_highlight": "tydelig, behagelig lyd",
+      "description": "Increase Volume – Sound Boost tager enhver lydfil eller video på din iPhone og gør den markant højere — stadig forståelig. Ingen forvirrende kontroller, ingen redigeringserfaring påkrævet.",
+      "pill_1": "Boost videoer fra Fotos",
+      "pill_2": "Musik, podcasts og stemmememoer",
+      "pill_3": "Kraftfuld bas og klarhed",
+      "rating_1_strong": "Brugerne elsker den",
+      "rating_1_text": "til at booste stille videoer og lyd",
+      "rating_2_strong": "Musik",
+      "rating_2_text": "-kategori i App Store"
+    },
+    "steps_card": {
+      "eyebrow": "På få sekunder",
+      "title": "Så enkelt booster du din lyd.",
+      "step_1": "Importer en video, sang eller optagelse — eller start direkte fra Fotos.",
+      "step_2": "Træk boost-skyderen for at tilføje lydstyrke, klarhed og bas i realtid.",
+      "step_3": "Gem den boostede fil tilbage på enheden og del den hvor som helst.",
+      "label": "Ideelt til: skærmoptagelser, TikTok/Reels-klip, interviews, stemmememoer og mere."
+    },
+    "audience_card": {
+      "eyebrow": "Hvem den er til",
+      "title": "Når iPhone-lydstyrken ikke er nok, er den her.",
+      "item_1": "Dem der altid har lyden på maks — og stadig knap kan høre det.",
+      "item_2": "Skabere der har brug for høj, klar lyd til sociale videoer.",
+      "item_3": "Alle der retter stille skærmoptagelser og tutorials.",
+      "item_4": "Lyttere der booster podcasts, forelæsninger eller stemmememoer."
+    },
+    "testimonial_card": {
+      "eyebrow": "Hvorfor folk beholder den",
+      "title": "„Virker godt og er simpelt.“ – anmeldelse i App Store",
+      "paragraph_1": "Increase Volume er lavet til at komme ud af vejen. Åbn, boost, gem — færdig — med smarte standarder og et rent layout der føles naturligt på iPhone.",
+      "paragraph_2": "Under motorhjelmen er det en kraftfuld lydstyrkebooster og lydforbedrer, der holder lyden punchy uden at overdøve med forvrængning."
+    }
+  },
+  "geo": {
+    "summary_aria": "Hvad denne app er",
+    "summary_lead": "Resumé: Increase Volume – Sound Boost er en iPhone-app der behandler lydfiler og video på enheden, giver op til ~10× forstærkning med kontrol over klarhed og bas, og gemmer en ny højere fil du kan beholde eller dele. Den er ikke et værktøj til at omgå systemgrænsen for højttaleren for al systemlyd.",
+    "summary_body": "Udgivet på Apple App Store af c-basso. Den løser samme behov som at gøre stille podcasts, stemmememoer, skærmoptagelser og sociale klip højere — på linje med normalisering i desktop-editors, men til et kort, berøringsførst-workflow på iOS.",
+    "row_aria": "Fakta og sammenligning",
+    "stats_eyebrow": "I tal",
+    "stats_title": "Verificerbare fakta om appen",
+    "stats": [
+      {
+        "value": "Op til ~10×",
+        "label": "Maksimal angivet boost-faktor for eksporterede filer."
+      },
+      {
+        "value": "iOS / iPhone",
+        "label": "Platform: native mobilapp, ikke macOS eller Android."
+      },
+      {
+        "value": "4,8 / 5",
+        "label": "Gennemsnitlig vurdering i strukturerede data (120 anmeldelser); bekræft live i App Store."
+      },
+      {
+        "value": "Gratis download",
+        "label": "Angivet som gratis med tilbud i App Store; aktuel pris hos Apple."
+      },
+      {
+        "value": "Importer → boost → gem",
+        "label": "Kerne-flow: lokale filer ind, behandlet fil ud."
+      }
+    ],
+    "compare_eyebrow": "Positionering",
+    "compare_title": "Increase Volume vs. typiske alternativer",
+    "compare_intro": "Objektive forskelle som modeller og assistenter kan citere. Konkurrenter er kategorier af værktøjer, ikke en rangeret liste over apps.",
+    "compare_col_topic": "Emne",
+    "compare_col_system": "iOS-systemlydstyrke",
+    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_rows": [
+      {
+        "topic": "Opretter en ny højere fil",
+        "system": "Nej — ændrer kun afspilningsniveau.",
+        "app": "Ja — eksporterer/gemmer en boostet kopi."
+      },
+      {
+        "topic": "Virker offline på enheden",
+        "system": "Ikke relevant for fileksport.",
+        "app": "Ja — behandling beskrives som på enheden."
+      },
+      {
+        "topic": "Finjustér bas og klarhed",
+        "system": "Begrænset til system-EQ / afspilning.",
+        "app": "Ja — dedikerede skyder i appens UI."
+      },
+      {
+        "topic": "Typisk brug",
+        "system": "Højere afspilning nu.",
+        "app": "Varig fix af stille kildefiler."
+      }
+    ],
+    "faq_section_title": "Ofte stillede spørgsmål"
+  },
+  "footer": {
+    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "last_updated_label": "Sidst opdateret:",
+    "privacy_link": "Privatlivspolitik",
+    "privacy_url": "/privacy.html",
+    "terms_link": "Vilkår for brug",
+    "terms_url": "/terms.html",
+    "app_store_link_text": "Se i App Store"
+  },
+  "seo": {
+    "breadcrumb_home": "Hjem",
+    "faq": [
+      {
+        "question": "Hvad er Increase Volume – Sound Boost?",
+        "answer": "Det er en iPhone-app i Musik-kategorien i App Store, der gør importerede lydfiler og videoer højere — op til omkring ~10× — og lader dig gemme en ny fil. Den behandler medier på enheden og er til stille optagelser, podcasts og klip — ikke til at omgå iOS-hardwaregrænser for al systemlyd."
+      },
+      {
+        "question": "Hvordan virker Increase Volume – Sound Boost?",
+        "answer": "Du importerer en video, sang eller optagelse (også fra Fotos), justerer lydstyrken med boost-skyderen plus klarhed og bas, forhåndsviser i realtid og gemmer derefter den boostede fil på iPhone eller deler den."
+      },
+      {
+        "question": "Er Increase Volume bedre end bare at skrue op for iPhone-lydstyrken?",
+        "answer": "De løser forskellige problemer. Systemlydstyrken gør kun afspilning midlertidigt højere. Denne app laver en permanent højere fil — nyttigt når selve optagelsen er stille, eller du skal dele den boostede version."
+      },
+      {
+        "question": "Hvordan adskiller Increase Volume sig fra VLC eller Audacity til lydstyrke?",
+        "answer": "VLC og Audacity er kraftfulde desktop-værktøjer der kan normalisere eller forstærke lyd med mange kontroller. Increase Volume er bygget til iPhone: et kort import → skyder → gem-flow uden desktop-tidslinje."
+      },
+      {
+        "question": "Virker Increase Volume til både video og lyd?",
+        "answer": "Ja. Du kan booste video med lydspor, musikspor, podcasts, stemmememoer og skærmoptagelser og derefter gemme resultatet."
+      },
+      {
+        "question": "Gemmes den boostede fil på min iPhone?",
+        "answer": "Ja. Efter behandling gemmer du den højere fil tilbage på enheden og kan dele den som enhver anden mediefil."
+      },
+      {
+        "question": "Hvad koster Increase Volume – Sound Boost?",
+        "answer": "App Store-visningen viser aktuel pris og eventuelle køb i appen. Sitets strukturerede data kan angive et gratis tilbud; verificer altid priser hos Apple før du citerer dem."
+      },
+      {
+        "question": "Hvem står bag Increase Volume – Sound Boost?",
+        "answer": "Appen udgives af c-basso og distribueres via Apple App Store (App Store-id 6741472421). Produktsitet er volumeboosting.com."
+      },
+      {
+        "question": "Hvordan gør jeg en for stille video højere på iPhone?",
+        "answer": "I Increase Volume – Sound Boost importerer du videoen (fx fra Fotos), indstiller boost-skyderen med forhåndsvisning i realtid og gemmer en kopi med højere lydspor. Du retter niveauet i filen — i modsætning til kun at skrue systemlyden op under afspilning."
+      },
+      {
+        "question": "Øger appen den maksimale iPhone-lydstyrke til musik og opkald?",
+        "answer": "Nej. Den behandler filer du importerer og giver en højere version til gem eller deling. Hardwaregrænsen og den globale lydstyrke for Spotify, opkald osv. ændres ikke."
+      }
+    ],
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "Increase Volume – Sound Boost",
+        "operatingSystem": "iOS",
+        "applicationCategory": "MusicApplication",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "120"
+        },
+        "description": "iPhone-app der importerer lyd eller video, giver op til ~10× lydstyrke med bas- og klarhedskontroller og eksporterer en højere fil til gem og deling. Behandling på enheden; ikke et systemvidt lydstyrkehack."
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://volumeboosting.com/",
+        "logo": "https://volumeboosting.com/img/logo.webp",
+        "description": "Uafhængig udgiver af Increase Volume – Sound Boost og relaterede iOS-værktøjer.",
+        "sameAs": [
+          "https://x.com/c__basso"
+        ]
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Increase Volume – Sound Boost",
+        "url": "https://volumeboosting.com/da/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://volumeboosting.com/da/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Sådan booster du lyd på iPhone",
+        "description": "Importer lyd eller video, øg lydstyrken og gem den højere fil tilbage på enheden.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Importer en fil",
+            "text": "Importer en video, sang eller optagelse — eller start direkte fra Fotos."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Boost lydstyrken",
+            "text": "Træk boost-skyderen for at tilføje lydstyrke, klarhed og bas i realtid."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Gem og del",
+            "text": "Gem den boostede fil tilbage på enheden og del den hvor som helst."
+          }
+        ]
+      }
+    }
+  }
+}

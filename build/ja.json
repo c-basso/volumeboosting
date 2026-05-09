@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "lang": "ja",
+    "title": "音量を上げる – Sound Boost | あらゆる音声・動画を大きく",
+    "description": "iPhoneで音声や動画の音量を大きく。最大約10倍まで、明瞭さ・迫力・低音も調整 — 音楽、動画、ポッドキャスト、ボイスメモや画面録画にも。端末内で処理し、新しいファイルとして保存できます。App Storeで無料お試し。",
+    "keywords": "iPhone 音量 上げる, 動画 大きく, 小さい音 動画, 音量ブースター, iPhone アプリ, 音声 増幅, 画面録画 音小さい, Sound Boost, Increase Volume",
+    "canonical": "https://volumeboosting.com/ja/",
+    "og_title": "音量を上げる – Sound Boost",
+    "og_description": "iPhoneの音声・動画を最大約10倍まで — Increase Volume – Sound Boost。クリアな音と低音で、小さなクリップやポッドキャスト、画面録画も改善。端末内で処理し、ブースト済みファイルを保存・共有できます。",
+    "og_image": "https://volumeboosting.com/ja/site_preview.png",
+    "og_image_alt": "Increase Volume – Sound Boost アプリのアイコン",
+    "og_url": "https://volumeboosting.com/ja/",
+    "og_locale": "ja_JP",
+    "twitter_url": "https://volumeboosting.com/ja/",
+    "twitter_title": "音量を上げる – Sound Boost",
+    "twitter_description": "iPhoneの音声・動画を最大約10倍まで — Increase Volume – Sound Boost。クリアな音と低音で、小さなクリップやポッドキャスト、画面録画も改善。端末内で処理し、ブースト済みファイルを保存・共有できます。",
+    "twitter_image": "https://volumeboosting.com/ja/site_preview.png",
+    "twitter_image_alt": "Increase Volume – Sound Boost アプリのアイコン"
+  },
+  "header": {
+    "app_name_suffix": "iPhone向けサウンドブースト",
+    "logo_alt": "Increase Volume – Sound Boost アプリのアイコン",
+    "app_name": "Increase Volume – Sound Boost",
+    "brand_name": "Volume Booster",
+    "brand_subtitle": "iPhone向けサウンドブースト",
+    "apple_pill_text": "iPhone向け · App Store「ミュージック」カテゴリ",
+    "download_text": "App Storeでダウンロード",
+    "download_aria_label": "App Storeで Increase Volume – Sound Boost をダウンロード"
+  },
+  "hero": {
+    "kicker_value": "10x",
+    "kicker_text": "小さな動画や録音を、はっきり大きな音に",
+    "title_prefix": "あらゆる音声や動画を",
+    "title_highlight": "最大約10倍まで",
+    "title_suffix": "大きく、明瞭さを損なわず。",
+    "subtitle": "Increase Volume – Sound Boost は、iPhone専用の音量ブースターです。画面録画やポッドキャスト、小さな動画も数秒で — クリアで力強い音と豊かな低音に整えます。",
+    "metadata_primary": "iPhone専用",
+    "metadata_secondary": "速く、簡単で、プライバシーを尊重",
+    "cta_secondary_prefix": "最初の動画を",
+    "cta_secondary_emphasis": "無料",
+    "cta_secondary_suffix": "でブーストし、その音量を手元に。",
+    "footnote_prefix": "こんな用途に",
+    "footnote_item1": "かすれたボイスメモ",
+    "footnote_item2": "映画",
+    "footnote_item3": "音楽",
+    "footnote_item4": "SNSのクリップ",
+    "footnote_last_joiner": "、",
+    "device_image_src": "/img/screenshots/1.webp",
+    "device_image_alt": "Increase Volume – Sound Boost のiPhone画面 — 音声・動画の音量アップ"
+  },
+  "wave": {
+    "before_label": "前",
+    "after_label": "後",
+    "before_text": "小さく平坦な元の音",
+    "after_text": "ブースト後：迫力のあるクリアな出力"
+  },
+  "sections": {
+    "features_uses_aria": "機能と使い方",
+    "audience_aria": "こんな方におすすめ・使い続ける理由",
+    "feature_card": {
+      "eyebrow": "できること",
+      "title_prefix": "小さな録音を",
+      "title_highlight": "はっきり聞き取りやすい音に",
+      "description": "Increase Volume – Sound Boost は、iPhone上の音声・動画を大きくしつつ聞き取りやすさを保ちます。難しい操作も編集の経験も不要です。",
+      "pill_1": "写真から動画をブースト",
+      "pill_2": "音楽・ポッドキャスト・ボイスメモ",
+      "pill_3": "低音と明瞭さを強化",
+      "rating_1_strong": "ユーザーに支持",
+      "rating_1_text": "小さな動画・音声のブーストに",
+      "rating_2_strong": "ミュージック",
+      "rating_2_text": "カテゴリ（App Store）"
+    },
+    "steps_card": {
+      "eyebrow": "数秒で",
+      "title": "音量アップはこの3ステップ。",
+      "step_1": "動画・楽曲・録音を取り込む — または写真アプリから直接。",
+      "step_2": "ブーストスライダーで音量・明瞭さ・低音をリアルタイム調整。",
+      "step_3": "ブースト済みファイルを端末に保存し、どこへでも共有。",
+      "label": "画面録画、TikTok/Reels、インタビュー、ボイスメモなどに最適。"
+    },
+    "audience_card": {
+      "eyebrow": "こんな方へ",
+      "title": "iPhoneの音量では足りないとき、このアプリなら。",
+      "item_1": "いつも最大音量なのに、まだ聞き取りづらい方。",
+      "item_2": "SNS動画向けに大きくクリアな音が必要なクリエイター。",
+      "item_3": "小さな画面録画やチュートリアルを直したい方。",
+      "item_4": "ポッドキャストや講義、ボイスメモを大きくしたいリスナー。"
+    },
+    "testimonial_card": {
+      "eyebrow": "使い続ける理由",
+      "title": "「ちゃんと効くしシンプル。」— App Storeレビュー",
+      "paragraph_1": "Increase Volume は余計な手間をかけさせません。開いてブーストして保存 — スマートな初期設定とすっきりした画面で、iPhoneらしい操作感です。",
+      "paragraph_2": "裏側では音量ブースターとサウンドエンハンスが、歪みすぎずパワフルな音を実現します。"
+    }
+  },
+  "geo": {
+    "summary_aria": "このアプリについて",
+    "summary_lead": "概要：Increase Volume – Sound Boost は、端末上で音声・動画を処理し、最大約10倍のゲインに明瞭さと低音の調整を加え、保存・共有できる新しい大きなファイルを書き出すiPhoneアプリです。スピーカーのシステム上限を全アプリの音声に対して突破するツールではありません。",
+    "summary_body": "Apple App Store で c-basso より公開。小さなポッドキャスト、ボイスメモ、画面録画、SNSクリップの音量調整といった用途に対応 — デスクトップ編集のノーマライズに近いことを、タップ中心の短いiOSフローで実現します。",
+    "row_aria": "事実と比較",
+    "stats_eyebrow": "数字で見る",
+    "stats_title": "検証しやすい事実",
+    "stats": [
+      {
+        "value": "最大約10×",
+        "label": "書き出しに記載される最大ブースト倍率。"
+      },
+      {
+        "value": "iOS / iPhone",
+        "label": "プラットフォーム：ネイティブモバイルアプリ（macOS / Android ではありません）。"
+      },
+      {
+        "value": "4.8 / 5",
+        "label": "構造化データ上の平均評価（120件）。最新は App Store でご確認ください。"
+      },
+      {
+        "value": "無料ダウンロード",
+        "label": "App Store では無料掲載とオファー表記。価格は Apple の掲載が正です。"
+      },
+      {
+        "value": "取り込み → ブースト → 保存",
+        "label": "基本の流れ：ローカルファイルを入れ、処理済みファイルを出す。"
+      }
+    ],
+    "compare_eyebrow": "ポジション",
+    "compare_title": "Increase Volume と一般的な代替手段",
+    "compare_intro": "モデルやアシスタントが引用できる客観的な違い。競合はアプリの順位表ではなくツールのカテゴリです。",
+    "compare_col_topic": "項目",
+    "compare_col_system": "iOS のシステム音量",
+    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_rows": [
+      {
+        "topic": "新しい大きなファイルを作る",
+        "system": "いいえ — 再生レベルだけが変わります。",
+        "app": "はい — ブースト済みのコピーを書き出し／保存。"
+      },
+      {
+        "topic": "端末オフラインで動作",
+        "system": "ファイル書き出しには該当しません。",
+        "app": "はい — 端末内処理として説明されています。"
+      },
+      {
+        "topic": "低音・明瞭さを細かく",
+        "system": "システムEQ／再生の範囲に限られます。",
+        "app": "はい — アプリUIに専用スライダー。"
+      },
+      {
+        "topic": "典型的な用途",
+        "system": "今すぐ大きく聴く。",
+        "app": "ソースが小さいファイルへの恒久的な対処。"
+      }
+    ],
+    "faq_section_title": "よくある質問"
+  },
+  "footer": {
+    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "last_updated_label": "ページ最終更新：",
+    "privacy_link": "プライバシーポリシー",
+    "privacy_url": "/privacy.html",
+    "terms_link": "利用規約",
+    "terms_url": "/terms.html",
+    "app_store_link_text": "App Storeで見る"
+  },
+  "seo": {
+    "breadcrumb_home": "ホーム",
+    "faq": [
+      {
+        "question": "Increase Volume – Sound Boost とは？",
+        "answer": "App Store の「ミュージック」カテゴリにある iPhone アプリで、取り込んだ音声・動画を最大約10倍まで大きくし、新しいファイルとして保存できます。端末内でメディアを処理し、小さな録音やポッドキャスト、クリップ向けです — iOS のハード上限を、システム全体の音声に対して回避するものではありません。"
+      },
+      {
+        "question": "Increase Volume – Sound Boost の仕組みは？",
+        "answer": "動画・楽曲・録音（写真アプリからも）を取り込み、ブーストスライダーと明瞭さ・低音を調整し、リアルタイムでプレビューしたうえで、ブースト済みファイルを iPhone に保存または共有します。"
+      },
+      {
+        "question": "iPhone の音量を上げるだけより良いですか？",
+        "answer": "役割が異なります。システム音量は再生を一時的に大きくします。このアプリは恒久的に大きなファイルを作ります — 録音自体が小さいときや、ブースト版を送りたいときに役立ちます。"
+      },
+      {
+        "question": "VLC や Audacity との違いは？",
+        "answer": "VLC と Audacity は多機能なデスクトップ向けツールです。Increase Volume は iPhone 向けに、取り込み → スライダー → 保存という短い流れで設計されています。"
+      },
+      {
+        "question": "動画と音声の両方に使えますか？",
+        "answer": "はい。サウンド付き動画、楽曲、ポッドキャスト、ボイスメモ、画面録画をブーストして結果を保存できます。"
+      },
+      {
+        "question": "ブーストしたファイルは iPhone に保存されますか？",
+        "answer": "はい。処理後、大きくしたファイルを端末に保存し、通常のメディアと同様に共有できます。"
+      },
+      {
+        "question": "Increase Volume – Sound Boost の価格は？",
+        "answer": "App Store の掲載に現在の価格とアプリ内課金が表示されます。サイトの構造化データに無料オファーが含まれる場合がありますが、引用前に必ず Apple で確認してください。"
+      },
+      {
+        "question": "開発・提供元は？",
+        "answer": "c-basso が公開し、Apple App Store（App Store ID 6741472421）で配信されています。製品サイトは volumeboosting.com です。"
+      },
+      {
+        "question": "iPhone で小さすぎる動画の音を大きくするには？",
+        "answer": "Increase Volume – Sound Boost で動画を取り込み（例：写真アプリから）、リアルタイムプレビューでブーストスライダーを調整し、トラックを大きくしたコピーを保存します。再生中にシステム音量だけ上げるのではなく、ファイル側のレベルを改善します。"
+      },
+      {
+        "question": "音楽や通話の iPhone 最大音量まで上げますか？",
+        "answer": "いいえ。取り込んだファイルを処理し、保存・共有用により大きい版を作ります。ハードの上限や Spotify・通話などの全体音量は変わりません。"
+      }
+    ],
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "Increase Volume – Sound Boost",
+        "operatingSystem": "iOS",
+        "applicationCategory": "MusicApplication",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "120"
+        },
+        "description": "音声または動画を取り込み、低音・明瞭さを調整しながら最大約10倍の音量処理を行い、保存・共有用に大きなファイルを書き出すiPhoneアプリ。端末内処理であり、全アプリ共通のシステム音量ハックではありません。"
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://volumeboosting.com/",
+        "logo": "https://volumeboosting.com/img/logo.webp",
+        "description": "Increase Volume – Sound Boost および関連 iOS ユーティリティの独立パブリッシャー。",
+        "sameAs": [
+          "https://x.com/c__basso"
+        ]
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Increase Volume – Sound Boost",
+        "url": "https://volumeboosting.com/ja/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://volumeboosting.com/ja/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "iPhone で音声をブーストする方法",
+        "description": "音声または動画を取り込み、音量を上げて、大きくしたファイルを端末に保存します。",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "ファイルを取り込む",
+            "text": "動画・楽曲・録音を取り込む — または写真アプリから開始。"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "音量をブースト",
+            "text": "ブーストスライダーで音量・明瞭さ・低音をリアルタイムに追加。"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "保存して共有",
+            "text": "ブースト済みファイルを端末に保存し、どこへでも共有。"
+          }
+        ]
+      }
+    }
+  }
+}

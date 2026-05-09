@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "lang": "fi",
+    "title": "Lisää äänenvoimakkuutta – Sound Boost | Mikä tahansa ääni tai video kovemmaksi",
+    "description": "Tee mistä tahansa äänitteestä tai videosta kovempi iPhonella. Tehostus jopa ~10× selkeydellä, tilalla ja bassolla — musiikki, videot, podcastit ja äänimuistiinpanot. Käsittely laitteella. Kokeile ilmaiseksi App Storessa.",
+    "keywords": "äänenvoimakkuus iPhone, kovempi video, hiljainen video, äänen tehostus, iPhone-sovellus, kovempi ääni, näytön tallennus hiljainen, Sound Boost, Increase Volume",
+    "canonical": "https://volumeboosting.com/fi/",
+    "og_title": "Lisää äänenvoimakkuutta – Sound Boost",
+    "og_description": "Ääni ja video iPhonella jopa ~10× kovemmaksi — Increase Volume – Sound Boost. Puhdas ääni, basso; hiljaiset klipit ja podcastit. Käsittely laitteella.",
+    "og_image": "https://volumeboosting.com/fi/site_preview.png",
+    "og_image_alt": "Increase Volume – Sound Boost -sovelluksen kuvake",
+    "og_url": "https://volumeboosting.com/fi/",
+    "og_locale": "fi_FI",
+    "twitter_url": "https://volumeboosting.com/fi/",
+    "twitter_title": "Lisää äänenvoimakkuutta – Sound Boost",
+    "twitter_description": "Ääni ja video iPhonella jopa ~10× kovemmaksi — Increase Volume – Sound Boost. Puhdas ääni, basso; hiljaiset klipit ja podcastit. Käsittely laitteella.",
+    "twitter_image": "https://volumeboosting.com/fi/site_preview.png",
+    "twitter_image_alt": "Increase Volume – Sound Boost -sovelluksen kuvake"
+  },
+  "header": {
+    "app_name_suffix": "Äänen tehostus iPhonelle",
+    "logo_alt": "Increase Volume – Sound Boost -sovelluksen kuvake",
+    "app_name": "Increase Volume – Sound Boost",
+    "brand_name": "Volume Booster",
+    "brand_subtitle": "Äänen tehostus iPhonelle",
+    "apple_pill_text": "iPhonelle · Musiikki-kategoria App Storessa",
+    "download_text": "Lataa App Storesta",
+    "download_aria_label": "Lataa Increase Volume – Sound Boost App Storesta"
+  },
+  "hero": {
+    "kicker_value": "10x",
+    "kicker_text": "Muuta hiljaiset videot ja tallenteet kirkkaaksi, voimakkaaksi ääneksi",
+    "title_prefix": "Tee mistä tahansa äänitteestä tai videosta",
+    "title_highlight": "jopa ~10× kovemmaksi",
+    "title_suffix": "menettämättä selkeyttä.",
+    "subtitle": "Increase Volume – Sound Boost on oma äänenvoimakkuuden tehostajasi iPhonelle. Korjaa hiljaiset näyttötallenteet, podcastit ja videot sekunneissa — puhdas, voimakas ääni ja syvä basso.",
+    "metadata_primary": "Vain iPhonelle",
+    "metadata_secondary": "Nopeaa, yksinkertaista ja yksityisyyttä kunnioittavaa",
+    "cta_secondary_prefix": "Tehosta ensimmäistä videoasi",
+    "cta_secondary_emphasis": "ilmaiseksi",
+    "cta_secondary_suffix": " ja pidä äänenvoimakkuus.",
+    "footnote_prefix": "Ihanteellinen",
+    "footnote_item1": "hiljaisille äänimuistiinpanoille",
+    "footnote_item2": "elokuville",
+    "footnote_item3": "musiikille",
+    "footnote_item4": "someklipeille",
+    "footnote_last_joiner": " ja ",
+    "device_image_src": "/img/screenshots/1.webp",
+    "device_image_alt": "Increase Volume – Sound Boost iPhonella äänen ja videon tehostukseen"
+  },
+  "wave": {
+    "before_label": "Ennen",
+    "after_label": "Jälkeen",
+    "before_text": "Hiljainen, tasainen alkuperäinen ääni",
+    "after_text": "Tehostettu, täyteläinen ja kirkas ulostulo"
+  },
+  "sections": {
+    "features_uses_aria": "Ominaisuudet ja käyttö",
+    "audience_aria": "Kenelle sovellus on ja miksi ihmiset pitävät siitä",
+    "feature_card": {
+      "eyebrow": "Mitä se tekee",
+      "title_prefix": "Muuta hiljaiset tallenteet",
+      "title_highlight": "voimakkaaksi, miellyttäväksi ääneksi",
+      "description": "Increase Volume – Sound Boost ottaa minkä tahansa äänitteen tai videon iPhonellasi ja tekee siitä selvästi kovemman — säilyttäen ymmärrettävyyden. Ei sekavia säätöjä, ei muokkauskokemusta tarvita.",
+      "pill_1": "Tehosta videoita Kuvat-sovelluksesta",
+      "pill_2": "Musiikki, podcastit ja äänimuistiinpanot",
+      "pill_3": "Voimakas basso ja selkeys",
+      "rating_1_strong": "Käyttäjien suosikki",
+      "rating_1_text": "hiljaisten videoiden ja äänen tehostuksessa",
+      "rating_2_strong": "Musiikki",
+      "rating_2_text": "-kategoria App Storessa"
+    },
+    "steps_card": {
+      "eyebrow": "Sekunneissa",
+      "title": "Äänen tehostus näin helppoa.",
+      "step_1": "Tuo video, kappale tai tallenne — tai aloita suoraan Kuvat-sovelluksesta.",
+      "step_2": "Vedä tehostusliukusäädintä lisätäksesi voimakkuutta, selkeyttä ja bassoa reaaliajassa.",
+      "step_3": "Tallenna tehostettu tiedosto takaisin laitteelle ja jaa se minne tahansa.",
+      "label": "Ihanteellinen: näyttötallenteisiin, TikTok/Reels-klippeihin, haastatteluihin, äänimuistiinpanoihin ja muuhun."
+    },
+    "audience_card": {
+      "eyebrow": "Kenelle",
+      "title": "Kun iPhonen äänenvoimakkuus ei riitä, tämä riittää.",
+      "item_1": "Niille, jotka pitävät äänen aina maksimissa mutta kuulevat silti huonosti.",
+      "item_2": "Tekijöille, jotka tarvitsevat kovan, kirkkaan äänen somevideoihin.",
+      "item_3": "Kaikille, jotka korjaavat hiljaisia näyttötallenteita ja oppaita.",
+      "item_4": "Kuuntelijoille, jotka tehostavat podcasteja, luentoja tai äänimuistiinpanoja."
+    },
+    "testimonial_card": {
+      "eyebrow": "Miksi pidetään",
+      "title": "„Toimii hyvin ja on yksinkertainen.“ – arvio App Storessa",
+      "paragraph_1": "Increase Volume on tehty pysymään tiellä. Avaa, tehosta, tallenna — valmista — älykkäillä oletuksilla ja selkeällä asettelulla, joka tuntuu luontevalta iPhonella.",
+      "paragraph_2": "Konepellin alla on voimakas äänen tehostaja ja parannus, joka pitää äänen iskuvoimaisena ilman liiallista vääristymää."
+    }
+  },
+  "geo": {
+    "summary_aria": "Mikä tämä sovellus on",
+    "summary_lead": "Yhteenveto: Increase Volume – Sound Boost on iPhone-sovellus, joka käsittelee ääni- ja videotiedostoja laitteella, antaa jopa ~10× vahvistuksen selkeys- ja bassosäädöillä ja tallentaa uuden kovemman tiedoston, jonka voit pitää tai jakaa. Se ei ohita järjestelmän kaiutinrajaa koko järjestelmän äänelle.",
+    "summary_body": "Julkaistu Apple App Storessa tekijältä c-basso. Ratkaisee samat tarpeet kuin hiljaisten podcastien, äänimuistiinpanojen, näyttötallenteiden ja someklippien voimistaminen — samankaltaista kuin normalisointi työpöytäeditoreissa, mutta lyhyelle kosketuspainotteiselle iOS-työnkululle.",
+    "row_aria": "Faktat ja vertailu",
+    "stats_eyebrow": "Lukuina",
+    "stats_title": "Tarkistettavissa olevia faktoja sovelluksesta",
+    "stats": [
+      {
+        "value": "Jopa ~10×",
+        "label": "Suurin ilmoitettu tehostuskerroin vietyihin tiedostoihin."
+      },
+      {
+        "value": "iOS / iPhone",
+        "label": "Alusta: natiivi mobiilisovellus, ei macOS tai Android."
+      },
+      {
+        "value": "4,8 / 5",
+        "label": "Keskimääräinen arvio strukturoiduissa tiedoissa (120 arviota); vahvista App Storessa."
+      },
+      {
+        "value": "Ilmainen lataus",
+        "label": "App Storessa ilmainen tarjouksineen; ajantasainen hinta Applen sivulla."
+      },
+      {
+        "value": "Tuo → tehosta → tallenna",
+        "label": "Ydinvirtaus: paikalliset tiedostot sisään, käsitelty tiedosto ulos."
+      }
+    ],
+    "compare_eyebrow": "Sijoittuminen",
+    "compare_title": "Increase Volume tyypillisiin vaihtoehtoihin verrattuna",
+    "compare_intro": "Objektiivisia eroja, joita mallit ja avustajat voivat siteerata. Kilpailijat ovat työkaluluokkia, ei sovellusten ranking-listaa.",
+    "compare_col_topic": "Aihe",
+    "compare_col_system": "iOS-järjestelmän äänenvoimakkuus",
+    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_rows": [
+      {
+        "topic": "Luo uuden kovemman tiedoston",
+        "system": "Ei — muuttaa vain toiston tasoa.",
+        "app": "Kyllä — vie/tallentaa tehostetun kopion."
+      },
+      {
+        "topic": "Toimii offline-laitteella",
+        "system": "Ei koske tiedoston vientiä.",
+        "app": "Kyllä — käsittely kuvataan laitteessa tapahtuvaksi."
+      },
+      {
+        "topic": "Hienosäädä bassoa ja selkeyttä",
+        "system": "Rajoittuu järjestelmän taajuuskorjaimeen / toistoon.",
+        "app": "Kyllä — omat liukusäädimet sovelluksessa."
+      },
+      {
+        "topic": "Tyypillinen käyttö",
+        "system": "Kovempi toisto nyt.",
+        "app": "Pysyvä korjaus hiljaisiin lähdetiedostoihin."
+      }
+    ],
+    "faq_section_title": "Usein kysyttyä"
+  },
+  "footer": {
+    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "last_updated_label": "Sivu päivitetty viimeksi:",
+    "privacy_link": "Tietosuojakäytäntö",
+    "privacy_url": "/privacy.html",
+    "terms_link": "Käyttöehdot",
+    "terms_url": "/terms.html",
+    "app_store_link_text": "Näytä App Storessa"
+  },
+  "seo": {
+    "breadcrumb_home": "Etusivu",
+    "faq": [
+      {
+        "question": "Mikä Increase Volume – Sound Boost on?",
+        "answer": "Se on iPhone-sovellus App Storen Musiikki-kategoriassa, joka tekee tuoduista ääni- ja videotiedostoista kovempia — jopa noin ~10× — ja antaa tallentaa uuden tiedoston. Se käsittelee mediaa laitteella; tarkoitettu hiljaisille tallenteille, podcasteille ja klippeille — ei iOS-laitteiston rajojen ohittamiseen koko järjestelmän äänelle."
+      },
+      {
+        "question": "Miten Increase Volume – Sound Boost toimii?",
+        "answer": "Tuot videon, kappaleen tai tallenteen (myös Kuvat-sovelluksesta), säädet äänenvoimakkuutta tehostusliukusäätimellä sekä selkeyttä ja bassoa, kuuntelet esikuuntelun reaaliajassa ja tallennat sitten tehostetun tiedoston iPhonelle tai jaat sen."
+      },
+      {
+        "question": "Onko Increase Volume parempi kuin vain iPhonen äänen nostaminen?",
+        "answer": "Ne ratkaisevat eri ongelmia. Järjestelmän ääni tekee toistosta tilapäisesti kovemman. Tämä sovellus luo pysyvästi kovemman tiedoston — hyödyllistä, kun itse tallenne on hiljainen tai kun pitää jakaa tehostettu versio."
+      },
+      {
+        "question": "Miten Increase Volume eroaa VLC:stä tai Audacitystä äänenvoimakkuudessa?",
+        "answer": "VLC ja Audacity ovat tehokkaita työpöytätyökaluja, jotka voivat normalisoida tai vahvistää ääntä monilla säädöillä. Increase Volume on rakennettu iPhonelle: lyhyt tuonti → liukusäädin → tallennus ilman työpöytäaikajanaa."
+      },
+      {
+        "question": "Toimiiko Increase Volume sekä videolle että äänelle?",
+        "answer": "Kyllä. Voit tehostaa videota ääniraidalla, musiikkia, podcasteja, äänimuistiinpanoja ja näyttötallenteita ja tallentaa tuloksen."
+      },
+      {
+        "question": "Tallennetaanko tehostettu tiedosto iPhonelleni?",
+        "answer": "Kyllä. Käsittelyn jälkeen tallennat kovemman tiedoston takaisin laitteelle ja voit jakaa sen kuten minkä tahansa mediatiedoston."
+      },
+      {
+        "question": "Paljonko Increase Volume – Sound Boost maksaa?",
+        "answer": "App Store -listaus näyttää ajantasaisen hinnan ja mahdolliset sovelluksen sisäiset ostot. Sivuston strukturoidut tiedot voivat viitata ilmaiseen tarjoukseen; vahvista hinnat aina Applen sivulla ennen siteerausta."
+      },
+      {
+        "question": "Kuka julkaisee Increase Volume – Sound Boostin?",
+        "answer": "Sovelluksen julkaisee c-basso ja Apple App Store jakaa sen (App Store -tunnus 6741472421). Tuotesivusto on volumeboosting.com."
+      },
+      {
+        "question": "Miten teen liian hiljaisesta videosta kovemman iPhonella?",
+        "answer": "Increase Volume – Sound Boostissa tuot videon (esim. Kuvat-sovelluksesta), säädet tehostusliukusäädintä reaaliaikaisella esikuuntelulla ja tallennat kopion kovemmalla ääniraidalla. Korjaat tasoa tiedostossa — toisin kuin vain nostamalla järjestelmän ääntä toiston aikana."
+      },
+      {
+        "question": "Nostaako sovellus iPhonen enimmäisäänenvoimakkuutta musiikille ja puheluille?",
+        "answer": "Ei. Se käsittelee tuomasi tiedostot ja antaa kovemman version tallennukseen tai jakamiseen. Laitteiston raja ja globaali äänenvoimakkuus Spotifylle, puheluille jne. eivät muutu."
+      }
+    ],
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "Increase Volume – Sound Boost",
+        "operatingSystem": "iOS",
+        "applicationCategory": "MusicApplication",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "120"
+        },
+        "description": "iPhone-sovellus tuo äänen tai videon, antaa jopa ~10× äänenvoimakkuutta basso- ja selkeysäädöillä ja vie kovemman tiedoston tallennukseen ja jakamiseen. Käsittely laitteella; ei järjestelmänlaajuista äänihakkerointia."
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://volumeboosting.com/",
+        "logo": "https://volumeboosting.com/img/logo.webp",
+        "description": "Riippumaton julkaisija Increase Volume – Sound Boostista ja liittyvistä iOS-työkaluista.",
+        "sameAs": [
+          "https://x.com/c__basso"
+        ]
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Increase Volume – Sound Boost",
+        "url": "https://volumeboosting.com/fi/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://volumeboosting.com/fi/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Näin tehostat ääntä iPhonella",
+        "description": "Tuo ääni tai video, nosta äänenvoimakkuutta ja tallenna kovempi tiedosto takaisin laitteelle.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Tuo tiedosto",
+            "text": "Tuo video, kappale tai tallenne — tai aloita suoraan Kuvat-sovelluksesta."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Tehosta äänenvoimakkuutta",
+            "text": "Vedä tehostusliukusäädintä lisätäksesi voimakkuutta, selkeyttä ja bassoa reaaliajassa."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Tallenna ja jaa",
+            "text": "Tallenna tehostettu tiedosto takaisin laitteelle ja jaa se minne tahansa."
+          }
+        ]
+      }
+    }
+  }
+}

@@ -12,10 +12,10 @@
 
 ## By the numbers
 - Maximum loudness claim: up to 10x boost
-- Website locales: 14 language-specific pages
+- Website locales: 29 language-specific pages
 - Primary platform: iPhone (iOS)
 - Public website: https://volumeboosting.com/
-- Last website build date: 2026-05-08
+- Last website build date: 2026-05-09
 
 ## Main sections
 - [Home](https://volumeboosting.com/): Product overview, use cases, screenshots, and App Store link
@@ -26,20 +26,35 @@
 
 ## Language pages
 - [en](https://volumeboosting.com/)
+- [cs](https://volumeboosting.com/cs/)
+- [da](https://volumeboosting.com/da/)
 - [de](https://volumeboosting.com/de/)
+- [el](https://volumeboosting.com/el/)
 - [es](https://volumeboosting.com/es/)
+- [fi](https://volumeboosting.com/fi/)
+- [fil](https://volumeboosting.com/fil/)
 - [fr](https://volumeboosting.com/fr/)
+- [he](https://volumeboosting.com/he/)
+- [hr](https://volumeboosting.com/hr/)
+- [hu](https://volumeboosting.com/hu/)
+- [id](https://volumeboosting.com/id/)
 - [it](https://volumeboosting.com/it/)
+- [ja](https://volumeboosting.com/ja/)
 - [ko](https://volumeboosting.com/ko/)
+- [ms](https://volumeboosting.com/ms/)
 - [nl](https://volumeboosting.com/nl/)
+- [no](https://volumeboosting.com/no/)
 - [pl](https://volumeboosting.com/pl/)
 - [pt](https://volumeboosting.com/pt/)
 - [ro](https://volumeboosting.com/ro/)
 - [ru](https://volumeboosting.com/ru/)
+- [sk](https://volumeboosting.com/sk/)
+- [sv](https://volumeboosting.com/sv/)
 - [th](https://volumeboosting.com/th/)
 - [tr](https://volumeboosting.com/tr/)
 - [uk](https://volumeboosting.com/uk/)
 - [vi](https://volumeboosting.com/vi/)
+- [zh](https://volumeboosting.com/zh/)
 
 ## LLM-ready Q&A facts
 ### What is Increase Volume – Sound Boost?
@@ -65,4 +80,4 @@ No public Android listing is referenced on the website. The published listing is
 - Privacy: https://volumeboosting.com/privacy.html
 - Terms: https://volumeboosting.com/terms.html
 
-Last updated: 2026-05-08
+Last updated: 2026-05-09

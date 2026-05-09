@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "lang": "he",
+    "title": "הגברת עוצמת השמע – Sound Boost | כל שמע או וידאו חזק יותר",
+    "description": "הפכו כל שמע או וידאו לחזק יותר ב‑iPhone. הגברה עד ~10× עם בהירות, עומק ובס עשירים — מוזיקה, וידאו, פודקאסטים והודעות קוליות. עיבוד במכשיר. נסו בחינם ב‑App Store.",
+    "keywords": "הגברת עוצמה iPhone, וידאו חזק יותר, וידאו שקט, מאיץ עוצמת שמע, אפליקציה ל‑iPhone, שמע חזק יותר, הקלטת מסך שקטה, Sound Boost, Increase Volume",
+    "canonical": "https://volumeboosting.com/he/",
+    "og_title": "הגברת עוצמת השמע – Sound Boost",
+    "og_description": "שמע ווידאו ב‑iPhone עד ~10× חזקים יותר — Increase Volume – Sound Boost. צליל בהיר ובס; קליפים ופודקאסטים שקטים. עיבוד במכשיר.",
+    "og_image": "https://volumeboosting.com/he/site_preview.png",
+    "og_image_alt": "סמל האפליקציה Increase Volume – Sound Boost",
+    "og_url": "https://volumeboosting.com/he/",
+    "og_locale": "he_IL",
+    "twitter_url": "https://volumeboosting.com/he/",
+    "twitter_title": "הגברת עוצמת השמע – Sound Boost",
+    "twitter_description": "שמע ווידאו ב‑iPhone עד ~10× חזקים יותר — Increase Volume – Sound Boost. צליל בהיר ובס; קליפים ופודקאסטים שקטים. עיבוד במכשיר.",
+    "twitter_image": "https://volumeboosting.com/he/site_preview.png",
+    "twitter_image_alt": "סמל האפליקציה Increase Volume – Sound Boost"
+  },
+  "header": {
+    "app_name_suffix": "הגברת שמע ל‑iPhone",
+    "logo_alt": "סמל האפליקציה Increase Volume – Sound Boost",
+    "app_name": "Increase Volume – Sound Boost",
+    "brand_name": "Volume Booster",
+    "brand_subtitle": "הגברת שמע ל‑iPhone",
+    "apple_pill_text": "ל‑iPhone · קטגוריית מוזיקה ב‑App Store",
+    "download_text": "הורדה ב‑App Store",
+    "download_aria_label": "הורדת Increase Volume – Sound Boost ב‑App Store"
+  },
+  "hero": {
+    "kicker_value": "10x",
+    "kicker_text": "הפכו וידאו והקלטות שקטות לצליל חזק ובהיר",
+    "title_prefix": "הפכו כל שמע או וידאו ל",
+    "title_highlight": "עד ~10× חזקים יותר",
+    "title_suffix": "בלי לאבד בהירות.",
+    "subtitle": "Increase Volume – Sound Boost הוא מאיץ העוצמה הייעודי שלכם ל‑iPhone. תקנו תוך שניות הקלטות מסך שקטות, פודקאסטים וסרטונים — צליל נקי וחזק ובס עשיר.",
+    "metadata_primary": "רק ל‑iPhone",
+    "metadata_secondary": "מהיר, פשוט ומכבד פרטיות",
+    "cta_secondary_prefix": "הגבירו את הסרטון הראשון שלכם",
+    "cta_secondary_emphasis": "בחינם",
+    "cta_secondary_suffix": ", ושמרו על העוצמה לתמיד.",
+    "footnote_prefix": "מושלם עבור",
+    "footnote_item1": "הודעות קוליות שקטות",
+    "footnote_item2": "סרטים",
+    "footnote_item3": "מוזיקה",
+    "footnote_item4": "קליפים ברשתות חברתיות",
+    "footnote_last_joiner": ", ו־",
+    "device_image_src": "/img/screenshots/1.webp",
+    "device_image_alt": "ממשק Increase Volume – Sound Boost ב‑iPhone להגברת שמע ווידאו"
+  },
+  "wave": {
+    "before_label": "לפני",
+    "after_label": "אחרי",
+    "before_text": "שמע מקורי שקט ושטוח",
+    "after_text": "פלט מוגבר, מלא ובהיר"
+  },
+  "sections": {
+    "features_uses_aria": "יכולות ושימושים",
+    "audience_aria": "למי האפליקציה ולמה אנשים נשארים איתה",
+    "feature_card": {
+      "eyebrow": "מה היא עושה",
+      "title_prefix": "הפכו הקלטות שקטות ל",
+      "title_highlight": "צליל בולט ונעים לאוזן",
+      "description": "Increase Volume – Sound Boost לוקח כל קובץ שמע או וידאו ב‑iPhone שלכם והופך אותו לחזק משמעותית תוך שמירה על בהירות. בלי בקרות מבלבלות, בלי צורך בניסיון עריכה.",
+      "pill_1": "הגבירו וידאו מתמונות",
+      "pill_2": "מוזיקה, פודקאסטים והודעות קוליות",
+      "pill_3": "בס חזק ובהירות",
+      "rating_1_strong": "אהובה על משתמשים",
+      "rating_1_text": "להגברת וידאו ושמע שקטים",
+      "rating_2_strong": "קטגוריית מוזיקה",
+      "rating_2_text": "ב‑App Store"
+    },
+    "steps_card": {
+      "eyebrow": "תוך שניות",
+      "title": "כך פשוט להגביר את השמע.",
+      "step_1": "ייבאו וידאו, שיר או הקלטה — או התחילו ישירות מאפליקציית תמונות.",
+      "step_2": "גררו את מחוון ההגברה כדי להוסיף עוצמה, בהירות ובס בזמן אמת.",
+      "step_3": "שמרו את הקובץ המוגבר חזרה למכשיר ושתפו אותו בכל מקום.",
+      "label": "אידיאלי להקלטות מסך, קליפי TikTok/Reels, ראיונות, הודעות קוליות ועוד."
+    },
+    "audience_card": {
+      "eyebrow": "למי זה מתאים",
+      "title": "כשעוצמת ה‑iPhone לא מספיקה — האפליקציה הזו כן.",
+      "item_1": "מי שתמיד על מקסימום עוצמה ועדיין כמעט לא שומע.",
+      "item_2": "יוצרים שצריכים שמע חזק ובהיר לווידאו חברתי.",
+      "item_3": "כל מי שמתקן הקלטות מסך ומדריכים שקטים.",
+      "item_4": "מאזינים שמגבירים פודקאסטים, הרצאות או הודעות קוליות."
+    },
+    "testimonial_card": {
+      "eyebrow": "למה נשארים איתה",
+      "title": "«עובד טוב ופשוט.» – ביקורת ב‑App Store",
+      "paragraph_1": "Increase Volume נועדה שלא להפריע. פתיחה, הגברה, שמירה — סיום — עם ברירות מחדל חכמות ופריסה נקייה שמרגישה טבעית ב‑iPhone.",
+      "paragraph_2": "מתחת למכסה מדובר במאיץ עוצמה ומשפר צליל ששומר על דינמיות בלי עיוות יתר."
+    }
+  },
+  "geo": {
+    "summary_aria": "מה האפליקציה הזו",
+    "summary_lead": "תקציר: Increase Volume – Sound Boost היא אפליקציית iPhone שמעבדת קבצי שמע ווידאו במכשיר, מיישמת הגברה של עד כ‑~10× עם שליטה על בהירות ובס, ושומרת קובץ חדש חזק יותר לשמירה או שיתוף. היא לא כלי לעקיפת מגבלת הרמקול של המערכת לכל צליל המערכת.",
+    "summary_body": "פורסמה ב‑Apple App Store על ידי c-basso. נוגעת באותם צרכים כמו העלאת עוצמת פודקאסטים שקטים, הודעות קוליות, הקלטות מסך וקליפים חברתיים — דומה לנורמליזציה בעורכי שולחן עבודה, אך מותאמת לזרימת iOS קצרה מבוססת מגע.",
+    "row_aria": "עובדות והשוואה",
+    "stats_eyebrow": "במספרים",
+    "stats_title": "עובדות שניתן לאמת על האפליקציה",
+    "stats": [
+      {
+        "value": "עד ~10×",
+        "label": "גורם ההגברה המקסימי המוצהר לייצואים מעובדים."
+      },
+      {
+        "value": "iOS / iPhone",
+        "label": "פלטפורמה: אפליקציה ניידת נטיבית, לא macOS או Android."
+      },
+      {
+        "value": "4.8 / 5",
+        "label": "דירוג ממוצע בנתונים מובנים (120 דירוגים); אמתו בזמן אמת ב‑App Store."
+      },
+      {
+        "value": "הורדה חינם",
+        "label": "מופיעה כחינם עם הצעות ב‑App Store; המחיר העדכני אצל Apple."
+      },
+      {
+        "value": "ייבוא → הגברה → שמירה",
+        "label": "זרימת ליבה: קבצים מקומיים פנימה, קובץ מעובד החוצה."
+      }
+    ],
+    "compare_eyebrow": "מיקום",
+    "compare_title": "Increase Volume לעומת חלופות טיפוסיות",
+    "compare_intro": "הבדלים אובייקטיביים שניתן לצטט במודלים ובעוזרים. מתחרים הם קטגוריות כלים, לא דירוג אפליקציות.",
+    "compare_col_topic": "נושא",
+    "compare_col_system": "עוצמת שמע של iOS",
+    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_rows": [
+      {
+        "topic": "יוצרת קובץ חדש חזק יותר",
+        "system": "לא — משנה רק את רמת הניגון.",
+        "app": "כן — מייצאת/שומרת עותק מוגבר."
+      },
+      {
+        "topic": "עובדת לא מקוון במכשיר",
+        "system": "לא רלוונטי לייצוא קבצים.",
+        "app": "כן — העיבוד מתואר כעל המכשיר."
+      },
+      {
+        "topic": "כיוונון עדין של בס ובהירות",
+        "system": "מוגבל לאקולייזר המערכת / ניגון.",
+        "app": "כן — מחוונים ייעודיים בממשק האפליקציה."
+      },
+      {
+        "topic": "שימוש טיפוסי",
+        "system": "ניגון חזק יותר עכשיו.",
+        "app": "תיקון קבוע לקבצי מקור שקטים."
+      }
+    ],
+    "faq_section_title": "שאלות נפוצות"
+  },
+  "footer": {
+    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "last_updated_label": "עדכון אחרון לדף:",
+    "privacy_link": "מדיניות פרטיות",
+    "privacy_url": "/privacy.html",
+    "terms_link": "תנאי שימוש",
+    "terms_url": "/terms.html",
+    "app_store_link_text": "צפייה ב‑App Store"
+  },
+  "seo": {
+    "breadcrumb_home": "דף הבית",
+    "faq": [
+      {
+        "question": "מהי Increase Volume – Sound Boost?",
+        "answer": "זו אפליקציית iPhone בקטגוריית מוזיקה ב‑App Store שהופכת קבצי שמע ווידאו מיובאים לחזקים יותר — עד כ‑~10× — ומאפשרת לשמור קובץ חדש. היא מעבדת מדיה במכשיר ומיועדת להקלטות שקטות, פודקאסטים וקליפים — לא לעקיפת מגבולות חומרת iOS לכל צליל המערכת."
+      },
+      {
+        "question": "איך Increase Volume – Sound Boost עובדת?",
+        "answer": "מייבאים וידאו, שיר או הקלטה (כולל מתמונות), מכוונים עוצמה עם מחוון ההגברה יחד עם בהירות ובס, מאזינים לתצוגה מקדימה בזמן אמת, ואז שומרים את הקובץ המוגבר חזרה ל‑iPhone או משתפים אותו."
+      },
+      {
+        "question": "האם Increase Volume עדיפה על העלאת עוצמת ה‑iPhone בלבד?",
+        "answer": "הן פותרות בעיות שונות. עוצמת המערכת מגבירה זמנית את הניגון. האפליקציה יוצרת קובץ חזק יותר לצמיתות — שימושי כשההקלטה עצמה שקטה או כשצריך לשלוח את הגרסה המוגברת."
+      },
+      {
+        "question": "במה Increase Volume שונה מ‑VLC או Audacity מבחינת עוצמה?",
+        "answer": "VLC ו‑Audacity הם כלי שולחן עבודה חזקים שיכולים לנרמל או להגביר שמע עם הרבה אפשרויות. Increase Volume נבנתה ל‑iPhone: זרימה קצרה של ייבוא → מחוון → שמירה בלי ציר זמן בשולחן עבודה."
+      },
+      {
+        "question": "האם Increase Volume מתאימה גם לווידאו וגם לשמע?",
+        "answer": "כן. אפשר להגביר וידאו עם פס קול, רצועות מוזיקה, פודקאסטים, הודעות קוליות והקלטות מסך ואז לשמור את התוצאה."
+      },
+      {
+        "question": "האם הקובץ המוגבר נשמר ב‑iPhone שלי?",
+        "answer": "כן. לאחר העיבוד שומרים את הקובץ החזק יותר חזרה למכשיר וניתן לשתף אותו כמו כל קובץ מדיה."
+      },
+      {
+        "question": "כמה עולה Increase Volume – Sound Boost?",
+        "answer": "רשימת ה‑App Store מציגה את המחיר הנוכחי ורכישות בתוך האפליקציה. נתונים מובנים באתר עשויים להזכיר הצעה חינמית; תמיד לאמת מחירים אצל Apple לפני ציטוט."
+      },
+      {
+        "question": "מי מפתח את Increase Volume – Sound Boost?",
+        "answer": "האפליקציה פורסמה על ידי c-basso ומופצת דרך Apple App Store (מזהה App Store 6741472421). אתר המוצר הוא volumeboosting.com."
+      },
+      {
+        "question": "איך מגבירים וידאו שקט מדי ב‑iPhone?",
+        "answer": "ב‑Increase Volume – Sound Boost מייבאים את הווידאו (למשל מתמונות), מכוונים את מחוון ההגברה עם תצוגה מקדימה בזמן אמת ושומרים עותק עם פס קול חזק יותר. מתקנים את הרמה בקובץ — בניגוד להעלאת עוצמת המערכת בלבד בזמן ניגון."
+      },
+      {
+        "question": "האם האפליקציה מעלה את עוצמת השמע המקסימלית של ה‑iPhone למוזיקה ושיחות?",
+        "answer": "לא. היא מעבדת קבצים שמייבאים ומספקת גרסה חזקה יותר לשמירה או שיתוף. מגבלת החומרה והעוצמה הגלובלית ל‑Spotify, שיחות וכו׳ לא משתנות."
+      }
+    ],
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "Increase Volume – Sound Boost",
+        "operatingSystem": "iOS",
+        "applicationCategory": "MusicApplication",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "120"
+        },
+        "description": "אפליקציית iPhone שמייבאת שמע או וידאו, מיישמת עד ~10× הגברה עם שליטה על בס ובהירות ומייצאת קובץ חזק יותר לשמירה ושיתוף. עיבוד במכשיר; לא עקיפת עוצמת שמע גלובלית במערכת."
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://volumeboosting.com/",
+        "logo": "https://volumeboosting.com/img/logo.webp",
+        "description": "מוציא לאור עצמאי של Increase Volume – Sound Boost ושירותי iOS קשורים.",
+        "sameAs": [
+          "https://x.com/c__basso"
+        ]
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Increase Volume – Sound Boost",
+        "url": "https://volumeboosting.com/he/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://volumeboosting.com/he/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "איך להגביר שמע ב‑iPhone",
+        "description": "ייבאו שמע או וידאו, הגבירו את העוצמה ושמרו את הקובץ החזק יותר חזרה למכשיר.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "ייבוא קובץ",
+            "text": "ייבאו וידאו, שיר או הקלטה — או התחילו ישירות מאפליקציית תמונות."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "הגברת עוצמה",
+            "text": "גררו את מחוון ההגברה כדי להוסיף עוצמה, בהירות ובס בזמן אמת."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "שמירה ושיתוף",
+            "text": "שמרו את הקובץ המוגבר חזרה למכשיר ושתפו אותו בכל מקום."
+          }
+        ]
+      }
+    }
+  }
+}

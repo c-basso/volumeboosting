@@ -36,38 +36,68 @@ const ALTERNATE_LANGUAGE_LINKS = URLS.map(({ code, hreflang, url }) => ({
 
 const HTML_LANG_BY_CODE = {
     en: 'en',
+    cs: 'cs',
+    da: 'da',
     de: 'de',
+    el: 'el',
     es: 'es',
+    fi: 'fi',
+    fil: 'fil',
     fr: 'fr',
+    he: 'he',
+    hr: 'hr',
+    hu: 'hu',
+    id: 'id',
     it: 'it',
+    ja: 'ja',
     ko: 'ko',
+    ms: 'ms',
     nl: 'nl',
+    no: 'nb',
     pl: 'pl',
     pt: 'pt',
     ro: 'ro',
     ru: 'ru',
+    sk: 'sk',
+    sv: 'sv',
     th: 'th',
     tr: 'tr',
     uk: 'uk',
-    vi: 'vi'
+    vi: 'vi',
+    zh: 'zh'
 };
 
 const OG_LOCALE_BY_LANGUAGE = {
     en: 'en_US',
+    cs: 'cs_CZ',
+    da: 'da_DK',
     ru: 'ru_RU',
     es: 'es_ES',
+    fi: 'fi_FI',
+    fil: 'tl_PH',
     fr: 'fr_FR',
+    he: 'he_IL',
+    hr: 'hr_HR',
+    hu: 'hu_HU',
+    id: 'id_ID',
     de: 'de_DE',
+    el: 'el_GR',
     it: 'it_IT',
+    ja: 'ja_JP',
     pt: 'pt_PT',
     ko: 'ko_KR',
+    ms: 'ms_MY',
     nl: 'nl_NL',
+    no: 'nb_NO',
     pl: 'pl_PL',
     ro: 'ro_RO',
+    sk: 'sk_SK',
+    sv: 'sv_SE',
     th: 'th_TH',
     tr: 'tr_TR',
     uk: 'uk_UA',
-    vi: 'vi_VN'
+    vi: 'vi_VN',
+    zh: 'zh_CN'
 };
 
 const CANONICAL_URL_BY_LANGUAGE = new Map(URLS.map(({ code, url }) => [code, url]));
@@ -256,6 +286,7 @@ function normalizeMeta(data, lang) {
 
     data.meta.lang = data.meta.lang || lang;
     data.meta.html_lang = data.meta.html_lang || HTML_LANG_BY_CODE[lang] || data.meta.lang;
+    data.meta.html_dir = data.meta.html_dir || (lang === 'he' ? 'rtl' : 'ltr');
     data.meta.version = BUILD_TIMESTAMP;
     data.meta.canonical = canonicalUrl;
     data.meta.alternate_default = SITE_URL;
