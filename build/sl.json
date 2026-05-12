@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "lang": "sl",
+    "title": "Povečanje glasnosti – Ojačitev zvoka | ~10× zvok in video",
+    "description": "Zvok ali video na iPhone glasneje: do ~10× z jasnostjo in basi. Glasba, videi, podkasti, glasovne opombe. Obdelava na napravi. Brezplačen poskus v App Store.",
+    "keywords": "povečanje glasnosti iPhone, glasnejše video, tihi posnetek, ojačevalnik glasnosti, aplikacija iPhone, močnejši zvok, posnetek zaslona, ojačitev zvoka, Increase Volume",
+    "canonical": "https://volumeboosting.com/sl/",
+    "og_title": "Povečanje glasnosti – Ojačitev zvoka",
+    "og_description": "Zvok ali video na iPhone glasneje: do ~10× z jasnostjo in basi. Glasba, videi, podkasti, glasovne opombe. Obdelava na napravi. Brezplačen poskus v App Store.",
+    "og_image": "https://volumeboosting.com/sl/site_preview.png",
+    "og_image_alt": "Ikona aplikacije Increase Volume – Ojačitev zvoka",
+    "og_url": "https://volumeboosting.com/sl/",
+    "og_locale": "sl_SI",
+    "twitter_url": "https://volumeboosting.com/sl/",
+    "twitter_title": "Povečanje glasnosti – Ojačitev zvoka",
+    "twitter_description": "Zvok ali video na iPhone glasneje: do ~10× z jasnostjo in basi. Glasba, videi, podkasti, glasovne opombe. Obdelava na napravi. Brezplačen poskus v App Store.",
+    "twitter_image": "https://volumeboosting.com/sl/site_preview.png",
+    "twitter_image_alt": "Ikona aplikacije Increase Volume – Ojačitev zvoka"
+  },
+  "header": {
+    "app_name_suffix": "Ojačitev zvoka za iPhone",
+    "logo_alt": "Ikona aplikacije Increase Volume – Ojačitev zvoka",
+    "app_name": "Increase Volume – Ojačitev zvoka",
+    "brand_name": "Volume Booster",
+    "brand_subtitle": "Ojačitev zvoka za iPhone",
+    "apple_pill_text": "Za iPhone · Glasba",
+    "download_text": "Prenesi v App Store",
+    "download_aria_label": "Prenesi Increase Volume – Ojačitev zvoka v App Store"
+  },
+  "hero": {
+    "kicker_value": "10x",
+    "kicker_text": "Iz tihih videov in posnetkov naredi glasen, čist zvok",
+    "title_prefix": "Naj bo kateri koli zvok ali video",
+    "title_highlight": "do ~10× glasnejši",
+    "title_suffix": "brez izgube jasnosti.",
+    "subtitle": "Increase Volume – Ojačitev zvoka je tvoj namenski ojačevalnik glasnosti za iPhone. V nekaj sekundah popravi tih posnetke zaslona, podkaste in videe — čist, močan zvok in polni basi.",
+    "metadata_primary": "Samo za iPhone",
+    "metadata_secondary": "Hitro, preprosto in z mislijo na zasebnost",
+    "cta_secondary_prefix": "Prvi video ojači",
+    "cta_secondary_emphasis": "brezplačno",
+    "cta_secondary_suffix": ", glasnost pa obdrži za vedno.",
+    "footnote_prefix": "Idealno za",
+    "footnote_item1": "tih glasovnih opomb",
+    "footnote_item2": "filme",
+    "footnote_item3": "glasbo",
+    "footnote_item4": "objave na družbenih omrežjih",
+    "footnote_last_joiner": " in ",
+    "device_image_src": "/img/screenshots/1.webp",
+    "device_image_alt": "Increase Volume – Ojačitev zvoka na iPhone — ojačitev zvoka in videa"
+  },
+  "wave": {
+    "before_label": "Pred",
+    "after_label": "Po",
+    "before_text": "Tih, sploščen izvirni zvok",
+    "after_text": "Po ojačitvi: poln in čist zvok"
+  },
+  "sections": {
+    "features_uses_aria": "Funkcije in uporaba",
+    "audience_aria": "Za koga je aplikacija in zakaj jo ljudje obdržijo",
+    "feature_card": {
+      "eyebrow": "Kaj počne",
+      "title_prefix": "Iz tihih posnetkov naredi",
+      "title_highlight": "izrazit, dobro slišen zvok",
+      "description": "Increase Volume – Ojačitev zvoka vzame kateri koli zvok ali video na tvojem iPhoneu in ga močno ojači, a ostane razumljiv. Brez zapletenih nastavitev, brez veščin montaže.",
+      "pill_1": "Ojači videe iz Fotografij",
+      "pill_2": "Glasba, podkasti in glasovne opombe",
+      "pill_3": "Močni basi in jasnost zvoka",
+      "rating_1_strong": "Uporabniki jo hvalijo",
+      "rating_1_text": "zaradi ojačitve tihih videov in zvoka",
+      "rating_2_strong": "Glasba",
+      "rating_2_text": "kategorija v App Store"
+    },
+    "steps_card": {
+      "eyebrow": "V nekaj sekundah",
+      "title": "Ojačitev zvoka je tako preprosta.",
+      "step_1": "Uvozi video, skladbo ali posnetek — ali začni neposredno iz aplikacije Fotografije.",
+      "step_2": "Premakni drsnik za ojačitev in nastavi glasnost, jasnost in base v živo.",
+      "step_3": "Shrani ojačeno datoteko nazaj v napravo in jo deli, kamor želiš.",
+      "label": "Idealno za: posnetke zaslona, posnetke TikTok/Reels, intervjuje, glasovne opombe in še več."
+    },
+    "audience_card": {
+      "eyebrow": "Za koga",
+      "title": "Če ti glasnost iPhona ne zadošča, ta aplikacija zadošča.",
+      "item_1": "Ljudje, ki imajo glasnost vedno na maksimum in še vedno premalo slišijo.",
+      "item_2": "Ustvarjalci, ki potrebujejo glasen, čist zvok za videe na družbenih omrežjih.",
+      "item_3": "Vsakogar, ki popravlja tiho posnete vadnice in posnetke zaslona.",
+      "item_4": "Poslušalce, ki želijo ojačiti podkaste, predavanja ali glasovne opombe."
+    },
+    "testimonial_card": {
+      "eyebrow": "Zakaj jo obdržijo",
+      "title": "„Deluje dobro in je preprosto.“ – mnenje v App Store",
+      "paragraph_1": "Increase Volume je zasnovan tako, da ti ne stoji na poti: odpri, ojači, shrani — končano. Pametne privzete vrednosti in čist vmesnik, ki na iPhoneu deluje naravno.",
+      "paragraph_2": "Pod pokrovom je močan ojačevalnik in izboljševalec zvoka, ki ohranja dinamiko brez pretiranega popačenja."
+    }
+  },
+  "geo": {
+    "summary_aria": "Kaj je ta aplikacija",
+    "summary_lead": "Povzetek: Increase Volume – Ojačitev zvoka je aplikacija za iPhone, ki obdela zvočne in video datoteke na napravi, uporabi ojačitev približno 10× z nadzorom jasnosti in basov ter shrani novo glasnejšo datoteko, ki jo obdržiš ali deliš. Ne spremeni sistemske glasnosti za celoten sistem.",
+    "summary_body": "Izdana v Apple App Store pri c-basso. Naslavlja iste potrebe kot glasnejši podkasti, glasovne opombe, posnetki zaslona in objave na družbenih omrežjih — podobno kot normalizacija v namiznih urejevalnikih, a prilagojena kratkemu dotikovnemu poteku na iOS.",
+    "row_aria": "Dejstva in primerjava",
+    "stats_eyebrow": "V številkah",
+    "stats_title": "Preverljiva dejstva o aplikaciji",
+    "stats": [
+      {
+        "value": "Do ~10×",
+        "label": "Največji navedeni faktor ojačitve za izvožene datoteke."
+      },
+      {
+        "value": "iOS / iPhone",
+        "label": "Platforma: domorodna mobilna aplikacija, ne macOS ali Android."
+      },
+      {
+        "value": "4,8 / 5",
+        "label": "Povprečna ocena v strukturiranih podatkih (120 ocen); preveri trenutno na strani App Store."
+      },
+      {
+        "value": "Brezplačen prenos",
+        "label": "V App Store navedeno kot brezplačno z ponudbami; trenutno ceno določa Apple."
+      },
+      {
+        "value": "Uvoz → ojačitev → shranjevanje",
+        "label": "Jedro poteka: lokalne datoteke noter, prilagojena datoteka ven."
+      }
+    ],
+    "compare_eyebrow": "Pozicioniranje",
+    "compare_title": "Increase Volume v primerjavi s tipičnimi alternativami",
+    "compare_intro": "Objektivne razlike, ki jih lahko navajajo modeli in asistenti. „Konkurenca“ so kategorije orodij, ne lestvica aplikacij.",
+    "compare_col_topic": "Tema",
+    "compare_col_system": "Sistemska glasnost iOS",
+    "compare_col_app": "Increase Volume – Ojačitev zvoka",
+    "compare_rows": [
+      {
+        "topic": "Ustvari novo glasnejšo datoteko",
+        "system": "Ne — spremeni le raven predvajanja.",
+        "app": "Da — izvozi / shrani ojačeno kopijo."
+      },
+      {
+        "topic": "Deluje brez povezave na napravi",
+        "system": "Ni relevantno za izvoz datotek.",
+        "app": "Da — obdelava na napravi."
+      },
+      {
+        "topic": "Natančne nastavitve basov in jasnosti",
+        "system": "Omejeno na sistemski ekvalizer / predvajanje.",
+        "app": "Da — namenski drsniki v aplikaciji."
+      },
+      {
+        "topic": "Tipičen primer uporabe",
+        "system": "Glasnejše predvajanje zdaj.",
+        "app": "Trajen popravek tihih izvornih datotek."
+      }
+    ],
+    "faq_section_title": "Pogosto zastavljena vprašanja"
+  },
+  "footer": {
+    "copyright": "© {year} c-basso · Increase Volume – Ojačitev zvoka",
+    "last_updated_label": "Stran nazadnje posodobljena:",
+    "privacy_link": "Pravilnik o zasebnosti",
+    "terms_link": "Pogoji uporabe",
+    "app_store_link_text": "Poglej v App Store"
+  },
+  "seo": {
+    "breadcrumb_home": "Domov",
+    "faq": [
+      {
+        "question": "Kaj je Increase Volume – Ojačitev zvoka?",
+        "answer": "To je aplikacija za iPhone v kategoriji Glasba v App Store, ki ojači uvožene zvočne in video datoteke — približno 10× — in omogoči shranitev nove datoteke. Večpredstavnost obdela na napravi; je namenjena tihim posnetkom, podkastom in objavam, ne zaobidenju strojnih omejitev iOS za ves sistemski zvok."
+      },
+      {
+        "question": "Kako deluje Increase Volume – Ojačitev zvoka?",
+        "answer": "Uvoziš video, skladbo ali posnetek (tudi iz Fotografij), nastaviš glasnost z drsnikom za ojačitev ter jasnost in base, poslušaš predogled v živo, nato shraniš ojačeno datoteko nazaj na iPhone ali jo deliš."
+      },
+      {
+        "question": "Je Increase Volume boljši od samo povečanja glasnosti iPhona?",
+        "answer": "Rešujeta različni nalogi. Sistemska glasnost začasno ojači predvajanje. Ta aplikacija ustvari trajno glasnejšo datoteko — pride prav, ko je sam posnetek tih, ali ko moraš poslati ojačeno različico."
+      },
+      {
+        "question": "Kako se Increase Volume razlikuje od VLC ali Audacity pri glasnosti?",
+        "answer": "VLC in Audacity sta močni namizni orodji z normalizacijo, ojačitvijo in številnimi nastavitvami. Increase Volume je zasnovan za iPhone: kratek potek uvoz → drsnik → shranitev brez časovnice na računalniku."
+      },
+      {
+        "question": "Ali Increase Volume deluje za video in zvok?",
+        "answer": "Da. Lahko ojačiš video s zvočno sledjo, glasbo, podkaste, glasovne opombe in posnetke zaslona, nato shraniš rezultat."
+      },
+      {
+        "question": "Je ojačena datoteka shranjena na mojem iPhoneu?",
+        "answer": "Da. Po obdelavi shraniš glasnejšo datoteko v napravo in jo lahko deliš kot katero koli drugo medijsko datoteko."
+      },
+      {
+        "question": "Koliko stane Increase Volume – Ojačitev zvoka?",
+        "answer": "Trenutna cena in nakupi v aplikaciji so na strani App Store. Strukturirani podatki na spletu lahko navajajo brezplačno ponudbo; pred navedbo vedno preveri pri Appleu."
+      },
+      {
+        "question": "Kdo izdaja Increase Volume – Ojačitev zvoka?",
+        "answer": "Aplikacijo izdaja c-basso in jo distribuira Apple App Store (ID 6741472421). Produktna stran je volumeboosting.com."
+      },
+      {
+        "question": "Kako na iPhoneu ojačim preveč tih video?",
+        "answer": "V Increase Volume – Ojačitev zvoka uvoziš video (npr. iz Fotografij), nastaviš drsnik za ojačitev s predogledom v živo in shraniš kopijo z glasnejšo zvočno sledjo. Prilagajaš raven v datoteki — za razliko od začasnega povečanja sistema pri predvajanju."
+      },
+      {
+        "question": "Ali aplikacija poveča največjo glasnost iPhona za glasbo in klice?",
+        "answer": "Ne. Obdela datoteke, ki jih uvoziš, in ti da glasnejšo različico za shranjevanje ali deljenje. Strojna omejitev in globalna glasnost za Spotify, klice itd. se ne spremenita."
+      }
+    ],
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "Increase Volume – Ojačitev zvoka",
+        "operatingSystem": "iOS",
+        "applicationCategory": "MusicApplication",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "description": "Aplikacija za iPhone uvozi zvok ali video, uporabi ojačitev približno 10× z nadzorom basov in jasnosti ter izvozi glasnejšo datoteko za shranjevanje in deljenje. Obdelava na napravi; ne spremeni sistemske glasnosti za celoten sistem."
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://volumeboosting.com/",
+        "logo": "https://volumeboosting.com/img/logo.webp",
+        "description": "Neodvisni založnik Increase Volume – Ojačitev zvoka in sorodnih pripomočkov za iOS.",
+        "sameAs": [
+          "https://x.com/c__basso"
+        ]
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Increase Volume – Ojačitev zvoka",
+        "url": "https://volumeboosting.com/sl/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://volumeboosting.com/sl/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Kako ojačiti zvok na iPhoneu",
+        "description": "Uvozi zvok ali video, povečaj glasnost in shrani glasnejšo datoteko nazaj v napravo.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Uvoz datoteke",
+            "text": "Uvozi video, skladbo ali posnetek — ali začni neposredno iz aplikacije Fotografije."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Ojačitev glasnosti",
+            "text": "Premakni drsnik za ojačitev in nastavi glasnost, jasnost in base v živo."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Shranjevanje in deljenje",
+            "text": "Shrani ojačeno datoteko nazaj v napravo in jo deli, kamor želiš."
+          }
+        ]
+      }
+    }
+  }
+}

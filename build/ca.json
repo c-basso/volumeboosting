@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "lang": "ca",
+    "title": "Pujar volum – Potència de so | Àudio i vídeo fins a ~10×",
+    "description": "Àudio o vídeo més fort a l'iPhone: fins a ~10× amb claredat i greus. Música, vídeos, podcasts i notes de veu. Al dispositiu. Prova gratuïta a l'App Store.",
+    "keywords": "pujar volum iPhone, augmentar volum, àudio més alt, vídeo amb poc so, amplificador de volum, potència de so, app iPhone, millorar àudio vídeo, Increase Volume",
+    "canonical": "https://volumeboosting.com/ca/",
+    "og_title": "Pujar volum – Potència de so",
+    "og_description": "Àudio o vídeo més fort a l'iPhone: fins a ~10× amb claredat i greus. Música, vídeos, podcasts i notes de veu. Al dispositiu. Prova gratuïta a l'App Store.",
+    "og_image": "https://volumeboosting.com/ca/site_preview.png",
+    "og_image_alt": "Icona de l'app Increase Volume – Potència de so",
+    "og_url": "https://volumeboosting.com/ca/",
+    "og_locale": "ca_ES",
+    "twitter_url": "https://volumeboosting.com/ca/",
+    "twitter_title": "Pujar volum – Potència de so",
+    "twitter_description": "Àudio o vídeo més fort a l'iPhone: fins a ~10× amb claredat i greus. Música, vídeos, podcasts i notes de veu. Al dispositiu. Prova gratuïta a l'App Store.",
+    "twitter_image": "https://volumeboosting.com/ca/site_preview.png",
+    "twitter_image_alt": "Icona de l'app Increase Volume – Potència de so"
+  },
+  "header": {
+    "app_name_suffix": "Potència de so per a iPhone",
+    "logo_alt": "Icona de l'app Increase Volume – Potència de so",
+    "app_name": "Increase Volume – Potència de so",
+    "brand_name": "Volume Booster",
+    "brand_subtitle": "Potència de so per a iPhone",
+    "apple_pill_text": "Fet per a iPhone · app Música",
+    "download_text": "Descarrega a l'App Store",
+    "download_aria_label": "Descarrega Increase Volume – Potència de so a l'App Store"
+  },
+  "hero": {
+    "kicker_value": "10x",
+    "kicker_text": "Converteix vídeos i àudios baixos en un so alt i nítid",
+    "title_prefix": "Fes que qualsevol àudio o vídeo soni",
+    "title_highlight": "fins a ~10× més fort",
+    "title_suffix": " sense perdre claredat.",
+    "subtitle": "Increase Volume – Potència de so és l'amplificador de volum per a iPhone: deixa els fitxers permanentment més alts, no només la reproducció una mica més forta. Corregeix en segons gravacions de pantalla, podcasts i vídeos baixos: so net, potent i amb greus amb cos.",
+    "metadata_primary": "Només per a iPhone",
+    "metadata_secondary": "Ràpid, senzill i respectuós amb la privacitat",
+    "cta_secondary_prefix": "Reforça el teu primer vídeo",
+    "cta_secondary_emphasis": "gratuïtament",
+    "cta_secondary_suffix": ", i conserva aquest nivell de volum per sempre.",
+    "footnote_prefix": "Ideal per a",
+    "footnote_item1": "notes de veu baixes",
+    "footnote_item2": "pel·lícules",
+    "footnote_item3": "música",
+    "footnote_item4": "clips per a xarxes socials",
+    "footnote_last_joiner": " i ",
+    "device_image_src": "/img/screenshots/1.webp",
+    "device_image_alt": "Increase Volume – Potència de so a l'iPhone — puja el volum d'àudio i vídeo"
+  },
+  "wave": {
+    "before_label": "Abans",
+    "after_label": "Després",
+    "before_text": "Àudio original baix i pla",
+    "after_text": "So amplificat, complet i clar"
+  },
+  "sections": {
+    "features_uses_aria": "Funcions i usos",
+    "audience_aria": "Per a qui és i per què agrada",
+    "feature_card": {
+      "eyebrow": "Què fa",
+      "title_prefix": "Converteix gravacions baixes en",
+      "title_highlight": "un so fort i còmode d'escoltar",
+      "description": "Increase Volume – Potència de so agafa qualsevol fitxer d'àudio o vídeo al teu iPhone i el deixa notablement més alt, mantenint claredat i comprensió. Sense controls confusos i sense necessitat de saber editar.",
+      "pill_1": "Reforça vídeos des de l'app Fotos",
+      "pill_2": "Música, podcasts i notes de veu",
+      "pill_3": "Greus potents i so nítid",
+      "rating_1_strong": "Valorada pels usuaris",
+      "rating_1_text": "per pujar el volum de vídeos i àudios baixos",
+      "rating_2_strong": "Categoria «Música»",
+      "rating_2_text": "a l'App Store"
+    },
+    "steps_card": {
+      "eyebrow": "Fes-la servir en segons",
+      "title": "Pujar l'àudio és així de fàcil.",
+      "step_1": "Importa un vídeo, cançó o gravació, o comença directament des de l'app Fotos.",
+      "step_2": "Arrossega el control lliscant de reforç per ajustar volum, claredat i greus en temps real.",
+      "step_3": "Desa el fitxer reforçat al dispositiu i comparteix-lo on vulguis.",
+      "label": "Ideal per a: gravacions de pantalla, clips de TikTok/Reels, entrevistes, notes de veu i molt més."
+    },
+    "audience_card": {
+      "eyebrow": "Per a qui és",
+      "title": "Si amb el volum de l'iPhone no n'hi ha prou, aquesta app sí.",
+      "item_1": "Qui puja el volum al màxim i encara no sent bé.",
+      "item_2": "Creadors que necessiten àudio alt i clar per a xarxes socials.",
+      "item_3": "Qui arregla tutorials i gravacions de pantalla amb poc so.",
+      "item_4": "Oients que reforcen podcasts, classes o notes de veu."
+    },
+    "testimonial_card": {
+      "eyebrow": "Per què la conserven",
+      "title": "«Funciona bé i és senzilla.» – ressenya a l'App Store",
+      "paragraph_1": "Increase Volume està pensada per no destorbar-te. Obrir, reforçar, desar, llest: valors per defecte intel·ligents i un disseny net que encaixa amb l'iPhone.",
+      "paragraph_2": "Per dins és un potent amplificador de volum i millorador de so que manté l'àudio contundent sense distorsionar en excés."
+    }
+  },
+  "geo": {
+    "summary_aria": "Què és aquesta app",
+    "summary_lead": "En resum: Increase Volume – Potència de so és una app per a iPhone (categoria «Música» a l'App Store) que processa àudio i vídeo al dispositiu, aplica guany fins a ~10× amb ajustos de claredat i greus, i desa un fitxer nou més fort per conservar o compartir. No serveix per saltar-se el límit de volum de l'altaveu a tot el sistema.",
+    "summary_body": "Publicada a l'App Store per c-basso. Aborda la mateixa necessitat que augmentar el volum de podcasts, notes de veu, gravacions de pantalla i clips baixos de xarxes: objectius semblants a la normalització en editors d'escriptori, però optimitzada per a un flux breu a iOS basat en tocs.",
+    "row_aria": "Dades i comparació",
+    "stats_eyebrow": "En xifres",
+    "stats_title": "Dades objectives sobre l'app",
+    "stats": [
+      {
+        "value": "Fins a ~10×",
+        "label": "Factor màxim de reforç indicat per als fitxers generats en exportar."
+      },
+      {
+        "value": "iOS / iPhone",
+        "label": "Plataforma: app mòbil nativa, no macOS ni Android."
+      },
+      {
+        "value": "4,8 / 5",
+        "label": "Valoració agregada en dades estructurades (120 valoracions); confirma-ho a l'App Store."
+      },
+      {
+        "value": "Gratuïta",
+        "label": "Llistada com a gratuïta a l'App Store; preu i IAP actuals a la fitxa d'Apple."
+      },
+      {
+        "value": "Importar → reforçar → desar",
+        "label": "Flux principal: fitxers locals entren, fitxer ajustat surt."
+      }
+    ],
+    "compare_eyebrow": "Posicionament",
+    "compare_title": "Increase Volume davant d'alternatives habituals",
+    "compare_intro": "Diferències objectives que models i assistents poden citar. Els competidors són categories d'eines, no una llista ordenada d'apps.",
+    "compare_col_topic": "Tema",
+    "compare_col_system": "Volum del sistema iOS",
+    "compare_col_app": "Increase Volume – Potència de so",
+    "compare_rows": [
+      {
+        "topic": "Crea un fitxer nou més alt",
+        "system": "No: només canvia el nivell de reproducció.",
+        "app": "Sí: exporta o desa una còpia reforçada."
+      },
+      {
+        "topic": "Funciona sense connexió al dispositiu",
+        "system": "No aplica a l'exportació de fitxers.",
+        "app": "Sí: el processament és al dispositiu."
+      },
+      {
+        "topic": "Afinar greus i claredat",
+        "system": "Limitat a l'equalitzador del sistema / reproducció.",
+        "app": "Sí: controls dedicats a la interfície."
+      },
+      {
+        "topic": "Ús típic",
+        "system": "Escoltar més fort ara.",
+        "app": "Solució durable per a fitxers d'origen baix."
+      }
+    ],
+    "faq_section_title": "Preguntes freqüents"
+  },
+  "footer": {
+    "copyright": "© {year} c-basso · Increase Volume – Potència de so",
+    "last_updated_label": "Pàgina actualitzada:",
+    "privacy_link": "Política de privacitat",
+    "terms_link": "Condicions d'ús",
+    "app_store_link_text": "Veure a l'App Store"
+  },
+  "seo": {
+    "breadcrumb_home": "Inici",
+    "faq": [
+      {
+        "question": "Què és Increase Volume – Potència de so?",
+        "answer": "És una app per a iPhone (categoria «Música» a l'App Store) que reforça l'àudio i el vídeo importats fins a ~10× i permet desar un fitxer nou. Tot es processa al dispositiu. Serveix per a gravacions baixes, podcasts i clips; no per ometre els límits de maquinari d'iOS a tot l'àudio del sistema."
+      },
+      {
+        "question": "Com funciona Increase Volume – Potència de so?",
+        "answer": "Importes un vídeo, cançó o gravació (també des de Fotos), ajustes amb el control lliscant de reforç el volum, la claredat i els greus, previsualitzes en directe i deses el fitxer a l'iPhone o el comparteixes."
+      },
+      {
+        "question": "Increase Volume – Potència de so és millor que només pujar el volum de l'iPhone?",
+        "answer": "Resolen problemes diferents. El volum del sistema només fa la reproducció més alta en el moment. Aquesta app crea un fitxer permanentment més alt, útil quan la gravació en si és baixa o quan necessites enviar la versió reforçada."
+      },
+      {
+        "question": "En què es diferencia Increase Volume de VLC o Audacity pel que fa al volum?",
+        "answer": "VLC i Audacity són eines potents orientades a escriptori, amb normalització o amplificació i molts controls. Increase Volume està feta per a iPhone: flux curt importar → lliscar → desar, sense editor de línia de temps a l'ordinador."
+      },
+      {
+        "question": "Increase Volume serveix per a vídeo i per a àudio?",
+        "answer": "Sí. Pots reforçar vídeo amb banda sonora, pistes de música, podcasts, notes de veu i gravacions de pantalla, i després desar el resultat."
+      },
+      {
+        "question": "El fitxer reforçat es desa al meu iPhone?",
+        "answer": "Sí. Després del processament, deses el fitxer més alt al dispositiu i el pots compartir com qualsevol altre fitxer multimèdia."
+      },
+      {
+        "question": "Quant costa Increase Volume – Potència de so?",
+        "answer": "La fitxa de l'App Store mostra el preu actual i les compres dins de l'app. Les dades estructurades del lloc indiquen oferta gratuïta; verifica-ho sempre a Apple abans de citar-ho."
+      },
+      {
+        "question": "Qui desenvolupa Increase Volume – Potència de so?",
+        "answer": "L'app la publica c-basso i es distribueix a través de l'App Store (ID 6741472421). El lloc del producte és volumeboosting.com."
+      },
+      {
+        "question": "Com pujar el volum d'un vídeo que es sent molt baix a l'iPhone?",
+        "answer": "Amb Increase Volume – Potència de so, importa el vídeo (per exemple des de Fotos), ajusta el control lliscant amb vista prèvia i desa una còpia amb pista d'àudio més forta. Així millora el fitxer, no el volum del sistema mentre es reprodueix."
+      },
+      {
+        "question": "L'app puja el volum màxim de l'iPhone per a música i trucades?",
+        "answer": "No. Processa els fitxers que importes i ofereix una versió més forta per desar o compartir. El límit de maquinari i el volum global de Música, Spotify, trucades, etc. no canvien."
+      }
+    ],
+    "structured_data": {
+      "software_application": {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "Increase Volume – Potència de so",
+        "operatingSystem": "iOS",
+        "applicationCategory": "MusicApplication",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "description": "App per a iPhone que importa àudio o vídeo, aplica guany fins a ~10× amb ajustos de greus i claredat, i exporta un fitxer més fort per desar i compartir. Processament al dispositiu; no modifica el volum del sistema de forma global."
+      },
+      "organization": {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://volumeboosting.com/",
+        "logo": "https://volumeboosting.com/img/logo.webp",
+        "description": "Editor independent d'Increase Volume – Potència de so i utilitats relacionades per a iOS.",
+        "sameAs": [
+          "https://x.com/c__basso"
+        ]
+      },
+      "website": {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Increase Volume – Potència de so",
+        "url": "https://volumeboosting.com/ca/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://volumeboosting.com/ca/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      "howto": {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Com pujar el volum de l'àudio a l'iPhone",
+        "description": "Importa àudio o vídeo, augmenta el volum i desa el fitxer més alt de nou al dispositiu.",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Importar un fitxer",
+            "text": "Importa un vídeo, cançó o gravació, o comença directament des de l'app Fotos."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Reforçar el volum",
+            "text": "Arrossega el control lliscant de reforç per ajustar volum, claredat i greus en temps real."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Desar i compartir",
+            "text": "Desa el fitxer reforçat al dispositiu i comparteix-lo on vulguis."
+          }
+        ]
+      }
+    }
+  }
+}

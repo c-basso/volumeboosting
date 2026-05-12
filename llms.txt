@@ -12,7 +12,7 @@
 
 ## By the numbers
 - Maximum loudness claim: up to 10x boost
-- Website locales: 29 language-specific pages
+- Website locales: 37 language-specific pages
 - Primary platform: iPhone (iOS)
 - Public website: https://volumeboosting.com/
 - Last website build date: 2026-05-12
@@ -50,6 +50,14 @@
 - [ru](https://volumeboosting.com/ru/)
 - [sk](https://volumeboosting.com/sk/)
 - [sv](https://volumeboosting.com/sv/)
+- [bg](https://volumeboosting.com/bg/)
+- [sl](https://volumeboosting.com/sl/)
+- [ca](https://volumeboosting.com/ca/)
+- [hi](https://volumeboosting.com/hi/)
+- [bn](https://volumeboosting.com/bn/)
+- [ta](https://volumeboosting.com/ta/)
+- [te](https://volumeboosting.com/te/)
+- [ml](https://volumeboosting.com/ml/)
 - [th](https://volumeboosting.com/th/)
 - [tr](https://volumeboosting.com/tr/)
 - [uk](https://volumeboosting.com/uk/)
