@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Ses güçlendirme",
     "last_updated_label": "Son güncelleme:",
     "privacy_link": "Gizlilik politikası",
-    "privacy_url": "/privacy.html",
     "terms_link": "Kullanım koşulları",
-    "terms_url": "/terms.html",
     "app_store_link_text": "App Store'da görüntüle"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "Ses veya video içe aktaran, bas ve netlik kontrolleriyle yaklaşık 10× ses yüksekliği kazancı uygulayan ve kaydetmek ve paylaşmak için daha yüksek sesli bir dosya dışa aktaran iPhone uygulaması. Cihazda işleme; sistem genelinde ses seviyesini değiştirmez."
       },

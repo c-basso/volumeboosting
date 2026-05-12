@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Tăng cường âm thanh",
     "last_updated_label": "Cập nhật lần cuối:",
     "privacy_link": "Chính sách quyền riêng tư",
-    "privacy_url": "/privacy.html",
     "terms_link": "Điều khoản sử dụng",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Xem trên App Store"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "Ứng dụng iPhone nhập âm thanh hoặc video, áp dụng tới ~10× độ to với điều khiển bass và độ trong, rồi xuất tệp to hơn để lưu và chia sẻ. Xử lý trên thiết bị; không thay đổi âm lượng hệ thống."
       },

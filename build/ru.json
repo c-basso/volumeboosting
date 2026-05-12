@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Усиление звука",
     "last_updated_label": "Страница обновлена:",
     "privacy_link": "Политика конфиденциальности",
-    "privacy_url": "/privacy.html",
     "terms_link": "Условия использования",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Открыть в App Store"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "Приложение для iPhone: импорт аудио или видео, усиление около 10× с басом и ясностью, экспорт более громкого файла для сохранения и отправки. Обработка на устройстве; не меняет общую системную громкость."
       },

@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – บูสเสียง",
     "last_updated_label": "อัปเดตล่าสุด:",
     "privacy_link": "นโยบายความเป็นส่วนตัว",
-    "privacy_url": "/privacy.html",
     "terms_link": "ข้อกำหนดการใช้งาน",
-    "terms_url": "/terms.html",
     "app_store_link_text": "ดูบน App Store"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "แอป iPhone ที่นำเข้าเสียงหรือวิดีโอ ขยายความดังได้ประมาณ 10× ด้วยการควบคุมเบสและความชัด แล้วส่งออกไฟล์ที่ดังขึ้นเพื่อบันทึกและแชร์ ประมวลผลบนเครื่อง ไม่เปลี่ยนระดับเสียงระบบทั้งหมด"
       },

@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Wzmocnienie dźwięku",
     "last_updated_label": "Ostatnia aktualizacja:",
     "privacy_link": "Polityka prywatności",
-    "privacy_url": "/privacy.html",
     "terms_link": "Warunki korzystania",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Zobacz w App Store"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "Aplikacja na iPhone'a importująca audio lub wideo, umożliwiająca wzmocnienie do około 10× z regulacją basów i klarowności oraz eksport głośniejszego pliku do zapisu i udostępnienia. Przetwarzanie na urządzeniu; nie zmienia globalnej głośności systemowej."
       },

@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Pojačanje zvuka",
     "last_updated_label": "Stranica posljednji put ažurirana:",
     "privacy_link": "Pravila privatnosti",
-    "privacy_url": "/privacy.html",
     "terms_link": "Uvjeti korištenja",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Pogledaj u App Storeu"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "Aplikacija za iPhone koja uvozi audio ili video, primjenjuje do ~10× glasnoću s kontrolama basa i jasnoće te izvozi glasniju datoteku za spremanje i dijeljenje. Obrada na uređaju; ne mijenja globalnu sustavsku glasnoću."
       },

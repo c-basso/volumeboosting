@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Penambah bunyi",
     "last_updated_label": "Halaman terakhir dikemas kini:",
     "privacy_link": "Dasar Privasi",
-    "privacy_url": "/privacy.html",
     "terms_link": "Terma Penggunaan",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Lihat di App Store"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "Aplikasi iPhone yang mengimport audio atau video, menggunakan hingga kira-kira 10× kelantangan dengan kawalan bass dan kejernihan, dan mengeksport fail lebih kuat untuk disimpan dan dikongsi. Pemprosesan pada peranti; tidak mengubah kelantangan sistem secara menyeluruh."
       },

@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Geluidsboost",
     "last_updated_label": "Laatst bijgewerkt:",
     "privacy_link": "Privacybeleid",
-    "privacy_url": "/privacy.html",
     "terms_link": "Gebruiksvoorwaarden",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Bekijk in de App Store"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "iPhone-app die audio of video importeert, met bas- en helderheidsregelaars tot ongeveer 10× versterkt, en een luider bestand exporteert om op te slaan en te delen. Verwerking op het apparaat; wijzigt het systeemvolume niet systeembreed."
       },

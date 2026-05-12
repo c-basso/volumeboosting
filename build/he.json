@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – הגברת שמע",
     "last_updated_label": "עדכון אחרון לדף:",
     "privacy_link": "מדיניות פרטיות",
-    "privacy_url": "/privacy.html",
     "terms_link": "תנאי שימוש",
-    "terms_url": "/terms.html",
     "app_store_link_text": "צפייה ב‑App Store"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "אפליקציית iPhone שמייבאת שמע או וידאו, מיישמת עד ~10× הגברה עם שליטה על בס ובהירות ומייצאת קובץ חזק יותר לשמירה ושיתוף. עיבוד במכשיר; לא משנה את עוצמת השמע הגלובלית של המערכת."
       },

@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Boost sonore",
     "last_updated_label": "Page mise à jour le :",
     "privacy_link": "Politique de confidentialité",
-    "privacy_url": "/privacy.html",
     "terms_link": "Conditions d'utilisation",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Voir sur l'App Store"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "App iPhone qui importe audio ou vidéo, applique un gain jusqu'à ~10× avec réglages de graves et de clarté, et exporte un fichier plus fort à enregistrer et partager. Traitement sur l'appareil ; ne modifie pas le volume système global."
       },

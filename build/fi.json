@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Äänen tehostus",
     "last_updated_label": "Sivu päivitetty viimeksi:",
     "privacy_link": "Tietosuojakäytäntö",
-    "privacy_url": "/privacy.html",
     "terms_link": "Käyttöehdot",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Näytä App Storessa"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "iPhone-sovellus tuo äänen tai videon, antaa jopa ~10× äänenvoimakkuutta basso- ja selkeysäädöillä ja vie kovemman tiedoston tallennukseen ja jakamiseen. Käsittely laitteella; ei muuta järjestelmänlaajuista äänenvoimakkuutta."
       },

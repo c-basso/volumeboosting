@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – 声音增强",
     "last_updated_label": "页面最后更新：",
     "privacy_link": "隐私政策",
-    "privacy_url": "/privacy.html",
     "terms_link": "使用条款",
-    "terms_url": "/terms.html",
     "app_store_link_text": "在 App Store 查看"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "在 iPhone 上导入音频或视频，提供最高约 ~10× 响度并带低音与清晰度控制，导出更响的文件以便保存与分享。本地处理；不会改变系统音量。"
       },

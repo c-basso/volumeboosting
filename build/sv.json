@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Ljudboost",
     "last_updated_label": "Senast uppdaterad:",
     "privacy_link": "Integritetspolicy",
-    "privacy_url": "/privacy.html",
     "terms_link": "Användarvillkor",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Visa i App Store"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "iPhone-app som importerar ljud eller video, ger cirka 10× volym med bas- och tydlighetsreglage och exporterar en högre fil för att spara och dela. Bearbetning på enheten; ändrar inte den globala systemvolymen."
       },

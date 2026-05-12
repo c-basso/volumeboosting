@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Reforço de som",
     "last_updated_label": "Última atualização:",
     "privacy_link": "Política de privacidade",
-    "privacy_url": "/privacy.html",
     "terms_link": "Termos de uso",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Ver na App Store"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "App para iPhone que importa áudio ou vídeo, aplica até cerca de 10× de ganho com controles de graves e clareza, e exporta um arquivo mais alto para salvar e compartilhar. Processamento no dispositivo; não altera o volume global do sistema."
       },

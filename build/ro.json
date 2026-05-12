@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Amplificare sunet",
     "last_updated_label": "Ultima actualizare:",
     "privacy_link": "Politica de confidențialitate",
-    "privacy_url": "/privacy.html",
     "terms_link": "Termeni de utilizare",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Vezi în App Store"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "Aplicație pentru iPhone care importă audio sau video, aplică amplificare de până la circa 10× cu control asupra basului și clarității și exportă un fișier mai tare de salvat și partajat. Procesare pe dispozitiv; nu modifică volumul global al sistemului."
       },

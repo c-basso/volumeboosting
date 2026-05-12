@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
     "last_updated_label": "Page last updated:",
     "privacy_link": "Privacy Policy",
-    "privacy_url": "/privacy.html",
     "terms_link": "Terms of Use",
-    "terms_url": "/terms.html",
     "app_store_link_text": "View on the App Store"
   },
   "seo": {
@@ -208,11 +206,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "iPhone app that imports audio or video, applies up to approximately 10× loudness with bass and clarity controls, and exports a louder file for saving and sharing. On-device processing; does not change system-wide volume."
       },

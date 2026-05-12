@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Klangboost",
     "last_updated_label": "Seite zuletzt aktualisiert:",
     "privacy_link": "Datenschutz",
-    "privacy_url": "/privacy.html",
     "terms_link": "Nutzungsbedingungen",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Im App Store ansehen"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "iPhone-App: Import von Audio oder Video, Verstärkung bis ~10× mit Bass- und Klarheitsreglern, Export einer lauteren Datei zum Speichern und Teilen. Verarbeitung auf dem Gerät; keine Änderung der systemweiten Lautstärke."
       },

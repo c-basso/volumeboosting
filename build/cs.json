@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Zesílení zvuku",
     "last_updated_label": "Stránka naposledy aktualizována:",
     "privacy_link": "Zásady ochrany osobních údajů",
-    "privacy_url": "/privacy.html",
     "terms_link": "Podmínky použití",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Zobrazit v App Store"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "Aplikace pro iPhone importuje audio nebo video, aplikuje zesílení až zhruba ~10× s ovládáním basů a čistoty a exportuje hlasitější soubor k uložení a sdílení. Zpracování na zařízení; nezesiluje systémově zvuk všech aplikací."
       },

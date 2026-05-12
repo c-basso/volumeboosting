@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Ενίσχυση ήχου",
     "last_updated_label": "Τελευταία ενημέρωση:",
     "privacy_link": "Πολιτική απορρήτου",
-    "privacy_url": "/privacy.html",
     "terms_link": "Όροι χρήσης",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Προβολή στο App Store"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "Εφαρμογή iPhone που εισάγει ήχο ή βίντεο, εφαρμόζει έως ~10× ένταση με έλεγχο μπάσων και καθαρότητας και εξάγει δυνατότερο αρχείο για αποθήκευση και κοινοποίηση. Επεξεργασία στη συσκευή· δεν αλλάζει την καθολική ένταση συστήματος για όλες τις εφαρμογές."
       },

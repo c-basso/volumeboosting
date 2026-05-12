@@ -62,6 +62,17 @@ const EXPECTED_JSON_LD_TYPES = [
 
 const INDEX_NOW_KEY = 'ANmc63xrMRZdnah1f1N7xyzD';
 
+/** Relative paths from site root; merged into every locale `footer` in `normalizeFooter`. */
+const FOOTER_PRIVACY_URL = '/privacy.html';
+const FOOTER_TERMS_URL = '/terms.html';
+
+/** JSON-LD `aggregateRating` on `MobileApplication` (merged in `buildSoftwareApplicationStructuredData`). */
+const SOFTWARE_APPLICATION_AGGREGATE_RATING = {
+    '@type': 'AggregateRating',
+    ratingValue: '4.8',
+    ratingCount: '120'
+};
+
 /** Site-wide meta duplicated across locales; merged at build time in `normalizeMeta`. */
 const SHARED_SITE_META = {
     author: 'c-basso',
@@ -98,5 +109,8 @@ module.exports = {
     INDEX_NOW_KEY,
     INDEX_NOW_ENGINES,
     ADDITIONAL_URLS,
-    SHARED_SITE_META
+    SHARED_SITE_META,
+    FOOTER_PRIVACY_URL,
+    FOOTER_TERMS_URL,
+    SOFTWARE_APPLICATION_AGGREGATE_RATING
 };

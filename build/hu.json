@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Hang kiemelés",
     "last_updated_label": "Az oldal utolsó frissítése:",
     "privacy_link": "Adatvédelmi irányelvek",
-    "privacy_url": "/privacy.html",
     "terms_link": "Felhasználási feltételek",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Megtekintés az App Store-ban"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "iPhone alkalmazás hang vagy videó importálásához, akár ~10× hangerő alkalmazásához mélyhang- és élességvezérlőkkel, és hangosabb fájl exportjához mentéshez és megosztáshoz. Feldolgozás az eszközön; nem változtatja meg a rendszerszintű hangerőt."
       },

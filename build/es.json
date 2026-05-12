@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Potencia de sonido",
     "last_updated_label": "Página actualizada:",
     "privacy_link": "Política de privacidad",
-    "privacy_url": "/privacy.html",
     "terms_link": "Términos de uso",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Ver en la App Store"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "App para iPhone que importa audio o vídeo, aplica ganancia de hasta ~10× con ajustes de graves y claridad, y exporta un archivo más fuerte para guardar y compartir. Procesamiento en el dispositivo; no modifica el volumen del sistema de forma global."
       },

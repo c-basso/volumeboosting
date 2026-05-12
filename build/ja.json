@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – 音の強化",
     "last_updated_label": "ページ最終更新：",
     "privacy_link": "プライバシーポリシー",
-    "privacy_url": "/privacy.html",
     "terms_link": "利用規約",
-    "terms_url": "/terms.html",
     "app_store_link_text": "App Storeで見る"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "音声または動画を取り込み、低音・明瞭さのコントロールとあわせて最大約10倍のラウドネスを適用し、保存・共有用に大きなファイルを書き出すiPhoneアプリ。端末内で処理し、システム全体の音量は変更しません。"
       },

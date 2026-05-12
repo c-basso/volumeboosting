@@ -8,7 +8,10 @@ const {
     LANGUAGES,
     APP_ID,
     APP_STORE_URL,
-    SHARED_SITE_META
+    SHARED_SITE_META,
+    FOOTER_PRIVACY_URL,
+    FOOTER_TERMS_URL,
+    SOFTWARE_APPLICATION_AGGREGATE_RATING
 } = require('./constants');
 
 const ROOT_DIR = path.join(__dirname, '..');
@@ -147,8 +150,8 @@ function writeLlmsFile(defaultLocaleData) {
     const appName = defaultLocaleData.header?.app_name || DEFAULT_SITE_NAME;
     const description = stripHtml(defaultLocaleData.meta?.description) || 'iPhone app to boost audio and video volume.';
     const lastUpdated = BUILD_DATE_ISO;
-    const privacyUrl = absoluteSiteUrl(defaultLocaleData.footer?.privacy_url);
-    const termsUrl = absoluteSiteUrl(defaultLocaleData.footer?.terms_url);
+    const privacyUrl = absoluteSiteUrl(FOOTER_PRIVACY_URL);
+    const termsUrl = absoluteSiteUrl(FOOTER_TERMS_URL);
     const localesCount = Math.max(0, LANGUAGES.length - 1);
 
     const lines = [
@@ -306,6 +309,8 @@ function normalizeFooter(data) {
     if (!data.footer) {
         data.footer = {};
     }
+    data.footer.privacy_url = FOOTER_PRIVACY_URL;
+    data.footer.terms_url = FOOTER_TERMS_URL;
     if (typeof data.footer.copyright === 'string') {
         data.footer.copyright = data.footer.copyright.replace(/\{year\}/g, String(CURRENT_YEAR));
     }
@@ -399,6 +404,7 @@ function buildSoftwareApplicationStructuredData(data) {
         app.offers.url = APP_STORE_URL;
     }
     app.dateModified = BUILD_DATE_ISO;
+    app.aggregateRating = { ...SOFTWARE_APPLICATION_AGGREGATE_RATING };
 }
 
 function buildWebsiteStructuredData(data) {

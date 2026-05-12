@@ -156,9 +156,7 @@
     "copyright": "© {year} c-basso · Increase Volume – Lydboost",
     "last_updated_label": "Sidst opdateret:",
     "privacy_link": "Privatlivspolitik",
-    "privacy_url": "/privacy.html",
     "terms_link": "Vilkår for brug",
-    "terms_url": "/terms.html",
     "app_store_link_text": "Se i App Store"
   },
   "seo": {
@@ -216,11 +214,6 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "USD"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.8",
-          "ratingCount": "120"
         },
         "description": "iPhone-app der importerer lyd eller video, giver op til ~10× lydstyrke med bas- og klarhedskontroller og eksporterer en højere fil til gem og deling. Behandling på enheden; ændrer ikke den globale systemlydstyrke."
       },
