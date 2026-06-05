@@ -235,6 +235,21 @@ h1 {
   margin-bottom: 24px;
 }
 
+.cta-actions {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.cta-qr {
+  width: 104px;
+  height: 104px;
+  border-radius: 16px;
+  background: #fff;
+  padding: 5px;
+  flex-shrink: 0;
+}
+
 .cta-primary {
   display: inline-flex;
   align-items: center;
@@ -242,9 +257,15 @@ h1 {
   gap: 10px;
   padding: 16px 28px;
   border-radius: 999px;
-  border: 1px solid rgba(255, 217, 155, 0.45);
-  background: radial-gradient(circle at 0 0, rgba(255, 217, 155, 0.75), transparent 60%),
-    linear-gradient(120deg, #18121a, #1e1510);
+  border: 1px solid rgba(194, 73, 123, 0.55);
+  background: linear-gradient(
+    135deg,
+    #f08bb0 0%,
+    #e06a9a 18%,
+    #c2497b 52%,
+    #a83d68 78%,
+    #8f3560 100%
+  );
   color: #fefcf6;
   font-size: 1rem;
   font-weight: 600;
@@ -252,7 +273,8 @@ h1 {
   text-decoration: none;
   box-shadow:
     0 22px 55px rgba(0, 0, 0, 0.9),
-    0 0 0 1px rgba(255, 181, 76, 0.18);
+    0 0 0 1px rgba(194, 73, 123, 0.22),
+    inset 0 1px 0 rgba(255, 255, 255, 0.22);
   position: relative;
   overflow: hidden;
   cursor: pointer;
@@ -260,6 +282,21 @@ h1 {
     transform 0.15s ease-out,
     box-shadow 0.2s ease-out,
     background 0.2s ease-out;
+}
+
+.cta-primary::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.24) 0%,
+    rgba(255, 255, 255, 0.08) 42%,
+    transparent 58%,
+    rgba(0, 0, 0, 0.14) 100%
+  );
+  pointer-events: none;
 }
 
 .cta-primary::after {
@@ -271,7 +308,7 @@ h1 {
     rgba(255, 255, 255, 0.18),
     transparent 22%,
     transparent 72%,
-    rgba(255, 220, 180, 0.24),
+    rgba(255, 180, 210, 0.28),
     rgba(255, 255, 255, 0.35)
   );
   opacity: 0;
@@ -285,18 +322,32 @@ h1 {
   z-index: 1;
 }
 
+.cta-apple-icon,
 .cta-primary svg {
   position: relative;
   z-index: 1;
+  flex-shrink: 0;
+}
+
+.cta-apple-icon {
+  width: 18px;
+  height: 22px;
 }
 
 .cta-primary:hover {
   transform: translateY(-1px);
   box-shadow:
     0 28px 70px rgba(0, 0, 0, 0.95),
-    0 0 40px rgba(255, 181, 76, 0.45);
-  background: radial-gradient(circle at 10% -10%, rgba(255, 255, 255, 0.9), transparent 40%),
-    linear-gradient(120deg, #201019, #281106);
+    0 0 40px rgba(194, 73, 123, 0.5),
+    inset 0 1px 0 rgba(255, 255, 255, 0.28);
+  background: linear-gradient(
+    135deg,
+    #f59bc0 0%,
+    #e8729f 18%,
+    #c2497b 52%,
+    #b04575 78%,
+    #96355f 100%
+  );
 }
 
 .cta-primary:hover::after {
@@ -1000,6 +1051,7 @@ footer a:hover {
 @media (max-width: 640px) {
   .page-shell {
     padding-inline: 16px;
+    padding-bottom: calc(104px + env(safe-area-inset-bottom, 0px));
   }
 
   header {
@@ -1019,6 +1071,35 @@ footer a:hover {
   .cta-row {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .cta-actions {
+    display: contents;
+  }
+
+  .cta-qr {
+    display: none;
+  }
+
+  .cta-primary {
+    position: fixed;
+    left: 16px;
+    right: 16px;
+    bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+    z-index: 100;
+    width: auto;
+    max-width: none;
+    border-radius: 999px;
+    padding: 16px 28px;
+    box-shadow:
+      0 16px 48px rgba(0, 0, 0, 0.75),
+      0 0 32px rgba(194, 73, 123, 0.35),
+      0 0 0 1px rgba(194, 73, 123, 0.22),
+      inset 0 1px 0 rgba(255, 255, 255, 0.22);
+  }
+
+  .cta-primary:hover {
+    transform: none;
   }
 
   .geo-stats-list li {
