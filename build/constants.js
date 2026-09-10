@@ -1,3 +1,6 @@
+const fs = require('fs');
+const path = require('path');
+
 const SITE_URL = "https://volumeboosting.com/";
 const APP_ID = '6741472421';
 const APP_STORE_URL = `https://apps.apple.com/app/id${APP_ID}`;
@@ -51,8 +54,36 @@ const URLS = LANGUAGES.map((code) => ({
     url: code === DEFAULT_LANGUAGE ? SITE_URL : `${SITE_URL}${code}/`
 }));
 
+/** English-only SEO guide pages: one JSON per target keyword in `build/guides/`. */
+const GUIDES_DIR = path.join(__dirname, 'guides');
+const GUIDES_PATH_SEGMENT = 'guides';
+const GUIDES_HUB_URL = `${SITE_URL}${GUIDES_PATH_SEGMENT}/`;
+
+function getGuideSlugs() {
+    if (!fs.existsSync(GUIDES_DIR)) {
+        return [];
+    }
+    return fs
+        .readdirSync(GUIDES_DIR)
+        .filter((file) => file.endsWith('.json'))
+        .map((file) => file.replace(/\.json$/, ''))
+        .sort();
+}
+
+function guideUrlForSlug(slug) {
+    return `${GUIDES_HUB_URL}${slug}/`;
+}
+
+const GUIDE_URLS = getGuideSlugs().map((slug) => ({
+    slug,
+    url: guideUrlForSlug(slug),
+    outputPath: path.join(__dirname, '..', GUIDES_PATH_SEGMENT, slug, 'index.html')
+}));
+
 const ADDITIONAL_URLS = [
-    `${SITE_URL}llms.txt`
+    `${SITE_URL}llms.txt`,
+    GUIDES_HUB_URL,
+    ...GUIDE_URLS.map(({ url }) => url)
 ];
 
 // Expected JSON-LD types that should be present on each generated page.
@@ -65,6 +96,21 @@ const EXPECTED_JSON_LD_TYPES = [
     'HowTo',
     'FAQPage',
     'WebPage',
+    'BreadcrumbList'
+];
+
+/** JSON-LD types every guide page (`guides/<slug>/index.html`) and the hub must include. */
+const EXPECTED_GUIDE_JSON_LD_TYPES = [
+    'Article',
+    'HowTo',
+    'FAQPage',
+    'WebPage',
+    'BreadcrumbList'
+];
+
+const EXPECTED_GUIDES_HUB_JSON_LD_TYPES = [
+    'CollectionPage',
+    'ItemList',
     'BreadcrumbList'
 ];
 
@@ -114,6 +160,14 @@ module.exports = {
     DEFAULT_LANGUAGE,
     LANGUAGES,
     EXPECTED_JSON_LD_TYPES,
+    EXPECTED_GUIDE_JSON_LD_TYPES,
+    EXPECTED_GUIDES_HUB_JSON_LD_TYPES,
+    GUIDES_DIR,
+    GUIDES_PATH_SEGMENT,
+    GUIDES_HUB_URL,
+    GUIDE_URLS,
+    getGuideSlugs,
+    guideUrlForSlug,
     INDEX_NOW_KEY,
     INDEX_NOW_ENGINES,
     ADDITIONAL_URLS,

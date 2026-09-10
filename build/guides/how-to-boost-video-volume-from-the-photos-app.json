@@ -1,0 +1,99 @@
+{
+  "keyword": "boost video volume from Photos app iPhone",
+  "priority": 6,
+  "keywords": "increase volume of video in photos app, photos app video too quiet, boost video volume photos iphone, share sheet volume booster",
+  "title": "How to Boost a Video's Volume From the Photos App (iPhone)",
+  "description": "Photos has no volume slider, but you can boost any video without leaving it: tap Share, pick Increase Volume, slide to 10× and save the louder copy to Photos.",
+  "h1": "How to boost a video's volume straight from the Photos app",
+  "eyebrow": "Photos workflow",
+  "card_title": "Boost a video from the Photos share sheet",
+  "card_summary": "Photos can only mute. Use Share → Increase Volume to boost a clip and save the loud copy next to the original.",
+  "published": "2026-09-10",
+  "quick_answer": "The Photos app cannot increase a video's volume; its editor only mutes the clip (and, on iPhone 16 or later, rebalances Spatial Audio recordings with Audio Mix). To boost a video from Photos: open it, tap Share, choose Increase Volume, drag Volume multiplication up to ×10, tap Boost Volume, then Download Processed → Save Video. The louder copy appears in Photos next to the original.",
+  "intro": [
+    "Most people look for a volume control in the Photos editor and do not find one, because there isn't one. Photos can trim, crop, colour-correct and mute a video, but it cannot make it louder. What Photos *does* have is a share sheet, and Increase Volume plugs into it, so the boost is two taps away from any video in your library.",
+    "This guide shows that workflow and what the Photos editor can realistically do for audio."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "iOS share sheet from Increase Volume with options to save the boosted video back to Photos or Files",
+    "caption": "The boosted copy goes back to Photos via the share sheet; your original stays as it was."
+  },
+  "sections": [
+    {
+      "heading": "What the Photos editor can and cannot do with audio",
+      "list": [
+        "Mute: tap Edit, then the speaker icon at the top to remove the audio track entirely.",
+        "Audio Mix (iPhone 16 and later, videos recorded with Spatial Audio): choose Standard, In-Frame, Studio or Cinematic to emphasise voices and reduce background noise. This changes the *balance*, not the overall loudness.",
+        "Volume boost: not available in any version of the Photos app."
+      ]
+    },
+    {
+      "heading": "Using the share sheet with Increase Volume",
+      "paragraphs": [
+        "Since version 1.2.7, Increase Volume appears in the iOS share sheet. Sharing a video to it creates a project immediately, with the file name, size and duration shown so you know you picked the right clip. After boosting, Download Processed opens the share sheet again, where Save Video puts the louder copy back into Photos. Because it is a new file, the original is never overwritten.",
+        "If Increase Volume does not show up in the share sheet the first time, scroll the app row to the end, tap More, and enable it (you can also drag it to the front of the row)."
+      ]
+    },
+    {
+      "heading": "Boosting several videos",
+      "paragraphs": [
+        "Increase Volume keeps a project list, so you can send several clips over from Photos and process them one after another. Each project remembers its file until you delete it, which makes it easy to come back later and try a different multiplier."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: from Photos to a louder video",
+    "intro": "No need to open Increase Volume first; start in Photos.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Open the video in Photos",
+        "text": "Find the quiet video and open it full screen."
+      },
+      {
+        "name": "Tap Share → Increase Volume",
+        "text": "Tap the Share button, scroll the row of app icons and tap Increase Volume. A new project opens."
+      },
+      {
+        "name": "Boost",
+        "text": "Drag Volume multiplication to the level you need (×3–×10), enable Improve Audio Quality for speech, and tap Boost Volume."
+      },
+      {
+        "name": "Compare",
+        "text": "Use the Original/Processed toggle to hear the difference."
+      },
+      {
+        "name": "Save Video",
+        "text": "Tap Download Processed, then Save Video. Back in Photos, the louder copy sits right after the original."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Add Increase Volume to your favourite apps in the share sheet (tap More → Edit) so it is always first in the row.",
+      "You can also share a video from Files, Messages or Mail directly into the app; the workflow is the same.",
+      "To free space, delete the quiet original after confirming the boosted copy sounds right."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Does boosting from Photos replace my original video?",
+      "answer": "No. Increase Volume always writes a new file. Saving it with Save Video adds a second copy to Photos; the original remains unchanged."
+    },
+    {
+      "question": "Can I boost Live Photos or Slo-mo videos?",
+      "answer": "Slo-mo and time-lapse videos export as regular video files and can be boosted. Live Photos are photos with a short clip attached and are not supported as video."
+    },
+    {
+      "question": "Why doesn't the Photos app have a volume slider?",
+      "answer": "Apple positions Photos as a quick-fix editor and pushes level changes to iMovie. iMovie raises volume to about 500%; Increase Volume goes to ×10 and works from the share sheet."
+    }
+  ],
+  "related": [
+    "how-to-make-a-video-louder-on-iphone",
+    "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+    "how-to-make-a-tiktok-video-louder"
+  ]
+}

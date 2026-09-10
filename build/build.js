@@ -11,7 +11,12 @@ const {
     SHARED_SITE_META,
     FOOTER_PRIVACY_URL,
     FOOTER_TERMS_URL,
-    SOFTWARE_APPLICATION_AGGREGATE_RATING
+    SOFTWARE_APPLICATION_AGGREGATE_RATING,
+    GUIDES_DIR,
+    GUIDES_PATH_SEGMENT,
+    GUIDES_HUB_URL,
+    getGuideSlugs,
+    guideUrlForSlug
 } = require('./constants');
 
 const ROOT_DIR = path.join(__dirname, '..');
@@ -119,6 +124,53 @@ const OG_LOCALE_BY_LANGUAGE = {
     zh: 'zh_CN'
 };
 
+/** Native-language names for the footer language switcher. */
+const LANGUAGE_NAMES = {
+    en: 'English',
+    cs: 'Čeština',
+    da: 'Dansk',
+    de: 'Deutsch',
+    el: 'Ελληνικά',
+    es: 'Español',
+    fi: 'Suomi',
+    fil: 'Filipino',
+    fr: 'Français',
+    he: 'עברית',
+    hr: 'Hrvatski',
+    hu: 'Magyar',
+    id: 'Bahasa Indonesia',
+    it: 'Italiano',
+    ja: '日本語',
+    ko: '한국어',
+    ms: 'Bahasa Melayu',
+    nl: 'Nederlands',
+    no: 'Norsk',
+    pl: 'Polski',
+    pt: 'Português',
+    ro: 'Română',
+    ru: 'Русский',
+    sk: 'Slovenčina',
+    sv: 'Svenska',
+    bg: 'Български',
+    sl: 'Slovenščina',
+    ca: 'Català',
+    hi: 'हिन्दी',
+    bn: 'বাংলা',
+    ta: 'தமிழ்',
+    te: 'తెలుగు',
+    ml: 'മലയാളം',
+    th: 'ไทย',
+    tr: 'Türkçe',
+    uk: 'Українська',
+    vi: 'Tiếng Việt',
+    zh: '简体中文'
+};
+
+const LANGUAGE_LINKS = ALTERNATE_LANGUAGE_LINKS.map((link) => ({
+    ...link,
+    name: LANGUAGE_NAMES[link.code] || link.hreflang
+}));
+
 const CANONICAL_URL_BY_LANGUAGE = new Map(URLS.map(({ code, url }) => [code, url]));
 
 function assertStyleCssExists() {
@@ -145,7 +197,9 @@ function syncWebManifest() {
 }
 
 function writeUrlsFile() {
-    fs.writeFileSync(URLS_PATH, URLS.map(({ url }) => url).join('\n'), 'utf8');
+    const guideUrls = getGuideSlugs().map(guideUrlForSlug);
+    const all = URLS.map(({ url }) => url).concat(guideUrls.length ? [GUIDES_HUB_URL, ...guideUrls] : []);
+    fs.writeFileSync(URLS_PATH, all.join('\n'), 'utf8');
     console.log('✅ Successfully built urls.txt file');
     console.log(`📁 Output saved to: ${URLS_PATH}`);
     console.log();
@@ -162,13 +216,23 @@ function absoluteSiteUrl(maybe) {
     return `${SITE_URL.replace(/\/?$/, '/')}${value.replace(/^\//, '')}`;
 }
 
-function writeLlmsFile(defaultLocaleData) {
+function writeLlmsFile(defaultLocaleData, guides = []) {
     const appName = defaultLocaleData.header?.app_name || DEFAULT_SITE_NAME;
     const description = stripHtml(defaultLocaleData.meta?.description) || 'iPhone app to boost audio and video volume.';
     const lastUpdated = BUILD_DATE_ISO;
     const privacyUrl = absoluteSiteUrl(FOOTER_PRIVACY_URL);
     const termsUrl = absoluteSiteUrl(FOOTER_TERMS_URL);
     const localesCount = Math.max(0, LANGUAGES.length - 1);
+    const rating = SOFTWARE_APPLICATION_AGGREGATE_RATING;
+
+    const guideLines = guides.length
+        ? [
+            '## How-to guides (English)',
+            `- [All guides](${GUIDES_HUB_URL})`,
+            ...guides.map((guide) => `- [${stripHtml(guide.h1)}](${guideUrlForSlug(guide.slug)}): ${stripHtml(guide.description)}`),
+            ''
+        ]
+        : [];
 
     const lines = [
         `# ${appName}`,
@@ -176,42 +240,55 @@ function writeLlmsFile(defaultLocaleData) {
         `> ${description}`,
         '',
         '## Entity snapshot',
-        `- Name: ${appName}`,
-        '- Category: iOS utility app (audio and video loudness enhancement)',
-        '- Primary use case: raise volume on quiet local media files on iPhone',
-        '- Core workflow: import -> boost -> preview -> save',
+        `- Name: ${appName} (App Store title: "Increase Volume Sound", subtitle "Audio & Music Booster")`,
+        '- Category: iOS app, App Store categories Music and Utilities (audio and video loudness enhancement)',
+        '- Primary use case: make quiet local video and audio files on iPhone louder and save a boosted copy',
+        '- Core workflow: import (Photos, Files, or share sheet) -> set boost (up to x10) -> compare Original/Processed -> Download Processed -> share',
+        '- Not a system-wide speaker booster: it changes the file, not the iPhone hardware volume limit',
         `- App Store listing: ${APP_STORE_URL}`,
         `- App Store id: ${APP_ID}`,
+        '- Publisher: Vladimir Ivakhnenko (c-basso)',
         '',
         '## By the numbers',
-        '- Maximum loudness claim: up to 10x boost',
+        '- Maximum boost: up to 10x (1000%) volume multiplication',
+        `- App Store rating: ${rating.ratingValue} out of 5 from ${rating.ratingCount} ratings`,
+        '- Requires iOS 18.6 or later; iPhone only; 26.8 MB download',
+        '- App localized in 31 languages',
+        '- Price: free download with in-app purchases (subscription with free trial, or one-time lifetime plan)',
         `- Website locales: ${localesCount} language-specific pages`,
-        '- Primary platform: iPhone (iOS)',
         `- Public website: ${SITE_URL}`,
         `- Last website build date: ${lastUpdated}`,
         '',
         '## Main sections',
-        `- [Home](${SITE_URL}): Product overview, use cases, screenshots, and App Store link`,
-        `- [FAQ](${SITE_URL}#geo-faq-heading): Direct answers to common product questions`,
+        `- [Home](${SITE_URL}): Product overview, screenshots, how it works, guides, FAQ, and App Store link`,
+        `- [FAQ](${SITE_URL}#faq): Direct answers to common product questions`,
+        `- [Guides](${GUIDES_HUB_URL}): Step-by-step how-to articles, one per use case`,
         `- [Localized pages](${SITE_URL}): Alternate language landing pages`,
         `- [Privacy policy](${privacyUrl}): Data and privacy details`,
         `- [Terms of service](${termsUrl}): Legal terms`,
         '',
+        ...guideLines,
         '## Language pages',
         ...ALTERNATE_LANGUAGE_LINKS.map(({ hreflang, url }) => `- [${hreflang}](${url})`),
         '',
         '## LLM-ready Q&A facts',
         `### What is ${appName}?`,
-        `${appName} is an iPhone app that increases loudness for quiet audio and video files and then exports a louder version.`,
+        `${appName} is an iPhone app that increases loudness for quiet audio and video files (up to 10x) and exports a louder copy you can save and share.`,
         '',
         `### How does ${appName} work?`,
-        'The app workflow is import media, apply loudness enhancement, preview the result, and save the boosted output.',
+        'Import a video or audio file, drag the "Volume multiplication" slider (up to x10), optionally enable "Improve Audio Quality", compare Original and Processed, then tap "Download Processed" and share or save the file.',
         '',
         '### How much can it increase loudness?',
-        'The product claim is up to 10x volume boost, depending on source material quality and headroom.',
+        'Up to 10x (1000%) volume multiplication, which is roughly twice the ceiling of iMovie on iPhone (about 500%). Results depend on how much headroom the source recording has.',
         '',
         '### What media types is it used for?',
-        'It is used for music tracks, podcasts, voice notes, and video clips that are difficult to hear at normal device volume.',
+        'Videos from Photos (including screen recordings and social clips), MP3 and other audio files, voice memos, podcasts, audiobooks, and voice messages saved from WhatsApp or Telegram.',
+        '',
+        '### Does it make the iPhone speaker louder?',
+        'No. It processes files. It does not raise the hardware volume limit of the iPhone speaker or change system-wide playback volume.',
+        '',
+        '### Is my audio uploaded anywhere?',
+        'Processing runs on the iPhone; there is no upload step in the workflow.',
         '',
         '### Where can users download it?',
         `Users can download it from the Apple App Store at ${APP_STORE_URL}.`,
@@ -318,7 +395,11 @@ function normalizeMeta(data, lang) {
     data.meta.og_site_name = data.meta.og_site_name || data.header?.app_name || DEFAULT_SITE_NAME;
     data.meta.og_locale = data.meta.og_locale || OG_LOCALE_BY_LANGUAGE[lang] || OG_LOCALE_BY_LANGUAGE.en;
     data.meta.last_updated_iso = BUILD_DATE_ISO;
+    data.meta.language_links = LANGUAGE_LINKS;
     Object.assign(data.meta, SHARED_SITE_META);
+
+    data.nav = data.nav || {};
+    data.nav.home_url = canonicalUrl;
 }
 
 function normalizeFooter(data) {
@@ -422,7 +503,10 @@ function buildSoftwareApplicationStructuredData(data) {
     app.dateModified = BUILD_DATE_ISO;
     app.aggregateRating = { ...SOFTWARE_APPLICATION_AGGREGATE_RATING };
     app.image = data.meta?.og_logo || DEFAULT_OG_LOGO;
-    app.screenshot = `${SITE_URL}img/screenshots/1.webp`;
+    const shots = Array.isArray(data.screenshots?.items) ? data.screenshots.items : [];
+    app.screenshot = shots.length
+        ? shots.map((shot) => absoluteSiteUrl(shot.src))
+        : `${SITE_URL}img/screenshots/1.webp`;
 }
 
 function buildWebsiteStructuredData(data) {
@@ -542,7 +626,9 @@ function warnForTemplateIssue(lang, message) {
     console.warn(`Warning [${lang}]: ${message}`);
 }
 
-const LOOP_PLACEHOLDER_ROOTS = new Set(['item', 'feature', 'section', 'lang', 'screenshot', 'fact', 'row', 'faq']);
+const LOOP_PLACEHOLDER_ROOTS = new Set([
+    'item', 'feature', 'section', 'lang', 'screenshot', 'fact', 'row', 'faq', 'step', 'guide', 'para', 'tip', 'link', 'stat'
+]);
 
 function shouldWarnMissingVar(pathExpression) {
     if (pathExpression.startsWith('seo.structured_data.')) {
@@ -557,6 +643,10 @@ function applyFilters(value, filters, rawKey, lang) {
     for (const filter of filters) {
         if (filter === 'json') {
             output = JSON.stringify(output);
+        } else if (filter === 'text') {
+            output = stripHtml(String(output));
+        } else if (filter === 'attr') {
+            output = String(output).replace(/&/g, '&amp;').replace(/"/g, '&quot;');
         } else {
             warnForTemplateIssue(lang, `Unknown filter "${filter}" in ${rawKey}`);
         }
@@ -564,10 +654,12 @@ function applyFilters(value, filters, rawKey, lang) {
     return output;
 }
 
+const BLOCK_TAG_RE = /\{\{\s*(#each\s+([^\s]+)\s+as\s+\|([^|]+)\||#if\s+([^}\s]+)|\/each|\/if)\s*\}\}/g;
+
 function replaceVariables(template, context, lang) {
     return template.replace(/\{\{([^}]+)\}\}/g, (match, key) => {
         const rawKey = key.trim();
-        if (rawKey.startsWith('#each') || rawKey === '/each') {
+        if (rawKey.startsWith('#') || rawKey.startsWith('/') || rawKey.startsWith('>')) {
             return match;
         }
         const [pathExpression, ...filters] = rawKey
@@ -593,57 +685,500 @@ function cleanupJsonArtifacts(content) {
         .replace(/,\s*\]/g, ']');
 }
 
-function processEachBlocks(template, context, lang) {
-    const eachPattern = /\{\{#each\s+([^\s]+)\s+as\s+\|([^|]+)\|\}\}([\s\S]*?)\{\{\/each\}\}/;
-    let result = template;
-    let match = result.match(eachPattern);
+function isTruthy(value) {
+    if (value === undefined || value === null || value === false || value === '' || value === 0) {
+        return false;
+    }
+    if (Array.isArray(value)) {
+        return value.length > 0;
+    }
+    return true;
+}
 
-    while (match) {
-        const [fullMatch, arrayPathRaw, variableNameRaw, block] = match;
-        const arrayPath = arrayPathRaw.trim();
-        const variableName = variableNameRaw.trim();
-        const array = getValueFromContext(context, arrayPath);
+/**
+ * Find the index of the closing tag that matches the block opened at `openEnd`.
+ * Blocks of the same kind nest; `#if` inside `#each` (and vice versa) is fine.
+ */
+function findMatchingClose(template, openEnd, kind) {
+    const re = new RegExp(BLOCK_TAG_RE.source, 'g');
+    re.lastIndex = openEnd;
+    let depth = 1;
+    let m;
+    while ((m = re.exec(template))) {
+        const tag = m[1];
+        if (tag.startsWith(`#${kind}`)) {
+            depth += 1;
+        } else if (tag === `/${kind}`) {
+            depth -= 1;
+            if (depth === 0) {
+                return { start: m.index, end: m.index + m[0].length };
+            }
+        }
+    }
+    return null;
+}
 
-        if (!Array.isArray(array)) {
-            if (array != null) {
+/**
+ * Renders `{{#each path as |var|}}…{{/each}}` and `{{#if path}}…{{/if}}` blocks recursively,
+ * then interpolates `{{path|filter}}` variables.
+ */
+function renderBlocks(template, context, lang) {
+    let output = '';
+    let cursor = 0;
+    const re = new RegExp(BLOCK_TAG_RE.source, 'g');
+    let m;
+
+    while ((m = re.exec(template))) {
+        const [full, tag, eachPathRaw, eachVarRaw, ifPathRaw] = m;
+        if (tag.startsWith('/')) {
+            warnForTemplateIssue(lang, `Unbalanced closing tag ${full}`);
+            continue;
+        }
+        const kind = tag.startsWith('#each') ? 'each' : 'if';
+        const close = findMatchingClose(template, m.index + full.length, kind);
+        if (!close) {
+            warnForTemplateIssue(lang, `Missing closing tag for ${full}`);
+            break;
+        }
+
+        output += replaceVariables(template.slice(cursor, m.index), context, lang);
+        const inner = template.slice(m.index + full.length, close.start);
+
+        if (kind === 'each') {
+            const arrayPath = eachPathRaw.trim();
+            const variableName = eachVarRaw.trim();
+            const array = getValueFromContext(context, arrayPath);
+            if (Array.isArray(array)) {
+                output += cleanupJsonArtifacts(
+                    array
+                        .map((item, index) =>
+                            renderBlocks(
+                                inner,
+                                { ...context, [variableName]: item, [`${variableName}_index`]: index + 1, [`${variableName}_is_first`]: index === 0 },
+                                lang
+                            )
+                        )
+                        .join('')
+                );
+            } else if (array != null) {
                 warnForTemplateIssue(lang, `${arrayPath} is not an array (got ${typeof array})`);
             } else if (!arrayPath.includes('.')) {
                 warnForTemplateIssue(lang, `${arrayPath} is not an array or not found`);
             }
-            result = result.replace(fullMatch, '');
-            match = result.match(eachPattern);
-            continue;
+        } else {
+            const value = getValueFromContext(context, ifPathRaw.trim());
+            if (isTruthy(value)) {
+                output += renderBlocks(inner, context, lang);
+            }
         }
 
-        const rendered = cleanupJsonArtifacts(array.map((item) => {
-            const mergedContext = { ...context, [variableName]: item };
-            const nested = processEachBlocks(block, mergedContext, lang);
-            return replaceVariables(nested, mergedContext, lang);
-        }).join(''));
-
-        result = result.replace(fullMatch, rendered);
-        match = result.match(eachPattern);
+        cursor = close.end;
+        re.lastIndex = close.end;
     }
 
-    return result;
+    output += replaceVariables(template.slice(cursor), context, lang);
+    return output;
+}
+
+const PARTIALS_DIR = path.join(__dirname, 'partials');
+const partialCache = new Map();
+
+/** Inline `{{> name}}` partials from `build/partials/name.html` (recursive). */
+function inlinePartials(template, depth = 0) {
+    if (depth > 10) {
+        throw new Error('Partial nesting too deep (cycle?)');
+    }
+    return template.replace(/\{\{>\s*([\w-]+)\s*\}\}/g, (_, name) => {
+        if (!partialCache.has(name)) {
+            const partialPath = path.join(PARTIALS_DIR, `${name}.html`);
+            if (!fs.existsSync(partialPath)) {
+                throw new Error(`Missing partial: ${partialPath}`);
+            }
+            partialCache.set(name, fs.readFileSync(partialPath, 'utf8'));
+        }
+        return inlinePartials(partialCache.get(name), depth + 1);
+    });
 }
 
 function renderTemplate(template, data, lang) {
-    return cleanupJsonArtifacts(replaceVariables(processEachBlocks(template, data, lang), data, lang));
+    return cleanupJsonArtifacts(renderBlocks(inlinePartials(template), data, lang));
 }
 
-function buildPage(template, lang) {
+/* ------------------------------------------------------------------ */
+/* Locale fallback                                                     */
+/* ------------------------------------------------------------------ */
+
+/**
+ * Keys that must never be copied from `en.json` into another locale. `guides` stays English-only
+ * (hidden on locale pages via `{{#if guides.items}}`) until it is translated.
+ */
+const NO_FALLBACK_TOP_LEVEL_KEYS = new Set(['guides']);
+// Paths that must never be filled from English: they act as feature switches that only make
+// sense together with locale-specific array content (e.g. the iMovie column needs `row.imovie`).
+const NO_FALLBACK_PATHS = new Set(['geo.compare_col_imovie']);
+// Non-linguistic structured-data values: falling back to English here is expected and not reported.
+const SILENT_FALLBACK_PATHS = new Set([
+    'seo.structured_data.software_application.alternateName',
+    'seo.structured_data.software_application.applicationSubCategory',
+    'seo.structured_data.software_application.offers.category',
+    'seo.structured_data.software_application.author',
+    'seo.structured_data.software_application.inLanguage',
+    'seo.structured_data.howto.totalTime',
+]);
+
+function isPlainObject(value) {
+    return value !== null && typeof value === 'object' && !Array.isArray(value);
+}
+
+/**
+ * Fills keys missing from `target` with values from `defaults` (deep). Arrays are copied only
+ * when the key is absent, so locale arrays (FAQ, stats, rows) are never mixed with English.
+ */
+function fillMissingFromDefaults(target, defaults, pathPrefix = '', report = []) {
+    for (const key of Object.keys(defaults)) {
+        if (!pathPrefix && NO_FALLBACK_TOP_LEVEL_KEYS.has(key)) {
+            continue;
+        }
+        const fullPath = pathPrefix ? `${pathPrefix}.${key}` : key;
+        if (NO_FALLBACK_PATHS.has(fullPath)) {
+            continue;
+        }
+        if (!(key in target)) {
+            target[key] = JSON.parse(JSON.stringify(defaults[key]));
+            if (!SILENT_FALLBACK_PATHS.has(fullPath)) {
+                report.push(fullPath);
+            }
+            continue;
+        }
+        if (isPlainObject(target[key]) && isPlainObject(defaults[key])) {
+            fillMissingFromDefaults(target[key], defaults[key], fullPath, report);
+        }
+    }
+    return report;
+}
+
+function applyEnglishFallback(data, lang, defaultRaw) {
+    if (lang === DEFAULT_LANGUAGE) {
+        return data;
+    }
+    const filled = fillMissingFromDefaults(data, defaultRaw);
+    if (filled.length) {
+        console.warn(`Warning [${lang}]: ${filled.length} key(s) fell back to English: ${filled.slice(0, 8).join(', ')}${filled.length > 8 ? ', …' : ''}`);
+    }
+    return data;
+}
+
+/* ------------------------------------------------------------------ */
+/* Homepage                                                            */
+/* ------------------------------------------------------------------ */
+
+function attachGuideCards(data, guides, lang) {
+    if (lang !== DEFAULT_LANGUAGE || !Array.isArray(guides) || guides.length === 0) {
+        return;
+    }
+    data.guides = data.guides || {};
+    data.guides.items = guides.map((guide) => ({
+        slug: guide.slug,
+        url: guideUrlForSlug(guide.slug),
+        title: guide.card_title || guide.h1,
+        summary: guide.card_summary || guide.quick_answer,
+        eyebrow: guide.eyebrow,
+        screenshot_src: guide.screenshot?.src,
+        screenshot_alt: guide.screenshot?.alt
+    }));
+    data.guides.hub_url = GUIDES_HUB_URL;
+
+    const bySlug = new Map(guides.map((guide) => [guide.slug, guide]));
+    for (const faq of data.seo?.faq || []) {
+        if (faq.guide && bySlug.has(faq.guide)) {
+            faq.learn_more_url = guideUrlForSlug(faq.guide);
+            faq.learn_more_title = bySlug.get(faq.guide).h1;
+        }
+    }
+}
+
+function buildPage(template, lang, { defaultRaw, guides }) {
     const outputDir = getOutputDirectory(lang);
     const outputPath = getOutputPath(lang);
     const jsonPath = getJsonPath(lang);
 
     ensureDirectoryExists(outputDir);
-    const data = preparePageData(readJsonFile(jsonPath), lang);
+    const raw = applyEnglishFallback(readJsonFile(jsonPath), lang, defaultRaw);
+    const data = preparePageData(raw, lang);
+    attachGuideCards(data, guides, lang);
     fs.writeFileSync(outputPath, renderTemplate(template, data, lang), 'utf8');
 
     console.log(`✅ Successfully built index.html from template and ${lang}.json`);
     console.log(`📁 Output saved to: ${outputPath}`);
 }
+
+/* ------------------------------------------------------------------ */
+/* Guides                                                              */
+/* ------------------------------------------------------------------ */
+
+const GUIDE_TEMPLATE_PATH = path.join(__dirname, 'guide-template.html');
+const GUIDES_HUB_TEMPLATE_PATH = path.join(__dirname, 'guides-hub-template.html');
+
+function readGuides() {
+    return getGuideSlugs().map((slug) => {
+        const guide = readJsonFile(path.join(GUIDES_DIR, `${slug}.json`));
+        if (guide.slug && guide.slug !== slug) {
+            throw new Error(`Guide file ${slug}.json declares slug "${guide.slug}"`);
+        }
+        guide.slug = slug;
+        return guide;
+    }).sort((a, b) => {
+        // Lower `priority` first (search demand / conversion intent); ties fall back to slug.
+        const pa = Number.isFinite(a.priority) ? a.priority : 100;
+        const pb = Number.isFinite(b.priority) ? b.priority : 100;
+        return pa - pb || a.slug.localeCompare(b.slug);
+    });
+}
+
+function guideOutputPath(slug) {
+    return path.join(ROOT_DIR, GUIDES_PATH_SEGMENT, slug, 'index.html');
+}
+
+function buildGuideStructuredData(guide, siteData) {
+    const url = guideUrlForSlug(guide.slug);
+    const appName = siteData.header?.app_name || DEFAULT_SITE_NAME;
+    const publisher = {
+        '@type': 'Organization',
+        name: siteData.seo?.structured_data?.organization?.name || 'c-basso',
+        url: SITE_URL,
+        logo: { '@type': 'ImageObject', url: DEFAULT_OG_LOGO }
+    };
+    const image = guide.screenshot?.src ? absoluteSiteUrl(guide.screenshot.src) : DEFAULT_OG_LOGO;
+
+    return {
+        article: {
+            '@context': 'https://schema.org',
+            '@type': 'Article',
+            headline: stripHtml(guide.h1),
+            description: stripHtml(guide.description),
+            image: [image],
+            author: publisher,
+            publisher,
+            datePublished: guide.published || BUILD_DATE_ISO,
+            dateModified: BUILD_DATE_ISO,
+            mainEntityOfPage: url,
+            inLanguage: 'en',
+            about: { '@type': 'MobileApplication', name: appName, url: SITE_URL, operatingSystem: 'iOS' }
+        },
+        howto: {
+            '@context': 'https://schema.org',
+            '@type': 'HowTo',
+            name: stripHtml(guide.steps?.heading || guide.h1),
+            description: stripHtml(guide.steps?.intro || guide.quick_answer),
+            image,
+            totalTime: guide.steps?.total_time || 'PT2M',
+            tool: [{ '@type': 'HowToTool', name: appName }],
+            step: (guide.steps?.items || []).map((step, index) => ({
+                '@type': 'HowToStep',
+                position: index + 1,
+                name: stripHtml(step.name),
+                text: stripHtml(step.text),
+                url: `${url}#step-${index + 1}`
+            }))
+        },
+        faqpage: {
+            '@context': 'https://schema.org',
+            '@type': 'FAQPage',
+            mainEntity: (guide.faq || []).map((faq) => ({
+                '@type': 'Question',
+                name: stripHtml(faq.question),
+                acceptedAnswer: { '@type': 'Answer', text: stripHtml(faq.answer) }
+            }))
+        },
+        webpage: {
+            '@context': 'https://schema.org',
+            '@type': 'WebPage',
+            name: guide.title,
+            url,
+            description: stripHtml(guide.description),
+            dateModified: BUILD_DATE_ISO,
+            inLanguage: 'en',
+            isPartOf: { '@type': 'WebSite', name: appName, url: SITE_URL }
+        },
+        breadcrumb_list: {
+            '@context': 'https://schema.org',
+            '@type': 'BreadcrumbList',
+            itemListElement: [
+                { '@type': 'ListItem', position: 1, name: 'Home', item: SITE_URL },
+                { '@type': 'ListItem', position: 2, name: 'Guides', item: GUIDES_HUB_URL },
+                { '@type': 'ListItem', position: 3, name: stripHtml(guide.h1), item: url }
+            ]
+        }
+    };
+}
+
+function prepareGuideData(guide, guides, siteData) {
+    const url = guideUrlForSlug(guide.slug);
+    const bySlug = new Map(guides.map((item) => [item.slug, item]));
+    const related = (guide.related || [])
+        .filter((slug) => bySlug.has(slug))
+        .map((slug) => {
+            const item = bySlug.get(slug);
+            return { slug, url: guideUrlForSlug(slug), title: item.card_title || item.h1, eyebrow: item.eyebrow };
+        });
+
+    const previewImage = getPreviewImageUrl(DEFAULT_LANGUAGE);
+    const steps = guide.steps
+        ? { ...guide.steps, items: (guide.steps.items || []).map((step, index) => ({ ...step, number: index + 1 })) }
+        : null;
+    const sections = (guide.sections || []).map((section) => ({
+        ...section,
+        ordered: Boolean(section.list && section.ordered),
+        unordered: Boolean(section.list && !section.ordered)
+    }));
+    const cta = guide.cta || siteData.guides?.default_cta || {};
+
+    const data = {
+        ...siteData,
+        page_type: 'guide',
+        guide: {
+            ...guide,
+            url,
+            steps,
+            sections,
+            related,
+            cta,
+            updated_iso: BUILD_DATE_ISO,
+            updated_label: siteData.seo?.last_updated || BUILD_DATE_ISO
+        },
+        guides: { ...(siteData.guides || {}), hub_url: GUIDES_HUB_URL },
+        meta: {
+            ...siteData.meta,
+            title: guide.title,
+            description: guide.description,
+            keywords: guide.keywords || siteData.meta.keywords,
+            canonical: url,
+            og_url: url,
+            twitter_url: url,
+            og_title: guide.og_title || guide.h1,
+            og_description: guide.og_description || guide.description,
+            twitter_title: guide.og_title || guide.h1,
+            twitter_description: guide.og_description || guide.description,
+            og_image: previewImage,
+            twitter_image: previewImage,
+            og_image_alt: guide.screenshot?.alt || siteData.meta.og_image_alt,
+            twitter_image_alt: guide.screenshot?.alt || siteData.meta.twitter_image_alt,
+            og_type: 'article',
+            alternate_languages: [{ code: 'en', hreflang: 'en', lang: 'en', url }],
+            alternate_default: url,
+            language_links: null,
+            html_lang: 'en',
+            html_dir: 'ltr',
+            lang: 'en'
+        },
+        seo: {
+            ...siteData.seo,
+            structured_data: buildGuideStructuredData(guide, siteData)
+        }
+    };
+    return data;
+}
+
+function buildGuides(guides, siteData) {
+    if (guides.length === 0) {
+        console.log('ℹ️  No guides found in build/guides — skipping guide pages');
+        return;
+    }
+    const template = fs.readFileSync(GUIDE_TEMPLATE_PATH, 'utf8');
+    for (const guide of guides) {
+        const outputPath = guideOutputPath(guide.slug);
+        ensureDirectoryExists(path.dirname(outputPath));
+        const data = prepareGuideData(guide, guides, siteData);
+        fs.writeFileSync(outputPath, renderTemplate(template, data, `guide:${guide.slug}`), 'utf8');
+        console.log(`✅ Built guide ${guide.slug}`);
+    }
+    console.log();
+}
+
+function buildGuidesHub(guides, siteData) {
+    if (guides.length === 0 || !fs.existsSync(GUIDES_HUB_TEMPLATE_PATH)) {
+        return;
+    }
+    const template = fs.readFileSync(GUIDES_HUB_TEMPLATE_PATH, 'utf8');
+    const hub = siteData.guides?.hub || {};
+    const previewImage = getPreviewImageUrl(DEFAULT_LANGUAGE);
+    const items = guides.map((guide) => ({
+        slug: guide.slug,
+        url: guideUrlForSlug(guide.slug),
+        title: guide.card_title || guide.h1,
+        summary: guide.card_summary || guide.quick_answer,
+        eyebrow: guide.eyebrow,
+        screenshot_src: guide.screenshot?.src,
+        screenshot_alt: guide.screenshot?.alt
+    }));
+
+    const data = {
+        ...siteData,
+        page_type: 'hub',
+        guides: { ...siteData.guides, items, hub_url: GUIDES_HUB_URL, hub },
+        meta: {
+            ...siteData.meta,
+            title: hub.title,
+            description: hub.description,
+            canonical: GUIDES_HUB_URL,
+            og_url: GUIDES_HUB_URL,
+            twitter_url: GUIDES_HUB_URL,
+            og_title: hub.h1,
+            og_description: hub.description,
+            twitter_title: hub.h1,
+            twitter_description: hub.description,
+            og_image: previewImage,
+            twitter_image: previewImage,
+            alternate_languages: [{ code: 'en', hreflang: 'en', lang: 'en', url: GUIDES_HUB_URL }],
+            alternate_default: GUIDES_HUB_URL,
+            language_links: null,
+            html_lang: 'en',
+            html_dir: 'ltr',
+            lang: 'en'
+        },
+        seo: {
+            ...siteData.seo,
+            structured_data: {
+                collection: {
+                    '@context': 'https://schema.org',
+                    '@type': 'CollectionPage',
+                    name: hub.h1,
+                    description: stripHtml(hub.description),
+                    url: GUIDES_HUB_URL,
+                    dateModified: BUILD_DATE_ISO,
+                    inLanguage: 'en',
+                    isPartOf: { '@type': 'WebSite', name: siteData.header?.app_name || DEFAULT_SITE_NAME, url: SITE_URL }
+                },
+                item_list: {
+                    '@context': 'https://schema.org',
+                    '@type': 'ItemList',
+                    itemListElement: items.map((item, index) => ({
+                        '@type': 'ListItem',
+                        position: index + 1,
+                        name: stripHtml(item.title),
+                        url: item.url
+                    }))
+                },
+                breadcrumb_list: {
+                    '@context': 'https://schema.org',
+                    '@type': 'BreadcrumbList',
+                    itemListElement: [
+                        { '@type': 'ListItem', position: 1, name: 'Home', item: SITE_URL },
+                        { '@type': 'ListItem', position: 2, name: 'Guides', item: GUIDES_HUB_URL }
+                    ]
+                }
+            }
+        }
+    };
+
+    const outputPath = path.join(ROOT_DIR, GUIDES_PATH_SEGMENT, 'index.html');
+    ensureDirectoryExists(path.dirname(outputPath));
+    fs.writeFileSync(outputPath, renderTemplate(template, data, 'guides-hub'), 'utf8');
+    console.log(`✅ Built guides hub -> ${outputPath}`);
+    console.log();
+}
+
+/* ------------------------------------------------------------------ */
 
 function main() {
     const missing = getMissingTranslationFiles();
@@ -659,16 +1194,27 @@ function main() {
     writeUrlsFile();
 
     const template = fs.readFileSync(TEMPLATE_PATH, 'utf8');
-    const defaultData = preparePageData(readJsonFile(getJsonPath(DEFAULT_LANGUAGE)), DEFAULT_LANGUAGE);
-    writeLlmsFile(defaultData);
+    const guides = readGuides();
+    const defaultRaw = readJsonFile(getJsonPath(DEFAULT_LANGUAGE));
+    const defaultData = preparePageData(JSON.parse(JSON.stringify(defaultRaw)), DEFAULT_LANGUAGE);
+    writeLlmsFile(defaultData, guides);
 
     for (const lang of LANGUAGES) {
         try {
-            buildPage(template, lang);
+            buildPage(template, lang, { defaultRaw, guides });
         } catch (error) {
             console.error(`❌ Error building ${lang}:`, error.message);
             process.exit(1);
         }
+    }
+    console.log();
+
+    try {
+        buildGuides(guides, defaultData);
+        buildGuidesHub(guides, defaultData);
+    } catch (error) {
+        console.error('❌ Error building guides:', error.message);
+        process.exit(1);
     }
 }
 

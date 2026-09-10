@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const jsonld = require('jsonld');
 
-const { LANGUAGES, DEFAULT_LANGUAGE, EXPECTED_JSON_LD_TYPES } = require('../constants');
+const { listPages } = require('./pages');
 
 /** schema.org root URL does not return a JSON-LD context document; use the official context file. */
 const SCHEMA_ORG_CONTEXT_URL = 'https://schema.org/docs/jsonldcontext.json';
@@ -138,13 +138,9 @@ function checkDuplicatesInBlock(obj, path = '', duplicates = []) {
 async function validateJsonLD() {
   const projectRoot = path.join(__dirname, '..', '..');
   const results = [];
+  const pages = listPages();
 
-  for (const lang of LANGUAGES) {
-    const htmlPath = path.join(
-      projectRoot,
-      lang === DEFAULT_LANGUAGE ? 'index.html' : `${lang}/index.html`
-    );
-
+  for (const { id: lang, file: htmlPath, expectedJsonLdTypes } of pages) {
     if (!fs.existsSync(htmlPath)) {
       results.push({
         ok: false,
@@ -241,7 +237,7 @@ async function validateJsonLD() {
       }
     }
 
-    const missing = (EXPECTED_JSON_LD_TYPES || []).filter((t) => !foundTypes.has(t));
+    const missing = (expectedJsonLdTypes || []).filter((t) => !foundTypes.has(t));
     if (missing.length) {
       results.push({
         ok: false,
@@ -252,7 +248,7 @@ async function validateJsonLD() {
   }
 
   if (results.length === 0) {
-    console.log(`✅ JSON-LD validation OK: all blocks parse correctly in ${LANGUAGES.length} page(s)`);
+    console.log(`✅ JSON-LD validation OK: all blocks parse correctly in ${pages.length} page(s)`);
     return { ok: true };
   }
 

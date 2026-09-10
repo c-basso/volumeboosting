@@ -46,13 +46,34 @@
     "footnote_item4": "klipove na društvenim mrežama",
     "footnote_last_joiner": " i ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Pojačanje zvuka na iPhoneu — pojačaj zvuk i video"
+    "device_image_alt": "Increase Volume – Pojačanje zvuka na iPhoneu — pojačaj zvuk i video",
+    "cta_secondary_link": "Pogledaj kako radi",
+    "proof_aria": "Činjenice o aplikaciji",
+    "proof": [
+      {
+        "value": "4,5★",
+        "label": "118 ocjena u App Storeu"
+      },
+      {
+        "value": "10×",
+        "label": "najveće pojačanje glasnoće"
+      },
+      {
+        "value": "Zvuk + video",
+        "label": "MP3, MP4, MOV, glasovne bilješke"
+      },
+      {
+        "value": "Na uređaju",
+        "label": "ništa se ne prenosi na poslužitelje"
+      }
+    ]
   },
   "wave": {
     "before_label": "Prije",
     "after_label": "Poslije",
     "before_text": "Tih, ravan izvorni zvuk",
-    "after_text": "Pojačan, pun i čist zvuk"
+    "after_text": "Pojačan, pun i čist zvuk",
+    "toggle_aria": "Prebaci između izvornog i pojačanog valnog oblika"
   },
   "sections": {
     "features_uses_aria": "Značajke i načini uporabe",
@@ -157,7 +178,11 @@
     "last_updated_label": "Stranica posljednji put ažurirana:",
     "privacy_link": "Pravila privatnosti",
     "terms_link": "Uvjeti korištenja",
-    "app_store_link_text": "Pogledaj u App Storeu"
+    "app_store_link_text": "Pogledaj u App Storeu",
+    "tagline": "Pojačivač glasnoće za iPhone koji pojačava datoteku, a ne samo zvučnik.",
+    "links_aria": "Podnožje",
+    "guides_link_text": "Vodiči",
+    "languages_label": "Ova stranica na drugim jezicima"
   },
   "seo": {
     "breadcrumb_home": "Početna",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "Aplikacija za iPhone koja uvozi audio ili video, primjenjuje do ~10× glasnoću s kontrolama basa i jasnoće te izvozi glasniju datoteku za spremanje i dijeljenje. Obrada na uređaju; ne mijenja globalnu sustavsku glasnoću."
+        "description": "Aplikacija za iPhone koja uvozi audio ili video, primjenjuje do ~10× glasnoću s kontrolama basa i jasnoće te izvozi glasniju datoteku za spremanje i dijeljenje. Obrada na uređaju; ne mijenja globalnu sustavsku glasnoću.",
+        "featureList": [
+          "Pojačanje glasnoće videa i zvuka do 10× (1000 %)",
+          "Radi s MP3, M4A glasovnim bilješkama, MP4 i MOV videom",
+          "Usporedba Izvorno/Obrađeno prije spremanja",
+          "Neobavezno poboljšanje kvalitete zvuka",
+          "Stvaranje projekta iz lista za dijeljenje aplikacije Fotografije",
+          "Spremanje u Fotografije ili Datoteke i dijeljenje u bilo koju aplikaciju",
+          "Čuvanje više projekata"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "Spremanje i dijeljenje",
             "text": "Spremi pojačanu datoteku natrag na uređaj i podijeli je bilo gdje."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Aplikacija Increase Volume – Pojačanje zvuka za iPhone"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Glavna navigacija",
+    "how_it_works": "Kako radi",
+    "screenshots": "Snimke zaslona",
+    "guides": "Vodiči",
+    "faq": "FAQ",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "Preuzmi",
+    "title": "Preuzmi Increase Volume – Pojačanje zvuka u App Storeu",
+    "subtitle": "Audio & Music Booster · Kategorija Glazba · iPhone",
+    "price": "Besplatno",
+    "price_note": "Neobavezne kupnje unutar aplikacije (besplatni probni period ili jednokratna doživotna licenca)",
+    "rating_line": "4,5 ★ · 118 ocjena u App Storeu",
+    "qr_alt": "QR kod koji vodi na Increase Volume – Pojačanje zvuka u App Storeu",
+    "qr_label": "Skeniraj kamerom iPhonea",
+    "requirements": "Zahtijeva iOS 18.6 ili noviji · 26,8 MB · Hrvatski + 30 drugih jezika · Dob 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Snimke zaslona",
+    "title": "Kako aplikacija izgleda na tvom iPhoneu",
+    "intro": "Isti zasloni koje ćeš vidjeti u App Storeu: jedan klizač, usporedba Izvorno/Obrađeno i list za dijeljenje koji glasniju datoteku šalje kamo god trebaš.",
+    "aria": "Snimke zaslona aplikacije, pomiči vodoravno",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Promotivna slika Increase Volume: pojačivač glasnoće i zvuka, do deset puta glasnije",
+        "caption": "Pojačivač glasnoće i zvuka: do 10× glasnije."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Video player u Increase Volume, prst povlači ružičasti klizač pojačanja kako bi video bio glasniji",
+        "caption": "Pojačaj video: povuci klizač na pretpregledu videa."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume obrađuje MP3 datoteku i prikazuje naziv, veličinu i trajanje",
+        "caption": "Pojačaj glazbu: MP3 i druge audio datoteke obrađuju se na uređaju."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Detalji zapisa s prekidačem „Poboljšaj kvalitetu zvuka“, klizačem „Množitelj glasnoće ×10“ i tipkom „Pojačaj glasnoću na ×10“",
+        "caption": "Odaberi jačinu pojačanja: od blagog do 10×."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Zaslon rezultata s tipkom „Preuzmi obrađeno“ i prekidačem Izvorno/Obrađeno",
+        "caption": "Poslušaj rezultat i usporedi ga s izvornikom prije spremanja."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "iOS list za dijeljenje s opcijama Kopiraj, Dodaj oznake i Spremi u Datoteke za pojačani zvuk",
+        "caption": "Preuzmi i podijeli bilo gdje: Fotografije, Datoteke, Poruke, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Popis projekata u Increase Volume s MP3 i MP4 datotekama, veličinom i trajanjem",
+        "caption": "Spremi više projekata i vrati im se kasnije."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "Korak 1: video uvezen u Increase Volume s vidljivim klizačem pojačanja",
+    "step_2_alt": "Korak 2: klizač „Množitelj glasnoće ×10“ i tipka „Pojačaj glasnoću“",
+    "step_3_alt": "Korak 3: iOS list za dijeljenje s opcijom „Spremi u Datoteke“ za pojačanu datoteku"
+  },
+  "faq_section": {
+    "eyebrow": "FAQ",
+    "intro": "Najprije kratki odgovori. Svaki vodi na cijeli vodič sa snimkama zaslona.",
+    "learn_more_label": "Saznaj više"
+  },
+  "cta": {
+    "eyebrow": "Spreman?",
+    "title": "Tvoja tiha datoteka, 10× glasnija, za manje od minute.",
+    "text": "Preuzmi Increase Volume – Pojačanje zvuka, uvezi video ili zvuk koji nitko ne čuje, povuci klizač i podijeli glasnu verziju.",
+    "note": "Besplatno preuzimanje · Zahtijeva iOS 18.6 ili noviji · 4,5★ u App Storeu"
   }
 }

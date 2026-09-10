@@ -1,0 +1,128 @@
+{
+  "keyword": "how to make an MP3 louder on iPhone",
+  "priority": 4,
+  "keywords": "make mp3 louder iphone, increase mp3 volume iphone, boost mp3 volume, audio file too quiet iphone, mp3 volume booster app",
+  "title": "How to Make an MP3 Louder on iPhone (No Computer Needed)",
+  "description": "Have a quiet MP3, M4A or WAV on your iPhone? Boost it up to 10× and save a louder copy with Increase Volume, entirely on the phone. Steps, safe levels and FAQs.",
+  "h1": "How to make an MP3 louder on iPhone",
+  "eyebrow": "MP3 & audio files",
+  "card_title": "Make an MP3 louder on iPhone",
+  "card_summary": "Most volume booster apps are video-only. This one boosts MP3, M4A and WAV directly from Files.",
+  "published": "2026-09-10",
+  "quick_answer": "To make an MP3 louder on iPhone, open Increase Volume, add the file from Files (or share it to the app), drag Volume multiplication up to ×10, tap Boost Volume, compare Original and Processed, then tap Download Processed to save the louder MP3 to Files or share it. Everything happens on the phone; no computer, upload or account is needed. Streaming tracks from Apple Music or Spotify cannot be imported because they are copy-protected.",
+  "intro": [
+    "You downloaded a lecture, an old demo, a podcast episode or a ringtone-in-waiting, and it plays noticeably quieter than everything else in your library. On a computer you would open Audacity or a normaliser; on an iPhone the usual advice is “use an online booster”, which means uploading the file and getting back a re-encoded version.",
+    "Increase Volume does the same job locally. It is listed on the App Store as an Audio & Music Booster because, unlike most video volume boosters, it opens plain audio files."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Increase Volume processing an MP3 file on iPhone, showing file name, size and duration",
+    "caption": "The app shows the track's name, size and duration before you boost it."
+  },
+  "sections": [
+    {
+      "heading": "Which audio files you can boost",
+      "paragraphs": [
+        "Anything that is a real file on your iPhone: MP3, M4A/AAC (including Voice Memos exports and WhatsApp voice notes), WAV and other common formats stored in Files, iCloud Drive, Dropbox or received via Messages and Mail. The app reads the file's metadata and shows the artist and track name where available."
+      ],
+      "note": "Not possible: songs streamed or downloaded inside Apple Music, Spotify or YouTube Music. Those are encrypted and cannot be opened by any third-party app. For streaming, use the service's own EQ or Sound Check."
+    },
+    {
+      "heading": "How much boost an MP3 can take",
+      "paragraphs": [
+        "MP3s ripped from CDs or bought from stores are usually already close to full level and will clip if pushed hard; ×1.5–×2 is plenty. Podcasts, lectures, voice recordings and old demos often sit 10–20 dB below full scale and take ×4–×10 comfortably. The Original/Processed toggle lets you test the loudest passage before saving."
+      ]
+    },
+    {
+      "heading": "Increase Volume vs online MP3 boosters",
+      "table": {
+        "head": [
+          "",
+          "Online booster",
+          "Increase Volume"
+        ],
+        "rows": [
+          [
+            "Where the file goes",
+            "Uploaded to a server",
+            "Stays on your iPhone"
+          ],
+          [
+            "Re-encoding",
+            "Usually to a fixed, lower bitrate",
+            "Processed locally"
+          ],
+          [
+            "File size limits",
+            "Common (e.g. 50–500 MB)",
+            "Limited by phone storage"
+          ],
+          [
+            "Preview before saving",
+            "Rarely",
+            "Original / Processed toggle"
+          ],
+          [
+            "Speech enhancement",
+            "Sometimes",
+            "Improve Audio Quality toggle"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: boost an MP3",
+    "intro": "You need the MP3 saved in Files (or in an app that can share it) and the free Increase Volume app.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Add the MP3",
+        "text": "Open Increase Volume and add the file from Files. Or open Files, long-press the MP3, tap Share and choose Increase Volume."
+      },
+      {
+        "name": "Check the details",
+        "text": "Confirm the artist, track, size and duration. For spoken-word files, turn on Improve Audio Quality."
+      },
+      {
+        "name": "Set the multiplier",
+        "text": "Drag Volume multiplication to ×2 for music, ×4–×10 for quiet speech recordings. Tap Boost Volume."
+      },
+      {
+        "name": "Compare",
+        "text": "Toggle Original/Processed on the loudest part. Adjust if the boosted version sounds harsh."
+      },
+      {
+        "name": "Download Processed",
+        "text": "Tap Download Processed, then Save to Files, or share to Mail, Messages or a cloud drive."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Boost a whole set of files (an audiobook's chapters, a lecture series) to the same multiplier so they play back at a consistent level.",
+      "Keep the boosted copies in a dedicated Files folder; the app also keeps each project in its list for later.",
+      "For ringtones, boost first, then trim to 30 seconds in your ringtone maker; a louder source gives a louder ringtone."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Can I make a song from Apple Music or Spotify louder?",
+      "answer": "No third-party app can open streaming downloads; they are encrypted. Increase Volume works on files you own in Files, iCloud Drive or other storage."
+    },
+    {
+      "question": "Will boosting an MP3 lower its quality?",
+      "answer": "The audio is processed once and saved as a new file. Quality only suffers if you boost so far that loud peaks clip; the Original/Processed toggle lets you hear that before saving."
+    },
+    {
+      "question": "Does it work with WAV and M4A too?",
+      "answer": "Yes. Common audio formats are supported alongside MP4 and MOV video."
+    }
+  ],
+  "related": [
+    "how-to-make-music-louder-on-iphone",
+    "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+    "how-to-increase-voice-memo-volume-on-iphone"
+  ]
+}

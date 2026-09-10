@@ -1,0 +1,125 @@
+{
+  "keyword": "how to make a podcast louder on iPhone",
+  "priority": 12,
+  "keywords": "make podcast louder iphone, audiobook too quiet iphone, boost podcast volume, lecture recording too quiet, quiet audiobook fix",
+  "title": "How to Make a Podcast or Audiobook Louder on iPhone",
+  "description": "Quiet podcast episode, audiobook chapter or lecture file? Use your player's voice boost for streams, and boost downloaded files up to 10× with Increase Volume.",
+  "h1": "How to make a podcast or audiobook louder on iPhone",
+  "eyebrow": "Podcasts & audiobooks",
+  "card_title": "Make a podcast or audiobook louder",
+  "card_summary": "Player settings for streams; a real file boost for episodes and chapters you have downloaded as MP3 or M4A.",
+  "published": "2026-09-10",
+  "quick_answer": "For episodes you stream in a podcast app, use the app's own loudness feature (Overcast Voice Boost, Pocket Casts Volume Boost, Apple Podcasts has none). For episodes, audiobook chapters or lectures you have as files (MP3, M4A, MP4 in Files or iCloud Drive), open them in Increase Volume, turn on Improve Audio Quality, boost ×3–×10, compare Original and Processed, and tap Download Processed to save a louder copy you can play in any app.",
+  "intro": [
+    "Spoken-word audio has a loudness problem: podcasts are supposed to be mastered around −16 LUFS, but independent shows, university lecture recordings and older audiobooks are often far quieter, and one quiet guest can be buried under a loud host. On a commute or in a car, that means constantly reaching for the volume.",
+    "The right fix depends on where the audio lives: inside a streaming app, or as a file you control."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Increase Volume project list on iPhone showing several MP3 and video files with size and duration",
+    "caption": "Boost a whole series of episodes or chapters; each one stays in the project list."
+  },
+  "sections": [
+    {
+      "heading": "Streaming inside a podcast app",
+      "paragraphs": [
+        "You cannot edit audio that lives inside a streaming app, but several players apply real-time loudness processing:"
+      ],
+      "list": [
+        "Overcast: Voice Boost normalises and compresses speech; turn it on per show or globally.",
+        "Pocket Casts: Volume Boost and Trim Silence in the playback effects.",
+        "Castro, Spotify: Spotify has Normalize volume (Settings → Playback); Castro has Enhance Voices.",
+        "Apple Podcasts: no loudness feature. Use Settings → Music → Sound Check for music only; it does not apply to Podcasts."
+      ],
+      "note": "These features only work while playing inside that app. They do not change the file, so nothing improves if you move the episode elsewhere."
+    },
+    {
+      "heading": "Files you have downloaded",
+      "paragraphs": [
+        "Many podcasts offer a direct MP3 download from their website, lecture platforms export MP3 or MP4, and DRM-free audiobooks (Libro.fm, Downpour, LibriVox, your own rips) arrive as MP3 or M4B. Once a file is in Files or iCloud Drive, Increase Volume can open it, multiply the level up to ×10, and save a new copy. The Improve Audio Quality toggle is designed for speech, which makes this the ideal case for it."
+      ],
+      "note": "Audible, Apple Books and Kindle audiobooks, and downloads inside Apple Podcasts or Spotify, are copy-protected and cannot be imported by any third-party app."
+    },
+    {
+      "heading": "Choosing a multiplier for spoken word",
+      "table": {
+        "head": [
+          "Source",
+          "Typical multiplier"
+        ],
+        "rows": [
+          [
+            "Professionally produced podcast that is just a bit soft",
+            "×1.5 – ×2"
+          ],
+          [
+            "Independent show or interview with a quiet guest",
+            "×3 – ×5"
+          ],
+          [
+            "Lecture or meeting recording made from a distance",
+            "×6 – ×10"
+          ],
+          [
+            "Old audiobook rip",
+            "×2 – ×4"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: boost an episode or chapter",
+    "intro": "For files in Files, iCloud Drive, Dropbox or received by mail.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Add the file",
+        "text": "Open Increase Volume and add the episode from Files, or long-press the file in Files → Share → Increase Volume."
+      },
+      {
+        "name": "Turn on Improve Audio Quality",
+        "text": "It is speech; the toggle keeps consonants clear when boosted."
+      },
+      {
+        "name": "Set the multiplier",
+        "text": "Use the table above as a guide, then tap Boost Volume."
+      },
+      {
+        "name": "Compare",
+        "text": "Toggle Original/Processed on the loudest part (intro music, a laugh)."
+      },
+      {
+        "name": "Download Processed",
+        "text": "Save to Files. Play the boosted file in Files, in the Books app (for audiobooks) or in any player that opens local audio."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Boost all chapters of an audiobook at the same multiplier so the level stays consistent between chapters.",
+      "For video lectures (MP4), the same steps apply; the picture is untouched.",
+      "If a file has loud intro music and quiet speech, choose the multiplier for the speech and accept slightly compressed intro music with Improve Audio Quality on."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Can I make Apple Podcasts louder?",
+      "answer": "Apple Podcasts has no loudness or voice boost setting. Either switch to a player with one (Overcast, Pocket Casts) or download the episode's MP3 from the show's website and boost the file with Increase Volume."
+    },
+    {
+      "question": "Can I boost an Audible audiobook?",
+      "answer": "No. Audible files are encrypted and cannot be opened by other apps. Audible's own player has a limited volume boost in its playback settings."
+    },
+    {
+      "question": "Will the boosted episode still show chapters and cover art?",
+      "answer": "Increase Volume processes the audio and writes a new file. Basic metadata such as title is carried where the format allows; chapter markers may not be preserved."
+    }
+  ],
+  "related": [
+    "how-to-make-mp3-louder-on-iphone",
+    "how-to-increase-voice-memo-volume-on-iphone",
+    "how-to-make-a-video-louder-without-losing-quality"
+  ]
+}

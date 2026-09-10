@@ -1,0 +1,120 @@
+{
+  "keyword": "how to make a TikTok video louder",
+  "priority": 5,
+  "keywords": "make tiktok video louder, tiktok video too quiet, make reels louder, boost video volume before posting, instagram reel audio too quiet",
+  "title": "How to Make a TikTok Video Louder Before Posting (iPhone)",
+  "description": "TikTok and Reels squash quiet audio even further. Boost your clip 2–5× on iPhone before uploading with Increase Volume so your voice is heard on every phone.",
+  "h1": "How to make a TikTok video louder before you post it",
+  "eyebrow": "TikTok & Reels",
+  "card_title": "Make a TikTok or Reel louder",
+  "card_summary": "Platforms normalise on upload but cannot rescue a quiet track. Boost it 2–5× first.",
+  "published": "2026-09-10",
+  "quick_answer": "Boost the video before you upload it. Open the clip in Increase Volume on your iPhone, set Volume multiplication to ×2–×5 (more for very quiet recordings), tap Boost Volume, compare Original and Processed, then Download Processed and upload the boosted file to TikTok or Instagram. TikTok's in-app volume slider is limited and its upload processing cannot recover audio that arrives too quiet.",
+  "intro": [
+    "A TikTok or Reel that nobody can hear gets scrolled past. The problem usually starts in the recording: phone microphones need you within arm's length, wind and traffic eat quiet speech, and screen-recorded gameplay is captured at a low level. Then the platform compresses the upload, and a track that was already quiet ends up thin and buried under the added music.",
+    "The reliable fix is to raise the level of the video file itself before it ever reaches the app. This guide shows how, and how much boost to use."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "iOS share sheet in Increase Volume with Save to Files and sharing options for the boosted video",
+    "caption": "After boosting, share straight to TikTok or save to Photos and upload from there."
+  },
+  "sections": [
+    {
+      "heading": "Why boosting inside TikTok isn't enough",
+      "paragraphs": [
+        "TikTok and Instagram offer a volume slider for the original sound, but it is designed for balancing against added music, not for rescuing a quiet recording. Both platforms also normalise loudness on upload (TikTok targets roughly −14 LUFS), which levels *average* loudness but cannot lift a whisper to speech level without also raising noise. If the source is quiet, the published result is quiet."
+      ]
+    },
+    {
+      "heading": "How much boost to use",
+      "paragraphs": [
+        "For talking-head clips that are merely soft, ×2–×3 is usually right. For clips recorded from a distance, in wind, or via screen recording, ×4–×6. Reserve ×8–×10 for recordings you can barely hear. Over-boosting a clip that already has loud moments makes those moments clip, and the platform's own compression will then exaggerate the harshness."
+      ],
+      "table": {
+        "head": [
+          "Your clip",
+          "Suggested multiplier"
+        ],
+        "rows": [
+          [
+            "Talking to camera, phone in hand",
+            "×2 – ×3"
+          ],
+          [
+            "Recorded across a room or outdoors",
+            "×4 – ×6"
+          ],
+          [
+            "Screen recording of gameplay or a tutorial",
+            "×5 – ×10"
+          ],
+          [
+            "Music video where the music is fine but the voice is low",
+            "×2 with Improve Audio Quality on"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Why a dedicated booster beats CapCut or iMovie here",
+      "paragraphs": [
+        "Editors can raise volume too, but iMovie stops at about 500% and both require a project, a timeline and a re-export. Increase Volume opens the clip straight from Photos, gives you one slider to ×10, an Original/Processed comparison, and a share sheet that goes directly to TikTok, Instagram or back to Photos. It is a one-minute step you can slot in before your usual editing."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: boost a clip for TikTok or Reels",
+    "intro": "Do this on the finished clip, before uploading.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Send the clip to Increase Volume",
+        "text": "In Photos, open the video, tap Share, choose Increase Volume. The project opens with the file details."
+      },
+      {
+        "name": "Enable Improve Audio Quality for speech",
+        "text": "If your voice is the point of the clip, switch the toggle on before boosting."
+      },
+      {
+        "name": "Choose the multiplier",
+        "text": "Start at ×3, tap Boost Volume, and flip between Original and Processed on the loudest part. Adjust until it is clearly loud without harshness."
+      },
+      {
+        "name": "Download Processed",
+        "text": "Tap Download Processed, then Save Video (so the boosted clip sits next to the original in Photos) or share straight to TikTok or Instagram."
+      },
+      {
+        "name": "Upload and check the sound settings",
+        "text": "In TikTok, upload the boosted clip. If you add a sound, lower the added music rather than raising your voice again."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips for louder, cleaner social clips",
+    "items": [
+      "Record within 30 cm (12 in) of the phone whenever you can; distance is the number one cause of quiet speech.",
+      "Post a private test first: upload the boosted clip as private, play it on the phone speaker, and adjust if needed.",
+      "Keep the original. Increase Volume always writes a new file, so you can re-boost at a different level."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Can I make a TikTok louder after posting it?",
+      "answer": "No. Once uploaded the audio is processed and fixed. Download or locate your original clip, boost it with Increase Volume, and re-upload."
+    },
+    {
+      "question": "Does this work for Instagram Reels and YouTube Shorts too?",
+      "answer": "Yes. The boost is written into the video file, so it applies wherever you upload the file: Reels, Shorts, Snapchat, WhatsApp status."
+    },
+    {
+      "question": "Will the boosted clip get flagged or lose quality?",
+      "answer": "No. The picture is untouched and the audio is a normal, louder track. Platforms re-encode every upload anyway."
+    }
+  ],
+  "related": [
+    "how-to-make-a-video-louder-on-iphone",
+    "how-to-make-a-video-louder-without-losing-quality",
+    "how-to-boost-video-volume-from-the-photos-app"
+  ]
+}

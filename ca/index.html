@@ -136,27 +136,14 @@
     <meta name="twitter:image:width" content="1026" />
     <meta name="twitter:image:height" content="539" />
 
-    <link
-      rel="preconnect"
-      href="https://apps.apple.com"
-    />
-    <link
-      rel="preconnect"
-      href="https://fonts.googleapis.com"
-    />
-    <link
-      rel="preconnect"
-      href="https://fonts.gstatic.com"
-      crossorigin
-    />
-    <link
-      rel="preconnect"
-      href="https://mc.yandex.ru"
-    />
+    <link rel="preconnect" href="https://apps.apple.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://mc.yandex.ru" />
     <link rel="dns-prefetch" href="https://apps.apple.com" />
     <link rel="dns-prefetch" href="https://mc.yandex.ru" />
     <link
-      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Instrument+Sans:wght@400;500;600&display=swap"
       rel="stylesheet"
     />
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico" />
@@ -172,101 +159,116 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1789027622208"
+      href="/style.css?v=1789035383954"
     />
+    <script>document.documentElement.classList.add('js');</script>
+
   </head>
-  <body>
+  <body class="page-home">
+    <div class="bg-grid" aria-hidden="true"></div>
     <div class="noise-layer" aria-hidden="true"></div>
     <div class="page-shell">
-      <header>
-        <div class="brand">
-          <div class="brand-logo">
+      <header class="site-header">
+        <a class="brand" href="https://volumeboosting.com/ca/" aria-label="Increase Volume – Potència de so">
+          <span class="brand-logo">
             <img
               src="/img/logo.webp"
               alt="Icona de l'app Increase Volume – Potència de so"
-              width="80"
-              height="80"
+              width="44"
+              height="44"
               loading="eager"
               decoding="async"
             />
-          </div>
-          <div class="brand-text">
-            <div class="brand-name">Volume Booster</div>
-            <div class="brand-subtitle">Potència de so per a iPhone</div>
-          </div>
-        </div>
-        <div class="apple-pill">
-          <div class="apple-dot"></div>
-          <span>Fet per a iPhone · app Música</span>
-        </div>
+          </span>
+          <span class="brand-text">
+            <span class="brand-name">Volume Booster</span>
+            <span class="brand-subtitle">Potència de so per a iPhone</span>
+          </span>
+        </a>
+        <nav class="site-nav" aria-label="Navegació principal">
+          <a href="https://volumeboosting.com/ca/#how-it-works">Com funciona</a>
+          <a href="https://volumeboosting.com/ca/#screenshots">Captures</a>
+          
+          <a href="https://volumeboosting.com/ca/#faq">FAQ</a>
+        </nav>
+        <a
+          class="header-cta"
+          href="https://apps.apple.com/app/id6741472421"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Descarrega Increase Volume – Potència de so a l'App Store"
+        >
+          <svg class="apple-mark" width="14" height="17" viewBox="14 8 14 26" aria-hidden="true"><path fill="currentColor" d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"/><path fill="currentColor" d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"/></svg>
+          <span>App Store</span>
+        </a>
       </header>
 
-      <main>
+
+      <main id="main">
+        <!-- ============ HERO ============ -->
         <section class="hero" aria-labelledby="hero-heading">
           <div class="hero-copy">
-          <div class="hero-kicker">
-            <div class="pill-spark">10x</div>
-            <span>Converteix vídeos i àudios baixos en un so alt i nítid</span>
-          </div>
-          <h1 id="hero-heading">
-            Fes que qualsevol àudio o vídeo soni
-            <span class="hero-title-highlight">fins a ~10× més fort</span>
-             sense perdre claredat.
-          </h1>
-          <p class="hero-subtitle">
-            Increase Volume – Potència de so és l'amplificador de volum per a iPhone: deixa els fitxers permanentment més alts, no només la reproducció una mica més forta. Corregeix en segons gravacions de pantalla, podcasts i vídeos baixos: so net, potent i amb greus amb cos.
-          </p>
-
-          <div class="hero-metadata">
-            <span><span class="metadata-dot"></span> Només per a iPhone</span>
-            <span>Ràpid, senzill i respectuós amb la privacitat</span>
-          </div>
+            <div class="hero-kicker">
+              <span class="sticker">10x</span>
+              <span>Converteix vídeos i àudios baixos en un so alt i nítid</span>
+            </div>
+            <h1 id="hero-heading">
+              Fes que qualsevol àudio o vídeo soni
+              <span class="hero-title-highlight">fins a ~10× més fort</span>
+               sense perdre claredat.
+            </h1>
+            <p class="hero-subtitle">Increase Volume – Potència de so és l'amplificador de volum per a iPhone: deixa els fitxers permanentment més alts, no només la reproducció una mica més forta. Corregeix en segons gravacions de pantalla, podcasts i vídeos baixos: so net, potent i amb greus amb cos.</p>
 
             <div class="cta-row">
               <div class="cta-actions">
-              <img
-                class="cta-qr"
-                src="/img/app-store-qr.png"
-                alt="Descarrega Increase Volume – Potència de so a l'App Store"
-                width="104"
-                height="104"
-                loading="lazy"
-                decoding="async"
-              />
               <a
                 class="cta-primary"
-              href="https://apps.apple.com/app/id6741472421"
+                href="https://apps.apple.com/app/id6741472421"
                 target="_blank"
                 rel="noopener noreferrer"
-              aria-label="Descarrega Increase Volume – Potència de so a l'App Store"
+                aria-label="Descarrega Increase Volume – Potència de so a l'App Store"
               >
-              <svg
-                class="cta-apple-icon"
-                width="18"
-                height="22"
-                viewBox="14 8 14 26"
-                aria-hidden="true"
-              >
-                <path
-                  fill="currentColor"
-                  d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
-                />
-                <path
-                  fill="currentColor"
-                  d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
-                />
-              </svg>
-              <span>Descarrega a l'App Store</span>
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>Descarrega a l'App Store</span>
               </a>
+
+                <a class="cta-ghost" href="#how-it-works">Mira com funciona</a>
               </div>
-              <div class="cta-secondary">
-              Reforça el teu primer vídeo <strong>gratuïtament</strong>, i conserva aquest nivell de volum per sempre.
-              </div>
+              <p class="cta-secondary">
+                Reforça el teu primer vídeo <strong>gratuïtament</strong>, i conserva aquest nivell de volum per sempre.
+              </p>
             </div>
 
+            <ul class="proof-row" aria-label="Dades de l'app">
+              
+              <li><strong>4,5★</strong><span>118 valoracions a l'App Store</span></li>
+              
+              <li><strong>10×</strong><span>multiplicació màxima del volum</span></li>
+              
+              <li><strong>Àudio + vídeo</strong><span>MP3, MP4, MOV, notes de veu</span></li>
+              
+              <li><strong>Al dispositiu</strong><span>no es puja res</span></li>
+              
+            </ul>
+
             <p class="hero-footnote">
-            Ideal per a <span>notes de veu baixes</span>, <span>pel·lícules</span>,
-            <span>música</span> i <span>clips per a xarxes socials</span>.
+              Ideal per a <span>notes de veu baixes</span>, <span>pel·lícules</span>,
+              <span>música</span> i <span>clips per a xarxes socials</span>.
             </p>
           </div>
 
@@ -275,323 +277,655 @@
               <div class="device-column">
                 <div class="device-frame">
                   <div class="device-screen">
-                  <img
-                    src="/img/screenshots/1.webp"
-                    alt="Increase Volume – Potència de so a l'iPhone — puja el volum d'àudio i vídeo"
-                    width="460"
-                    height="995"
-                    loading="lazy"
-                    decoding="async"
-                  />
+                    <img
+                      src="/img/screenshots/1.webp"
+                      alt="Increase Volume – Potència de so a l'iPhone — puja el volum d'àudio i vídeo"
+                      width="460"
+                      height="995"
+                      loading="eager"
+                      fetchpriority="high"
+                      decoding="async"
+                    />
                   </div>
                 </div>
               </div>
               <div class="device-column wave-panel active" id="wavePanel">
                 <div class="wave-header">
                   <div class="wave-toggle-container">
-                  <span class="wave-toggle-label">Abans</span>
-                    <div class="wave-toggle active" id="waveToggle" role="switch" aria-checked="true" tabindex="0">
+                    <span class="wave-toggle-label">Abans</span>
+                    <div class="wave-toggle active" id="waveToggle" role="switch" aria-checked="true" tabindex="0" aria-label="Alterna entre la forma d'onda original i la reforçada">
                       <div class="wave-toggle-handle"></div>
                     </div>
-                  <span class="wave-toggle-label">Després</span>
+                    <span class="wave-toggle-label">Després</span>
                   </div>
                 </div>
                 <div class="wave-bars" aria-hidden="true">
-                  <!-- Wave bars - heights will be controlled by CSS based on state -->
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
                 </div>
-              <div class="wave-footer">
-                <div class="wave-footer-col">
-                  <div class="wave-footer-label">Abans</div>
-                  <div class="wave-footer-text">Àudio original baix i pla</div>
+                <div class="wave-footer">
+                  <div class="wave-footer-col">
+                    <div class="wave-footer-label">Abans</div>
+                    <div class="wave-footer-text">Àudio original baix i pla</div>
+                  </div>
+                  <div class="wave-footer-col">
+                    <div class="wave-footer-label">Després</div>
+                    <div class="wave-footer-text">So amplificat, complet i clar</div>
+                  </div>
                 </div>
-                <div class="wave-footer-col">
-                  <div class="wave-footer-label">Després</div>
-                  <div class="wave-footer-text">So amplificat, complet i clar</div>
-                </div>
-              </div>
+                <div class="wave-multiplier" aria-hidden="true">×10</div>
               </div>
             </div>
           </div>
         </section>
 
+        <!-- ============ SUMMARY (GEO) ============ -->
         <aside class="geo-summary" aria-label="Què és aquesta app">
           <p class="geo-summary-lead">En resum: Increase Volume – Potència de so és una app per a iPhone (categoria «Música» a l'App Store) que processa àudio i vídeo al dispositiu, aplica guany fins a ~10× amb ajustos de claredat i greus, i desa un fitxer nou més fort per conservar o compartir. No serveix per saltar-se el límit de volum de l'altaveu a tot el sistema.</p>
           <p class="geo-summary-body">Publicada a l'App Store per c-basso. Aborda la mateixa necessitat que augmentar el volum de podcasts, notes de veu, gravacions de pantalla i clips baixos de xarxes: objectius semblants a la normalització en editors d'escriptori, però optimitzada per a un flux breu a iOS basat en tocs.</p>
         </aside>
 
-        <section class="sections geo-geo-row" aria-label="Dades i comparació">
-          <article class="card">
-            <h2>En xifres</h2>
-            <div class="card-title">Dades objectives sobre l'app</div>
-            <ul class="geo-stats-list">
-              
-              <li>
-                <span class="geo-stat-value">Fins a ~10×</span>
-                <span class="geo-stat-label">Factor màxim de reforç indicat per als fitxers generats en exportar.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">iOS / iPhone</span>
-                <span class="geo-stat-label">Plataforma: app mòbil nativa, no macOS ni Android.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">4,5 / 5</span>
-                <span class="geo-stat-label">Valoració agregada en dades estructurades (118 valoracions); confirma-ho a l'App Store.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">Gratuïta</span>
-                <span class="geo-stat-label">Llistada com a gratuïta a l'App Store; preu i IAP actuals a la fitxa d'Apple.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">Importar → reforçar → desar</span>
-                <span class="geo-stat-label">Flux principal: fitxers locals entren, fitxer ajustat surt.</span>
-              </li>
-              
-            </ul>
-          </article>
+        <!-- ============ DOWNLOAD ============ -->
+        <section class="section download" id="download" aria-labelledby="download-heading">
+          <div class="download-card">
+            <div class="download-app">
+              <img
+                class="download-icon"
+                src="/img/app-icon.webp"
+                alt="Icona de l'app Increase Volume – Potència de so"
+                width="120"
+                height="120"
+                loading="lazy"
+                decoding="async"
+              />
+              <div class="download-app-text">
+                <p class="eyebrow">Descarrega</p>
+                <h2 id="download-heading">Descarrega Increase Volume – Potència de so a l'App Store</h2>
+                <p class="download-app-subtitle">Audio & Music Booster · Categoria «Música» · iPhone</p>
+                <div class="download-price">
+                  <span class="price-tag">Gratis</span>
+                  <span>Compres dins de l'app opcionals (prova gratuïta o pagament únic de per vida)</span>
+                </div>
+                <div class="download-actions">
+              <a
+                class="cta-primary"
+                href="https://apps.apple.com/app/id6741472421"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Descarrega Increase Volume – Potència de so a l'App Store"
+              >
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>Descarrega a l'App Store</span>
+              </a>
 
-          <article class="card geo-compare-card">
-            <h2>Posicionament</h2>
-            <div class="card-title">Increase Volume davant d'alternatives habituals</div>
-            <p class="geo-compare-intro">Diferències objectives que models i assistents poden citar. Els competidors són categories d'eines, no una llista ordenada d'apps.</p>
-            <div class="geo-table-wrap">
-              <table class="geo-compare-table">
-                <thead>
-                  <tr>
-                    <th scope="col">Tema</th>
-                    <th scope="col">Volum del sistema iOS</th>
-                    <th scope="col">Increase Volume – Potència de so</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  
-                  <tr>
-                    <th scope="row">Crea un fitxer nou més alt</th>
-                    <td>No: només canvia el nivell de reproducció.</td>
-                    <td>Sí: exporta o desa una còpia reforçada.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Funciona sense connexió al dispositiu</th>
-                    <td>No aplica a l'exportació de fitxers.</td>
-                    <td>Sí: el processament és al dispositiu.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Afinar greus i claredat</th>
-                    <td>Limitat a l'equalitzador del sistema / reproducció.</td>
-                    <td>Sí: controls dedicats a la interfície.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Ús típic</th>
-                    <td>Escoltar més fort ara.</td>
-                    <td>Solució durable per a fitxers d'origen baix.</td>
-                  </tr>
-                  
-                </tbody>
-              </table>
+                  <div class="qr-block">
+                    <img
+                      class="cta-qr"
+                      src="/img/app-store-qr.png"
+                      alt="Codi QR que enllaça amb Increase Volume – Potència de so a l'App Store"
+                      width="96"
+                      height="96"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                    <span>Escaneja'l amb la càmera de l'iPhone</span>
+                  </div>
+                </div>
+                <p class="download-requirements">Requereix iOS 18.6 o posterior · 26,8 MB · Català + 30 idiomes més · Edat 4+</p>
+              </div>
             </div>
-          </article>
+            <div class="download-facts">
+              <h3 class="facts-title">Dades objectives sobre l'app</h3>
+              <ul class="geo-stats-list">
+                
+                <li>
+                  <span class="geo-stat-value">Fins a ~10×</span>
+                  <span class="geo-stat-label">Factor màxim de reforç indicat per als fitxers generats en exportar.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">iOS / iPhone</span>
+                  <span class="geo-stat-label">Plataforma: app mòbil nativa, no macOS ni Android.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">4,5 / 5</span>
+                  <span class="geo-stat-label">Valoració agregada en dades estructurades (118 valoracions); confirma-ho a l'App Store.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">Gratuïta</span>
+                  <span class="geo-stat-label">Llistada com a gratuïta a l'App Store; preu i IAP actuals a la fitxa d'Apple.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">Importar → reforçar → desar</span>
+                  <span class="geo-stat-label">Flux principal: fitxers locals entren, fitxer ajustat surt.</span>
+                </li>
+                
+              </ul>
+              <blockquote class="download-quote">
+                <p>«Funciona bé i és senzilla.» – ressenya a l'App Store</p>
+              </blockquote>
+            </div>
+          </div>
         </section>
 
-        <section class="sections" aria-label="Funcions i usos">
-          <article class="card">
-            <h2>Què fa</h2>
-            <div class="card-title">
-              Converteix gravacions baixes en <span>un so fort i còmode d'escoltar</span>.
-            </div>
-            <p>
-              Increase Volume – Potència de so agafa qualsevol fitxer d'àudio o vídeo al teu iPhone i el deixa notablement més alt, mantenint claredat i comprensió. Sense controls confusos i sense necessitat de saber editar.
-            </p>
-            <div class="pill-row">
-              <div class="pill">Reforça vídeos des de l'app Fotos</div>
-              <div class="pill">Música, podcasts i notes de veu</div>
-              <div class="pill">Greus potents i so nítid</div>
-            </div>
-            <div class="ratings-row">
-              <div class="rating-block">
-                <strong>Valorada pels usuaris</strong>
-                <span>per pujar el volum de vídeos i àudios baixos</span>
-              </div>
-              <div class="rating-block">
-                <strong>Categoria «Música»</strong>
-                <span>a l'App Store</span>
-              </div>
-            </div>
-          </article>
-
-          <article class="card">
-            <h2>Fes-la servir en segons</h2>
-            <div class="card-title">Pujar l'àudio és així de fàcil.</div>
-            <ol class="steps">
-              <li class="step">
-                <div class="step-number">1</div>
-                <div class="step-text">
-                  Importa un vídeo, cançó o gravació, o comença directament des de l'app Fotos.
-                </div>
+        <!-- ============ SCREENSHOTS ============ -->
+        <section class="section screenshots" id="screenshots" aria-labelledby="screenshots-heading">
+          <div class="section-head">
+            <p class="eyebrow">Captures de pantalla</p>
+            <h2 id="screenshots-heading">Així es veu l'app al teu iPhone</h2>
+            <p class="section-intro">Les mateixes pantalles que veuràs a l'App Store: un sol control lliscant, una comparació Original/Processat i un full per compartir que porta el fitxer més alt on el necessitis.</p>
+          </div>
+          <div class="shots-scroller" role="region" aria-label="Captures de l'app, desplaçament horitzontal" tabindex="0">
+            <ol class="shots-track">
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/1.webp"
+                      alt="Imatge promocional d'Increase Volume: amplificador de volum i de so, fins a deu vegades més fort"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">1</span>
+                    <span>Amplificador de volum i de so: fins a 10× més fort.</span>
+                  </figcaption>
+                </figure>
               </li>
-              <li class="step">
-                <div class="step-number">2</div>
-                <div class="step-text">
-                  Arrossega el control lliscant de reforç per ajustar volum, claredat i greus en temps real.
-                </div>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/2.webp"
+                      alt="Reproductor de vídeo a Increase Volume amb un dit arrossegant el control lliscant rosa per pujar el volum del vídeo"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">2</span>
+                    <span>Puja el volum d'un vídeo: arrossega el control sobre la previsualització.</span>
+                  </figcaption>
+                </figure>
               </li>
-              <li class="step">
-                <div class="step-number">3</div>
-                <div class="step-text">
-                  Desa el fitxer reforçat al dispositiu i comparteix-lo on vulguis.
-                </div>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/3.webp"
+                      alt="Increase Volume processant un fitxer MP3 amb el nom, la mida i la durada"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">3</span>
+                    <span>Puja el volum de la música: els MP3 i altres fitxers d'àudio es processen al dispositiu.</span>
+                  </figcaption>
+                </figure>
               </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/4.webp"
+                      alt="Detalls de la pista amb l'interruptor «Millora la qualitat de l'àudio», el control «Multiplicació del volum ×10» i el botó «Reforça el volum a ×10»"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">4</span>
+                    <span>Tria quant vols reforçar, d'un toc suau fins a 10×.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/5.webp"
+                      alt="Pantalla de resultat amb el botó «Descarrega el processat» i el selector Original/Processat"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">5</span>
+                    <span>Escolta el resultat i compara'l amb l'original abans de desar.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/6.webp"
+                      alt="Full per compartir d'iOS amb Copia, Afegeix etiquetes i Desa a Fitxers per a l'àudio reforçat"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">6</span>
+                    <span>Descarrega i comparteix on vulguis: Fotos, Fitxers, Missatges, WhatsApp, AirDrop.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/7.webp"
+                      alt="Llista de projectes d'Increase Volume amb fitxers MP3 i MP4, la seva mida i durada"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">7</span>
+                    <span>Desa diversos projectes i reprèn-los més tard.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
             </ol>
-            <div class="card-label">
-              Ideal per a: gravacions de pantalla, clips de TikTok/Reels, entrevistes, notes de veu i molt més.
-            </div>
-          </article>
+          </div>
         </section>
 
-        <section class="sections" aria-label="Per a qui és i per què agrada">
-          <article class="card">
-            <h2>Per a qui és</h2>
-            <div class="card-title">Si amb el volum de l'iPhone no n'hi ha prou, aquesta app sí.</div>
-            <div class="audience-grid">
-              <span>Qui puja el volum al màxim i encara no sent bé.</span>
-              <span>Creadors que necessiten àudio alt i clar per a xarxes socials.</span>
-              <span>Qui arregla tutorials i gravacions de pantalla amb poc so.</span>
-              <span>Oients que reforcen podcasts, classes o notes de veu.</span>
-            </div>
-          </article>
+        <!-- ============ HOW IT WORKS ============ -->
+        <section class="section how" id="how-it-works" aria-labelledby="how-heading">
+          <div class="section-head">
+            <p class="eyebrow">Fes-la servir en segons</p>
+            <h2 id="how-heading">Pujar l'àudio és així de fàcil.</h2>
+            <p class="section-intro">Increase Volume – Potència de so agafa qualsevol fitxer d'àudio o vídeo al teu iPhone i el deixa notablement més alt, mantenint claredat i comprensió. Sense controls confusos i sense necessitat de saber editar.</p>
+          </div>
+          <ol class="how-steps">
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/2.webp" alt="Pas 1: vídeo importat a Increase Volume amb el control lliscant de reforç visible" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">1</span>
+                <p>Importa un vídeo, cançó o gravació, o comença directament des de l'app Fotos.</p>
+              </div>
+            </li>
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/4.webp" alt="Pas 2: control «Multiplicació del volum ×10» i botó «Reforça el volum»" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">2</span>
+                <p>Arrossega el control lliscant de reforç per ajustar volum, claredat i greus en temps real.</p>
+              </div>
+            </li>
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/6.webp" alt="Pas 3: full per compartir d'iOS amb «Desa a Fitxers» per al fitxer reforçat" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">3</span>
+                <p>Desa el fitxer reforçat al dispositiu i comparteix-lo on vulguis.</p>
+              </div>
+            </li>
+          </ol>
+          <p class="how-label">Ideal per a: gravacions de pantalla, clips de TikTok/Reels, entrevistes, notes de veu i molt més.</p>
 
-          <article class="card">
-            <h2>Per què la conserven</h2>
-            <div class="card-title">
-              «Funciona bé i és senzilla.» – ressenya a l'App Store
-            </div>
-            <p>
-              Increase Volume està pensada per no destorbar-te. Obrir, reforçar, desar, llest: valors per defecte intel·ligents i un disseny net que encaixa amb l'iPhone.
-            </p>
-            <p>
-              Per dins és un potent amplificador de volum i millorador de so que manté l'àudio contundent sense distorsionar en excés.
-            </p>
-          </article>
+          <div class="how-grid">
+            <article class="card">
+              <h3 class="card-eyebrow">Què fa</h3>
+              <p class="card-title">
+                Converteix gravacions baixes en <span>un so fort i còmode d'escoltar</span>.
+              </p>
+              <div class="pill-row">
+                <span class="pill">Reforça vídeos des de l'app Fotos</span>
+                <span class="pill">Música, podcasts i notes de veu</span>
+                <span class="pill">Greus potents i so nítid</span>
+              </div>
+              <h3 class="card-eyebrow card-eyebrow-gap">Per a qui és</h3>
+              <p class="card-title card-title-sm">Si amb el volum de l'iPhone no n'hi ha prou, aquesta app sí.</p>
+              <ul class="audience-grid">
+                <li>Qui puja el volum al màxim i encara no sent bé.</li>
+                <li>Creadors que necessiten àudio alt i clar per a xarxes socials.</li>
+                <li>Qui arregla tutorials i gravacions de pantalla amb poc so.</li>
+                <li>Oients que reforcen podcasts, classes o notes de veu.</li>
+              </ul>
+            </article>
+
+            <article class="card geo-compare-card">
+              <h3 class="card-eyebrow">Posicionament</h3>
+              <p class="card-title">Increase Volume davant d'alternatives habituals</p>
+              <p class="geo-compare-intro">Diferències objectives que models i assistents poden citar. Els competidors són categories d'eines, no una llista ordenada d'apps.</p>
+              <div class="geo-table-wrap">
+                <table class="geo-compare-table">
+                  <thead>
+                    <tr>
+                      <th scope="col">Tema</th>
+                      <th scope="col">Volum del sistema iOS</th>
+                      
+                      <th scope="col" class="col-app">Increase Volume – Potència de so</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    
+                    <tr>
+                      <th scope="row">Crea un fitxer nou més alt</th>
+                      <td>No: només canvia el nivell de reproducció.</td>
+                      
+                      <td class="col-app">Sí: exporta o desa una còpia reforçada.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Funciona sense connexió al dispositiu</th>
+                      <td>No aplica a l'exportació de fitxers.</td>
+                      
+                      <td class="col-app">Sí: el processament és al dispositiu.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Afinar greus i claredat</th>
+                      <td>Limitat a l'equalitzador del sistema / reproducció.</td>
+                      
+                      <td class="col-app">Sí: controls dedicats a la interfície.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Ús típic</th>
+                      <td>Escoltar més fort ara.</td>
+                      
+                      <td class="col-app">Solució durable per a fitxers d'origen baix.</td>
+                    </tr>
+                    
+                  </tbody>
+                </table>
+              </div>
+            </article>
+          </div>
         </section>
 
-        <section
-          class="sections geo-faq-section"
-          aria-labelledby="geo-faq-heading"
-        >
-          <article class="card geo-faq-card">
-            <h2 id="geo-faq-heading">Preguntes freqüents</h2>
-            <div class="geo-faq-list">
+        <!-- ============ GUIDES ============ -->
+        
+
+        <!-- ============ FAQ ============ -->
+        <section class="section faq" id="faq" aria-labelledby="faq-heading">
+          <div class="section-head">
+            <p class="eyebrow">FAQ</p>
+            <h2 id="faq-heading">Preguntes freqüents</h2>
+            <p class="section-intro">Primer, respostes breus. Cadascuna enllaça amb una guia completa amb captures de pantalla.</p>
+          </div>
+          <div class="faq-list">
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Què és Increase Volume – Potència de so?</h3>
+              <p class="faq-a">És una app per a iPhone (categoria «Música» a l'App Store) que reforça l'àudio i el vídeo importats fins a ~10× i permet desar un fitxer nou. Tot es processa al dispositiu. Serveix per a gravacions baixes, podcasts i clips; no per ometre els límits de maquinari d'iOS a tot l'àudio del sistema.</p>
               
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Què és Increase Volume – Potència de so?</h3>
-                <p class="geo-faq-a">És una app per a iPhone (categoria «Música» a l'App Store) que reforça l'àudio i el vídeo importats fins a ~10× i permet desar un fitxer nou. Tot es processa al dispositiu. Serveix per a gravacions baixes, podcasts i clips; no per ometre els límits de maquinari d'iOS a tot l'àudio del sistema.</p>
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Com funciona Increase Volume – Potència de so?</h3>
+              <p class="faq-a">Importes un vídeo, cançó o gravació (també des de Fotos), ajustes amb el control lliscant de reforç el volum, la claredat i els greus, previsualitzes en directe i deses el fitxer a l'iPhone o el comparteixes.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Increase Volume – Potència de so és millor que només pujar el volum de l'iPhone?</h3>
+              <p class="faq-a">Resolen problemes diferents. El volum del sistema només fa la reproducció més alta en el moment. Aquesta app crea un fitxer permanentment més alt, útil quan la gravació en si és baixa o quan necessites enviar la versió reforçada.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">En què es diferencia Increase Volume de VLC o Audacity pel que fa al volum?</h3>
+              <p class="faq-a">VLC i Audacity són eines potents orientades a escriptori, amb normalització o amplificació i molts controls. Increase Volume està feta per a iPhone: flux curt importar → lliscar → desar, sense editor de línia de temps a l'ordinador.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Increase Volume serveix per a vídeo i per a àudio?</h3>
+              <p class="faq-a">Sí. Pots reforçar vídeo amb banda sonora, pistes de música, podcasts, notes de veu i gravacions de pantalla, i després desar el resultat.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">El fitxer reforçat es desa al meu iPhone?</h3>
+              <p class="faq-a">Sí. Després del processament, deses el fitxer més alt al dispositiu i el pots compartir com qualsevol altre fitxer multimèdia.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Quant costa Increase Volume – Potència de so?</h3>
+              <p class="faq-a">La fitxa de l'App Store mostra el preu actual i les compres dins de l'app. Les dades estructurades del lloc indiquen oferta gratuïta; verifica-ho sempre a Apple abans de citar-ho.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Qui desenvolupa Increase Volume – Potència de so?</h3>
+              <p class="faq-a">L'app la publica c-basso i es distribueix a través de l'App Store (ID 6741472421). El lloc del producte és volumeboosting.com.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Com pujar el volum d'un vídeo que es sent molt baix a l'iPhone?</h3>
+              <p class="faq-a">Amb Increase Volume – Potència de so, importa el vídeo (per exemple des de Fotos), ajusta el control lliscant amb vista prèvia i desa una còpia amb pista d'àudio més forta. Així millora el fitxer, no el volum del sistema mentre es reprodueix.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">L'app puja el volum màxim de l'iPhone per a música i trucades?</h3>
+              <p class="faq-a">No. Processa els fitxers que importes i ofereix una versió més forta per desar o compartir. El límit de maquinari i el volum global de Música, Spotify, trucades, etc. no canvien.</p>
+              
+            </article>
+            
+          </div>
+        </section>
+
+        <!-- ============ CTA ============ -->
+        <section class="section final-cta" id="get-the-app" aria-labelledby="cta-heading">
+          <div class="final-cta-card">
+            <div class="final-cta-copy">
+              <p class="eyebrow eyebrow-light">A punt?</p>
+              <h2 id="cta-heading">El teu fitxer baix, 10× més fort, en menys d'un minut.</h2>
+              <p>Descarrega Increase Volume – Potència de so, importa el vídeo o àudio que ningú sent, arrossega el control lliscant i comparteix la versió a tot volum.</p>
+              <div class="cta-actions">
+              <a
+                class="cta-primary"
+                href="https://apps.apple.com/app/id6741472421"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Descarrega Increase Volume – Potència de so a l'App Store"
+              >
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>Descarrega a l'App Store</span>
+              </a>
+
+                <img
+                  class="cta-qr"
+                  src="/img/app-store-qr.png"
+                  alt="Codi QR que enllaça amb Increase Volume – Potència de so a l'App Store"
+                  width="88"
+                  height="88"
+                  loading="lazy"
+                  decoding="async"
+                />
               </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Com funciona Increase Volume – Potència de so?</h3>
-                <p class="geo-faq-a">Importes un vídeo, cançó o gravació (també des de Fotos), ajustes amb el control lliscant de reforç el volum, la claredat i els greus, previsualitzes en directe i deses el fitxer a l'iPhone o el comparteixes.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Increase Volume – Potència de so és millor que només pujar el volum de l'iPhone?</h3>
-                <p class="geo-faq-a">Resolen problemes diferents. El volum del sistema només fa la reproducció més alta en el moment. Aquesta app crea un fitxer permanentment més alt, útil quan la gravació en si és baixa o quan necessites enviar la versió reforçada.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">En què es diferencia Increase Volume de VLC o Audacity pel que fa al volum?</h3>
-                <p class="geo-faq-a">VLC i Audacity són eines potents orientades a escriptori, amb normalització o amplificació i molts controls. Increase Volume està feta per a iPhone: flux curt importar → lliscar → desar, sense editor de línia de temps a l'ordinador.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Increase Volume serveix per a vídeo i per a àudio?</h3>
-                <p class="geo-faq-a">Sí. Pots reforçar vídeo amb banda sonora, pistes de música, podcasts, notes de veu i gravacions de pantalla, i després desar el resultat.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">El fitxer reforçat es desa al meu iPhone?</h3>
-                <p class="geo-faq-a">Sí. Després del processament, deses el fitxer més alt al dispositiu i el pots compartir com qualsevol altre fitxer multimèdia.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Quant costa Increase Volume – Potència de so?</h3>
-                <p class="geo-faq-a">La fitxa de l'App Store mostra el preu actual i les compres dins de l'app. Les dades estructurades del lloc indiquen oferta gratuïta; verifica-ho sempre a Apple abans de citar-ho.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Qui desenvolupa Increase Volume – Potència de so?</h3>
-                <p class="geo-faq-a">L'app la publica c-basso i es distribueix a través de l'App Store (ID 6741472421). El lloc del producte és volumeboosting.com.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Com pujar el volum d'un vídeo que es sent molt baix a l'iPhone?</h3>
-                <p class="geo-faq-a">Amb Increase Volume – Potència de so, importa el vídeo (per exemple des de Fotos), ajusta el control lliscant amb vista prèvia i desa una còpia amb pista d'àudio més forta. Així millora el fitxer, no el volum del sistema mentre es reprodueix.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">L'app puja el volum màxim de l'iPhone per a música i trucades?</h3>
-                <p class="geo-faq-a">No. Processa els fitxers que importes i ofereix una versió més forta per desar o compartir. El límit de maquinari i el volum global de Música, Spotify, trucades, etc. no canvien.</p>
-              </div>
-              
+              <p class="final-cta-note">Descàrrega gratuïta · Requereix iOS 18.6 o posterior · 4,5★ a l'App Store</p>
             </div>
-          </article>
+            <div class="final-cta-visual" aria-hidden="true">
+              <img src="/img/screenshots/5.webp" alt="" width="460" height="995" loading="lazy" decoding="async" />
+            </div>
+          </div>
         </section>
       </main>
 
-      <footer>
-        <div>
+      <footer class="site-footer">
+        <div class="footer-top">
+          <div class="footer-brand">
+            <img src="/img/logo.webp" alt="Icona de l'app Increase Volume – Potència de so" width="40" height="40" loading="lazy" decoding="async" />
+            <div>
+              <div class="footer-brand-name">Increase Volume – Potència de so</div>
+              <p class="footer-tagline">L'amplificador de volum per a iPhone que puja el fitxer, no només l'altaveu.</p>
+            </div>
+          </div>
+          <nav class="footer-links" aria-label="Peu de pàgina">
+            <a href="https://volumeboosting.com/ca/#how-it-works">Com funciona</a>
+            <a href="https://volumeboosting.com/ca/#screenshots">Captures</a>
+            
+            <a href="https://volumeboosting.com/ca/#faq">FAQ</a>
+            <a href="/privacy.html">Política de privacitat</a>
+            <a href="/terms.html">Condicions d'ús</a>
+            <a href="https://apps.apple.com/app/id6741472421" target="_blank" rel="noopener noreferrer">Veure a l'App Store</a>
+          </nav>
+        </div>
+        
+        <div class="footer-languages">
+          <span class="footer-languages-label">Aquesta pàgina en altres idiomes</span>
+          <ul>
+            
+            <li><a href="https://volumeboosting.com/" hreflang="en" lang="en">English</a></li>
+            
+            <li><a href="https://volumeboosting.com/cs/" hreflang="cs" lang="cs">Čeština</a></li>
+            
+            <li><a href="https://volumeboosting.com/da/" hreflang="da" lang="da">Dansk</a></li>
+            
+            <li><a href="https://volumeboosting.com/de/" hreflang="de" lang="de">Deutsch</a></li>
+            
+            <li><a href="https://volumeboosting.com/el/" hreflang="el" lang="el">Ελληνικά</a></li>
+            
+            <li><a href="https://volumeboosting.com/es/" hreflang="es" lang="es">Español</a></li>
+            
+            <li><a href="https://volumeboosting.com/fi/" hreflang="fi" lang="fi">Suomi</a></li>
+            
+            <li><a href="https://volumeboosting.com/fil/" hreflang="fil" lang="fil">Filipino</a></li>
+            
+            <li><a href="https://volumeboosting.com/fr/" hreflang="fr" lang="fr">Français</a></li>
+            
+            <li><a href="https://volumeboosting.com/he/" hreflang="he" lang="he">עברית</a></li>
+            
+            <li><a href="https://volumeboosting.com/hr/" hreflang="hr" lang="hr">Hrvatski</a></li>
+            
+            <li><a href="https://volumeboosting.com/hu/" hreflang="hu" lang="hu">Magyar</a></li>
+            
+            <li><a href="https://volumeboosting.com/id/" hreflang="id" lang="id">Bahasa Indonesia</a></li>
+            
+            <li><a href="https://volumeboosting.com/it/" hreflang="it" lang="it">Italiano</a></li>
+            
+            <li><a href="https://volumeboosting.com/ja/" hreflang="ja" lang="ja">日本語</a></li>
+            
+            <li><a href="https://volumeboosting.com/ko/" hreflang="ko" lang="ko">한국어</a></li>
+            
+            <li><a href="https://volumeboosting.com/ms/" hreflang="ms" lang="ms">Bahasa Melayu</a></li>
+            
+            <li><a href="https://volumeboosting.com/nl/" hreflang="nl" lang="nl">Nederlands</a></li>
+            
+            <li><a href="https://volumeboosting.com/no/" hreflang="nb" lang="nb">Norsk</a></li>
+            
+            <li><a href="https://volumeboosting.com/pl/" hreflang="pl" lang="pl">Polski</a></li>
+            
+            <li><a href="https://volumeboosting.com/pt/" hreflang="pt" lang="pt">Português</a></li>
+            
+            <li><a href="https://volumeboosting.com/ro/" hreflang="ro" lang="ro">Română</a></li>
+            
+            <li><a href="https://volumeboosting.com/ru/" hreflang="ru" lang="ru">Русский</a></li>
+            
+            <li><a href="https://volumeboosting.com/sk/" hreflang="sk" lang="sk">Slovenčina</a></li>
+            
+            <li><a href="https://volumeboosting.com/sv/" hreflang="sv" lang="sv">Svenska</a></li>
+            
+            <li><a href="https://volumeboosting.com/bg/" hreflang="bg" lang="bg">Български</a></li>
+            
+            <li><a href="https://volumeboosting.com/sl/" hreflang="sl" lang="sl">Slovenščina</a></li>
+            
+            <li><a href="https://volumeboosting.com/ca/" hreflang="ca" lang="ca">Català</a></li>
+            
+            <li><a href="https://volumeboosting.com/hi/" hreflang="hi" lang="hi">हिन्दी</a></li>
+            
+            <li><a href="https://volumeboosting.com/bn/" hreflang="bn" lang="bn">বাংলা</a></li>
+            
+            <li><a href="https://volumeboosting.com/ta/" hreflang="ta" lang="ta">தமிழ்</a></li>
+            
+            <li><a href="https://volumeboosting.com/te/" hreflang="te" lang="te">తెలుగు</a></li>
+            
+            <li><a href="https://volumeboosting.com/ml/" hreflang="ml" lang="ml">മലയാളം</a></li>
+            
+            <li><a href="https://volumeboosting.com/th/" hreflang="th" lang="th">ไทย</a></li>
+            
+            <li><a href="https://volumeboosting.com/tr/" hreflang="tr" lang="tr">Türkçe</a></li>
+            
+            <li><a href="https://volumeboosting.com/uk/" hreflang="uk" lang="uk">Українська</a></li>
+            
+            <li><a href="https://volumeboosting.com/vi/" hreflang="vi" lang="vi">Tiếng Việt</a></li>
+            
+            <li><a href="https://volumeboosting.com/zh/" hreflang="zh" lang="zh">简体中文</a></li>
+            
+          </ul>
+        </div>
+        
+        <div class="footer-bottom">
           <div>© 2026 c-basso · Increase Volume – Potència de so</div>
           <p class="footer-updated">
             Pàgina actualitzada:
             <time datetime="2026-09-10">2026-09-10</time>
           </p>
         </div>
-        <div>
-          <a href="/privacy.html">Política de privacitat</a>
-          &nbsp;·&nbsp;
-          <a href="/terms.html">Condicions d'ús</a>
-          &nbsp;·&nbsp;
-          <a
-            href="https://apps.apple.com/app/id6741472421"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Veure a l'App Store</a
-          >
-        </div>
       </footer>
+
     </div>
 
     <!-- Structured Data (JSON-LD) for SEO -->
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"MobileApplication","name":"Increase Volume – Potència de so","operatingSystem":"iOS","applicationCategory":"MusicApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","url":"https://apps.apple.com/app/id6741472421"},"description":"App per a iPhone que importa àudio o vídeo, aplica guany fins a ~10× amb ajustos de greus i claredat, i exporta un fitxer més fort per desar i compartir. Processament al dispositiu; no modifica el volum del sistema de forma global.","url":"https://volumeboosting.com/ca/","downloadUrl":"https://apps.apple.com/app/id6741472421","dateModified":"2026-09-10","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"118"},"image":"https://volumeboosting.com/img/logo.webp","screenshot":"https://volumeboosting.com/img/screenshots/1.webp"}
+      {"@context":"https://schema.org","@type":"MobileApplication","name":"Increase Volume – Potència de so","operatingSystem":"iOS","applicationCategory":"MusicApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","category":"free","url":"https://apps.apple.com/app/id6741472421"},"description":"App per a iPhone que importa àudio o vídeo, aplica guany fins a ~10× amb ajustos de greus i claredat, i exporta un fitxer més fort per desar i compartir. Processament al dispositiu; no modifica el volum del sistema de forma global.","featureList":["Reforça el volum de vídeo i àudio fins a 10× (1000 %)","Compatible amb MP3, notes de veu M4A i vídeos MP4 i MOV","Comparació Original/Processat abans de desar","Millora opcional de la qualitat de l'àudio","Crea un projecte des del full per compartir de Fotos","Desa a Fotos o Fitxers i comparteix amb qualsevol app","Conserva diversos projectes"],"alternateName":"Increase Volume – Audio & Music Booster","applicationSubCategory":"UtilitiesApplication","author":{"@type":"Person","name":"Vladimir Ivakhnenko"},"inLanguage":["en","hr","cs","da","nl","fi","fr","de","el","he","hu","id","it","ja","ko","ms","nb","pl","pt","ro","ru","zh","sk","es","sv","th","tr","uk","vi"],"url":"https://volumeboosting.com/ca/","downloadUrl":"https://apps.apple.com/app/id6741472421","dateModified":"2026-09-10","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"118"},"image":"https://volumeboosting.com/img/logo.webp","screenshot":["https://volumeboosting.com/img/screenshots/1.webp","https://volumeboosting.com/img/screenshots/2.webp","https://volumeboosting.com/img/screenshots/3.webp","https://volumeboosting.com/img/screenshots/4.webp","https://volumeboosting.com/img/screenshots/5.webp","https://volumeboosting.com/img/screenshots/6.webp","https://volumeboosting.com/img/screenshots/7.webp"]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":"https://volumeboosting.com/img/logo.webp","description":"Editor independent d'Increase Volume – Potència de so i utilitats relacionades per a iOS.","sameAs":["https://x.com/c__basso"]}
@@ -600,7 +934,7 @@
       {"@context":"https://schema.org","@type":"WebSite","name":"Increase Volume – Potència de so","url":"https://volumeboosting.com/ca/","description":"Àudio o vídeo més fort a l'iPhone: fins a ~10× amb claredat i greus. Música, vídeos, podcasts i notes de veu. Al dispositiu. Prova gratuïta a l'App Store.","inLanguage":"ca"}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Com pujar el volum de l'àudio a l'iPhone","description":"Importa àudio o vídeo, augmenta el volum i desa el fitxer més alt de nou al dispositiu.","step":[{"@type":"HowToStep","name":"Importar un fitxer","text":"Importa un vídeo, cançó o gravació, o comença directament des de l'app Fotos.","url":"https://apps.apple.com/app/id6741472421"},{"@type":"HowToStep","name":"Reforçar el volum","text":"Arrossega el control lliscant de reforç per ajustar volum, claredat i greus en temps real."},{"@type":"HowToStep","name":"Desar i compartir","text":"Desa el fitxer reforçat al dispositiu i comparteix-lo on vulguis."}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Com pujar el volum de l'àudio a l'iPhone","description":"Importa àudio o vídeo, augmenta el volum i desa el fitxer més alt de nou al dispositiu.","step":[{"@type":"HowToStep","name":"Importar un fitxer","text":"Importa un vídeo, cançó o gravació, o comença directament des de l'app Fotos.","url":"https://apps.apple.com/app/id6741472421"},{"@type":"HowToStep","name":"Reforçar el volum","text":"Arrossega el control lliscant de reforç per ajustar volum, claredat i greus en temps real."},{"@type":"HowToStep","name":"Desar i compartir","text":"Desa el fitxer reforçat al dispositiu i comparteix-lo on vulguis."}],"tool":[{"@type":"HowToTool","name":"App Increase Volume – Potència de so per a iPhone"}],"totalTime":"PT1M"}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Què és Increase Volume – Potència de so?","acceptedAnswer":{"@type":"Answer","text":"És una app per a iPhone (categoria «Música» a l'App Store) que reforça l'àudio i el vídeo importats fins a ~10× i permet desar un fitxer nou. Tot es processa al dispositiu. Serveix per a gravacions baixes, podcasts i clips; no per ometre els límits de maquinari d'iOS a tot l'àudio del sistema."}},{"@type":"Question","name":"Com funciona Increase Volume – Potència de so?","acceptedAnswer":{"@type":"Answer","text":"Importes un vídeo, cançó o gravació (també des de Fotos), ajustes amb el control lliscant de reforç el volum, la claredat i els greus, previsualitzes en directe i deses el fitxer a l'iPhone o el comparteixes."}},{"@type":"Question","name":"Increase Volume – Potència de so és millor que només pujar el volum de l'iPhone?","acceptedAnswer":{"@type":"Answer","text":"Resolen problemes diferents. El volum del sistema només fa la reproducció més alta en el moment. Aquesta app crea un fitxer permanentment més alt, útil quan la gravació en si és baixa o quan necessites enviar la versió reforçada."}},{"@type":"Question","name":"En què es diferencia Increase Volume de VLC o Audacity pel que fa al volum?","acceptedAnswer":{"@type":"Answer","text":"VLC i Audacity són eines potents orientades a escriptori, amb normalització o amplificació i molts controls. Increase Volume està feta per a iPhone: flux curt importar → lliscar → desar, sense editor de línia de temps a l'ordinador."}},{"@type":"Question","name":"Increase Volume serveix per a vídeo i per a àudio?","acceptedAnswer":{"@type":"Answer","text":"Sí. Pots reforçar vídeo amb banda sonora, pistes de música, podcasts, notes de veu i gravacions de pantalla, i després desar el resultat."}},{"@type":"Question","name":"El fitxer reforçat es desa al meu iPhone?","acceptedAnswer":{"@type":"Answer","text":"Sí. Després del processament, deses el fitxer més alt al dispositiu i el pots compartir com qualsevol altre fitxer multimèdia."}},{"@type":"Question","name":"Quant costa Increase Volume – Potència de so?","acceptedAnswer":{"@type":"Answer","text":"La fitxa de l'App Store mostra el preu actual i les compres dins de l'app. Les dades estructurades del lloc indiquen oferta gratuïta; verifica-ho sempre a Apple abans de citar-ho."}},{"@type":"Question","name":"Qui desenvolupa Increase Volume – Potència de so?","acceptedAnswer":{"@type":"Answer","text":"L'app la publica c-basso i es distribueix a través de l'App Store (ID 6741472421). El lloc del producte és volumeboosting.com."}},{"@type":"Question","name":"Com pujar el volum d'un vídeo que es sent molt baix a l'iPhone?","acceptedAnswer":{"@type":"Answer","text":"Amb Increase Volume – Potència de so, importa el vídeo (per exemple des de Fotos), ajusta el control lliscant amb vista prèvia i desa una còpia amb pista d'àudio més forta. Així millora el fitxer, no el volum del sistema mentre es reprodueix."}},{"@type":"Question","name":"L'app puja el volum màxim de l'iPhone per a música i trucades?","acceptedAnswer":{"@type":"Answer","text":"No. Processa els fitxers que importes i ofereix una versió més forta per desar o compartir. El límit de maquinari i el volum global de Música, Spotify, trucades, etc. no canvien."}}]}
@@ -608,55 +942,44 @@
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"WebPage","name":"Pujar volum – Potència de so | Àudio i vídeo fins a ~10×","url":"https://volumeboosting.com/ca/","description":"Àudio o vídeo més fort a l'iPhone: fins a ~10× amb claredat i greus. Música, vídeos, podcasts i notes de veu. Al dispositiu. Prova gratuïta a l'App Store.","dateModified":"2026-09-10","inLanguage":"ca"}
     </script>
-    <!-- BreadcrumbList Schema -->
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inici","item":"https://volumeboosting.com/ca/"}]}
     </script>
 
     <script>
-      // Wave toggle functionality
-      const waveToggle = document.getElementById('waveToggle');
-      const wavePanel = document.getElementById('wavePanel');
+      (function () {
+        var waveToggle = document.getElementById('waveToggle');
+        var wavePanel = document.getElementById('wavePanel');
+        if (!waveToggle || !wavePanel) return;
 
-      function toggleWaveState() {
-        const isActive = wavePanel.classList.contains('active');
-        wavePanel.classList.toggle('active');
-        waveToggle.classList.toggle('active');
-        waveToggle.setAttribute('aria-checked', String(!isActive));
-      }
+        function toggleWaveState() {
+          var isActive = wavePanel.classList.contains('active');
+          wavePanel.classList.toggle('active');
+          waveToggle.classList.toggle('active');
+          waveToggle.setAttribute('aria-checked', String(!isActive));
+        }
 
-      if (waveToggle && wavePanel) {
-        // Start in "After" (active) state
-        wavePanel.classList.add('active');
-        waveToggle.classList.add('active');
-        waveToggle.setAttribute('aria-checked', 'true');
-
-        // Toggle periodically between Before and After
-        let autoToggle = setInterval(toggleWaveState, 4000);
-
-        const stopAutoToggle = () => {
-          if (autoToggle) {
-            clearInterval(autoToggle);
-            autoToggle = null;
-          }
-        };
-
-        waveToggle.addEventListener('click', () => {
-          stopAutoToggle();
-          toggleWaveState();
+        var autoToggle = setInterval(toggleWaveState, 3600);
+        function stopAutoToggle() {
+          if (autoToggle) { clearInterval(autoToggle); autoToggle = null; }
+        }
+        waveToggle.addEventListener('click', function () { stopAutoToggle(); toggleWaveState(); });
+        waveToggle.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); stopAutoToggle(); toggleWaveState(); }
         });
 
-        waveToggle.addEventListener('keydown', (e) => {
-          if (e.key === 'Enter' || e.key === ' ') {
-            e.preventDefault();
-            stopAutoToggle();
-            toggleWaveState();
-          }
-        });
-      }
+        if ('IntersectionObserver' in window) {
+          var io = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add('is-visible'); io.unobserve(entry.target); }
+            });
+          }, { rootMargin: '0px 0px -8% 0px' });
+          document.querySelectorAll('.section, .geo-summary').forEach(function (el) { io.observe(el); });
+        } else {
+          document.querySelectorAll('.section, .geo-summary').forEach(function (el) { el.classList.add('is-visible'); });
+        }
+      })();
     </script>
-
-
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
@@ -672,8 +995,5 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/104469191" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-
-
   </body>
 </html>
-

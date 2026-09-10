@@ -46,13 +46,34 @@
     "footnote_item4": "klipów w social mediach",
     "footnote_last_joiner": " i ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Wzmocnienie dźwięku na iPhone — zwiększ głośność audio i wideo"
+    "device_image_alt": "Increase Volume – Wzmocnienie dźwięku na iPhone — zwiększ głośność audio i wideo",
+    "cta_secondary_link": "Zobacz, jak to działa",
+    "proof_aria": "Fakty o aplikacji",
+    "proof": [
+      {
+        "value": "4,5★",
+        "label": "118 ocen w App Store"
+      },
+      {
+        "value": "10×",
+        "label": "maksymalne wzmocnienie"
+      },
+      {
+        "value": "Audio + wideo",
+        "label": "MP3, MP4, MOV, notatki głosowe"
+      },
+      {
+        "value": "Na urządzeniu",
+        "label": "nic nie jest wysyłane na serwery"
+      }
+    ]
   },
   "wave": {
     "before_label": "Przed",
     "after_label": "Po",
     "before_text": "Cichy, płaski oryginalny dźwięk",
-    "after_text": "Po wzmocnieniu: pełny i wyraźny dźwięk"
+    "after_text": "Po wzmocnieniu: pełny i wyraźny dźwięk",
+    "toggle_aria": "Przełącz między oryginalnym a wzmocnionym przebiegiem fali"
   },
   "sections": {
     "features_uses_aria": "Funkcje i zastosowania",
@@ -157,7 +178,11 @@
     "last_updated_label": "Ostatnia aktualizacja:",
     "privacy_link": "Polityka prywatności",
     "terms_link": "Warunki korzystania",
-    "app_store_link_text": "Zobacz w App Store"
+    "app_store_link_text": "Zobacz w App Store",
+    "tagline": "Booster głośności na iPhone'a, który wzmacnia plik, a nie tylko głośnik.",
+    "links_aria": "Stopka",
+    "guides_link_text": "Poradniki",
+    "languages_label": "Ta strona w innych językach"
   },
   "seo": {
     "breadcrumb_home": "Strona główna",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "Aplikacja na iPhone'a importująca audio lub wideo, umożliwiająca wzmocnienie do około 10× z regulacją basów i klarowności oraz eksport głośniejszego pliku do zapisu i udostępnienia. Przetwarzanie na urządzeniu; nie zmienia globalnej głośności systemowej."
+        "description": "Aplikacja na iPhone'a importująca audio lub wideo, umożliwiająca wzmocnienie do około 10× z regulacją basów i klarowności oraz eksport głośniejszego pliku do zapisu i udostępnienia. Przetwarzanie na urządzeniu; nie zmienia globalnej głośności systemowej.",
+        "featureList": [
+          "Wzmacnia głośność wideo i audio nawet 10× (1000%)",
+          "Obsługuje MP3, notatki głosowe M4A oraz wideo MP4 i MOV",
+          "Porównanie Oryginał/Przetworzony przed zapisaniem",
+          "Opcjonalna poprawa jakości dźwięku",
+          "Tworzenie projektu z arkusza udostępniania aplikacji Zdjęcia",
+          "Zapis w Zdjęciach lub Plikach i udostępnianie do dowolnej aplikacji",
+          "Przechowywanie wielu projektów"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "Zapis i udostępnienie",
             "text": "Zapisz wzmocniony plik z powrotem na urządzeniu i udostępnij go gdzie chcesz."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Aplikacja Increase Volume – Wzmocnienie dźwięku na iPhone'a"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Nawigacja główna",
+    "how_it_works": "Jak to działa",
+    "screenshots": "Zrzuty ekranu",
+    "guides": "Poradniki",
+    "faq": "FAQ",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "Pobierz",
+    "title": "Pobierz Increase Volume – Wzmocnienie dźwięku z App Store",
+    "subtitle": "Audio & Music Booster · Kategoria „Muzyka” · iPhone",
+    "price": "Bezpłatnie",
+    "price_note": "Opcjonalne zakupy w aplikacji (bezpłatny okres próbny lub jednorazowy plan dożywotni)",
+    "rating_line": "4,5 ★ · 118 ocen w App Store",
+    "qr_alt": "Kod QR prowadzący do Increase Volume – Wzmocnienie dźwięku w App Store",
+    "qr_label": "Zeskanuj aparatem iPhone'a",
+    "requirements": "Wymaga iOS 18.6 lub nowszego · 26,8 MB · Polski + 30 innych języków · Wiek 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Zrzuty ekranu",
+    "title": "Tak wygląda aplikacja na Twoim iPhonie",
+    "intro": "Te same ekrany, które zobaczysz w App Store: jeden suwak, porównanie Oryginał/Przetworzony i arkusz udostępniania, który przenosi głośniejszy plik tam, gdzie go potrzebujesz.",
+    "aria": "Zrzuty ekranu aplikacji, przewijanie w poziomie",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Grafika promocyjna Increase Volume: booster głośności i wzmacniacz dźwięku, nawet dziesięć razy głośniej",
+        "caption": "Booster głośności i wzmacniacz dźwięku: nawet 10× głośniej."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Odtwarzacz wideo w Increase Volume, palec przesuwa różowy suwak wzmocnienia, aby zwiększyć głośność filmu",
+        "caption": "Zwiększ głośność filmu: przesuń suwak na podglądzie wideo."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume przetwarza plik MP3, widoczna nazwa, rozmiar i czas trwania",
+        "caption": "Zwiększ głośność muzyki: MP3 i inne pliki audio są przetwarzane na urządzeniu."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Szczegóły utworu z przełącznikiem „Popraw jakość dźwięku”, suwakiem „Mnożnik głośności ×10” i przyciskiem „Wzmocnij głośność do ×10”",
+        "caption": "Wybierz siłę wzmocnienia: od delikatnej do 10×."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Ekran wyniku z przyciskiem „Pobierz przetworzony” i przełącznikiem Oryginał/Przetworzony",
+        "caption": "Odsłuchaj wynik i porównaj z oryginałem przed zapisaniem."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "Arkusz udostępniania iOS z opcjami Kopiuj, Dodaj tagi i Zachowaj w Plikach dla wzmocnionego dźwięku",
+        "caption": "Pobieraj i udostępniaj gdziekolwiek: Zdjęcia, Pliki, Wiadomości, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Lista projektów w Increase Volume z plikami MP3 i MP4, ich rozmiarem i czasem trwania",
+        "caption": "Przechowuj wiele projektów i wracaj do nich później."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "Krok 1: film zaimportowany do Increase Volume z widocznym suwakiem wzmocnienia",
+    "step_2_alt": "Krok 2: suwak „Mnożnik głośności ×10” i przycisk „Wzmocnij głośność”",
+    "step_3_alt": "Krok 3: arkusz udostępniania iOS z opcją „Zachowaj w Plikach” dla wzmocnionego pliku"
+  },
+  "faq_section": {
+    "eyebrow": "FAQ",
+    "intro": "Najpierw krótkie odpowiedzi. Każda prowadzi do pełnego poradnika ze zrzutami ekranu.",
+    "learn_more_label": "Dowiedz się więcej"
+  },
+  "cta": {
+    "eyebrow": "Gotowe?",
+    "title": "Twój cichy plik 10× głośniej w niecałą minutę.",
+    "text": "Pobierz Increase Volume – Wzmocnienie dźwięku, zaimportuj film lub nagranie, którego nikt nie słyszy, przesuń suwak i udostępnij głośną wersję.",
+    "note": "Bezpłatne pobieranie · Wymaga iOS 18.6 lub nowszego · 4,5★ w App Store"
   }
 }

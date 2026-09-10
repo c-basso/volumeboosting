@@ -46,13 +46,34 @@
     "footnote_item4": "sociale klip",
     "footnote_last_joiner": " og ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Lydboost på iPhone — øg lydstyrken på lyd og video"
+    "device_image_alt": "Increase Volume – Lydboost på iPhone — øg lydstyrken på lyd og video",
+    "cta_secondary_link": "Se hvordan det virker",
+    "proof_aria": "Fakta om appen",
+    "proof": [
+      {
+        "value": "4,5★",
+        "label": "118 vurderinger i App Store"
+      },
+      {
+        "value": "10×",
+        "label": "maksimal forstærkning"
+      },
+      {
+        "value": "Lyd + video",
+        "label": "MP3, MP4, MOV, stemmememoer"
+      },
+      {
+        "value": "På enheden",
+        "label": "intet uploades"
+      }
+    ]
   },
   "wave": {
     "before_label": "Før",
     "after_label": "Efter",
     "before_text": "Stille, flad originallyd",
-    "after_text": "Boostet, fyldig og klar lyd"
+    "after_text": "Boostet, fyldig og klar lyd",
+    "toggle_aria": "Skift mellem den originale og den boostede lydkurve"
   },
   "sections": {
     "features_uses_aria": "Funktioner og anvendelse",
@@ -157,7 +178,11 @@
     "last_updated_label": "Sidst opdateret:",
     "privacy_link": "Privatlivspolitik",
     "terms_link": "Vilkår for brug",
-    "app_store_link_text": "Se i App Store"
+    "app_store_link_text": "Se i App Store",
+    "tagline": "Lydstyrkeboosteren til iPhone, der gør filen højere – ikke bare højttaleren.",
+    "links_aria": "Sidefod",
+    "guides_link_text": "Guides",
+    "languages_label": "Denne side på andre sprog"
   },
   "seo": {
     "breadcrumb_home": "Hjem",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "iPhone-app der importerer lyd eller video, giver op til ~10× lydstyrke med bas- og klarhedskontroller og eksporterer en højere fil til gem og deling. Behandling på enheden; ændrer ikke den globale systemlydstyrke."
+        "description": "iPhone-app der importerer lyd eller video, giver op til ~10× lydstyrke med bas- og klarhedskontroller og eksporterer en højere fil til gem og deling. Behandling på enheden; ændrer ikke den globale systemlydstyrke.",
+        "featureList": [
+          "Boost lydstyrken i video og lyd op til 10× (1000 %)",
+          "Virker med MP3, M4A-stemmememoer, MP4- og MOV-video",
+          "Sammenligning af Original og Behandlet før du gemmer",
+          "Valgfri forbedring af lydkvaliteten",
+          "Opret et projekt fra delingsarket i Fotos",
+          "Arkiver i Fotos eller Filer og del til enhver app",
+          "Gemmer flere projekter"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "Gem og del",
             "text": "Gem den boostede fil tilbage på enheden og del den hvor som helst."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Appen Increase Volume – Lydboost til iPhone"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Hovednavigation",
+    "how_it_works": "Sådan virker det",
+    "screenshots": "Skærmbilleder",
+    "guides": "Guides",
+    "faq": "FAQ",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "Hent",
+    "title": "Hent Increase Volume – Lydboost i App Store",
+    "subtitle": "Audio & Music Booster · Kategorien Musik · iPhone",
+    "price": "Gratis",
+    "price_note": "Valgfrie køb i appen (gratis prøveperiode eller et engangskøb for altid)",
+    "rating_line": "4,5 ★ · 118 vurderinger i App Store",
+    "qr_alt": "QR-kode med link til Increase Volume – Lydboost i App Store",
+    "qr_label": "Scan med kameraet på din iPhone",
+    "requirements": "Kræver iOS 18.6 eller nyere · 26,8 MB · Dansk + 30 andre sprog · Alder 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Skærmbilleder",
+    "title": "Sådan ser appen ud på din iPhone",
+    "intro": "De samme skærme som i App Store: én skyder, en sammenligning mellem Original og Behandlet, og et delingsark der sender den højere fil derhen, hvor du skal bruge den.",
+    "aria": "Skærmbilleder af appen, rul vandret",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Markedsføringsbillede for Increase Volume: lydstyrkebooster og lydforstærker, op til ti gange højere",
+        "caption": "Lydstyrkebooster og lydforstærker: op til 10× højere."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Videoafspiller i Increase Volume, hvor en finger trækker den lyserøde boost-skyder for at gøre videoen højere",
+        "caption": "Gør en video højere: træk skyderen på videoforhåndsvisningen."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume behandler en MP3-fil og viser filnavn, størrelse og varighed",
+        "caption": "Gør musik højere: MP3 og andre lydfiler behandles på enheden."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Nummerdetaljer med kontakten „Forbedr lydkvalitet“, skyderen „Lydstyrke-multiplikation ×10“ og knappen „Boost lydstyrke til ×10“",
+        "caption": "Vælg hvor meget der skal boostes, fra et lille løft til 10×."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Resultatskærm med knappen „Download behandlet“ og kontakten Original/Behandlet",
+        "caption": "Hør resultatet og sammenlign med originalen, før du gemmer."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "iOS-delingsark med Kopier, Tilføj tags og Arkiver i Filer for den boostede lyd",
+        "caption": "Download og del hvor som helst: Fotos, Filer, Beskeder, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Projektliste i Increase Volume med MP3- og MP4-filer, størrelse og varighed",
+        "caption": "Gem flere projekter og vend tilbage til dem senere."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "Trin 1: video importeret i Increase Volume med boost-skyderen synlig",
+    "step_2_alt": "Trin 2: skyderen „Lydstyrke-multiplikation ×10“ og knappen „Boost lydstyrke“",
+    "step_3_alt": "Trin 3: iOS-delingsark med „Arkiver i Filer“ for den boostede fil"
+  },
+  "faq_section": {
+    "eyebrow": "FAQ",
+    "intro": "Korte svar først. Hvert svar linker til en komplet guide med skærmbilleder.",
+    "learn_more_label": "Læs mere"
+  },
+  "cta": {
+    "eyebrow": "Klar?",
+    "title": "Din stille fil, 10× højere, på under et minut.",
+    "text": "Hent Increase Volume – Lydboost, importer den video eller lyd, ingen kan høre, træk skyderen, og del den høje version.",
+    "note": "Gratis download · Kræver iOS 18.6 eller nyere · 4,5★ i App Store"
   }
 }

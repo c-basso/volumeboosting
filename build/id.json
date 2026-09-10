@@ -46,13 +46,34 @@
     "footnote_item4": "klip media sosial",
     "footnote_last_joiner": ", dan ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Peningkat suara di iPhone — tingkatkan volume audio dan video"
+    "device_image_alt": "Increase Volume – Peningkat suara di iPhone — tingkatkan volume audio dan video",
+    "cta_secondary_link": "Lihat cara kerjanya",
+    "proof_aria": "Fakta aplikasi",
+    "proof": [
+      {
+        "value": "4,5★",
+        "label": "118 penilaian di App Store"
+      },
+      {
+        "value": "10×",
+        "label": "penguatan volume maksimum"
+      },
+      {
+        "value": "Audio + video",
+        "label": "MP3, MP4, MOV, memo suara"
+      },
+      {
+        "value": "Di perangkat",
+        "label": "tidak ada yang diunggah"
+      }
+    ]
   },
   "wave": {
     "before_label": "Sebelum",
     "after_label": "Sesudah",
     "before_text": "Audio asli pelan dan datar",
-    "after_text": "Suara yang diperkuat, penuh dan jernih"
+    "after_text": "Suara yang diperkuat, penuh dan jernih",
+    "toggle_aria": "Beralih antara bentuk gelombang asli dan yang sudah di-boost"
   },
   "sections": {
     "features_uses_aria": "Fitur dan penggunaan",
@@ -157,7 +178,11 @@
     "last_updated_label": "Halaman terakhir diperbarui:",
     "privacy_link": "Kebijakan Privasi",
     "terms_link": "Ketentuan Penggunaan",
-    "app_store_link_text": "Lihat di App Store"
+    "app_store_link_text": "Lihat di App Store",
+    "tagline": "Peningkat volume iPhone yang membuat filenya lebih keras, bukan hanya speakernya.",
+    "links_aria": "Footer",
+    "guides_link_text": "Panduan",
+    "languages_label": "Halaman ini dalam bahasa lain"
   },
   "seo": {
     "breadcrumb_home": "Beranda",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "Aplikasi iPhone yang mengimpor audio atau video, menerapkan hingga ~10× volume dengan kontrol bass dan kejernihan, dan mengekspor file lebih keras untuk disimpan dan dibagikan. Pemrosesan di perangkat; tidak mengubah volume sistem secara global."
+        "description": "Aplikasi iPhone yang mengimpor audio atau video, menerapkan hingga ~10× volume dengan kontrol bass dan kejernihan, dan mengekspor file lebih keras untuk disimpan dan dibagikan. Pemrosesan di perangkat; tidak mengubah volume sistem secara global.",
+        "featureList": [
+          "Boost volume video dan audio hingga 10× (1000%)",
+          "Mendukung MP3, memo suara M4A, video MP4 dan MOV",
+          "Perbandingan Asli/Diproses sebelum menyimpan",
+          "Peningkatan kualitas audio opsional",
+          "Buat proyek dari lembar bagikan Foto",
+          "Simpan ke Foto atau File dan bagikan ke aplikasi apa pun",
+          "Menyimpan beberapa proyek"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "Simpan dan bagikan",
             "text": "Simpan file yang sudah di-boost kembali ke perangkat dan bagikan ke mana saja."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Aplikasi Increase Volume – Peningkat suara untuk iPhone"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Navigasi utama",
+    "how_it_works": "Cara kerja",
+    "screenshots": "Tangkapan layar",
+    "guides": "Panduan",
+    "faq": "FAQ",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "Unduh",
+    "title": "Dapatkan Increase Volume – Peningkat suara di App Store",
+    "subtitle": "Audio & Music Booster · Kategori Musik · iPhone",
+    "price": "Gratis",
+    "price_note": "Pembelian dalam aplikasi opsional (uji coba gratis, atau paket seumur hidup sekali bayar)",
+    "rating_line": "4,5 ★ · 118 penilaian di App Store",
+    "qr_alt": "Kode QR yang menuju Increase Volume – Peningkat suara di App Store",
+    "qr_label": "Pindai dengan kamera iPhone Anda",
+    "requirements": "Memerlukan iOS 18.6 atau lebih baru · 26,8 MB · Bahasa Indonesia + 30 bahasa lainnya · Usia 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Tangkapan layar",
+    "title": "Tampilan aplikasi di iPhone Anda",
+    "intro": "Layar yang sama seperti di App Store: satu slider, perbandingan Asli/Diproses, dan lembar bagikan yang mengirim file yang lebih keras ke mana pun Anda perlu.",
+    "aria": "Tangkapan layar aplikasi, gulir secara horizontal",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Gambar promosi Increase Volume: peningkat volume dan penguat suara, hingga sepuluh kali lebih keras",
+        "caption": "Peningkat volume dan penguat suara: hingga 10× lebih keras."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Pemutar video di Increase Volume, jari menggeser slider boost berwarna merah muda untuk membuat video lebih keras",
+        "caption": "Buat video lebih keras: geser slider pada pratinjau video."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume memproses file MP3 dan menampilkan nama file, ukuran, dan durasi",
+        "caption": "Buat musik lebih keras: MP3 dan file audio lainnya diproses di perangkat."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Detail trek dengan tombol «Tingkatkan Kualitas Audio», slider «Pengali volume ×10», dan tombol «Boost volume ke ×10»",
+        "caption": "Pilih tingkat boost, dari sedikit hingga 10×."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Layar hasil dengan tombol «Unduh yang diproses» dan pengalih Asli/Diproses",
+        "caption": "Dengarkan hasilnya dan bandingkan dengan aslinya sebelum menyimpan."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "Lembar bagikan iOS yang menampilkan Salin, Tambah Tag, dan Simpan ke File untuk audio yang di-boost",
+        "caption": "Unduh dan bagikan ke mana saja: Foto, File, Pesan, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Daftar proyek di Increase Volume dengan file MP3 dan MP4 beserta ukuran dan durasi",
+        "caption": "Simpan beberapa proyek dan lanjutkan lagi nanti."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "Langkah 1: video diimpor ke Increase Volume dengan slider boost terlihat",
+    "step_2_alt": "Langkah 2: slider «Pengali volume ×10» dan tombol «Boost volume»",
+    "step_3_alt": "Langkah 3: lembar bagikan iOS dengan «Simpan ke File» untuk file yang di-boost"
+  },
+  "faq_section": {
+    "eyebrow": "FAQ",
+    "intro": "Jawaban singkat lebih dulu. Masing-masing tertaut ke panduan lengkap dengan tangkapan layar.",
+    "learn_more_label": "Pelajari lebih lanjut"
+  },
+  "cta": {
+    "eyebrow": "Siap?",
+    "title": "File pelan Anda, 10× lebih keras, dalam waktu kurang dari satu menit.",
+    "text": "Unduh Increase Volume – Peningkat suara, impor video atau audio yang tidak terdengar siapa pun, geser slider, dan bagikan versi yang lebih keras.",
+    "note": "Unduh gratis · Memerlukan iOS 18.6 atau lebih baru · 4,5★ di App Store"
   }
 }

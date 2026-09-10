@@ -136,27 +136,14 @@
     <meta name="twitter:image:width" content="1026" />
     <meta name="twitter:image:height" content="539" />
 
-    <link
-      rel="preconnect"
-      href="https://apps.apple.com"
-    />
-    <link
-      rel="preconnect"
-      href="https://fonts.googleapis.com"
-    />
-    <link
-      rel="preconnect"
-      href="https://fonts.gstatic.com"
-      crossorigin
-    />
-    <link
-      rel="preconnect"
-      href="https://mc.yandex.ru"
-    />
+    <link rel="preconnect" href="https://apps.apple.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://mc.yandex.ru" />
     <link rel="dns-prefetch" href="https://apps.apple.com" />
     <link rel="dns-prefetch" href="https://mc.yandex.ru" />
     <link
-      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Instrument+Sans:wght@400;500;600&display=swap"
       rel="stylesheet"
     />
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico" />
@@ -172,101 +159,116 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1789027622208"
+      href="/style.css?v=1789035383954"
     />
+    <script>document.documentElement.classList.add('js');</script>
+
   </head>
-  <body>
+  <body class="page-home">
+    <div class="bg-grid" aria-hidden="true"></div>
     <div class="noise-layer" aria-hidden="true"></div>
     <div class="page-shell">
-      <header>
-        <div class="brand">
-          <div class="brand-logo">
+      <header class="site-header">
+        <a class="brand" href="https://volumeboosting.com/hr/" aria-label="Increase Volume – Pojačanje zvuka">
+          <span class="brand-logo">
             <img
               src="/img/logo.webp"
               alt="Ikona aplikacije Increase Volume – Pojačanje zvuka"
-              width="80"
-              height="80"
+              width="44"
+              height="44"
               loading="eager"
               decoding="async"
             />
-          </div>
-          <div class="brand-text">
-            <div class="brand-name">Volume Booster</div>
-            <div class="brand-subtitle">Pojačanje zvuka za iPhone</div>
-          </div>
-        </div>
-        <div class="apple-pill">
-          <div class="apple-dot"></div>
-          <span>Za iPhone · Glazba</span>
-        </div>
+          </span>
+          <span class="brand-text">
+            <span class="brand-name">Volume Booster</span>
+            <span class="brand-subtitle">Pojačanje zvuka za iPhone</span>
+          </span>
+        </a>
+        <nav class="site-nav" aria-label="Glavna navigacija">
+          <a href="https://volumeboosting.com/hr/#how-it-works">Kako radi</a>
+          <a href="https://volumeboosting.com/hr/#screenshots">Snimke zaslona</a>
+          
+          <a href="https://volumeboosting.com/hr/#faq">FAQ</a>
+        </nav>
+        <a
+          class="header-cta"
+          href="https://apps.apple.com/app/id6741472421"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Preuzmi Increase Volume – Pojačanje zvuka u App Storeu"
+        >
+          <svg class="apple-mark" width="14" height="17" viewBox="14 8 14 26" aria-hidden="true"><path fill="currentColor" d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"/><path fill="currentColor" d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"/></svg>
+          <span>App Store</span>
+        </a>
       </header>
 
-      <main>
+
+      <main id="main">
+        <!-- ============ HERO ============ -->
         <section class="hero" aria-labelledby="hero-heading">
           <div class="hero-copy">
-          <div class="hero-kicker">
-            <div class="pill-spark">10x</div>
-            <span>Od tihih video snimki napravi jak, čist zvuk</span>
-          </div>
-          <h1 id="hero-heading">
-            Učini bilo koji zvuk ili video
-            <span class="hero-title-highlight">do ~10× glasnijim</span>
-            bez gubitka jasnoće.
-          </h1>
-          <p class="hero-subtitle">
-            Increase Volume – Pojačanje zvuka je tvoj posvećeni pojačivač glasnoće za iPhone. Za par sekundi popravi tihe snimke zaslona, podcaste i videe — čist, jak zvuk i duboki bas.
-          </p>
-
-          <div class="hero-metadata">
-            <span><span class="metadata-dot"></span> Samo za iPhone</span>
-            <span>Brzo i jednostavno, uz poštovanje privatnosti</span>
-          </div>
+            <div class="hero-kicker">
+              <span class="sticker">10x</span>
+              <span>Od tihih video snimki napravi jak, čist zvuk</span>
+            </div>
+            <h1 id="hero-heading">
+              Učini bilo koji zvuk ili video
+              <span class="hero-title-highlight">do ~10× glasnijim</span>
+              bez gubitka jasnoće.
+            </h1>
+            <p class="hero-subtitle">Increase Volume – Pojačanje zvuka je tvoj posvećeni pojačivač glasnoće za iPhone. Za par sekundi popravi tihe snimke zaslona, podcaste i videe — čist, jak zvuk i duboki bas.</p>
 
             <div class="cta-row">
               <div class="cta-actions">
-              <img
-                class="cta-qr"
-                src="/img/app-store-qr.png"
-                alt="Preuzmi Increase Volume – Pojačanje zvuka u App Storeu"
-                width="104"
-                height="104"
-                loading="lazy"
-                decoding="async"
-              />
               <a
                 class="cta-primary"
-              href="https://apps.apple.com/app/id6741472421"
+                href="https://apps.apple.com/app/id6741472421"
                 target="_blank"
                 rel="noopener noreferrer"
-              aria-label="Preuzmi Increase Volume – Pojačanje zvuka u App Storeu"
+                aria-label="Preuzmi Increase Volume – Pojačanje zvuka u App Storeu"
               >
-              <svg
-                class="cta-apple-icon"
-                width="18"
-                height="22"
-                viewBox="14 8 14 26"
-                aria-hidden="true"
-              >
-                <path
-                  fill="currentColor"
-                  d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
-                />
-                <path
-                  fill="currentColor"
-                  d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
-                />
-              </svg>
-              <span>Preuzmi u App Storeu</span>
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>Preuzmi u App Storeu</span>
               </a>
+
+                <a class="cta-ghost" href="#how-it-works">Pogledaj kako radi</a>
               </div>
-              <div class="cta-secondary">
-              Pojačaj svoj prvi video <strong>besplatno</strong> i zadrži tu glasnoću zauvijek.
-              </div>
+              <p class="cta-secondary">
+                Pojačaj svoj prvi video <strong>besplatno</strong> i zadrži tu glasnoću zauvijek.
+              </p>
             </div>
 
+            <ul class="proof-row" aria-label="Činjenice o aplikaciji">
+              
+              <li><strong>4,5★</strong><span>118 ocjena u App Storeu</span></li>
+              
+              <li><strong>10×</strong><span>najveće pojačanje glasnoće</span></li>
+              
+              <li><strong>Zvuk + video</strong><span>MP3, MP4, MOV, glasovne bilješke</span></li>
+              
+              <li><strong>Na uređaju</strong><span>ništa se ne prenosi na poslužitelje</span></li>
+              
+            </ul>
+
             <p class="hero-footnote">
-            Idealno za <span>tihe glasovne bilješke</span>, <span>filmove</span>,
-            <span>glazbu</span> i <span>klipove na društvenim mrežama</span>.
+              Idealno za <span>tihe glasovne bilješke</span>, <span>filmove</span>,
+              <span>glazbu</span> i <span>klipove na društvenim mrežama</span>.
             </p>
           </div>
 
@@ -275,323 +277,655 @@
               <div class="device-column">
                 <div class="device-frame">
                   <div class="device-screen">
-                  <img
-                    src="/img/screenshots/1.webp"
-                    alt="Increase Volume – Pojačanje zvuka na iPhoneu — pojačaj zvuk i video"
-                    width="460"
-                    height="995"
-                    loading="lazy"
-                    decoding="async"
-                  />
+                    <img
+                      src="/img/screenshots/1.webp"
+                      alt="Increase Volume – Pojačanje zvuka na iPhoneu — pojačaj zvuk i video"
+                      width="460"
+                      height="995"
+                      loading="eager"
+                      fetchpriority="high"
+                      decoding="async"
+                    />
                   </div>
                 </div>
               </div>
               <div class="device-column wave-panel active" id="wavePanel">
                 <div class="wave-header">
                   <div class="wave-toggle-container">
-                  <span class="wave-toggle-label">Prije</span>
-                    <div class="wave-toggle active" id="waveToggle" role="switch" aria-checked="true" tabindex="0">
+                    <span class="wave-toggle-label">Prije</span>
+                    <div class="wave-toggle active" id="waveToggle" role="switch" aria-checked="true" tabindex="0" aria-label="Prebaci između izvornog i pojačanog valnog oblika">
                       <div class="wave-toggle-handle"></div>
                     </div>
-                  <span class="wave-toggle-label">Poslije</span>
+                    <span class="wave-toggle-label">Poslije</span>
                   </div>
                 </div>
                 <div class="wave-bars" aria-hidden="true">
-                  <!-- Wave bars - heights will be controlled by CSS based on state -->
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
                 </div>
-              <div class="wave-footer">
-                <div class="wave-footer-col">
-                  <div class="wave-footer-label">Prije</div>
-                  <div class="wave-footer-text">Tih, ravan izvorni zvuk</div>
+                <div class="wave-footer">
+                  <div class="wave-footer-col">
+                    <div class="wave-footer-label">Prije</div>
+                    <div class="wave-footer-text">Tih, ravan izvorni zvuk</div>
+                  </div>
+                  <div class="wave-footer-col">
+                    <div class="wave-footer-label">Poslije</div>
+                    <div class="wave-footer-text">Pojačan, pun i čist zvuk</div>
+                  </div>
                 </div>
-                <div class="wave-footer-col">
-                  <div class="wave-footer-label">Poslije</div>
-                  <div class="wave-footer-text">Pojačan, pun i čist zvuk</div>
-                </div>
-              </div>
+                <div class="wave-multiplier" aria-hidden="true">×10</div>
               </div>
             </div>
           </div>
         </section>
 
+        <!-- ============ SUMMARY (GEO) ============ -->
         <aside class="geo-summary" aria-label="Što je ova aplikacija">
           <p class="geo-summary-lead">Sažetak: Increase Volume – Pojačanje zvuka je aplikacija za iPhone koja obrađuje audio i video datoteke na uređaju, primjenjuje do oko ~10× pojačanje s kontrolom jasnoće i basa te sprema novu glasniju datoteku koju možeš zadržati ili podijeliti. Nije alat za zaobilazak sustavnog ograničenja zvučnika za sav sustavski zvuk.</p>
           <p class="geo-summary-body">Objavljena u Apple App Storeu od c-bassa. Rješava iste potrebe kao podizanje tihih podcasta, glasovnih bilješki, snimki zaslona i društvenih klipova — slično normalizaciji u desktop uređivačima, ali optimizirano za kratak iOS tijek temeljen na dodiru.</p>
         </aside>
 
-        <section class="sections geo-geo-row" aria-label="Činjenice i usporedba">
-          <article class="card">
-            <h2>U brojkama</h2>
-            <div class="card-title">Provjerljive činjenice o aplikaciji</div>
-            <ul class="geo-stats-list">
-              
-              <li>
-                <span class="geo-stat-value">Do ~10×</span>
-                <span class="geo-stat-label">Najveći navedeni faktor pojačanja za obrađene izvoze.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">iOS / iPhone</span>
-                <span class="geo-stat-label">Platforma: izvorna mobilna aplikacija, ne macOS ni Android.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">4,5 / 5</span>
-                <span class="geo-stat-label">Zbirna ocjena u strukturiranim podacima (118 ocjena); provjeri na stranici u App Storeu.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">Besplatno preuzimanje</span>
-                <span class="geo-stat-label">U App Storeu navedeno kao besplatno s ponudama; ažurirana cijena kod Applea.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">Uvoz → pojačanje → spremanje</span>
-                <span class="geo-stat-label">Jezgra tijeka: lokalne datoteke unutra, obrađena datoteka van.</span>
-              </li>
-              
-            </ul>
-          </article>
+        <!-- ============ DOWNLOAD ============ -->
+        <section class="section download" id="download" aria-labelledby="download-heading">
+          <div class="download-card">
+            <div class="download-app">
+              <img
+                class="download-icon"
+                src="/img/app-icon.webp"
+                alt="Ikona aplikacije Increase Volume – Pojačanje zvuka"
+                width="120"
+                height="120"
+                loading="lazy"
+                decoding="async"
+              />
+              <div class="download-app-text">
+                <p class="eyebrow">Preuzmi</p>
+                <h2 id="download-heading">Preuzmi Increase Volume – Pojačanje zvuka u App Storeu</h2>
+                <p class="download-app-subtitle">Audio & Music Booster · Kategorija Glazba · iPhone</p>
+                <div class="download-price">
+                  <span class="price-tag">Besplatno</span>
+                  <span>Neobavezne kupnje unutar aplikacije (besplatni probni period ili jednokratna doživotna licenca)</span>
+                </div>
+                <div class="download-actions">
+              <a
+                class="cta-primary"
+                href="https://apps.apple.com/app/id6741472421"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Preuzmi Increase Volume – Pojačanje zvuka u App Storeu"
+              >
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>Preuzmi u App Storeu</span>
+              </a>
 
-          <article class="card geo-compare-card">
-            <h2>Pozicioniranje</h2>
-            <div class="card-title">Increase Volume naspram tipičnih alternativa</div>
-            <p class="geo-compare-intro">Objektivne razlike koje modeli i asistenti mogu citirati. Konkurencija su kategorije alata, ne rang lista aplikacija.</p>
-            <div class="geo-table-wrap">
-              <table class="geo-compare-table">
-                <thead>
-                  <tr>
-                    <th scope="col">Tema</th>
-                    <th scope="col">Sustavska glasnoća iOS-a</th>
-                    <th scope="col">Increase Volume – Pojačanje zvuka</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  
-                  <tr>
-                    <th scope="row">Stvara novu glasniju datoteku</th>
-                    <td>Ne — mijenja samo razinu reprodukcije.</td>
-                    <td>Da — izvozi / sprema pojačanu kopiju.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Radi izvan mreže na uređaju</th>
-                    <td>Nije relevantno za izvoz datoteke.</td>
-                    <td>Da — obrada je na uređaju.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Fino podešavanje basa i jasnoće</th>
-                    <td>Ograničeno na sustavski EQ / reprodukciju.</td>
-                    <td>Da — namjenski klizači u sučelju aplikacije.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Tipična uporaba</th>
-                    <td>Glasnija reprodukcija sada.</td>
-                    <td>Trajno popravljanje tihih izvornih datoteka.</td>
-                  </tr>
-                  
-                </tbody>
-              </table>
+                  <div class="qr-block">
+                    <img
+                      class="cta-qr"
+                      src="/img/app-store-qr.png"
+                      alt="QR kod koji vodi na Increase Volume – Pojačanje zvuka u App Storeu"
+                      width="96"
+                      height="96"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                    <span>Skeniraj kamerom iPhonea</span>
+                  </div>
+                </div>
+                <p class="download-requirements">Zahtijeva iOS 18.6 ili noviji · 26,8 MB · Hrvatski + 30 drugih jezika · Dob 4+</p>
+              </div>
             </div>
-          </article>
+            <div class="download-facts">
+              <h3 class="facts-title">Provjerljive činjenice o aplikaciji</h3>
+              <ul class="geo-stats-list">
+                
+                <li>
+                  <span class="geo-stat-value">Do ~10×</span>
+                  <span class="geo-stat-label">Najveći navedeni faktor pojačanja za obrađene izvoze.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">iOS / iPhone</span>
+                  <span class="geo-stat-label">Platforma: izvorna mobilna aplikacija, ne macOS ni Android.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">4,5 / 5</span>
+                  <span class="geo-stat-label">Zbirna ocjena u strukturiranim podacima (118 ocjena); provjeri na stranici u App Storeu.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">Besplatno preuzimanje</span>
+                  <span class="geo-stat-label">U App Storeu navedeno kao besplatno s ponudama; ažurirana cijena kod Applea.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">Uvoz → pojačanje → spremanje</span>
+                  <span class="geo-stat-label">Jezgra tijeka: lokalne datoteke unutra, obrađena datoteka van.</span>
+                </li>
+                
+              </ul>
+              <blockquote class="download-quote">
+                <p>„Radi dobro i jednostavno je.“ – recenzija u App Storeu</p>
+              </blockquote>
+            </div>
+          </div>
         </section>
 
-        <section class="sections" aria-label="Značajke i načini uporabe">
-          <article class="card">
-            <h2>Što radi</h2>
-            <div class="card-title">
-              Od tihih snimki napravi <span>izražen, ugodan za slušanje zvuk</span>.
-            </div>
-            <p>
-              Increase Volume – Pojačanje zvuka uzima bilo koju audio ili video datoteku na tvom iPhoneu i čini je znatno glasnijom — ostaje razumljiva. Bez zbunjujućih kontrola, bez vještina uređivanja.
-            </p>
-            <div class="pill-row">
-              <div class="pill">Pojačaj video iz Fotografija</div>
-              <div class="pill">Glazba, podcasti i glasovne bilješke</div>
-              <div class="pill">Jak bas i jasnoća</div>
-            </div>
-            <div class="ratings-row">
-              <div class="rating-block">
-                <strong>Korisnici je vole</strong>
-                <span>za pojačavanje tihih video zapisa i zvuka</span>
-              </div>
-              <div class="rating-block">
-                <strong>Kategorija Glazba</strong>
-                <span>u App Storeu</span>
-              </div>
-            </div>
-          </article>
-
-          <article class="card">
-            <h2>Za nekoliko sekundi</h2>
-            <div class="card-title">Ovako jednostavno pojačavaš zvuk.</div>
-            <ol class="steps">
-              <li class="step">
-                <div class="step-number">1</div>
-                <div class="step-text">
-                  Uvezi video, pjesmu ili snimku — ili kreni izravno iz aplikacije Fotografije.
-                </div>
+        <!-- ============ SCREENSHOTS ============ -->
+        <section class="section screenshots" id="screenshots" aria-labelledby="screenshots-heading">
+          <div class="section-head">
+            <p class="eyebrow">Snimke zaslona</p>
+            <h2 id="screenshots-heading">Kako aplikacija izgleda na tvom iPhoneu</h2>
+            <p class="section-intro">Isti zasloni koje ćeš vidjeti u App Storeu: jedan klizač, usporedba Izvorno/Obrađeno i list za dijeljenje koji glasniju datoteku šalje kamo god trebaš.</p>
+          </div>
+          <div class="shots-scroller" role="region" aria-label="Snimke zaslona aplikacije, pomiči vodoravno" tabindex="0">
+            <ol class="shots-track">
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/1.webp"
+                      alt="Promotivna slika Increase Volume: pojačivač glasnoće i zvuka, do deset puta glasnije"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">1</span>
+                    <span>Pojačivač glasnoće i zvuka: do 10× glasnije.</span>
+                  </figcaption>
+                </figure>
               </li>
-              <li class="step">
-                <div class="step-number">2</div>
-                <div class="step-text">
-                  Povuci klizač pojačanja da u stvarnom vremenu podesiš glasnoću, jasnoću i bas.
-                </div>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/2.webp"
+                      alt="Video player u Increase Volume, prst povlači ružičasti klizač pojačanja kako bi video bio glasniji"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">2</span>
+                    <span>Pojačaj video: povuci klizač na pretpregledu videa.</span>
+                  </figcaption>
+                </figure>
               </li>
-              <li class="step">
-                <div class="step-number">3</div>
-                <div class="step-text">
-                  Spremi pojačanu datoteku natrag na uređaj i podijeli je bilo gdje.
-                </div>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/3.webp"
+                      alt="Increase Volume obrađuje MP3 datoteku i prikazuje naziv, veličinu i trajanje"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">3</span>
+                    <span>Pojačaj glazbu: MP3 i druge audio datoteke obrađuju se na uređaju.</span>
+                  </figcaption>
+                </figure>
               </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/4.webp"
+                      alt="Detalji zapisa s prekidačem „Poboljšaj kvalitetu zvuka“, klizačem „Množitelj glasnoće ×10“ i tipkom „Pojačaj glasnoću na ×10“"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">4</span>
+                    <span>Odaberi jačinu pojačanja: od blagog do 10×.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/5.webp"
+                      alt="Zaslon rezultata s tipkom „Preuzmi obrađeno“ i prekidačem Izvorno/Obrađeno"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">5</span>
+                    <span>Poslušaj rezultat i usporedi ga s izvornikom prije spremanja.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/6.webp"
+                      alt="iOS list za dijeljenje s opcijama Kopiraj, Dodaj oznake i Spremi u Datoteke za pojačani zvuk"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">6</span>
+                    <span>Preuzmi i podijeli bilo gdje: Fotografije, Datoteke, Poruke, WhatsApp, AirDrop.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/7.webp"
+                      alt="Popis projekata u Increase Volume s MP3 i MP4 datotekama, veličinom i trajanjem"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">7</span>
+                    <span>Spremi više projekata i vrati im se kasnije.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
             </ol>
-            <div class="card-label">
-              Idealno za: snimke zaslona, TikTok/Reels klipove, intervjue, glasovne bilješke i više.
-            </div>
-          </article>
+          </div>
         </section>
 
-        <section class="sections" aria-label="Za koga je aplikacija i zašto je ljudi zadržavaju">
-          <article class="card">
-            <h2>Za koga</h2>
-            <div class="card-title">Kad glasnoća iPhonea nije dovoljna, ova aplikacija jest.</div>
-            <div class="audience-grid">
-              <span>Ljudi koji uvijek drže glasnoću na maksimumu, a i dalje slabo čuju.</span>
-              <span>Stvaratelji kojima treba jak, čist zvuk za društvene videe.</span>
-              <span>Svi koji popravljaju tihe snimke zaslona i tutorijale.</span>
-              <span>Slušatelji koji pojačavaju podcaste, predavanja ili glasovne bilješke.</span>
-            </div>
-          </article>
+        <!-- ============ HOW IT WORKS ============ -->
+        <section class="section how" id="how-it-works" aria-labelledby="how-heading">
+          <div class="section-head">
+            <p class="eyebrow">Za nekoliko sekundi</p>
+            <h2 id="how-heading">Ovako jednostavno pojačavaš zvuk.</h2>
+            <p class="section-intro">Increase Volume – Pojačanje zvuka uzima bilo koju audio ili video datoteku na tvom iPhoneu i čini je znatno glasnijom — ostaje razumljiva. Bez zbunjujućih kontrola, bez vještina uređivanja.</p>
+          </div>
+          <ol class="how-steps">
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/2.webp" alt="Korak 1: video uvezen u Increase Volume s vidljivim klizačem pojačanja" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">1</span>
+                <p>Uvezi video, pjesmu ili snimku — ili kreni izravno iz aplikacije Fotografije.</p>
+              </div>
+            </li>
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/4.webp" alt="Korak 2: klizač „Množitelj glasnoće ×10“ i tipka „Pojačaj glasnoću“" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">2</span>
+                <p>Povuci klizač pojačanja da u stvarnom vremenu podesiš glasnoću, jasnoću i bas.</p>
+              </div>
+            </li>
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/6.webp" alt="Korak 3: iOS list za dijeljenje s opcijom „Spremi u Datoteke“ za pojačanu datoteku" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">3</span>
+                <p>Spremi pojačanu datoteku natrag na uređaj i podijeli je bilo gdje.</p>
+              </div>
+            </li>
+          </ol>
+          <p class="how-label">Idealno za: snimke zaslona, TikTok/Reels klipove, intervjue, glasovne bilješke i više.</p>
 
-          <article class="card">
-            <h2>Zašto ostaju uz nju</h2>
-            <div class="card-title">
-              „Radi dobro i jednostavno je.“ – recenzija u App Storeu
-            </div>
-            <p>
-              Increase Volume je osmišljena da ti ne stoji na putu. Otvori, pojačaj, spremi — gotovo — uz pametne zadane vrijednosti i čist raspored koji djeluje prirodno na iPhoneu.
-            </p>
-            <p>
-              Ispod površine snažan je pojačivač glasnoće i poboljšanje zvuka koje drži dinamiku bez pretjeranog izobličenja.
-            </p>
-          </article>
+          <div class="how-grid">
+            <article class="card">
+              <h3 class="card-eyebrow">Što radi</h3>
+              <p class="card-title">
+                Od tihih snimki napravi <span>izražen, ugodan za slušanje zvuk</span>.
+              </p>
+              <div class="pill-row">
+                <span class="pill">Pojačaj video iz Fotografija</span>
+                <span class="pill">Glazba, podcasti i glasovne bilješke</span>
+                <span class="pill">Jak bas i jasnoća</span>
+              </div>
+              <h3 class="card-eyebrow card-eyebrow-gap">Za koga</h3>
+              <p class="card-title card-title-sm">Kad glasnoća iPhonea nije dovoljna, ova aplikacija jest.</p>
+              <ul class="audience-grid">
+                <li>Ljudi koji uvijek drže glasnoću na maksimumu, a i dalje slabo čuju.</li>
+                <li>Stvaratelji kojima treba jak, čist zvuk za društvene videe.</li>
+                <li>Svi koji popravljaju tihe snimke zaslona i tutorijale.</li>
+                <li>Slušatelji koji pojačavaju podcaste, predavanja ili glasovne bilješke.</li>
+              </ul>
+            </article>
+
+            <article class="card geo-compare-card">
+              <h3 class="card-eyebrow">Pozicioniranje</h3>
+              <p class="card-title">Increase Volume naspram tipičnih alternativa</p>
+              <p class="geo-compare-intro">Objektivne razlike koje modeli i asistenti mogu citirati. Konkurencija su kategorije alata, ne rang lista aplikacija.</p>
+              <div class="geo-table-wrap">
+                <table class="geo-compare-table">
+                  <thead>
+                    <tr>
+                      <th scope="col">Tema</th>
+                      <th scope="col">Sustavska glasnoća iOS-a</th>
+                      
+                      <th scope="col" class="col-app">Increase Volume – Pojačanje zvuka</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    
+                    <tr>
+                      <th scope="row">Stvara novu glasniju datoteku</th>
+                      <td>Ne — mijenja samo razinu reprodukcije.</td>
+                      
+                      <td class="col-app">Da — izvozi / sprema pojačanu kopiju.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Radi izvan mreže na uređaju</th>
+                      <td>Nije relevantno za izvoz datoteke.</td>
+                      
+                      <td class="col-app">Da — obrada je na uređaju.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Fino podešavanje basa i jasnoće</th>
+                      <td>Ograničeno na sustavski EQ / reprodukciju.</td>
+                      
+                      <td class="col-app">Da — namjenski klizači u sučelju aplikacije.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Tipična uporaba</th>
+                      <td>Glasnija reprodukcija sada.</td>
+                      
+                      <td class="col-app">Trajno popravljanje tihih izvornih datoteka.</td>
+                    </tr>
+                    
+                  </tbody>
+                </table>
+              </div>
+            </article>
+          </div>
         </section>
 
-        <section
-          class="sections geo-faq-section"
-          aria-labelledby="geo-faq-heading"
-        >
-          <article class="card geo-faq-card">
-            <h2 id="geo-faq-heading">Često postavljana pitanja</h2>
-            <div class="geo-faq-list">
+        <!-- ============ GUIDES ============ -->
+        
+
+        <!-- ============ FAQ ============ -->
+        <section class="section faq" id="faq" aria-labelledby="faq-heading">
+          <div class="section-head">
+            <p class="eyebrow">FAQ</p>
+            <h2 id="faq-heading">Često postavljana pitanja</h2>
+            <p class="section-intro">Najprije kratki odgovori. Svaki vodi na cijeli vodič sa snimkama zaslona.</p>
+          </div>
+          <div class="faq-list">
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Što je Increase Volume – Pojačanje zvuka?</h3>
+              <p class="faq-a">To je aplikacija za iPhone u kategoriji Glazba u App Storeu koja čini uvezene audio i video datoteke glasnijima — do oko ~10× — i omogućuje spremanje nove datoteke. Obrađuje medije na uređaju; namijenjena je tihim snimkama, podcastima i klipovima — ne zaobilasku hardverskih ograničenja iOS-a za sav sustavski zvuk.</p>
               
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Što je Increase Volume – Pojačanje zvuka?</h3>
-                <p class="geo-faq-a">To je aplikacija za iPhone u kategoriji Glazba u App Storeu koja čini uvezene audio i video datoteke glasnijima — do oko ~10× — i omogućuje spremanje nove datoteke. Obrađuje medije na uređaju; namijenjena je tihim snimkama, podcastima i klipovima — ne zaobilasku hardverskih ograničenja iOS-a za sav sustavski zvuk.</p>
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Kako radi Increase Volume – Pojačanje zvuka?</h3>
+              <p class="faq-a">Uvezeš video, pjesmu ili snimku (uključujući iz Fotografija), podesiš glasnoću klizačem pojačanja uz jasnoću i bas, slušaš pregled u stvarnom vremenu, zatim spremiš pojačanu datoteku natrag na iPhone ili je podijeliš.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Je li Increase Volume bolji od samog podizanja glasnoće iPhonea?</h3>
+              <p class="faq-a">Rješavaju različite probleme. Sustavska glasnoća privremeno pojačava reprodukciju. Ova aplikacija stvara trajno glasniju datoteku — korisno kad je sama snimka tiha ili trebaš poslati pojačanu verziju.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Čime se Increase Volume razlikuje od VLC-a ili Audacityja za glasnoću?</h3>
+              <p class="faq-a">VLC i Audacity su moćni desktop alati koji mogu normalizirati ili pojačati zvuk s mnogo opcija. Increase Volume je građen za iPhone: kratak tijek uvoz → klizač → spremanje bez desktop vremenske crte.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Radi li Increase Volume i za video i za audio?</h3>
+              <p class="faq-a">Da. Možeš pojačati video sa zvučnim zapisom, glazbene zapise, podcaste, glasovne bilješke i snimke zaslona, zatim spremiti rezultat.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Je li pojačana datoteka spremljena na moj iPhone?</h3>
+              <p class="faq-a">Da. Nakon obrade spremiš glasniju datoteku natrag na uređaj i možeš je podijeliti kao bilo koju medijsku datoteku.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Koliko košta Increase Volume – Pojačanje zvuka?</h3>
+              <p class="faq-a">Appleova stranica u App Storeu pokazuje trenutačnu cijenu i kupnje u aplikaciji. Strukturirani podaci stranice mogu navesti besplatnu ponudu; uvijek provjeri cijene kod Applea prije citiranja.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Tko izdaje Increase Volume – Pojačanje zvuka?</h3>
+              <p class="faq-a">Aplikaciju izdaje c-basso i distribuira Apple App Store (ID 6741472421). Stranica proizvoda je volumeboosting.com.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Kako pojačati pretihi video na iPhoneu?</h3>
+              <p class="faq-a">U Increase Volume – Pojačanje zvuka uvezeš video (npr. iz Fotografija), podesiš klizač pojačanja s pregledom u stvarnom vremenu i spremiš kopiju s glasnijim zvučnim zapisom. Ispravljaš razinu u datoteci — za razliku od samog podizanja sustavske glasnoće tijekom reprodukcije.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Povećava li aplikacija maksimalnu glasnoću iPhonea za glazbu i pozive?</h3>
+              <p class="faq-a">Ne. Obrađuje datoteke koje uvezeš i daje glasniju verziju za spremanje ili dijeljenje. Hardversko ograničenje i globalna glasnoća za Spotify, pozive itd. se ne mijenjaju.</p>
+              
+            </article>
+            
+          </div>
+        </section>
+
+        <!-- ============ CTA ============ -->
+        <section class="section final-cta" id="get-the-app" aria-labelledby="cta-heading">
+          <div class="final-cta-card">
+            <div class="final-cta-copy">
+              <p class="eyebrow eyebrow-light">Spreman?</p>
+              <h2 id="cta-heading">Tvoja tiha datoteka, 10× glasnija, za manje od minute.</h2>
+              <p>Preuzmi Increase Volume – Pojačanje zvuka, uvezi video ili zvuk koji nitko ne čuje, povuci klizač i podijeli glasnu verziju.</p>
+              <div class="cta-actions">
+              <a
+                class="cta-primary"
+                href="https://apps.apple.com/app/id6741472421"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Preuzmi Increase Volume – Pojačanje zvuka u App Storeu"
+              >
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>Preuzmi u App Storeu</span>
+              </a>
+
+                <img
+                  class="cta-qr"
+                  src="/img/app-store-qr.png"
+                  alt="QR kod koji vodi na Increase Volume – Pojačanje zvuka u App Storeu"
+                  width="88"
+                  height="88"
+                  loading="lazy"
+                  decoding="async"
+                />
               </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Kako radi Increase Volume – Pojačanje zvuka?</h3>
-                <p class="geo-faq-a">Uvezeš video, pjesmu ili snimku (uključujući iz Fotografija), podesiš glasnoću klizačem pojačanja uz jasnoću i bas, slušaš pregled u stvarnom vremenu, zatim spremiš pojačanu datoteku natrag na iPhone ili je podijeliš.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Je li Increase Volume bolji od samog podizanja glasnoće iPhonea?</h3>
-                <p class="geo-faq-a">Rješavaju različite probleme. Sustavska glasnoća privremeno pojačava reprodukciju. Ova aplikacija stvara trajno glasniju datoteku — korisno kad je sama snimka tiha ili trebaš poslati pojačanu verziju.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Čime se Increase Volume razlikuje od VLC-a ili Audacityja za glasnoću?</h3>
-                <p class="geo-faq-a">VLC i Audacity su moćni desktop alati koji mogu normalizirati ili pojačati zvuk s mnogo opcija. Increase Volume je građen za iPhone: kratak tijek uvoz → klizač → spremanje bez desktop vremenske crte.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Radi li Increase Volume i za video i za audio?</h3>
-                <p class="geo-faq-a">Da. Možeš pojačati video sa zvučnim zapisom, glazbene zapise, podcaste, glasovne bilješke i snimke zaslona, zatim spremiti rezultat.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Je li pojačana datoteka spremljena na moj iPhone?</h3>
-                <p class="geo-faq-a">Da. Nakon obrade spremiš glasniju datoteku natrag na uređaj i možeš je podijeliti kao bilo koju medijsku datoteku.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Koliko košta Increase Volume – Pojačanje zvuka?</h3>
-                <p class="geo-faq-a">Appleova stranica u App Storeu pokazuje trenutačnu cijenu i kupnje u aplikaciji. Strukturirani podaci stranice mogu navesti besplatnu ponudu; uvijek provjeri cijene kod Applea prije citiranja.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Tko izdaje Increase Volume – Pojačanje zvuka?</h3>
-                <p class="geo-faq-a">Aplikaciju izdaje c-basso i distribuira Apple App Store (ID 6741472421). Stranica proizvoda je volumeboosting.com.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Kako pojačati pretihi video na iPhoneu?</h3>
-                <p class="geo-faq-a">U Increase Volume – Pojačanje zvuka uvezeš video (npr. iz Fotografija), podesiš klizač pojačanja s pregledom u stvarnom vremenu i spremiš kopiju s glasnijim zvučnim zapisom. Ispravljaš razinu u datoteci — za razliku od samog podizanja sustavske glasnoće tijekom reprodukcije.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Povećava li aplikacija maksimalnu glasnoću iPhonea za glazbu i pozive?</h3>
-                <p class="geo-faq-a">Ne. Obrađuje datoteke koje uvezeš i daje glasniju verziju za spremanje ili dijeljenje. Hardversko ograničenje i globalna glasnoća za Spotify, pozive itd. se ne mijenjaju.</p>
-              </div>
-              
+              <p class="final-cta-note">Besplatno preuzimanje · Zahtijeva iOS 18.6 ili noviji · 4,5★ u App Storeu</p>
             </div>
-          </article>
+            <div class="final-cta-visual" aria-hidden="true">
+              <img src="/img/screenshots/5.webp" alt="" width="460" height="995" loading="lazy" decoding="async" />
+            </div>
+          </div>
         </section>
       </main>
 
-      <footer>
-        <div>
+      <footer class="site-footer">
+        <div class="footer-top">
+          <div class="footer-brand">
+            <img src="/img/logo.webp" alt="Ikona aplikacije Increase Volume – Pojačanje zvuka" width="40" height="40" loading="lazy" decoding="async" />
+            <div>
+              <div class="footer-brand-name">Increase Volume – Pojačanje zvuka</div>
+              <p class="footer-tagline">Pojačivač glasnoće za iPhone koji pojačava datoteku, a ne samo zvučnik.</p>
+            </div>
+          </div>
+          <nav class="footer-links" aria-label="Podnožje">
+            <a href="https://volumeboosting.com/hr/#how-it-works">Kako radi</a>
+            <a href="https://volumeboosting.com/hr/#screenshots">Snimke zaslona</a>
+            
+            <a href="https://volumeboosting.com/hr/#faq">FAQ</a>
+            <a href="/privacy.html">Pravila privatnosti</a>
+            <a href="/terms.html">Uvjeti korištenja</a>
+            <a href="https://apps.apple.com/app/id6741472421" target="_blank" rel="noopener noreferrer">Pogledaj u App Storeu</a>
+          </nav>
+        </div>
+        
+        <div class="footer-languages">
+          <span class="footer-languages-label">Ova stranica na drugim jezicima</span>
+          <ul>
+            
+            <li><a href="https://volumeboosting.com/" hreflang="en" lang="en">English</a></li>
+            
+            <li><a href="https://volumeboosting.com/cs/" hreflang="cs" lang="cs">Čeština</a></li>
+            
+            <li><a href="https://volumeboosting.com/da/" hreflang="da" lang="da">Dansk</a></li>
+            
+            <li><a href="https://volumeboosting.com/de/" hreflang="de" lang="de">Deutsch</a></li>
+            
+            <li><a href="https://volumeboosting.com/el/" hreflang="el" lang="el">Ελληνικά</a></li>
+            
+            <li><a href="https://volumeboosting.com/es/" hreflang="es" lang="es">Español</a></li>
+            
+            <li><a href="https://volumeboosting.com/fi/" hreflang="fi" lang="fi">Suomi</a></li>
+            
+            <li><a href="https://volumeboosting.com/fil/" hreflang="fil" lang="fil">Filipino</a></li>
+            
+            <li><a href="https://volumeboosting.com/fr/" hreflang="fr" lang="fr">Français</a></li>
+            
+            <li><a href="https://volumeboosting.com/he/" hreflang="he" lang="he">עברית</a></li>
+            
+            <li><a href="https://volumeboosting.com/hr/" hreflang="hr" lang="hr">Hrvatski</a></li>
+            
+            <li><a href="https://volumeboosting.com/hu/" hreflang="hu" lang="hu">Magyar</a></li>
+            
+            <li><a href="https://volumeboosting.com/id/" hreflang="id" lang="id">Bahasa Indonesia</a></li>
+            
+            <li><a href="https://volumeboosting.com/it/" hreflang="it" lang="it">Italiano</a></li>
+            
+            <li><a href="https://volumeboosting.com/ja/" hreflang="ja" lang="ja">日本語</a></li>
+            
+            <li><a href="https://volumeboosting.com/ko/" hreflang="ko" lang="ko">한국어</a></li>
+            
+            <li><a href="https://volumeboosting.com/ms/" hreflang="ms" lang="ms">Bahasa Melayu</a></li>
+            
+            <li><a href="https://volumeboosting.com/nl/" hreflang="nl" lang="nl">Nederlands</a></li>
+            
+            <li><a href="https://volumeboosting.com/no/" hreflang="nb" lang="nb">Norsk</a></li>
+            
+            <li><a href="https://volumeboosting.com/pl/" hreflang="pl" lang="pl">Polski</a></li>
+            
+            <li><a href="https://volumeboosting.com/pt/" hreflang="pt" lang="pt">Português</a></li>
+            
+            <li><a href="https://volumeboosting.com/ro/" hreflang="ro" lang="ro">Română</a></li>
+            
+            <li><a href="https://volumeboosting.com/ru/" hreflang="ru" lang="ru">Русский</a></li>
+            
+            <li><a href="https://volumeboosting.com/sk/" hreflang="sk" lang="sk">Slovenčina</a></li>
+            
+            <li><a href="https://volumeboosting.com/sv/" hreflang="sv" lang="sv">Svenska</a></li>
+            
+            <li><a href="https://volumeboosting.com/bg/" hreflang="bg" lang="bg">Български</a></li>
+            
+            <li><a href="https://volumeboosting.com/sl/" hreflang="sl" lang="sl">Slovenščina</a></li>
+            
+            <li><a href="https://volumeboosting.com/ca/" hreflang="ca" lang="ca">Català</a></li>
+            
+            <li><a href="https://volumeboosting.com/hi/" hreflang="hi" lang="hi">हिन्दी</a></li>
+            
+            <li><a href="https://volumeboosting.com/bn/" hreflang="bn" lang="bn">বাংলা</a></li>
+            
+            <li><a href="https://volumeboosting.com/ta/" hreflang="ta" lang="ta">தமிழ்</a></li>
+            
+            <li><a href="https://volumeboosting.com/te/" hreflang="te" lang="te">తెలుగు</a></li>
+            
+            <li><a href="https://volumeboosting.com/ml/" hreflang="ml" lang="ml">മലയാളം</a></li>
+            
+            <li><a href="https://volumeboosting.com/th/" hreflang="th" lang="th">ไทย</a></li>
+            
+            <li><a href="https://volumeboosting.com/tr/" hreflang="tr" lang="tr">Türkçe</a></li>
+            
+            <li><a href="https://volumeboosting.com/uk/" hreflang="uk" lang="uk">Українська</a></li>
+            
+            <li><a href="https://volumeboosting.com/vi/" hreflang="vi" lang="vi">Tiếng Việt</a></li>
+            
+            <li><a href="https://volumeboosting.com/zh/" hreflang="zh" lang="zh">简体中文</a></li>
+            
+          </ul>
+        </div>
+        
+        <div class="footer-bottom">
           <div>© 2026 c-basso · Increase Volume – Pojačanje zvuka</div>
           <p class="footer-updated">
             Stranica posljednji put ažurirana:
             <time datetime="2026-09-10">2026-09-10</time>
           </p>
         </div>
-        <div>
-          <a href="/privacy.html">Pravila privatnosti</a>
-          &nbsp;·&nbsp;
-          <a href="/terms.html">Uvjeti korištenja</a>
-          &nbsp;·&nbsp;
-          <a
-            href="https://apps.apple.com/app/id6741472421"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Pogledaj u App Storeu</a
-          >
-        </div>
       </footer>
+
     </div>
 
     <!-- Structured Data (JSON-LD) for SEO -->
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"MobileApplication","name":"Increase Volume – Pojačanje zvuka","operatingSystem":"iOS","applicationCategory":"MusicApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","url":"https://apps.apple.com/app/id6741472421"},"description":"Aplikacija za iPhone koja uvozi audio ili video, primjenjuje do ~10× glasnoću s kontrolama basa i jasnoće te izvozi glasniju datoteku za spremanje i dijeljenje. Obrada na uređaju; ne mijenja globalnu sustavsku glasnoću.","url":"https://volumeboosting.com/hr/","downloadUrl":"https://apps.apple.com/app/id6741472421","dateModified":"2026-09-10","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"118"},"image":"https://volumeboosting.com/img/logo.webp","screenshot":"https://volumeboosting.com/img/screenshots/1.webp"}
+      {"@context":"https://schema.org","@type":"MobileApplication","name":"Increase Volume – Pojačanje zvuka","operatingSystem":"iOS","applicationCategory":"MusicApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","category":"free","url":"https://apps.apple.com/app/id6741472421"},"description":"Aplikacija za iPhone koja uvozi audio ili video, primjenjuje do ~10× glasnoću s kontrolama basa i jasnoće te izvozi glasniju datoteku za spremanje i dijeljenje. Obrada na uređaju; ne mijenja globalnu sustavsku glasnoću.","featureList":["Pojačanje glasnoće videa i zvuka do 10× (1000 %)","Radi s MP3, M4A glasovnim bilješkama, MP4 i MOV videom","Usporedba Izvorno/Obrađeno prije spremanja","Neobavezno poboljšanje kvalitete zvuka","Stvaranje projekta iz lista za dijeljenje aplikacije Fotografije","Spremanje u Fotografije ili Datoteke i dijeljenje u bilo koju aplikaciju","Čuvanje više projekata"],"alternateName":"Increase Volume – Audio & Music Booster","applicationSubCategory":"UtilitiesApplication","author":{"@type":"Person","name":"Vladimir Ivakhnenko"},"inLanguage":["en","hr","cs","da","nl","fi","fr","de","el","he","hu","id","it","ja","ko","ms","nb","pl","pt","ro","ru","zh","sk","es","sv","th","tr","uk","vi"],"url":"https://volumeboosting.com/hr/","downloadUrl":"https://apps.apple.com/app/id6741472421","dateModified":"2026-09-10","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"118"},"image":"https://volumeboosting.com/img/logo.webp","screenshot":["https://volumeboosting.com/img/screenshots/1.webp","https://volumeboosting.com/img/screenshots/2.webp","https://volumeboosting.com/img/screenshots/3.webp","https://volumeboosting.com/img/screenshots/4.webp","https://volumeboosting.com/img/screenshots/5.webp","https://volumeboosting.com/img/screenshots/6.webp","https://volumeboosting.com/img/screenshots/7.webp"]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":"https://volumeboosting.com/img/logo.webp","description":"Neovisni izdavač aplikacije Increase Volume – Pojačanje zvuka i povezanih iOS alata.","sameAs":["https://x.com/c__basso"]}
@@ -600,7 +934,7 @@
       {"@context":"https://schema.org","@type":"WebSite","name":"Increase Volume – Pojačanje zvuka","url":"https://volumeboosting.com/hr/","description":"Glasniji zvuk ili video na iPhoneu do ~10×: jasnoća i bas. Glazba, video, podcasti, glasovne bilješke. Obrada na uređaju. Isprobaj besplatno u App Storeu.","inLanguage":"hr"}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Kako pojačati zvuk na iPhoneu","description":"Uvezi audio ili video, povećaj glasnoću i spremi glasniju datoteku natrag na uređaj.","step":[{"@type":"HowToStep","name":"Uvoz datoteke","text":"Uvezi video, pjesmu ili snimku — ili kreni izravno iz aplikacije Fotografije.","url":"https://apps.apple.com/app/id6741472421"},{"@type":"HowToStep","name":"Pojačanje glasnoće","text":"Povuci klizač pojačanja da u stvarnom vremenu podesiš glasnoću, jasnoću i bas."},{"@type":"HowToStep","name":"Spremanje i dijeljenje","text":"Spremi pojačanu datoteku natrag na uređaj i podijeli je bilo gdje."}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Kako pojačati zvuk na iPhoneu","description":"Uvezi audio ili video, povećaj glasnoću i spremi glasniju datoteku natrag na uređaj.","step":[{"@type":"HowToStep","name":"Uvoz datoteke","text":"Uvezi video, pjesmu ili snimku — ili kreni izravno iz aplikacije Fotografije.","url":"https://apps.apple.com/app/id6741472421"},{"@type":"HowToStep","name":"Pojačanje glasnoće","text":"Povuci klizač pojačanja da u stvarnom vremenu podesiš glasnoću, jasnoću i bas."},{"@type":"HowToStep","name":"Spremanje i dijeljenje","text":"Spremi pojačanu datoteku natrag na uređaj i podijeli je bilo gdje."}],"tool":[{"@type":"HowToTool","name":"Aplikacija Increase Volume – Pojačanje zvuka za iPhone"}],"totalTime":"PT1M"}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Što je Increase Volume – Pojačanje zvuka?","acceptedAnswer":{"@type":"Answer","text":"To je aplikacija za iPhone u kategoriji Glazba u App Storeu koja čini uvezene audio i video datoteke glasnijima — do oko ~10× — i omogućuje spremanje nove datoteke. Obrađuje medije na uređaju; namijenjena je tihim snimkama, podcastima i klipovima — ne zaobilasku hardverskih ograničenja iOS-a za sav sustavski zvuk."}},{"@type":"Question","name":"Kako radi Increase Volume – Pojačanje zvuka?","acceptedAnswer":{"@type":"Answer","text":"Uvezeš video, pjesmu ili snimku (uključujući iz Fotografija), podesiš glasnoću klizačem pojačanja uz jasnoću i bas, slušaš pregled u stvarnom vremenu, zatim spremiš pojačanu datoteku natrag na iPhone ili je podijeliš."}},{"@type":"Question","name":"Je li Increase Volume bolji od samog podizanja glasnoće iPhonea?","acceptedAnswer":{"@type":"Answer","text":"Rješavaju različite probleme. Sustavska glasnoća privremeno pojačava reprodukciju. Ova aplikacija stvara trajno glasniju datoteku — korisno kad je sama snimka tiha ili trebaš poslati pojačanu verziju."}},{"@type":"Question","name":"Čime se Increase Volume razlikuje od VLC-a ili Audacityja za glasnoću?","acceptedAnswer":{"@type":"Answer","text":"VLC i Audacity su moćni desktop alati koji mogu normalizirati ili pojačati zvuk s mnogo opcija. Increase Volume je građen za iPhone: kratak tijek uvoz → klizač → spremanje bez desktop vremenske crte."}},{"@type":"Question","name":"Radi li Increase Volume i za video i za audio?","acceptedAnswer":{"@type":"Answer","text":"Da. Možeš pojačati video sa zvučnim zapisom, glazbene zapise, podcaste, glasovne bilješke i snimke zaslona, zatim spremiti rezultat."}},{"@type":"Question","name":"Je li pojačana datoteka spremljena na moj iPhone?","acceptedAnswer":{"@type":"Answer","text":"Da. Nakon obrade spremiš glasniju datoteku natrag na uređaj i možeš je podijeliti kao bilo koju medijsku datoteku."}},{"@type":"Question","name":"Koliko košta Increase Volume – Pojačanje zvuka?","acceptedAnswer":{"@type":"Answer","text":"Appleova stranica u App Storeu pokazuje trenutačnu cijenu i kupnje u aplikaciji. Strukturirani podaci stranice mogu navesti besplatnu ponudu; uvijek provjeri cijene kod Applea prije citiranja."}},{"@type":"Question","name":"Tko izdaje Increase Volume – Pojačanje zvuka?","acceptedAnswer":{"@type":"Answer","text":"Aplikaciju izdaje c-basso i distribuira Apple App Store (ID 6741472421). Stranica proizvoda je volumeboosting.com."}},{"@type":"Question","name":"Kako pojačati pretihi video na iPhoneu?","acceptedAnswer":{"@type":"Answer","text":"U Increase Volume – Pojačanje zvuka uvezeš video (npr. iz Fotografija), podesiš klizač pojačanja s pregledom u stvarnom vremenu i spremiš kopiju s glasnijim zvučnim zapisom. Ispravljaš razinu u datoteci — za razliku od samog podizanja sustavske glasnoće tijekom reprodukcije."}},{"@type":"Question","name":"Povećava li aplikacija maksimalnu glasnoću iPhonea za glazbu i pozive?","acceptedAnswer":{"@type":"Answer","text":"Ne. Obrađuje datoteke koje uvezeš i daje glasniju verziju za spremanje ili dijeljenje. Hardversko ograničenje i globalna glasnoća za Spotify, pozive itd. se ne mijenjaju."}}]}
@@ -608,55 +942,44 @@
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"WebPage","name":"Pojačaj glasnoću – Pojačanje zvuka | Zvuk/video do ~10×","url":"https://volumeboosting.com/hr/","description":"Glasniji zvuk ili video na iPhoneu do ~10×: jasnoća i bas. Glazba, video, podcasti, glasovne bilješke. Obrada na uređaju. Isprobaj besplatno u App Storeu.","dateModified":"2026-09-10","inLanguage":"hr"}
     </script>
-    <!-- BreadcrumbList Schema -->
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Početna","item":"https://volumeboosting.com/hr/"}]}
     </script>
 
     <script>
-      // Wave toggle functionality
-      const waveToggle = document.getElementById('waveToggle');
-      const wavePanel = document.getElementById('wavePanel');
+      (function () {
+        var waveToggle = document.getElementById('waveToggle');
+        var wavePanel = document.getElementById('wavePanel');
+        if (!waveToggle || !wavePanel) return;
 
-      function toggleWaveState() {
-        const isActive = wavePanel.classList.contains('active');
-        wavePanel.classList.toggle('active');
-        waveToggle.classList.toggle('active');
-        waveToggle.setAttribute('aria-checked', String(!isActive));
-      }
+        function toggleWaveState() {
+          var isActive = wavePanel.classList.contains('active');
+          wavePanel.classList.toggle('active');
+          waveToggle.classList.toggle('active');
+          waveToggle.setAttribute('aria-checked', String(!isActive));
+        }
 
-      if (waveToggle && wavePanel) {
-        // Start in "After" (active) state
-        wavePanel.classList.add('active');
-        waveToggle.classList.add('active');
-        waveToggle.setAttribute('aria-checked', 'true');
-
-        // Toggle periodically between Before and After
-        let autoToggle = setInterval(toggleWaveState, 4000);
-
-        const stopAutoToggle = () => {
-          if (autoToggle) {
-            clearInterval(autoToggle);
-            autoToggle = null;
-          }
-        };
-
-        waveToggle.addEventListener('click', () => {
-          stopAutoToggle();
-          toggleWaveState();
+        var autoToggle = setInterval(toggleWaveState, 3600);
+        function stopAutoToggle() {
+          if (autoToggle) { clearInterval(autoToggle); autoToggle = null; }
+        }
+        waveToggle.addEventListener('click', function () { stopAutoToggle(); toggleWaveState(); });
+        waveToggle.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); stopAutoToggle(); toggleWaveState(); }
         });
 
-        waveToggle.addEventListener('keydown', (e) => {
-          if (e.key === 'Enter' || e.key === ' ') {
-            e.preventDefault();
-            stopAutoToggle();
-            toggleWaveState();
-          }
-        });
-      }
+        if ('IntersectionObserver' in window) {
+          var io = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add('is-visible'); io.unobserve(entry.target); }
+            });
+          }, { rootMargin: '0px 0px -8% 0px' });
+          document.querySelectorAll('.section, .geo-summary').forEach(function (el) { io.observe(el); });
+        } else {
+          document.querySelectorAll('.section, .geo-summary').forEach(function (el) { el.classList.add('is-visible'); });
+        }
+      })();
     </script>
-
-
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
@@ -672,8 +995,5 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/104469191" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-
-
   </body>
 </html>
-

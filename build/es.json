@@ -46,13 +46,34 @@
     "footnote_item4": "clips para redes sociales",
     "footnote_last_joiner": " y ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Potencia de sonido en el iPhone — sube el volumen de audio y vídeo"
+    "device_image_alt": "Increase Volume – Potencia de sonido en el iPhone — sube el volumen de audio y vídeo",
+    "cta_secondary_link": "Ver cómo funciona",
+    "proof_aria": "Datos de la app",
+    "proof": [
+      {
+        "value": "4,5★",
+        "label": "118 valoraciones en la App Store"
+      },
+      {
+        "value": "10×",
+        "label": "multiplicación máxima del volumen"
+      },
+      {
+        "value": "Audio + vídeo",
+        "label": "MP3, MP4, MOV, notas de voz"
+      },
+      {
+        "value": "En el dispositivo",
+        "label": "no se sube nada"
+      }
+    ]
   },
   "wave": {
     "before_label": "Antes",
     "after_label": "Después",
     "before_text": "Audio original bajo y plano",
-    "after_text": "Sonido amplificado, completo y claro"
+    "after_text": "Sonido amplificado, completo y claro",
+    "toggle_aria": "Alternar entre la forma de onda original y la potenciada"
   },
   "sections": {
     "features_uses_aria": "Funciones y usos",
@@ -157,7 +178,11 @@
     "last_updated_label": "Página actualizada:",
     "privacy_link": "Política de privacidad",
     "terms_link": "Términos de uso",
-    "app_store_link_text": "Ver en la App Store"
+    "app_store_link_text": "Ver en la App Store",
+    "tagline": "El amplificador de volumen para iPhone que sube el archivo, no solo el altavoz.",
+    "links_aria": "Pie de página",
+    "guides_link_text": "Guías",
+    "languages_label": "Esta página en otros idiomas"
   },
   "seo": {
     "breadcrumb_home": "Inicio",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "App para iPhone que importa audio o vídeo, aplica ganancia de hasta ~10× con ajustes de graves y claridad, y exporta un archivo más fuerte para guardar y compartir. Procesamiento en el dispositivo; no modifica el volumen del sistema de forma global."
+        "description": "App para iPhone que importa audio o vídeo, aplica ganancia de hasta ~10× con ajustes de graves y claridad, y exporta un archivo más fuerte para guardar y compartir. Procesamiento en el dispositivo; no modifica el volumen del sistema de forma global.",
+        "featureList": [
+          "Potencia el volumen de vídeo y audio hasta 10× (1000 %)",
+          "Compatible con MP3, notas de voz M4A y vídeos MP4 y MOV",
+          "Comparación Original/Procesado antes de guardar",
+          "Mejora opcional de la calidad de audio",
+          "Crea un proyecto desde la hoja para compartir de Fotos",
+          "Guarda en Fotos o Archivos y comparte con cualquier app",
+          "Conserva varios proyectos"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "Guardar y compartir",
             "text": "Guarda el archivo potenciado en el dispositivo y compártelo donde quieras."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "App Increase Volume – Potencia de sonido para iPhone"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Navegación principal",
+    "how_it_works": "Cómo funciona",
+    "screenshots": "Capturas",
+    "guides": "Guías",
+    "faq": "FAQ",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "Descargar",
+    "title": "Descarga Increase Volume – Potencia de sonido en la App Store",
+    "subtitle": "Audio & Music Booster · Categoría «Música» · iPhone",
+    "price": "Gratis",
+    "price_note": "Compras dentro de la app opcionales (prueba gratuita o pago único de por vida)",
+    "rating_line": "4,5 ★ · 118 valoraciones en la App Store",
+    "qr_alt": "Código QR que enlaza a Increase Volume – Potencia de sonido en la App Store",
+    "qr_label": "Escanéalo con la cámara de tu iPhone",
+    "requirements": "Requiere iOS 18.6 o posterior · 26,8 MB · Español + 30 idiomas más · Edad 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Capturas de pantalla",
+    "title": "Así se ve la app en tu iPhone",
+    "intro": "Las mismas pantallas que verás en la App Store: un solo deslizador, una comparación Original/Procesado y una hoja para compartir que lleva el archivo más alto a donde lo necesites.",
+    "aria": "Capturas de la app, desplazamiento horizontal",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Imagen promocional de Increase Volume: amplificador de volumen y de sonido, hasta diez veces más fuerte",
+        "caption": "Amplificador de volumen y de sonido: hasta 10× más fuerte."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Reproductor de vídeo en Increase Volume con un dedo arrastrando el deslizador rosa para subir el volumen del vídeo",
+        "caption": "Sube el volumen de un vídeo: arrastra el deslizador sobre la vista previa."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume procesando un archivo MP3 con el nombre, el tamaño y la duración",
+        "caption": "Sube el volumen de la música: los MP3 y otros archivos de audio se procesan en el dispositivo."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Detalles de la pista con el interruptor «Mejorar calidad de audio», el deslizador «Multiplicación del volumen ×10» y el botón «Potenciar volumen a ×10»",
+        "caption": "Elige cuánto potenciar, desde un toque suave hasta 10×."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Pantalla de resultado con el botón «Descargar procesado» y el selector Original/Procesado",
+        "caption": "Escucha el resultado y compáralo con el original antes de guardar."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "Hoja para compartir de iOS con Copiar, Añadir etiquetas y Guardar en Archivos para el audio potenciado",
+        "caption": "Descarga y comparte donde quieras: Fotos, Archivos, Mensajes, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Lista de proyectos de Increase Volume con archivos MP3 y MP4, su tamaño y duración",
+        "caption": "Guarda varios proyectos y retómalos más tarde."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "Paso 1: vídeo importado en Increase Volume con el deslizador de refuerzo visible",
+    "step_2_alt": "Paso 2: deslizador «Multiplicación del volumen ×10» y botón «Potenciar volumen»",
+    "step_3_alt": "Paso 3: hoja para compartir de iOS con «Guardar en Archivos» para el archivo potenciado"
+  },
+  "faq_section": {
+    "eyebrow": "FAQ",
+    "intro": "Primero, respuestas breves. Cada una enlaza a una guía completa con capturas de pantalla.",
+    "learn_more_label": "Más información"
+  },
+  "cta": {
+    "eyebrow": "¿Preparado?",
+    "title": "Tu archivo bajo, 10× más fuerte, en menos de un minuto.",
+    "text": "Descarga Increase Volume – Potencia de sonido, importa el vídeo o audio que nadie oye, arrastra el deslizador y comparte la versión a todo volumen.",
+    "note": "Descarga gratuita · Requiere iOS 18.6 o posterior · 4,5★ en la App Store"
   }
 }

@@ -1,0 +1,137 @@
+{
+  "keyword": "make video louder without losing quality",
+  "priority": 9,
+  "keywords": "make video louder without losing quality, boost audio without distortion, increase volume without clipping, does boosting volume reduce quality",
+  "title": "How to Make a Video Louder Without Losing Quality (iPhone)",
+  "description": "Boosting volume causes clipping if you overdo it. Learn how gain works, how much boost is safe, and how to use the Original/Processed check in Increase Volume.",
+  "h1": "How to make a video louder without losing quality",
+  "eyebrow": "Quality",
+  "card_title": "Boost volume without distortion",
+  "card_summary": "What clipping is, how much headroom a quiet recording has, and how to check before you save.",
+  "published": "2026-09-10",
+  "quick_answer": "Boosting volume does not touch the picture, and it does not degrade the audio as long as the loudest peaks stay below the digital ceiling. On iPhone, open the video in Increase Volume, start at ×3, tap Boost Volume, and use the Original/Processed toggle to listen to the loudest moment. Raise the multiplier until it is clearly loud but not harsh. Switch on Improve Audio Quality for speech, and save with Download Processed. Your original file is never modified.",
+  "intro": [
+    "“Won't it sound distorted?” is the first question people ask about a volume booster, and it is the right question. Amplifying audio is multiplication: every sample gets bigger. If the biggest ones hit the maximum value the format allows, they are chopped flat, and you hear a crackle or harshness on the loud parts. That is clipping, and it is the only real quality risk.",
+    "The good news: a *quiet* recording, by definition, has lots of room before that ceiling. This guide explains how to use that room and how to check your result before you save."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "Increase Volume result screen with Download Processed button and the Original versus Processed comparison toggle",
+    "caption": "Always A/B the loudest part with the Original/Processed toggle before you download."
+  },
+  "sections": [
+    {
+      "heading": "What actually changes when you boost",
+      "paragraphs": [
+        "Only the audio track is processed. The video stream is passed through, so resolution, frame rate and colour are exactly the same. Inside the audio, a multiplier of ×2 doubles the amplitude (about +6 dB), ×4 is about +12 dB, and ×10 is +20 dB. Any noise in the recording (room hiss, wind) is multiplied by the same amount, which is why very high boosts on noisy recordings can sound hissy even when nothing clips."
+      ]
+    },
+    {
+      "heading": "How much boost is safe?",
+      "paragraphs": [
+        "It depends on how far below the ceiling the loudest moment sits, not on how quiet the *average* is. A recording that sounds very quiet but contains one door slam at full level cannot be multiplied much before the slam clips. A uniformly quiet recording, such as a lecture captured from the back row, can often take ×8–×10 cleanly."
+      ],
+      "table": {
+        "head": [
+          "Recording",
+          "Typical safe range",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "Voice memo or lecture recorded at a distance",
+            "×5 – ×10",
+            "Turn on Improve Audio Quality for speech."
+          ],
+          [
+            "Phone video that is merely soft",
+            "×2 – ×4",
+            "Check the loudest laugh or clap."
+          ],
+          [
+            "Screen recording",
+            "×5 – ×10",
+            "Usually far below normal level."
+          ],
+          [
+            "Music with quiet verses and loud chorus",
+            "×1.5 – ×3",
+            "The chorus sets the limit."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Use the Original/Processed check",
+      "paragraphs": [
+        "Increase Volume processes the file and then shows an Original/Processed toggle before anything is saved. Scrub to the loudest moment you can find and flip between the two. If Processed sounds harsh or crackly there, lower the multiplier one step and boost again. Because the app writes a new file, you can iterate freely; the original is never touched."
+      ]
+    },
+    {
+      "heading": "Improve Audio Quality: when to turn it on",
+      "paragraphs": [
+        "The Improve Audio Quality toggle applies additional processing aimed at intelligibility, which helps most on speech: interviews, lectures, voice notes, screen-recorded tutorials. For music, try both settings and keep whichever sounds more natural. The option is labelled as experimental in the current build, so always listen to the result."
+      ]
+    },
+    {
+      "heading": "Privacy: everything stays on your phone",
+      "paragraphs": [
+        "Increase Volume processes files on the iPhone. There is no upload, no account, and the result is saved through the standard iOS share sheet to Photos, Files or any app you choose. Online boosters require sending the file to a server and usually re-encode it at lower quality; a local app avoids both."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: a clean boost",
+    "intro": "Same workflow for video and audio files.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Open the file in Increase Volume",
+        "text": "Add it from Photos or Files, or share it to the app from anywhere."
+      },
+      {
+        "name": "Decide on Improve Audio Quality",
+        "text": "On for speech; try both for music."
+      },
+      {
+        "name": "Start moderate",
+        "text": "Set Volume multiplication to ×3 and tap Boost Volume."
+      },
+      {
+        "name": "Check the loudest moment",
+        "text": "Toggle Original/Processed on the loudest part. Clean? Raise the multiplier and repeat. Harsh? Lower it."
+      },
+      {
+        "name": "Save",
+        "text": "Tap Download Processed and save to Photos or Files. The original is untouched."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Listen on headphones for the check; phone speakers hide subtle clipping.",
+      "If a file is noisy, a slightly lower multiplier with Improve Audio Quality on often sounds better than the maximum boost.",
+      "Boost once, at the source. Re-boosting an already boosted export stacks any artefacts."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Does increasing volume reduce video resolution?",
+      "answer": "No. Only the audio is processed. The video stream keeps its resolution, frame rate and bitrate."
+    },
+    {
+      "question": "What does distortion from over-boosting sound like?",
+      "answer": "A crackle, buzz or harshness on the loudest moments only, while quiet parts sound fine. If you hear it, reduce the multiplier."
+    },
+    {
+      "question": "Is ×10 too much?",
+      "answer": "Not for genuinely quiet recordings such as distant voice memos or screen recordings. For a normal phone video, ×2–×4 is usually plenty. Let the Original/Processed check decide."
+    }
+  ],
+  "related": [
+    "how-to-make-a-video-louder-on-iphone",
+    "how-to-increase-voice-memo-volume-on-iphone",
+    "why-is-my-iphone-video-so-quiet"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "keyword": "why is my iPhone video so quiet",
+  "priority": 10,
+  "keywords": "why is my iphone video so quiet, iphone video audio low, recorded video too quiet, iphone video sound very low, iphone microphone quiet video",
+  "title": "Why Is My iPhone Video So Quiet? 7 Causes and the Fix",
+  "description": "Quiet iPhone video usually comes from mic distance, a covered microphone, wind, Bluetooth or a headphone-safety limit. Find the cause, then boost the file 10×.",
+  "h1": "Why is my iPhone video so quiet? Causes and how to fix it",
+  "eyebrow": "Troubleshooting",
+  "card_title": "Why is my iPhone video so quiet?",
+  "card_summary": "Seven causes, from a covered mic to the headphone safety limit, and how to rescue the video you already shot.",
+  "published": "2026-09-10",
+  "quick_answer": "An iPhone video is quiet either because it was *recorded* quietly (subject too far from the microphone, mic covered by a case or finger, wind, low in-app volume during a screen recording) or because it is *playing back* quietly (Bluetooth device connected, Reduce Loud Audio limit, Attention Aware volume, dirty speaker). Check playback causes first with another video. If the recording itself is quiet, no setting will fix it; boost the file up to 10× with Increase Volume and save a louder copy.",
+  "intro": [
+    "First decide which kind of quiet you have. Play a different, known-good video. If that one is loud, your phone is fine and the problem is inside the recording. If everything is quiet, it is a playback issue with the phone. The causes and fixes are completely different, so this thirty-second test saves a lot of time.",
+    "Below are the seven causes we see most, in order of how often they turn out to be the culprit."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/1.webp",
+    "alt": "Increase Volume marketing screenshot promoting a ten times louder volume boost for iPhone",
+    "caption": "If the recording itself is quiet, the fix is to boost the file."
+  },
+  "sections": [
+    {
+      "heading": "Recording causes (the video is quiet everywhere)",
+      "paragraphs": [
+        "These are baked into the file. They explain why the video is quiet on every phone you send it to."
+      ],
+      "list": [
+        "Distance: phone microphones are tuned for a subject within about a metre. A speaker across a room comes through faint and roomy.",
+        "Covered microphone: the main video mic sits near the rear cameras; a thick case, a finger or a pop-socket can muffle it. The recording is quiet and dull.",
+        "Wind and background noise: iPhone reduces gain when the environment is loud, so the person talking gets quieter.",
+        "Screen recording capture level: iOS captures app audio at a reduced level, and even lower if the in-app volume was down or Bluetooth headphones were connected.",
+        "Received clips: a video sent through WhatsApp or Messenger is re-encoded by the service and sometimes arrives with a lower level than the original."
+      ]
+    },
+    {
+      "heading": "Playback causes (every video is quiet on this phone)",
+      "paragraphs": [
+        "These make your phone play quietly; the file is fine and will sound normal elsewhere."
+      ],
+      "list": [
+        "Bluetooth still connected: audio is going to AirPods in a drawer or a car stereo. Open Control Center and check the output.",
+        "Reduce Loud Audio: Settings → Sounds & Haptics → Headphone Safety caps headphone volume. It is a good protection, but it makes quiet videos even quieter on headphones.",
+        "Attention Aware Features (Face ID iPhones): Settings → Face ID & Attention lowers alert volume when you are looking at the phone; some users find media feels quieter too.",
+        "Dirty speaker grille or leftover water: a wipe with a dry soft brush restores a surprising amount of level.",
+        "Speaker balance: Settings → Accessibility → Audio/Visual → Balance should be centred."
+      ]
+    },
+    {
+      "heading": "The fix for a quietly recorded video",
+      "paragraphs": [
+        "You cannot re-record the moment, and iPhone settings cannot change a saved file. Photos has no volume slider; iMovie can raise clip volume to about 500% after you build a project. Increase Volume opens the video straight from Photos, multiplies the audio up to ×10, lets you compare Original and Processed, and saves a new copy. The louder copy plays loud on every device and in every app.",
+        "If the cause was a covered microphone, boosting fixes the level but not the muffled tone; switch on Improve Audio Quality to help speech."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: rescue a quiet video",
+    "intro": "One minute with the free Increase Volume app.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Confirm it is the recording",
+        "text": "Play another video. If that one is loud, continue; if not, fix the playback causes above first."
+      },
+      {
+        "name": "Share the quiet video to Increase Volume",
+        "text": "Open it in Photos, tap Share, choose Increase Volume."
+      },
+      {
+        "name": "Boost",
+        "text": "Set Volume multiplication to ×4 as a starting point (higher for very quiet clips), turn on Improve Audio Quality if it is speech, tap Boost Volume."
+      },
+      {
+        "name": "Compare",
+        "text": "Flip Original/Processed on the loudest moment; adjust the multiplier if needed."
+      },
+      {
+        "name": "Save",
+        "text": "Tap Download Processed → Save Video. Share the new copy instead of the original."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Record louder next time",
+    "items": [
+      "Get within arm's length of whoever is speaking, or use a wired or wireless lapel microphone.",
+      "Remove the case or check that nothing covers the rear microphones.",
+      "For screen recordings, disconnect Bluetooth and raise media volume to maximum before recording.",
+      "Shield the phone from wind with your body or a cupped hand."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Why is my iPhone video quiet only when I send it?",
+      "answer": "Messaging services re-encode video and can lower the level slightly, but the bigger effect is that the recipient's phone plays it at the original quiet level rather than your maxed-out speaker. Boost the file before sending."
+    },
+    {
+      "question": "Can a volume booster app make my iPhone speaker louder?",
+      "answer": "No app can exceed the speaker's hardware limit or change system-wide volume; Apple does not allow it. Boosters work by making the file louder, which is what you need when the recording itself is quiet."
+    },
+    {
+      "question": "Does the silent switch affect video volume?",
+      "answer": "No. The Ring/Silent switch (or Action button) mutes ringtones and alerts only. Media volume is controlled by the volume buttons while a video plays."
+    }
+  ],
+  "related": [
+    "how-to-make-a-video-louder-on-iphone",
+    "how-to-make-a-screen-recording-louder-on-iphone",
+    "how-to-make-a-video-louder-without-losing-quality"
+  ]
+}

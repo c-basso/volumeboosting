@@ -1,0 +1,100 @@
+{
+  "keyword": "how to make a WhatsApp voice message louder",
+  "priority": 8,
+  "keywords": "whatsapp voice message too quiet, make whatsapp voice note louder iphone, boost voice message volume, telegram voice message quiet, whatsapp audio low volume",
+  "title": "WhatsApp Voice Message Too Quiet? Make It Louder on iPhone",
+  "description": "Quiet WhatsApp voice notes on iPhone: first rule out the proximity-sensor earpiece switch, then export the audio and boost it up to 10× with Increase Volume.",
+  "h1": "How to make a WhatsApp voice message louder on iPhone",
+  "eyebrow": "WhatsApp & Telegram",
+  "card_title": "Make a WhatsApp voice note louder",
+  "card_summary": "Two different problems: the earpiece switch, or a genuinely quiet recording. Fix both.",
+  "published": "2026-09-10",
+  "quick_answer": "If every WhatsApp voice message is quiet, your iPhone is probably playing through the earpiece because the proximity sensor was covered; hold the phone away from your face and press volume up while it plays. If one particular message is quiet, export it (long-press → Forward → Share → Save to Files or share to Increase Volume), boost it ×5–×10 in Increase Volume with Improve Audio Quality on, and save or forward the louder copy.",
+  "intro": [
+    "There are two unrelated reasons a WhatsApp voice note is hard to hear, and they need different fixes. The first is your iPhone quietly switching to the earpiece speaker. The second is that the sender recorded it far from the microphone, in a noisy place, and it really is quiet. Check the first in ten seconds, then fix the second in a minute.",
+    "The same steps apply to Telegram, Signal and iMessage audio messages."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "iOS share sheet in Increase Volume showing Save to Files and sharing options for a boosted voice message",
+    "caption": "Boosted voice notes can be saved to Files or forwarded straight back into the chat."
+  },
+  "sections": [
+    {
+      "heading": "Fix 1: it's playing through the earpiece",
+      "paragraphs": [
+        "WhatsApp switches playback to the earpiece (the small speaker you use for calls) when the proximity sensor near the front camera is covered. A finger, a case edge or lifting the phone toward your face triggers it, and the message suddenly sounds like a whisper. Uncover the sensor, hold the phone away from you, and press the volume-up button *while the message is playing*; iOS keeps a separate volume level for the earpiece and it may have been turned right down.",
+        "Also check that Bluetooth is not routing audio to earbuds in your pocket, and that Settings → Sounds & Haptics → Headphone Safety → Reduce Loud Audio is not capping headphone volume."
+      ]
+    },
+    {
+      "heading": "Fix 2: the message itself is quiet",
+      "paragraphs": [
+        "If other messages are fine and this one is not, the recording is quiet. WhatsApp has no volume control for received audio, and the volume buttons cannot go past 100%. You need to make the file itself louder. WhatsApp lets you export a voice note as an audio file, and Increase Volume can multiply it up to ×10 and give you a new copy to keep or forward."
+      ]
+    },
+    {
+      "heading": "Exporting a voice note from WhatsApp, Telegram or Messages",
+      "list": [
+        "WhatsApp: long-press the voice message → Forward → tap the Share icon (bottom-left) → choose Increase Volume, or Save to Files.",
+        "Telegram: long-press the voice message → Forward or Share → Save to Files, or share to Increase Volume.",
+        "iMessage audio messages: long-press → Save (adds to Voice Memos), then share from Voice Memos.",
+        "Signal: long-press → Save → Save to Files."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: boost a WhatsApp voice message",
+    "intro": "About a minute with the free Increase Volume app.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Export the voice note",
+        "text": "In WhatsApp, long-press the message → Forward → Share icon → Increase Volume. (Or Save to Files and add it from inside the app.)"
+      },
+      {
+        "name": "Turn on Improve Audio Quality",
+        "text": "Voice notes are speech; the toggle helps keep words clear when boosted."
+      },
+      {
+        "name": "Boost",
+        "text": "Set Volume multiplication to ×5 to start, ×8–×10 for a very quiet note, and tap Boost Volume."
+      },
+      {
+        "name": "Compare",
+        "text": "Flip Original/Processed. If the loudest word crackles, lower the multiplier."
+      },
+      {
+        "name": "Save or forward",
+        "text": "Tap Download Processed. Save to Files, or share the louder copy straight back to WhatsApp so the group can hear it."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Ask frequent senders to hold the phone closer; nothing beats fixing it at the source.",
+      "If you save many voice notes, keep the boosted copies in a Files folder; WhatsApp's own media folder is not browsable.",
+      "For voice notes you record yourself, the same trick works: record, share to Increase Volume, boost, and send the boosted file as a document or audio."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Why are WhatsApp voice messages quiet when I hold the phone to my ear?",
+      "answer": "That is intended behaviour: WhatsApp routes to the earpiece for privacy when the proximity sensor is covered. Raise the earpiece volume with the buttons while the message plays, or hold the phone away to use the loudspeaker."
+    },
+    {
+      "question": "Can I make a voice note louder inside WhatsApp?",
+      "answer": "No. WhatsApp has playback speed (1×, 1.5×, 2×) but no volume boost. Export the message and boost it with Increase Volume."
+    },
+    {
+      "question": "Does this work for Telegram and Messenger too?",
+      "answer": "Yes. Any app that lets you share or save the audio file works. Boosted files can be sent back through the same app."
+    }
+  ],
+  "related": [
+    "how-to-increase-voice-memo-volume-on-iphone",
+    "how-to-make-mp3-louder-on-iphone",
+    "why-is-my-iphone-video-so-quiet"
+  ]
+}

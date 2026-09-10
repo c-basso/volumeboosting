@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const { LANGUAGES, DEFAULT_LANGUAGE } = require('../constants');
 const { extractMetaTags } = require('./opengraphValidator');
+const { listPages } = require('./pages');
 
 /**
  * SEO meta: `<title>` и `<meta name="description">`.
@@ -155,31 +155,26 @@ function validateSeoMetaForPage(html, { file, lang }) {
 }
 
 async function validateSeoMeta() {
-  const projectRoot = path.join(__dirname, '..', '..');
   const results = [];
   let allOk = true;
 
   console.log('Validating <title> and meta description (length + presence)...');
 
-  for (const lang of LANGUAGES) {
-    const htmlPath = path.join(
-      projectRoot,
-      lang === DEFAULT_LANGUAGE ? 'index.html' : `${lang}/index.html`
-    );
-
+  for (const { id, lang, file: htmlPath } of listPages()) {
     if (!fs.existsSync(htmlPath)) {
       allOk = false;
       results.push({
         ok: false,
         errors: [`Missing built HTML file: ${htmlPath}`],
         warnings: [],
-        meta: { file: htmlPath, lang }
+        meta: { file: htmlPath, lang: id }
       });
       continue;
     }
 
     const html = fs.readFileSync(htmlPath, 'utf8');
     const r = validateSeoMetaForPage(html, { file: htmlPath, lang });
+    r.meta.lang = id;
     results.push(r);
     if (!r.ok) {
       allOk = false;
@@ -187,7 +182,7 @@ async function validateSeoMeta() {
       const bits = [];
       if (r.meta.titleLength != null) bits.push(`title ${r.meta.titleLength} chars`);
       if (r.meta.descriptionLength != null) bits.push(`description ${r.meta.descriptionLength} chars`);
-      console.log(`  ${lang}: OK (${bits.join(', ')})`);
+      console.log(`  ${id}: OK (${bits.join(', ')})`);
       r.warnings.forEach((w) => console.log(`    ⚠️  ${w}`));
     }
   }

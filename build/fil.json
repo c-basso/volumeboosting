@@ -46,13 +46,34 @@
     "footnote_item4": "mga clip sa social media",
     "footnote_last_joiner": ", at ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Palakas ng tunog sa iPhone — palakasin ang audio at video"
+    "device_image_alt": "Increase Volume – Palakas ng tunog sa iPhone — palakasin ang audio at video",
+    "cta_secondary_link": "Tingnan kung paano ito gumagana",
+    "proof_aria": "Mga detalye ng app",
+    "proof": [
+      {
+        "value": "4.5★",
+        "label": "118 rating sa App Store"
+      },
+      {
+        "value": "10×",
+        "label": "pinakamataas na volume boost"
+      },
+      {
+        "value": "Audio + video",
+        "label": "MP3, MP4, MOV, mga voice memo"
+      },
+      {
+        "value": "Sa device",
+        "label": "walang ina-upload"
+      }
+    ]
   },
   "wave": {
     "before_label": "Bago",
     "after_label": "Pagkatapos",
     "before_text": "Mahina at flat na orihinal na audio",
-    "after_text": "Pinalakas, buo at malinaw na tunog"
+    "after_text": "Pinalakas, buo at malinaw na tunog",
+    "toggle_aria": "Magpalipat-lipat sa orihinal at boosted na waveform"
   },
   "sections": {
     "features_uses_aria": "Mga feature at gamit",
@@ -157,7 +178,11 @@
     "last_updated_label": "Huling na-update ang pahina:",
     "privacy_link": "Patakaran sa Privacy",
     "terms_link": "Mga Tuntunin sa Paggamit",
-    "app_store_link_text": "Tingnan sa App Store"
+    "app_store_link_text": "Tingnan sa App Store",
+    "tagline": "Ang iPhone volume booster na nagpapalakas ng file mismo, hindi lang ng speaker.",
+    "links_aria": "Footer",
+    "guides_link_text": "Mga gabay",
+    "languages_label": "Ang pahinang ito sa ibang wika"
   },
   "seo": {
     "breadcrumb_home": "Home",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "iPhone app na nag-i-import ng audio o video, nag-a-apply ng hanggang ~10× lakas na may kontrol sa bass at kalinawan, at nag-e-export ng mas malakas na file para i-save at ibahagi. Pinoproseso sa device; hindi binbabago ang system-wide volume."
+        "description": "iPhone app na nag-i-import ng audio o video, nag-a-apply ng hanggang ~10× lakas na may kontrol sa bass at kalinawan, at nag-e-export ng mas malakas na file para i-save at ibahagi. Pinoproseso sa device; hindi binbabago ang system-wide volume.",
+        "featureList": [
+          "Palakasin ang volume ng video at audio hanggang 10× (1000%)",
+          "Gumagana sa MP3, M4A voice memo, MP4 at MOV video",
+          "Paghahambing ng Orihinal/Na-proseso bago i-save",
+          "Opsyonal na pagpapahusay ng kalidad ng audio",
+          "Gumawa ng project mula sa share sheet ng Mga Larawan",
+          "I-save sa Mga Larawan o Files at ibahagi sa anumang app",
+          "Nagtatabi ng maraming project"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "I-save at ibahagi",
             "text": "I-save ang boosted file pabalik sa device at ibahagi kahit saan."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Increase Volume – Palakas ng tunog app para sa iPhone"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Pangunahing navigation",
+    "how_it_works": "Paano ito gumagana",
+    "screenshots": "Mga screenshot",
+    "guides": "Mga gabay",
+    "faq": "FAQ",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "I-download",
+    "title": "Kunin ang Increase Volume – Palakas ng tunog sa App Store",
+    "subtitle": "Audio & Music Booster · Kategoryang Musika · iPhone",
+    "price": "Libre",
+    "price_note": "Opsyonal na in-app purchase (libreng trial, o one-time na lifetime plan)",
+    "rating_line": "4.5 ★ · 118 rating sa App Store",
+    "qr_alt": "QR code patungo sa Increase Volume – Palakas ng tunog sa App Store",
+    "qr_label": "I-scan gamit ang camera ng iPhone mo",
+    "requirements": "Kailangan ng iOS 18.6 o mas bago · 26.8 MB · Filipino + 30 pang wika · Edad 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Mga screenshot",
+    "title": "Ganito ang itsura ng app sa iPhone mo",
+    "intro": "Kaparehong mga screen na makikita mo sa App Store: isang slider, paghahambing ng Orihinal/Na-proseso, at share sheet na nagdadala ng mas malakas na file kahit saan mo kailangan.",
+    "aria": "Mga screenshot ng app, mag-scroll pahalang",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Marketing screenshot ng Increase Volume: volume booster at sound amplifier, hanggang sampung beses na mas malakas",
+        "caption": "Volume booster at sound amplifier: hanggang 10× na mas malakas."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Video player sa Increase Volume, may daliring nagda-drag ng pink na boost slider para palakasin ang video",
+        "caption": "Palakasin ang video: i-drag ang slider sa video preview."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Nagpo-proseso ang Increase Volume ng MP3 file na nagpapakita ng pangalan, laki, at tagal ng file",
+        "caption": "Palakasin ang musika: MP3 at iba pang audio file ay pinoproseso sa device."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Detalye ng track na may toggle na «Improve Audio Quality», slider na «Volume multiplication ×10», at button na «Boost Volume to ×10»",
+        "caption": "Piliin kung gaano lakas ang boost, mula sa banayad hanggang 10×."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Result screen na may button na «Download Processed» at toggle na Orihinal/Na-proseso",
+        "caption": "Pakinggan ang resulta at ikumpara sa orihinal bago i-save."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "iOS share sheet na nagpapakita ng Kopyahin, Magdagdag ng Tag, at I-save sa Files para sa boosted audio",
+        "caption": "I-download at ibahagi kahit saan: Mga Larawan, Files, Messages, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Listahan ng mga project sa Increase Volume na may MP3 at MP4 file kasama ang laki at tagal",
+        "caption": "Mag-imbak ng maraming project at balikan ang mga ito sa ibang pagkakataon."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "Hakbang 1: video na na-import sa Increase Volume, nakikita ang boost slider",
+    "step_2_alt": "Hakbang 2: slider na «Volume multiplication ×10» at button na «Boost Volume»",
+    "step_3_alt": "Hakbang 3: iOS share sheet na may «I-save sa Files» para sa boosted file"
+  },
+  "faq_section": {
+    "eyebrow": "FAQ",
+    "intro": "Maikling sagot muna. Bawat isa ay naka-link sa buong gabay na may mga screenshot.",
+    "learn_more_label": "Alamin pa"
+  },
+  "cta": {
+    "eyebrow": "Handa na?",
+    "title": "Ang mahinang file mo, 10× na mas malakas, sa wala pang isang minuto.",
+    "text": "I-download ang Increase Volume – Palakas ng tunog, i-import ang video o audio na walang nakakarinig, i-drag ang slider, at ibahagi ang malakas na bersyon.",
+    "note": "Libreng download · Kailangan ng iOS 18.6 o mas bago · 4.5★ sa App Store"
   }
 }

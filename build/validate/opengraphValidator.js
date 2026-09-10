@@ -1,7 +1,8 @@
 const fs = require('fs');
 const path = require('path');
-const { LANGUAGES, DEFAULT_LANGUAGE, SITE_URL } = require('../constants');
+const { SITE_URL } = require('../constants');
 const { readImageDimensions } = require('../lib/imageDimensions');
+const { listPages } = require('./pages');
 
 const MAX_SIZE_KB = 600;
 const MAX_SIZE_BYTES = MAX_SIZE_KB * 1024;
@@ -419,13 +420,9 @@ async function validateOpenGraph() {
   // Validate Open Graph tags in HTML files
   console.log('Validating Open Graph and Twitter Card meta tags...');
   const ogImageUrls = new Set();
+  const pages = listPages();
   
-  for (const lang of LANGUAGES) {
-    const htmlPath = path.join(
-      projectRoot,
-      lang === DEFAULT_LANGUAGE ? 'index.html' : `${lang}/index.html`
-    );
-
+  for (const { id: lang, file: htmlPath } of pages) {
     if (!fs.existsSync(htmlPath)) {
       results.push({
         ok: false,
@@ -489,11 +486,7 @@ async function validateOpenGraph() {
     // Find which HTML file this URL came from for better error messages
     let sourceFile = null;
     let sourceLang = null;
-    for (const lang of LANGUAGES) {
-      const htmlPath = path.join(
-        projectRoot,
-        lang === DEFAULT_LANGUAGE ? 'index.html' : `${lang}/index.html`
-      );
+    for (const { id: lang, file: htmlPath } of pages) {
       if (fs.existsSync(htmlPath)) {
         const html = fs.readFileSync(htmlPath, 'utf8');
         const metaTags = extractMetaTags(html);

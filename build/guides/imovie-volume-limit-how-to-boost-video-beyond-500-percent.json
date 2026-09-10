@@ -1,0 +1,135 @@
+{
+  "keyword": "iMovie volume limit 500%",
+  "priority": 7,
+  "keywords": "imovie volume limit, imovie not loud enough, make video louder than imovie, boost video more than 500 percent, imovie max volume iphone",
+  "title": "iMovie Volume Limit: How to Boost a Video Beyond 500%",
+  "description": "iMovie on iPhone stops at about 500% clip volume. When that is not enough, Increase Volume takes the same video to 10× with one slider, no project or re-export.",
+  "h1": "iMovie's volume limit (about 500%) and how to go beyond it",
+  "eyebrow": "vs iMovie",
+  "card_title": "Louder than iMovie's 500% cap",
+  "card_summary": "How to raise volume in iMovie, why the slider stops at 5×, and the one-slider route to 10×.",
+  "published": "2026-09-10",
+  "quick_answer": "iMovie on iPhone lets you raise a clip's volume to roughly 500% (5×): tap the clip, tap the speaker icon, drag right, then export. If the video is still too quiet at maximum, open the same file in Increase Volume, which multiplies the audio up to ×10 (1000%), lets you compare Original and Processed, and saves a new copy without building a project. Increase Volume also accepts audio-only files, which iMovie cannot open.",
+  "intro": [
+    "iMovie is the free answer Apple gives for “how do I make my video louder”, and for a slightly soft clip it works. But the slider has a ceiling, and recordings made across a room or via screen recording frequently need more than it offers. People then export at 500%, still cannot hear the result, and go looking for “louder than iMovie”.",
+    "Here is exactly how far iMovie goes, how to use it, and what to do when it is not enough."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Increase Volume showing the Volume multiplication x10 slider, twice the ceiling of iMovie on iPhone",
+    "caption": "×10 in Increase Volume is roughly double iMovie's maximum."
+  },
+  "sections": [
+    {
+      "heading": "How to increase volume in iMovie on iPhone",
+      "paragraphs": [
+        "If you have not tried it yet, the free route is worth knowing:"
+      ],
+      "list": [
+        "Open iMovie → Start New Project → Movie, and select the video.",
+        "Tap the clip in the timeline so it is highlighted.",
+        "Tap the speaker icon in the toolbar and drag the volume slider to the right. It stops at about 500%.",
+        "Tap Done, then the Share icon → Save Video, and wait while iMovie re-encodes the whole clip."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Where iMovie falls short",
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Increase Volume"
+        ],
+        "rows": [
+          [
+            "Maximum boost",
+            "About 500% (5×)",
+            "×10 (1000%)"
+          ],
+          [
+            "Audio-only files (MP3, voice memos)",
+            "Not supported",
+            "Supported"
+          ],
+          [
+            "Workflow",
+            "Create project → add clip → adjust → export",
+            "Share from Photos → slide → Download Processed"
+          ],
+          [
+            "Hear before/after",
+            "Play the timeline",
+            "Original / Processed toggle"
+          ],
+          [
+            "Re-encodes the picture",
+            "Yes, full export",
+            "Audio processed, picture passed through"
+          ],
+          [
+            "Speech enhancement",
+            "None",
+            "Improve Audio Quality toggle"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "When 500% is enough, and when it isn't",
+      "paragraphs": [
+        "5× is about +14 dB. That covers a clip that sounds a bit soft. It does not cover a lecture recorded from the back row, a phone left on a table during a conversation, or most screen recordings, which typically sit 15–25 dB below normal level. For those, you need ×8–×10, and you need to be able to hear whether the loudest moment clips at that level, which is what the Original/Processed toggle in Increase Volume is for."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: boost beyond iMovie's limit",
+    "intro": "Use the original video, not the iMovie export, so you boost once from the cleanest source.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Share the original video to Increase Volume",
+        "text": "In Photos, open the clip, tap Share and choose Increase Volume."
+      },
+      {
+        "name": "Set a multiplier above 5",
+        "text": "Drag Volume multiplication to ×6–×10 depending on how quiet the clip is. Turn on Improve Audio Quality for speech. Tap Boost Volume."
+      },
+      {
+        "name": "Compare",
+        "text": "Toggle Original/Processed on the loudest part. If it is harsh, step down one notch and boost again."
+      },
+      {
+        "name": "Download Processed",
+        "text": "Save the louder copy to Photos or share it directly. The original is untouched."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "If you still want iMovie for trimming or titles, boost first in Increase Volume, then edit the boosted file in iMovie.",
+      "Avoid stacking boosts (iMovie 500% and then ×10 on the export); go straight from the original to the level you need.",
+      "For audio files, skip iMovie entirely; it will not open an MP3 or M4A."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Why does iMovie cap volume at 500%?",
+      "answer": "Apple limits the clip gain slider to keep casual edits from clipping badly. It is a sensible default for normal footage but too low for very quiet recordings."
+    },
+    {
+      "question": "Is Increase Volume free like iMovie?",
+      "answer": "Increase Volume is a free download with a free trial; unlimited boosting is unlocked with a subscription or a one-time lifetime plan. Current prices are on the App Store listing."
+    },
+    {
+      "question": "Can I use iMovie on Mac for more than 500%?",
+      "answer": "iMovie for Mac also caps at 400–500%. Desktop editors such as Final Cut Pro or Audacity go higher, but you need a computer and a file transfer. Increase Volume does it on the iPhone."
+    }
+  ],
+  "related": [
+    "how-to-make-a-video-louder-on-iphone",
+    "how-to-make-a-video-louder-without-losing-quality",
+    "how-to-boost-video-volume-from-the-photos-app"
+  ]
+}

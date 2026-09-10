@@ -1,198 +1,48 @@
 <!DOCTYPE html>
 <html lang="{{meta.html_lang}}" dir="{{meta.html_dir}}">
   <head>
-    <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover"
-    />
-    <title>{{meta.title}}</title>
-    <meta
-      name="description"
-      content="{{meta.description}}"
-    />
-    <!-- App Store Smart App Banner -->
-    <meta name="apple-itunes-app" content="app-id={{meta.app_store_id}}" />
-    <!-- Core SEO -->
-    <meta name="keywords" content="{{meta.keywords}}" />
-    <meta name="author" content="{{meta.author}}" />
-    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-    <meta name="googlebot" content="index, follow" />
-    <meta name="bingbot" content="index, follow" />
-    <link rel="canonical" href="{{meta.canonical}}" />
-    <link
-      rel="alternate"
-      type="text/plain"
-      href="/llms.txt"
-      title="LLM / AI summary of this site"
-    />
-
-    <!-- Alternate Language Links -->
-    {{#each meta.alternate_languages as |lang|}}
-    <link rel="alternate" hreflang="{{lang.lang}}" href="{{lang.url}}" />
-    {{/each}}
-    <link rel="alternate" hreflang="x-default" href="{{meta.alternate_default}}" />
-
-    <!-- PWA & Theming -->
-    <meta name="theme-color" content="{{meta.theme_color}}" />
-    <meta name="msapplication-TileColor" content="{{meta.theme_color}}" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="{{meta.apple_mobile_web_app_status_bar_style}}" />
-
-    <!-- Open Graph -->
-    <meta property="og:title" content="{{meta.og_title}}" />
-    <meta property="og:description" content="{{meta.og_description}}" />
-    <meta property="og:image" content="{{meta.og_image}}" />
-    <meta property="og:image:alt" content="{{meta.og_image_alt}}" />
-    <meta property="og:image:width" content="{{meta.og_image_width}}" />
-    <meta property="og:image:height" content="{{meta.og_image_height}}" />
-    <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
-    <meta property="og:type" content="{{meta.og_type}}" />
-    <meta property="og:url" content="{{meta.og_url}}" />
-    <meta property="og:site_name" content="{{header.app_name}}" />
-    <meta property="og:locale" content="{{meta.og_locale}}" />
-
-    <!-- Twitter Cards -->
-    <meta name="twitter:card" content="{{meta.twitter_card}}" />
-    <meta name="twitter:url" content="{{meta.twitter_url}}" />
-    <meta name="twitter:title" content="{{meta.twitter_title}}" />
-    <meta name="twitter:description" content="{{meta.twitter_description}}" />
-    <meta name="twitter:image" content="{{meta.twitter_image}}" />
-    <meta name="twitter:image:width" content="{{meta.twitter_image_width}}" />
-    <meta name="twitter:image:height" content="{{meta.twitter_image_height}}" />
-
-    <link
-      rel="preconnect"
-      href="https://apps.apple.com"
-    />
-    <link
-      rel="preconnect"
-      href="https://fonts.googleapis.com"
-    />
-    <link
-      rel="preconnect"
-      href="https://fonts.gstatic.com"
-      crossorigin
-    />
-    <link
-      rel="preconnect"
-      href="https://mc.yandex.ru"
-    />
-    <link rel="dns-prefetch" href="https://apps.apple.com" />
-    <link rel="dns-prefetch" href="https://mc.yandex.ru" />
-    <link
-      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
-      rel="stylesheet"
-    />
-    <link rel="icon" type="image/x-icon" href="/img/favicon.ico" />
-    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg" />
-    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png" />
-    <link rel="mask-icon" href="/img/favicon.svg" color="{{meta.theme_color}}" />
-    <link rel="manifest" href="/site.webmanifest" />
-    <link rel="icon" type="image/png" sizes="192x192" href="/img/web-app-manifest-192x192.png" />
-    <link rel="icon" type="image/png" sizes="512x512" href="/img/web-app-manifest-512x512.png" />
-    <!-- Application Name -->
-    <meta name="application-name" content="{{header.app_name}} – {{header.app_name_suffix}}" />
-
-    <link
-      rel="stylesheet"
-      href="/style.css?v={{meta.version}}"
-    />
+{{> head}}
   </head>
-  <body>
+  <body class="page-home">
+    <div class="bg-grid" aria-hidden="true"></div>
     <div class="noise-layer" aria-hidden="true"></div>
     <div class="page-shell">
-      <header>
-        <div class="brand">
-          <div class="brand-logo">
-            <img
-              src="/img/logo.webp"
-              alt="{{header.logo_alt}}"
-              width="80"
-              height="80"
-              loading="eager"
-              decoding="async"
-            />
-          </div>
-          <div class="brand-text">
-            <div class="brand-name">{{header.brand_name}}</div>
-            <div class="brand-subtitle">{{header.brand_subtitle}}</div>
-          </div>
-        </div>
-        <div class="apple-pill">
-          <div class="apple-dot"></div>
-          <span>{{header.apple_pill_text}}</span>
-        </div>
-      </header>
+{{> site-header}}
 
-      <main>
+      <main id="main">
+        <!-- ============ HERO ============ -->
         <section class="hero" aria-labelledby="hero-heading">
           <div class="hero-copy">
-          <div class="hero-kicker">
-            <div class="pill-spark">{{hero.kicker_value}}</div>
-            <span>{{hero.kicker_text}}</span>
-          </div>
-          <h1 id="hero-heading">
-            {{hero.title_prefix}}
-            <span class="hero-title-highlight">{{hero.title_highlight}}</span>
-            {{hero.title_suffix}}
-          </h1>
-          <p class="hero-subtitle">
-            {{hero.subtitle}}
-          </p>
-
-          <div class="hero-metadata">
-            <span><span class="metadata-dot"></span> {{hero.metadata_primary}}</span>
-            <span>{{hero.metadata_secondary}}</span>
-          </div>
+            <div class="hero-kicker">
+              <span class="sticker">{{hero.kicker_value}}</span>
+              <span>{{hero.kicker_text}}</span>
+            </div>
+            <h1 id="hero-heading">
+              {{hero.title_prefix}}
+              <span class="hero-title-highlight">{{hero.title_highlight}}</span>
+              {{hero.title_suffix}}
+            </h1>
+            <p class="hero-subtitle">{{hero.subtitle}}</p>
 
             <div class="cta-row">
               <div class="cta-actions">
-              <img
-                class="cta-qr"
-                src="/img/app-store-qr.png"
-                alt="{{header.download_aria_label}}"
-                width="104"
-                height="104"
-                loading="lazy"
-                decoding="async"
-              />
-              <a
-                class="cta-primary"
-              href="{{header.download_url}}"
-                target="_blank"
-                rel="noopener noreferrer"
-              aria-label="{{header.download_aria_label}}"
-              >
-              <svg
-                class="cta-apple-icon"
-                width="18"
-                height="22"
-                viewBox="14 8 14 26"
-                aria-hidden="true"
-              >
-                <path
-                  fill="currentColor"
-                  d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
-                />
-                <path
-                  fill="currentColor"
-                  d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
-                />
-              </svg>
-              <span>{{header.download_text}}</span>
-              </a>
+{{> appstore-button}}
+                <a class="cta-ghost" href="#how-it-works">{{hero.cta_secondary_link}}</a>
               </div>
-              <div class="cta-secondary">
-              {{hero.cta_secondary_prefix}} <strong>{{hero.cta_secondary_emphasis}}</strong>{{hero.cta_secondary_suffix}}
-              </div>
+              <p class="cta-secondary">
+                {{hero.cta_secondary_prefix}} <strong>{{hero.cta_secondary_emphasis}}</strong>{{hero.cta_secondary_suffix}}
+              </p>
             </div>
 
+            <ul class="proof-row" aria-label="{{hero.proof_aria}}">
+              {{#each hero.proof as |stat|}}
+              <li><strong>{{stat.value}}</strong><span>{{stat.label}}</span></li>
+              {{/each}}
+            </ul>
+
             <p class="hero-footnote">
-            {{hero.footnote_prefix}} <span>{{hero.footnote_item1}}</span>, <span>{{hero.footnote_item2}}</span>,
-            <span>{{hero.footnote_item3}}</span>{{hero.footnote_last_joiner}}<span>{{hero.footnote_item4}}</span>.
+              {{hero.footnote_prefix}} <span>{{hero.footnote_item1}}</span>, <span>{{hero.footnote_item2}}</span>,
+              <span>{{hero.footnote_item3}}</span>{{hero.footnote_last_joiner}}<span>{{hero.footnote_item4}}</span>.
             </p>
           </div>
 
@@ -201,235 +51,305 @@
               <div class="device-column">
                 <div class="device-frame">
                   <div class="device-screen">
-                  <img
-                    src="{{hero.device_image_src}}"
-                    alt="{{hero.device_image_alt}}"
-                    width="460"
-                    height="995"
-                    loading="lazy"
-                    decoding="async"
-                  />
+                    <img
+                      src="{{hero.device_image_src}}"
+                      alt="{{hero.device_image_alt}}"
+                      width="460"
+                      height="995"
+                      loading="eager"
+                      fetchpriority="high"
+                      decoding="async"
+                    />
                   </div>
                 </div>
               </div>
               <div class="device-column wave-panel active" id="wavePanel">
                 <div class="wave-header">
                   <div class="wave-toggle-container">
-                  <span class="wave-toggle-label">{{wave.before_label}}</span>
-                    <div class="wave-toggle active" id="waveToggle" role="switch" aria-checked="true" tabindex="0">
+                    <span class="wave-toggle-label">{{wave.before_label}}</span>
+                    <div class="wave-toggle active" id="waveToggle" role="switch" aria-checked="true" tabindex="0" aria-label="{{wave.toggle_aria}}">
                       <div class="wave-toggle-handle"></div>
                     </div>
-                  <span class="wave-toggle-label">{{wave.after_label}}</span>
+                    <span class="wave-toggle-label">{{wave.after_label}}</span>
                   </div>
                 </div>
                 <div class="wave-bars" aria-hidden="true">
-                  <!-- Wave bars - heights will be controlled by CSS based on state -->
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
                 </div>
-              <div class="wave-footer">
-                <div class="wave-footer-col">
-                  <div class="wave-footer-label">{{wave.before_label}}</div>
-                  <div class="wave-footer-text">{{wave.before_text}}</div>
+                <div class="wave-footer">
+                  <div class="wave-footer-col">
+                    <div class="wave-footer-label">{{wave.before_label}}</div>
+                    <div class="wave-footer-text">{{wave.before_text}}</div>
+                  </div>
+                  <div class="wave-footer-col">
+                    <div class="wave-footer-label">{{wave.after_label}}</div>
+                    <div class="wave-footer-text">{{wave.after_text}}</div>
+                  </div>
                 </div>
-                <div class="wave-footer-col">
-                  <div class="wave-footer-label">{{wave.after_label}}</div>
-                  <div class="wave-footer-text">{{wave.after_text}}</div>
-                </div>
-              </div>
+                <div class="wave-multiplier" aria-hidden="true">×10</div>
               </div>
             </div>
           </div>
         </section>
 
+        <!-- ============ SUMMARY (GEO) ============ -->
         <aside class="geo-summary" aria-label="{{geo.summary_aria}}">
           <p class="geo-summary-lead">{{geo.summary_lead}}</p>
           <p class="geo-summary-body">{{geo.summary_body}}</p>
         </aside>
 
-        <section class="sections geo-geo-row" aria-label="{{geo.row_aria}}">
-          <article class="card">
-            <h2>{{geo.stats_eyebrow}}</h2>
-            <div class="card-title">{{geo.stats_title}}</div>
-            <ul class="geo-stats-list">
-              {{#each geo.stats as |stat|}}
-              <li>
-                <span class="geo-stat-value">{{stat.value}}</span>
-                <span class="geo-stat-label">{{stat.label}}</span>
-              </li>
-              {{/each}}
-            </ul>
-          </article>
-
-          <article class="card geo-compare-card">
-            <h2>{{geo.compare_eyebrow}}</h2>
-            <div class="card-title">{{geo.compare_title}}</div>
-            <p class="geo-compare-intro">{{geo.compare_intro}}</p>
-            <div class="geo-table-wrap">
-              <table class="geo-compare-table">
-                <thead>
-                  <tr>
-                    <th scope="col">{{geo.compare_col_topic}}</th>
-                    <th scope="col">{{geo.compare_col_system}}</th>
-                    <th scope="col">{{geo.compare_col_app}}</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {{#each geo.compare_rows as |row|}}
-                  <tr>
-                    <th scope="row">{{row.topic}}</th>
-                    <td>{{row.system}}</td>
-                    <td>{{row.app}}</td>
-                  </tr>
-                  {{/each}}
-                </tbody>
-              </table>
+        <!-- ============ DOWNLOAD ============ -->
+        <section class="section download" id="download" aria-labelledby="download-heading">
+          <div class="download-card">
+            <div class="download-app">
+              <img
+                class="download-icon"
+                src="/img/app-icon.webp"
+                alt="{{header.logo_alt}}"
+                width="120"
+                height="120"
+                loading="lazy"
+                decoding="async"
+              />
+              <div class="download-app-text">
+                <p class="eyebrow">{{download.eyebrow}}</p>
+                <h2 id="download-heading">{{download.title}}</h2>
+                <p class="download-app-subtitle">{{download.subtitle}}</p>
+                <div class="download-price">
+                  <span class="price-tag">{{download.price}}</span>
+                  <span>{{download.price_note}}</span>
+                </div>
+                <div class="download-actions">
+{{> appstore-button}}
+                  <div class="qr-block">
+                    <img
+                      class="cta-qr"
+                      src="/img/app-store-qr.png"
+                      alt="{{download.qr_alt}}"
+                      width="96"
+                      height="96"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                    <span>{{download.qr_label}}</span>
+                  </div>
+                </div>
+                <p class="download-requirements">{{download.requirements}}</p>
+              </div>
             </div>
-          </article>
+            <div class="download-facts">
+              <h3 class="facts-title">{{geo.stats_title}}</h3>
+              <ul class="geo-stats-list">
+                {{#each geo.stats as |stat|}}
+                <li>
+                  <span class="geo-stat-value">{{stat.value}}</span>
+                  <span class="geo-stat-label">{{stat.label}}</span>
+                </li>
+                {{/each}}
+              </ul>
+              <blockquote class="download-quote">
+                <p>{{sections.testimonial_card.title}}</p>
+              </blockquote>
+            </div>
+          </div>
         </section>
 
-        <section class="sections" aria-label="{{sections.features_uses_aria}}">
-          <article class="card">
-            <h2>{{sections.feature_card.eyebrow}}</h2>
-            <div class="card-title">
-              {{sections.feature_card.title_prefix}} <span>{{sections.feature_card.title_highlight}}</span>.
-            </div>
-            <p>
-              {{sections.feature_card.description}}
-            </p>
-            <div class="pill-row">
-              <div class="pill">{{sections.feature_card.pill_1}}</div>
-              <div class="pill">{{sections.feature_card.pill_2}}</div>
-              <div class="pill">{{sections.feature_card.pill_3}}</div>
-            </div>
-            <div class="ratings-row">
-              <div class="rating-block">
-                <strong>{{sections.feature_card.rating_1_strong}}</strong>
-                <span>{{sections.feature_card.rating_1_text}}</span>
-              </div>
-              <div class="rating-block">
-                <strong>{{sections.feature_card.rating_2_strong}}</strong>
-                <span>{{sections.feature_card.rating_2_text}}</span>
-              </div>
-            </div>
-          </article>
-
-          <article class="card">
-            <h2>{{sections.steps_card.eyebrow}}</h2>
-            <div class="card-title">{{sections.steps_card.title}}</div>
-            <ol class="steps">
-              <li class="step">
-                <div class="step-number">1</div>
-                <div class="step-text">
-                  {{sections.steps_card.step_1}}
-                </div>
+        <!-- ============ SCREENSHOTS ============ -->
+        <section class="section screenshots" id="screenshots" aria-labelledby="screenshots-heading">
+          <div class="section-head">
+            <p class="eyebrow">{{screenshots.eyebrow}}</p>
+            <h2 id="screenshots-heading">{{screenshots.title}}</h2>
+            <p class="section-intro">{{screenshots.intro}}</p>
+          </div>
+          <div class="shots-scroller" role="region" aria-label="{{screenshots.aria}}" tabindex="0">
+            <ol class="shots-track">
+              {{#each screenshots.items as |screenshot|}}
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="{{screenshot.src}}"
+                      alt="{{screenshot.alt}}"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">{{screenshot_index}}</span>
+                    <span>{{screenshot.caption}}</span>
+                  </figcaption>
+                </figure>
               </li>
-              <li class="step">
-                <div class="step-number">2</div>
-                <div class="step-text">
-                  {{sections.steps_card.step_2}}
-                </div>
-              </li>
-              <li class="step">
-                <div class="step-number">3</div>
-                <div class="step-text">
-                  {{sections.steps_card.step_3}}
-                </div>
-              </li>
+              {{/each}}
             </ol>
-            <div class="card-label">
-              {{sections.steps_card.label}}
-            </div>
-          </article>
+          </div>
         </section>
 
-        <section class="sections" aria-label="{{sections.audience_aria}}">
-          <article class="card">
-            <h2>{{sections.audience_card.eyebrow}}</h2>
-            <div class="card-title">{{sections.audience_card.title}}</div>
-            <div class="audience-grid">
-              <span>{{sections.audience_card.item_1}}</span>
-              <span>{{sections.audience_card.item_2}}</span>
-              <span>{{sections.audience_card.item_3}}</span>
-              <span>{{sections.audience_card.item_4}}</span>
-            </div>
-          </article>
-
-          <article class="card">
-            <h2>{{sections.testimonial_card.eyebrow}}</h2>
-            <div class="card-title">
-              {{sections.testimonial_card.title}}
-            </div>
-            <p>
-              {{sections.testimonial_card.paragraph_1}}
-            </p>
-            <p>
-              {{sections.testimonial_card.paragraph_2}}
-            </p>
-          </article>
-        </section>
-
-        <section
-          class="sections geo-faq-section"
-          aria-labelledby="geo-faq-heading"
-        >
-          <article class="card geo-faq-card">
-            <h2 id="geo-faq-heading">{{geo.faq_section_title}}</h2>
-            <div class="geo-faq-list">
-              {{#each seo.faq as |faq|}}
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">{{faq.question}}</h3>
-                <p class="geo-faq-a">{{faq.answer}}</p>
+        <!-- ============ HOW IT WORKS ============ -->
+        <section class="section how" id="how-it-works" aria-labelledby="how-heading">
+          <div class="section-head">
+            <p class="eyebrow">{{sections.steps_card.eyebrow}}</p>
+            <h2 id="how-heading">{{sections.steps_card.title}}</h2>
+            <p class="section-intro">{{sections.feature_card.description}}</p>
+          </div>
+          <ol class="how-steps">
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/2.webp" alt="{{howitworks.step_1_alt}}" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">1</span>
+                <p>{{sections.steps_card.step_1}}</p>
               </div>
-              {{/each}}
+            </li>
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/4.webp" alt="{{howitworks.step_2_alt}}" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">2</span>
+                <p>{{sections.steps_card.step_2}}</p>
+              </div>
+            </li>
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/6.webp" alt="{{howitworks.step_3_alt}}" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">3</span>
+                <p>{{sections.steps_card.step_3}}</p>
+              </div>
+            </li>
+          </ol>
+          <p class="how-label">{{sections.steps_card.label}}</p>
+
+          <div class="how-grid">
+            <article class="card">
+              <h3 class="card-eyebrow">{{sections.feature_card.eyebrow}}</h3>
+              <p class="card-title">
+                {{sections.feature_card.title_prefix}} <span>{{sections.feature_card.title_highlight}}</span>.
+              </p>
+              <div class="pill-row">
+                <span class="pill">{{sections.feature_card.pill_1}}</span>
+                <span class="pill">{{sections.feature_card.pill_2}}</span>
+                <span class="pill">{{sections.feature_card.pill_3}}</span>
+              </div>
+              <h3 class="card-eyebrow card-eyebrow-gap">{{sections.audience_card.eyebrow}}</h3>
+              <p class="card-title card-title-sm">{{sections.audience_card.title}}</p>
+              <ul class="audience-grid">
+                <li>{{sections.audience_card.item_1}}</li>
+                <li>{{sections.audience_card.item_2}}</li>
+                <li>{{sections.audience_card.item_3}}</li>
+                <li>{{sections.audience_card.item_4}}</li>
+              </ul>
+            </article>
+
+            <article class="card geo-compare-card">
+              <h3 class="card-eyebrow">{{geo.compare_eyebrow}}</h3>
+              <p class="card-title">{{geo.compare_title}}</p>
+              <p class="geo-compare-intro">{{geo.compare_intro}}</p>
+              <div class="geo-table-wrap">
+                <table class="geo-compare-table">
+                  <thead>
+                    <tr>
+                      <th scope="col">{{geo.compare_col_topic}}</th>
+                      <th scope="col">{{geo.compare_col_system}}</th>
+                      {{#if geo.compare_col_imovie}}<th scope="col">{{geo.compare_col_imovie}}</th>{{/if}}
+                      <th scope="col" class="col-app">{{geo.compare_col_app}}</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {{#each geo.compare_rows as |row|}}
+                    <tr>
+                      <th scope="row">{{row.topic}}</th>
+                      <td>{{row.system}}</td>
+                      {{#if geo.compare_col_imovie}}<td>{{row.imovie}}</td>{{/if}}
+                      <td class="col-app">{{row.app}}</td>
+                    </tr>
+                    {{/each}}
+                  </tbody>
+                </table>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <!-- ============ GUIDES ============ -->
+        {{#if guides.items}}
+        <section class="section guides" id="guides" aria-labelledby="guides-heading">
+          <div class="section-head section-head-row">
+            <div>
+              <p class="eyebrow">{{guides.eyebrow}}</p>
+              <h2 id="guides-heading">{{guides.title}}</h2>
+              <p class="section-intro">{{guides.intro}}</p>
             </div>
-          </article>
+            <a class="text-link" href="{{guides.hub_url}}">{{guides.hub_link_text}} →</a>
+          </div>
+          <ul class="guide-grid">
+            {{#each guides.items as |guide|}}
+            <li class="guide-card">
+              <a href="{{guide.url}}">
+                <span class="guide-card-eyebrow">{{guide.eyebrow}}</span>
+                <span class="guide-card-title">{{guide.title}}</span>
+                <span class="guide-card-summary">{{guide.summary}}</span>
+                <span class="guide-card-cta">{{guides.read_more}} →</span>
+              </a>
+            </li>
+            {{/each}}
+          </ul>
+        </section>
+        {{/if}}
+
+        <!-- ============ FAQ ============ -->
+        <section class="section faq" id="faq" aria-labelledby="faq-heading">
+          <div class="section-head">
+            <p class="eyebrow">{{faq_section.eyebrow}}</p>
+            <h2 id="faq-heading">{{geo.faq_section_title}}</h2>
+            <p class="section-intro">{{faq_section.intro}}</p>
+          </div>
+          <div class="faq-list">
+            {{#each seo.faq as |faq|}}
+            <article class="faq-item">
+              <h3 class="faq-q">{{faq.question}}</h3>
+              <p class="faq-a">{{faq.answer}}</p>
+              {{#if faq.learn_more_url}}
+              <a class="faq-more" href="{{faq.learn_more_url}}" title="{{faq.learn_more_title|attr}}">{{faq_section.learn_more_label}} →</a>
+              {{/if}}
+            </article>
+            {{/each}}
+          </div>
+        </section>
+
+        <!-- ============ CTA ============ -->
+        <section class="section final-cta" id="get-the-app" aria-labelledby="cta-heading">
+          <div class="final-cta-card">
+            <div class="final-cta-copy">
+              <p class="eyebrow eyebrow-light">{{cta.eyebrow}}</p>
+              <h2 id="cta-heading">{{cta.title}}</h2>
+              <p>{{cta.text}}</p>
+              <div class="cta-actions">
+{{> appstore-button}}
+                <img
+                  class="cta-qr"
+                  src="/img/app-store-qr.png"
+                  alt="{{download.qr_alt}}"
+                  width="88"
+                  height="88"
+                  loading="lazy"
+                  decoding="async"
+                />
+              </div>
+              <p class="final-cta-note">{{cta.note}}</p>
+            </div>
+            <div class="final-cta-visual" aria-hidden="true">
+              <img src="/img/screenshots/5.webp" alt="" width="460" height="995" loading="lazy" decoding="async" />
+            </div>
+          </div>
         </section>
       </main>
 
-      <footer>
-        <div>
-          <div>{{footer.copyright}}</div>
-          <p class="footer-updated">
-            {{footer.last_updated_label}}
-            <time datetime="{{footer.last_updated_iso}}">{{footer.last_updated_iso}}</time>
-          </p>
-        </div>
-        <div>
-          <a href="{{footer.privacy_url}}">{{footer.privacy_link}}</a>
-          &nbsp;·&nbsp;
-          <a href="{{footer.terms_url}}">{{footer.terms_link}}</a>
-          &nbsp;·&nbsp;
-          <a
-            href="{{header.download_url}}"
-            target="_blank"
-            rel="noopener noreferrer"
-            >{{footer.app_store_link_text}}</a
-          >
-        </div>
-      </footer>
+{{> site-footer}}
     </div>
 
     <!-- Structured Data (JSON-LD) for SEO -->
@@ -451,72 +371,45 @@
     <script type="application/ld+json">
       {{seo.structured_data.webpage|json}}
     </script>
-    <!-- BreadcrumbList Schema -->
     <script type="application/ld+json">
       {{seo.structured_data.breadcrumb_list|json}}
     </script>
 
     <script>
-      // Wave toggle functionality
-      const waveToggle = document.getElementById('waveToggle');
-      const wavePanel = document.getElementById('wavePanel');
+      (function () {
+        var waveToggle = document.getElementById('waveToggle');
+        var wavePanel = document.getElementById('wavePanel');
+        if (!waveToggle || !wavePanel) return;
 
-      function toggleWaveState() {
-        const isActive = wavePanel.classList.contains('active');
-        wavePanel.classList.toggle('active');
-        waveToggle.classList.toggle('active');
-        waveToggle.setAttribute('aria-checked', String(!isActive));
-      }
+        function toggleWaveState() {
+          var isActive = wavePanel.classList.contains('active');
+          wavePanel.classList.toggle('active');
+          waveToggle.classList.toggle('active');
+          waveToggle.setAttribute('aria-checked', String(!isActive));
+        }
 
-      if (waveToggle && wavePanel) {
-        // Start in "After" (active) state
-        wavePanel.classList.add('active');
-        waveToggle.classList.add('active');
-        waveToggle.setAttribute('aria-checked', 'true');
-
-        // Toggle periodically between Before and After
-        let autoToggle = setInterval(toggleWaveState, 4000);
-
-        const stopAutoToggle = () => {
-          if (autoToggle) {
-            clearInterval(autoToggle);
-            autoToggle = null;
-          }
-        };
-
-        waveToggle.addEventListener('click', () => {
-          stopAutoToggle();
-          toggleWaveState();
+        var autoToggle = setInterval(toggleWaveState, 3600);
+        function stopAutoToggle() {
+          if (autoToggle) { clearInterval(autoToggle); autoToggle = null; }
+        }
+        waveToggle.addEventListener('click', function () { stopAutoToggle(); toggleWaveState(); });
+        waveToggle.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); stopAutoToggle(); toggleWaveState(); }
         });
 
-        waveToggle.addEventListener('keydown', (e) => {
-          if (e.key === 'Enter' || e.key === ' ') {
-            e.preventDefault();
-            stopAutoToggle();
-            toggleWaveState();
-          }
-        });
-      }
+        if ('IntersectionObserver' in window) {
+          var io = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add('is-visible'); io.unobserve(entry.target); }
+            });
+          }, { rootMargin: '0px 0px -8% 0px' });
+          document.querySelectorAll('.section, .geo-summary').forEach(function (el) { io.observe(el); });
+        } else {
+          document.querySelectorAll('.section, .geo-summary').forEach(function (el) { el.classList.add('is-visible'); });
+        }
+      })();
     </script>
 
-
-
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-  (function(m,e,t,r,i,k,a){
-      m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-      m[i].l=1*new Date();
-      for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-      k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
-  })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=104469191', 'ym');
-
-  ym(104469191, 'init', {ssr:true, webvisor:true, clickmap:true, referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/104469191" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-
-
-
+{{> analytics}}
   </body>
 </html>
-

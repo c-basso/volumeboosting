@@ -46,13 +46,34 @@
     "footnote_item4": "SNSのクリップ",
     "footnote_last_joiner": "、",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – 音の強化 のiPhone画面 — 音声と動画の音量を上げる"
+    "device_image_alt": "Increase Volume – 音の強化 のiPhone画面 — 音声と動画の音量を上げる",
+    "cta_secondary_link": "使い方を見る",
+    "proof_aria": "アプリの基本情報",
+    "proof": [
+      {
+        "value": "4.5★",
+        "label": "App Store の評価 118 件"
+      },
+      {
+        "value": "10倍",
+        "label": "最大の音量倍率"
+      },
+      {
+        "value": "音声 + 動画",
+        "label": "MP3、MP4、MOV、ボイスメモ"
+      },
+      {
+        "value": "端末内で処理",
+        "label": "アップロードは一切なし"
+      }
+    ]
   },
   "wave": {
     "before_label": "前",
     "after_label": "後",
     "before_text": "小さく平坦な元の音",
-    "after_text": "ブースト後は、迫力あふれるクリアな音"
+    "after_text": "ブースト後は、迫力あふれるクリアな音",
+    "toggle_aria": "元の波形とブースト後の波形を切り替える"
   },
   "sections": {
     "features_uses_aria": "機能と使い方",
@@ -157,7 +178,11 @@
     "last_updated_label": "ページ最終更新：",
     "privacy_link": "プライバシーポリシー",
     "terms_link": "利用規約",
-    "app_store_link_text": "App Storeで見る"
+    "app_store_link_text": "App Storeで見る",
+    "tagline": "スピーカーではなく、ファイルそのものを大きくする iPhone 向け音量ブースター。",
+    "links_aria": "フッター",
+    "guides_link_text": "ガイド",
+    "languages_label": "他の言語でこのページを見る"
   },
   "seo": {
     "breadcrumb_home": "ホーム",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "音声または動画を取り込み、低音・明瞭さのコントロールとあわせて最大約10倍のラウドネスを適用し、保存・共有用に大きなファイルを書き出すiPhoneアプリ。端末内で処理し、システム全体の音量は変更しません。"
+        "description": "音声または動画を取り込み、低音・明瞭さのコントロールとあわせて最大約10倍のラウドネスを適用し、保存・共有用に大きなファイルを書き出すiPhoneアプリ。端末内で処理し、システム全体の音量は変更しません。",
+        "featureList": [
+          "動画と音声の音量を最大10倍（1000%）にブースト",
+          "MP3、M4A のボイスメモ、MP4・MOV 動画に対応",
+          "保存前に「オリジナル／処理後」を聴き比べ",
+          "任意で音質改善を適用",
+          "写真アプリの共有シートからプロジェクトを作成",
+          "写真またはファイルに保存し、任意のアプリへ共有",
+          "複数のプロジェクトを保持"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "保存して共有",
             "text": "ブースト済みファイルを端末に保存し、どこへでも共有。"
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "iPhone 向けアプリ Increase Volume – 音の強化"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "メインナビゲーション",
+    "how_it_works": "使い方",
+    "screenshots": "スクリーンショット",
+    "guides": "ガイド",
+    "faq": "よくある質問",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "ダウンロード",
+    "title": "Increase Volume – 音の強化 を App Store で入手",
+    "subtitle": "Audio & Music Booster · 「ミュージック」カテゴリ · iPhone",
+    "price": "無料",
+    "price_note": "App 内課金は任意（無料トライアル、または買い切りのライフタイムプラン）",
+    "rating_line": "4.5 ★ · App Store の評価 118 件",
+    "qr_alt": "App Store の Increase Volume – 音の強化 ページへの QR コード",
+    "qr_label": "iPhone のカメラでスキャン",
+    "requirements": "iOS 18.6 以降が必要 · 26.8 MB · 日本語ほか 31 言語 · 4+"
+  },
+  "screenshots": {
+    "eyebrow": "スクリーンショット",
+    "title": "iPhone での実際の画面",
+    "intro": "App Store と同じ画面です。スライダーはひとつ、「オリジナル／処理後」の聴き比べ、そして大きくしたファイルを好きな場所へ送れる共有シート。",
+    "aria": "アプリのスクリーンショット、横にスクロール",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Increase Volume の紹介画像：音量ブースター＆サウンドアンプ、最大10倍の大音量",
+        "caption": "音量ブースター＆サウンドアンプ：最大10倍の大音量に。"
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Increase Volume の動画プレーヤーで、指がピンクのブーストスライダーを動かして動画の音を大きくしている",
+        "caption": "動画の音を大きくする：プレビュー上のスライダーをドラッグ。"
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume が MP3 ファイルを処理中。ファイル名、サイズ、再生時間を表示",
+        "caption": "音楽の音を大きくする：MP3 などの音声ファイルも端末内で処理。"
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "「音質を改善」のスイッチ、「音量倍率 ×10」スライダー、「音量を ×10 にブースト」ボタンを含むトラック詳細画面",
+        "caption": "ブースト量を選択：控えめな調整から10倍まで。"
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "「処理後をダウンロード」ボタンと「オリジナル／処理後」切り替えのある結果画面",
+        "caption": "処理結果を聴き、保存前にオリジナルと比較。"
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "ブースト済み音声に対する「コピー」「タグを追加」「\"ファイル\"に保存」を表示した iOS の共有シート",
+        "caption": "ダウンロードしてどこへでも共有：写真、ファイル、メッセージ、WhatsApp、AirDrop。"
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Increase Volume のプロジェクト一覧。MP3 と MP4 ファイルのサイズと再生時間を表示",
+        "caption": "複数のプロジェクトを保存して、あとから再開。"
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "ステップ 1：Increase Volume に読み込んだ動画とブーストスライダー",
+    "step_2_alt": "ステップ 2：「音量倍率 ×10」スライダーと「音量をブースト」ボタン",
+    "step_3_alt": "ステップ 3：ブースト済みファイルを「\"ファイル\"に保存」する iOS の共有シート"
+  },
+  "faq_section": {
+    "eyebrow": "よくある質問",
+    "intro": "まず短い答えを。それぞれスクリーンショット付きの詳しいガイドにつながります。",
+    "learn_more_label": "詳しく見る"
+  },
+  "cta": {
+    "eyebrow": "準備はいいですか？",
+    "title": "小さすぎるファイルを、1分以内に10倍の音量へ。",
+    "text": "Increase Volume – 音の強化 をダウンロードし、誰にも聞こえない動画や音声を読み込んで、スライダーを動かし、大きくしたバージョンを共有しましょう。",
+    "note": "無料ダウンロード · iOS 18.6 以降が必要 · App Store 評価 4.5★"
   }
 }

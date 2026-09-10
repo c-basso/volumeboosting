@@ -1,213 +1,425 @@
 {
   "meta": {
     "lang": "en",
-    "title": "Increase Volume – Sound Boost | Any Audio or Video, Louder",
-    "description": "Make any audio or video louder on iPhone. Boost volume up to ~10× while enhancing clarity, depth, and bass for music, videos, podcasts, and voice memos.",
-    "keywords": "increase volume, sound boost, volume booster, louder video, louder audio, iPhone volume booster, boost quiet video, audio enhancer app",
+    "title": "Increase Volume – Volume Booster App for iPhone (10× Louder)",
+    "description": "Make any video, MP3 or voice memo up to 10× louder on iPhone. Increase Volume boosts the file itself, keeps it clear and saves a copy you can share. Free app.",
+    "keywords": "volume booster iphone, increase volume, make video louder iphone, make audio louder, sound booster app, video volume booster, audio booster, mp3 volume booster, voice memo louder, boost video volume",
     "canonical": "https://volumeboosting.com/",
-    "og_title": "Increase Volume – Sound Boost",
-    "og_description": "Make any audio or video louder on iPhone. Boost volume up to ~10× with clear sound, powerful bass, and quick editing.",
+    "og_title": "Increase Volume – Volume Booster App for iPhone",
+    "og_description": "Make any video, MP3 or voice memo up to 10× louder on iPhone. Boosts the file itself, keeps it clear, and saves a copy you can share anywhere.",
     "og_image": "https://volumeboosting.com/site_preview.png",
-    "og_image_alt": "Increase Volume – Sound Boost app icon",
+    "og_image_alt": "Increase Volume app on iPhone: boost slider set to ×10 with Original and Processed comparison",
     "og_url": "https://volumeboosting.com/",
     "og_locale": "en_US",
     "twitter_url": "https://volumeboosting.com/",
-    "twitter_title": "Increase Volume – Sound Boost",
-    "twitter_description": "Make any audio or video louder on iPhone. Boost volume up to ~10× with clear sound, powerful bass, and quick editing.",
+    "twitter_title": "Increase Volume – Volume Booster App for iPhone",
+    "twitter_description": "Make any video, MP3 or voice memo up to 10× louder on iPhone. Boosts the file itself, keeps it clear, and saves a copy you can share anywhere.",
     "twitter_image": "https://volumeboosting.com/site_preview.png",
-    "twitter_image_alt": "Increase Volume – Sound Boost app icon"
+    "twitter_image_alt": "Increase Volume app on iPhone: boost slider set to ×10 with Original and Processed comparison"
   },
   "header": {
-    "app_name_suffix": "Sound Boost for iPhone",
-    "logo_alt": "Increase Volume – Sound Boost app icon",
-    "app_name": "Increase Volume – Sound Boost",
-    "brand_name": "Volume Booster",
-    "brand_subtitle": "Sound Boost for iPhone",
+    "app_name_suffix": "Audio & Music Booster for iPhone",
+    "logo_alt": "Increase Volume app icon: speaker with an upward arrow",
+    "app_name": "Increase Volume",
+    "brand_name": "Increase Volume",
+    "brand_subtitle": "Volume booster for iPhone",
     "apple_pill_text": "Made for iPhone · Music app",
     "download_text": "Download on the App Store",
-    "download_aria_label": "Download Increase Volume – Sound Boost on the App Store"
+    "download_aria_label": "Download Increase Volume on the App Store"
+  },
+  "nav": {
+    "aria": "Main navigation",
+    "how_it_works": "How it works",
+    "screenshots": "Screenshots",
+    "guides": "Guides",
+    "faq": "FAQ",
+    "download": "App Store"
   },
   "hero": {
-    "kicker_value": "10x",
-    "kicker_text": "Turn quiet videos and audio into loud, clear sound",
-    "title_prefix": "Make any audio or video",
-    "title_highlight": "up to ~10× louder",
-    "title_suffix": "without losing clarity.",
-    "subtitle": "Increase Volume – Sound Boost is your dedicated iPhone volume booster. Fix quiet screen recordings, podcasts, and videos in seconds with clean, powerful sound and rich bass.",
+    "kicker_value": "×10",
+    "kicker_text": "The volume booster that makes the file louder, not just the speaker",
+    "title_prefix": "Make any video or audio",
+    "title_highlight": "up to 10× louder",
+    "title_suffix": "on your iPhone.",
+    "subtitle": "Increase Volume is a volume booster app for iPhone. Import a quiet video, MP3, voice memo or screen recording, drag one slider, and save a permanently louder copy that stays clear and plays loud everywhere you share it.",
     "metadata_primary": "Only for iPhone",
     "metadata_secondary": "Fast, simple, and privacy-respecting",
-    "cta_secondary_prefix": "Boost your first video for",
-    "cta_secondary_emphasis": "free",
-    "cta_secondary_suffix": ", keep the volume forever.",
-    "footnote_prefix": "Perfect for",
+    "cta_secondary_link": "See how it works",
+    "cta_secondary_prefix": "Free download ·",
+    "cta_secondary_emphasis": "boost your first file",
+    "cta_secondary_suffix": " in under a minute.",
+    "proof_aria": "App facts",
+    "proof": [
+      {
+        "value": "4.5★",
+        "label": "118 App Store ratings"
+      },
+      {
+        "value": "×10",
+        "label": "max volume multiplication"
+      },
+      {
+        "value": "Audio + video",
+        "label": "MP3, MP4, MOV, voice memos"
+      },
+      {
+        "value": "On-device",
+        "label": "nothing is uploaded"
+      }
+    ],
+    "footnote_prefix": "Fixes",
     "footnote_item1": "quiet voice memos",
-    "footnote_item2": "movies",
-    "footnote_item3": "music",
-    "footnote_item4": "social clips",
+    "footnote_item2": "screen recordings",
+    "footnote_item3": "downloaded MP3s",
+    "footnote_item4": "TikTok and Reels clips",
     "footnote_last_joiner": ", and ",
-    "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Sound Boost on iPhone — boost audio and video loudness"
+    "device_image_src": "/img/screenshots/2.webp",
+    "device_image_alt": "Increase Volume app on iPhone dragging the pink boost slider to make a video louder"
   },
   "wave": {
     "before_label": "Before",
     "after_label": "After",
+    "toggle_aria": "Toggle between the original and boosted waveform",
     "before_text": "Quiet, flat original audio",
     "after_text": "Boosted, full and clear output"
+  },
+  "download": {
+    "eyebrow": "Download",
+    "title": "Get Increase Volume on the App Store",
+    "subtitle": "Audio & Music Booster · Music category · iPhone",
+    "price": "Free",
+    "price_note": "Optional in-app purchases (free trial, or a one-time lifetime plan)",
+    "rating_line": "4.5 ★ · 118 ratings on the App Store",
+    "qr_alt": "QR code linking to Increase Volume on the App Store",
+    "qr_label": "Scan with your iPhone camera",
+    "requirements": "Requires iOS 18.6 or later · 26.8 MB · English + 30 more languages · Age 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Screenshots",
+    "title": "What the app looks like on your iPhone",
+    "intro": "The same screens you will see in the App Store: one slider, an Original/Processed comparison, and a share sheet that puts the louder file anywhere you need it.",
+    "aria": "App screenshots, scroll horizontally",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Increase Volume marketing screenshot: volume booster and sound amplifier, up to ten times louder",
+        "caption": "Volume booster and sound amplifier: up to ×10 louder."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Video player in Increase Volume with a finger dragging the pink boost slider to make the video louder",
+        "caption": "Make a video louder: drag the slider on the video preview."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume processing an MP3 file showing file name, size and duration",
+        "caption": "Make music louder: MP3 and other audio files are processed on the device."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Track details with Improve Audio Quality toggle, Volume multiplication x10 slider and Boost Volume to x10 button",
+        "caption": "Select the amount of boosting, from a gentle lift to ×10."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Result screen with Download Processed button and Original versus Processed toggle",
+        "caption": "Hear the processed result and compare it with the original before saving."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "iOS share sheet showing Copy, Add Tags and Save to Files for the boosted audio",
+        "caption": "Download and share anywhere: Photos, Files, Messages, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Volume Boost project list in Increase Volume showing MP3 and MP4 files with size and duration",
+        "caption": "Store multiple projects and come back to them later."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "Step 1: video imported into Increase Volume with the boost slider visible",
+    "step_2_alt": "Step 2: Volume multiplication x10 slider and Boost Volume button",
+    "step_3_alt": "Step 3: iOS share sheet with Save to Files for the boosted file"
   },
   "sections": {
     "features_uses_aria": "Features and uses",
     "audience_aria": "Who it's for and why people love it",
     "feature_card": {
       "eyebrow": "What it does",
-      "title_prefix": "Turn quiet recordings into",
-      "title_highlight": "bold, listenable sound",
-      "description": "Increase Volume – Sound Boost takes any audio or video on your iPhone and makes it dramatically louder while keeping it clear and easy to understand. No confusing controls, no editing skills required.",
-      "pill_1": "Boost videos from Photos",
-      "pill_2": "Music, podcasts, and voice memos",
-      "pill_3": "Powerful bass and clarity",
-      "rating_1_strong": "Loved by users",
-      "rating_1_text": "for boosting quiet videos and audio",
+      "title_prefix": "Turns quiet recordings into",
+      "title_highlight": "loud, clear, shareable files",
+      "description": "Increase Volume takes any audio or video on your iPhone and makes it dramatically louder while keeping speech intelligible. No timeline, no editing skills, no upload: import, boost, compare, save.",
+      "pill_1": "Boost videos straight from Photos",
+      "pill_2": "MP3s, podcasts, voice memos",
+      "pill_3": "Optional audio-quality enhancement",
+      "rating_1_strong": "4.5 ★",
+      "rating_1_text": "from 118 App Store ratings",
       "rating_2_strong": "Music",
       "rating_2_text": "category on the App Store"
     },
     "steps_card": {
-      "eyebrow": "Use it in seconds",
-      "title": "Boosting your audio is this simple.",
-      "step_1": "Import a video, song, or recording — or start directly from the Photos app.",
-      "step_2": "Drag the boost slider to add loudness, clarity, and bass in real time.",
-      "step_3": "Save the boosted file back to your device and share it anywhere.",
-      "label": "Ideal for: screen recordings, TikTok/Reels clips, interviews, voice memos, and more."
+      "eyebrow": "How it works",
+      "title": "Three taps from quiet to loud",
+      "step_1": "Import a video, song or recording from Photos or Files, or share it to Increase Volume from any app.",
+      "step_2": "Drag the Volume multiplication slider (up to ×10), optionally switch on Improve Audio Quality, and tap Boost Volume.",
+      "step_3": "Flip between Original and Processed, then tap Download Processed to save the louder file or share it anywhere.",
+      "label": "Works for screen recordings, TikTok and Reels clips, interviews, lectures, voice memos, podcasts and downloaded music."
     },
     "audience_card": {
       "eyebrow": "Who it's for",
-      "title": "If your iPhone volume isn't enough, it is.",
-      "item_1": "People who constantly max out volume but still can't hear.",
-      "item_2": "Creators who need loud, clear audio for social videos.",
-      "item_3": "Anyone fixing quiet screen recordings and tutorials.",
-      "item_4": "Listeners boosting podcasts, lectures, or voice memos."
+      "title": "If your iPhone is already at max volume, this is the fix.",
+      "item_1": "People who max out the volume buttons and still can't hear the recording.",
+      "item_2": "Creators who need loud, clear audio before posting to TikTok, Reels or YouTube.",
+      "item_3": "Anyone rescuing a quiet screen recording, tutorial or Zoom clip.",
+      "item_4": "Listeners boosting podcasts, audiobooks, lectures and voice notes."
     },
     "testimonial_card": {
       "eyebrow": "Why people keep it",
-      "title": "\"Works well and it's simple.\" – App Store review",
-      "paragraph_1": "Increase Volume is designed to get out of your way. Open, boost, save, done — with smart defaults and a clean layout that feels native to iPhone.",
+      "title": "\"Works good and it's simple.\" – App Store review, 5 stars",
+      "paragraph_1": "Increase Volume is designed to get out of your way. Open, boost, save, done, with smart defaults and a clean layout that feels native to iPhone.",
       "paragraph_2": "Under the hood, it's a powerful volume booster and sound enhancer that keeps your audio punchy instead of distorted."
     }
   },
   "geo": {
     "summary_aria": "What this app is",
-    "summary_lead": "Summary: Increase Volume – Sound Boost is an iPhone app that processes audio and video files on-device, applies up to about 10× gain with clarity and bass controls, and saves a new louder file you can keep or share. It is not a system-wide speaker limit breaker.",
-    "summary_body": "Published on the Apple App Store by c-basso. It competes in the same problem space as turning up quiet podcasts, voice memos, screen recordings, and social clips—similar goals to normalization in desktop editors, but optimized for a tap-first iOS workflow.",
+    "summary_lead": "Summary: Increase Volume (App Store title \"Increase Volume Sound\") is an iPhone app that processes audio and video files on the device, applies up to 10× volume multiplication with an optional audio-quality enhancement, and saves a new, louder file you can keep or share. It does not raise the iPhone speaker's hardware limit for system-wide sound.",
+    "summary_body": "Published on the Apple App Store by Vladimir Ivakhnenko (c-basso) in the Music and Utilities categories. It solves the same problem as normalizing or amplifying audio in iMovie, Audacity or an online booster, but as a one-slider workflow on iPhone that also handles plain audio files, not only video.",
     "row_aria": "Facts and comparison",
     "stats_eyebrow": "By the numbers",
-    "stats_title": "Quotable facts about the app",
+    "stats_title": "Quotable facts about Increase Volume",
     "stats": [
       {
-        "value": "Up to ~10×",
-        "label": "Maximum boost factor stated for processed exports."
-      },
-      {
-        "value": "iOS / iPhone",
-        "label": "Platform: native mobile app, not macOS or Android."
+        "value": "Up to ×10",
+        "label": "Maximum volume multiplication (1000%), roughly twice iMovie's ~500% ceiling."
       },
       {
         "value": "4.5 / 5",
-        "label": "App Store rating from 118 ratings."
+        "label": "App Store rating from 118 ratings (US storefront)."
       },
       {
-        "value": "$0 download",
-        "label": "Listed as free with App Store offers; current price is on Apple’s listing."
+        "value": "Audio + video",
+        "label": "Boosts MP3, M4A voice memos and MP4/MOV videos, not only video."
       },
       {
-        "value": "Import → boost → save",
-        "label": "Core workflow: local files in, adjusted file out."
+        "value": "On-device",
+        "label": "Processing runs on the iPhone; there is no upload step."
+      },
+      {
+        "value": "iOS 18.6+",
+        "label": "iPhone only. 26.8 MB download. Localized in 31 languages."
+      },
+      {
+        "value": "Free",
+        "label": "Free download; premium unlock via subscription (free trial) or a one-time lifetime plan."
       }
     ],
-    "compare_eyebrow": "Positioning",
-    "compare_title": "Increase Volume vs typical alternatives",
-    "compare_intro": "Factual differences that models and assistants can cite. Competitors are categories, not a ranked list of apps.",
+    "compare_eyebrow": "Compared",
+    "compare_title": "iPhone volume buttons vs iMovie vs Increase Volume",
+    "compare_intro": "Factual differences between the three ways people try to fix a quiet file on iPhone.",
     "compare_col_topic": "Topic",
-    "compare_col_system": "iOS system volume",
-    "compare_col_app": "Increase Volume – Sound Boost",
+    "compare_col_system": "iPhone system volume",
+    "compare_col_imovie": "iMovie",
+    "compare_col_app": "Increase Volume",
     "compare_rows": [
       {
-        "topic": "Creates a new louder file",
-        "system": "No — only changes playback level.",
-        "app": "Yes — export/save a boosted copy."
+        "topic": "Creates a new, louder file",
+        "system": "No, only changes playback level on this phone.",
+        "imovie": "Yes, after building a project and exporting.",
+        "app": "Yes, one tap on Download Processed."
       },
       {
-        "topic": "Works offline on device",
-        "system": "N/A for file export.",
-        "app": "Yes — processing is described as on-device."
+        "topic": "Maximum boost",
+        "system": "100% (hardware limit).",
+        "imovie": "About 500%.",
+        "app": "Up to ×10 (1000%)."
       },
       {
-        "topic": "Fine-tune bass & clarity",
-        "system": "Limited to system EQ / playback.",
-        "app": "Yes — dedicated sliders in the app UI."
+        "topic": "Works on audio files (MP3, voice memos)",
+        "system": "Playback only.",
+        "imovie": "No, video projects only.",
+        "app": "Yes, audio and video."
       },
       {
-        "topic": "Typical use case",
-        "system": "Louder playback now.",
-        "app": "Permanent fix for quiet source files."
+        "topic": "Start from the Photos share sheet",
+        "system": "N/A",
+        "imovie": "No, import inside iMovie.",
+        "app": "Yes, share a video to Increase Volume."
+      },
+      {
+        "topic": "Time for a 2-minute clip",
+        "system": "Instant, but not shareable.",
+        "imovie": "2–3 minutes plus re-export.",
+        "app": "Under a minute."
       }
     ],
     "faq_section_title": "Frequently asked questions"
   },
+  "guides": {
+    "eyebrow": "Guides",
+    "title": "How to fix quiet audio on iPhone, case by case",
+    "intro": "Each guide answers one question people actually search for, explains what the built-in iOS tools can and cannot do, then shows the exact steps in Increase Volume.",
+    "hub_link_text": "All guides",
+    "read_more": "Read the guide",
+    "hub": {
+      "title": "iPhone Volume Booster Guides: Make Video & Audio Louder",
+      "description": "Step-by-step guides to making videos, voice memos, MP3s, screen recordings and voice messages louder on iPhone, using built-in options and Increase Volume.",
+      "h1": "Guides: make quiet video and audio louder on iPhone",
+      "intro": "Every guide starts with a direct answer, covers the free built-in options honestly (Photos, iMovie, Voice Memos), and then shows how to get up to 10× more volume with Increase Volume."
+    },
+    "labels": {
+      "home": "Home",
+      "guides": "Guides",
+      "breadcrumb_aria": "Breadcrumb",
+      "updated": "Updated",
+      "reading_time": "3–4 min read",
+      "quick_answer": "Quick answer",
+      "faq_heading": "Questions people also ask",
+      "related": "Related guides",
+      "all_guides": "All guides",
+      "disclaimer": "Increase Volume makes the audio inside a file louder and saves a new copy. It cannot raise the hardware volume limit of the iPhone speaker or change system-wide playback volume."
+    },
+    "default_cta": {
+      "title": "Do it in Increase Volume",
+      "text": "Free on the App Store. Import, drag the slider to ×10, tap Download Processed."
+    }
+  },
+  "faq_section": {
+    "eyebrow": "FAQ",
+    "intro": "Short answers first. Each one links to a full guide with screenshots.",
+    "learn_more_label": "Learn more"
+  },
+  "cta": {
+    "eyebrow": "Ready?",
+    "title": "Your quiet file, 10× louder, in under a minute.",
+    "text": "Download Increase Volume, import the video or audio that nobody can hear, drag the slider, and share the loud version.",
+    "note": "Free download · Requires iOS 18.6 or later · 4.5★ on the App Store"
+  },
   "footer": {
-    "copyright": "© {year} c-basso · Increase Volume – Sound Boost",
+    "copyright": "© {year} c-basso · Increase Volume",
+    "tagline": "The iPhone volume booster that makes the file louder, not just the speaker.",
+    "links_aria": "Footer",
     "last_updated_label": "Page last updated:",
     "privacy_link": "Privacy Policy",
     "terms_link": "Terms of Use",
-    "app_store_link_text": "View on the App Store"
+    "app_store_link_text": "View on the App Store",
+    "guides_link_text": "Guides",
+    "languages_label": "This page in other languages"
   },
   "seo": {
     "breadcrumb_home": "Home",
     "faq": [
       {
-        "question": "What is Increase Volume – Sound Boost?",
-        "answer": "It is an iPhone app in the Music category on the App Store that makes imported audio and video files louder—up to about 10×—and lets you save a new file. It processes media on your device and is aimed at quiet recordings, podcasts, and clips—not at bypassing iOS hardware limits for all system audio."
+        "question": "How do I make a video louder on iPhone?",
+        "answer": "Open Increase Volume, import the video from Photos (or share it to the app), drag the Volume multiplication slider up to ×10, tap Boost Volume, compare Original and Processed, then tap Download Processed. The louder copy lands in Photos or Files and plays loud on every device.",
+        "guide": "how-to-make-a-video-louder-on-iphone"
       },
       {
-        "question": "How does Increase Volume – Sound Boost work?",
-        "answer": "You import a video, song, or recording (including from Photos), adjust loudness with a boost slider plus clarity and bass, preview in real time, then save the boosted file back to your device or share it."
+        "question": "Can I make a voice memo louder after recording it?",
+        "answer": "Yes. Share the memo from Voice Memos to Increase Volume (or save it to Files first), boost it up to ×10, and save the processed file. Voice Memos' own Enhance Recording only cleans noise during playback; it does not create a louder file.",
+        "guide": "how-to-increase-voice-memo-volume-on-iphone"
       },
       {
-        "question": "Is Increase Volume – Sound Boost better than just turning up the iPhone volume?",
-        "answer": "They solve different problems. System volume only makes playback louder temporarily. This app creates a permanently louder file, which helps when the source recording itself is quiet or when you need to share the boosted version."
+        "question": "Does Increase Volume work on MP3 and other audio files, not just video?",
+        "answer": "Yes. It boosts MP3, M4A and other common audio files as well as MP4 and MOV videos. Most iPhone volume booster apps only accept video; this one is listed as an Audio & Music Booster and shows the track name, size and duration before you boost.",
+        "guide": "how-to-make-mp3-louder-on-iphone"
       },
       {
-        "question": "How is Increase Volume different from VLC or Audacity for loudness?",
-        "answer": "VLC and Audacity are powerful desktop-oriented tools that can normalize or amplify audio with many controls. Increase Volume is built for iPhone: a short import → slide → save flow without a desktop timeline editor."
+        "question": "Why is my iPhone screen recording so quiet?",
+        "answer": "iOS captures app audio at a conservative level, and Bluetooth headphones or a low in-app volume make it quieter still. You cannot fix a finished recording with system settings, but Increase Volume can multiply its audio up to ×10 and save a new file.",
+        "guide": "how-to-make-a-screen-recording-louder-on-iphone"
       },
       {
-        "question": "Does Increase Volume work for both video and audio?",
-        "answer": "Yes. You can boost video with soundtracks, music tracks, podcasts, voice memos, and screen recordings, then save the result."
+        "question": "Will boosting the volume make my video sound distorted?",
+        "answer": "Only if you push a recording that is already near its ceiling. Start around ×3 to ×5, use the Original/Processed toggle to listen before saving, and switch on Improve Audio Quality for speech. Quiet sources usually take ×5 to ×10 cleanly.",
+        "guide": "how-to-make-a-video-louder-without-losing-quality"
       },
       {
-        "question": "Is the boosted file saved on my iPhone?",
-        "answer": "Yes. After processing, you save the louder file back to your device and can share it like any other media file."
+        "question": "How much louder than iMovie can it go?",
+        "answer": "iMovie on iPhone caps clip volume at roughly 500%. Increase Volume goes to ×10 (1000%), works without building a project, and also accepts audio-only files that iMovie cannot open.",
+        "guide": "imovie-volume-limit-how-to-boost-video-beyond-500-percent"
       },
       {
-        "question": "How much does Increase Volume – Sound Boost cost?",
-        "answer": "The App Store listing shows the current price and any in-app purchases. The site’s structured data lists a free tier offer; always verify pricing on Apple’s store page before citing it."
+        "question": "Can I boost a video straight from the Photos app?",
+        "answer": "Yes. Open the video in Photos, tap Share, choose Increase Volume, and a project is created instantly. Boost it, then Download Processed to save the louder copy back to Photos.",
+        "guide": "how-to-boost-video-volume-from-the-photos-app"
       },
       {
-        "question": "Who makes Increase Volume – Sound Boost?",
-        "answer": "The app is published by c-basso and distributed through the Apple App Store (App Store ID 6741472421). The product site is volumeboosting.com."
+        "question": "Does Increase Volume make my iPhone speaker louder?",
+        "answer": "No. It makes the audio inside a file louder and saves a new copy. If a recording is too quiet even at maximum system volume, boosting the file is the fix; the app cannot change the speaker's hardware limit or system-wide volume.",
+        "guide": "why-is-my-iphone-video-so-quiet"
+      },
+      {
+        "question": "Is Increase Volume free? What does the subscription unlock?",
+        "answer": "The download is free and includes a free trial. Continued unlimited boosting is unlocked with a subscription or a one-time lifetime plan; current prices are shown on the App Store listing. Processing always happens on your iPhone.",
+        "guide": ""
+      },
+      {
+        "question": "Is my audio uploaded anywhere?",
+        "answer": "No. The boost is computed on your iPhone and the result is saved locally through the standard iOS share sheet. There is no account and no server-side processing step.",
+        "guide": "how-to-make-a-video-louder-without-losing-quality"
       }
     ],
     "structured_data": {
       "software_application": {
         "@context": "https://schema.org",
         "@type": "MobileApplication",
-        "name": "Increase Volume – Sound Boost",
-        "operatingSystem": "iOS",
+        "name": "Increase Volume Sound",
+        "alternateName": "Increase Volume – Audio & Music Booster",
+        "operatingSystem": "iOS 18.6 or later",
         "applicationCategory": "MusicApplication",
+        "applicationSubCategory": "UtilitiesApplication",
         "offers": {
           "@type": "Offer",
           "price": "0",
-          "priceCurrency": "USD"
+          "priceCurrency": "USD",
+          "category": "free"
         },
-        "description": "iPhone app that imports audio or video, applies up to approximately 10× loudness with bass and clarity controls, and exports a louder file for saving and sharing. On-device processing; does not change system-wide volume."
+        "author": {
+          "@type": "Person",
+          "name": "Vladimir Ivakhnenko"
+        },
+        "inLanguage": [
+          "en",
+          "hr",
+          "cs",
+          "da",
+          "nl",
+          "fi",
+          "fr",
+          "de",
+          "el",
+          "he",
+          "hu",
+          "id",
+          "it",
+          "ja",
+          "ko",
+          "ms",
+          "nb",
+          "pl",
+          "pt",
+          "ro",
+          "ru",
+          "zh",
+          "sk",
+          "es",
+          "sv",
+          "th",
+          "tr",
+          "uk",
+          "vi"
+        ],
+        "featureList": [
+          "Boost video and audio volume up to 10x (1000%)",
+          "Works with MP3, M4A voice memos, MP4 and MOV video",
+          "Original vs Processed comparison before saving",
+          "Optional Improve Audio Quality enhancement",
+          "Create a project from the Photos share sheet",
+          "Save to Photos or Files and share to any app",
+          "Keeps multiple projects"
+        ],
+        "description": "iPhone app that imports audio or video, applies up to 10x volume multiplication with an optional audio-quality enhancement, and exports a louder file for saving and sharing. On-device processing; does not change system-wide speaker volume."
       },
       "organization": {
         "@context": "https://schema.org",
@@ -215,37 +427,45 @@
         "name": "c-basso",
         "url": "https://volumeboosting.com/",
         "logo": "https://volumeboosting.com/img/logo.webp",
-        "description": "Independent publisher of Increase Volume – Sound Boost and related iOS utilities.",
+        "description": "Independent publisher (Vladimir Ivakhnenko) of Increase Volume and related iOS utilities.",
         "sameAs": [
-          "https://x.com/c__basso"
+          "https://x.com/c__basso",
+          "https://apps.apple.com/developer/id1239180595"
         ]
       },
       "website": {
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "name": "Increase Volume – Sound Boost",
+        "name": "Increase Volume",
         "url": "https://volumeboosting.com/"
       },
       "howto": {
         "@context": "https://schema.org",
         "@type": "HowTo",
-        "name": "How to boost audio on iPhone",
-        "description": "Import audio or video, boost the volume, and save the louder file back to your device.",
+        "name": "How to make a video or audio file louder on iPhone with Increase Volume",
+        "description": "Import a video, MP3 or voice memo, multiply its volume up to 10x, compare with the original, and save the louder file.",
+        "totalTime": "PT1M",
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Increase Volume app for iPhone"
+          }
+        ],
         "step": [
           {
             "@type": "HowToStep",
             "name": "Import a file",
-            "text": "Import a video, song, or recording — or start directly from the Photos app."
+            "text": "Import a video, song or recording from Photos or Files, or share it to Increase Volume from any app."
           },
           {
             "@type": "HowToStep",
-            "name": "Boost the volume",
-            "text": "Drag the boost slider to add loudness, clarity, and bass in real time."
+            "name": "Set the boost",
+            "text": "Drag the Volume multiplication slider (up to x10), optionally switch on Improve Audio Quality, and tap Boost Volume."
           },
           {
             "@type": "HowToStep",
-            "name": "Save and share",
-            "text": "Save the boosted file back to your device and share it anywhere."
+            "name": "Compare and save",
+            "text": "Flip between Original and Processed, then tap Download Processed to save the louder file or share it anywhere."
           }
         ]
       }

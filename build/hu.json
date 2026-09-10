@@ -46,13 +46,34 @@
     "footnote_item4": "közösségi média klippekhez",
     "footnote_last_joiner": ", és ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Hang kiemelés iPhone-on — hang és videó hangerejének növelése"
+    "device_image_alt": "Increase Volume – Hang kiemelés iPhone-on — hang és videó hangerejének növelése",
+    "cta_secondary_link": "Nézd meg, hogyan működik",
+    "proof_aria": "Tények az alkalmazásról",
+    "proof": [
+      {
+        "value": "4,5★",
+        "label": "118 értékelés az App Store-ban"
+      },
+      {
+        "value": "10×",
+        "label": "maximális hangerőszorzó"
+      },
+      {
+        "value": "Hang + videó",
+        "label": "MP3, MP4, MOV, hangjegyzetek"
+      },
+      {
+        "value": "Az eszközön",
+        "label": "semmi nem kerül feltöltésre"
+      }
+    ]
   },
   "wave": {
     "before_label": "Előtte",
     "after_label": "Utána",
     "before_text": "Halk, lapos eredeti hang",
-    "after_text": "Kiemelt, teljes és tiszta hang"
+    "after_text": "Kiemelt, teljes és tiszta hang",
+    "toggle_aria": "Váltás az eredeti és a kiemelt hanghullám között"
   },
   "sections": {
     "features_uses_aria": "Funkciók és felhasználás",
@@ -157,7 +178,11 @@
     "last_updated_label": "Az oldal utolsó frissítése:",
     "privacy_link": "Adatvédelmi irányelvek",
     "terms_link": "Felhasználási feltételek",
-    "app_store_link_text": "Megtekintés az App Store-ban"
+    "app_store_link_text": "Megtekintés az App Store-ban",
+    "tagline": "Az iPhone hangerőnövelő, amely a fájlt teszi hangosabbá, nem csak a hangszórót.",
+    "links_aria": "Lábléc",
+    "guides_link_text": "Útmutatók",
+    "languages_label": "Ez az oldal más nyelveken"
   },
   "seo": {
     "breadcrumb_home": "Kezdőlap",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "iPhone alkalmazás hang vagy videó importálásához, akár ~10× hangerő alkalmazásához mélyhang- és élességvezérlőkkel, és hangosabb fájl exportjához mentéshez és megosztáshoz. Feldolgozás az eszközön; nem változtatja meg a rendszerszintű hangerőt."
+        "description": "iPhone alkalmazás hang vagy videó importálásához, akár ~10× hangerő alkalmazásához mélyhang- és élességvezérlőkkel, és hangosabb fájl exportjához mentéshez és megosztáshoz. Feldolgozás az eszközön; nem változtatja meg a rendszerszintű hangerőt.",
+        "featureList": [
+          "Videó és hang hangerejének kiemelése akár 10×-re (1000%)",
+          "Működik MP3, M4A hangjegyzet, MP4 és MOV videó fájlokkal",
+          "Eredeti/Feldolgozott összehasonlítás mentés előtt",
+          "Opcionális hangminőség-javítás",
+          "Projekt létrehozása a Fotók megosztási paneljéről",
+          "Mentés a Fotókba vagy Fájlokba, megosztás bármely alkalmazással",
+          "Több projekt megőrzése"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "Mentés és megosztás",
             "text": "Mentsd vissza a kiemelt fájlt az eszközre, és oszd meg bárhol."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Increase Volume – Hang kiemelés alkalmazás iPhone-ra"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Főnavigáció",
+    "how_it_works": "Így működik",
+    "screenshots": "Képernyőképek",
+    "guides": "Útmutatók",
+    "faq": "GYIK",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "Letöltés",
+    "title": "Töltsd le az Increase Volume – Hang kiemelés alkalmazást az App Store-ból",
+    "subtitle": "Audio & Music Booster · Zene kategória · iPhone",
+    "price": "Ingyenes",
+    "price_note": "Opcionális alkalmazáson belüli vásárlások (ingyenes próba vagy egyszeri, örökös csomag)",
+    "rating_line": "4,5 ★ · 118 értékelés az App Store-ban",
+    "qr_alt": "QR-kód az Increase Volume – Hang kiemelés App Store-oldalára",
+    "qr_label": "Olvasd be az iPhone kamerájával",
+    "requirements": "iOS 18.6 vagy újabb szükséges · 26,8 MB · Magyar + 30 további nyelv · 4+ korhatár"
+  },
+  "screenshots": {
+    "eyebrow": "Képernyőképek",
+    "title": "Így néz ki az alkalmazás az iPhone-odon",
+    "intro": "Ugyanazok a képernyők, mint az App Store-ban: egyetlen csúszka, Eredeti/Feldolgozott összehasonlítás, és a megosztási panel, amellyel a hangosabb fájl bárhová eljut.",
+    "aria": "Alkalmazás képernyőképei, görgess vízszintesen",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Increase Volume marketingkép: hangerőnövelő és hangerősítő, akár tízszer hangosabb",
+        "caption": "Hangerőnövelő és hangerősítő: akár 10× hangosabb."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Videólejátszó az Increase Volume-ban, egy ujj a rózsaszín kiemelő csúszkát húzza, hogy hangosabb legyen a videó",
+        "caption": "Videó hangosítása: húzd a csúszkát az előnézeten."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Az Increase Volume egy MP3-fájlt dolgoz fel, a fájlnév, méret és időtartam látható",
+        "caption": "Zene hangosítása: az MP3 és más hangfájlok az eszközön kerülnek feldolgozásra."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Szám részletei a „Hangminőség javítása” kapcsolóval, a „Hangerőszorzó ×10” csúszkával és a „Hangerő kiemelése ×10-re” gombbal",
+        "caption": "Válaszd ki a kiemelés mértékét: finom emeléstől 10×-ig."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Eredményképernyő a „Feldolgozott letöltése” gombbal és az Eredeti/Feldolgozott kapcsolóval",
+        "caption": "Hallgasd meg az eredményt, és mentés előtt hasonlítsd össze az eredetivel."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "iOS megosztási panel Másolás, Címkék hozzáadása és Mentés a Fájlokba lehetőségekkel a kiemelt hanghoz",
+        "caption": "Töltsd le és oszd meg bárhol: Fotók, Fájlok, Üzenetek, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Projektlista az Increase Volume-ban MP3- és MP4-fájlokkal, mérettel és időtartammal",
+        "caption": "Tárolj több projektet, és térj vissza hozzájuk később."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "1. lépés: videó importálva az Increase Volume-ba, látható a kiemelő csúszka",
+    "step_2_alt": "2. lépés: „Hangerőszorzó ×10” csúszka és „Hangerő kiemelése” gomb",
+    "step_3_alt": "3. lépés: iOS megosztási panel „Mentés a Fájlokba” lehetőséggel a kiemelt fájlhoz"
+  },
+  "faq_section": {
+    "eyebrow": "GYIK",
+    "intro": "Először a rövid válaszok. Mindegyik egy részletes, képernyőképes útmutatóra mutat.",
+    "learn_more_label": "Tudj meg többet"
+  },
+  "cta": {
+    "eyebrow": "Készen állsz?",
+    "title": "A halk fájlod 10× hangosabban, egy percen belül.",
+    "text": "Töltsd le az Increase Volume – Hang kiemelés alkalmazást, importáld a videót vagy hangot, amit senki nem hall, húzd el a csúszkát, és oszd meg a hangos változatot.",
+    "note": "Ingyenes letöltés · iOS 18.6 vagy újabb szükséges · 4,5★ az App Store-ban"
   }
 }

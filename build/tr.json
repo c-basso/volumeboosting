@@ -46,13 +46,34 @@
     "footnote_item4": "sosyal medya klipleri",
     "footnote_last_joiner": " ve ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Ses güçlendirme, iPhone'da — ses ve video seviyesini yükseltme"
+    "device_image_alt": "Increase Volume – Ses güçlendirme, iPhone'da — ses ve video seviyesini yükseltme",
+    "cta_secondary_link": "Nasıl çalıştığını görün",
+    "proof_aria": "Uygulama hakkında gerçekler",
+    "proof": [
+      {
+        "value": "4,5★",
+        "label": "App Store'da 118 değerlendirme"
+      },
+      {
+        "value": "10×",
+        "label": "maksimum ses çarpanı"
+      },
+      {
+        "value": "Ses + video",
+        "label": "MP3, MP4, MOV, sesli notlar"
+      },
+      {
+        "value": "Cihazda",
+        "label": "hiçbir şey yüklenmez"
+      }
+    ]
   },
   "wave": {
     "before_label": "Önce",
     "after_label": "Sonra",
     "before_text": "Düşük, düz orijinal ses",
-    "after_text": "Yükseltildikten sonra dolgun ve net çıkış"
+    "after_text": "Yükseltildikten sonra dolgun ve net çıkış",
+    "toggle_aria": "Orijinal ve güçlendirilmiş dalga formu arasında geçiş yap"
   },
   "sections": {
     "features_uses_aria": "Özellikler ve kullanım alanları",
@@ -157,7 +178,11 @@
     "last_updated_label": "Son güncelleme:",
     "privacy_link": "Gizlilik politikası",
     "terms_link": "Kullanım koşulları",
-    "app_store_link_text": "App Store'da görüntüle"
+    "app_store_link_text": "App Store'da görüntüle",
+    "tagline": "Yalnızca hoparlörü değil, dosyanın kendisini daha yüksek sesli yapan iPhone ses yükseltici.",
+    "links_aria": "Alt bilgi",
+    "guides_link_text": "Rehberler",
+    "languages_label": "Bu sayfa diğer dillerde"
   },
   "seo": {
     "breadcrumb_home": "Ana sayfa",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "Ses veya video içe aktaran, bas ve netlik kontrolleriyle yaklaşık 10× ses yüksekliği kazancı uygulayan ve kaydetmek ve paylaşmak için daha yüksek sesli bir dosya dışa aktaran iPhone uygulaması. Cihazda işleme; sistem genelinde ses seviyesini değiştirmez."
+        "description": "Ses veya video içe aktaran, bas ve netlik kontrolleriyle yaklaşık 10× ses yüksekliği kazancı uygulayan ve kaydetmek ve paylaşmak için daha yüksek sesli bir dosya dışa aktaran iPhone uygulaması. Cihazda işleme; sistem genelinde ses seviyesini değiştirmez.",
+        "featureList": [
+          "Video ve ses seviyesini 10× (%1000) kadar güçlendirir",
+          "MP3, M4A sesli notlar, MP4 ve MOV videolarla çalışır",
+          "Kaydetmeden önce Orijinal/İşlenmiş karşılaştırması",
+          "İsteğe bağlı ses kalitesi iyileştirme",
+          "Fotoğraflar paylaşım sayfasından proje oluşturma",
+          "Fotoğraflar'a veya Dosyalar'a kaydetme ve herhangi bir uygulamayla paylaşma",
+          "Birden fazla projeyi saklama"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "Kaydet ve paylaş",
             "text": "Güçlendirilmiş dosyayı cihaza kaydedin ve istediğiniz yerde paylaşın."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "iPhone için Increase Volume – Ses güçlendirme uygulaması"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Ana gezinme",
+    "how_it_works": "Nasıl çalışır",
+    "screenshots": "Ekran görüntüleri",
+    "guides": "Rehberler",
+    "faq": "SSS",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "İndir",
+    "title": "Increase Volume – Ses güçlendirme'yi App Store'dan indirin",
+    "subtitle": "Audio & Music Booster · «Müzik» kategorisi · iPhone",
+    "price": "Ücretsiz",
+    "price_note": "İsteğe bağlı uygulama içi satın almalar (ücretsiz deneme veya tek seferlik ömür boyu plan)",
+    "rating_line": "4,5 ★ · App Store'da 118 değerlendirme",
+    "qr_alt": "App Store'daki Increase Volume – Ses güçlendirme sayfasına bağlanan QR kodu",
+    "qr_label": "iPhone kameranızla tarayın",
+    "requirements": "iOS 18.6 veya üzeri gerekir · 26,8 MB · Türkçe + 30 dil daha · Yaş 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Ekran görüntüleri",
+    "title": "Uygulama iPhone'unuzda böyle görünür",
+    "intro": "App Store'da göreceğiniz ekranların aynısı: tek bir kaydırıcı, Orijinal/İşlenmiş karşılaştırması ve daha yüksek sesli dosyayı istediğiniz yere gönderen paylaşım sayfası.",
+    "aria": "Uygulama ekran görüntüleri, yatay kaydırın",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Increase Volume tanıtım görseli: ses yükseltici ve ses güçlendirici, on kata kadar daha yüksek",
+        "caption": "Ses yükseltici ve ses güçlendirici: 10× kadar daha yüksek."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Increase Volume'daki video oynatıcı; bir parmak videoyu daha yüksek sesli yapmak için pembe güçlendirme kaydırıcısını sürüklüyor",
+        "caption": "Videoyu daha yüksek sesli yapın: kaydırıcıyı video önizlemesinde sürükleyin."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume bir MP3 dosyasını işliyor; dosya adı, boyutu ve süresi görünüyor",
+        "caption": "Müziği daha yüksek sesli yapın: MP3 ve diğer ses dosyaları cihazda işlenir."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "«Ses kalitesini iyileştir» anahtarı, «Ses çarpanı ×10» kaydırıcısı ve «Sesi ×10'a güçlendir» düğmesiyle parça ayrıntıları",
+        "caption": "Güçlendirme miktarını seçin: hafif bir artıştan 10×'a kadar."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "«İşlenmişi indir» düğmesi ve Orijinal/İşlenmiş anahtarıyla sonuç ekranı",
+        "caption": "Sonucu dinleyin ve kaydetmeden önce orijinalle karşılaştırın."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "Güçlendirilmiş ses için Kopyala, Etiket ekle ve Dosyalar'a kaydet seçeneklerini gösteren iOS paylaşım sayfası",
+        "caption": "İndirin ve her yerde paylaşın: Fotoğraflar, Dosyalar, Mesajlar, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Increase Volume'daki proje listesi; MP3 ve MP4 dosyaları, boyut ve süre bilgileriyle",
+        "caption": "Birden fazla projeyi saklayın ve daha sonra geri dönün."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "1. adım: video Increase Volume'a aktarıldı, güçlendirme kaydırıcısı görünüyor",
+    "step_2_alt": "2. adım: «Ses çarpanı ×10» kaydırıcısı ve «Sesi güçlendir» düğmesi",
+    "step_3_alt": "3. adım: güçlendirilmiş dosya için «Dosyalar'a kaydet» seçeneğiyle iOS paylaşım sayfası"
+  },
+  "faq_section": {
+    "eyebrow": "SSS",
+    "intro": "Önce kısa yanıtlar. Her biri ekran görüntülü tam bir rehbere bağlanır.",
+    "learn_more_label": "Daha fazla bilgi"
+  },
+  "cta": {
+    "eyebrow": "Hazır mısınız?",
+    "title": "Düşük sesli dosyanız, bir dakikadan kısa sürede 10× daha yüksek.",
+    "text": "Increase Volume – Ses güçlendirme'yi indirin, kimsenin duyamadığı videoyu veya sesi içe aktarın, kaydırıcıyı sürükleyin ve yüksek sesli sürümü paylaşın.",
+    "note": "Ücretsiz indirme · iOS 18.6 veya üzeri gerekir · App Store'da 4,5★"
   }
 }

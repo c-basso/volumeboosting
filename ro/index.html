@@ -136,27 +136,14 @@
     <meta name="twitter:image:width" content="1026" />
     <meta name="twitter:image:height" content="539" />
 
-    <link
-      rel="preconnect"
-      href="https://apps.apple.com"
-    />
-    <link
-      rel="preconnect"
-      href="https://fonts.googleapis.com"
-    />
-    <link
-      rel="preconnect"
-      href="https://fonts.gstatic.com"
-      crossorigin
-    />
-    <link
-      rel="preconnect"
-      href="https://mc.yandex.ru"
-    />
+    <link rel="preconnect" href="https://apps.apple.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://mc.yandex.ru" />
     <link rel="dns-prefetch" href="https://apps.apple.com" />
     <link rel="dns-prefetch" href="https://mc.yandex.ru" />
     <link
-      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Instrument+Sans:wght@400;500;600&display=swap"
       rel="stylesheet"
     />
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico" />
@@ -172,101 +159,116 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1789027622208"
+      href="/style.css?v=1789035383954"
     />
+    <script>document.documentElement.classList.add('js');</script>
+
   </head>
-  <body>
+  <body class="page-home">
+    <div class="bg-grid" aria-hidden="true"></div>
     <div class="noise-layer" aria-hidden="true"></div>
     <div class="page-shell">
-      <header>
-        <div class="brand">
-          <div class="brand-logo">
+      <header class="site-header">
+        <a class="brand" href="https://volumeboosting.com/ro/" aria-label="Increase Volume – Amplificare sunet">
+          <span class="brand-logo">
             <img
               src="/img/logo.webp"
               alt="Pictograma aplicației Increase Volume – Amplificare sunet"
-              width="80"
-              height="80"
+              width="44"
+              height="44"
               loading="eager"
               decoding="async"
             />
-          </div>
-          <div class="brand-text">
-            <div class="brand-name">Volume Booster</div>
-            <div class="brand-subtitle">Amplificare sunet pentru iPhone</div>
-          </div>
-        </div>
-        <div class="apple-pill">
-          <div class="apple-dot"></div>
-          <span>Pentru iPhone · Muzică</span>
-        </div>
+          </span>
+          <span class="brand-text">
+            <span class="brand-name">Volume Booster</span>
+            <span class="brand-subtitle">Amplificare sunet pentru iPhone</span>
+          </span>
+        </a>
+        <nav class="site-nav" aria-label="Navigare principală">
+          <a href="https://volumeboosting.com/ro/#how-it-works">Cum funcționează</a>
+          <a href="https://volumeboosting.com/ro/#screenshots">Capturi de ecran</a>
+          
+          <a href="https://volumeboosting.com/ro/#faq">Întrebări</a>
+        </nav>
+        <a
+          class="header-cta"
+          href="https://apps.apple.com/app/id6741472421"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Descarcă Increase Volume – Amplificare sunet din App Store"
+        >
+          <svg class="apple-mark" width="14" height="17" viewBox="14 8 14 26" aria-hidden="true"><path fill="currentColor" d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"/><path fill="currentColor" d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"/></svg>
+          <span>App Store</span>
+        </a>
       </header>
 
-      <main>
+
+      <main id="main">
+        <!-- ============ HERO ============ -->
         <section class="hero" aria-labelledby="hero-heading">
           <div class="hero-copy">
-          <div class="hero-kicker">
-            <div class="pill-spark">10x</div>
-            <span>Transformă videoclipurile și audio-ul încet în sunet tare și clar</span>
-          </div>
-          <h1 id="hero-heading">
-            Fă orice audio sau video
-            <span class="hero-title-highlight">de până la ~10× mai tare</span>
-             fără a pierde claritatea.
-          </h1>
-          <p class="hero-subtitle">
-            Increase Volume – Amplificare sunet este boosterul tău dedicat de volum pentru iPhone. Corectează în secunde înregistrările de ecran, podcasturile și videoclipurile liniștite, cu sunet curat, puternic și bas bogat.
-          </p>
-
-          <div class="hero-metadata">
-            <span><span class="metadata-dot"></span> Doar iPhone</span>
-            <span>Rapid, simplu și respectuos cu confidențialitatea</span>
-          </div>
+            <div class="hero-kicker">
+              <span class="sticker">10x</span>
+              <span>Transformă videoclipurile și audio-ul încet în sunet tare și clar</span>
+            </div>
+            <h1 id="hero-heading">
+              Fă orice audio sau video
+              <span class="hero-title-highlight">de până la ~10× mai tare</span>
+               fără a pierde claritatea.
+            </h1>
+            <p class="hero-subtitle">Increase Volume – Amplificare sunet este boosterul tău dedicat de volum pentru iPhone. Corectează în secunde înregistrările de ecran, podcasturile și videoclipurile liniștite, cu sunet curat, puternic și bas bogat.</p>
 
             <div class="cta-row">
               <div class="cta-actions">
-              <img
-                class="cta-qr"
-                src="/img/app-store-qr.png"
-                alt="Descarcă Increase Volume – Amplificare sunet din App Store"
-                width="104"
-                height="104"
-                loading="lazy"
-                decoding="async"
-              />
               <a
                 class="cta-primary"
-              href="https://apps.apple.com/app/id6741472421"
+                href="https://apps.apple.com/app/id6741472421"
                 target="_blank"
                 rel="noopener noreferrer"
-              aria-label="Descarcă Increase Volume – Amplificare sunet din App Store"
+                aria-label="Descarcă Increase Volume – Amplificare sunet din App Store"
               >
-              <svg
-                class="cta-apple-icon"
-                width="18"
-                height="22"
-                viewBox="14 8 14 26"
-                aria-hidden="true"
-              >
-                <path
-                  fill="currentColor"
-                  d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
-                />
-                <path
-                  fill="currentColor"
-                  d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
-                />
-              </svg>
-              <span>Descarcă din App Store</span>
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>Descarcă din App Store</span>
               </a>
+
+                <a class="cta-ghost" href="#how-it-works">Vezi cum funcționează</a>
               </div>
-              <div class="cta-secondary">
-              Amplifică primul tău videoclip <strong>gratuit</strong>, păstrează acel volum pentru totdeauna.
-              </div>
+              <p class="cta-secondary">
+                Amplifică primul tău videoclip <strong>gratuit</strong>, păstrează acel volum pentru totdeauna.
+              </p>
             </div>
 
+            <ul class="proof-row" aria-label="Date despre aplicație">
+              
+              <li><strong>4,5★</strong><span>118 evaluări în App Store</span></li>
+              
+              <li><strong>10×</strong><span>amplificare maximă</span></li>
+              
+              <li><strong>Audio + video</strong><span>MP3, MP4, MOV, note vocale</span></li>
+              
+              <li><strong>Pe dispozitiv</strong><span>nimic nu se încarcă online</span></li>
+              
+            </ul>
+
             <p class="hero-footnote">
-            Perfect pentru <span>note vocale încete</span>, <span>filme</span>,
-            <span>muzică</span> și <span>clipuri pentru rețele sociale</span>.
+              Perfect pentru <span>note vocale încete</span>, <span>filme</span>,
+              <span>muzică</span> și <span>clipuri pentru rețele sociale</span>.
             </p>
           </div>
 
@@ -275,323 +277,655 @@
               <div class="device-column">
                 <div class="device-frame">
                   <div class="device-screen">
-                  <img
-                    src="/img/screenshots/1.webp"
-                    alt="Increase Volume – Amplificare sunet pe iPhone — amplifică volumul audio și video"
-                    width="460"
-                    height="995"
-                    loading="lazy"
-                    decoding="async"
-                  />
+                    <img
+                      src="/img/screenshots/1.webp"
+                      alt="Increase Volume – Amplificare sunet pe iPhone — amplifică volumul audio și video"
+                      width="460"
+                      height="995"
+                      loading="eager"
+                      fetchpriority="high"
+                      decoding="async"
+                    />
                   </div>
                 </div>
               </div>
               <div class="device-column wave-panel active" id="wavePanel">
                 <div class="wave-header">
                   <div class="wave-toggle-container">
-                  <span class="wave-toggle-label">Înainte</span>
-                    <div class="wave-toggle active" id="waveToggle" role="switch" aria-checked="true" tabindex="0">
+                    <span class="wave-toggle-label">Înainte</span>
+                    <div class="wave-toggle active" id="waveToggle" role="switch" aria-checked="true" tabindex="0" aria-label="Comută între forma de undă originală și cea amplificată">
                       <div class="wave-toggle-handle"></div>
                     </div>
-                  <span class="wave-toggle-label">După</span>
+                    <span class="wave-toggle-label">După</span>
                   </div>
                 </div>
                 <div class="wave-bars" aria-hidden="true">
-                  <!-- Wave bars - heights will be controlled by CSS based on state -->
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
                 </div>
-              <div class="wave-footer">
-                <div class="wave-footer-col">
-                  <div class="wave-footer-label">Înainte</div>
-                  <div class="wave-footer-text">Audio original încet și plat</div>
+                <div class="wave-footer">
+                  <div class="wave-footer-col">
+                    <div class="wave-footer-label">Înainte</div>
+                    <div class="wave-footer-text">Audio original încet și plat</div>
+                  </div>
+                  <div class="wave-footer-col">
+                    <div class="wave-footer-label">După</div>
+                    <div class="wave-footer-text">Amplificat: sunet plin și clar</div>
+                  </div>
                 </div>
-                <div class="wave-footer-col">
-                  <div class="wave-footer-label">După</div>
-                  <div class="wave-footer-text">Amplificat: sunet plin și clar</div>
-                </div>
-              </div>
+                <div class="wave-multiplier" aria-hidden="true">×10</div>
               </div>
             </div>
           </div>
         </section>
 
+        <!-- ============ SUMMARY (GEO) ============ -->
         <aside class="geo-summary" aria-label="Ce este această aplicație">
           <p class="geo-summary-lead">Rezumat: Increase Volume – Amplificare sunet este o aplicație pentru iPhone care procesează fișiere audio și video pe dispozitiv, aplică amplificare de până la circa 10× cu controale pentru claritate și bas și salvează un fișier nou mai tare de păstrat sau partajat. Nu modifică volumul global al sistemului.</p>
           <p class="geo-summary-body">Publicată în Apple App Store de c-basso. Abordează aceleași nevoi ca amplificarea podcasturilor încete, notelor vocale, înregistrărilor de ecran și clipurilor sociale — similar normalizării în editoare desktop, dar optimizată pentru un flux iOS scurt, la atingere.</p>
         </aside>
 
-        <section class="sections geo-geo-row" aria-label="Fapte și comparație">
-          <article class="card">
-            <h2>În cifre</h2>
-            <div class="card-title">Fapte verificabile despre aplicație</div>
-            <ul class="geo-stats-list">
-              
-              <li>
-                <span class="geo-stat-value">Până la ~10×</span>
-                <span class="geo-stat-label">Factor maxim de amplificare indicat pentru exporturile procesate.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">iOS / iPhone</span>
-                <span class="geo-stat-label">Platformă: aplicație mobilă nativă, nu macOS sau Android.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">4,5 / 5</span>
-                <span class="geo-stat-label">Evaluare agregată în datele structurate (118 evaluări); verifică live pe pagina din App Store.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">Gratuită</span>
-                <span class="geo-stat-label">Listată ca gratuită în App Store; prețul și achizițiile în aplicație pe pagina Apple.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">Import → amplificare → salvare</span>
-                <span class="geo-stat-label">Flux principal: fișiere locale la intrare, fișier ajustat la ieșire.</span>
-              </li>
-              
-            </ul>
-          </article>
+        <!-- ============ DOWNLOAD ============ -->
+        <section class="section download" id="download" aria-labelledby="download-heading">
+          <div class="download-card">
+            <div class="download-app">
+              <img
+                class="download-icon"
+                src="/img/app-icon.webp"
+                alt="Pictograma aplicației Increase Volume – Amplificare sunet"
+                width="120"
+                height="120"
+                loading="lazy"
+                decoding="async"
+              />
+              <div class="download-app-text">
+                <p class="eyebrow">Descarcă</p>
+                <h2 id="download-heading">Descarcă Increase Volume – Amplificare sunet din App Store</h2>
+                <p class="download-app-subtitle">Audio & Music Booster · Categoria „Muzică” · iPhone</p>
+                <div class="download-price">
+                  <span class="price-tag">Gratuit</span>
+                  <span>Achiziții opționale în aplicație (perioadă de probă gratuită sau plată unică pe viață)</span>
+                </div>
+                <div class="download-actions">
+              <a
+                class="cta-primary"
+                href="https://apps.apple.com/app/id6741472421"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Descarcă Increase Volume – Amplificare sunet din App Store"
+              >
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>Descarcă din App Store</span>
+              </a>
 
-          <article class="card geo-compare-card">
-            <h2>Poziționare</h2>
-            <div class="card-title">Increase Volume față de alternative tipice</div>
-            <p class="geo-compare-intro">Diferențe factuale pe care modelele și asistenții le pot cita. „Concurenții” sunt categorii de instrumente, nu un clasament de aplicații.</p>
-            <div class="geo-table-wrap">
-              <table class="geo-compare-table">
-                <thead>
-                  <tr>
-                    <th scope="col">Subiect</th>
-                    <th scope="col">Volumul de sistem iOS</th>
-                    <th scope="col">Increase Volume – Amplificare sunet</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  
-                  <tr>
-                    <th scope="row">Creează un fișier nou mai tare</th>
-                    <td>Nu — schimbă doar nivelul de redare.</td>
-                    <td>Da — exportă / salvează o copie amplificată.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Funcționează offline pe dispozitiv</th>
-                    <td>Nu se aplică în contextul exportului de fișiere.</td>
-                    <td>Da — procesare pe dispozitiv.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Reglaj fin al basului și clarității</th>
-                    <td>Limitat la EQ sistem / redare.</td>
-                    <td>Da — cursoare dedicate în interfață.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Caz de utilizare tipic</th>
-                    <td>Ascultă mai tare acum.</td>
-                    <td>Remediere permanentă pentru fișiere sursă încete.</td>
-                  </tr>
-                  
-                </tbody>
-              </table>
+                  <div class="qr-block">
+                    <img
+                      class="cta-qr"
+                      src="/img/app-store-qr.png"
+                      alt="Cod QR către Increase Volume – Amplificare sunet în App Store"
+                      width="96"
+                      height="96"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                    <span>Scanează cu camera iPhone-ului</span>
+                  </div>
+                </div>
+                <p class="download-requirements">Necesită iOS 18.6 sau o versiune ulterioară · 26,8 MB · Română + 30 de alte limbi · Vârstă 4+</p>
+              </div>
             </div>
-          </article>
+            <div class="download-facts">
+              <h3 class="facts-title">Fapte verificabile despre aplicație</h3>
+              <ul class="geo-stats-list">
+                
+                <li>
+                  <span class="geo-stat-value">Până la ~10×</span>
+                  <span class="geo-stat-label">Factor maxim de amplificare indicat pentru exporturile procesate.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">iOS / iPhone</span>
+                  <span class="geo-stat-label">Platformă: aplicație mobilă nativă, nu macOS sau Android.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">4,5 / 5</span>
+                  <span class="geo-stat-label">Evaluare agregată în datele structurate (118 evaluări); verifică live pe pagina din App Store.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">Gratuită</span>
+                  <span class="geo-stat-label">Listată ca gratuită în App Store; prețul și achizițiile în aplicație pe pagina Apple.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">Import → amplificare → salvare</span>
+                  <span class="geo-stat-label">Flux principal: fișiere locale la intrare, fișier ajustat la ieșire.</span>
+                </li>
+                
+              </ul>
+              <blockquote class="download-quote">
+                <p>"Merge bine și e simplă." – recenzie App Store</p>
+              </blockquote>
+            </div>
+          </div>
         </section>
 
-        <section class="sections" aria-label="Funcții și utilizări">
-          <article class="card">
-            <h2>Ce face</h2>
-            <div class="card-title">
-              Transformă înregistrările încete în <span>sunet puternic, plăcut de ascultat</span>.
-            </div>
-            <p>
-              Increase Volume – Amplificare sunet ia orice audio sau video de pe iPhone și îl face mult mai tare, păstrându-l clar și ușor de înțeles. Fără comenzi confuze, fără abilități de montaj.
-            </p>
-            <div class="pill-row">
-              <div class="pill">Amplifică videoclipuri din aplicația Poze</div>
-              <div class="pill">Muzică, podcasturi și note vocale</div>
-              <div class="pill">Bas puternic și claritate</div>
-            </div>
-            <div class="ratings-row">
-              <div class="rating-block">
-                <strong>Apreciată de utilizatori</strong>
-                <span>pentru amplificarea videoclipurilor și audio-ului încet</span>
-              </div>
-              <div class="rating-block">
-                <strong>Muzică</strong>
-                <span>categorie în App Store</span>
-              </div>
-            </div>
-          </article>
-
-          <article class="card">
-            <h2>În câteva secunde</h2>
-            <div class="card-title">Amplificarea audio este atât de simplă.</div>
-            <ol class="steps">
-              <li class="step">
-                <div class="step-number">1</div>
-                <div class="step-text">
-                  Importă un videoclip, o melodie sau o înregistrare — sau începe direct din aplicația Poze.
-                </div>
+        <!-- ============ SCREENSHOTS ============ -->
+        <section class="section screenshots" id="screenshots" aria-labelledby="screenshots-heading">
+          <div class="section-head">
+            <p class="eyebrow">Capturi de ecran</p>
+            <h2 id="screenshots-heading">Așa arată aplicația pe iPhone-ul tău</h2>
+            <p class="section-intro">Aceleași ecrane pe care le vezi în App Store: un singur cursor, comparația Original/Procesat și fila de partajare care duce fișierul mai tare oriunde ai nevoie.</p>
+          </div>
+          <div class="shots-scroller" role="region" aria-label="Capturi de ecran ale aplicației, derulează orizontal" tabindex="0">
+            <ol class="shots-track">
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/1.webp"
+                      alt="Imagine promoțională Increase Volume: amplificator de volum și de sunet, de până la zece ori mai tare"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">1</span>
+                    <span>Amplificator de volum și de sunet: de până la 10× mai tare.</span>
+                  </figcaption>
+                </figure>
               </li>
-              <li class="step">
-                <div class="step-number">2</div>
-                <div class="step-text">
-                  Trage cursorul de amplificare pentru a ajusta volumul, claritatea și basul în timp real.
-                </div>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/2.webp"
+                      alt="Player video în Increase Volume, un deget trage cursorul roz de amplificare pentru a face videoclipul mai tare"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">2</span>
+                    <span>Fă un videoclip mai tare: trage cursorul pe previzualizarea video.</span>
+                  </figcaption>
+                </figure>
               </li>
-              <li class="step">
-                <div class="step-number">3</div>
-                <div class="step-text">
-                  Salvează fișierul amplificat înapoi pe dispozitiv și partajează-l oriunde.
-                </div>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/3.webp"
+                      alt="Increase Volume procesează un fișier MP3 și afișează numele, dimensiunea și durata"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">3</span>
+                    <span>Fă muzica mai tare: MP3 și alte fișiere audio sunt procesate pe dispozitiv.</span>
+                  </figcaption>
+                </figure>
               </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/4.webp"
+                      alt="Detalii piesă cu comutatorul „Îmbunătățește calitatea audio”, cursorul „Multiplicare volum ×10” și butonul „Amplifică volumul la ×10”"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">4</span>
+                    <span>Alege nivelul de amplificare, de la o ridicare ușoară până la 10×.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/5.webp"
+                      alt="Ecran de rezultat cu butonul „Descarcă procesat” și comutatorul Original/Procesat"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">5</span>
+                    <span>Ascultă rezultatul și compară-l cu originalul înainte de a salva.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/6.webp"
+                      alt="Fila de partajare iOS cu Copiază, Adaugă etichete și Salvează în Fișiere pentru audio-ul amplificat"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">6</span>
+                    <span>Descarcă și partajează oriunde: Poze, Fișiere, Mesaje, WhatsApp, AirDrop.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/7.webp"
+                      alt="Lista de proiecte din Increase Volume cu fișiere MP3 și MP4, dimensiune și durată"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">7</span>
+                    <span>Păstrează mai multe proiecte și revino la ele mai târziu.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
             </ol>
-            <div class="card-label">
-              Ideal pentru: înregistrări de ecran, clipuri TikTok/Reels, interviuri, note vocale și multe altele.
-            </div>
-          </article>
+          </div>
         </section>
 
-        <section class="sections" aria-label="Pentru cine este și de ce o păstrează oamenii">
-          <article class="card">
-            <h2>Pentru cine</h2>
-            <div class="card-title">Dacă volumul iPhone-ului nu ajunge, această aplicație ajunge.</div>
-            <div class="audience-grid">
-              <span>Oamenii care pun mereu la maximum dar tot aud slab.</span>
-              <span>Creatori care au nevoie de audio tare și clar pentru video social.</span>
-              <span>Oricine repară înregistrări de ecran și tutoriale încete.</span>
-              <span>Cei care vor să audă mai tare podcasturile, cursurile sau notele vocale.</span>
-            </div>
-          </article>
+        <!-- ============ HOW IT WORKS ============ -->
+        <section class="section how" id="how-it-works" aria-labelledby="how-heading">
+          <div class="section-head">
+            <p class="eyebrow">În câteva secunde</p>
+            <h2 id="how-heading">Amplificarea audio este atât de simplă.</h2>
+            <p class="section-intro">Increase Volume – Amplificare sunet ia orice audio sau video de pe iPhone și îl face mult mai tare, păstrându-l clar și ușor de înțeles. Fără comenzi confuze, fără abilități de montaj.</p>
+          </div>
+          <ol class="how-steps">
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/2.webp" alt="Pasul 1: videoclip importat în Increase Volume, cu cursorul de amplificare vizibil" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">1</span>
+                <p>Importă un videoclip, o melodie sau o înregistrare — sau începe direct din aplicația Poze.</p>
+              </div>
+            </li>
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/4.webp" alt="Pasul 2: cursorul „Multiplicare volum ×10” și butonul „Amplifică volumul”" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">2</span>
+                <p>Trage cursorul de amplificare pentru a ajusta volumul, claritatea și basul în timp real.</p>
+              </div>
+            </li>
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/6.webp" alt="Pasul 3: fila de partajare iOS cu „Salvează în Fișiere” pentru fișierul amplificat" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">3</span>
+                <p>Salvează fișierul amplificat înapoi pe dispozitiv și partajează-l oriunde.</p>
+              </div>
+            </li>
+          </ol>
+          <p class="how-label">Ideal pentru: înregistrări de ecran, clipuri TikTok/Reels, interviuri, note vocale și multe altele.</p>
 
-          <article class="card">
-            <h2>De ce o păstrează</h2>
-            <div class="card-title">
-              "Merge bine și e simplă." – recenzie App Store
-            </div>
-            <p>
-              Increase Volume este gândită să nu îți stea în cale: Deschide, amplifică, salvează — gata. Valori implicite inteligente și un layout curat care pare nativ pe iPhone.
-            </p>
-            <p>
-              Sub capotă, un booster de volum puternic și îmbunătățire a sunetului — audio pregnant, fără distorsiuni exagerate.
-            </p>
-          </article>
+          <div class="how-grid">
+            <article class="card">
+              <h3 class="card-eyebrow">Ce face</h3>
+              <p class="card-title">
+                Transformă înregistrările încete în <span>sunet puternic, plăcut de ascultat</span>.
+              </p>
+              <div class="pill-row">
+                <span class="pill">Amplifică videoclipuri din aplicația Poze</span>
+                <span class="pill">Muzică, podcasturi și note vocale</span>
+                <span class="pill">Bas puternic și claritate</span>
+              </div>
+              <h3 class="card-eyebrow card-eyebrow-gap">Pentru cine</h3>
+              <p class="card-title card-title-sm">Dacă volumul iPhone-ului nu ajunge, această aplicație ajunge.</p>
+              <ul class="audience-grid">
+                <li>Oamenii care pun mereu la maximum dar tot aud slab.</li>
+                <li>Creatori care au nevoie de audio tare și clar pentru video social.</li>
+                <li>Oricine repară înregistrări de ecran și tutoriale încete.</li>
+                <li>Cei care vor să audă mai tare podcasturile, cursurile sau notele vocale.</li>
+              </ul>
+            </article>
+
+            <article class="card geo-compare-card">
+              <h3 class="card-eyebrow">Poziționare</h3>
+              <p class="card-title">Increase Volume față de alternative tipice</p>
+              <p class="geo-compare-intro">Diferențe factuale pe care modelele și asistenții le pot cita. „Concurenții” sunt categorii de instrumente, nu un clasament de aplicații.</p>
+              <div class="geo-table-wrap">
+                <table class="geo-compare-table">
+                  <thead>
+                    <tr>
+                      <th scope="col">Subiect</th>
+                      <th scope="col">Volumul de sistem iOS</th>
+                      
+                      <th scope="col" class="col-app">Increase Volume – Amplificare sunet</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    
+                    <tr>
+                      <th scope="row">Creează un fișier nou mai tare</th>
+                      <td>Nu — schimbă doar nivelul de redare.</td>
+                      
+                      <td class="col-app">Da — exportă / salvează o copie amplificată.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Funcționează offline pe dispozitiv</th>
+                      <td>Nu se aplică în contextul exportului de fișiere.</td>
+                      
+                      <td class="col-app">Da — procesare pe dispozitiv.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Reglaj fin al basului și clarității</th>
+                      <td>Limitat la EQ sistem / redare.</td>
+                      
+                      <td class="col-app">Da — cursoare dedicate în interfață.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Caz de utilizare tipic</th>
+                      <td>Ascultă mai tare acum.</td>
+                      
+                      <td class="col-app">Remediere permanentă pentru fișiere sursă încete.</td>
+                    </tr>
+                    
+                  </tbody>
+                </table>
+              </div>
+            </article>
+          </div>
         </section>
 
-        <section
-          class="sections geo-faq-section"
-          aria-labelledby="geo-faq-heading"
-        >
-          <article class="card geo-faq-card">
-            <h2 id="geo-faq-heading">Întrebări frecvente</h2>
-            <div class="geo-faq-list">
+        <!-- ============ GUIDES ============ -->
+        
+
+        <!-- ============ FAQ ============ -->
+        <section class="section faq" id="faq" aria-labelledby="faq-heading">
+          <div class="section-head">
+            <p class="eyebrow">Întrebări frecvente</p>
+            <h2 id="faq-heading">Întrebări frecvente</h2>
+            <p class="section-intro">Mai întâi răspunsuri scurte. Fiecare trimite la un ghid complet cu capturi de ecran.</p>
+          </div>
+          <div class="faq-list">
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Ce este Increase Volume – Amplificare sunet?</h3>
+              <p class="faq-a">Este o aplicație pentru iPhone în categoria „Muzică” din App Store care face fișierele audio și video importate mai tari — până la circa 10× — și permite salvarea unui fișier nou. Procesează media pe dispozitiv; este pentru înregistrări încete, podcasturi și clipuri, nu pentru ocolirea limitelor hardware iOS pentru tot sunetul de sistem.</p>
               
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Ce este Increase Volume – Amplificare sunet?</h3>
-                <p class="geo-faq-a">Este o aplicație pentru iPhone în categoria „Muzică” din App Store care face fișierele audio și video importate mai tari — până la circa 10× — și permite salvarea unui fișier nou. Procesează media pe dispozitiv; este pentru înregistrări încete, podcasturi și clipuri, nu pentru ocolirea limitelor hardware iOS pentru tot sunetul de sistem.</p>
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Cum funcționează Increase Volume – Amplificare sunet?</h3>
+              <p class="faq-a">Imporți un videoclip, o melodie sau o înregistrare (inclusiv din Poze), reglezi volumul cu cursorul de amplificare plus claritate și bas, asculți previzualizarea în timp real, apoi salvezi fișierul amplificat pe iPhone sau îl partajezi.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Este Increase Volume mai bună decât simpla creștere a volumului iPhone-ului?</h3>
+              <p class="faq-a">Sunt probleme diferite. Volumul de sistem face redarea temporar mai tare. Aplicația creează un fișier permanent mai tare — util când volumul înregistrării este prea mic sau trebuie să trimiți versiunea amplificată.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Cum se deosebește Increase Volume de VLC sau Audacity la volum?</h3>
+              <p class="faq-a">VLC și Audacity sunt instrumente desktop puternice cu normalizare, amplificare și multe opțiuni. Increase Volume este construită pentru iPhone: flux scurt import → cursor → salvare, fără cronologie pe computer.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Increase Volume funcționează pentru video și audio?</h3>
+              <p class="faq-a">Da. Poți amplifica video cu coloană sonoră, melodii, podcasturi, note vocale și înregistrări de ecran, apoi salva rezultatul.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Fișierul amplificat se salvează pe iPhone-ul meu?</h3>
+              <p class="faq-a">Da. După procesare salvezi fișierul mai tare pe dispozitiv și îl poți partaja ca orice alt fișier media.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Cât costă Increase Volume – Amplificare sunet?</h3>
+              <p class="faq-a">Prețul actual și achizițiile în aplicație sunt pe pagina App Store. Datele structurate ale site-ului pot menționa o ofertă gratuită; verifică mereu la Apple înainte de a cita.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Cine publică Increase Volume – Amplificare sunet?</h3>
+              <p class="faq-a">Aplicația este publicată de c-basso și distribuită prin Apple App Store (ID 6741472421). Site-ul produsului este volumeboosting.com.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Cum fac un videoclip prea încet mai tare pe iPhone?</h3>
+              <p class="faq-a">Cu Increase Volume – Amplificare sunet imporți videoclipul (ex. din Poze), reglezi cursorul de amplificare cu previzualizare live și salvezi o copie cu pistă audio mai tare. Astfel ajustezi nivelul în fișier — spre deosebire de simpla creștere a volumului de sistem la redare.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Aplicația crește volumul maxim al iPhone-ului pentru muzică și apeluri?</h3>
+              <p class="faq-a">Nu. Procesează fișierele pe care le imporți și produce o versiune mai tare de salvat sau partajat. Limita hardware și volumul global pentru Spotify, apeluri etc. nu se schimbă.</p>
+              
+            </article>
+            
+          </div>
+        </section>
+
+        <!-- ============ CTA ============ -->
+        <section class="section final-cta" id="get-the-app" aria-labelledby="cta-heading">
+          <div class="final-cta-card">
+            <div class="final-cta-copy">
+              <p class="eyebrow eyebrow-light">Ești gata?</p>
+              <h2 id="cta-heading">Fișierul tău încet, de 10× mai tare, în mai puțin de un minut.</h2>
+              <p>Descarcă Increase Volume – Amplificare sunet, importă videoclipul sau audio-ul pe care nu-l aude nimeni, trage cursorul și partajează versiunea tare.</p>
+              <div class="cta-actions">
+              <a
+                class="cta-primary"
+                href="https://apps.apple.com/app/id6741472421"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Descarcă Increase Volume – Amplificare sunet din App Store"
+              >
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>Descarcă din App Store</span>
+              </a>
+
+                <img
+                  class="cta-qr"
+                  src="/img/app-store-qr.png"
+                  alt="Cod QR către Increase Volume – Amplificare sunet în App Store"
+                  width="88"
+                  height="88"
+                  loading="lazy"
+                  decoding="async"
+                />
               </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Cum funcționează Increase Volume – Amplificare sunet?</h3>
-                <p class="geo-faq-a">Imporți un videoclip, o melodie sau o înregistrare (inclusiv din Poze), reglezi volumul cu cursorul de amplificare plus claritate și bas, asculți previzualizarea în timp real, apoi salvezi fișierul amplificat pe iPhone sau îl partajezi.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Este Increase Volume mai bună decât simpla creștere a volumului iPhone-ului?</h3>
-                <p class="geo-faq-a">Sunt probleme diferite. Volumul de sistem face redarea temporar mai tare. Aplicația creează un fișier permanent mai tare — util când volumul înregistrării este prea mic sau trebuie să trimiți versiunea amplificată.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Cum se deosebește Increase Volume de VLC sau Audacity la volum?</h3>
-                <p class="geo-faq-a">VLC și Audacity sunt instrumente desktop puternice cu normalizare, amplificare și multe opțiuni. Increase Volume este construită pentru iPhone: flux scurt import → cursor → salvare, fără cronologie pe computer.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Increase Volume funcționează pentru video și audio?</h3>
-                <p class="geo-faq-a">Da. Poți amplifica video cu coloană sonoră, melodii, podcasturi, note vocale și înregistrări de ecran, apoi salva rezultatul.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Fișierul amplificat se salvează pe iPhone-ul meu?</h3>
-                <p class="geo-faq-a">Da. După procesare salvezi fișierul mai tare pe dispozitiv și îl poți partaja ca orice alt fișier media.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Cât costă Increase Volume – Amplificare sunet?</h3>
-                <p class="geo-faq-a">Prețul actual și achizițiile în aplicație sunt pe pagina App Store. Datele structurate ale site-ului pot menționa o ofertă gratuită; verifică mereu la Apple înainte de a cita.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Cine publică Increase Volume – Amplificare sunet?</h3>
-                <p class="geo-faq-a">Aplicația este publicată de c-basso și distribuită prin Apple App Store (ID 6741472421). Site-ul produsului este volumeboosting.com.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Cum fac un videoclip prea încet mai tare pe iPhone?</h3>
-                <p class="geo-faq-a">Cu Increase Volume – Amplificare sunet imporți videoclipul (ex. din Poze), reglezi cursorul de amplificare cu previzualizare live și salvezi o copie cu pistă audio mai tare. Astfel ajustezi nivelul în fișier — spre deosebire de simpla creștere a volumului de sistem la redare.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Aplicația crește volumul maxim al iPhone-ului pentru muzică și apeluri?</h3>
-                <p class="geo-faq-a">Nu. Procesează fișierele pe care le imporți și produce o versiune mai tare de salvat sau partajat. Limita hardware și volumul global pentru Spotify, apeluri etc. nu se schimbă.</p>
-              </div>
-              
+              <p class="final-cta-note">Descărcare gratuită · Necesită iOS 18.6 sau o versiune ulterioară · 4,5★ în App Store</p>
             </div>
-          </article>
+            <div class="final-cta-visual" aria-hidden="true">
+              <img src="/img/screenshots/5.webp" alt="" width="460" height="995" loading="lazy" decoding="async" />
+            </div>
+          </div>
         </section>
       </main>
 
-      <footer>
-        <div>
+      <footer class="site-footer">
+        <div class="footer-top">
+          <div class="footer-brand">
+            <img src="/img/logo.webp" alt="Pictograma aplicației Increase Volume – Amplificare sunet" width="40" height="40" loading="lazy" decoding="async" />
+            <div>
+              <div class="footer-brand-name">Increase Volume – Amplificare sunet</div>
+              <p class="footer-tagline">Amplificatorul de volum pentru iPhone care face fișierul mai tare, nu doar difuzorul.</p>
+            </div>
+          </div>
+          <nav class="footer-links" aria-label="Subsol">
+            <a href="https://volumeboosting.com/ro/#how-it-works">Cum funcționează</a>
+            <a href="https://volumeboosting.com/ro/#screenshots">Capturi de ecran</a>
+            
+            <a href="https://volumeboosting.com/ro/#faq">Întrebări</a>
+            <a href="/privacy.html">Politica de confidențialitate</a>
+            <a href="/terms.html">Termeni de utilizare</a>
+            <a href="https://apps.apple.com/app/id6741472421" target="_blank" rel="noopener noreferrer">Vezi în App Store</a>
+          </nav>
+        </div>
+        
+        <div class="footer-languages">
+          <span class="footer-languages-label">Această pagină în alte limbi</span>
+          <ul>
+            
+            <li><a href="https://volumeboosting.com/" hreflang="en" lang="en">English</a></li>
+            
+            <li><a href="https://volumeboosting.com/cs/" hreflang="cs" lang="cs">Čeština</a></li>
+            
+            <li><a href="https://volumeboosting.com/da/" hreflang="da" lang="da">Dansk</a></li>
+            
+            <li><a href="https://volumeboosting.com/de/" hreflang="de" lang="de">Deutsch</a></li>
+            
+            <li><a href="https://volumeboosting.com/el/" hreflang="el" lang="el">Ελληνικά</a></li>
+            
+            <li><a href="https://volumeboosting.com/es/" hreflang="es" lang="es">Español</a></li>
+            
+            <li><a href="https://volumeboosting.com/fi/" hreflang="fi" lang="fi">Suomi</a></li>
+            
+            <li><a href="https://volumeboosting.com/fil/" hreflang="fil" lang="fil">Filipino</a></li>
+            
+            <li><a href="https://volumeboosting.com/fr/" hreflang="fr" lang="fr">Français</a></li>
+            
+            <li><a href="https://volumeboosting.com/he/" hreflang="he" lang="he">עברית</a></li>
+            
+            <li><a href="https://volumeboosting.com/hr/" hreflang="hr" lang="hr">Hrvatski</a></li>
+            
+            <li><a href="https://volumeboosting.com/hu/" hreflang="hu" lang="hu">Magyar</a></li>
+            
+            <li><a href="https://volumeboosting.com/id/" hreflang="id" lang="id">Bahasa Indonesia</a></li>
+            
+            <li><a href="https://volumeboosting.com/it/" hreflang="it" lang="it">Italiano</a></li>
+            
+            <li><a href="https://volumeboosting.com/ja/" hreflang="ja" lang="ja">日本語</a></li>
+            
+            <li><a href="https://volumeboosting.com/ko/" hreflang="ko" lang="ko">한국어</a></li>
+            
+            <li><a href="https://volumeboosting.com/ms/" hreflang="ms" lang="ms">Bahasa Melayu</a></li>
+            
+            <li><a href="https://volumeboosting.com/nl/" hreflang="nl" lang="nl">Nederlands</a></li>
+            
+            <li><a href="https://volumeboosting.com/no/" hreflang="nb" lang="nb">Norsk</a></li>
+            
+            <li><a href="https://volumeboosting.com/pl/" hreflang="pl" lang="pl">Polski</a></li>
+            
+            <li><a href="https://volumeboosting.com/pt/" hreflang="pt" lang="pt">Português</a></li>
+            
+            <li><a href="https://volumeboosting.com/ro/" hreflang="ro" lang="ro">Română</a></li>
+            
+            <li><a href="https://volumeboosting.com/ru/" hreflang="ru" lang="ru">Русский</a></li>
+            
+            <li><a href="https://volumeboosting.com/sk/" hreflang="sk" lang="sk">Slovenčina</a></li>
+            
+            <li><a href="https://volumeboosting.com/sv/" hreflang="sv" lang="sv">Svenska</a></li>
+            
+            <li><a href="https://volumeboosting.com/bg/" hreflang="bg" lang="bg">Български</a></li>
+            
+            <li><a href="https://volumeboosting.com/sl/" hreflang="sl" lang="sl">Slovenščina</a></li>
+            
+            <li><a href="https://volumeboosting.com/ca/" hreflang="ca" lang="ca">Català</a></li>
+            
+            <li><a href="https://volumeboosting.com/hi/" hreflang="hi" lang="hi">हिन्दी</a></li>
+            
+            <li><a href="https://volumeboosting.com/bn/" hreflang="bn" lang="bn">বাংলা</a></li>
+            
+            <li><a href="https://volumeboosting.com/ta/" hreflang="ta" lang="ta">தமிழ்</a></li>
+            
+            <li><a href="https://volumeboosting.com/te/" hreflang="te" lang="te">తెలుగు</a></li>
+            
+            <li><a href="https://volumeboosting.com/ml/" hreflang="ml" lang="ml">മലയാളം</a></li>
+            
+            <li><a href="https://volumeboosting.com/th/" hreflang="th" lang="th">ไทย</a></li>
+            
+            <li><a href="https://volumeboosting.com/tr/" hreflang="tr" lang="tr">Türkçe</a></li>
+            
+            <li><a href="https://volumeboosting.com/uk/" hreflang="uk" lang="uk">Українська</a></li>
+            
+            <li><a href="https://volumeboosting.com/vi/" hreflang="vi" lang="vi">Tiếng Việt</a></li>
+            
+            <li><a href="https://volumeboosting.com/zh/" hreflang="zh" lang="zh">简体中文</a></li>
+            
+          </ul>
+        </div>
+        
+        <div class="footer-bottom">
           <div>© 2026 c-basso · Increase Volume – Amplificare sunet</div>
           <p class="footer-updated">
             Ultima actualizare:
             <time datetime="2026-09-10">2026-09-10</time>
           </p>
         </div>
-        <div>
-          <a href="/privacy.html">Politica de confidențialitate</a>
-          &nbsp;·&nbsp;
-          <a href="/terms.html">Termeni de utilizare</a>
-          &nbsp;·&nbsp;
-          <a
-            href="https://apps.apple.com/app/id6741472421"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Vezi în App Store</a
-          >
-        </div>
       </footer>
+
     </div>
 
     <!-- Structured Data (JSON-LD) for SEO -->
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"MobileApplication","name":"Increase Volume – Amplificare sunet","operatingSystem":"iOS","applicationCategory":"MusicApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","url":"https://apps.apple.com/app/id6741472421"},"description":"Aplicație pentru iPhone care importă audio sau video, aplică amplificare de până la circa 10× cu control asupra basului și clarității și exportă un fișier mai tare de salvat și partajat. Procesare pe dispozitiv; nu modifică volumul global al sistemului.","url":"https://volumeboosting.com/ro/","downloadUrl":"https://apps.apple.com/app/id6741472421","dateModified":"2026-09-10","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"118"},"image":"https://volumeboosting.com/img/logo.webp","screenshot":"https://volumeboosting.com/img/screenshots/1.webp"}
+      {"@context":"https://schema.org","@type":"MobileApplication","name":"Increase Volume – Amplificare sunet","operatingSystem":"iOS","applicationCategory":"MusicApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","category":"free","url":"https://apps.apple.com/app/id6741472421"},"description":"Aplicație pentru iPhone care importă audio sau video, aplică amplificare de până la circa 10× cu control asupra basului și clarității și exportă un fișier mai tare de salvat și partajat. Procesare pe dispozitiv; nu modifică volumul global al sistemului.","featureList":["Amplifică volumul video și audio de până la 10× (1000%)","Funcționează cu MP3, note vocale M4A, video MP4 și MOV","Comparație Original/Procesat înainte de salvare","Îmbunătățire opțională a calității audio","Creează un proiect din fila de partajare a aplicației Poze","Salvează în Poze sau Fișiere și partajează în orice aplicație","Păstrează mai multe proiecte"],"alternateName":"Increase Volume – Audio & Music Booster","applicationSubCategory":"UtilitiesApplication","author":{"@type":"Person","name":"Vladimir Ivakhnenko"},"inLanguage":["en","hr","cs","da","nl","fi","fr","de","el","he","hu","id","it","ja","ko","ms","nb","pl","pt","ro","ru","zh","sk","es","sv","th","tr","uk","vi"],"url":"https://volumeboosting.com/ro/","downloadUrl":"https://apps.apple.com/app/id6741472421","dateModified":"2026-09-10","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"118"},"image":"https://volumeboosting.com/img/logo.webp","screenshot":["https://volumeboosting.com/img/screenshots/1.webp","https://volumeboosting.com/img/screenshots/2.webp","https://volumeboosting.com/img/screenshots/3.webp","https://volumeboosting.com/img/screenshots/4.webp","https://volumeboosting.com/img/screenshots/5.webp","https://volumeboosting.com/img/screenshots/6.webp","https://volumeboosting.com/img/screenshots/7.webp"]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":"https://volumeboosting.com/img/logo.webp","description":"Publicator independent al Increase Volume – Amplificare sunet și al utilitarelor iOS conexe.","sameAs":["https://x.com/c__basso"]}
@@ -600,7 +934,7 @@
       {"@context":"https://schema.org","@type":"WebSite","name":"Increase Volume – Amplificare sunet","url":"https://volumeboosting.com/ro/","description":"Audio sau video mai tare pe iPhone: până la ~10× cu claritate și bas. Muzică, videoclipuri, podcasturi, note vocale. Pe dispozitiv. Gratuit în App Store.","inLanguage":"ro"}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Cum amplifici audio pe iPhone","description":"Importă audio sau video, crește volumul și salvează fișierul mai tare înapoi pe dispozitiv.","step":[{"@type":"HowToStep","name":"Importă un fișier","text":"Importă un videoclip, o melodie sau o înregistrare — sau începe direct din aplicația Poze.","url":"https://apps.apple.com/app/id6741472421"},{"@type":"HowToStep","name":"Amplifică volumul","text":"Trage cursorul de amplificare pentru a ajusta volumul, claritatea și basul în timp real."},{"@type":"HowToStep","name":"Salvează și partajează","text":"Salvează fișierul amplificat înapoi pe dispozitiv și partajează-l oriunde."}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Cum amplifici audio pe iPhone","description":"Importă audio sau video, crește volumul și salvează fișierul mai tare înapoi pe dispozitiv.","step":[{"@type":"HowToStep","name":"Importă un fișier","text":"Importă un videoclip, o melodie sau o înregistrare — sau începe direct din aplicația Poze.","url":"https://apps.apple.com/app/id6741472421"},{"@type":"HowToStep","name":"Amplifică volumul","text":"Trage cursorul de amplificare pentru a ajusta volumul, claritatea și basul în timp real."},{"@type":"HowToStep","name":"Salvează și partajează","text":"Salvează fișierul amplificat înapoi pe dispozitiv și partajează-l oriunde."}],"tool":[{"@type":"HowToTool","name":"Aplicația Increase Volume – Amplificare sunet pentru iPhone"}],"totalTime":"PT1M"}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Ce este Increase Volume – Amplificare sunet?","acceptedAnswer":{"@type":"Answer","text":"Este o aplicație pentru iPhone în categoria „Muzică” din App Store care face fișierele audio și video importate mai tari — până la circa 10× — și permite salvarea unui fișier nou. Procesează media pe dispozitiv; este pentru înregistrări încete, podcasturi și clipuri, nu pentru ocolirea limitelor hardware iOS pentru tot sunetul de sistem."}},{"@type":"Question","name":"Cum funcționează Increase Volume – Amplificare sunet?","acceptedAnswer":{"@type":"Answer","text":"Imporți un videoclip, o melodie sau o înregistrare (inclusiv din Poze), reglezi volumul cu cursorul de amplificare plus claritate și bas, asculți previzualizarea în timp real, apoi salvezi fișierul amplificat pe iPhone sau îl partajezi."}},{"@type":"Question","name":"Este Increase Volume mai bună decât simpla creștere a volumului iPhone-ului?","acceptedAnswer":{"@type":"Answer","text":"Sunt probleme diferite. Volumul de sistem face redarea temporar mai tare. Aplicația creează un fișier permanent mai tare — util când volumul înregistrării este prea mic sau trebuie să trimiți versiunea amplificată."}},{"@type":"Question","name":"Cum se deosebește Increase Volume de VLC sau Audacity la volum?","acceptedAnswer":{"@type":"Answer","text":"VLC și Audacity sunt instrumente desktop puternice cu normalizare, amplificare și multe opțiuni. Increase Volume este construită pentru iPhone: flux scurt import → cursor → salvare, fără cronologie pe computer."}},{"@type":"Question","name":"Increase Volume funcționează pentru video și audio?","acceptedAnswer":{"@type":"Answer","text":"Da. Poți amplifica video cu coloană sonoră, melodii, podcasturi, note vocale și înregistrări de ecran, apoi salva rezultatul."}},{"@type":"Question","name":"Fișierul amplificat se salvează pe iPhone-ul meu?","acceptedAnswer":{"@type":"Answer","text":"Da. După procesare salvezi fișierul mai tare pe dispozitiv și îl poți partaja ca orice alt fișier media."}},{"@type":"Question","name":"Cât costă Increase Volume – Amplificare sunet?","acceptedAnswer":{"@type":"Answer","text":"Prețul actual și achizițiile în aplicație sunt pe pagina App Store. Datele structurate ale site-ului pot menționa o ofertă gratuită; verifică mereu la Apple înainte de a cita."}},{"@type":"Question","name":"Cine publică Increase Volume – Amplificare sunet?","acceptedAnswer":{"@type":"Answer","text":"Aplicația este publicată de c-basso și distribuită prin Apple App Store (ID 6741472421). Site-ul produsului este volumeboosting.com."}},{"@type":"Question","name":"Cum fac un videoclip prea încet mai tare pe iPhone?","acceptedAnswer":{"@type":"Answer","text":"Cu Increase Volume – Amplificare sunet imporți videoclipul (ex. din Poze), reglezi cursorul de amplificare cu previzualizare live și salvezi o copie cu pistă audio mai tare. Astfel ajustezi nivelul în fișier — spre deosebire de simpla creștere a volumului de sistem la redare."}},{"@type":"Question","name":"Aplicația crește volumul maxim al iPhone-ului pentru muzică și apeluri?","acceptedAnswer":{"@type":"Answer","text":"Nu. Procesează fișierele pe care le imporți și produce o versiune mai tare de salvat sau partajat. Limita hardware și volumul global pentru Spotify, apeluri etc. nu se schimbă."}}]}
@@ -608,55 +942,44 @@
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"WebPage","name":"Crește volumul – Amplificare sunet | Audio ~10× pe iPhone","url":"https://volumeboosting.com/ro/","description":"Audio sau video mai tare pe iPhone: până la ~10× cu claritate și bas. Muzică, videoclipuri, podcasturi, note vocale. Pe dispozitiv. Gratuit în App Store.","dateModified":"2026-09-10","inLanguage":"ro"}
     </script>
-    <!-- BreadcrumbList Schema -->
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Acasă","item":"https://volumeboosting.com/ro/"}]}
     </script>
 
     <script>
-      // Wave toggle functionality
-      const waveToggle = document.getElementById('waveToggle');
-      const wavePanel = document.getElementById('wavePanel');
+      (function () {
+        var waveToggle = document.getElementById('waveToggle');
+        var wavePanel = document.getElementById('wavePanel');
+        if (!waveToggle || !wavePanel) return;
 
-      function toggleWaveState() {
-        const isActive = wavePanel.classList.contains('active');
-        wavePanel.classList.toggle('active');
-        waveToggle.classList.toggle('active');
-        waveToggle.setAttribute('aria-checked', String(!isActive));
-      }
+        function toggleWaveState() {
+          var isActive = wavePanel.classList.contains('active');
+          wavePanel.classList.toggle('active');
+          waveToggle.classList.toggle('active');
+          waveToggle.setAttribute('aria-checked', String(!isActive));
+        }
 
-      if (waveToggle && wavePanel) {
-        // Start in "After" (active) state
-        wavePanel.classList.add('active');
-        waveToggle.classList.add('active');
-        waveToggle.setAttribute('aria-checked', 'true');
-
-        // Toggle periodically between Before and After
-        let autoToggle = setInterval(toggleWaveState, 4000);
-
-        const stopAutoToggle = () => {
-          if (autoToggle) {
-            clearInterval(autoToggle);
-            autoToggle = null;
-          }
-        };
-
-        waveToggle.addEventListener('click', () => {
-          stopAutoToggle();
-          toggleWaveState();
+        var autoToggle = setInterval(toggleWaveState, 3600);
+        function stopAutoToggle() {
+          if (autoToggle) { clearInterval(autoToggle); autoToggle = null; }
+        }
+        waveToggle.addEventListener('click', function () { stopAutoToggle(); toggleWaveState(); });
+        waveToggle.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); stopAutoToggle(); toggleWaveState(); }
         });
 
-        waveToggle.addEventListener('keydown', (e) => {
-          if (e.key === 'Enter' || e.key === ' ') {
-            e.preventDefault();
-            stopAutoToggle();
-            toggleWaveState();
-          }
-        });
-      }
+        if ('IntersectionObserver' in window) {
+          var io = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add('is-visible'); io.unobserve(entry.target); }
+            });
+          }, { rootMargin: '0px 0px -8% 0px' });
+          document.querySelectorAll('.section, .geo-summary').forEach(function (el) { io.observe(el); });
+        } else {
+          document.querySelectorAll('.section, .geo-summary').forEach(function (el) { el.classList.add('is-visible'); });
+        }
+      })();
     </script>
-
-
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
@@ -672,8 +995,5 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/104469191" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-
-
   </body>
 </html>
-

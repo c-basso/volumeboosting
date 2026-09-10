@@ -46,13 +46,34 @@
     "footnote_item4": "Social-Media-Clips",
     "footnote_last_joiner": " und ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Klangboost auf dem iPhone — Audio und Video lauter machen"
+    "device_image_alt": "Increase Volume – Klangboost auf dem iPhone — Audio und Video lauter machen",
+    "cta_secondary_link": "So funktioniert’s",
+    "proof_aria": "Fakten zur App",
+    "proof": [
+      {
+        "value": "4,5★",
+        "label": "118 Bewertungen im App Store"
+      },
+      {
+        "value": "10×",
+        "label": "maximale Verstärkung"
+      },
+      {
+        "value": "Audio + Video",
+        "label": "MP3, MP4, MOV, Sprachmemos"
+      },
+      {
+        "value": "Auf dem Gerät",
+        "label": "nichts wird hochgeladen"
+      }
+    ]
   },
   "wave": {
     "before_label": "Vorher",
     "after_label": "Nachher",
     "before_text": "Leises, flaches Original-Audio",
-    "after_text": "Verstärkter, voller und klarer Klang"
+    "after_text": "Verstärkter, voller und klarer Klang",
+    "toggle_aria": "Zwischen Original- und verstärkter Wellenform wechseln"
   },
   "sections": {
     "features_uses_aria": "Funktionen und Einsatzmöglichkeiten",
@@ -157,7 +178,11 @@
     "last_updated_label": "Seite zuletzt aktualisiert:",
     "privacy_link": "Datenschutz",
     "terms_link": "Nutzungsbedingungen",
-    "app_store_link_text": "Im App Store ansehen"
+    "app_store_link_text": "Im App Store ansehen",
+    "tagline": "Der Volume Booster fürs iPhone, der die Datei lauter macht – nicht nur den Lautsprecher.",
+    "links_aria": "Fußzeile",
+    "guides_link_text": "Anleitungen",
+    "languages_label": "Diese Seite in anderen Sprachen"
   },
   "seo": {
     "breadcrumb_home": "Start",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "iPhone-App: Import von Audio oder Video, Verstärkung bis ~10× mit Bass- und Klarheitsreglern, Export einer lauteren Datei zum Speichern und Teilen. Verarbeitung auf dem Gerät; keine Änderung der systemweiten Lautstärke."
+        "description": "iPhone-App: Import von Audio oder Video, Verstärkung bis ~10× mit Bass- und Klarheitsreglern, Export einer lauteren Datei zum Speichern und Teilen. Verarbeitung auf dem Gerät; keine Änderung der systemweiten Lautstärke.",
+        "featureList": [
+          "Lautstärke von Video und Audio bis zu 10× (1000 %) verstärken",
+          "Funktioniert mit MP3, M4A-Sprachmemos, MP4- und MOV-Videos",
+          "Vergleich Original/Verarbeitet vor dem Speichern",
+          "Optionale Verbesserung der Audioqualität",
+          "Projekt direkt aus dem Teilen-Menü der App „Fotos“ anlegen",
+          "In Fotos oder Dateien sichern und in jede App teilen",
+          "Mehrere Projekte behalten"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "Speichern und teilen",
             "text": "Speichere die verstärkte Datei zurück auf dem Gerät und teile sie überall."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Increase Volume – Klangboost App für iPhone"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Hauptnavigation",
+    "how_it_works": "So funktioniert’s",
+    "screenshots": "Screenshots",
+    "guides": "Anleitungen",
+    "faq": "FAQ",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "Download",
+    "title": "Increase Volume – Klangboost im App Store laden",
+    "subtitle": "Audio & Music Booster · Kategorie „Musik“ · iPhone",
+    "price": "Gratis",
+    "price_note": "Optionale In-App-Käufe (kostenlose Testphase oder einmaliger Lifetime-Kauf)",
+    "rating_line": "4,5 ★ · 118 Bewertungen im App Store",
+    "qr_alt": "QR-Code zu Increase Volume – Klangboost im App Store",
+    "qr_label": "Mit der iPhone-Kamera scannen",
+    "requirements": "Erfordert iOS 18.6 oder neuer · 26,8 MB · Deutsch + 30 weitere Sprachen · Alter 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Screenshots",
+    "title": "So sieht die App auf deinem iPhone aus",
+    "intro": "Dieselben Screens wie im App Store: ein Regler, ein Vergleich Original/Verarbeitet und ein Teilen-Menü, das die lautere Datei überallhin bringt.",
+    "aria": "App-Screenshots, horizontal scrollen",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Marketing-Screenshot von Increase Volume: Volume Booster und Klangverstärker, bis zu zehnmal lauter",
+        "caption": "Volume Booster und Klangverstärker: bis zu 10× lauter."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Videoplayer in Increase Volume, ein Finger zieht den pinken Boost-Regler, um das Video lauter zu machen",
+        "caption": "Video lauter machen: Regler direkt in der Videovorschau ziehen."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume verarbeitet eine MP3-Datei und zeigt Dateiname, Größe und Dauer",
+        "caption": "Musik lauter machen: MP3 und andere Audiodateien werden auf dem Gerät verarbeitet."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Titeldetails mit Schalter „Audioqualität verbessern“, Regler „Lautstärke-Multiplikation ×10“ und Button „Lautstärke auf ×10 verstärken“",
+        "caption": "Stärke der Verstärkung wählen: von sanft bis 10×."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Ergebnisbildschirm mit Button „Verarbeitete Datei laden“ und Umschalter Original/Verarbeitet",
+        "caption": "Ergebnis anhören und vor dem Speichern mit dem Original vergleichen."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "iOS-Teilen-Menü mit „Kopieren“, „Tags hinzufügen“ und „In Dateien sichern“ für das verstärkte Audio",
+        "caption": "Laden und überall teilen: Fotos, Dateien, Nachrichten, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Projektliste in Increase Volume mit MP3- und MP4-Dateien samt Größe und Dauer",
+        "caption": "Mehrere Projekte speichern und später weitermachen."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "Schritt 1: Video in Increase Volume importiert, Boost-Regler sichtbar",
+    "step_2_alt": "Schritt 2: Regler „Lautstärke-Multiplikation ×10“ und Button „Lautstärke verstärken“",
+    "step_3_alt": "Schritt 3: iOS-Teilen-Menü mit „In Dateien sichern“ für die verstärkte Datei"
+  },
+  "faq_section": {
+    "eyebrow": "FAQ",
+    "intro": "Kurze Antworten zuerst. Jede verlinkt auf eine ausführliche Anleitung mit Screenshots.",
+    "learn_more_label": "Mehr erfahren"
+  },
+  "cta": {
+    "eyebrow": "Bereit?",
+    "title": "Deine leise Datei, 10× lauter – in unter einer Minute.",
+    "text": "Lade Increase Volume – Klangboost, importiere das Video oder Audio, das niemand hört, ziehe den Regler und teile die laute Version.",
+    "note": "Kostenloser Download · Erfordert iOS 18.6 oder neuer · 4,5★ im App Store"
   }
 }

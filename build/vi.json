@@ -46,13 +46,34 @@
     "footnote_item4": "clip mạng xã hội",
     "footnote_last_joiner": " và ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Tăng cường âm thanh trên iPhone — tăng âm lượng âm thanh và video"
+    "device_image_alt": "Increase Volume – Tăng cường âm thanh trên iPhone — tăng âm lượng âm thanh và video",
+    "cta_secondary_link": "Xem cách hoạt động",
+    "proof_aria": "Thông tin về ứng dụng",
+    "proof": [
+      {
+        "value": "4,5★",
+        "label": "118 lượt xếp hạng trên App Store"
+      },
+      {
+        "value": "10×",
+        "label": "mức tăng âm lượng tối đa"
+      },
+      {
+        "value": "Âm thanh + video",
+        "label": "MP3, MP4, MOV, ghi âm"
+      },
+      {
+        "value": "Trên thiết bị",
+        "label": "không tải lên bất kỳ thứ gì"
+      }
+    ]
   },
   "wave": {
     "before_label": "Trước",
     "after_label": "Sau",
     "before_text": "Âm thanh gốc nhỏ và phẳng",
-    "after_text": "Sau khi tăng — đầu ra đầy và rõ"
+    "after_text": "Sau khi tăng — đầu ra đầy và rõ",
+    "toggle_aria": "Chuyển giữa dạng sóng gốc và dạng sóng đã tăng"
   },
   "sections": {
     "features_uses_aria": "Tính năng và cách dùng",
@@ -157,7 +178,11 @@
     "last_updated_label": "Cập nhật lần cuối:",
     "privacy_link": "Chính sách quyền riêng tư",
     "terms_link": "Điều khoản sử dụng",
-    "app_store_link_text": "Xem trên App Store"
+    "app_store_link_text": "Xem trên App Store",
+    "tagline": "Bộ tăng âm lượng cho iPhone làm to chính tệp, không chỉ loa.",
+    "links_aria": "Chân trang",
+    "guides_link_text": "Hướng dẫn",
+    "languages_label": "Trang này bằng ngôn ngữ khác"
   },
   "seo": {
     "breadcrumb_home": "Trang chủ",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "Ứng dụng iPhone nhập âm thanh hoặc video, áp dụng tới ~10× độ to với điều khiển bass và độ trong, rồi xuất tệp to hơn để lưu và chia sẻ. Xử lý trên thiết bị; không thay đổi âm lượng hệ thống."
+        "description": "Ứng dụng iPhone nhập âm thanh hoặc video, áp dụng tới ~10× độ to với điều khiển bass và độ trong, rồi xuất tệp to hơn để lưu và chia sẻ. Xử lý trên thiết bị; không thay đổi âm lượng hệ thống.",
+        "featureList": [
+          "Tăng âm lượng video và âm thanh tới 10× (1000%)",
+          "Hỗ trợ MP3, ghi âm M4A, video MP4 và MOV",
+          "So sánh Gốc/Đã xử lý trước khi lưu",
+          "Tùy chọn cải thiện chất lượng âm thanh",
+          "Tạo dự án từ bảng chia sẻ của Ảnh",
+          "Lưu vào Ảnh hoặc Tệp và chia sẻ tới mọi ứng dụng",
+          "Lưu nhiều dự án"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "Lưu và chia sẻ",
             "text": "Lưu tệp đã tăng trở lại thiết bị và chia sẻ ở đâu cũng được."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Ứng dụng Increase Volume – Tăng cường âm thanh cho iPhone"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Điều hướng chính",
+    "how_it_works": "Cách hoạt động",
+    "screenshots": "Ảnh chụp màn hình",
+    "guides": "Hướng dẫn",
+    "faq": "Câu hỏi thường gặp",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "Tải về",
+    "title": "Tải Increase Volume – Tăng cường âm thanh trên App Store",
+    "subtitle": "Audio & Music Booster · Danh mục Nhạc · iPhone",
+    "price": "Miễn phí",
+    "price_note": "Mua trong ứng dụng tùy chọn (dùng thử miễn phí hoặc gói trọn đời thanh toán một lần)",
+    "rating_line": "4,5 ★ · 118 lượt xếp hạng trên App Store",
+    "qr_alt": "Mã QR dẫn tới Increase Volume – Tăng cường âm thanh trên App Store",
+    "qr_label": "Quét bằng camera iPhone",
+    "requirements": "Yêu cầu iOS 18.6 trở lên · 26,8 MB · Tiếng Việt + 30 ngôn ngữ khác · 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Ảnh chụp màn hình",
+    "title": "Ứng dụng trông thế nào trên iPhone của bạn",
+    "intro": "Chính những màn hình bạn sẽ thấy trên App Store: một thanh trượt, phần so sánh Gốc/Đã xử lý và bảng chia sẻ đưa tệp to hơn đến bất kỳ đâu bạn cần.",
+    "aria": "Ảnh chụp màn hình ứng dụng, cuộn ngang",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Ảnh quảng bá Increase Volume: bộ tăng âm lượng và khuếch đại âm thanh, to hơn tới mười lần",
+        "caption": "Bộ tăng âm lượng và khuếch đại âm thanh: to hơn tới 10×."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Trình phát video trong Increase Volume, một ngón tay kéo thanh trượt tăng cường màu hồng để làm video to hơn",
+        "caption": "Làm video to hơn: kéo thanh trượt ngay trên bản xem trước."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume đang xử lý tệp MP3, hiển thị tên tệp, kích cỡ và thời lượng",
+        "caption": "Làm nhạc to hơn: MP3 và các tệp âm thanh khác được xử lý trên thiết bị."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Chi tiết bản nhạc với công tắc «Cải thiện chất lượng âm thanh», thanh trượt «Hệ số âm lượng ×10» và nút «Tăng âm lượng lên ×10»",
+        "caption": "Chọn mức tăng: từ nhẹ nhàng đến 10×."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Màn hình kết quả với nút «Tải tệp đã xử lý» và công tắc Gốc/Đã xử lý",
+        "caption": "Nghe kết quả và so sánh với bản gốc trước khi lưu."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "Bảng chia sẻ iOS hiển thị Sao chép, Thêm thẻ và Lưu vào Tệp cho âm thanh đã tăng",
+        "caption": "Tải về và chia sẻ khắp nơi: Ảnh, Tệp, Tin nhắn, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Danh sách dự án trong Increase Volume với các tệp MP3 và MP4 cùng kích cỡ và thời lượng",
+        "caption": "Lưu nhiều dự án và quay lại sau."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "Bước 1: video đã nhập vào Increase Volume, thanh trượt tăng cường hiển thị",
+    "step_2_alt": "Bước 2: thanh trượt «Hệ số âm lượng ×10» và nút «Tăng âm lượng»",
+    "step_3_alt": "Bước 3: bảng chia sẻ iOS với «Lưu vào Tệp» cho tệp đã tăng"
+  },
+  "faq_section": {
+    "eyebrow": "Câu hỏi thường gặp",
+    "intro": "Trả lời ngắn trước. Mỗi câu đều liên kết đến hướng dẫn đầy đủ kèm ảnh chụp màn hình.",
+    "learn_more_label": "Tìm hiểu thêm"
+  },
+  "cta": {
+    "eyebrow": "Sẵn sàng chưa?",
+    "title": "Tệp nhỏ tiếng của bạn, to hơn 10×, trong chưa đến một phút.",
+    "text": "Tải Increase Volume – Tăng cường âm thanh, nhập video hoặc âm thanh mà không ai nghe được, kéo thanh trượt và chia sẻ bản to hơn.",
+    "note": "Tải miễn phí · Yêu cầu iOS 18.6 trở lên · 4,5★ trên App Store"
   }
 }

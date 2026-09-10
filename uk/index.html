@@ -136,27 +136,14 @@
     <meta name="twitter:image:width" content="1026" />
     <meta name="twitter:image:height" content="539" />
 
-    <link
-      rel="preconnect"
-      href="https://apps.apple.com"
-    />
-    <link
-      rel="preconnect"
-      href="https://fonts.googleapis.com"
-    />
-    <link
-      rel="preconnect"
-      href="https://fonts.gstatic.com"
-      crossorigin
-    />
-    <link
-      rel="preconnect"
-      href="https://mc.yandex.ru"
-    />
+    <link rel="preconnect" href="https://apps.apple.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://mc.yandex.ru" />
     <link rel="dns-prefetch" href="https://apps.apple.com" />
     <link rel="dns-prefetch" href="https://mc.yandex.ru" />
     <link
-      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Instrument+Sans:wght@400;500;600&display=swap"
       rel="stylesheet"
     />
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico" />
@@ -172,101 +159,116 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1789027622208"
+      href="/style.css?v=1789035383954"
     />
+    <script>document.documentElement.classList.add('js');</script>
+
   </head>
-  <body>
+  <body class="page-home">
+    <div class="bg-grid" aria-hidden="true"></div>
     <div class="noise-layer" aria-hidden="true"></div>
     <div class="page-shell">
-      <header>
-        <div class="brand">
-          <div class="brand-logo">
+      <header class="site-header">
+        <a class="brand" href="https://volumeboosting.com/uk/" aria-label="Increase Volume – Підсилення звуку">
+          <span class="brand-logo">
             <img
               src="/img/logo.webp"
               alt="Значок програми Increase Volume – Підсилення звуку"
-              width="80"
-              height="80"
+              width="44"
+              height="44"
               loading="eager"
               decoding="async"
             />
-          </div>
-          <div class="brand-text">
-            <div class="brand-name">Volume Booster</div>
-            <div class="brand-subtitle">Підсилення звуку для iPhone</div>
-          </div>
-        </div>
-        <div class="apple-pill">
-          <div class="apple-dot"></div>
-          <span>Для iPhone · Музика</span>
-        </div>
+          </span>
+          <span class="brand-text">
+            <span class="brand-name">Volume Booster</span>
+            <span class="brand-subtitle">Підсилення звуку для iPhone</span>
+          </span>
+        </a>
+        <nav class="site-nav" aria-label="Основна навігація">
+          <a href="https://volumeboosting.com/uk/#how-it-works">Як це працює</a>
+          <a href="https://volumeboosting.com/uk/#screenshots">Знімки екрана</a>
+          
+          <a href="https://volumeboosting.com/uk/#faq">Запитання</a>
+        </nav>
+        <a
+          class="header-cta"
+          href="https://apps.apple.com/app/id6741472421"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Завантажити Increase Volume – Підсилення звуку у App Store"
+        >
+          <svg class="apple-mark" width="14" height="17" viewBox="14 8 14 26" aria-hidden="true"><path fill="currentColor" d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"/><path fill="currentColor" d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"/></svg>
+          <span>App Store</span>
+        </a>
       </header>
 
-      <main>
+
+      <main id="main">
+        <!-- ============ HERO ============ -->
         <section class="hero" aria-labelledby="hero-heading">
           <div class="hero-copy">
-          <div class="hero-kicker">
-            <div class="pill-spark">10x</div>
-            <span>Перетворіть тихі відео й аудіо на гучний, чіткий звук</span>
-          </div>
-          <h1 id="hero-heading">
-            Зробіть будь-який звук або відео
-            <span class="hero-title-highlight">до ~10× гучніше</span>
-            без втрати чіткості.
-          </h1>
-          <p class="hero-subtitle">
-            Increase Volume – Підсилення звуку — ваш підсилювач гучності для iPhone. За секунди виправте тихі записи екрана, подкасти й відео — чистий потужний звук і насичений бас.
-          </p>
-
-          <div class="hero-metadata">
-            <span><span class="metadata-dot"></span> Лише iPhone</span>
-            <span>Швидко, просто й з повагою до приватності</span>
-          </div>
+            <div class="hero-kicker">
+              <span class="sticker">10x</span>
+              <span>Перетворіть тихі відео й аудіо на гучний, чіткий звук</span>
+            </div>
+            <h1 id="hero-heading">
+              Зробіть будь-який звук або відео
+              <span class="hero-title-highlight">до ~10× гучніше</span>
+              без втрати чіткості.
+            </h1>
+            <p class="hero-subtitle">Increase Volume – Підсилення звуку — ваш підсилювач гучності для iPhone. За секунди виправте тихі записи екрана, подкасти й відео — чистий потужний звук і насичений бас.</p>
 
             <div class="cta-row">
               <div class="cta-actions">
-              <img
-                class="cta-qr"
-                src="/img/app-store-qr.png"
-                alt="Завантажити Increase Volume – Підсилення звуку у App Store"
-                width="104"
-                height="104"
-                loading="lazy"
-                decoding="async"
-              />
               <a
                 class="cta-primary"
-              href="https://apps.apple.com/app/id6741472421"
+                href="https://apps.apple.com/app/id6741472421"
                 target="_blank"
                 rel="noopener noreferrer"
-              aria-label="Завантажити Increase Volume – Підсилення звуку у App Store"
+                aria-label="Завантажити Increase Volume – Підсилення звуку у App Store"
               >
-              <svg
-                class="cta-apple-icon"
-                width="18"
-                height="22"
-                viewBox="14 8 14 26"
-                aria-hidden="true"
-              >
-                <path
-                  fill="currentColor"
-                  d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
-                />
-                <path
-                  fill="currentColor"
-                  d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
-                />
-              </svg>
-              <span>Завантажити в App Store</span>
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>Завантажити в App Store</span>
               </a>
+
+                <a class="cta-ghost" href="#how-it-works">Як це працює</a>
               </div>
-              <div class="cta-secondary">
-              Підсильте своє перше відео <strong>безкоштовно</strong>, збережіть гучність назавжди.
-              </div>
+              <p class="cta-secondary">
+                Підсильте своє перше відео <strong>безкоштовно</strong>, збережіть гучність назавжди.
+              </p>
             </div>
 
+            <ul class="proof-row" aria-label="Факти про додаток">
+              
+              <li><strong>4,5★</strong><span>118 оцінок в App Store</span></li>
+              
+              <li><strong>10×</strong><span>максимальне підсилення</span></li>
+              
+              <li><strong>Аудіо + відео</strong><span>MP3, MP4, MOV, голосові нотатки</span></li>
+              
+              <li><strong>На пристрої</strong><span>нічого не завантажується на сервери</span></li>
+              
+            </ul>
+
             <p class="hero-footnote">
-            Ідеально для <span>тихих голосових нотаток</span>, <span>фільмів</span>,
-            <span>музики</span> і <span>кліпів для соцмереж</span>.
+              Ідеально для <span>тихих голосових нотаток</span>, <span>фільмів</span>,
+              <span>музики</span> і <span>кліпів для соцмереж</span>.
             </p>
           </div>
 
@@ -275,323 +277,655 @@
               <div class="device-column">
                 <div class="device-frame">
                   <div class="device-screen">
-                  <img
-                    src="/img/screenshots/1.webp"
-                    alt="Increase Volume – Підсилення звуку на iPhone — підсилення гучності аудіо й відео"
-                    width="460"
-                    height="995"
-                    loading="lazy"
-                    decoding="async"
-                  />
+                    <img
+                      src="/img/screenshots/1.webp"
+                      alt="Increase Volume – Підсилення звуку на iPhone — підсилення гучності аудіо й відео"
+                      width="460"
+                      height="995"
+                      loading="eager"
+                      fetchpriority="high"
+                      decoding="async"
+                    />
                   </div>
                 </div>
               </div>
               <div class="device-column wave-panel active" id="wavePanel">
                 <div class="wave-header">
                   <div class="wave-toggle-container">
-                  <span class="wave-toggle-label">До</span>
-                    <div class="wave-toggle active" id="waveToggle" role="switch" aria-checked="true" tabindex="0">
+                    <span class="wave-toggle-label">До</span>
+                    <div class="wave-toggle active" id="waveToggle" role="switch" aria-checked="true" tabindex="0" aria-label="Перемкнути між оригінальною та підсиленою формою хвилі">
                       <div class="wave-toggle-handle"></div>
                     </div>
-                  <span class="wave-toggle-label">Після</span>
+                    <span class="wave-toggle-label">Після</span>
                   </div>
                 </div>
                 <div class="wave-bars" aria-hidden="true">
-                  <!-- Wave bars - heights will be controlled by CSS based on state -->
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
                 </div>
-              <div class="wave-footer">
-                <div class="wave-footer-col">
-                  <div class="wave-footer-label">До</div>
-                  <div class="wave-footer-text">Тихий плоский оригінальний звук</div>
+                <div class="wave-footer">
+                  <div class="wave-footer-col">
+                    <div class="wave-footer-label">До</div>
+                    <div class="wave-footer-text">Тихий плоский оригінальний звук</div>
+                  </div>
+                  <div class="wave-footer-col">
+                    <div class="wave-footer-label">Після</div>
+                    <div class="wave-footer-text">Після підсилення — повний і чіткий вихід</div>
+                  </div>
                 </div>
-                <div class="wave-footer-col">
-                  <div class="wave-footer-label">Після</div>
-                  <div class="wave-footer-text">Після підсилення — повний і чіткий вихід</div>
-                </div>
-              </div>
+                <div class="wave-multiplier" aria-hidden="true">×10</div>
               </div>
             </div>
           </div>
         </section>
 
+        <!-- ============ SUMMARY (GEO) ============ -->
         <aside class="geo-summary" aria-label="Що це за додаток">
           <p class="geo-summary-lead">Коротко: Increase Volume – Підсилення звуку — додаток для iPhone, який обробляє аудіо- й відеофайли на пристрої, застосовує до близько 10× посилення з регуляторами чіткості й басу та зберігає новий гучніший файл для збереження чи поширення. Це не інструмент для обходу системних обмежень гучності динаміка.</p>
           <p class="geo-summary-body">Опубліковано в Apple App Store від c-basso. Вирішує ті самі задачі, що й підвищення гучності тихих подкастів, нотаток, записів екрана й соцкліпів — близько до нормалізації в настільних редакторах, але заточено під короткий дотиковий сценарій на iOS.</p>
         </aside>
 
-        <section class="sections geo-geo-row" aria-label="Факти й порівняння">
-          <article class="card">
-            <h2>У цифрах</h2>
-            <div class="card-title">Перевірювані факти про додаток</div>
-            <ul class="geo-stats-list">
-              
-              <li>
-                <span class="geo-stat-value">До ~10×</span>
-                <span class="geo-stat-label">Максимальний зазначений коефіцієнт підсилення для оброблених експортів.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">iOS / iPhone</span>
-                <span class="geo-stat-label">Платформа: нативний мобільний додаток, не macOS й не Android.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">4,5 / 5</span>
-                <span class="geo-stat-label">Середня оцінка в структурованих даних (118 оцінок); актуальне значення — у App Store.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">Безкоштовно</span>
-                <span class="geo-stat-label">У App Store як безкоштовний; ціна та покупки в додатку — на сторінці Apple.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">Імпорт → підсилення → збереження</span>
-                <span class="geo-stat-label">Основний потік: локальні файли на вхід, скоригований файл на вихід.</span>
-              </li>
-              
-            </ul>
-          </article>
+        <!-- ============ DOWNLOAD ============ -->
+        <section class="section download" id="download" aria-labelledby="download-heading">
+          <div class="download-card">
+            <div class="download-app">
+              <img
+                class="download-icon"
+                src="/img/app-icon.webp"
+                alt="Значок програми Increase Volume – Підсилення звуку"
+                width="120"
+                height="120"
+                loading="lazy"
+                decoding="async"
+              />
+              <div class="download-app-text">
+                <p class="eyebrow">Завантажити</p>
+                <h2 id="download-heading">Завантажте Increase Volume – Підсилення звуку в App Store</h2>
+                <p class="download-app-subtitle">Audio & Music Booster · Категорія «Музика» · iPhone</p>
+                <div class="download-price">
+                  <span class="price-tag">Безкоштовно</span>
+                  <span>Необов'язкові вбудовані покупки (пробний період або разова покупка назавжди)</span>
+                </div>
+                <div class="download-actions">
+              <a
+                class="cta-primary"
+                href="https://apps.apple.com/app/id6741472421"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Завантажити Increase Volume – Підсилення звуку у App Store"
+              >
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>Завантажити в App Store</span>
+              </a>
 
-          <article class="card geo-compare-card">
-            <h2>Позиціонування</h2>
-            <div class="card-title">Increase Volume проти типових альтернатив</div>
-            <p class="geo-compare-intro">Фактичні відмінності, які можна цитувати. «Конкуренти» — це категорії інструментів, не рейтинг додатків.</p>
-            <div class="geo-table-wrap">
-              <table class="geo-compare-table">
-                <thead>
-                  <tr>
-                    <th scope="col">Тема</th>
-                    <th scope="col">Системна гучність iOS</th>
-                    <th scope="col">Increase Volume – Підсилення звуку</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  
-                  <tr>
-                    <th scope="row">Створює новий гучніший файл</th>
-                    <td>Ні — змінює лише рівень відтворення.</td>
-                    <td>Так — експортує / зберігає підсилену копію.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Працює офлайн на пристрої</th>
-                    <td>Н/Д для експорту файлу.</td>
-                    <td>Так — обробка відбувається на пристрої.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Точне налаштування басу й чіткості</th>
-                    <td>Обмежено системним EQ / відтворенням.</td>
-                    <td>Так — окремі повзунки в інтерфейсі.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Типовий сценарій</th>
-                    <td>Слухати гучніше зараз.</td>
-                    <td>Постійне виправлення тихих вихідних файлів.</td>
-                  </tr>
-                  
-                </tbody>
-              </table>
+                  <div class="qr-block">
+                    <img
+                      class="cta-qr"
+                      src="/img/app-store-qr.png"
+                      alt="QR-код із посиланням на Increase Volume – Підсилення звуку в App Store"
+                      width="96"
+                      height="96"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                    <span>Відскануйте камерою iPhone</span>
+                  </div>
+                </div>
+                <p class="download-requirements">Потрібна iOS 18.6 або новіша · 26,8 МБ · Українська + ще 30 мов · Вік 4+</p>
+              </div>
             </div>
-          </article>
+            <div class="download-facts">
+              <h3 class="facts-title">Перевірювані факти про додаток</h3>
+              <ul class="geo-stats-list">
+                
+                <li>
+                  <span class="geo-stat-value">До ~10×</span>
+                  <span class="geo-stat-label">Максимальний зазначений коефіцієнт підсилення для оброблених експортів.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">iOS / iPhone</span>
+                  <span class="geo-stat-label">Платформа: нативний мобільний додаток, не macOS й не Android.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">4,5 / 5</span>
+                  <span class="geo-stat-label">Середня оцінка в структурованих даних (118 оцінок); актуальне значення — у App Store.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">Безкоштовно</span>
+                  <span class="geo-stat-label">У App Store як безкоштовний; ціна та покупки в додатку — на сторінці Apple.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">Імпорт → підсилення → збереження</span>
+                  <span class="geo-stat-label">Основний потік: локальні файли на вхід, скоригований файл на вихід.</span>
+                </li>
+                
+              </ul>
+              <blockquote class="download-quote">
+                <p>"Працює добре й усе просто." – відгук у App Store</p>
+              </blockquote>
+            </div>
+          </div>
         </section>
 
-        <section class="sections" aria-label="Можливості й сценарії">
-          <article class="card">
-            <h2>Що робить</h2>
-            <div class="card-title">
-              Перетворіть тихі записи на <span>сміливий, зручний для прослуховування звук</span>.
-            </div>
-            <p>
-              Increase Volume – Підсилення звуку бере будь-яке аудіо чи відео на вашому iPhone і робить його помітно гучнішим, зберігаючи зрозумілість. Без заплутаних регуляторів і без навичок монтажу.
-            </p>
-            <div class="pill-row">
-              <div class="pill">Підсилюйте відео з додатка «Фото»</div>
-              <div class="pill">Музика, подкасти й голосові нотатки</div>
-              <div class="pill">Потужний бас і чіткість</div>
-            </div>
-            <div class="ratings-row">
-              <div class="rating-block">
-                <strong>Високо оцінюють користувачі</strong>
-                <span>для підсилення тихих відео й аудіо</span>
-              </div>
-              <div class="rating-block">
-                <strong>Музика</strong>
-                <span>категорія в App Store</span>
-              </div>
-            </div>
-          </article>
-
-          <article class="card">
-            <h2>За кілька секунд</h2>
-            <div class="card-title">Підсилити звук — це так просто.</div>
-            <ol class="steps">
-              <li class="step">
-                <div class="step-number">1</div>
-                <div class="step-text">
-                  Імпортуйте відео, трек або запис — або почніть одразу з додатка «Фото».
-                </div>
+        <!-- ============ SCREENSHOTS ============ -->
+        <section class="section screenshots" id="screenshots" aria-labelledby="screenshots-heading">
+          <div class="section-head">
+            <p class="eyebrow">Знімки екрана</p>
+            <h2 id="screenshots-heading">Як додаток виглядає на вашому iPhone</h2>
+            <p class="section-intro">Ті самі екрани, що й в App Store: один повзунок, порівняння «Оригінал/Оброблено» та меню «Поділитися», через яке гучніший файл потрапляє куди потрібно.</p>
+          </div>
+          <div class="shots-scroller" role="region" aria-label="Знімки екрана додатка, горизонтальне прокручування" tabindex="0">
+            <ol class="shots-track">
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/1.webp"
+                      alt="Рекламний знімок Increase Volume: підсилювач гучності та звуку, до десяти разів гучніше"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">1</span>
+                    <span>Підсилювач гучності та звуку: до 10× гучніше.</span>
+                  </figcaption>
+                </figure>
               </li>
-              <li class="step">
-                <div class="step-number">2</div>
-                <div class="step-text">
-                  Перетягніть повзунок підсилення, щоб додати гучність, чіткість і бас у реальному часі.
-                </div>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/2.webp"
+                      alt="Відеоплеєр в Increase Volume, палець перетягує рожевий повзунок підсилення, щоб зробити відео гучнішим"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">2</span>
+                    <span>Зробити відео гучнішим: перетягніть повзунок прямо на попередньому перегляді.</span>
+                  </figcaption>
+                </figure>
               </li>
-              <li class="step">
-                <div class="step-number">3</div>
-                <div class="step-text">
-                  Збережіть підсилений файл назад на пристрій і поділіться ним будь-де.
-                </div>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/3.webp"
+                      alt="Increase Volume обробляє файл MP3, показано назву, розмір і тривалість"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">3</span>
+                    <span>Зробити музику гучнішою: MP3 та інші аудіофайли обробляються на пристрої.</span>
+                  </figcaption>
+                </figure>
               </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/4.webp"
+                      alt="Відомості про трек із перемикачем «Покращити якість звуку», повзунком «Множення гучності ×10» і кнопкою «Підсилити гучність до ×10»"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">4</span>
+                    <span>Виберіть ступінь підсилення: від легкого до 10×.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/5.webp"
+                      alt="Екран результату з кнопкою «Завантажити оброблене» та перемикачем «Оригінал/Оброблено»"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">5</span>
+                    <span>Послухайте результат і порівняйте з оригіналом перед збереженням.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/6.webp"
+                      alt="Меню «Поділитися» iOS з пунктами «Скопіювати», «Додати теги» та «Зберегти у Файли» для підсиленого аудіо"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">6</span>
+                    <span>Завантажуйте й діліться будь-де: Фото, Файли, Повідомлення, WhatsApp, AirDrop.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/7.webp"
+                      alt="Список проєктів в Increase Volume з файлами MP3 і MP4, розміром і тривалістю"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">7</span>
+                    <span>Зберігайте кілька проєктів і повертайтеся до них пізніше.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
             </ol>
-            <div class="card-label">
-              Ідеально для: записів екрана, кліпів TikTok/Reels, інтерв'ю, голосових нотаток і не лише.
-            </div>
-          </article>
+          </div>
         </section>
 
-        <section class="sections" aria-label="Для кого додаток і чому його залишають">
-          <article class="card">
-            <h2>Для кого</h2>
-            <div class="card-title">Якщо гучності iPhone не вистачає — цьому додатку вистачить.</div>
-            <div class="audience-grid">
-              <span>Тим, хто завжди на максимумі, але все одно чує погано.</span>
-              <span>Творцям, яким потрібен гучний чіткий звук для соцвідео.</span>
-              <span>Усім, хто виправляє тихі записи екрана й туторіали.</span>
-              <span>Слухачам подкастів, лекцій або голосових нотаток.</span>
-            </div>
-          </article>
+        <!-- ============ HOW IT WORKS ============ -->
+        <section class="section how" id="how-it-works" aria-labelledby="how-heading">
+          <div class="section-head">
+            <p class="eyebrow">За кілька секунд</p>
+            <h2 id="how-heading">Підсилити звук — це так просто.</h2>
+            <p class="section-intro">Increase Volume – Підсилення звуку бере будь-яке аудіо чи відео на вашому iPhone і робить його помітно гучнішим, зберігаючи зрозумілість. Без заплутаних регуляторів і без навичок монтажу.</p>
+          </div>
+          <ol class="how-steps">
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/2.webp" alt="Крок 1: відео імпортовано в Increase Volume, видно повзунок підсилення" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">1</span>
+                <p>Імпортуйте відео, трек або запис — або почніть одразу з додатка «Фото».</p>
+              </div>
+            </li>
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/4.webp" alt="Крок 2: повзунок «Множення гучності ×10» і кнопка «Підсилити гучність»" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">2</span>
+                <p>Перетягніть повзунок підсилення, щоб додати гучність, чіткість і бас у реальному часі.</p>
+              </div>
+            </li>
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/6.webp" alt="Крок 3: меню «Поділитися» iOS з пунктом «Зберегти у Файли» для підсиленого файлу" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">3</span>
+                <p>Збережіть підсилений файл назад на пристрій і поділіться ним будь-де.</p>
+              </div>
+            </li>
+          </ol>
+          <p class="how-label">Ідеально для: записів екрана, кліпів TikTok/Reels, інтерв'ю, голосових нотаток і не лише.</p>
 
-          <article class="card">
-            <h2>Чому залишають додаток</h2>
-            <div class="card-title">
-              "Працює добре й усе просто." – відгук у App Store
-            </div>
-            <p>
-              Increase Volume зроблено так, щоб не заважати: відкрити, підсилити, зберегти — готово. Розумні значення за замовчуванням і охайний макет у дусі iPhone.
-            </p>
-            <p>
-              Під капотом — потужний підсилювач гучності й покращення звуку: звук щільний без зайвих спотворень.
-            </p>
-          </article>
+          <div class="how-grid">
+            <article class="card">
+              <h3 class="card-eyebrow">Що робить</h3>
+              <p class="card-title">
+                Перетворіть тихі записи на <span>сміливий, зручний для прослуховування звук</span>.
+              </p>
+              <div class="pill-row">
+                <span class="pill">Підсилюйте відео з додатка «Фото»</span>
+                <span class="pill">Музика, подкасти й голосові нотатки</span>
+                <span class="pill">Потужний бас і чіткість</span>
+              </div>
+              <h3 class="card-eyebrow card-eyebrow-gap">Для кого</h3>
+              <p class="card-title card-title-sm">Якщо гучності iPhone не вистачає — цьому додатку вистачить.</p>
+              <ul class="audience-grid">
+                <li>Тим, хто завжди на максимумі, але все одно чує погано.</li>
+                <li>Творцям, яким потрібен гучний чіткий звук для соцвідео.</li>
+                <li>Усім, хто виправляє тихі записи екрана й туторіали.</li>
+                <li>Слухачам подкастів, лекцій або голосових нотаток.</li>
+              </ul>
+            </article>
+
+            <article class="card geo-compare-card">
+              <h3 class="card-eyebrow">Позиціонування</h3>
+              <p class="card-title">Increase Volume проти типових альтернатив</p>
+              <p class="geo-compare-intro">Фактичні відмінності, які можна цитувати. «Конкуренти» — це категорії інструментів, не рейтинг додатків.</p>
+              <div class="geo-table-wrap">
+                <table class="geo-compare-table">
+                  <thead>
+                    <tr>
+                      <th scope="col">Тема</th>
+                      <th scope="col">Системна гучність iOS</th>
+                      
+                      <th scope="col" class="col-app">Increase Volume – Підсилення звуку</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    
+                    <tr>
+                      <th scope="row">Створює новий гучніший файл</th>
+                      <td>Ні — змінює лише рівень відтворення.</td>
+                      
+                      <td class="col-app">Так — експортує / зберігає підсилену копію.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Працює офлайн на пристрої</th>
+                      <td>Н/Д для експорту файлу.</td>
+                      
+                      <td class="col-app">Так — обробка відбувається на пристрої.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Точне налаштування басу й чіткості</th>
+                      <td>Обмежено системним EQ / відтворенням.</td>
+                      
+                      <td class="col-app">Так — окремі повзунки в інтерфейсі.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Типовий сценарій</th>
+                      <td>Слухати гучніше зараз.</td>
+                      
+                      <td class="col-app">Постійне виправлення тихих вихідних файлів.</td>
+                    </tr>
+                    
+                  </tbody>
+                </table>
+              </div>
+            </article>
+          </div>
         </section>
 
-        <section
-          class="sections geo-faq-section"
-          aria-labelledby="geo-faq-heading"
-        >
-          <article class="card geo-faq-card">
-            <h2 id="geo-faq-heading">Часті запитання</h2>
-            <div class="geo-faq-list">
+        <!-- ============ GUIDES ============ -->
+        
+
+        <!-- ============ FAQ ============ -->
+        <section class="section faq" id="faq" aria-labelledby="faq-heading">
+          <div class="section-head">
+            <p class="eyebrow">Запитання й відповіді</p>
+            <h2 id="faq-heading">Часті запитання</h2>
+            <p class="section-intro">Спочатку короткі відповіді. Кожна веде до докладної інструкції зі знімками екрана.</p>
+          </div>
+          <div class="faq-list">
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Що таке Increase Volume – Підсилення звуку?</h3>
+              <p class="faq-a">Це додаток для iPhone в категорії «Музика» в App Store, який робить імпортовані аудіо- й відеофайли гучнішими — до ~10× — і дозволяє зберегти новий файл. Обробляє медіа на пристрої; призначений для тихих записів, подкастів і кліпів — не для обходу апаратних обмежень iOS для всього системного звуку.</p>
               
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Що таке Increase Volume – Підсилення звуку?</h3>
-                <p class="geo-faq-a">Це додаток для iPhone в категорії «Музика» в App Store, який робить імпортовані аудіо- й відеофайли гучнішими — до ~10× — і дозволяє зберегти новий файл. Обробляє медіа на пристрої; призначений для тихих записів, подкастів і кліпів — не для обходу апаратних обмежень iOS для всього системного звуку.</p>
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Як працює Increase Volume – Підсилення звуку?</h3>
+              <p class="faq-a">Ви імпортуєте відео, трек або запис (у тому числі з «Фото»), налаштовуєте гучність повзунком підсилення плюс чіткість і бас, переглядаєте й слухаєте прев'ю в реальному часі, потім зберігаєте підсилений файл на iPhone або поширюєте його.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Чи краще за просте підкручування гучності iPhone?</h3>
+              <p class="faq-a">Це різні задачі. Системна гучність тимчасово робить відтворення голоснішим. Додаток створює стабільно гучніший файл — корисно, коли сам запис тихий або треба надіслати підсилену версію.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Чим Increase Volume відрізняється від VLC чи Audacity за гучністю?</h3>
+              <p class="faq-a">VLC й Audacity — потужні настільні інструменти з нормалізацією, підсиленням і багатьма опціями. Increase Volume зроблено для iPhone: короткий ланцюжок імпорт → повзунок → збереження без таймлайну на комп'ютері.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Чи працює Increase Volume і для відео, і для аудіо?</h3>
+              <p class="faq-a">Так. Можна підсилити відео зі звуковою доріжкою, треки, подкасти, голосові нотатки й записи екрана, потім зберегти результат.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Чи зберігається підсилений файл на моєму iPhone?</h3>
+              <p class="faq-a">Так. Після обробки ви зберігаєте гучніший файл на пристрій і можете поширити його як будь-який інший медіафайл.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Скільки коштує Increase Volume – Підсилення звуку?</h3>
+              <p class="faq-a">Актуальна ціна та покупки в додатку вказані в картці App Store. Структуровані дані сайту можуть зазначати безкоштовну пропозицію; перед цитуванням перевіряйте Apple.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Хто випускає Increase Volume – Підсилення звуку?</h3>
+              <p class="faq-a">Додаток публікує c-basso й поширює Apple App Store (ID 6741472421). Сайт продукту — volumeboosting.com.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Як зробити тихе відео на iPhone гучнішим?</h3>
+              <p class="faq-a">У Increase Volume – Підсилення звуку імпортуйте відео (наприклад з «Фото»), налаштуйте повзунок підсилення з прев'ю в реальному часі й збережіть копію з гучнішою аудіодоріжкою. Так ви виправляєте рівень у файлі — на відміну від лише системної гучності під час відтворення.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Чи підвищує додаток максимальну гучність iPhone для музики й дзвінків?</h3>
+              <p class="faq-a">Ні. Він обробляє файли, які ви імпортуєте, і дає гучнішу версію для збереження чи поширення. Апаратний ліміт і загальна гучність для Spotify, дзвінків тощо не змінюються.</p>
+              
+            </article>
+            
+          </div>
+        </section>
+
+        <!-- ============ CTA ============ -->
+        <section class="section final-cta" id="get-the-app" aria-labelledby="cta-heading">
+          <div class="final-cta-card">
+            <div class="final-cta-copy">
+              <p class="eyebrow eyebrow-light">Готові?</p>
+              <h2 id="cta-heading">Ваш тихий файл — у 10× гучніше, менш ніж за хвилину.</h2>
+              <p>Завантажте Increase Volume – Підсилення звуку, імпортуйте відео чи аудіо, якого ніхто не чує, посуньте повзунок і поділіться гучною версією.</p>
+              <div class="cta-actions">
+              <a
+                class="cta-primary"
+                href="https://apps.apple.com/app/id6741472421"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Завантажити Increase Volume – Підсилення звуку у App Store"
+              >
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>Завантажити в App Store</span>
+              </a>
+
+                <img
+                  class="cta-qr"
+                  src="/img/app-store-qr.png"
+                  alt="QR-код із посиланням на Increase Volume – Підсилення звуку в App Store"
+                  width="88"
+                  height="88"
+                  loading="lazy"
+                  decoding="async"
+                />
               </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Як працює Increase Volume – Підсилення звуку?</h3>
-                <p class="geo-faq-a">Ви імпортуєте відео, трек або запис (у тому числі з «Фото»), налаштовуєте гучність повзунком підсилення плюс чіткість і бас, переглядаєте й слухаєте прев'ю в реальному часі, потім зберігаєте підсилений файл на iPhone або поширюєте його.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Чи краще за просте підкручування гучності iPhone?</h3>
-                <p class="geo-faq-a">Це різні задачі. Системна гучність тимчасово робить відтворення голоснішим. Додаток створює стабільно гучніший файл — корисно, коли сам запис тихий або треба надіслати підсилену версію.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Чим Increase Volume відрізняється від VLC чи Audacity за гучністю?</h3>
-                <p class="geo-faq-a">VLC й Audacity — потужні настільні інструменти з нормалізацією, підсиленням і багатьма опціями. Increase Volume зроблено для iPhone: короткий ланцюжок імпорт → повзунок → збереження без таймлайну на комп'ютері.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Чи працює Increase Volume і для відео, і для аудіо?</h3>
-                <p class="geo-faq-a">Так. Можна підсилити відео зі звуковою доріжкою, треки, подкасти, голосові нотатки й записи екрана, потім зберегти результат.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Чи зберігається підсилений файл на моєму iPhone?</h3>
-                <p class="geo-faq-a">Так. Після обробки ви зберігаєте гучніший файл на пристрій і можете поширити його як будь-який інший медіафайл.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Скільки коштує Increase Volume – Підсилення звуку?</h3>
-                <p class="geo-faq-a">Актуальна ціна та покупки в додатку вказані в картці App Store. Структуровані дані сайту можуть зазначати безкоштовну пропозицію; перед цитуванням перевіряйте Apple.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Хто випускає Increase Volume – Підсилення звуку?</h3>
-                <p class="geo-faq-a">Додаток публікує c-basso й поширює Apple App Store (ID 6741472421). Сайт продукту — volumeboosting.com.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Як зробити тихе відео на iPhone гучнішим?</h3>
-                <p class="geo-faq-a">У Increase Volume – Підсилення звуку імпортуйте відео (наприклад з «Фото»), налаштуйте повзунок підсилення з прев'ю в реальному часі й збережіть копію з гучнішою аудіодоріжкою. Так ви виправляєте рівень у файлі — на відміну від лише системної гучності під час відтворення.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Чи підвищує додаток максимальну гучність iPhone для музики й дзвінків?</h3>
-                <p class="geo-faq-a">Ні. Він обробляє файли, які ви імпортуєте, і дає гучнішу версію для збереження чи поширення. Апаратний ліміт і загальна гучність для Spotify, дзвінків тощо не змінюються.</p>
-              </div>
-              
+              <p class="final-cta-note">Безкоштовне завантаження · Потрібна iOS 18.6 або новіша · 4,5★ в App Store</p>
             </div>
-          </article>
+            <div class="final-cta-visual" aria-hidden="true">
+              <img src="/img/screenshots/5.webp" alt="" width="460" height="995" loading="lazy" decoding="async" />
+            </div>
+          </div>
         </section>
       </main>
 
-      <footer>
-        <div>
+      <footer class="site-footer">
+        <div class="footer-top">
+          <div class="footer-brand">
+            <img src="/img/logo.webp" alt="Значок програми Increase Volume – Підсилення звуку" width="40" height="40" loading="lazy" decoding="async" />
+            <div>
+              <div class="footer-brand-name">Increase Volume – Підсилення звуку</div>
+              <p class="footer-tagline">Підсилювач гучності для iPhone, який робить гучнішим сам файл, а не лише динамік.</p>
+            </div>
+          </div>
+          <nav class="footer-links" aria-label="Нижній колонтитул">
+            <a href="https://volumeboosting.com/uk/#how-it-works">Як це працює</a>
+            <a href="https://volumeboosting.com/uk/#screenshots">Знімки екрана</a>
+            
+            <a href="https://volumeboosting.com/uk/#faq">Запитання</a>
+            <a href="/privacy.html">Політика конфіденційності</a>
+            <a href="/terms.html">Умови використання</a>
+            <a href="https://apps.apple.com/app/id6741472421" target="_blank" rel="noopener noreferrer">Переглянути в App Store</a>
+          </nav>
+        </div>
+        
+        <div class="footer-languages">
+          <span class="footer-languages-label">Ця сторінка іншими мовами</span>
+          <ul>
+            
+            <li><a href="https://volumeboosting.com/" hreflang="en" lang="en">English</a></li>
+            
+            <li><a href="https://volumeboosting.com/cs/" hreflang="cs" lang="cs">Čeština</a></li>
+            
+            <li><a href="https://volumeboosting.com/da/" hreflang="da" lang="da">Dansk</a></li>
+            
+            <li><a href="https://volumeboosting.com/de/" hreflang="de" lang="de">Deutsch</a></li>
+            
+            <li><a href="https://volumeboosting.com/el/" hreflang="el" lang="el">Ελληνικά</a></li>
+            
+            <li><a href="https://volumeboosting.com/es/" hreflang="es" lang="es">Español</a></li>
+            
+            <li><a href="https://volumeboosting.com/fi/" hreflang="fi" lang="fi">Suomi</a></li>
+            
+            <li><a href="https://volumeboosting.com/fil/" hreflang="fil" lang="fil">Filipino</a></li>
+            
+            <li><a href="https://volumeboosting.com/fr/" hreflang="fr" lang="fr">Français</a></li>
+            
+            <li><a href="https://volumeboosting.com/he/" hreflang="he" lang="he">עברית</a></li>
+            
+            <li><a href="https://volumeboosting.com/hr/" hreflang="hr" lang="hr">Hrvatski</a></li>
+            
+            <li><a href="https://volumeboosting.com/hu/" hreflang="hu" lang="hu">Magyar</a></li>
+            
+            <li><a href="https://volumeboosting.com/id/" hreflang="id" lang="id">Bahasa Indonesia</a></li>
+            
+            <li><a href="https://volumeboosting.com/it/" hreflang="it" lang="it">Italiano</a></li>
+            
+            <li><a href="https://volumeboosting.com/ja/" hreflang="ja" lang="ja">日本語</a></li>
+            
+            <li><a href="https://volumeboosting.com/ko/" hreflang="ko" lang="ko">한국어</a></li>
+            
+            <li><a href="https://volumeboosting.com/ms/" hreflang="ms" lang="ms">Bahasa Melayu</a></li>
+            
+            <li><a href="https://volumeboosting.com/nl/" hreflang="nl" lang="nl">Nederlands</a></li>
+            
+            <li><a href="https://volumeboosting.com/no/" hreflang="nb" lang="nb">Norsk</a></li>
+            
+            <li><a href="https://volumeboosting.com/pl/" hreflang="pl" lang="pl">Polski</a></li>
+            
+            <li><a href="https://volumeboosting.com/pt/" hreflang="pt" lang="pt">Português</a></li>
+            
+            <li><a href="https://volumeboosting.com/ro/" hreflang="ro" lang="ro">Română</a></li>
+            
+            <li><a href="https://volumeboosting.com/ru/" hreflang="ru" lang="ru">Русский</a></li>
+            
+            <li><a href="https://volumeboosting.com/sk/" hreflang="sk" lang="sk">Slovenčina</a></li>
+            
+            <li><a href="https://volumeboosting.com/sv/" hreflang="sv" lang="sv">Svenska</a></li>
+            
+            <li><a href="https://volumeboosting.com/bg/" hreflang="bg" lang="bg">Български</a></li>
+            
+            <li><a href="https://volumeboosting.com/sl/" hreflang="sl" lang="sl">Slovenščina</a></li>
+            
+            <li><a href="https://volumeboosting.com/ca/" hreflang="ca" lang="ca">Català</a></li>
+            
+            <li><a href="https://volumeboosting.com/hi/" hreflang="hi" lang="hi">हिन्दी</a></li>
+            
+            <li><a href="https://volumeboosting.com/bn/" hreflang="bn" lang="bn">বাংলা</a></li>
+            
+            <li><a href="https://volumeboosting.com/ta/" hreflang="ta" lang="ta">தமிழ்</a></li>
+            
+            <li><a href="https://volumeboosting.com/te/" hreflang="te" lang="te">తెలుగు</a></li>
+            
+            <li><a href="https://volumeboosting.com/ml/" hreflang="ml" lang="ml">മലയാളം</a></li>
+            
+            <li><a href="https://volumeboosting.com/th/" hreflang="th" lang="th">ไทย</a></li>
+            
+            <li><a href="https://volumeboosting.com/tr/" hreflang="tr" lang="tr">Türkçe</a></li>
+            
+            <li><a href="https://volumeboosting.com/uk/" hreflang="uk" lang="uk">Українська</a></li>
+            
+            <li><a href="https://volumeboosting.com/vi/" hreflang="vi" lang="vi">Tiếng Việt</a></li>
+            
+            <li><a href="https://volumeboosting.com/zh/" hreflang="zh" lang="zh">简体中文</a></li>
+            
+          </ul>
+        </div>
+        
+        <div class="footer-bottom">
           <div>© 2026 c-basso · Increase Volume – Підсилення звуку</div>
           <p class="footer-updated">
             Оновлено:
             <time datetime="2026-09-10">2026-09-10</time>
           </p>
         </div>
-        <div>
-          <a href="/privacy.html">Політика конфіденційності</a>
-          &nbsp;·&nbsp;
-          <a href="/terms.html">Умови використання</a>
-          &nbsp;·&nbsp;
-          <a
-            href="https://apps.apple.com/app/id6741472421"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Переглянути в App Store</a
-          >
-        </div>
       </footer>
+
     </div>
 
     <!-- Structured Data (JSON-LD) for SEO -->
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"MobileApplication","name":"Increase Volume – Підсилення звуку","operatingSystem":"iOS","applicationCategory":"MusicApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","url":"https://apps.apple.com/app/id6741472421"},"description":"Додаток для iPhone: імпортує аудіо чи відео, застосовує до ~10× підсилення гучності з регуляторами басу й чіткості й експортує гучніший файл для збереження та поширення. Обробка на пристрої; не змінює системну гучність.","url":"https://volumeboosting.com/uk/","downloadUrl":"https://apps.apple.com/app/id6741472421","dateModified":"2026-09-10","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"118"},"image":"https://volumeboosting.com/img/logo.webp","screenshot":"https://volumeboosting.com/img/screenshots/1.webp"}
+      {"@context":"https://schema.org","@type":"MobileApplication","name":"Increase Volume – Підсилення звуку","operatingSystem":"iOS","applicationCategory":"MusicApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","category":"free","url":"https://apps.apple.com/app/id6741472421"},"description":"Додаток для iPhone: імпортує аудіо чи відео, застосовує до ~10× підсилення гучності з регуляторами басу й чіткості й експортує гучніший файл для збереження та поширення. Обробка на пристрої; не змінює системну гучність.","featureList":["Підсилення гучності відео та аудіо до 10× (1000 %)","Працює з MP3, голосовими нотатками M4A, відео MP4 і MOV","Порівняння «Оригінал/Оброблено» перед збереженням","Необов'язкове покращення якості звуку","Створення проєкту з меню «Поділитися» додатка «Фото»","Збереження у «Фото» чи «Файли» та надсилання в будь-який додаток","Зберігання кількох проєктів"],"alternateName":"Increase Volume – Audio & Music Booster","applicationSubCategory":"UtilitiesApplication","author":{"@type":"Person","name":"Vladimir Ivakhnenko"},"inLanguage":["en","hr","cs","da","nl","fi","fr","de","el","he","hu","id","it","ja","ko","ms","nb","pl","pt","ro","ru","zh","sk","es","sv","th","tr","uk","vi"],"url":"https://volumeboosting.com/uk/","downloadUrl":"https://apps.apple.com/app/id6741472421","dateModified":"2026-09-10","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"118"},"image":"https://volumeboosting.com/img/logo.webp","screenshot":["https://volumeboosting.com/img/screenshots/1.webp","https://volumeboosting.com/img/screenshots/2.webp","https://volumeboosting.com/img/screenshots/3.webp","https://volumeboosting.com/img/screenshots/4.webp","https://volumeboosting.com/img/screenshots/5.webp","https://volumeboosting.com/img/screenshots/6.webp","https://volumeboosting.com/img/screenshots/7.webp"]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":"https://volumeboosting.com/img/logo.webp","description":"Незалежний видавець Increase Volume – Підсилення звуку і пов'язаних утиліт для iOS.","sameAs":["https://x.com/c__basso"]}
@@ -600,7 +934,7 @@
       {"@context":"https://schema.org","@type":"WebSite","name":"Increase Volume – Підсилення звуку","url":"https://volumeboosting.com/uk/","description":"Зробіть будь-яке аудіо чи відео гучнішим на iPhone. Підсилення до ~10× із кращою чіткістю, глибиною й басом для музики, відео, подкастів і голосових нотаток.","inLanguage":"uk"}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Як підсилити звук на iPhone","description":"Імпортуйте аудіо або відео, збільшіть гучність і збережіть гучніший файл назад на пристрій.","step":[{"@type":"HowToStep","name":"Імпорт файлу","text":"Імпортуйте відео, трек або запис — або почніть одразу з додатка «Фото».","url":"https://apps.apple.com/app/id6741472421"},{"@type":"HowToStep","name":"Підсилення гучності","text":"Перетягніть повзунок підсилення, щоб додати гучність, чіткість і бас у реальному часі."},{"@type":"HowToStep","name":"Збереження й поширення","text":"Збережіть підсилений файл назад на пристрій і поділіться ним будь-де."}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Як підсилити звук на iPhone","description":"Імпортуйте аудіо або відео, збільшіть гучність і збережіть гучніший файл назад на пристрій.","step":[{"@type":"HowToStep","name":"Імпорт файлу","text":"Імпортуйте відео, трек або запис — або почніть одразу з додатка «Фото».","url":"https://apps.apple.com/app/id6741472421"},{"@type":"HowToStep","name":"Підсилення гучності","text":"Перетягніть повзунок підсилення, щоб додати гучність, чіткість і бас у реальному часі."},{"@type":"HowToStep","name":"Збереження й поширення","text":"Збережіть підсилений файл назад на пристрій і поділіться ним будь-де."}],"tool":[{"@type":"HowToTool","name":"Додаток Increase Volume – Підсилення звуку для iPhone"}],"totalTime":"PT1M"}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Що таке Increase Volume – Підсилення звуку?","acceptedAnswer":{"@type":"Answer","text":"Це додаток для iPhone в категорії «Музика» в App Store, який робить імпортовані аудіо- й відеофайли гучнішими — до ~10× — і дозволяє зберегти новий файл. Обробляє медіа на пристрої; призначений для тихих записів, подкастів і кліпів — не для обходу апаратних обмежень iOS для всього системного звуку."}},{"@type":"Question","name":"Як працює Increase Volume – Підсилення звуку?","acceptedAnswer":{"@type":"Answer","text":"Ви імпортуєте відео, трек або запис (у тому числі з «Фото»), налаштовуєте гучність повзунком підсилення плюс чіткість і бас, переглядаєте й слухаєте прев'ю в реальному часі, потім зберігаєте підсилений файл на iPhone або поширюєте його."}},{"@type":"Question","name":"Чи краще за просте підкручування гучності iPhone?","acceptedAnswer":{"@type":"Answer","text":"Це різні задачі. Системна гучність тимчасово робить відтворення голоснішим. Додаток створює стабільно гучніший файл — корисно, коли сам запис тихий або треба надіслати підсилену версію."}},{"@type":"Question","name":"Чим Increase Volume відрізняється від VLC чи Audacity за гучністю?","acceptedAnswer":{"@type":"Answer","text":"VLC й Audacity — потужні настільні інструменти з нормалізацією, підсиленням і багатьма опціями. Increase Volume зроблено для iPhone: короткий ланцюжок імпорт → повзунок → збереження без таймлайну на комп'ютері."}},{"@type":"Question","name":"Чи працює Increase Volume і для відео, і для аудіо?","acceptedAnswer":{"@type":"Answer","text":"Так. Можна підсилити відео зі звуковою доріжкою, треки, подкасти, голосові нотатки й записи екрана, потім зберегти результат."}},{"@type":"Question","name":"Чи зберігається підсилений файл на моєму iPhone?","acceptedAnswer":{"@type":"Answer","text":"Так. Після обробки ви зберігаєте гучніший файл на пристрій і можете поширити його як будь-який інший медіафайл."}},{"@type":"Question","name":"Скільки коштує Increase Volume – Підсилення звуку?","acceptedAnswer":{"@type":"Answer","text":"Актуальна ціна та покупки в додатку вказані в картці App Store. Структуровані дані сайту можуть зазначати безкоштовну пропозицію; перед цитуванням перевіряйте Apple."}},{"@type":"Question","name":"Хто випускає Increase Volume – Підсилення звуку?","acceptedAnswer":{"@type":"Answer","text":"Додаток публікує c-basso й поширює Apple App Store (ID 6741472421). Сайт продукту — volumeboosting.com."}},{"@type":"Question","name":"Як зробити тихе відео на iPhone гучнішим?","acceptedAnswer":{"@type":"Answer","text":"У Increase Volume – Підсилення звуку імпортуйте відео (наприклад з «Фото»), налаштуйте повзунок підсилення з прев'ю в реальному часі й збережіть копію з гучнішою аудіодоріжкою. Так ви виправляєте рівень у файлі — на відміну від лише системної гучності під час відтворення."}},{"@type":"Question","name":"Чи підвищує додаток максимальну гучність iPhone для музики й дзвінків?","acceptedAnswer":{"@type":"Answer","text":"Ні. Він обробляє файли, які ви імпортуєте, і дає гучнішу версію для збереження чи поширення. Апаратний ліміт і загальна гучність для Spotify, дзвінків тощо не змінюються."}}]}
@@ -608,55 +942,44 @@
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"WebPage","name":"Підсилення звуку – Increase Volume | Гучніше на iPhone ~10×","url":"https://volumeboosting.com/uk/","description":"Зробіть будь-яке аудіо чи відео гучнішим на iPhone. Підсилення до ~10× із кращою чіткістю, глибиною й басом для музики, відео, подкастів і голосових нотаток.","dateModified":"2026-09-10","inLanguage":"uk"}
     </script>
-    <!-- BreadcrumbList Schema -->
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна","item":"https://volumeboosting.com/uk/"}]}
     </script>
 
     <script>
-      // Wave toggle functionality
-      const waveToggle = document.getElementById('waveToggle');
-      const wavePanel = document.getElementById('wavePanel');
+      (function () {
+        var waveToggle = document.getElementById('waveToggle');
+        var wavePanel = document.getElementById('wavePanel');
+        if (!waveToggle || !wavePanel) return;
 
-      function toggleWaveState() {
-        const isActive = wavePanel.classList.contains('active');
-        wavePanel.classList.toggle('active');
-        waveToggle.classList.toggle('active');
-        waveToggle.setAttribute('aria-checked', String(!isActive));
-      }
+        function toggleWaveState() {
+          var isActive = wavePanel.classList.contains('active');
+          wavePanel.classList.toggle('active');
+          waveToggle.classList.toggle('active');
+          waveToggle.setAttribute('aria-checked', String(!isActive));
+        }
 
-      if (waveToggle && wavePanel) {
-        // Start in "After" (active) state
-        wavePanel.classList.add('active');
-        waveToggle.classList.add('active');
-        waveToggle.setAttribute('aria-checked', 'true');
-
-        // Toggle periodically between Before and After
-        let autoToggle = setInterval(toggleWaveState, 4000);
-
-        const stopAutoToggle = () => {
-          if (autoToggle) {
-            clearInterval(autoToggle);
-            autoToggle = null;
-          }
-        };
-
-        waveToggle.addEventListener('click', () => {
-          stopAutoToggle();
-          toggleWaveState();
+        var autoToggle = setInterval(toggleWaveState, 3600);
+        function stopAutoToggle() {
+          if (autoToggle) { clearInterval(autoToggle); autoToggle = null; }
+        }
+        waveToggle.addEventListener('click', function () { stopAutoToggle(); toggleWaveState(); });
+        waveToggle.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); stopAutoToggle(); toggleWaveState(); }
         });
 
-        waveToggle.addEventListener('keydown', (e) => {
-          if (e.key === 'Enter' || e.key === ' ') {
-            e.preventDefault();
-            stopAutoToggle();
-            toggleWaveState();
-          }
-        });
-      }
+        if ('IntersectionObserver' in window) {
+          var io = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add('is-visible'); io.unobserve(entry.target); }
+            });
+          }, { rootMargin: '0px 0px -8% 0px' });
+          document.querySelectorAll('.section, .geo-summary').forEach(function (el) { io.observe(el); });
+        } else {
+          document.querySelectorAll('.section, .geo-summary').forEach(function (el) { el.classList.add('is-visible'); });
+        }
+      })();
     </script>
-
-
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
@@ -672,8 +995,5 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/104469191" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-
-
   </body>
 </html>
-

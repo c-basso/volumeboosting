@@ -46,13 +46,34 @@
     "footnote_item4": "klipy ze sociálních sítí",
     "footnote_last_joiner": " a ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Zesílení zvuku na iPhonu — zesílení hlasitosti audia a videa"
+    "device_image_alt": "Increase Volume – Zesílení zvuku na iPhonu — zesílení hlasitosti audia a videa",
+    "cta_secondary_link": "Podívej se, jak to funguje",
+    "proof_aria": "Fakta o aplikaci",
+    "proof": [
+      {
+        "value": "4,5★",
+        "label": "118 hodnocení v App Store"
+      },
+      {
+        "value": "10×",
+        "label": "maximální zesílení"
+      },
+      {
+        "value": "Audio + video",
+        "label": "MP3, MP4, MOV, hlasové poznámky"
+      },
+      {
+        "value": "V zařízení",
+        "label": "nic se nikam nenahrává"
+      }
+    ]
   },
   "wave": {
     "before_label": "Před",
     "after_label": "Po",
     "before_text": "Tichý, plochý původní zvuk",
-    "after_text": "Zesílený, plný a čistý výstup"
+    "after_text": "Zesílený, plný a čistý výstup",
+    "toggle_aria": "Přepnout mezi původní a zesílenou křivkou zvuku"
   },
   "sections": {
     "features_uses_aria": "Funkce a použití",
@@ -157,7 +178,11 @@
     "last_updated_label": "Stránka naposledy aktualizována:",
     "privacy_link": "Zásady ochrany osobních údajů",
     "terms_link": "Podmínky použití",
-    "app_store_link_text": "Zobrazit v App Store"
+    "app_store_link_text": "Zobrazit v App Store",
+    "tagline": "Zesilovač hlasitosti pro iPhone, který zesílí samotný soubor, ne jen reproduktor.",
+    "links_aria": "Zápatí",
+    "guides_link_text": "Návody",
+    "languages_label": "Tato stránka v dalších jazycích"
   },
   "seo": {
     "breadcrumb_home": "Domů",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "Aplikace pro iPhone importuje audio nebo video, aplikuje zesílení až zhruba ~10× s ovládáním basů a čistoty a exportuje hlasitější soubor k uložení a sdílení. Zpracování na zařízení; nezesiluje systémově zvuk všech aplikací."
+        "description": "Aplikace pro iPhone importuje audio nebo video, aplikuje zesílení až zhruba ~10× s ovládáním basů a čistoty a exportuje hlasitější soubor k uložení a sdílení. Zpracování na zařízení; nezesiluje systémově zvuk všech aplikací.",
+        "featureList": [
+          "Zesílení hlasitosti videa a audia až 10× (1000 %)",
+          "Funguje s MP3, hlasovými poznámkami M4A a videem MP4 a MOV",
+          "Porovnání Původní/Zpracované před uložením",
+          "Volitelné vylepšení kvality zvuku",
+          "Vytvoření projektu z panelu sdílení aplikace Fotky",
+          "Uložení do Fotek nebo Souborů a sdílení do libovolné aplikace",
+          "Uchování více projektů"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "Uložení a sdílení",
             "text": "Ulož zesílený soubor zpět do zařízení a sdílej ho kamkoliv."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Aplikace Increase Volume – Zesílení zvuku pro iPhone"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Hlavní navigace",
+    "how_it_works": "Jak to funguje",
+    "screenshots": "Snímky obrazovky",
+    "guides": "Návody",
+    "faq": "FAQ",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "Stáhnout",
+    "title": "Stáhni si Increase Volume – Zesílení zvuku z App Store",
+    "subtitle": "Audio & Music Booster · Kategorie Hudba · iPhone",
+    "price": "Zdarma",
+    "price_note": "Volitelné nákupy v aplikaci (zkušební verze zdarma nebo jednorázová doživotní licence)",
+    "rating_line": "4,5 ★ · 118 hodnocení v App Store",
+    "qr_alt": "QR kód s odkazem na Increase Volume – Zesílení zvuku v App Store",
+    "qr_label": "Naskenuj kamerou iPhonu",
+    "requirements": "Vyžaduje iOS 18.6 nebo novější · 26,8 MB · Čeština + 30 dalších jazyků · Věk 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Snímky obrazovky",
+    "title": "Jak aplikace vypadá na tvém iPhonu",
+    "intro": "Stejné obrazovky, jaké uvidíš v App Store: jeden jezdec, porovnání Původní/Zpracované a panel sdílení, který hlasitější soubor pošle kamkoliv potřebuješ.",
+    "aria": "Snímky obrazovky aplikace, posouvej vodorovně",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Propagační snímek Increase Volume: zesilovač hlasitosti a zvuku, až desetkrát hlasitěji",
+        "caption": "Zesilovač hlasitosti a zvuku: až 10× hlasitěji."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Přehrávač videa v Increase Volume, prst posouvá růžový jezdec zesílení, aby bylo video hlasitější",
+        "caption": "Zesil video: posuň jezdec přímo v náhledu videa."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume zpracovává soubor MP3 a zobrazuje název, velikost a délku",
+        "caption": "Zesil hudbu: MP3 a další zvukové soubory se zpracovávají v zařízení."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Detail skladby s přepínačem „Vylepšit kvalitu zvuku“, jezdcem „Násobek hlasitosti ×10“ a tlačítkem „Zesílit hlasitost na ×10“",
+        "caption": "Vyber míru zesílení: od jemného přidání až po 10×."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Obrazovka výsledku s tlačítkem „Stáhnout zpracované“ a přepínačem Původní/Zpracované",
+        "caption": "Poslechni si výsledek a před uložením ho porovnej s originálem."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "Panel sdílení iOS s volbami Kopírovat, Přidat tagy a Uložit do Souborů pro zesílený zvuk",
+        "caption": "Stáhni a sdílej kamkoliv: Fotky, Soubory, Zprávy, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Seznam projektů v Increase Volume se soubory MP3 a MP4, jejich velikostí a délkou",
+        "caption": "Ukládej více projektů a vrať se k nim později."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "Krok 1: video importované do Increase Volume s viditelným jezdcem zesílení",
+    "step_2_alt": "Krok 2: jezdec „Násobek hlasitosti ×10“ a tlačítko „Zesílit hlasitost“",
+    "step_3_alt": "Krok 3: panel sdílení iOS s volbou „Uložit do Souborů“ pro zesílený soubor"
+  },
+  "faq_section": {
+    "eyebrow": "FAQ",
+    "intro": "Nejdřív stručné odpovědi. Každá odkazuje na podrobný návod se snímky obrazovky.",
+    "learn_more_label": "Zjistit více"
+  },
+  "cta": {
+    "eyebrow": "Můžeme?",
+    "title": "Tvůj tichý soubor 10× hlasitěji, do jedné minuty.",
+    "text": "Stáhni si Increase Volume – Zesílení zvuku, importuj video nebo nahrávku, kterou nikdo neslyší, posuň jezdec a sdílej hlasitou verzi.",
+    "note": "Stažení zdarma · Vyžaduje iOS 18.6 nebo novější · 4,5★ v App Store"
   }
 }

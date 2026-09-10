@@ -46,13 +46,34 @@
     "footnote_item4": "社交短视频",
     "footnote_last_joiner": "以及",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – 声音增强 在 iPhone 上 — 增强音频与视频的音量"
+    "device_image_alt": "Increase Volume – 声音增强 在 iPhone 上 — 增强音频与视频的音量",
+    "cta_secondary_link": "看看如何使用",
+    "proof_aria": "应用信息",
+    "proof": [
+      {
+        "value": "4.5★",
+        "label": "App Store 118 个评分"
+      },
+      {
+        "value": "10×",
+        "label": "最大音量倍数"
+      },
+      {
+        "value": "音频 + 视频",
+        "label": "MP3、MP4、MOV、语音备忘录"
+      },
+      {
+        "value": "本地处理",
+        "label": "不上传任何文件"
+      }
+    ]
   },
   "wave": {
     "before_label": "处理前",
     "after_label": "处理后",
     "before_text": "原始音频偏轻、缺乏动态",
-    "after_text": "增强后输出饱满、清晰"
+    "after_text": "增强后输出饱满、清晰",
+    "toggle_aria": "在原始波形与增强后波形之间切换"
   },
   "sections": {
     "features_uses_aria": "功能与用途",
@@ -157,7 +178,11 @@
     "last_updated_label": "页面最后更新：",
     "privacy_link": "隐私政策",
     "terms_link": "使用条款",
-    "app_store_link_text": "在 App Store 查看"
+    "app_store_link_text": "在 App Store 查看",
+    "tagline": "让文件本身更响，而不只是扬声器——iPhone 音量增强工具。",
+    "links_aria": "页脚",
+    "guides_link_text": "指南",
+    "languages_label": "查看其他语言版本"
   },
   "seo": {
     "breadcrumb_home": "首页",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "在 iPhone 上导入音频或视频，提供最高约 ~10× 响度并带低音与清晰度控制，导出更响的文件以便保存与分享。本地处理；不会改变系统音量。"
+        "description": "在 iPhone 上导入音频或视频，提供最高约 ~10× 响度并带低音与清晰度控制，导出更响的文件以便保存与分享。本地处理；不会改变系统音量。",
+        "featureList": [
+          "将视频和音频音量最高提升 10×（1000%）",
+          "支持 MP3、M4A 语音备忘录、MP4 和 MOV 视频",
+          "保存前进行「原始／处理后」对比",
+          "可选的音质改善",
+          "从「照片」的共享表单直接创建项目",
+          "存储到「照片」或「文件」，并分享到任意 App",
+          "保留多个项目"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "保存与分享",
             "text": "将增强后的文件保存回设备并分享到任意位置。"
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "iPhone 应用 Increase Volume – 声音增强"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "主导航",
+    "how_it_works": "使用方法",
+    "screenshots": "截图",
+    "guides": "指南",
+    "faq": "常见问题",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "下载",
+    "title": "在 App Store 获取 Increase Volume – 声音增强",
+    "subtitle": "Audio & Music Booster · 「音乐」类别 · iPhone",
+    "price": "免费",
+    "price_note": "可选的 App 内购买（免费试用，或一次性买断的终身方案）",
+    "rating_line": "4.5 ★ · App Store 118 个评分",
+    "qr_alt": "指向 App Store 中 Increase Volume – 声音增强 的二维码",
+    "qr_label": "用 iPhone 相机扫码",
+    "requirements": "需要 iOS 18.6 或更高版本 · 26.8 MB · 简体中文及其他 30 种语言 · 4+"
+  },
+  "screenshots": {
+    "eyebrow": "截图",
+    "title": "应用在 iPhone 上的实际界面",
+    "intro": "与 App Store 中相同的界面：一个滑块、「原始／处理后」对比，以及能把更响的文件送到任何位置的共享表单。",
+    "aria": "应用截图，横向滚动",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Increase Volume 宣传图：音量增强器与声音放大器，最高提升十倍",
+        "caption": "音量增强器与声音放大器：最高提升 10×。"
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Increase Volume 中的视频播放器，手指拖动粉色增强滑块让视频更大声",
+        "caption": "让视频更大声：直接在预览上拖动滑块。"
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume 正在处理 MP3 文件，显示文件名、大小和时长",
+        "caption": "让音乐更大声：MP3 等音频文件在设备本地处理。"
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "曲目详情界面，包含「改善音质」开关、「音量倍数 ×10」滑块和「增强至 ×10」按钮",
+        "caption": "选择增强幅度：从轻微提升到 10×。"
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "结果界面，包含「下载处理后文件」按钮和「原始／处理后」切换",
+        "caption": "试听处理结果，保存前与原始版本对比。"
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "iOS 共享表单，显示拷贝、添加标签和存储到「文件」等选项",
+        "caption": "下载并分享到任意位置：照片、文件、信息、WhatsApp、AirDrop。"
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Increase Volume 项目列表，显示 MP3 和 MP4 文件及其大小与时长",
+        "caption": "保存多个项目，随时回来继续。"
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "第 1 步：视频已导入 Increase Volume，可见增强滑块",
+    "step_2_alt": "第 2 步：「音量倍数 ×10」滑块与「增强音量」按钮",
+    "step_3_alt": "第 3 步：iOS 共享表单，将增强后的文件「存储到文件」"
+  },
+  "faq_section": {
+    "eyebrow": "常见问题",
+    "intro": "先给出简短回答，每条都链接到带截图的完整指南。",
+    "learn_more_label": "了解更多"
+  },
+  "cta": {
+    "eyebrow": "准备好了吗？",
+    "title": "把太小声的文件放大 10×，不到一分钟。",
+    "text": "下载 Increase Volume – 声音增强，导入没人听得清的视频或音频，拖动滑块，然后分享更响亮的版本。",
+    "note": "免费下载 · 需要 iOS 18.6 或更高版本 · App Store 评分 4.5★"
   }
 }

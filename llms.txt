@@ -1,28 +1,49 @@
-# Increase Volume – Sound Boost
+# Increase Volume
 
-> Make any audio or video louder on iPhone. Boost volume up to ~10× while enhancing clarity, depth, and bass for music, videos, podcasts, and voice memos.
+> Make any video, MP3 or voice memo up to 10× louder on iPhone. Increase Volume boosts the file itself, keeps it clear and saves a copy you can share. Free app.
 
 ## Entity snapshot
-- Name: Increase Volume – Sound Boost
-- Category: iOS utility app (audio and video loudness enhancement)
-- Primary use case: raise volume on quiet local media files on iPhone
-- Core workflow: import -> boost -> preview -> save
+- Name: Increase Volume (App Store title: "Increase Volume Sound", subtitle "Audio & Music Booster")
+- Category: iOS app, App Store categories Music and Utilities (audio and video loudness enhancement)
+- Primary use case: make quiet local video and audio files on iPhone louder and save a boosted copy
+- Core workflow: import (Photos, Files, or share sheet) -> set boost (up to x10) -> compare Original/Processed -> Download Processed -> share
+- Not a system-wide speaker booster: it changes the file, not the iPhone hardware volume limit
 - App Store listing: https://apps.apple.com/app/id6741472421
 - App Store id: 6741472421
+- Publisher: Vladimir Ivakhnenko (c-basso)
 
 ## By the numbers
-- Maximum loudness claim: up to 10x boost
+- Maximum boost: up to 10x (1000%) volume multiplication
+- App Store rating: 4.5 out of 5 from 118 ratings
+- Requires iOS 18.6 or later; iPhone only; 26.8 MB download
+- App localized in 31 languages
+- Price: free download with in-app purchases (subscription with free trial, or one-time lifetime plan)
 - Website locales: 37 language-specific pages
-- Primary platform: iPhone (iOS)
 - Public website: https://volumeboosting.com/
 - Last website build date: 2026-09-10
 
 ## Main sections
-- [Home](https://volumeboosting.com/): Product overview, use cases, screenshots, and App Store link
-- [FAQ](https://volumeboosting.com/#geo-faq-heading): Direct answers to common product questions
+- [Home](https://volumeboosting.com/): Product overview, screenshots, how it works, guides, FAQ, and App Store link
+- [FAQ](https://volumeboosting.com/#faq): Direct answers to common product questions
+- [Guides](https://volumeboosting.com/guides/): Step-by-step how-to articles, one per use case
 - [Localized pages](https://volumeboosting.com/): Alternate language landing pages
 - [Privacy policy](https://volumeboosting.com/privacy.html): Data and privacy details
 - [Terms of service](https://volumeboosting.com/terms.html): Legal terms
+
+## How-to guides (English)
+- [All guides](https://volumeboosting.com/guides/)
+- [How to make a video louder on iPhone](https://volumeboosting.com/guides/how-to-make-a-video-louder-on-iphone/): Make a quiet video louder on iPhone in under a minute. What Photos and iMovie can do, their limits, and how to boost any video up to 10× with Increase Volume.
+- [How to make a screen recording louder on iPhone](https://volumeboosting.com/guides/how-to-make-a-screen-recording-louder-on-iphone/): iPhone screen recordings often come out too quiet. Learn why, how to record louder next time, and how to boost an existing recording 10× with Increase Volume.
+- [How to increase the volume of a voice memo on iPhone](https://volumeboosting.com/guides/how-to-increase-voice-memo-volume-on-iphone/): Voice Memos’ Enhance Recording cleans noise but never makes the file louder. Learn how to boost a quiet voice memo up to 10× and save it with Increase Volume.
+- [How to make an MP3 louder on iPhone](https://volumeboosting.com/guides/how-to-make-mp3-louder-on-iphone/): Have a quiet MP3, M4A or WAV on your iPhone? Boost it up to 10× and save a louder copy with Increase Volume, entirely on the phone. Steps, safe levels and FAQs.
+- [How to make a TikTok video louder before you post it](https://volumeboosting.com/guides/how-to-make-a-tiktok-video-louder/): TikTok and Reels squash quiet audio even further. Boost your clip 2–5× on iPhone before uploading with Increase Volume so your voice is heard on every phone.
+- [How to boost a video's volume straight from the Photos app](https://volumeboosting.com/guides/how-to-boost-video-volume-from-the-photos-app/): Photos has no volume slider, but you can boost any video without leaving it: tap Share, pick Increase Volume, slide to 10× and save the louder copy to Photos.
+- [iMovie's volume limit (about 500%) and how to go beyond it](https://volumeboosting.com/guides/imovie-volume-limit-how-to-boost-video-beyond-500-percent/): iMovie on iPhone stops at about 500% clip volume. When that is not enough, Increase Volume takes the same video to 10× with one slider, no project or re-export.
+- [How to make a WhatsApp voice message louder on iPhone](https://volumeboosting.com/guides/how-to-make-a-whatsapp-voice-message-louder/): Quiet WhatsApp voice notes on iPhone: first rule out the proximity-sensor earpiece switch, then export the audio and boost it up to 10× with Increase Volume.
+- [How to make a video louder without losing quality](https://volumeboosting.com/guides/how-to-make-a-video-louder-without-losing-quality/): Boosting volume causes clipping if you overdo it. Learn how gain works, how much boost is safe, and how to use the Original/Processed check in Increase Volume.
+- [Why is my iPhone video so quiet? Causes and how to fix it](https://volumeboosting.com/guides/why-is-my-iphone-video-so-quiet/): Quiet iPhone video usually comes from mic distance, a covered microphone, wind, Bluetooth or a headphone-safety limit. Find the cause, then boost the file 10×.
+- [How to make music louder on iPhone](https://volumeboosting.com/guides/how-to-make-music-louder-on-iphone/): Songs too quiet on iPhone? Check Sound Check, EQ and headphone limits first, then make your own MP3s and recordings up to 10× louder with Increase Volume.
+- [How to make a podcast or audiobook louder on iPhone](https://volumeboosting.com/guides/how-to-make-a-podcast-or-audiobook-louder-on-iphone/): Quiet podcast episode, audiobook chapter or lecture file? Use your player's voice boost for streams, and boost downloaded files up to 10× with Increase Volume.
 
 ## Language pages
 - [en](https://volumeboosting.com/)
@@ -65,17 +86,23 @@
 - [zh](https://volumeboosting.com/zh/)
 
 ## LLM-ready Q&A facts
-### What is Increase Volume – Sound Boost?
-Increase Volume – Sound Boost is an iPhone app that increases loudness for quiet audio and video files and then exports a louder version.
+### What is Increase Volume?
+Increase Volume is an iPhone app that increases loudness for quiet audio and video files (up to 10x) and exports a louder copy you can save and share.
 
-### How does Increase Volume – Sound Boost work?
-The app workflow is import media, apply loudness enhancement, preview the result, and save the boosted output.
+### How does Increase Volume work?
+Import a video or audio file, drag the "Volume multiplication" slider (up to x10), optionally enable "Improve Audio Quality", compare Original and Processed, then tap "Download Processed" and share or save the file.
 
 ### How much can it increase loudness?
-The product claim is up to 10x volume boost, depending on source material quality and headroom.
+Up to 10x (1000%) volume multiplication, which is roughly twice the ceiling of iMovie on iPhone (about 500%). Results depend on how much headroom the source recording has.
 
 ### What media types is it used for?
-It is used for music tracks, podcasts, voice notes, and video clips that are difficult to hear at normal device volume.
+Videos from Photos (including screen recordings and social clips), MP3 and other audio files, voice memos, podcasts, audiobooks, and voice messages saved from WhatsApp or Telegram.
+
+### Does it make the iPhone speaker louder?
+No. It processes files. It does not raise the hardware volume limit of the iPhone speaker or change system-wide playback volume.
+
+### Is my audio uploaded anywhere?
+Processing runs on the iPhone; there is no upload step in the workflow.
 
 ### Where can users download it?
 Users can download it from the Apple App Store at https://apps.apple.com/app/id6741472421.

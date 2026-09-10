@@ -46,13 +46,34 @@
     "footnote_item4": "clipuri pentru rețele sociale",
     "footnote_last_joiner": " și ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Amplificare sunet pe iPhone — amplifică volumul audio și video"
+    "device_image_alt": "Increase Volume – Amplificare sunet pe iPhone — amplifică volumul audio și video",
+    "cta_secondary_link": "Vezi cum funcționează",
+    "proof_aria": "Date despre aplicație",
+    "proof": [
+      {
+        "value": "4,5★",
+        "label": "118 evaluări în App Store"
+      },
+      {
+        "value": "10×",
+        "label": "amplificare maximă"
+      },
+      {
+        "value": "Audio + video",
+        "label": "MP3, MP4, MOV, note vocale"
+      },
+      {
+        "value": "Pe dispozitiv",
+        "label": "nimic nu se încarcă online"
+      }
+    ]
   },
   "wave": {
     "before_label": "Înainte",
     "after_label": "După",
     "before_text": "Audio original încet și plat",
-    "after_text": "Amplificat: sunet plin și clar"
+    "after_text": "Amplificat: sunet plin și clar",
+    "toggle_aria": "Comută între forma de undă originală și cea amplificată"
   },
   "sections": {
     "features_uses_aria": "Funcții și utilizări",
@@ -157,7 +178,11 @@
     "last_updated_label": "Ultima actualizare:",
     "privacy_link": "Politica de confidențialitate",
     "terms_link": "Termeni de utilizare",
-    "app_store_link_text": "Vezi în App Store"
+    "app_store_link_text": "Vezi în App Store",
+    "tagline": "Amplificatorul de volum pentru iPhone care face fișierul mai tare, nu doar difuzorul.",
+    "links_aria": "Subsol",
+    "guides_link_text": "Ghiduri",
+    "languages_label": "Această pagină în alte limbi"
   },
   "seo": {
     "breadcrumb_home": "Acasă",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "Aplicație pentru iPhone care importă audio sau video, aplică amplificare de până la circa 10× cu control asupra basului și clarității și exportă un fișier mai tare de salvat și partajat. Procesare pe dispozitiv; nu modifică volumul global al sistemului."
+        "description": "Aplicație pentru iPhone care importă audio sau video, aplică amplificare de până la circa 10× cu control asupra basului și clarității și exportă un fișier mai tare de salvat și partajat. Procesare pe dispozitiv; nu modifică volumul global al sistemului.",
+        "featureList": [
+          "Amplifică volumul video și audio de până la 10× (1000%)",
+          "Funcționează cu MP3, note vocale M4A, video MP4 și MOV",
+          "Comparație Original/Procesat înainte de salvare",
+          "Îmbunătățire opțională a calității audio",
+          "Creează un proiect din fila de partajare a aplicației Poze",
+          "Salvează în Poze sau Fișiere și partajează în orice aplicație",
+          "Păstrează mai multe proiecte"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "Salvează și partajează",
             "text": "Salvează fișierul amplificat înapoi pe dispozitiv și partajează-l oriunde."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Aplicația Increase Volume – Amplificare sunet pentru iPhone"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Navigare principală",
+    "how_it_works": "Cum funcționează",
+    "screenshots": "Capturi de ecran",
+    "guides": "Ghiduri",
+    "faq": "Întrebări",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "Descarcă",
+    "title": "Descarcă Increase Volume – Amplificare sunet din App Store",
+    "subtitle": "Audio & Music Booster · Categoria „Muzică” · iPhone",
+    "price": "Gratuit",
+    "price_note": "Achiziții opționale în aplicație (perioadă de probă gratuită sau plată unică pe viață)",
+    "rating_line": "4,5 ★ · 118 evaluări în App Store",
+    "qr_alt": "Cod QR către Increase Volume – Amplificare sunet în App Store",
+    "qr_label": "Scanează cu camera iPhone-ului",
+    "requirements": "Necesită iOS 18.6 sau o versiune ulterioară · 26,8 MB · Română + 30 de alte limbi · Vârstă 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Capturi de ecran",
+    "title": "Așa arată aplicația pe iPhone-ul tău",
+    "intro": "Aceleași ecrane pe care le vezi în App Store: un singur cursor, comparația Original/Procesat și fila de partajare care duce fișierul mai tare oriunde ai nevoie.",
+    "aria": "Capturi de ecran ale aplicației, derulează orizontal",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Imagine promoțională Increase Volume: amplificator de volum și de sunet, de până la zece ori mai tare",
+        "caption": "Amplificator de volum și de sunet: de până la 10× mai tare."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Player video în Increase Volume, un deget trage cursorul roz de amplificare pentru a face videoclipul mai tare",
+        "caption": "Fă un videoclip mai tare: trage cursorul pe previzualizarea video."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume procesează un fișier MP3 și afișează numele, dimensiunea și durata",
+        "caption": "Fă muzica mai tare: MP3 și alte fișiere audio sunt procesate pe dispozitiv."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Detalii piesă cu comutatorul „Îmbunătățește calitatea audio”, cursorul „Multiplicare volum ×10” și butonul „Amplifică volumul la ×10”",
+        "caption": "Alege nivelul de amplificare, de la o ridicare ușoară până la 10×."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Ecran de rezultat cu butonul „Descarcă procesat” și comutatorul Original/Procesat",
+        "caption": "Ascultă rezultatul și compară-l cu originalul înainte de a salva."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "Fila de partajare iOS cu Copiază, Adaugă etichete și Salvează în Fișiere pentru audio-ul amplificat",
+        "caption": "Descarcă și partajează oriunde: Poze, Fișiere, Mesaje, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Lista de proiecte din Increase Volume cu fișiere MP3 și MP4, dimensiune și durată",
+        "caption": "Păstrează mai multe proiecte și revino la ele mai târziu."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "Pasul 1: videoclip importat în Increase Volume, cu cursorul de amplificare vizibil",
+    "step_2_alt": "Pasul 2: cursorul „Multiplicare volum ×10” și butonul „Amplifică volumul”",
+    "step_3_alt": "Pasul 3: fila de partajare iOS cu „Salvează în Fișiere” pentru fișierul amplificat"
+  },
+  "faq_section": {
+    "eyebrow": "Întrebări frecvente",
+    "intro": "Mai întâi răspunsuri scurte. Fiecare trimite la un ghid complet cu capturi de ecran.",
+    "learn_more_label": "Află mai multe"
+  },
+  "cta": {
+    "eyebrow": "Ești gata?",
+    "title": "Fișierul tău încet, de 10× mai tare, în mai puțin de un minut.",
+    "text": "Descarcă Increase Volume – Amplificare sunet, importă videoclipul sau audio-ul pe care nu-l aude nimeni, trage cursorul și partajează versiunea tare.",
+    "note": "Descărcare gratuită · Necesită iOS 18.6 sau o versiune ulterioară · 4,5★ în App Store"
   }
 }

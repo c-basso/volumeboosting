@@ -46,13 +46,34 @@
     "footnote_item4": "someklipeille",
     "footnote_last_joiner": " ja ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Äänen tehostus iPhonella — tehosta äänen ja videon voimakkuutta"
+    "device_image_alt": "Increase Volume – Äänen tehostus iPhonella — tehosta äänen ja videon voimakkuutta",
+    "cta_secondary_link": "Katso, miten se toimii",
+    "proof_aria": "Faktoja sovelluksesta",
+    "proof": [
+      {
+        "value": "4,5★",
+        "label": "118 arviota App Storessa"
+      },
+      {
+        "value": "10×",
+        "label": "suurin tehostuskerroin"
+      },
+      {
+        "value": "Ääni + video",
+        "label": "MP3, MP4, MOV, äänimuistiot"
+      },
+      {
+        "value": "Laitteella",
+        "label": "mitään ei lähetetä palvelimelle"
+      }
+    ]
   },
   "wave": {
     "before_label": "Ennen",
     "after_label": "Jälkeen",
     "before_text": "Hiljainen, tasainen alkuperäinen ääni",
-    "after_text": "Tehostettu, täyteläinen ja kirkas ääni"
+    "after_text": "Tehostettu, täyteläinen ja kirkas ääni",
+    "toggle_aria": "Vaihda alkuperäisen ja tehostetun aaltomuodon välillä"
   },
   "sections": {
     "features_uses_aria": "Ominaisuudet ja käyttö",
@@ -157,7 +178,11 @@
     "last_updated_label": "Sivu päivitetty viimeksi:",
     "privacy_link": "Tietosuojakäytäntö",
     "terms_link": "Käyttöehdot",
-    "app_store_link_text": "Näytä App Storessa"
+    "app_store_link_text": "Näytä App Storessa",
+    "tagline": "iPhonen äänenvoimakkuuden tehostaja, joka koventaa tiedoston – ei vain kaiutinta.",
+    "links_aria": "Alatunniste",
+    "guides_link_text": "Oppaat",
+    "languages_label": "Tämä sivu muilla kielillä"
   },
   "seo": {
     "breadcrumb_home": "Etusivu",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "iPhone-sovellus tuo äänen tai videon, antaa jopa ~10× äänenvoimakkuutta basso- ja selkeysäädöillä ja vie kovemman tiedoston tallennukseen ja jakamiseen. Käsittely laitteella; ei muuta järjestelmänlaajuista äänenvoimakkuutta."
+        "description": "iPhone-sovellus tuo äänen tai videon, antaa jopa ~10× äänenvoimakkuutta basso- ja selkeysäädöillä ja vie kovemman tiedoston tallennukseen ja jakamiseen. Käsittely laitteella; ei muuta järjestelmänlaajuista äänenvoimakkuutta.",
+        "featureList": [
+          "Tehostaa videon ja äänen voimakkuutta jopa 10× (1000 %)",
+          "Toimii MP3-, M4A-äänimuistio-, MP4- ja MOV-tiedostoilla",
+          "Alkuperäinen/Käsitelty-vertailu ennen tallennusta",
+          "Valinnainen äänenlaadun parannus",
+          "Projektin luonti Kuvat-sovelluksen jakonäkymästä",
+          "Tallennus Kuviin tai Tiedostoihin ja jako mihin tahansa sovellukseen",
+          "Useiden projektien säilytys"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "Tallenna ja jaa",
             "text": "Tallenna tehostettu tiedosto takaisin laitteelle ja jaa se minne tahansa."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Increase Volume – Äänen tehostus -sovellus iPhonelle"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Päänavigointi",
+    "how_it_works": "Näin se toimii",
+    "screenshots": "Kuvakaappaukset",
+    "guides": "Oppaat",
+    "faq": "UKK",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "Lataa",
+    "title": "Lataa Increase Volume – Äänen tehostus App Storesta",
+    "subtitle": "Audio & Music Booster · Musiikki-kategoria · iPhone",
+    "price": "Ilmainen",
+    "price_note": "Valinnaisia sovelluksen sisäisiä ostoja (ilmainen kokeilu tai kertamaksullinen elinikäinen lisenssi)",
+    "rating_line": "4,5 ★ · 118 arviota App Storessa",
+    "qr_alt": "QR-koodi, joka vie Increase Volume – Äänen tehostus -sovellukseen App Storessa",
+    "qr_label": "Skannaa iPhonen kameralla",
+    "requirements": "Vaatii iOS 18.6:n tai uudemman · 26,8 Mt · Suomi + 30 muuta kieltä · Ikäraja 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Kuvakaappaukset",
+    "title": "Tältä sovellus näyttää iPhonellasi",
+    "intro": "Samat näkymät kuin App Storessa: yksi liukusäädin, Alkuperäinen/Käsitelty-vertailu ja jakonäkymä, joka vie kovemman tiedoston minne tahansa tarvitset.",
+    "aria": "Sovelluksen kuvakaappaukset, vieritä sivusuunnassa",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Increase Volume -markkinointikuva: äänenvoimakkuuden tehostaja ja äänenvahvistin, jopa kymmenen kertaa kovempi",
+        "caption": "Äänenvoimakkuuden tehostaja ja äänenvahvistin: jopa 10× kovempi."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Increase Volumen videosoitin, jossa sormi vetää vaaleanpunaista tehostusliukusäädintä videon äänen koventamiseksi",
+        "caption": "Kovenna videon ääntä: vedä liukusäädintä videon esikatselussa."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume käsittelee MP3-tiedostoa ja näyttää tiedoston nimen, koon ja keston",
+        "caption": "Kovenna musiikkia: MP3 ja muut äänitiedostot käsitellään laitteella."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Raidan tiedot, joissa Paranna äänenlaatua -kytkin, Äänenvoimakkuuden kertoja ×10 -liukusäädin ja Tehosta äänenvoimakkuus ×10:een -painike",
+        "caption": "Valitse tehostuksen määrä hienoisesta nostosta 10×:ään."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Tulosnäkymä, jossa Lataa käsitelty -painike ja Alkuperäinen/Käsitelty-kytkin",
+        "caption": "Kuuntele tulos ja vertaa sitä alkuperäiseen ennen tallennusta."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "iOS:n jakonäkymä, jossa Kopioi, Lisää tunnisteita ja Tallenna Tiedostoihin tehostetulle äänelle",
+        "caption": "Lataa ja jaa minne tahansa: Kuvat, Tiedostot, Viestit, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Increase Volumen projektiluettelo, jossa MP3- ja MP4-tiedostoja koon ja keston kanssa",
+        "caption": "Tallenna useita projekteja ja palaa niihin myöhemmin."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "Vaihe 1: video tuotu Increase Volumeen, tehostusliukusäädin näkyvissä",
+    "step_2_alt": "Vaihe 2: Äänenvoimakkuuden kertoja ×10 -liukusäädin ja Tehosta äänenvoimakkuutta -painike",
+    "step_3_alt": "Vaihe 3: iOS:n jakonäkymä, jossa Tallenna Tiedostoihin tehostetulle tiedostolle"
+  },
+  "faq_section": {
+    "eyebrow": "UKK",
+    "intro": "Ensin lyhyet vastaukset. Jokainen linkittää kattavaan oppaaseen kuvakaappauksin.",
+    "learn_more_label": "Lue lisää"
+  },
+  "cta": {
+    "eyebrow": "Valmiina?",
+    "title": "Hiljainen tiedostosi 10× kovemmaksi alle minuutissa.",
+    "text": "Lataa Increase Volume – Äänen tehostus, tuo video tai ääni, jota kukaan ei kuule, vedä liukusäädintä ja jaa kovempi versio.",
+    "note": "Ilmainen lataus · Vaatii iOS 18.6:n tai uudemman · 4,5★ App Storessa"
   }
 }

@@ -1,0 +1,103 @@
+{
+  "keyword": "how to increase volume of a voice memo on iPhone",
+  "priority": 3,
+  "keywords": "increase voice memo volume iphone, voice memo too quiet, make voice memo louder, boost voice recording volume iphone, enhance recording voice memos",
+  "title": "How to Increase the Volume of a Voice Memo on iPhone",
+  "description": "Voice Memos’ Enhance Recording cleans noise but never makes the file louder. Learn how to boost a quiet voice memo up to 10× and save it with Increase Volume.",
+  "h1": "How to increase the volume of a voice memo on iPhone",
+  "eyebrow": "Voice memos",
+  "card_title": "Make a quiet voice memo louder",
+  "card_summary": "Enhance Recording only changes playback. Export the memo and boost the file itself, up to 10×.",
+  "published": "2026-09-10",
+  "quick_answer": "To make a voice memo louder on iPhone, share it from the Voice Memos app to Increase Volume (tap the memo → ⋯ → Share → Increase Volume), turn on Improve Audio Quality, drag Volume multiplication to ×5–×10, tap Boost Volume, compare Original and Processed, and tap Download Processed to save the louder M4A. Voice Memos' own Enhance Recording reduces background noise during playback but does not change the file or make it louder when shared.",
+  "intro": [
+    "A voice memo recorded from the far end of a meeting table, a lecture from the back row, or an interview with someone who speaks softly: the words are there, but even at maximum volume you strain to hear them. The Voice Memos app offers a few playback options, and people often assume one of them will make the recording louder. None does.",
+    "This guide explains what Voice Memos can do, and how to turn a quiet memo into a loud, shareable file in about a minute."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Increase Volume showing track details, the Improve Audio Quality toggle and the Volume multiplication x10 slider for an audio file",
+    "caption": "For speech, switch on Improve Audio Quality before boosting."
+  },
+  "sections": [
+    {
+      "heading": "What Voice Memos can do (and what it can't)",
+      "paragraphs": [
+        "Open a memo, tap the Options (sliders) icon and you will see:"
+      ],
+      "list": [
+        "Enhance Recording: reduces background noise and echo. Useful, but it is a *playback* setting; Apple's documentation states it does not change the recording itself.",
+        "Skip Silence and Playback Speed: convenience features, no effect on loudness.",
+        "Studio Voice (supported models, Spatial Audio recordings): reduces room reverb; again for playback.",
+        "Trim / Replace: edits length or content, not level."
+      ],
+      "note": "Nothing in Voice Memos raises the level of the saved file. When you share the memo, the recipient hears it at the original volume."
+    },
+    {
+      "heading": "Why the memo is quiet in the first place",
+      "paragraphs": [
+        "iPhone applies automatic gain while recording, but it cannot compensate for a speaker several metres away or a phone lying screen-down on a table with the microphone blocked. The result is a recording whose peaks sit far below the digital ceiling. That distance is exactly the headroom a booster uses: a quiet memo can usually be multiplied ×5–×10 without clipping."
+      ]
+    },
+    {
+      "heading": "Boost the file with Increase Volume",
+      "paragraphs": [
+        "Increase Volume accepts the M4A file that Voice Memos exports, shows its duration and size, and lets you multiply the volume up to ×10. The Improve Audio Quality toggle is aimed at speech intelligibility, which is what a voice memo needs. You hear the result with the Original/Processed toggle before saving, and the louder file is written as a new copy to Files, Messages, Mail or any app you choose."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: make a voice memo louder",
+    "intro": "Works on any memo already in the Voice Memos app.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Share the memo to Increase Volume",
+        "text": "In Voice Memos, tap the memo, tap the ⋯ button, choose Share, and pick Increase Volume from the app row. (If you prefer, choose Save to Files first and add the file from inside the app.)"
+      },
+      {
+        "name": "Turn on Improve Audio Quality",
+        "text": "Enable the toggle so the boost favours the voice."
+      },
+      {
+        "name": "Set the multiplier",
+        "text": "Drag Volume multiplication to ×5 to start; distant recordings often need ×8–×10. Tap Boost Volume."
+      },
+      {
+        "name": "Compare",
+        "text": "Flip Original/Processed at the loudest part of the memo (someone laughing, a cup being set down). If it crackles, lower the multiplier."
+      },
+      {
+        "name": "Download Processed",
+        "text": "Tap Download Processed and choose Save to Files, or send the louder memo straight to Messages, Mail, WhatsApp or Notes."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Record with the phone on its back, microphone end towards the speaker, and as close as is polite. It makes far more difference than any setting.",
+      "For transcription (Notes, Otter, Whisper), boost first; speech recognisers make fewer errors on a louder, clearer file.",
+      "Keep the original in Voice Memos. The boosted copy is a separate file."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Does Enhance Recording make a voice memo louder?",
+      "answer": "No. It reduces background noise and echo while the memo plays. Apple notes that these playback settings do not affect the recording itself, so a shared memo is unchanged."
+    },
+    {
+      "question": "What format does the boosted memo come out as?",
+      "answer": "The same audio format you shared (Voice Memos exports M4A). Increase Volume writes a new file; your original memo is untouched."
+    },
+    {
+      "question": "Can I boost a memo someone sent me?",
+      "answer": "Yes. Save the audio from Messages, Mail or WhatsApp to Files (or share it directly to Increase Volume) and boost it the same way."
+    }
+  ],
+  "related": [
+    "how-to-make-a-whatsapp-voice-message-louder",
+    "how-to-make-mp3-louder-on-iphone",
+    "how-to-make-a-video-louder-without-losing-quality"
+  ]
+}

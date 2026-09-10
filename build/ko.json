@@ -46,13 +46,34 @@
     "footnote_item4": "SNS 클립",
     "footnote_last_joiner": " 및 ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – 음향 부스트, 아이폰에서 — 오디오·동영상 볼륨 높이기"
+    "device_image_alt": "Increase Volume – 음향 부스트, 아이폰에서 — 오디오·동영상 볼륨 높이기",
+    "cta_secondary_link": "사용 방법 보기",
+    "proof_aria": "앱 기본 정보",
+    "proof": [
+      {
+        "value": "4.5★",
+        "label": "App Store 평가 118개"
+      },
+      {
+        "value": "10배",
+        "label": "최대 볼륨 배율"
+      },
+      {
+        "value": "오디오 + 동영상",
+        "label": "MP3, MP4, MOV, 음성 메모"
+      },
+      {
+        "value": "기기에서 처리",
+        "label": "업로드 없음"
+      }
+    ]
   },
   "wave": {
     "before_label": "이전",
     "after_label": "이후",
     "before_text": "작고 평평한 원본 오디오",
-    "after_text": "부스트 후, 풍부하고 맑은 소리"
+    "after_text": "부스트 후, 풍부하고 맑은 소리",
+    "toggle_aria": "원본 파형과 부스트된 파형 전환"
   },
   "sections": {
     "features_uses_aria": "기능과 활용",
@@ -157,7 +178,11 @@
     "last_updated_label": "최종 업데이트:",
     "privacy_link": "개인정보 처리방침",
     "terms_link": "이용 약관",
-    "app_store_link_text": "App Store에서 보기"
+    "app_store_link_text": "App Store에서 보기",
+    "tagline": "스피커가 아니라 파일 자체를 더 크게 만드는 아이폰 볼륨 부스터.",
+    "links_aria": "푸터",
+    "guides_link_text": "가이드",
+    "languages_label": "다른 언어로 보기"
   },
   "seo": {
     "breadcrumb_home": "홈",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "오디오·동영상을 가져와 저음·선명도 컨트롤과 함께 최대 약 10배까지 음량을 높여 저장·공유할 더 큰 파일을 만드는 아이폰 앱입니다. 기기에서 처리하며 시스템 전역 볼륨은 바꾸지 않습니다."
+        "description": "오디오·동영상을 가져와 저음·선명도 컨트롤과 함께 최대 약 10배까지 음량을 높여 저장·공유할 더 큰 파일을 만드는 아이폰 앱입니다. 기기에서 처리하며 시스템 전역 볼륨은 바꾸지 않습니다.",
+        "featureList": [
+          "동영상과 오디오 볼륨을 최대 10배(1000%)까지 부스트",
+          "MP3, M4A 음성 메모, MP4 및 MOV 동영상 지원",
+          "저장 전 원본/처리본 비교",
+          "선택적 오디오 품질 개선",
+          "사진 앱 공유 시트에서 프로젝트 생성",
+          "사진 또는 파일에 저장하고 모든 앱으로 공유",
+          "여러 프로젝트 보관"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "저장 및 공유",
             "text": "증폭된 파일을 기기에 저장하고 어디서나 공유하세요."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "아이폰용 Increase Volume – 음향 부스트 앱"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "주 메뉴",
+    "how_it_works": "사용 방법",
+    "screenshots": "스크린샷",
+    "guides": "가이드",
+    "faq": "FAQ",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "다운로드",
+    "title": "App Store에서 Increase Volume – 음향 부스트 받기",
+    "subtitle": "Audio & Music Booster · «음악» 카테고리 · 아이폰",
+    "price": "무료",
+    "price_note": "선택적 앱 내 구입 (무료 체험 또는 일회성 평생 이용권)",
+    "rating_line": "4.5 ★ · App Store 평가 118개",
+    "qr_alt": "App Store의 Increase Volume – 음향 부스트로 연결되는 QR 코드",
+    "qr_label": "아이폰 카메라로 스캔하세요",
+    "requirements": "iOS 18.6 이상 필요 · 26.8 MB · 한국어 외 30개 언어 · 4세 이상"
+  },
+  "screenshots": {
+    "eyebrow": "스크린샷",
+    "title": "아이폰에서 앱은 이렇게 보입니다",
+    "intro": "App Store와 동일한 화면입니다. 슬라이더 하나, 원본/처리본 비교, 그리고 더 커진 파일을 원하는 곳으로 보내는 공유 시트.",
+    "aria": "앱 스크린샷, 가로로 스크롤",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Increase Volume 홍보 이미지: 볼륨 부스터 및 사운드 앰프, 최대 10배 더 크게",
+        "caption": "볼륨 부스터 및 사운드 앰프: 최대 10배 더 크게."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Increase Volume의 동영상 플레이어에서 손가락이 핑크색 부스트 슬라이더를 끌어 동영상 소리를 키우는 모습",
+        "caption": "동영상 소리 키우기: 미리보기 위의 슬라이더를 끄세요."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume이 MP3 파일을 처리 중이며 파일 이름, 크기, 길이를 표시",
+        "caption": "음악 소리 키우기: MP3 등 오디오 파일도 기기에서 처리됩니다."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "«오디오 품질 개선» 스위치, «볼륨 배율 ×10» 슬라이더, «볼륨 ×10으로 부스트» 버튼이 있는 트랙 상세 화면",
+        "caption": "부스트 정도 선택: 살짝 올리기부터 10배까지."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "«처리본 다운로드» 버튼과 원본/처리본 전환이 있는 결과 화면",
+        "caption": "처리 결과를 듣고 저장 전에 원본과 비교하세요."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "부스트된 오디오에 대한 복사, 태그 추가, 파일에 저장이 표시된 iOS 공유 시트",
+        "caption": "다운로드하고 어디로든 공유: 사진, 파일, 메시지, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "MP3 및 MP4 파일의 크기와 길이를 보여주는 Increase Volume 프로젝트 목록",
+        "caption": "여러 프로젝트를 저장하고 나중에 다시 이어서 작업하세요."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "1단계: Increase Volume에 가져온 동영상과 부스트 슬라이더",
+    "step_2_alt": "2단계: «볼륨 배율 ×10» 슬라이더와 «볼륨 부스트» 버튼",
+    "step_3_alt": "3단계: 부스트된 파일을 «파일에 저장»하는 iOS 공유 시트"
+  },
+  "faq_section": {
+    "eyebrow": "FAQ",
+    "intro": "짧은 답변부터. 각 답변은 스크린샷이 포함된 상세 가이드로 연결됩니다.",
+    "learn_more_label": "자세히 보기"
+  },
+  "cta": {
+    "eyebrow": "준비되셨나요?",
+    "title": "작은 소리 파일을 1분 안에 10배 더 크게.",
+    "text": "Increase Volume – 음향 부스트를 다운로드하고, 아무도 들을 수 없는 동영상이나 오디오를 가져와 슬라이더를 끈 뒤, 커진 버전을 공유하세요.",
+    "note": "무료 다운로드 · iOS 18.6 이상 필요 · App Store 평점 4.5★"
   }
 }

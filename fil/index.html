@@ -136,27 +136,14 @@
     <meta name="twitter:image:width" content="1026" />
     <meta name="twitter:image:height" content="539" />
 
-    <link
-      rel="preconnect"
-      href="https://apps.apple.com"
-    />
-    <link
-      rel="preconnect"
-      href="https://fonts.googleapis.com"
-    />
-    <link
-      rel="preconnect"
-      href="https://fonts.gstatic.com"
-      crossorigin
-    />
-    <link
-      rel="preconnect"
-      href="https://mc.yandex.ru"
-    />
+    <link rel="preconnect" href="https://apps.apple.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://mc.yandex.ru" />
     <link rel="dns-prefetch" href="https://apps.apple.com" />
     <link rel="dns-prefetch" href="https://mc.yandex.ru" />
     <link
-      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Instrument+Sans:wght@400;500;600&display=swap"
       rel="stylesheet"
     />
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico" />
@@ -172,101 +159,116 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1789027622208"
+      href="/style.css?v=1789035383954"
     />
+    <script>document.documentElement.classList.add('js');</script>
+
   </head>
-  <body>
+  <body class="page-home">
+    <div class="bg-grid" aria-hidden="true"></div>
     <div class="noise-layer" aria-hidden="true"></div>
     <div class="page-shell">
-      <header>
-        <div class="brand">
-          <div class="brand-logo">
+      <header class="site-header">
+        <a class="brand" href="https://volumeboosting.com/fil/" aria-label="Increase Volume – Palakas ng tunog">
+          <span class="brand-logo">
             <img
               src="/img/logo.webp"
               alt="Icon ng app na Increase Volume – Palakas ng tunog"
-              width="80"
-              height="80"
+              width="44"
+              height="44"
               loading="eager"
               decoding="async"
             />
-          </div>
-          <div class="brand-text">
-            <div class="brand-name">Volume Booster</div>
-            <div class="brand-subtitle">Palakas ng tunog para sa iPhone</div>
-          </div>
-        </div>
-        <div class="apple-pill">
-          <div class="apple-dot"></div>
-          <span>Para sa iPhone · Musika</span>
-        </div>
+          </span>
+          <span class="brand-text">
+            <span class="brand-name">Volume Booster</span>
+            <span class="brand-subtitle">Palakas ng tunog para sa iPhone</span>
+          </span>
+        </a>
+        <nav class="site-nav" aria-label="Pangunahing navigation">
+          <a href="https://volumeboosting.com/fil/#how-it-works">Paano ito gumagana</a>
+          <a href="https://volumeboosting.com/fil/#screenshots">Mga screenshot</a>
+          
+          <a href="https://volumeboosting.com/fil/#faq">FAQ</a>
+        </nav>
+        <a
+          class="header-cta"
+          href="https://apps.apple.com/app/id6741472421"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="I-download ang Increase Volume – Palakas ng tunog sa App Store"
+        >
+          <svg class="apple-mark" width="14" height="17" viewBox="14 8 14 26" aria-hidden="true"><path fill="currentColor" d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"/><path fill="currentColor" d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"/></svg>
+          <span>App Store</span>
+        </a>
       </header>
 
-      <main>
+
+      <main id="main">
+        <!-- ============ HERO ============ -->
         <section class="hero" aria-labelledby="hero-heading">
           <div class="hero-copy">
-          <div class="hero-kicker">
-            <div class="pill-spark">10x</div>
-            <span>Gawing malakas at malinaw ang mahinang video at recording</span>
-          </div>
-          <h1 id="hero-heading">
-            Ang anumang audio o video, gawing
-            <span class="hero-title-highlight">hanggang ~10× na mas malakas</span>
-            nang hindi nawawala ang kalinawan.
-          </h1>
-          <p class="hero-subtitle">
-            Ang Increase Volume – Palakas ng tunog ay dedicated mong volume booster sa iPhone. Ayusin ang mahinang screen recording, podcast, at video sa ilang segundo — malinis, malakas na tunog at malalim na bass.
-          </p>
-
-          <div class="hero-metadata">
-            <span><span class="metadata-dot"></span> Para lang sa iPhone</span>
-            <span>Mabilis at simple, iginagalang ang privacy</span>
-          </div>
+            <div class="hero-kicker">
+              <span class="sticker">10x</span>
+              <span>Gawing malakas at malinaw ang mahinang video at recording</span>
+            </div>
+            <h1 id="hero-heading">
+              Ang anumang audio o video, gawing
+              <span class="hero-title-highlight">hanggang ~10× na mas malakas</span>
+              nang hindi nawawala ang kalinawan.
+            </h1>
+            <p class="hero-subtitle">Ang Increase Volume – Palakas ng tunog ay dedicated mong volume booster sa iPhone. Ayusin ang mahinang screen recording, podcast, at video sa ilang segundo — malinis, malakas na tunog at malalim na bass.</p>
 
             <div class="cta-row">
               <div class="cta-actions">
-              <img
-                class="cta-qr"
-                src="/img/app-store-qr.png"
-                alt="I-download ang Increase Volume – Palakas ng tunog sa App Store"
-                width="104"
-                height="104"
-                loading="lazy"
-                decoding="async"
-              />
               <a
                 class="cta-primary"
-              href="https://apps.apple.com/app/id6741472421"
+                href="https://apps.apple.com/app/id6741472421"
                 target="_blank"
                 rel="noopener noreferrer"
-              aria-label="I-download ang Increase Volume – Palakas ng tunog sa App Store"
+                aria-label="I-download ang Increase Volume – Palakas ng tunog sa App Store"
               >
-              <svg
-                class="cta-apple-icon"
-                width="18"
-                height="22"
-                viewBox="14 8 14 26"
-                aria-hidden="true"
-              >
-                <path
-                  fill="currentColor"
-                  d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
-                />
-                <path
-                  fill="currentColor"
-                  d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
-                />
-              </svg>
-              <span>I-download sa App Store</span>
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>I-download sa App Store</span>
               </a>
+
+                <a class="cta-ghost" href="#how-it-works">Tingnan kung paano ito gumagana</a>
               </div>
-              <div class="cta-secondary">
-              Palakasin ang unang video mo <strong>nang libre</strong>, panatilihin ang lakas magpakailanman.
-              </div>
+              <p class="cta-secondary">
+                Palakasin ang unang video mo <strong>nang libre</strong>, panatilihin ang lakas magpakailanman.
+              </p>
             </div>
 
+            <ul class="proof-row" aria-label="Mga detalye ng app">
+              
+              <li><strong>4.5★</strong><span>118 rating sa App Store</span></li>
+              
+              <li><strong>10×</strong><span>pinakamataas na volume boost</span></li>
+              
+              <li><strong>Audio + video</strong><span>MP3, MP4, MOV, mga voice memo</span></li>
+              
+              <li><strong>Sa device</strong><span>walang ina-upload</span></li>
+              
+            </ul>
+
             <p class="hero-footnote">
-            Perpekto para sa <span>mahinang mga voice memo</span>, <span>mga pelikula</span>,
-            <span>musika</span>, at <span>mga clip sa social media</span>.
+              Perpekto para sa <span>mahinang mga voice memo</span>, <span>mga pelikula</span>,
+              <span>musika</span>, at <span>mga clip sa social media</span>.
             </p>
           </div>
 
@@ -275,323 +277,655 @@
               <div class="device-column">
                 <div class="device-frame">
                   <div class="device-screen">
-                  <img
-                    src="/img/screenshots/1.webp"
-                    alt="Increase Volume – Palakas ng tunog sa iPhone — palakasin ang audio at video"
-                    width="460"
-                    height="995"
-                    loading="lazy"
-                    decoding="async"
-                  />
+                    <img
+                      src="/img/screenshots/1.webp"
+                      alt="Increase Volume – Palakas ng tunog sa iPhone — palakasin ang audio at video"
+                      width="460"
+                      height="995"
+                      loading="eager"
+                      fetchpriority="high"
+                      decoding="async"
+                    />
                   </div>
                 </div>
               </div>
               <div class="device-column wave-panel active" id="wavePanel">
                 <div class="wave-header">
                   <div class="wave-toggle-container">
-                  <span class="wave-toggle-label">Bago</span>
-                    <div class="wave-toggle active" id="waveToggle" role="switch" aria-checked="true" tabindex="0">
+                    <span class="wave-toggle-label">Bago</span>
+                    <div class="wave-toggle active" id="waveToggle" role="switch" aria-checked="true" tabindex="0" aria-label="Magpalipat-lipat sa orihinal at boosted na waveform">
                       <div class="wave-toggle-handle"></div>
                     </div>
-                  <span class="wave-toggle-label">Pagkatapos</span>
+                    <span class="wave-toggle-label">Pagkatapos</span>
                   </div>
                 </div>
                 <div class="wave-bars" aria-hidden="true">
-                  <!-- Wave bars - heights will be controlled by CSS based on state -->
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
                 </div>
-              <div class="wave-footer">
-                <div class="wave-footer-col">
-                  <div class="wave-footer-label">Bago</div>
-                  <div class="wave-footer-text">Mahina at flat na orihinal na audio</div>
+                <div class="wave-footer">
+                  <div class="wave-footer-col">
+                    <div class="wave-footer-label">Bago</div>
+                    <div class="wave-footer-text">Mahina at flat na orihinal na audio</div>
+                  </div>
+                  <div class="wave-footer-col">
+                    <div class="wave-footer-label">Pagkatapos</div>
+                    <div class="wave-footer-text">Pinalakas, buo at malinaw na tunog</div>
+                  </div>
                 </div>
-                <div class="wave-footer-col">
-                  <div class="wave-footer-label">Pagkatapos</div>
-                  <div class="wave-footer-text">Pinalakas, buo at malinaw na tunog</div>
-                </div>
-              </div>
+                <div class="wave-multiplier" aria-hidden="true">×10</div>
               </div>
             </div>
           </div>
         </section>
 
+        <!-- ============ SUMMARY (GEO) ============ -->
         <aside class="geo-summary" aria-label="Ano ang app na ito">
           <p class="geo-summary-lead">Buod: Ang Increase Volume – Palakas ng tunog ay iPhone app na nagpo-proseso ng audio at video files sa device, nag-a-apply ng hanggang ~10× gain na may kontrol sa kalinawan at bass, at nagse-save ng mas malakas na bagong file na puwede mong panatilihin o ibahagi. Hindi ito tool para lampasan ang system-wide na limit ng speaker.</p>
           <p class="geo-summary-body">Inilathala sa Apple App Store ng c-basso. Tumutulong sa parehong pangangailangan tulad ng pagpapalakas ng mahinang podcast, mga voice memo, screen recording, at social clip — katulad ng normalization sa desktop editors, pero optimized para sa maikling tap-first na workflow sa iOS.</p>
         </aside>
 
-        <section class="sections geo-geo-row" aria-label="Mga katotohanan at paghahambing">
-          <article class="card">
-            <h2>Sa mga numero</h2>
-            <div class="card-title">Mga madaling mapatunayang katotohanan tungkol sa app</div>
-            <ul class="geo-stats-list">
-              
-              <li>
-                <span class="geo-stat-value">Hanggang ~10×</span>
-                <span class="geo-stat-label">Pinakamataas na boost factor na nakasaad para sa exported na mga file.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">iOS / iPhone</span>
-                <span class="geo-stat-label">Platform: native mobile app, hindi macOS o Android.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">4.5 / 5</span>
-                <span class="geo-stat-label">Average rating sa structured data (118 ratings); i-verify live sa App Store.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">$0 download</span>
-                <span class="geo-stat-label">Naka-list bilang libre na may App Store offers; ang kasalukuyang presyo ay nasa Apple.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">Import → boost → save</span>
-                <span class="geo-stat-label">Core workflow: local files papasok, processed file palabas.</span>
-              </li>
-              
-            </ul>
-          </article>
+        <!-- ============ DOWNLOAD ============ -->
+        <section class="section download" id="download" aria-labelledby="download-heading">
+          <div class="download-card">
+            <div class="download-app">
+              <img
+                class="download-icon"
+                src="/img/app-icon.webp"
+                alt="Icon ng app na Increase Volume – Palakas ng tunog"
+                width="120"
+                height="120"
+                loading="lazy"
+                decoding="async"
+              />
+              <div class="download-app-text">
+                <p class="eyebrow">I-download</p>
+                <h2 id="download-heading">Kunin ang Increase Volume – Palakas ng tunog sa App Store</h2>
+                <p class="download-app-subtitle">Audio & Music Booster · Kategoryang Musika · iPhone</p>
+                <div class="download-price">
+                  <span class="price-tag">Libre</span>
+                  <span>Opsyonal na in-app purchase (libreng trial, o one-time na lifetime plan)</span>
+                </div>
+                <div class="download-actions">
+              <a
+                class="cta-primary"
+                href="https://apps.apple.com/app/id6741472421"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="I-download ang Increase Volume – Palakas ng tunog sa App Store"
+              >
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>I-download sa App Store</span>
+              </a>
 
-          <article class="card geo-compare-card">
-            <h2>Positioning</h2>
-            <div class="card-title">Increase Volume kumpara sa karaniwang alternatibo</div>
-            <p class="geo-compare-intro">Mga obhetibong pagkakaiba na puwedeng isipi ng mga modelo at assistant. Ang mga kompetidor ay mga kategorya ng tool, hindi ranked list ng apps.</p>
-            <div class="geo-table-wrap">
-              <table class="geo-compare-table">
-                <thead>
-                  <tr>
-                    <th scope="col">Paksa</th>
-                    <th scope="col">System volume ng iOS</th>
-                    <th scope="col">Increase Volume – Palakas ng tunog</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  
-                  <tr>
-                    <th scope="row">Gumagawa ng bagong mas malakas na file</th>
-                    <td>Hindi — binabago lang ang playback level.</td>
-                    <td>Oo — nag-e-export / nagse-save ng boosted copy.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Gumagana offline sa device</th>
-                    <td>Walang kaugnayan sa pag-export ng file.</td>
-                    <td>Oo — inilarawan ang processing bilang on-device.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Detalyadong kontrol sa bass at kalinawan</th>
-                    <td>Limitado sa system EQ / playback.</td>
-                    <td>Oo — may dedicated sliders sa UI ng app.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Karaniwang gamit</th>
-                    <td>Mas malakas na playback ngayon.</td>
-                    <td>Permanenteng fix sa mahinang source files.</td>
-                  </tr>
-                  
-                </tbody>
-              </table>
+                  <div class="qr-block">
+                    <img
+                      class="cta-qr"
+                      src="/img/app-store-qr.png"
+                      alt="QR code patungo sa Increase Volume – Palakas ng tunog sa App Store"
+                      width="96"
+                      height="96"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                    <span>I-scan gamit ang camera ng iPhone mo</span>
+                  </div>
+                </div>
+                <p class="download-requirements">Kailangan ng iOS 18.6 o mas bago · 26.8 MB · Filipino + 30 pang wika · Edad 4+</p>
+              </div>
             </div>
-          </article>
+            <div class="download-facts">
+              <h3 class="facts-title">Mga madaling mapatunayang katotohanan tungkol sa app</h3>
+              <ul class="geo-stats-list">
+                
+                <li>
+                  <span class="geo-stat-value">Hanggang ~10×</span>
+                  <span class="geo-stat-label">Pinakamataas na boost factor na nakasaad para sa exported na mga file.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">iOS / iPhone</span>
+                  <span class="geo-stat-label">Platform: native mobile app, hindi macOS o Android.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">4.5 / 5</span>
+                  <span class="geo-stat-label">Average rating sa structured data (118 ratings); i-verify live sa App Store.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">$0 download</span>
+                  <span class="geo-stat-label">Naka-list bilang libre na may App Store offers; ang kasalukuyang presyo ay nasa Apple.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">Import → boost → save</span>
+                  <span class="geo-stat-label">Core workflow: local files papasok, processed file palabas.</span>
+                </li>
+                
+              </ul>
+              <blockquote class="download-quote">
+                <p>«Okay ang takbo at simple lang.» – review sa App Store</p>
+              </blockquote>
+            </div>
+          </div>
         </section>
 
-        <section class="sections" aria-label="Mga feature at gamit">
-          <article class="card">
-            <h2>Ano ang ginagawa nito</h2>
-            <div class="card-title">
-              Ang mahinang recording, gawing <span>malakas at malinaw na tunog na masarap pakinggan</span>.
-            </div>
-            <p>
-              Kinukuha ng Increase Volume – Palakas ng tunog ang anumang audio o video sa iPhone mo at ginagawa itong mas malakas habang nananatiling malinaw. Walang nakakalitong kontrol, hindi kailangan ng kasanayan sa pag-edit.
-            </p>
-            <div class="pill-row">
-              <div class="pill">Palakasin ang video mula sa Mga Larawan</div>
-              <div class="pill">Musika, podcast, at mga voice memo</div>
-              <div class="pill">Malakas na bass at kalinawan</div>
-            </div>
-            <div class="ratings-row">
-              <div class="rating-block">
-                <strong>Minamahal ng mga user</strong>
-                <span>sa pag-boost ng mahinang video at audio</span>
-              </div>
-              <div class="rating-block">
-                <strong>Musika</strong>
-                <span>na kategorya sa App Store</span>
-              </div>
-            </div>
-          </article>
-
-          <article class="card">
-            <h2>Sa ilang segundo lang</h2>
-            <div class="card-title">Ganito kasimple ang pag-boost ng audio.</div>
-            <ol class="steps">
-              <li class="step">
-                <div class="step-number">1</div>
-                <div class="step-text">
-                  Mag-import ng video, kanta, o recording — o magsimula mismo sa app na Mga Larawan.
-                </div>
+        <!-- ============ SCREENSHOTS ============ -->
+        <section class="section screenshots" id="screenshots" aria-labelledby="screenshots-heading">
+          <div class="section-head">
+            <p class="eyebrow">Mga screenshot</p>
+            <h2 id="screenshots-heading">Ganito ang itsura ng app sa iPhone mo</h2>
+            <p class="section-intro">Kaparehong mga screen na makikita mo sa App Store: isang slider, paghahambing ng Orihinal/Na-proseso, at share sheet na nagdadala ng mas malakas na file kahit saan mo kailangan.</p>
+          </div>
+          <div class="shots-scroller" role="region" aria-label="Mga screenshot ng app, mag-scroll pahalang" tabindex="0">
+            <ol class="shots-track">
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/1.webp"
+                      alt="Marketing screenshot ng Increase Volume: volume booster at sound amplifier, hanggang sampung beses na mas malakas"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">1</span>
+                    <span>Volume booster at sound amplifier: hanggang 10× na mas malakas.</span>
+                  </figcaption>
+                </figure>
               </li>
-              <li class="step">
-                <div class="step-number">2</div>
-                <div class="step-text">
-                  I-drag ang boost slider para ayusin ang lakas, kalinawan, at bass nang real time.
-                </div>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/2.webp"
+                      alt="Video player sa Increase Volume, may daliring nagda-drag ng pink na boost slider para palakasin ang video"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">2</span>
+                    <span>Palakasin ang video: i-drag ang slider sa video preview.</span>
+                  </figcaption>
+                </figure>
               </li>
-              <li class="step">
-                <div class="step-number">3</div>
-                <div class="step-text">
-                  I-save ang boosted file pabalik sa device at ibahagi kahit saan.
-                </div>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/3.webp"
+                      alt="Nagpo-proseso ang Increase Volume ng MP3 file na nagpapakita ng pangalan, laki, at tagal ng file"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">3</span>
+                    <span>Palakasin ang musika: MP3 at iba pang audio file ay pinoproseso sa device.</span>
+                  </figcaption>
+                </figure>
               </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/4.webp"
+                      alt="Detalye ng track na may toggle na «Improve Audio Quality», slider na «Volume multiplication ×10», at button na «Boost Volume to ×10»"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">4</span>
+                    <span>Piliin kung gaano lakas ang boost, mula sa banayad hanggang 10×.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/5.webp"
+                      alt="Result screen na may button na «Download Processed» at toggle na Orihinal/Na-proseso"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">5</span>
+                    <span>Pakinggan ang resulta at ikumpara sa orihinal bago i-save.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/6.webp"
+                      alt="iOS share sheet na nagpapakita ng Kopyahin, Magdagdag ng Tag, at I-save sa Files para sa boosted audio"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">6</span>
+                    <span>I-download at ibahagi kahit saan: Mga Larawan, Files, Messages, WhatsApp, AirDrop.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/7.webp"
+                      alt="Listahan ng mga project sa Increase Volume na may MP3 at MP4 file kasama ang laki at tagal"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">7</span>
+                    <span>Mag-imbak ng maraming project at balikan ang mga ito sa ibang pagkakataon.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
             </ol>
-            <div class="card-label">
-              Mainam para sa: screen recording, TikTok/Reels clip, interview, mga voice memo, at iba pa.
-            </div>
-          </article>
+          </div>
         </section>
 
-        <section class="sections" aria-label="Para kanino ang app at bakit pinapanatili ito ng mga tao">
-          <article class="card">
-            <h2>Para kanino</h2>
-            <div class="card-title">Kung hindi sapat ang volume ng iPhone mo, sapat ito.</div>
-            <div class="audience-grid">
-              <span>Mga taong laging max ang volume pero hindi pa rin marinig nang maayos.</span>
-              <span>Mga creator na kailangan ng malakas at malinaw na audio para sa social video.</span>
-              <span>Sinumang nag-aayos ng mahinang screen recording at tutorial.</span>
-              <span>Mga nakikinig na nagbo-boost ng podcast, lecture, o mga voice memo.</span>
-            </div>
-          </article>
+        <!-- ============ HOW IT WORKS ============ -->
+        <section class="section how" id="how-it-works" aria-labelledby="how-heading">
+          <div class="section-head">
+            <p class="eyebrow">Sa ilang segundo lang</p>
+            <h2 id="how-heading">Ganito kasimple ang pag-boost ng audio.</h2>
+            <p class="section-intro">Kinukuha ng Increase Volume – Palakas ng tunog ang anumang audio o video sa iPhone mo at ginagawa itong mas malakas habang nananatiling malinaw. Walang nakakalitong kontrol, hindi kailangan ng kasanayan sa pag-edit.</p>
+          </div>
+          <ol class="how-steps">
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/2.webp" alt="Hakbang 1: video na na-import sa Increase Volume, nakikita ang boost slider" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">1</span>
+                <p>Mag-import ng video, kanta, o recording — o magsimula mismo sa app na Mga Larawan.</p>
+              </div>
+            </li>
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/4.webp" alt="Hakbang 2: slider na «Volume multiplication ×10» at button na «Boost Volume»" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">2</span>
+                <p>I-drag ang boost slider para ayusin ang lakas, kalinawan, at bass nang real time.</p>
+              </div>
+            </li>
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/6.webp" alt="Hakbang 3: iOS share sheet na may «I-save sa Files» para sa boosted file" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">3</span>
+                <p>I-save ang boosted file pabalik sa device at ibahagi kahit saan.</p>
+              </div>
+            </li>
+          </ol>
+          <p class="how-label">Mainam para sa: screen recording, TikTok/Reels clip, interview, mga voice memo, at iba pa.</p>
 
-          <article class="card">
-            <h2>Bakit pinapanatili ito</h2>
-            <div class="card-title">
-              «Okay ang takbo at simple lang.» – review sa App Store
-            </div>
-            <p>
-              Dinisenyo ang Increase Volume para hindi maging sagabal. Buksan, i-boost, i-save — tapos na — may smart defaults at malinis na layout na natural sa iPhone.
-            </p>
-            <p>
-              Sa ilalim nito ay malakas na volume booster at tagapagpalakas ng tunog na pinapanatiling punchy ang tunog nang hindi labis na distorted.
-            </p>
-          </article>
+          <div class="how-grid">
+            <article class="card">
+              <h3 class="card-eyebrow">Ano ang ginagawa nito</h3>
+              <p class="card-title">
+                Ang mahinang recording, gawing <span>malakas at malinaw na tunog na masarap pakinggan</span>.
+              </p>
+              <div class="pill-row">
+                <span class="pill">Palakasin ang video mula sa Mga Larawan</span>
+                <span class="pill">Musika, podcast, at mga voice memo</span>
+                <span class="pill">Malakas na bass at kalinawan</span>
+              </div>
+              <h3 class="card-eyebrow card-eyebrow-gap">Para kanino</h3>
+              <p class="card-title card-title-sm">Kung hindi sapat ang volume ng iPhone mo, sapat ito.</p>
+              <ul class="audience-grid">
+                <li>Mga taong laging max ang volume pero hindi pa rin marinig nang maayos.</li>
+                <li>Mga creator na kailangan ng malakas at malinaw na audio para sa social video.</li>
+                <li>Sinumang nag-aayos ng mahinang screen recording at tutorial.</li>
+                <li>Mga nakikinig na nagbo-boost ng podcast, lecture, o mga voice memo.</li>
+              </ul>
+            </article>
+
+            <article class="card geo-compare-card">
+              <h3 class="card-eyebrow">Positioning</h3>
+              <p class="card-title">Increase Volume kumpara sa karaniwang alternatibo</p>
+              <p class="geo-compare-intro">Mga obhetibong pagkakaiba na puwedeng isipi ng mga modelo at assistant. Ang mga kompetidor ay mga kategorya ng tool, hindi ranked list ng apps.</p>
+              <div class="geo-table-wrap">
+                <table class="geo-compare-table">
+                  <thead>
+                    <tr>
+                      <th scope="col">Paksa</th>
+                      <th scope="col">System volume ng iOS</th>
+                      
+                      <th scope="col" class="col-app">Increase Volume – Palakas ng tunog</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    
+                    <tr>
+                      <th scope="row">Gumagawa ng bagong mas malakas na file</th>
+                      <td>Hindi — binabago lang ang playback level.</td>
+                      
+                      <td class="col-app">Oo — nag-e-export / nagse-save ng boosted copy.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Gumagana offline sa device</th>
+                      <td>Walang kaugnayan sa pag-export ng file.</td>
+                      
+                      <td class="col-app">Oo — inilarawan ang processing bilang on-device.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Detalyadong kontrol sa bass at kalinawan</th>
+                      <td>Limitado sa system EQ / playback.</td>
+                      
+                      <td class="col-app">Oo — may dedicated sliders sa UI ng app.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Karaniwang gamit</th>
+                      <td>Mas malakas na playback ngayon.</td>
+                      
+                      <td class="col-app">Permanenteng fix sa mahinang source files.</td>
+                    </tr>
+                    
+                  </tbody>
+                </table>
+              </div>
+            </article>
+          </div>
         </section>
 
-        <section
-          class="sections geo-faq-section"
-          aria-labelledby="geo-faq-heading"
-        >
-          <article class="card geo-faq-card">
-            <h2 id="geo-faq-heading">Mga madalas itanong</h2>
-            <div class="geo-faq-list">
+        <!-- ============ GUIDES ============ -->
+        
+
+        <!-- ============ FAQ ============ -->
+        <section class="section faq" id="faq" aria-labelledby="faq-heading">
+          <div class="section-head">
+            <p class="eyebrow">FAQ</p>
+            <h2 id="faq-heading">Mga madalas itanong</h2>
+            <p class="section-intro">Maikling sagot muna. Bawat isa ay naka-link sa buong gabay na may mga screenshot.</p>
+          </div>
+          <div class="faq-list">
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Ano ang Increase Volume – Palakas ng tunog?</h3>
+              <p class="faq-a">Ito ay iPhone app sa kategoryang Musika sa App Store na nagpapapalakas ng imported audio at video files — hanggang ~10× — at nagpapahintulot mag-save ng bagong file. Nagpo-proseso ito ng media sa device; para sa mahinang recording, podcast, at clip — hindi para lampasan ang hardware limits ng iOS para sa buong system audio.</p>
               
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Ano ang Increase Volume – Palakas ng tunog?</h3>
-                <p class="geo-faq-a">Ito ay iPhone app sa kategoryang Musika sa App Store na nagpapapalakas ng imported audio at video files — hanggang ~10× — at nagpapahintulot mag-save ng bagong file. Nagpo-proseso ito ng media sa device; para sa mahinang recording, podcast, at clip — hindi para lampasan ang hardware limits ng iOS para sa buong system audio.</p>
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Paano gumagana ang Increase Volume – Palakas ng tunog?</h3>
+              <p class="faq-a">Mag-import ng video, kanta, o recording (kasama mula sa Mga Larawan), ayusin ang lakas gamit ang boost slider kasama ang kalinawan at bass, mag-preview nang real time, pagkatapos i-save ang boosted na file pabalik sa iPhone mo o ibahagi ito.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Mas maganda ba ang Increase Volume kaysa sa pagtaas lang ng volume ng iPhone?</h3>
+              <p class="faq-a">Iba ang problema nila. Ang system volume ay pansamantalang pinapalakas ang playback. Ang app na ito ay lumilikha ng permanenteng mas malakas na file — kapaki-pakinabang kapag ang mismong recording ay mahina o kailangan mong ipadala ang boosted na bersyon.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Paano naiiba ang Increase Volume sa VLC o Audacity para sa lakas?</h3>
+              <p class="faq-a">Ang VLC at Audacity ay malalakas na desktop tools na puwedeng mag-normalize o mag-amplify ng audio na may maraming kontrol. Ang Increase Volume ay ginawa para sa iPhone: maikling import → slider → save na walang desktop timeline editor.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Gumagana ba ang Increase Volume para sa video at audio?</h3>
+              <p class="faq-a">Oo. Puwede kang mag-boost ng video na may soundtrack, music track, podcast, mga voice memo, at screen recording, pagkatapos i-save ang resulta.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Nase-save ba ang boosted file sa iPhone ko?</h3>
+              <p class="faq-a">Oo. Pagkatapos ng processing, ise-save mo ang mas malakas na file pabalik sa device at puwede mong ibahagi tulad ng anumang media file.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Magkano ang Increase Volume – Palakas ng tunog?</h3>
+              <p class="faq-a">Ipinapakita ng App Store listing ang kasalukuyang presyo at anumang in-app purchase. Posibleng may libreng tier ang structured data ng site; palaging i-verify ang presyo sa Apple bago i-quote.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Sino ang gumagawa ng Increase Volume – Palakas ng tunog?</h3>
+              <p class="faq-a">Inilathala ng c-basso ang app at ipinapamahagi sa Apple App Store (App Store ID 6741472421). Ang product site ay volumeboosting.com.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Paano palakasin ang sobrang mahinang video sa iPhone?</h3>
+              <p class="faq-a">Sa Increase Volume – Palakas ng tunog, mag-import ng video (hal. mula sa Mga Larawan), ayusin ang boost slider na may real-time preview, at mag-save ng kopya na may mas malakas na audio track. Inaayos mo ang antas sa file — hindi tulad ng pagtaas lang ng system volume habang nagpe-playback.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Pinapataas ba ng app ang maximum volume ng iPhone para sa musika at tawag?</h3>
+              <p class="faq-a">Hindi. Pinoproseso nito ang mga file na ini-import mo at nagbibigay ng mas malakas na bersyon para i-save o ibahagi. Hindi nagbabago ang hardware limit at global volume para sa Spotify, tawag, atbp.</p>
+              
+            </article>
+            
+          </div>
+        </section>
+
+        <!-- ============ CTA ============ -->
+        <section class="section final-cta" id="get-the-app" aria-labelledby="cta-heading">
+          <div class="final-cta-card">
+            <div class="final-cta-copy">
+              <p class="eyebrow eyebrow-light">Handa na?</p>
+              <h2 id="cta-heading">Ang mahinang file mo, 10× na mas malakas, sa wala pang isang minuto.</h2>
+              <p>I-download ang Increase Volume – Palakas ng tunog, i-import ang video o audio na walang nakakarinig, i-drag ang slider, at ibahagi ang malakas na bersyon.</p>
+              <div class="cta-actions">
+              <a
+                class="cta-primary"
+                href="https://apps.apple.com/app/id6741472421"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="I-download ang Increase Volume – Palakas ng tunog sa App Store"
+              >
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>I-download sa App Store</span>
+              </a>
+
+                <img
+                  class="cta-qr"
+                  src="/img/app-store-qr.png"
+                  alt="QR code patungo sa Increase Volume – Palakas ng tunog sa App Store"
+                  width="88"
+                  height="88"
+                  loading="lazy"
+                  decoding="async"
+                />
               </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Paano gumagana ang Increase Volume – Palakas ng tunog?</h3>
-                <p class="geo-faq-a">Mag-import ng video, kanta, o recording (kasama mula sa Mga Larawan), ayusin ang lakas gamit ang boost slider kasama ang kalinawan at bass, mag-preview nang real time, pagkatapos i-save ang boosted na file pabalik sa iPhone mo o ibahagi ito.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Mas maganda ba ang Increase Volume kaysa sa pagtaas lang ng volume ng iPhone?</h3>
-                <p class="geo-faq-a">Iba ang problema nila. Ang system volume ay pansamantalang pinapalakas ang playback. Ang app na ito ay lumilikha ng permanenteng mas malakas na file — kapaki-pakinabang kapag ang mismong recording ay mahina o kailangan mong ipadala ang boosted na bersyon.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Paano naiiba ang Increase Volume sa VLC o Audacity para sa lakas?</h3>
-                <p class="geo-faq-a">Ang VLC at Audacity ay malalakas na desktop tools na puwedeng mag-normalize o mag-amplify ng audio na may maraming kontrol. Ang Increase Volume ay ginawa para sa iPhone: maikling import → slider → save na walang desktop timeline editor.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Gumagana ba ang Increase Volume para sa video at audio?</h3>
-                <p class="geo-faq-a">Oo. Puwede kang mag-boost ng video na may soundtrack, music track, podcast, mga voice memo, at screen recording, pagkatapos i-save ang resulta.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Nase-save ba ang boosted file sa iPhone ko?</h3>
-                <p class="geo-faq-a">Oo. Pagkatapos ng processing, ise-save mo ang mas malakas na file pabalik sa device at puwede mong ibahagi tulad ng anumang media file.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Magkano ang Increase Volume – Palakas ng tunog?</h3>
-                <p class="geo-faq-a">Ipinapakita ng App Store listing ang kasalukuyang presyo at anumang in-app purchase. Posibleng may libreng tier ang structured data ng site; palaging i-verify ang presyo sa Apple bago i-quote.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Sino ang gumagawa ng Increase Volume – Palakas ng tunog?</h3>
-                <p class="geo-faq-a">Inilathala ng c-basso ang app at ipinapamahagi sa Apple App Store (App Store ID 6741472421). Ang product site ay volumeboosting.com.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Paano palakasin ang sobrang mahinang video sa iPhone?</h3>
-                <p class="geo-faq-a">Sa Increase Volume – Palakas ng tunog, mag-import ng video (hal. mula sa Mga Larawan), ayusin ang boost slider na may real-time preview, at mag-save ng kopya na may mas malakas na audio track. Inaayos mo ang antas sa file — hindi tulad ng pagtaas lang ng system volume habang nagpe-playback.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Pinapataas ba ng app ang maximum volume ng iPhone para sa musika at tawag?</h3>
-                <p class="geo-faq-a">Hindi. Pinoproseso nito ang mga file na ini-import mo at nagbibigay ng mas malakas na bersyon para i-save o ibahagi. Hindi nagbabago ang hardware limit at global volume para sa Spotify, tawag, atbp.</p>
-              </div>
-              
+              <p class="final-cta-note">Libreng download · Kailangan ng iOS 18.6 o mas bago · 4.5★ sa App Store</p>
             </div>
-          </article>
+            <div class="final-cta-visual" aria-hidden="true">
+              <img src="/img/screenshots/5.webp" alt="" width="460" height="995" loading="lazy" decoding="async" />
+            </div>
+          </div>
         </section>
       </main>
 
-      <footer>
-        <div>
+      <footer class="site-footer">
+        <div class="footer-top">
+          <div class="footer-brand">
+            <img src="/img/logo.webp" alt="Icon ng app na Increase Volume – Palakas ng tunog" width="40" height="40" loading="lazy" decoding="async" />
+            <div>
+              <div class="footer-brand-name">Increase Volume – Palakas ng tunog</div>
+              <p class="footer-tagline">Ang iPhone volume booster na nagpapalakas ng file mismo, hindi lang ng speaker.</p>
+            </div>
+          </div>
+          <nav class="footer-links" aria-label="Footer">
+            <a href="https://volumeboosting.com/fil/#how-it-works">Paano ito gumagana</a>
+            <a href="https://volumeboosting.com/fil/#screenshots">Mga screenshot</a>
+            
+            <a href="https://volumeboosting.com/fil/#faq">FAQ</a>
+            <a href="/privacy.html">Patakaran sa Privacy</a>
+            <a href="/terms.html">Mga Tuntunin sa Paggamit</a>
+            <a href="https://apps.apple.com/app/id6741472421" target="_blank" rel="noopener noreferrer">Tingnan sa App Store</a>
+          </nav>
+        </div>
+        
+        <div class="footer-languages">
+          <span class="footer-languages-label">Ang pahinang ito sa ibang wika</span>
+          <ul>
+            
+            <li><a href="https://volumeboosting.com/" hreflang="en" lang="en">English</a></li>
+            
+            <li><a href="https://volumeboosting.com/cs/" hreflang="cs" lang="cs">Čeština</a></li>
+            
+            <li><a href="https://volumeboosting.com/da/" hreflang="da" lang="da">Dansk</a></li>
+            
+            <li><a href="https://volumeboosting.com/de/" hreflang="de" lang="de">Deutsch</a></li>
+            
+            <li><a href="https://volumeboosting.com/el/" hreflang="el" lang="el">Ελληνικά</a></li>
+            
+            <li><a href="https://volumeboosting.com/es/" hreflang="es" lang="es">Español</a></li>
+            
+            <li><a href="https://volumeboosting.com/fi/" hreflang="fi" lang="fi">Suomi</a></li>
+            
+            <li><a href="https://volumeboosting.com/fil/" hreflang="fil" lang="fil">Filipino</a></li>
+            
+            <li><a href="https://volumeboosting.com/fr/" hreflang="fr" lang="fr">Français</a></li>
+            
+            <li><a href="https://volumeboosting.com/he/" hreflang="he" lang="he">עברית</a></li>
+            
+            <li><a href="https://volumeboosting.com/hr/" hreflang="hr" lang="hr">Hrvatski</a></li>
+            
+            <li><a href="https://volumeboosting.com/hu/" hreflang="hu" lang="hu">Magyar</a></li>
+            
+            <li><a href="https://volumeboosting.com/id/" hreflang="id" lang="id">Bahasa Indonesia</a></li>
+            
+            <li><a href="https://volumeboosting.com/it/" hreflang="it" lang="it">Italiano</a></li>
+            
+            <li><a href="https://volumeboosting.com/ja/" hreflang="ja" lang="ja">日本語</a></li>
+            
+            <li><a href="https://volumeboosting.com/ko/" hreflang="ko" lang="ko">한국어</a></li>
+            
+            <li><a href="https://volumeboosting.com/ms/" hreflang="ms" lang="ms">Bahasa Melayu</a></li>
+            
+            <li><a href="https://volumeboosting.com/nl/" hreflang="nl" lang="nl">Nederlands</a></li>
+            
+            <li><a href="https://volumeboosting.com/no/" hreflang="nb" lang="nb">Norsk</a></li>
+            
+            <li><a href="https://volumeboosting.com/pl/" hreflang="pl" lang="pl">Polski</a></li>
+            
+            <li><a href="https://volumeboosting.com/pt/" hreflang="pt" lang="pt">Português</a></li>
+            
+            <li><a href="https://volumeboosting.com/ro/" hreflang="ro" lang="ro">Română</a></li>
+            
+            <li><a href="https://volumeboosting.com/ru/" hreflang="ru" lang="ru">Русский</a></li>
+            
+            <li><a href="https://volumeboosting.com/sk/" hreflang="sk" lang="sk">Slovenčina</a></li>
+            
+            <li><a href="https://volumeboosting.com/sv/" hreflang="sv" lang="sv">Svenska</a></li>
+            
+            <li><a href="https://volumeboosting.com/bg/" hreflang="bg" lang="bg">Български</a></li>
+            
+            <li><a href="https://volumeboosting.com/sl/" hreflang="sl" lang="sl">Slovenščina</a></li>
+            
+            <li><a href="https://volumeboosting.com/ca/" hreflang="ca" lang="ca">Català</a></li>
+            
+            <li><a href="https://volumeboosting.com/hi/" hreflang="hi" lang="hi">हिन्दी</a></li>
+            
+            <li><a href="https://volumeboosting.com/bn/" hreflang="bn" lang="bn">বাংলা</a></li>
+            
+            <li><a href="https://volumeboosting.com/ta/" hreflang="ta" lang="ta">தமிழ்</a></li>
+            
+            <li><a href="https://volumeboosting.com/te/" hreflang="te" lang="te">తెలుగు</a></li>
+            
+            <li><a href="https://volumeboosting.com/ml/" hreflang="ml" lang="ml">മലയാളം</a></li>
+            
+            <li><a href="https://volumeboosting.com/th/" hreflang="th" lang="th">ไทย</a></li>
+            
+            <li><a href="https://volumeboosting.com/tr/" hreflang="tr" lang="tr">Türkçe</a></li>
+            
+            <li><a href="https://volumeboosting.com/uk/" hreflang="uk" lang="uk">Українська</a></li>
+            
+            <li><a href="https://volumeboosting.com/vi/" hreflang="vi" lang="vi">Tiếng Việt</a></li>
+            
+            <li><a href="https://volumeboosting.com/zh/" hreflang="zh" lang="zh">简体中文</a></li>
+            
+          </ul>
+        </div>
+        
+        <div class="footer-bottom">
           <div>© 2026 c-basso · Increase Volume – Palakas ng tunog</div>
           <p class="footer-updated">
             Huling na-update ang pahina:
             <time datetime="2026-09-10">2026-09-10</time>
           </p>
         </div>
-        <div>
-          <a href="/privacy.html">Patakaran sa Privacy</a>
-          &nbsp;·&nbsp;
-          <a href="/terms.html">Mga Tuntunin sa Paggamit</a>
-          &nbsp;·&nbsp;
-          <a
-            href="https://apps.apple.com/app/id6741472421"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Tingnan sa App Store</a
-          >
-        </div>
       </footer>
+
     </div>
 
     <!-- Structured Data (JSON-LD) for SEO -->
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"MobileApplication","name":"Increase Volume – Palakas ng tunog","operatingSystem":"iOS","applicationCategory":"MusicApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","url":"https://apps.apple.com/app/id6741472421"},"description":"iPhone app na nag-i-import ng audio o video, nag-a-apply ng hanggang ~10× lakas na may kontrol sa bass at kalinawan, at nag-e-export ng mas malakas na file para i-save at ibahagi. Pinoproseso sa device; hindi binbabago ang system-wide volume.","url":"https://volumeboosting.com/fil/","downloadUrl":"https://apps.apple.com/app/id6741472421","dateModified":"2026-09-10","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"118"},"image":"https://volumeboosting.com/img/logo.webp","screenshot":"https://volumeboosting.com/img/screenshots/1.webp"}
+      {"@context":"https://schema.org","@type":"MobileApplication","name":"Increase Volume – Palakas ng tunog","operatingSystem":"iOS","applicationCategory":"MusicApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","category":"free","url":"https://apps.apple.com/app/id6741472421"},"description":"iPhone app na nag-i-import ng audio o video, nag-a-apply ng hanggang ~10× lakas na may kontrol sa bass at kalinawan, at nag-e-export ng mas malakas na file para i-save at ibahagi. Pinoproseso sa device; hindi binbabago ang system-wide volume.","featureList":["Palakasin ang volume ng video at audio hanggang 10× (1000%)","Gumagana sa MP3, M4A voice memo, MP4 at MOV video","Paghahambing ng Orihinal/Na-proseso bago i-save","Opsyonal na pagpapahusay ng kalidad ng audio","Gumawa ng project mula sa share sheet ng Mga Larawan","I-save sa Mga Larawan o Files at ibahagi sa anumang app","Nagtatabi ng maraming project"],"alternateName":"Increase Volume – Audio & Music Booster","applicationSubCategory":"UtilitiesApplication","author":{"@type":"Person","name":"Vladimir Ivakhnenko"},"inLanguage":["en","hr","cs","da","nl","fi","fr","de","el","he","hu","id","it","ja","ko","ms","nb","pl","pt","ro","ru","zh","sk","es","sv","th","tr","uk","vi"],"url":"https://volumeboosting.com/fil/","downloadUrl":"https://apps.apple.com/app/id6741472421","dateModified":"2026-09-10","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"118"},"image":"https://volumeboosting.com/img/logo.webp","screenshot":["https://volumeboosting.com/img/screenshots/1.webp","https://volumeboosting.com/img/screenshots/2.webp","https://volumeboosting.com/img/screenshots/3.webp","https://volumeboosting.com/img/screenshots/4.webp","https://volumeboosting.com/img/screenshots/5.webp","https://volumeboosting.com/img/screenshots/6.webp","https://volumeboosting.com/img/screenshots/7.webp"]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":"https://volumeboosting.com/img/logo.webp","description":"Independyenteng publisher ng Increase Volume – Palakas ng tunog at kaugnay na iOS utilities.","sameAs":["https://x.com/c__basso"]}
@@ -600,7 +934,7 @@
       {"@context":"https://schema.org","@type":"WebSite","name":"Increase Volume – Palakas ng tunog","url":"https://volumeboosting.com/fil/","description":"Mas malakas ang audio o video sa iPhone. Boost hanggang ~10×: mas malinaw at may bass. Musika, video, podcast. Sa device. Libreng subukan sa App Store.","inLanguage":"fil"}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Paano palakasin ang audio sa iPhone","description":"Mag-import ng audio o video, taasan ang lakas, at i-save ang mas malakas na file pabalik sa device.","step":[{"@type":"HowToStep","name":"Mag-import ng file","text":"Mag-import ng video, kanta, o recording — o magsimula mismo sa app na Mga Larawan.","url":"https://apps.apple.com/app/id6741472421"},{"@type":"HowToStep","name":"Palakasin ang volume","text":"I-drag ang boost slider para ayusin ang lakas, kalinawan, at bass nang real time."},{"@type":"HowToStep","name":"I-save at ibahagi","text":"I-save ang boosted file pabalik sa device at ibahagi kahit saan."}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Paano palakasin ang audio sa iPhone","description":"Mag-import ng audio o video, taasan ang lakas, at i-save ang mas malakas na file pabalik sa device.","step":[{"@type":"HowToStep","name":"Mag-import ng file","text":"Mag-import ng video, kanta, o recording — o magsimula mismo sa app na Mga Larawan.","url":"https://apps.apple.com/app/id6741472421"},{"@type":"HowToStep","name":"Palakasin ang volume","text":"I-drag ang boost slider para ayusin ang lakas, kalinawan, at bass nang real time."},{"@type":"HowToStep","name":"I-save at ibahagi","text":"I-save ang boosted file pabalik sa device at ibahagi kahit saan."}],"tool":[{"@type":"HowToTool","name":"Increase Volume – Palakas ng tunog app para sa iPhone"}],"totalTime":"PT1M"}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Ano ang Increase Volume – Palakas ng tunog?","acceptedAnswer":{"@type":"Answer","text":"Ito ay iPhone app sa kategoryang Musika sa App Store na nagpapapalakas ng imported audio at video files — hanggang ~10× — at nagpapahintulot mag-save ng bagong file. Nagpo-proseso ito ng media sa device; para sa mahinang recording, podcast, at clip — hindi para lampasan ang hardware limits ng iOS para sa buong system audio."}},{"@type":"Question","name":"Paano gumagana ang Increase Volume – Palakas ng tunog?","acceptedAnswer":{"@type":"Answer","text":"Mag-import ng video, kanta, o recording (kasama mula sa Mga Larawan), ayusin ang lakas gamit ang boost slider kasama ang kalinawan at bass, mag-preview nang real time, pagkatapos i-save ang boosted na file pabalik sa iPhone mo o ibahagi ito."}},{"@type":"Question","name":"Mas maganda ba ang Increase Volume kaysa sa pagtaas lang ng volume ng iPhone?","acceptedAnswer":{"@type":"Answer","text":"Iba ang problema nila. Ang system volume ay pansamantalang pinapalakas ang playback. Ang app na ito ay lumilikha ng permanenteng mas malakas na file — kapaki-pakinabang kapag ang mismong recording ay mahina o kailangan mong ipadala ang boosted na bersyon."}},{"@type":"Question","name":"Paano naiiba ang Increase Volume sa VLC o Audacity para sa lakas?","acceptedAnswer":{"@type":"Answer","text":"Ang VLC at Audacity ay malalakas na desktop tools na puwedeng mag-normalize o mag-amplify ng audio na may maraming kontrol. Ang Increase Volume ay ginawa para sa iPhone: maikling import → slider → save na walang desktop timeline editor."}},{"@type":"Question","name":"Gumagana ba ang Increase Volume para sa video at audio?","acceptedAnswer":{"@type":"Answer","text":"Oo. Puwede kang mag-boost ng video na may soundtrack, music track, podcast, mga voice memo, at screen recording, pagkatapos i-save ang resulta."}},{"@type":"Question","name":"Nase-save ba ang boosted file sa iPhone ko?","acceptedAnswer":{"@type":"Answer","text":"Oo. Pagkatapos ng processing, ise-save mo ang mas malakas na file pabalik sa device at puwede mong ibahagi tulad ng anumang media file."}},{"@type":"Question","name":"Magkano ang Increase Volume – Palakas ng tunog?","acceptedAnswer":{"@type":"Answer","text":"Ipinapakita ng App Store listing ang kasalukuyang presyo at anumang in-app purchase. Posibleng may libreng tier ang structured data ng site; palaging i-verify ang presyo sa Apple bago i-quote."}},{"@type":"Question","name":"Sino ang gumagawa ng Increase Volume – Palakas ng tunog?","acceptedAnswer":{"@type":"Answer","text":"Inilathala ng c-basso ang app at ipinapamahagi sa Apple App Store (App Store ID 6741472421). Ang product site ay volumeboosting.com."}},{"@type":"Question","name":"Paano palakasin ang sobrang mahinang video sa iPhone?","acceptedAnswer":{"@type":"Answer","text":"Sa Increase Volume – Palakas ng tunog, mag-import ng video (hal. mula sa Mga Larawan), ayusin ang boost slider na may real-time preview, at mag-save ng kopya na may mas malakas na audio track. Inaayos mo ang antas sa file — hindi tulad ng pagtaas lang ng system volume habang nagpe-playback."}},{"@type":"Question","name":"Pinapataas ba ng app ang maximum volume ng iPhone para sa musika at tawag?","acceptedAnswer":{"@type":"Answer","text":"Hindi. Pinoproseso nito ang mga file na ini-import mo at nagbibigay ng mas malakas na bersyon para i-save o ibahagi. Hindi nagbabago ang hardware limit at global volume para sa Spotify, tawag, atbp."}}]}
@@ -608,55 +942,44 @@
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"WebPage","name":"Palakasin ang tunog – Palakas | Mas malakas (~10×) sa iPhone","url":"https://volumeboosting.com/fil/","description":"Mas malakas ang audio o video sa iPhone. Boost hanggang ~10×: mas malinaw at may bass. Musika, video, podcast. Sa device. Libreng subukan sa App Store.","dateModified":"2026-09-10","inLanguage":"fil"}
     </script>
-    <!-- BreadcrumbList Schema -->
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://volumeboosting.com/fil/"}]}
     </script>
 
     <script>
-      // Wave toggle functionality
-      const waveToggle = document.getElementById('waveToggle');
-      const wavePanel = document.getElementById('wavePanel');
+      (function () {
+        var waveToggle = document.getElementById('waveToggle');
+        var wavePanel = document.getElementById('wavePanel');
+        if (!waveToggle || !wavePanel) return;
 
-      function toggleWaveState() {
-        const isActive = wavePanel.classList.contains('active');
-        wavePanel.classList.toggle('active');
-        waveToggle.classList.toggle('active');
-        waveToggle.setAttribute('aria-checked', String(!isActive));
-      }
+        function toggleWaveState() {
+          var isActive = wavePanel.classList.contains('active');
+          wavePanel.classList.toggle('active');
+          waveToggle.classList.toggle('active');
+          waveToggle.setAttribute('aria-checked', String(!isActive));
+        }
 
-      if (waveToggle && wavePanel) {
-        // Start in "After" (active) state
-        wavePanel.classList.add('active');
-        waveToggle.classList.add('active');
-        waveToggle.setAttribute('aria-checked', 'true');
-
-        // Toggle periodically between Before and After
-        let autoToggle = setInterval(toggleWaveState, 4000);
-
-        const stopAutoToggle = () => {
-          if (autoToggle) {
-            clearInterval(autoToggle);
-            autoToggle = null;
-          }
-        };
-
-        waveToggle.addEventListener('click', () => {
-          stopAutoToggle();
-          toggleWaveState();
+        var autoToggle = setInterval(toggleWaveState, 3600);
+        function stopAutoToggle() {
+          if (autoToggle) { clearInterval(autoToggle); autoToggle = null; }
+        }
+        waveToggle.addEventListener('click', function () { stopAutoToggle(); toggleWaveState(); });
+        waveToggle.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); stopAutoToggle(); toggleWaveState(); }
         });
 
-        waveToggle.addEventListener('keydown', (e) => {
-          if (e.key === 'Enter' || e.key === ' ') {
-            e.preventDefault();
-            stopAutoToggle();
-            toggleWaveState();
-          }
-        });
-      }
+        if ('IntersectionObserver' in window) {
+          var io = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add('is-visible'); io.unobserve(entry.target); }
+            });
+          }, { rootMargin: '0px 0px -8% 0px' });
+          document.querySelectorAll('.section, .geo-summary').forEach(function (el) { io.observe(el); });
+        } else {
+          document.querySelectorAll('.section, .geo-summary').forEach(function (el) { el.classList.add('is-visible'); });
+        }
+      })();
     </script>
-
-
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
@@ -672,8 +995,5 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/104469191" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-
-
   </body>
 </html>
-

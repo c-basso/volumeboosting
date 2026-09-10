@@ -46,13 +46,34 @@
     "footnote_item4": "socialmediaclips",
     "footnote_last_joiner": " en ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Geluidsboost op iPhone — audio- en videovolume versterken"
+    "device_image_alt": "Increase Volume – Geluidsboost op iPhone — audio- en videovolume versterken",
+    "cta_secondary_link": "Bekijk hoe het werkt",
+    "proof_aria": "Feiten over de app",
+    "proof": [
+      {
+        "value": "4,5★",
+        "label": "118 beoordelingen in de App Store"
+      },
+      {
+        "value": "10×",
+        "label": "maximale versterking"
+      },
+      {
+        "value": "Audio + video",
+        "label": "MP3, MP4, MOV, spraakmemo's"
+      },
+      {
+        "value": "Op het apparaat",
+        "label": "er wordt niets geüpload"
+      }
+    ]
   },
   "wave": {
     "before_label": "Voor",
     "after_label": "Na",
     "before_text": "Stille, vlakke originele audio",
-    "after_text": "Na boost: vol en helder geluid"
+    "after_text": "Na boost: vol en helder geluid",
+    "toggle_aria": "Wissel tussen de originele en de versterkte golfvorm"
   },
   "sections": {
     "features_uses_aria": "Functies en toepassingen",
@@ -157,7 +178,11 @@
     "last_updated_label": "Laatst bijgewerkt:",
     "privacy_link": "Privacybeleid",
     "terms_link": "Gebruiksvoorwaarden",
-    "app_store_link_text": "Bekijk in de App Store"
+    "app_store_link_text": "Bekijk in de App Store",
+    "tagline": "De volume-booster voor iPhone die het bestand luider maakt, niet alleen de luidspreker.",
+    "links_aria": "Voettekst",
+    "guides_link_text": "Handleidingen",
+    "languages_label": "Deze pagina in andere talen"
   },
   "seo": {
     "breadcrumb_home": "Home",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "iPhone-app die audio of video importeert, met bas- en helderheidsregelaars tot ongeveer 10× versterkt, en een luider bestand exporteert om op te slaan en te delen. Verwerking op het apparaat; wijzigt het systeemvolume niet systeembreed."
+        "description": "iPhone-app die audio of video importeert, met bas- en helderheidsregelaars tot ongeveer 10× versterkt, en een luider bestand exporteert om op te slaan en te delen. Verwerking op het apparaat; wijzigt het systeemvolume niet systeembreed.",
+        "featureList": [
+          "Versterkt het volume van video en audio tot 10× (1000%)",
+          "Werkt met mp3, M4A-spraakmemo's en mp4- en mov-video",
+          "Vergelijking Origineel/Verwerkt voordat je opslaat",
+          "Optionele verbetering van de audiokwaliteit",
+          "Maak een project aan vanuit het deelvenster van Foto's",
+          "Bewaar in Foto's of Bestanden en deel met elke app",
+          "Bewaart meerdere projecten"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "Opslaan en delen",
             "text": "Sla het versterkte bestand op je apparaat op en deel het overal."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Increase Volume – Geluidsboost-app voor iPhone"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Hoofdnavigatie",
+    "how_it_works": "Zo werkt het",
+    "screenshots": "Schermafbeeldingen",
+    "guides": "Handleidingen",
+    "faq": "FAQ",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "Downloaden",
+    "title": "Download Increase Volume – Geluidsboost in de App Store",
+    "subtitle": "Audio & Music Booster · Categorie «Muziek» · iPhone",
+    "price": "Gratis",
+    "price_note": "Optionele in-app-aankopen (gratis proefperiode of eenmalige levenslange licentie)",
+    "rating_line": "4,5 ★ · 118 beoordelingen in de App Store",
+    "qr_alt": "QR-code naar Increase Volume – Geluidsboost in de App Store",
+    "qr_label": "Scan met de camera van je iPhone",
+    "requirements": "Vereist iOS 18.6 of nieuwer · 26,8 MB · Nederlands + 30 andere talen · Leeftijd 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Schermafbeeldingen",
+    "title": "Zo ziet de app eruit op je iPhone",
+    "intro": "Dezelfde schermen als in de App Store: één schuifregelaar, een vergelijking Origineel/Verwerkt en een deelvenster dat het luidere bestand overal brengt waar je het nodig hebt.",
+    "aria": "Schermafbeeldingen van de app, horizontaal scrollen",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Marketingafbeelding van Increase Volume: volume-booster en geluidsversterker, tot tien keer luider",
+        "caption": "Volume-booster en geluidsversterker: tot 10× luider."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Videospeler in Increase Volume, een vinger sleept de roze boost-schuifregelaar om de video luider te maken",
+        "caption": "Maak een video luider: sleep de schuifregelaar op de videovoorvertoning."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume verwerkt een mp3-bestand en toont bestandsnaam, grootte en duur",
+        "caption": "Maak muziek luider: mp3 en andere audiobestanden worden op het apparaat verwerkt."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Trackgegevens met de schakelaar 'Audiokwaliteit verbeteren', de schuifregelaar 'Volumevermenigvuldiging ×10' en de knop 'Volume versterken tot ×10'",
+        "caption": "Kies hoeveel je versterkt, van een lichte boost tot 10×."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Resultaatscherm met de knop 'Verwerkt bestand downloaden' en de schakelaar Origineel/Verwerkt",
+        "caption": "Beluister het resultaat en vergelijk het met het origineel voordat je opslaat."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "iOS-deelvenster met Kopieer, Voeg tags toe en Bewaar in Bestanden voor de versterkte audio",
+        "caption": "Download en deel overal: Foto's, Bestanden, Berichten, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Projectenlijst in Increase Volume met mp3- en mp4-bestanden, grootte en duur",
+        "caption": "Bewaar meerdere projecten en ga er later mee verder."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "Stap 1: video geïmporteerd in Increase Volume met de boost-schuifregelaar zichtbaar",
+    "step_2_alt": "Stap 2: schuifregelaar 'Volumevermenigvuldiging ×10' en knop 'Volume versterken'",
+    "step_3_alt": "Stap 3: iOS-deelvenster met 'Bewaar in Bestanden' voor het versterkte bestand"
+  },
+  "faq_section": {
+    "eyebrow": "FAQ",
+    "intro": "Eerst korte antwoorden. Elk antwoord linkt naar een volledige handleiding met schermafbeeldingen.",
+    "learn_more_label": "Meer informatie"
+  },
+  "cta": {
+    "eyebrow": "Klaar?",
+    "title": "Je stille bestand, 10× luider, in minder dan een minuut.",
+    "text": "Download Increase Volume – Geluidsboost, importeer de video of audio die niemand kan horen, sleep de schuifregelaar en deel de luide versie.",
+    "note": "Gratis download · Vereist iOS 18.6 of nieuwer · 4,5★ in de App Store"
   }
 }

@@ -136,27 +136,14 @@
     <meta name="twitter:image:width" content="1026" />
     <meta name="twitter:image:height" content="539" />
 
-    <link
-      rel="preconnect"
-      href="https://apps.apple.com"
-    />
-    <link
-      rel="preconnect"
-      href="https://fonts.googleapis.com"
-    />
-    <link
-      rel="preconnect"
-      href="https://fonts.gstatic.com"
-      crossorigin
-    />
-    <link
-      rel="preconnect"
-      href="https://mc.yandex.ru"
-    />
+    <link rel="preconnect" href="https://apps.apple.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://mc.yandex.ru" />
     <link rel="dns-prefetch" href="https://apps.apple.com" />
     <link rel="dns-prefetch" href="https://mc.yandex.ru" />
     <link
-      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Instrument+Sans:wght@400;500;600&display=swap"
       rel="stylesheet"
     />
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico" />
@@ -172,101 +159,116 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1789027622208"
+      href="/style.css?v=1789035383954"
     />
+    <script>document.documentElement.classList.add('js');</script>
+
   </head>
-  <body>
+  <body class="page-home">
+    <div class="bg-grid" aria-hidden="true"></div>
     <div class="noise-layer" aria-hidden="true"></div>
     <div class="page-shell">
-      <header>
-        <div class="brand">
-          <div class="brand-logo">
+      <header class="site-header">
+        <a class="brand" href="https://volumeboosting.com/fr/" aria-label="Increase Volume – Boost sonore">
+          <span class="brand-logo">
             <img
               src="/img/logo.webp"
               alt="Icône de l'app Increase Volume – Boost sonore"
-              width="80"
-              height="80"
+              width="44"
+              height="44"
               loading="eager"
               decoding="async"
             />
-          </div>
-          <div class="brand-text">
-            <div class="brand-name">Volume Booster</div>
-            <div class="brand-subtitle">Boost sonore pour iPhone</div>
-          </div>
-        </div>
-        <div class="apple-pill">
-          <div class="apple-dot"></div>
-          <span>Conçu pour iPhone · Musique</span>
-        </div>
+          </span>
+          <span class="brand-text">
+            <span class="brand-name">Volume Booster</span>
+            <span class="brand-subtitle">Boost sonore pour iPhone</span>
+          </span>
+        </a>
+        <nav class="site-nav" aria-label="Navigation principale">
+          <a href="https://volumeboosting.com/fr/#how-it-works">Fonctionnement</a>
+          <a href="https://volumeboosting.com/fr/#screenshots">Captures</a>
+          
+          <a href="https://volumeboosting.com/fr/#faq">FAQ</a>
+        </nav>
+        <a
+          class="header-cta"
+          href="https://apps.apple.com/app/id6741472421"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Télécharger Increase Volume – Boost sonore sur l'App Store"
+        >
+          <svg class="apple-mark" width="14" height="17" viewBox="14 8 14 26" aria-hidden="true"><path fill="currentColor" d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"/><path fill="currentColor" d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"/></svg>
+          <span>App Store</span>
+        </a>
       </header>
 
-      <main>
+
+      <main id="main">
+        <!-- ============ HERO ============ -->
         <section class="hero" aria-labelledby="hero-heading">
           <div class="hero-copy">
-          <div class="hero-kicker">
-            <div class="pill-spark">10x</div>
-            <span>Transformez vidéos et audios discrets en son fort et net</span>
-          </div>
-          <h1 id="hero-heading">
-            Rendez n'importe quel audio ou vidéo
-            <span class="hero-title-highlight">jusqu'à ~10× plus fort</span>
-             sans perdre en clarté.
-          </h1>
-          <p class="hero-subtitle">
-            Increase Volume – Boost sonore est votre amplificateur de volume dédié à l'iPhone. Corrigez en quelques secondes les captures d'écran, podcasts et vidéos trop basses — avec un son net, puissant et des graves riches.
-          </p>
-
-          <div class="hero-metadata">
-            <span><span class="metadata-dot"></span> Uniquement iPhone</span>
-            <span>Rapide et simple, dans le respect de la vie privée</span>
-          </div>
+            <div class="hero-kicker">
+              <span class="sticker">10x</span>
+              <span>Transformez vidéos et audios discrets en son fort et net</span>
+            </div>
+            <h1 id="hero-heading">
+              Rendez n'importe quel audio ou vidéo
+              <span class="hero-title-highlight">jusqu'à ~10× plus fort</span>
+               sans perdre en clarté.
+            </h1>
+            <p class="hero-subtitle">Increase Volume – Boost sonore est votre amplificateur de volume dédié à l'iPhone. Corrigez en quelques secondes les captures d'écran, podcasts et vidéos trop basses — avec un son net, puissant et des graves riches.</p>
 
             <div class="cta-row">
               <div class="cta-actions">
-              <img
-                class="cta-qr"
-                src="/img/app-store-qr.png"
-                alt="Télécharger Increase Volume – Boost sonore sur l'App Store"
-                width="104"
-                height="104"
-                loading="lazy"
-                decoding="async"
-              />
               <a
                 class="cta-primary"
-              href="https://apps.apple.com/app/id6741472421"
+                href="https://apps.apple.com/app/id6741472421"
                 target="_blank"
                 rel="noopener noreferrer"
-              aria-label="Télécharger Increase Volume – Boost sonore sur l'App Store"
+                aria-label="Télécharger Increase Volume – Boost sonore sur l'App Store"
               >
-              <svg
-                class="cta-apple-icon"
-                width="18"
-                height="22"
-                viewBox="14 8 14 26"
-                aria-hidden="true"
-              >
-                <path
-                  fill="currentColor"
-                  d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
-                />
-                <path
-                  fill="currentColor"
-                  d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
-                />
-              </svg>
-              <span>Télécharger sur l'App Store</span>
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>Télécharger sur l'App Store</span>
               </a>
+
+                <a class="cta-ghost" href="#how-it-works">Voir comment ça marche</a>
               </div>
-              <div class="cta-secondary">
-              Boostez votre première vidéo <strong>gratuitement</strong>, et gardez ce niveau de volume pour toujours.
-              </div>
+              <p class="cta-secondary">
+                Boostez votre première vidéo <strong>gratuitement</strong>, et gardez ce niveau de volume pour toujours.
+              </p>
             </div>
 
+            <ul class="proof-row" aria-label="Faits sur l'app">
+              
+              <li><strong>4,5★</strong><span>118 notes sur l'App Store</span></li>
+              
+              <li><strong>10×</strong><span>amplification maximale</span></li>
+              
+              <li><strong>Audio + vidéo</strong><span>MP3, MP4, MOV, mémos vocaux</span></li>
+              
+              <li><strong>Sur l'appareil</strong><span>rien n'est envoyé en ligne</span></li>
+              
+            </ul>
+
             <p class="hero-footnote">
-            Parfait pour <span>mémos vocaux trop bas</span>, <span>films</span>,
-            <span>musique</span> et <span>clips pour les réseaux</span>.
+              Parfait pour <span>mémos vocaux trop bas</span>, <span>films</span>,
+              <span>musique</span> et <span>clips pour les réseaux</span>.
             </p>
           </div>
 
@@ -275,323 +277,655 @@
               <div class="device-column">
                 <div class="device-frame">
                   <div class="device-screen">
-                  <img
-                    src="/img/screenshots/1.webp"
-                    alt="Increase Volume – Boost sonore sur iPhone — renforcer le volume audio et vidéo"
-                    width="460"
-                    height="995"
-                    loading="lazy"
-                    decoding="async"
-                  />
+                    <img
+                      src="/img/screenshots/1.webp"
+                      alt="Increase Volume – Boost sonore sur iPhone — renforcer le volume audio et vidéo"
+                      width="460"
+                      height="995"
+                      loading="eager"
+                      fetchpriority="high"
+                      decoding="async"
+                    />
                   </div>
                 </div>
               </div>
               <div class="device-column wave-panel active" id="wavePanel">
                 <div class="wave-header">
                   <div class="wave-toggle-container">
-                  <span class="wave-toggle-label">Avant</span>
-                    <div class="wave-toggle active" id="waveToggle" role="switch" aria-checked="true" tabindex="0">
+                    <span class="wave-toggle-label">Avant</span>
+                    <div class="wave-toggle active" id="waveToggle" role="switch" aria-checked="true" tabindex="0" aria-label="Basculer entre la forme d'onde d'origine et la forme d'onde amplifiée">
                       <div class="wave-toggle-handle"></div>
                     </div>
-                  <span class="wave-toggle-label">Après</span>
+                    <span class="wave-toggle-label">Après</span>
                   </div>
                 </div>
                 <div class="wave-bars" aria-hidden="true">
-                  <!-- Wave bars - heights will be controlled by CSS based on state -->
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
-                  <div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+                  <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
                 </div>
-              <div class="wave-footer">
-                <div class="wave-footer-col">
-                  <div class="wave-footer-label">Avant</div>
-                  <div class="wave-footer-text">Audio d'origine faible et plat</div>
+                <div class="wave-footer">
+                  <div class="wave-footer-col">
+                    <div class="wave-footer-label">Avant</div>
+                    <div class="wave-footer-text">Audio d'origine faible et plat</div>
+                  </div>
+                  <div class="wave-footer-col">
+                    <div class="wave-footer-label">Après</div>
+                    <div class="wave-footer-text">Son amplifié, plein et clair</div>
+                  </div>
                 </div>
-                <div class="wave-footer-col">
-                  <div class="wave-footer-label">Après</div>
-                  <div class="wave-footer-text">Son amplifié, plein et clair</div>
-                </div>
-              </div>
+                <div class="wave-multiplier" aria-hidden="true">×10</div>
               </div>
             </div>
           </div>
         </section>
 
+        <!-- ============ SUMMARY (GEO) ============ -->
         <aside class="geo-summary" aria-label="Qu'est-ce que cette app">
           <p class="geo-summary-lead">En bref : Increase Volume – Boost sonore est une app iPhone (catégorie « Musique » sur l'App Store) qui traite audio et vidéo sur l'appareil, applique un gain jusqu'à ~10× avec réglages de clarté et de graves, et enregistre un nouveau fichier plus fort à conserver ou à partager. Ce n'est pas un outil pour contourner la limite du haut-parleur sur l'ensemble du système.</p>
           <p class="geo-summary-body">Publiée sur l'App Store par c-basso. Elle cible le même besoin : rendre audibles des podcasts, mémos vocaux, captures d'écran et clips de réseaux — comme une normalisation sur un logiciel de bureau, mais en flux iOS pensé en quelques gestes.</p>
         </aside>
 
-        <section class="sections geo-geo-row" aria-label="Faits et comparaison">
-          <article class="card">
-            <h2>En chiffres</h2>
-            <div class="card-title">Faits vérifiables sur l'app</div>
-            <ul class="geo-stats-list">
-              
-              <li>
-                <span class="geo-stat-value">Jusqu'à ~10×</span>
-                <span class="geo-stat-label">Facteur de renforcement maximal indiqué pour les exportations générées.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">iOS / iPhone</span>
-                <span class="geo-stat-label">Plateforme : app mobile native, pas macOS ni Android.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">4,5 / 5</span>
-                <span class="geo-stat-label">Note agrégée dans les données structurées (118 avis) ; vérifier sur l'App Store.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">Gratuit</span>
-                <span class="geo-stat-label">Listé comme gratuit sur l'App Store ; prix et achats intégrés sur la fiche Apple.</span>
-              </li>
-              
-              <li>
-                <span class="geo-stat-value">Importer → booster → enregistrer</span>
-                <span class="geo-stat-label">Flux principal : fichiers locaux en entrée, fichier ajusté en sortie.</span>
-              </li>
-              
-            </ul>
-          </article>
+        <!-- ============ DOWNLOAD ============ -->
+        <section class="section download" id="download" aria-labelledby="download-heading">
+          <div class="download-card">
+            <div class="download-app">
+              <img
+                class="download-icon"
+                src="/img/app-icon.webp"
+                alt="Icône de l'app Increase Volume – Boost sonore"
+                width="120"
+                height="120"
+                loading="lazy"
+                decoding="async"
+              />
+              <div class="download-app-text">
+                <p class="eyebrow">Télécharger</p>
+                <h2 id="download-heading">Téléchargez Increase Volume – Boost sonore sur l'App Store</h2>
+                <p class="download-app-subtitle">Audio & Music Booster · Catégorie « Musique » · iPhone</p>
+                <div class="download-price">
+                  <span class="price-tag">Gratuit</span>
+                  <span>Achats intégrés facultatifs (essai gratuit ou achat unique à vie)</span>
+                </div>
+                <div class="download-actions">
+              <a
+                class="cta-primary"
+                href="https://apps.apple.com/app/id6741472421"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Télécharger Increase Volume – Boost sonore sur l'App Store"
+              >
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>Télécharger sur l'App Store</span>
+              </a>
 
-          <article class="card geo-compare-card">
-            <h2>Positionnement</h2>
-            <div class="card-title">Increase Volume face aux alternatives courantes</div>
-            <p class="geo-compare-intro">Différences factuelles que modèles et assistants peuvent citer. Les concurrents relèvent de catégories d'outils, pas d'un classement d'apps.</p>
-            <div class="geo-table-wrap">
-              <table class="geo-compare-table">
-                <thead>
-                  <tr>
-                    <th scope="col">Sujet</th>
-                    <th scope="col">Volume système iOS</th>
-                    <th scope="col">Increase Volume – Boost sonore</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  
-                  <tr>
-                    <th scope="row">Crée un nouveau fichier plus fort</th>
-                    <td>Non — change seulement le niveau de lecture.</td>
-                    <td>Oui — export / copie amplifiée.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Fonctionne hors ligne sur l'appareil</th>
-                    <td>Non pertinent pour l'export de fichiers.</td>
-                    <td>Oui — traitement sur l'appareil.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Régler finement les graves et la clarté</th>
-                    <td>Limité à l'égaliseur système / lecture.</td>
-                    <td>Oui — curseurs dédiés dans l'interface.</td>
-                  </tr>
-                  
-                  <tr>
-                    <th scope="row">Cas d'usage typique</th>
-                    <td>Écouter plus fort maintenant.</td>
-                    <td>Correction durable des fichiers sources trop bas.</td>
-                  </tr>
-                  
-                </tbody>
-              </table>
+                  <div class="qr-block">
+                    <img
+                      class="cta-qr"
+                      src="/img/app-store-qr.png"
+                      alt="QR code vers Increase Volume – Boost sonore sur l'App Store"
+                      width="96"
+                      height="96"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                    <span>Scannez avec l'appareil photo de votre iPhone</span>
+                  </div>
+                </div>
+                <p class="download-requirements">Nécessite iOS 18.6 ou plus récent · 26,8 Mo · Français + 30 autres langues · 4 ans et plus</p>
+              </div>
             </div>
-          </article>
+            <div class="download-facts">
+              <h3 class="facts-title">Faits vérifiables sur l'app</h3>
+              <ul class="geo-stats-list">
+                
+                <li>
+                  <span class="geo-stat-value">Jusqu'à ~10×</span>
+                  <span class="geo-stat-label">Facteur de renforcement maximal indiqué pour les exportations générées.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">iOS / iPhone</span>
+                  <span class="geo-stat-label">Plateforme : app mobile native, pas macOS ni Android.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">4,5 / 5</span>
+                  <span class="geo-stat-label">Note agrégée dans les données structurées (118 avis) ; vérifier sur l'App Store.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">Gratuit</span>
+                  <span class="geo-stat-label">Listé comme gratuit sur l'App Store ; prix et achats intégrés sur la fiche Apple.</span>
+                </li>
+                
+                <li>
+                  <span class="geo-stat-value">Importer → booster → enregistrer</span>
+                  <span class="geo-stat-label">Flux principal : fichiers locaux en entrée, fichier ajusté en sortie.</span>
+                </li>
+                
+              </ul>
+              <blockquote class="download-quote">
+                <p>"Ça marche bien et c'est simple." – avis sur l'App Store</p>
+              </blockquote>
+            </div>
+          </div>
         </section>
 
-        <section class="sections" aria-label="Fonctionnalités et usages">
-          <article class="card">
-            <h2>Ce que fait l'app</h2>
-            <div class="card-title">
-              Transformez des enregistrements discrets en <span>un son fort et agréable à écouter</span>.
-            </div>
-            <p>
-              Increase Volume – Boost sonore prend tout fichier audio ou vidéo sur votre iPhone et le rend nettement plus fort tout en restant clair et intelligible. Pas de réglages confus, aucune compétence en montage requise.
-            </p>
-            <div class="pill-row">
-              <div class="pill">Boostez les vidéos depuis l'app Photos</div>
-              <div class="pill">Musique, podcasts et mémos vocaux</div>
-              <div class="pill">Graves puissants et clarté</div>
-            </div>
-            <div class="ratings-row">
-              <div class="rating-block">
-                <strong>Plébiscitée par les utilisateurs</strong>
-                <span>pour amplifier vidéos et audios trop bas</span>
-              </div>
-              <div class="rating-block">
-                <strong>Catégorie « Musique »</strong>
-                <span>sur l'App Store</span>
-              </div>
-            </div>
-          </article>
-
-          <article class="card">
-            <h2>En quelques secondes</h2>
-            <div class="card-title">Booster l'audio, c'est aussi simple que ça.</div>
-            <ol class="steps">
-              <li class="step">
-                <div class="step-number">1</div>
-                <div class="step-text">
-                  Importez une vidéo, un morceau ou un enregistrement — ou ouvrez directement depuis l'app Photos.
-                </div>
+        <!-- ============ SCREENSHOTS ============ -->
+        <section class="section screenshots" id="screenshots" aria-labelledby="screenshots-heading">
+          <div class="section-head">
+            <p class="eyebrow">Captures d'écran</p>
+            <h2 id="screenshots-heading">L'app telle qu'elle apparaît sur votre iPhone</h2>
+            <p class="section-intro">Les mêmes écrans que sur l'App Store : un seul curseur, une comparaison Original/Traité, et une feuille de partage qui envoie le fichier amplifié où vous voulez.</p>
+          </div>
+          <div class="shots-scroller" role="region" aria-label="Captures d'écran de l'app, défilement horizontal" tabindex="0">
+            <ol class="shots-track">
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/1.webp"
+                      alt="Visuel marketing d'Increase Volume : amplificateur de volume et de son, jusqu'à dix fois plus fort"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">1</span>
+                    <span>Amplificateur de volume et de son : jusqu'à 10× plus fort.</span>
+                  </figcaption>
+                </figure>
               </li>
-              <li class="step">
-                <div class="step-number">2</div>
-                <div class="step-text">
-                  Faites glisser le curseur de boost pour régler le volume, la clarté et les graves en temps réel.
-                </div>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/2.webp"
+                      alt="Lecteur vidéo dans Increase Volume, un doigt fait glisser le curseur rose pour rendre la vidéo plus forte"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">2</span>
+                    <span>Rendre une vidéo plus forte : faites glisser le curseur sur l'aperçu vidéo.</span>
+                  </figcaption>
+                </figure>
               </li>
-              <li class="step">
-                <div class="step-number">3</div>
-                <div class="step-text">
-                  Enregistrez le fichier amplifié sur l'appareil et partagez-le où vous voulez.
-                </div>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/3.webp"
+                      alt="Increase Volume traite un fichier MP3 et affiche le nom, la taille et la durée"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">3</span>
+                    <span>Rendre la musique plus forte : MP3 et autres fichiers audio sont traités sur l'appareil.</span>
+                  </figcaption>
+                </figure>
               </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/4.webp"
+                      alt="Détails de la piste avec l'option « Améliorer la qualité audio », le curseur « Multiplication du volume ×10 » et le bouton « Amplifier le volume à ×10 »"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">4</span>
+                    <span>Choisissez le niveau d'amplification, d'une légère hausse jusqu'à 10×.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/5.webp"
+                      alt="Écran de résultat avec le bouton « Télécharger le fichier traité » et le sélecteur Original/Traité"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">5</span>
+                    <span>Écoutez le résultat et comparez-le à l'original avant d'enregistrer.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/6.webp"
+                      alt="Feuille de partage iOS avec Copier, Ajouter des tags et Enregistrer dans Fichiers pour l'audio amplifié"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">6</span>
+                    <span>Téléchargez et partagez partout : Photos, Fichiers, Messages, WhatsApp, AirDrop.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
+              <li class="shot">
+                <figure>
+                  <div class="shot-frame">
+                    <img
+                      src="/img/screenshots/7.webp"
+                      alt="Liste des projets dans Increase Volume avec des fichiers MP3 et MP4, leur taille et leur durée"
+                      width="460"
+                      height="995"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                  <figcaption>
+                    <span class="shot-index">7</span>
+                    <span>Conservez plusieurs projets et reprenez-les plus tard.</span>
+                  </figcaption>
+                </figure>
+              </li>
+              
             </ol>
-            <div class="card-label">
-              Idéal pour : captures d'écran, clips TikTok/Reels, interviews, mémos vocaux, et plus.
-            </div>
-          </article>
+          </div>
         </section>
 
-        <section class="sections" aria-label="Pour qui et pourquoi on garde l'app">
-          <article class="card">
-            <h2>Pour qui</h2>
-            <div class="card-title">Si le volume de l'iPhone ne suffit pas, cette app suffit.</div>
-            <div class="audience-grid">
-              <span>Ceux qui poussent toujours au maximum mais entendent encore mal.</span>
-              <span>Les créateurs qui ont besoin d'un audio fort et clair pour les réseaux.</span>
-              <span>Toute personne qui corrige tutoriels et captures d'écran trop silencieuses.</span>
-              <span>Les auditeurs qui montent le son des podcasts, cours ou mémos vocaux.</span>
-            </div>
-          </article>
+        <!-- ============ HOW IT WORKS ============ -->
+        <section class="section how" id="how-it-works" aria-labelledby="how-heading">
+          <div class="section-head">
+            <p class="eyebrow">En quelques secondes</p>
+            <h2 id="how-heading">Booster l'audio, c'est aussi simple que ça.</h2>
+            <p class="section-intro">Increase Volume – Boost sonore prend tout fichier audio ou vidéo sur votre iPhone et le rend nettement plus fort tout en restant clair et intelligible. Pas de réglages confus, aucune compétence en montage requise.</p>
+          </div>
+          <ol class="how-steps">
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/2.webp" alt="Étape 1 : vidéo importée dans Increase Volume avec le curseur d'amplification visible" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">1</span>
+                <p>Importez une vidéo, un morceau ou un enregistrement — ou ouvrez directement depuis l'app Photos.</p>
+              </div>
+            </li>
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/4.webp" alt="Étape 2 : curseur « Multiplication du volume ×10 » et bouton « Amplifier le volume »" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">2</span>
+                <p>Faites glisser le curseur de boost pour régler le volume, la clarté et les graves en temps réel.</p>
+              </div>
+            </li>
+            <li class="how-step">
+              <div class="how-step-media"><img src="/img/screenshots/6.webp" alt="Étape 3 : feuille de partage iOS avec « Enregistrer dans Fichiers » pour le fichier amplifié" width="460" height="995" loading="lazy" decoding="async" /></div>
+              <div class="how-step-body">
+                <span class="step-number">3</span>
+                <p>Enregistrez le fichier amplifié sur l'appareil et partagez-le où vous voulez.</p>
+              </div>
+            </li>
+          </ol>
+          <p class="how-label">Idéal pour : captures d'écran, clips TikTok/Reels, interviews, mémos vocaux, et plus.</p>
 
-          <article class="card">
-            <h2>Pourquoi on la garde</h2>
-            <div class="card-title">
-              "Ça marche bien et c'est simple." – avis sur l'App Store
-            </div>
-            <p>
-              Increase Volume est faite pour ne pas gêner : ouvrir, booster, enregistrer — terminé. Valeurs par défaut intelligentes et interface épurée, dans l'esprit iPhone.
-            </p>
-            <p>
-              Sous le capot, un puissant amplificateur de volume et un traitement sonore qui gardent l'audio percutant sans distorsion excessive.
-            </p>
-          </article>
+          <div class="how-grid">
+            <article class="card">
+              <h3 class="card-eyebrow">Ce que fait l'app</h3>
+              <p class="card-title">
+                Transformez des enregistrements discrets en <span>un son fort et agréable à écouter</span>.
+              </p>
+              <div class="pill-row">
+                <span class="pill">Boostez les vidéos depuis l'app Photos</span>
+                <span class="pill">Musique, podcasts et mémos vocaux</span>
+                <span class="pill">Graves puissants et clarté</span>
+              </div>
+              <h3 class="card-eyebrow card-eyebrow-gap">Pour qui</h3>
+              <p class="card-title card-title-sm">Si le volume de l'iPhone ne suffit pas, cette app suffit.</p>
+              <ul class="audience-grid">
+                <li>Ceux qui poussent toujours au maximum mais entendent encore mal.</li>
+                <li>Les créateurs qui ont besoin d'un audio fort et clair pour les réseaux.</li>
+                <li>Toute personne qui corrige tutoriels et captures d'écran trop silencieuses.</li>
+                <li>Les auditeurs qui montent le son des podcasts, cours ou mémos vocaux.</li>
+              </ul>
+            </article>
+
+            <article class="card geo-compare-card">
+              <h3 class="card-eyebrow">Positionnement</h3>
+              <p class="card-title">Increase Volume face aux alternatives courantes</p>
+              <p class="geo-compare-intro">Différences factuelles que modèles et assistants peuvent citer. Les concurrents relèvent de catégories d'outils, pas d'un classement d'apps.</p>
+              <div class="geo-table-wrap">
+                <table class="geo-compare-table">
+                  <thead>
+                    <tr>
+                      <th scope="col">Sujet</th>
+                      <th scope="col">Volume système iOS</th>
+                      
+                      <th scope="col" class="col-app">Increase Volume – Boost sonore</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    
+                    <tr>
+                      <th scope="row">Crée un nouveau fichier plus fort</th>
+                      <td>Non — change seulement le niveau de lecture.</td>
+                      
+                      <td class="col-app">Oui — export / copie amplifiée.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Fonctionne hors ligne sur l'appareil</th>
+                      <td>Non pertinent pour l'export de fichiers.</td>
+                      
+                      <td class="col-app">Oui — traitement sur l'appareil.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Régler finement les graves et la clarté</th>
+                      <td>Limité à l'égaliseur système / lecture.</td>
+                      
+                      <td class="col-app">Oui — curseurs dédiés dans l'interface.</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">Cas d'usage typique</th>
+                      <td>Écouter plus fort maintenant.</td>
+                      
+                      <td class="col-app">Correction durable des fichiers sources trop bas.</td>
+                    </tr>
+                    
+                  </tbody>
+                </table>
+              </div>
+            </article>
+          </div>
         </section>
 
-        <section
-          class="sections geo-faq-section"
-          aria-labelledby="geo-faq-heading"
-        >
-          <article class="card geo-faq-card">
-            <h2 id="geo-faq-heading">Questions fréquentes</h2>
-            <div class="geo-faq-list">
+        <!-- ============ GUIDES ============ -->
+        
+
+        <!-- ============ FAQ ============ -->
+        <section class="section faq" id="faq" aria-labelledby="faq-heading">
+          <div class="section-head">
+            <p class="eyebrow">FAQ</p>
+            <h2 id="faq-heading">Questions fréquentes</h2>
+            <p class="section-intro">Des réponses courtes d'abord. Chacune renvoie vers un guide complet avec captures d'écran.</p>
+          </div>
+          <div class="faq-list">
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Qu'est-ce qu'Increase Volume – Boost sonore ?</h3>
+              <p class="faq-a">C'est une app iPhone (catégorie « Musique » sur l'App Store) qui renforce l'audio et la vidéo importés jusqu'à ~10×, puis permet d'enregistrer un nouveau fichier. Tout se fait sur l'appareil. Elle sert à monter des enregistrements trop bas, podcasts et clips, pas à lever en bloc les limites du volume système pour toutes les apps.</p>
               
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Qu'est-ce qu'Increase Volume – Boost sonore ?</h3>
-                <p class="geo-faq-a">C'est une app iPhone (catégorie « Musique » sur l'App Store) qui renforce l'audio et la vidéo importés jusqu'à ~10×, puis permet d'enregistrer un nouveau fichier. Tout se fait sur l'appareil. Elle sert à monter des enregistrements trop bas, podcasts et clips, pas à lever en bloc les limites du volume système pour toutes les apps.</p>
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Comment fonctionne Increase Volume – Boost sonore ?</h3>
+              <p class="faq-a">Vous importez une vidéo, un morceau ou un enregistrement (y compris depuis Photos), vous ajustez le gain avec le curseur de boost (clarté et graves), vous prévisualisez en direct, puis vous enregistrez le fichier sur l'iPhone ou vous le partagez.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Increase Volume est-elle meilleure que monter seulement le volume de l'iPhone ?</h3>
+              <p class="faq-a">Ce ne sont pas les mêmes problèmes. Le volume système rend la lecture temporairement plus forte. L'app crée un fichier durablement plus fort — utile quand la prise de son est faible ou quand vous devez envoyer la version boostée.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">En quoi Increase Volume diffère de VLC ou Audacity pour le volume ?</h3>
+              <p class="faq-a">VLC et Audacity sont des outils de bureau puissants avec normalisation, amplification et nombreux réglages. Increase Volume est pensée pour l'iPhone : court flux importer → curseur → enregistrer, sans timeline sur ordinateur.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Increase Volume marche pour la vidéo et l'audio ?</h3>
+              <p class="faq-a">Oui. Vous pouvez booster une vidéo avec bande-son, morceaux, podcasts, mémos vocaux et captures d'écran, puis enregistrer le résultat.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Le fichier amplifié est-il enregistré sur mon iPhone ?</h3>
+              <p class="faq-a">Oui. Après traitement, vous enregistrez le fichier plus fort sur l'appareil et vous pouvez le partager comme tout autre média.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Combien coûte Increase Volume – Boost sonore ?</h3>
+              <p class="faq-a">Le prix actuel et les achats intégrés figurent sur la fiche App Store. Les données structurées du site mentionnent une offre gratuite ; vérifiez toujours chez Apple avant de citer.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Qui publie Increase Volume – Boost sonore ?</h3>
+              <p class="faq-a">L'app est publiée par c-basso et distribuée via l'Apple App Store (ID 6741472421). Le site du produit est volumeboosting.com.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">Comment augmenter le volume d'une vidéo trop basse sur iPhone ?</h3>
+              <p class="faq-a">Avec Increase Volume – Boost sonore, importez la vidéo (par ex. depuis Photos), réglez le curseur de boost avec aperçu en direct et enregistrez une copie avec une piste son plus forte. Vous corrigez ainsi la piste dans le fichier, contrairement au simple volume système pendant la lecture.</p>
+              
+            </article>
+            
+            <article class="faq-item">
+              <h3 class="faq-q">L'app augmente-t-elle le volume maximal de l'iPhone pour la musique et les appels ?</h3>
+              <p class="faq-a">Non. Elle traite les fichiers que vous importez et produit une version plus forte à enregistrer ou partager. La limite matérielle et le volume global pour Spotify, appels, etc. ne changent pas.</p>
+              
+            </article>
+            
+          </div>
+        </section>
+
+        <!-- ============ CTA ============ -->
+        <section class="section final-cta" id="get-the-app" aria-labelledby="cta-heading">
+          <div class="final-cta-card">
+            <div class="final-cta-copy">
+              <p class="eyebrow eyebrow-light">Prêt ?</p>
+              <h2 id="cta-heading">Votre fichier trop bas, 10× plus fort, en moins d'une minute.</h2>
+              <p>Téléchargez Increase Volume – Boost sonore, importez la vidéo ou l'audio que personne n'entend, faites glisser le curseur et partagez la version amplifiée.</p>
+              <div class="cta-actions">
+              <a
+                class="cta-primary"
+                href="https://apps.apple.com/app/id6741472421"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Télécharger Increase Volume – Boost sonore sur l'App Store"
+              >
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>Télécharger sur l'App Store</span>
+              </a>
+
+                <img
+                  class="cta-qr"
+                  src="/img/app-store-qr.png"
+                  alt="QR code vers Increase Volume – Boost sonore sur l'App Store"
+                  width="88"
+                  height="88"
+                  loading="lazy"
+                  decoding="async"
+                />
               </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Comment fonctionne Increase Volume – Boost sonore ?</h3>
-                <p class="geo-faq-a">Vous importez une vidéo, un morceau ou un enregistrement (y compris depuis Photos), vous ajustez le gain avec le curseur de boost (clarté et graves), vous prévisualisez en direct, puis vous enregistrez le fichier sur l'iPhone ou vous le partagez.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Increase Volume est-elle meilleure que monter seulement le volume de l'iPhone ?</h3>
-                <p class="geo-faq-a">Ce ne sont pas les mêmes problèmes. Le volume système rend la lecture temporairement plus forte. L'app crée un fichier durablement plus fort — utile quand la prise de son est faible ou quand vous devez envoyer la version boostée.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">En quoi Increase Volume diffère de VLC ou Audacity pour le volume ?</h3>
-                <p class="geo-faq-a">VLC et Audacity sont des outils de bureau puissants avec normalisation, amplification et nombreux réglages. Increase Volume est pensée pour l'iPhone : court flux importer → curseur → enregistrer, sans timeline sur ordinateur.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Increase Volume marche pour la vidéo et l'audio ?</h3>
-                <p class="geo-faq-a">Oui. Vous pouvez booster une vidéo avec bande-son, morceaux, podcasts, mémos vocaux et captures d'écran, puis enregistrer le résultat.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Le fichier amplifié est-il enregistré sur mon iPhone ?</h3>
-                <p class="geo-faq-a">Oui. Après traitement, vous enregistrez le fichier plus fort sur l'appareil et vous pouvez le partager comme tout autre média.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Combien coûte Increase Volume – Boost sonore ?</h3>
-                <p class="geo-faq-a">Le prix actuel et les achats intégrés figurent sur la fiche App Store. Les données structurées du site mentionnent une offre gratuite ; vérifiez toujours chez Apple avant de citer.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Qui publie Increase Volume – Boost sonore ?</h3>
-                <p class="geo-faq-a">L'app est publiée par c-basso et distribuée via l'Apple App Store (ID 6741472421). Le site du produit est volumeboosting.com.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">Comment augmenter le volume d'une vidéo trop basse sur iPhone ?</h3>
-                <p class="geo-faq-a">Avec Increase Volume – Boost sonore, importez la vidéo (par ex. depuis Photos), réglez le curseur de boost avec aperçu en direct et enregistrez une copie avec une piste son plus forte. Vous corrigez ainsi la piste dans le fichier, contrairement au simple volume système pendant la lecture.</p>
-              </div>
-              
-              <div class="geo-faq-item">
-                <h3 class="geo-faq-q">L'app augmente-t-elle le volume maximal de l'iPhone pour la musique et les appels ?</h3>
-                <p class="geo-faq-a">Non. Elle traite les fichiers que vous importez et produit une version plus forte à enregistrer ou partager. La limite matérielle et le volume global pour Spotify, appels, etc. ne changent pas.</p>
-              </div>
-              
+              <p class="final-cta-note">Téléchargement gratuit · Nécessite iOS 18.6 ou plus récent · 4,5★ sur l'App Store</p>
             </div>
-          </article>
+            <div class="final-cta-visual" aria-hidden="true">
+              <img src="/img/screenshots/5.webp" alt="" width="460" height="995" loading="lazy" decoding="async" />
+            </div>
+          </div>
         </section>
       </main>
 
-      <footer>
-        <div>
+      <footer class="site-footer">
+        <div class="footer-top">
+          <div class="footer-brand">
+            <img src="/img/logo.webp" alt="Icône de l'app Increase Volume – Boost sonore" width="40" height="40" loading="lazy" decoding="async" />
+            <div>
+              <div class="footer-brand-name">Increase Volume – Boost sonore</div>
+              <p class="footer-tagline">L'amplificateur de volume pour iPhone qui rend le fichier plus fort, pas seulement le haut-parleur.</p>
+            </div>
+          </div>
+          <nav class="footer-links" aria-label="Pied de page">
+            <a href="https://volumeboosting.com/fr/#how-it-works">Fonctionnement</a>
+            <a href="https://volumeboosting.com/fr/#screenshots">Captures</a>
+            
+            <a href="https://volumeboosting.com/fr/#faq">FAQ</a>
+            <a href="/privacy.html">Politique de confidentialité</a>
+            <a href="/terms.html">Conditions d'utilisation</a>
+            <a href="https://apps.apple.com/app/id6741472421" target="_blank" rel="noopener noreferrer">Voir sur l'App Store</a>
+          </nav>
+        </div>
+        
+        <div class="footer-languages">
+          <span class="footer-languages-label">Cette page dans d'autres langues</span>
+          <ul>
+            
+            <li><a href="https://volumeboosting.com/" hreflang="en" lang="en">English</a></li>
+            
+            <li><a href="https://volumeboosting.com/cs/" hreflang="cs" lang="cs">Čeština</a></li>
+            
+            <li><a href="https://volumeboosting.com/da/" hreflang="da" lang="da">Dansk</a></li>
+            
+            <li><a href="https://volumeboosting.com/de/" hreflang="de" lang="de">Deutsch</a></li>
+            
+            <li><a href="https://volumeboosting.com/el/" hreflang="el" lang="el">Ελληνικά</a></li>
+            
+            <li><a href="https://volumeboosting.com/es/" hreflang="es" lang="es">Español</a></li>
+            
+            <li><a href="https://volumeboosting.com/fi/" hreflang="fi" lang="fi">Suomi</a></li>
+            
+            <li><a href="https://volumeboosting.com/fil/" hreflang="fil" lang="fil">Filipino</a></li>
+            
+            <li><a href="https://volumeboosting.com/fr/" hreflang="fr" lang="fr">Français</a></li>
+            
+            <li><a href="https://volumeboosting.com/he/" hreflang="he" lang="he">עברית</a></li>
+            
+            <li><a href="https://volumeboosting.com/hr/" hreflang="hr" lang="hr">Hrvatski</a></li>
+            
+            <li><a href="https://volumeboosting.com/hu/" hreflang="hu" lang="hu">Magyar</a></li>
+            
+            <li><a href="https://volumeboosting.com/id/" hreflang="id" lang="id">Bahasa Indonesia</a></li>
+            
+            <li><a href="https://volumeboosting.com/it/" hreflang="it" lang="it">Italiano</a></li>
+            
+            <li><a href="https://volumeboosting.com/ja/" hreflang="ja" lang="ja">日本語</a></li>
+            
+            <li><a href="https://volumeboosting.com/ko/" hreflang="ko" lang="ko">한국어</a></li>
+            
+            <li><a href="https://volumeboosting.com/ms/" hreflang="ms" lang="ms">Bahasa Melayu</a></li>
+            
+            <li><a href="https://volumeboosting.com/nl/" hreflang="nl" lang="nl">Nederlands</a></li>
+            
+            <li><a href="https://volumeboosting.com/no/" hreflang="nb" lang="nb">Norsk</a></li>
+            
+            <li><a href="https://volumeboosting.com/pl/" hreflang="pl" lang="pl">Polski</a></li>
+            
+            <li><a href="https://volumeboosting.com/pt/" hreflang="pt" lang="pt">Português</a></li>
+            
+            <li><a href="https://volumeboosting.com/ro/" hreflang="ro" lang="ro">Română</a></li>
+            
+            <li><a href="https://volumeboosting.com/ru/" hreflang="ru" lang="ru">Русский</a></li>
+            
+            <li><a href="https://volumeboosting.com/sk/" hreflang="sk" lang="sk">Slovenčina</a></li>
+            
+            <li><a href="https://volumeboosting.com/sv/" hreflang="sv" lang="sv">Svenska</a></li>
+            
+            <li><a href="https://volumeboosting.com/bg/" hreflang="bg" lang="bg">Български</a></li>
+            
+            <li><a href="https://volumeboosting.com/sl/" hreflang="sl" lang="sl">Slovenščina</a></li>
+            
+            <li><a href="https://volumeboosting.com/ca/" hreflang="ca" lang="ca">Català</a></li>
+            
+            <li><a href="https://volumeboosting.com/hi/" hreflang="hi" lang="hi">हिन्दी</a></li>
+            
+            <li><a href="https://volumeboosting.com/bn/" hreflang="bn" lang="bn">বাংলা</a></li>
+            
+            <li><a href="https://volumeboosting.com/ta/" hreflang="ta" lang="ta">தமிழ்</a></li>
+            
+            <li><a href="https://volumeboosting.com/te/" hreflang="te" lang="te">తెలుగు</a></li>
+            
+            <li><a href="https://volumeboosting.com/ml/" hreflang="ml" lang="ml">മലയാളം</a></li>
+            
+            <li><a href="https://volumeboosting.com/th/" hreflang="th" lang="th">ไทย</a></li>
+            
+            <li><a href="https://volumeboosting.com/tr/" hreflang="tr" lang="tr">Türkçe</a></li>
+            
+            <li><a href="https://volumeboosting.com/uk/" hreflang="uk" lang="uk">Українська</a></li>
+            
+            <li><a href="https://volumeboosting.com/vi/" hreflang="vi" lang="vi">Tiếng Việt</a></li>
+            
+            <li><a href="https://volumeboosting.com/zh/" hreflang="zh" lang="zh">简体中文</a></li>
+            
+          </ul>
+        </div>
+        
+        <div class="footer-bottom">
           <div>© 2026 c-basso · Increase Volume – Boost sonore</div>
           <p class="footer-updated">
             Page mise à jour le :
             <time datetime="2026-09-10">2026-09-10</time>
           </p>
         </div>
-        <div>
-          <a href="/privacy.html">Politique de confidentialité</a>
-          &nbsp;·&nbsp;
-          <a href="/terms.html">Conditions d'utilisation</a>
-          &nbsp;·&nbsp;
-          <a
-            href="https://apps.apple.com/app/id6741472421"
-            target="_blank"
-            rel="noopener noreferrer"
-            >Voir sur l'App Store</a
-          >
-        </div>
       </footer>
+
     </div>
 
     <!-- Structured Data (JSON-LD) for SEO -->
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"MobileApplication","name":"Increase Volume – Boost sonore","operatingSystem":"iOS","applicationCategory":"MusicApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","url":"https://apps.apple.com/app/id6741472421"},"description":"App iPhone qui importe audio ou vidéo, applique un gain jusqu'à ~10× avec réglages de graves et de clarté, et exporte un fichier plus fort à enregistrer et partager. Traitement sur l'appareil ; ne modifie pas le volume système global.","url":"https://volumeboosting.com/fr/","downloadUrl":"https://apps.apple.com/app/id6741472421","dateModified":"2026-09-10","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"118"},"image":"https://volumeboosting.com/img/logo.webp","screenshot":"https://volumeboosting.com/img/screenshots/1.webp"}
+      {"@context":"https://schema.org","@type":"MobileApplication","name":"Increase Volume – Boost sonore","operatingSystem":"iOS","applicationCategory":"MusicApplication","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","category":"free","url":"https://apps.apple.com/app/id6741472421"},"description":"App iPhone qui importe audio ou vidéo, applique un gain jusqu'à ~10× avec réglages de graves et de clarté, et exporte un fichier plus fort à enregistrer et partager. Traitement sur l'appareil ; ne modifie pas le volume système global.","featureList":["Amplifier le volume vidéo et audio jusqu'à 10× (1000 %)","Compatible MP3, mémos vocaux M4A, vidéos MP4 et MOV","Comparaison Original/Traité avant l'enregistrement","Amélioration facultative de la qualité audio","Création d'un projet depuis la feuille de partage de Photos","Enregistrement dans Photos ou Fichiers et partage vers toute app","Conservation de plusieurs projets"],"alternateName":"Increase Volume – Audio & Music Booster","applicationSubCategory":"UtilitiesApplication","author":{"@type":"Person","name":"Vladimir Ivakhnenko"},"inLanguage":["en","hr","cs","da","nl","fi","fr","de","el","he","hu","id","it","ja","ko","ms","nb","pl","pt","ro","ru","zh","sk","es","sv","th","tr","uk","vi"],"url":"https://volumeboosting.com/fr/","downloadUrl":"https://apps.apple.com/app/id6741472421","dateModified":"2026-09-10","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.5","ratingCount":"118"},"image":"https://volumeboosting.com/img/logo.webp","screenshot":["https://volumeboosting.com/img/screenshots/1.webp","https://volumeboosting.com/img/screenshots/2.webp","https://volumeboosting.com/img/screenshots/3.webp","https://volumeboosting.com/img/screenshots/4.webp","https://volumeboosting.com/img/screenshots/5.webp","https://volumeboosting.com/img/screenshots/6.webp","https://volumeboosting.com/img/screenshots/7.webp"]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":"https://volumeboosting.com/img/logo.webp","description":"Développeur indépendant d'Increase Volume – Boost sonore et d'utilitaires iOS associés.","sameAs":["https://x.com/c__basso"]}
@@ -600,7 +934,7 @@
       {"@context":"https://schema.org","@type":"WebSite","name":"Increase Volume – Boost sonore","url":"https://volumeboosting.com/fr/","description":"Rendez audio ou vidéo plus fort sur iPhone : jusqu'à ~10×, clarté et graves. Musique, podcasts, mémos vocaux. Sur l'appareil. Essai gratuit sur l'App Store.","inLanguage":"fr"}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Comment booster l'audio sur iPhone","description":"Importer audio ou vidéo, augmenter le volume et enregistrer le fichier plus fort sur l'appareil.","step":[{"@type":"HowToStep","name":"Importer un fichier","text":"Importez une vidéo, un morceau ou un enregistrement — ou ouvrez directement depuis l'app Photos.","url":"https://apps.apple.com/app/id6741472421"},{"@type":"HowToStep","name":"Booster le volume","text":"Faites glisser le curseur de boost pour régler le volume, la clarté et les graves en temps réel."},{"@type":"HowToStep","name":"Enregistrer et partager","text":"Enregistrez le fichier amplifié sur l'appareil et partagez-le où vous voulez."}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Comment booster l'audio sur iPhone","description":"Importer audio ou vidéo, augmenter le volume et enregistrer le fichier plus fort sur l'appareil.","step":[{"@type":"HowToStep","name":"Importer un fichier","text":"Importez une vidéo, un morceau ou un enregistrement — ou ouvrez directement depuis l'app Photos.","url":"https://apps.apple.com/app/id6741472421"},{"@type":"HowToStep","name":"Booster le volume","text":"Faites glisser le curseur de boost pour régler le volume, la clarté et les graves en temps réel."},{"@type":"HowToStep","name":"Enregistrer et partager","text":"Enregistrez le fichier amplifié sur l'appareil et partagez-le où vous voulez."}],"tool":[{"@type":"HowToTool","name":"App Increase Volume – Boost sonore pour iPhone"}],"totalTime":"PT1M"}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Qu'est-ce qu'Increase Volume – Boost sonore ?","acceptedAnswer":{"@type":"Answer","text":"C'est une app iPhone (catégorie « Musique » sur l'App Store) qui renforce l'audio et la vidéo importés jusqu'à ~10×, puis permet d'enregistrer un nouveau fichier. Tout se fait sur l'appareil. Elle sert à monter des enregistrements trop bas, podcasts et clips, pas à lever en bloc les limites du volume système pour toutes les apps."}},{"@type":"Question","name":"Comment fonctionne Increase Volume – Boost sonore ?","acceptedAnswer":{"@type":"Answer","text":"Vous importez une vidéo, un morceau ou un enregistrement (y compris depuis Photos), vous ajustez le gain avec le curseur de boost (clarté et graves), vous prévisualisez en direct, puis vous enregistrez le fichier sur l'iPhone ou vous le partagez."}},{"@type":"Question","name":"Increase Volume est-elle meilleure que monter seulement le volume de l'iPhone ?","acceptedAnswer":{"@type":"Answer","text":"Ce ne sont pas les mêmes problèmes. Le volume système rend la lecture temporairement plus forte. L'app crée un fichier durablement plus fort — utile quand la prise de son est faible ou quand vous devez envoyer la version boostée."}},{"@type":"Question","name":"En quoi Increase Volume diffère de VLC ou Audacity pour le volume ?","acceptedAnswer":{"@type":"Answer","text":"VLC et Audacity sont des outils de bureau puissants avec normalisation, amplification et nombreux réglages. Increase Volume est pensée pour l'iPhone : court flux importer → curseur → enregistrer, sans timeline sur ordinateur."}},{"@type":"Question","name":"Increase Volume marche pour la vidéo et l'audio ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Vous pouvez booster une vidéo avec bande-son, morceaux, podcasts, mémos vocaux et captures d'écran, puis enregistrer le résultat."}},{"@type":"Question","name":"Le fichier amplifié est-il enregistré sur mon iPhone ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Après traitement, vous enregistrez le fichier plus fort sur l'appareil et vous pouvez le partager comme tout autre média."}},{"@type":"Question","name":"Combien coûte Increase Volume – Boost sonore ?","acceptedAnswer":{"@type":"Answer","text":"Le prix actuel et les achats intégrés figurent sur la fiche App Store. Les données structurées du site mentionnent une offre gratuite ; vérifiez toujours chez Apple avant de citer."}},{"@type":"Question","name":"Qui publie Increase Volume – Boost sonore ?","acceptedAnswer":{"@type":"Answer","text":"L'app est publiée par c-basso et distribuée via l'Apple App Store (ID 6741472421). Le site du produit est volumeboosting.com."}},{"@type":"Question","name":"Comment augmenter le volume d'une vidéo trop basse sur iPhone ?","acceptedAnswer":{"@type":"Answer","text":"Avec Increase Volume – Boost sonore, importez la vidéo (par ex. depuis Photos), réglez le curseur de boost avec aperçu en direct et enregistrez une copie avec une piste son plus forte. Vous corrigez ainsi la piste dans le fichier, contrairement au simple volume système pendant la lecture."}},{"@type":"Question","name":"L'app augmente-t-elle le volume maximal de l'iPhone pour la musique et les appels ?","acceptedAnswer":{"@type":"Answer","text":"Non. Elle traite les fichiers que vous importez et produit une version plus forte à enregistrer ou partager. La limite matérielle et le volume global pour Spotify, appels, etc. ne changent pas."}}]}
@@ -608,55 +942,44 @@
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"WebPage","name":"Volume – Boost sonore | Audio/vidéo ~10× sur iPhone","url":"https://volumeboosting.com/fr/","description":"Rendez audio ou vidéo plus fort sur iPhone : jusqu'à ~10×, clarté et graves. Musique, podcasts, mémos vocaux. Sur l'appareil. Essai gratuit sur l'App Store.","dateModified":"2026-09-10","inLanguage":"fr"}
     </script>
-    <!-- BreadcrumbList Schema -->
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://volumeboosting.com/fr/"}]}
     </script>
 
     <script>
-      // Wave toggle functionality
-      const waveToggle = document.getElementById('waveToggle');
-      const wavePanel = document.getElementById('wavePanel');
+      (function () {
+        var waveToggle = document.getElementById('waveToggle');
+        var wavePanel = document.getElementById('wavePanel');
+        if (!waveToggle || !wavePanel) return;
 
-      function toggleWaveState() {
-        const isActive = wavePanel.classList.contains('active');
-        wavePanel.classList.toggle('active');
-        waveToggle.classList.toggle('active');
-        waveToggle.setAttribute('aria-checked', String(!isActive));
-      }
+        function toggleWaveState() {
+          var isActive = wavePanel.classList.contains('active');
+          wavePanel.classList.toggle('active');
+          waveToggle.classList.toggle('active');
+          waveToggle.setAttribute('aria-checked', String(!isActive));
+        }
 
-      if (waveToggle && wavePanel) {
-        // Start in "After" (active) state
-        wavePanel.classList.add('active');
-        waveToggle.classList.add('active');
-        waveToggle.setAttribute('aria-checked', 'true');
-
-        // Toggle periodically between Before and After
-        let autoToggle = setInterval(toggleWaveState, 4000);
-
-        const stopAutoToggle = () => {
-          if (autoToggle) {
-            clearInterval(autoToggle);
-            autoToggle = null;
-          }
-        };
-
-        waveToggle.addEventListener('click', () => {
-          stopAutoToggle();
-          toggleWaveState();
+        var autoToggle = setInterval(toggleWaveState, 3600);
+        function stopAutoToggle() {
+          if (autoToggle) { clearInterval(autoToggle); autoToggle = null; }
+        }
+        waveToggle.addEventListener('click', function () { stopAutoToggle(); toggleWaveState(); });
+        waveToggle.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); stopAutoToggle(); toggleWaveState(); }
         });
 
-        waveToggle.addEventListener('keydown', (e) => {
-          if (e.key === 'Enter' || e.key === ' ') {
-            e.preventDefault();
-            stopAutoToggle();
-            toggleWaveState();
-          }
-        });
-      }
+        if ('IntersectionObserver' in window) {
+          var io = new IntersectionObserver(function (entries) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) { entry.target.classList.add('is-visible'); io.unobserve(entry.target); }
+            });
+          }, { rootMargin: '0px 0px -8% 0px' });
+          document.querySelectorAll('.section, .geo-summary').forEach(function (el) { io.observe(el); });
+        } else {
+          document.querySelectorAll('.section, .geo-summary').forEach(function (el) { el.classList.add('is-visible'); });
+        }
+      })();
     </script>
-
-
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
@@ -672,8 +995,5 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/104469191" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-
-
   </body>
 </html>
-

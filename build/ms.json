@@ -46,13 +46,34 @@
     "footnote_item4": "klip media sosial",
     "footnote_last_joiner": ", dan ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Penambah bunyi pada iPhone — tingkatkan kelantangan audio dan video"
+    "device_image_alt": "Increase Volume – Penambah bunyi pada iPhone — tingkatkan kelantangan audio dan video",
+    "cta_secondary_link": "Lihat cara ia berfungsi",
+    "proof_aria": "Fakta aplikasi",
+    "proof": [
+      {
+        "value": "4.5★",
+        "label": "118 penilaian di App Store"
+      },
+      {
+        "value": "10×",
+        "label": "peningkatan kelantangan maksimum"
+      },
+      {
+        "value": "Audio + video",
+        "label": "MP3, MP4, MOV, memo suara"
+      },
+      {
+        "value": "Pada peranti",
+        "label": "tiada apa-apa dimuat naik"
+      }
+    ]
   },
   "wave": {
     "before_label": "Sebelum",
     "after_label": "Selepas",
     "before_text": "Audio asli perlahan dan rata",
-    "after_text": "Suara yang diperkuat, penuh dan jernih"
+    "after_text": "Suara yang diperkuat, penuh dan jernih",
+    "toggle_aria": "Tukar antara bentuk gelombang asal dan yang telah di-boost"
   },
   "sections": {
     "features_uses_aria": "Ciri dan penggunaan",
@@ -157,7 +178,11 @@
     "last_updated_label": "Halaman terakhir dikemas kini:",
     "privacy_link": "Dasar Privasi",
     "terms_link": "Terma Penggunaan",
-    "app_store_link_text": "Lihat di App Store"
+    "app_store_link_text": "Lihat di App Store",
+    "tagline": "Peningkat kelantangan iPhone yang menjadikan fail itu sendiri lebih kuat, bukan sekadar pembesar suara.",
+    "links_aria": "Pengaki",
+    "guides_link_text": "Panduan",
+    "languages_label": "Halaman ini dalam bahasa lain"
   },
   "seo": {
     "breadcrumb_home": "Laman utama",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "Aplikasi iPhone yang mengimport audio atau video, menggunakan hingga kira-kira 10× kelantangan dengan kawalan bass dan kejernihan, dan mengeksport fail lebih kuat untuk disimpan dan dikongsi. Pemprosesan pada peranti; tidak mengubah kelantangan sistem secara menyeluruh."
+        "description": "Aplikasi iPhone yang mengimport audio atau video, menggunakan hingga kira-kira 10× kelantangan dengan kawalan bass dan kejernihan, dan mengeksport fail lebih kuat untuk disimpan dan dikongsi. Pemprosesan pada peranti; tidak mengubah kelantangan sistem secara menyeluruh.",
+        "featureList": [
+          "Boost kelantangan video dan audio hingga 10× (1000%)",
+          "Berfungsi dengan MP3, memo suara M4A, video MP4 dan MOV",
+          "Perbandingan Asal/Diproses sebelum menyimpan",
+          "Peningkatan kualiti audio pilihan",
+          "Cipta projek daripada helaian kongsi Foto",
+          "Simpan ke Foto atau Fail dan kongsi ke mana-mana aplikasi",
+          "Menyimpan beberapa projek"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "Simpan dan kongsi",
             "text": "Simpan fail yang telah di-boost semula ke peranti dan kongsi ke mana sahaja."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Aplikasi Increase Volume – Penambah bunyi untuk iPhone"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Navigasi utama",
+    "how_it_works": "Cara ia berfungsi",
+    "screenshots": "Tangkapan skrin",
+    "guides": "Panduan",
+    "faq": "Soalan lazim",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "Muat turun",
+    "title": "Dapatkan Increase Volume – Penambah bunyi di App Store",
+    "subtitle": "Audio & Music Booster · Kategori Muzik · iPhone",
+    "price": "Percuma",
+    "price_note": "Pembelian dalam aplikasi pilihan (percubaan percuma, atau pelan seumur hidup sekali bayar)",
+    "rating_line": "4.5 ★ · 118 penilaian di App Store",
+    "qr_alt": "Kod QR yang membawa ke Increase Volume – Penambah bunyi di App Store",
+    "qr_label": "Imbas dengan kamera iPhone anda",
+    "requirements": "Memerlukan iOS 18.6 atau lebih baharu · 26.8 MB · Bahasa Melayu + 30 bahasa lain · Umur 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Tangkapan skrin",
+    "title": "Rupa aplikasi pada iPhone anda",
+    "intro": "Skrin yang sama seperti di App Store: satu peluncur, perbandingan Asal/Diproses dan helaian kongsi yang menghantar fail yang lebih kuat ke mana sahaja anda perlukan.",
+    "aria": "Tangkapan skrin aplikasi, skrol secara mendatar",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Imej promosi Increase Volume: peningkat kelantangan dan penguat bunyi, hingga sepuluh kali lebih kuat",
+        "caption": "Peningkat kelantangan dan penguat bunyi: hingga 10× lebih kuat."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Pemain video dalam Increase Volume, jari menyeret peluncur boost merah jambu untuk menjadikan video lebih kuat",
+        "caption": "Jadikan video lebih kuat: seret peluncur pada pratonton video."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume memproses fail MP3 dan menunjukkan nama fail, saiz dan tempoh",
+        "caption": "Jadikan muzik lebih kuat: MP3 dan fail audio lain diproses pada peranti."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Butiran trek dengan togol «Tingkatkan Kualiti Audio», peluncur «Pengganda kelantangan ×10» dan butang «Boost kelantangan ke ×10»",
+        "caption": "Pilih tahap boost, daripada sedikit hingga 10×."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Skrin hasil dengan butang «Muat turun yang diproses» dan togol Asal/Diproses",
+        "caption": "Dengar hasilnya dan bandingkan dengan yang asal sebelum menyimpan."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "Helaian kongsi iOS menunjukkan Salin, Tambah Tag dan Simpan ke Fail untuk audio yang di-boost",
+        "caption": "Muat turun dan kongsi ke mana sahaja: Foto, Fail, Mesej, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Senarai projek dalam Increase Volume dengan fail MP3 dan MP4 berserta saiz dan tempoh",
+        "caption": "Simpan beberapa projek dan kembali kepadanya kemudian."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "Langkah 1: video diimport ke Increase Volume dengan peluncur boost kelihatan",
+    "step_2_alt": "Langkah 2: peluncur «Pengganda kelantangan ×10» dan butang «Boost kelantangan»",
+    "step_3_alt": "Langkah 3: helaian kongsi iOS dengan «Simpan ke Fail» untuk fail yang di-boost"
+  },
+  "faq_section": {
+    "eyebrow": "Soalan lazim",
+    "intro": "Jawapan ringkas dahulu. Setiap satu dipautkan ke panduan penuh dengan tangkapan skrin.",
+    "learn_more_label": "Ketahui lebih lanjut"
+  },
+  "cta": {
+    "eyebrow": "Bersedia?",
+    "title": "Fail perlahan anda, 10× lebih kuat, dalam masa kurang seminit.",
+    "text": "Muat turun Increase Volume – Penambah bunyi, import video atau audio yang tidak didengari sesiapa, seret peluncur dan kongsi versi yang kuat.",
+    "note": "Muat turun percuma · Memerlukan iOS 18.6 atau lebih baharu · 4.5★ di App Store"
   }
 }

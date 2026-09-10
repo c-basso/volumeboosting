@@ -46,13 +46,34 @@
     "footnote_item4": "klipp i sociala medier",
     "footnote_last_joiner": " och ",
     "device_image_src": "/img/screenshots/1.webp",
-    "device_image_alt": "Increase Volume – Ljudboost på iPhone — höj volymen på ljud och video"
+    "device_image_alt": "Increase Volume – Ljudboost på iPhone — höj volymen på ljud och video",
+    "cta_secondary_link": "Se hur det fungerar",
+    "proof_aria": "Fakta om appen",
+    "proof": [
+      {
+        "value": "4,5★",
+        "label": "118 betyg i App Store"
+      },
+      {
+        "value": "10×",
+        "label": "maximal förstärkning"
+      },
+      {
+        "value": "Ljud + video",
+        "label": "MP3, MP4, MOV, röstanteckningar"
+      },
+      {
+        "value": "På enheten",
+        "label": "inget laddas upp"
+      }
+    ]
   },
   "wave": {
     "before_label": "Före",
     "after_label": "Efter",
     "before_text": "Tyst, platt originalljud",
-    "after_text": "Efter boost: fylligt och tydligt ljud"
+    "after_text": "Efter boost: fylligt och tydligt ljud",
+    "toggle_aria": "Växla mellan den ursprungliga och den boostade vågformen"
   },
   "sections": {
     "features_uses_aria": "Funktioner och användning",
@@ -157,7 +178,11 @@
     "last_updated_label": "Senast uppdaterad:",
     "privacy_link": "Integritetspolicy",
     "terms_link": "Användarvillkor",
-    "app_store_link_text": "Visa i App Store"
+    "app_store_link_text": "Visa i App Store",
+    "tagline": "Volymboostern för iPhone som gör filen högre – inte bara högtalaren.",
+    "links_aria": "Sidfot",
+    "guides_link_text": "Guider",
+    "languages_label": "Den här sidan på andra språk"
   },
   "seo": {
     "breadcrumb_home": "Hem",
@@ -215,7 +240,16 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "iPhone-app som importerar ljud eller video, ger cirka 10× volym med bas- och tydlighetsreglage och exporterar en högre fil för att spara och dela. Bearbetning på enheten; ändrar inte den globala systemvolymen."
+        "description": "iPhone-app som importerar ljud eller video, ger cirka 10× volym med bas- och tydlighetsreglage och exporterar en högre fil för att spara och dela. Bearbetning på enheten; ändrar inte den globala systemvolymen.",
+        "featureList": [
+          "Boosta volymen i video och ljud upp till 10× (1000 %)",
+          "Fungerar med MP3, M4A-röstanteckningar, MP4- och MOV-video",
+          "Jämförelse Original/Bearbetad innan du sparar",
+          "Valfri förbättring av ljudkvaliteten",
+          "Skapa ett projekt från delningsbladet i Bilder",
+          "Spara i Bilder eller Filer och dela till valfri app",
+          "Behåller flera projekt"
+        ]
       },
       "organization": {
         "@context": "https://schema.org",
@@ -255,8 +289,92 @@
             "name": "Spara och dela",
             "text": "Spara den boostade filen tillbaka på enheten och dela den var som helst."
           }
+        ],
+        "tool": [
+          {
+            "@type": "HowToTool",
+            "name": "Appen Increase Volume – Ljudboost för iPhone"
+          }
         ]
       }
     }
+  },
+  "nav": {
+    "aria": "Huvudnavigering",
+    "how_it_works": "Så fungerar det",
+    "screenshots": "Skärmbilder",
+    "guides": "Guider",
+    "faq": "FAQ",
+    "download": "App Store"
+  },
+  "download": {
+    "eyebrow": "Hämta",
+    "title": "Hämta Increase Volume – Ljudboost i App Store",
+    "subtitle": "Audio & Music Booster · Kategorin Musik · iPhone",
+    "price": "Gratis",
+    "price_note": "Valfria köp inuti appen (gratis provperiod eller ett engångsköp för alltid)",
+    "rating_line": "4,5 ★ · 118 betyg i App Store",
+    "qr_alt": "QR-kod som leder till Increase Volume – Ljudboost i App Store",
+    "qr_label": "Skanna med kameran på din iPhone",
+    "requirements": "Kräver iOS 18.6 eller senare · 26,8 MB · Svenska + 30 andra språk · Ålder 4+"
+  },
+  "screenshots": {
+    "eyebrow": "Skärmbilder",
+    "title": "Så här ser appen ut på din iPhone",
+    "intro": "Samma skärmar som i App Store: ett enda reglage, en jämförelse mellan Original och Bearbetad, och ett delningsblad som skickar den högre filen dit du behöver den.",
+    "aria": "Skärmbilder av appen, skrolla i sidled",
+    "items": [
+      {
+        "src": "/img/screenshots/1.webp",
+        "alt": "Marknadsbild för Increase Volume: volymbooster och ljudförstärkare, upp till tio gånger högre",
+        "caption": "Volymbooster och ljudförstärkare: upp till 10× högre."
+      },
+      {
+        "src": "/img/screenshots/2.webp",
+        "alt": "Videospelare i Increase Volume där ett finger drar det rosa boost-reglaget för att göra videon högre",
+        "caption": "Gör en video högre: dra reglaget på videoförhandsvisningen."
+      },
+      {
+        "src": "/img/screenshots/3.webp",
+        "alt": "Increase Volume bearbetar en MP3-fil och visar filnamn, storlek och längd",
+        "caption": "Gör musik högre: MP3 och andra ljudfiler bearbetas på enheten."
+      },
+      {
+        "src": "/img/screenshots/4.webp",
+        "alt": "Spårinformation med reglaget «Förbättra ljudkvalitet», skjutreglaget «Volymmultiplikation ×10» och knappen «Boosta volymen till ×10»",
+        "caption": "Välj hur mycket du vill boosta, från ett litet lyft till 10×."
+      },
+      {
+        "src": "/img/screenshots/5.webp",
+        "alt": "Resultatskärm med knappen «Hämta bearbetad» och växlingen Original/Bearbetad",
+        "caption": "Lyssna på resultatet och jämför med originalet innan du sparar."
+      },
+      {
+        "src": "/img/screenshots/6.webp",
+        "alt": "iOS-delningsblad med Kopiera, Lägg till taggar och Spara i Filer för det boostade ljudet",
+        "caption": "Hämta och dela var som helst: Bilder, Filer, Meddelanden, WhatsApp, AirDrop."
+      },
+      {
+        "src": "/img/screenshots/7.webp",
+        "alt": "Projektlista i Increase Volume med MP3- och MP4-filer, storlek och längd",
+        "caption": "Spara flera projekt och återvänd till dem senare."
+      }
+    ]
+  },
+  "howitworks": {
+    "step_1_alt": "Steg 1: video importerad till Increase Volume med boost-reglaget synligt",
+    "step_2_alt": "Steg 2: skjutreglaget «Volymmultiplikation ×10» och knappen «Boosta volymen»",
+    "step_3_alt": "Steg 3: iOS-delningsblad med «Spara i Filer» för den boostade filen"
+  },
+  "faq_section": {
+    "eyebrow": "FAQ",
+    "intro": "Korta svar först. Varje svar länkar till en komplett guide med skärmbilder.",
+    "learn_more_label": "Läs mer"
+  },
+  "cta": {
+    "eyebrow": "Redo?",
+    "title": "Din tysta fil, 10× högre, på under en minut.",
+    "text": "Hämta Increase Volume – Ljudboost, importera videon eller ljudet som ingen hör, dra reglaget och dela den höga versionen.",
+    "note": "Gratis nedladdning · Kräver iOS 18.6 eller senare · 4,5★ i App Store"
   }
 }
