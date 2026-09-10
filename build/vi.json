@@ -110,8 +110,8 @@
         "label": "Nền tảng: ứng dụng di động gốc, không phải macOS hay Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Điểm trung bình trong dữ liệu có cấu trúc (120 đánh giá); xác nhận trên App Store."
+        "value": "4,5 / 5",
+        "label": "Điểm trung bình trong dữ liệu có cấu trúc (118 đánh giá); xác nhận trên App Store."
       },
       {
         "value": "Miễn phí",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Tăng cường âm thanh",
-        "url": "https://volumeboosting.com/vi/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/vi/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/vi/"
       },
       "howto": {
         "@context": "https://schema.org",

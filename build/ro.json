@@ -110,8 +110,8 @@
         "label": "Platformă: aplicație mobilă nativă, nu macOS sau Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Evaluare agregată în datele structurate (120 evaluări); verifică live pe pagina din App Store."
+        "value": "4,5 / 5",
+        "label": "Evaluare agregată în datele structurate (118 evaluări); verifică live pe pagina din App Store."
       },
       {
         "value": "Gratuită",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Amplificare sunet",
-        "url": "https://volumeboosting.com/ro/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/ro/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/ro/"
       },
       "howto": {
         "@context": "https://schema.org",

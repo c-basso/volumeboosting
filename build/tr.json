@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "tr",
-    "title": "Ses yükseltme – Ses güçlendirme | iPhone'da ses/video ~10×",
-    "description": "iPhone'da ses veya videoyu yükseltin: ~10× netlik ve bas. Müzik, video, podcast ve sesli notlar. İşlem tamamen cihazda. App Store'da ücretsiz deneyin.",
+    "title": "iPhone ses yükseltme – ses ve video uygulaması ~10×",
+    "description": "iPhone ses yükseltme uygulaması: ses ve videoyu ~10× yükseltin, netlik ve bas ile. Müzik, podcast, sesli notlar. Cihazda işlenir. App Store'da ücretsiz deneyin.",
     "keywords": "iPhone ses yükseltme, video sesi artırma, düşük sesli video, ses güçlendirici, ses yükseltici uygulama, iPhone uygulaması, ekran kaydı sesi, ses netleştirme, ses güçlendirme, Increase Volume",
     "canonical": "https://volumeboosting.com/tr/",
-    "og_title": "Ses yükseltme – Ses güçlendirme",
-    "og_description": "iPhone'da ses ve videoyu yaklaşık ~10× yükseltin: net ses, güçlü bas ve hızlı düzenleme. Düşük klipler, podcastler ve ekran kayıtları için.",
+    "og_title": "iPhone ses yükseltme",
+    "og_description": "iPhone ses yükseltme uygulaması: ses ve videoyu ~10× yükseltin, netlik ve bas ile. Müzik, podcast, sesli notlar. Cihazda işlenir. App Store'da ücretsiz deneyin.",
     "og_image": "https://volumeboosting.com/tr/site_preview.png",
     "og_image_alt": "Increase Volume – Ses güçlendirme uygulama simgesi",
     "og_url": "https://volumeboosting.com/tr/",
     "og_locale": "tr_TR",
     "twitter_url": "https://volumeboosting.com/tr/",
-    "twitter_title": "Ses yükseltme – Ses güçlendirme",
-    "twitter_description": "iPhone'da ses ve videoyu yaklaşık ~10× yükseltin: net ses, güçlü bas ve hızlı düzenleme. Düşük klipler, podcastler ve ekran kayıtları için.",
+    "twitter_title": "iPhone ses yükseltme",
+    "twitter_description": "iPhone ses yükseltme uygulaması: ses ve videoyu ~10× yükseltin, netlik ve bas ile. Müzik, podcast, sesli notlar. Cihazda işlenir. App Store'da ücretsiz deneyin.",
     "twitter_image": "https://volumeboosting.com/tr/site_preview.png",
     "twitter_image_alt": "Increase Volume – Ses güçlendirme uygulama simgesi"
   },
@@ -30,9 +30,9 @@
   "hero": {
     "kicker_value": "10x",
     "kicker_text": "Sessiz videoları ve sesleri güçlü, net duyulur hale getirin",
-    "title_prefix": "Herhangi bir sesi veya videoyu",
-    "title_highlight": "yaklaşık ~10× daha yüksek",
-    "title_suffix": "yapın, netlik kaybetmeden.",
+    "title_prefix": "iPhone ses yükseltme:",
+    "title_highlight": "ses ve videoyu ~10×",
+    "title_suffix": " daha yüksek yapın, netlik kaybetmeden.",
     "subtitle": "Increase Volume – Ses güçlendirme, iPhone için özel ses yükselticinizdir. Düşük sesli ekran kayıtlarını, podcastleri ve videoları saniyeler içinde düzeltin — temiz, güçlü ses ve dolgun bas.",
     "metadata_primary": "Yalnızca iPhone",
     "metadata_secondary": "Hızlı, basit ve gizliliğe saygılı",
@@ -110,8 +110,8 @@
         "label": "Platform: yerel mobil uygulama, macOS veya Android değil."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Yapılandırılmış verilerde toplam puan (120 değerlendirme); App Store'da güncel değeri doğrulayın."
+        "value": "4,5 / 5",
+        "label": "App Store puanı: 4,5 / 5 (118 değerlendirme)."
       },
       {
         "value": "Ücretsiz",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Ses güçlendirme",
-        "url": "https://volumeboosting.com/tr/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/tr/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/tr/"
       },
       "howto": {
         "@context": "https://schema.org",

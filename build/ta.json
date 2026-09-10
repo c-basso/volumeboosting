@@ -110,8 +110,8 @@
         "label": "தளம்: இயல்புநிலை மொபைல் பயன்பாடு, macOS அல்லது Android அல்ல."
       },
       {
-        "value": "4.8 / 5",
-        "label": "கட்டமைக்கப்பட்ட தரவில் தொகுப்பு மதிப்பீடு (120 மதிப்பீடுகள்); App Store இல் நேரடியாக உறுதிப்படுத்தவும்."
+        "value": "4.5 / 5",
+        "label": "கட்டமைக்கப்பட்ட தரவில் தொகுப்பு மதிப்பீடு (118 மதிப்பீடுகள்); App Store இல் நேரடியாக உறுதிப்படுத்தவும்."
       },
       {
         "value": "இலவச பதிவிறக்கம்",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – ஒலி பூஸ்ட்",
-        "url": "https://volumeboosting.com/ta/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/ta/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/ta/"
       },
       "howto": {
         "@context": "https://schema.org",

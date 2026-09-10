@@ -110,8 +110,8 @@
         "label": "Platform: aplikasi seluler asli, bukan macOS atau Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Rating agregat dalam data terstruktur (120 ulasan); verifikasi di halaman App Store."
+        "value": "4,5 / 5",
+        "label": "Rating agregat dalam data terstruktur (118 ulasan); verifikasi di halaman App Store."
       },
       {
         "value": "Unduhan gratis",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Peningkat suara",
-        "url": "https://volumeboosting.com/id/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/id/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/id/"
       },
       "howto": {
         "@context": "https://schema.org",

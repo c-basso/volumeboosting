@@ -110,8 +110,8 @@
         "label": "แพลตฟอร์ม: แอปมือถือเนทีฟ ไม่ใช่ macOS หรือ Android"
       },
       {
-        "value": "4.8 / 5",
-        "label": "คะแนนรวมในข้อมูลโครงสร้าง (120 รีวิว); ตรวจสอบได้บนหน้า App Store"
+        "value": "4.5 / 5",
+        "label": "คะแนนรวมในข้อมูลโครงสร้าง (118 รีวิว); ตรวจสอบได้บนหน้า App Store"
       },
       {
         "value": "ฟรี",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – บูสเสียง",
-        "url": "https://volumeboosting.com/th/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/th/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/th/"
       },
       "howto": {
         "@context": "https://schema.org",

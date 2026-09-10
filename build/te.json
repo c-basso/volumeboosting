@@ -110,8 +110,8 @@
         "label": "ప్లాట్‌ఫారమ్: స్థానిక మొబైల్ యాప్, macOS లేదా Android కాదు."
       },
       {
-        "value": "4.8 / 5",
-        "label": "నిర్మాణ డేటాలో సమగ్ర రేటింగ్ (120 రేటింగ్‌లు); App Storeలో ప్రత్యక్షంగా నిర్ధారించండి."
+        "value": "4.5 / 5",
+        "label": "నిర్మాణ డేటాలో సమగ్ర రేటింగ్ (118 రేటింగ్‌లు); App Storeలో ప్రత్యక్షంగా నిర్ధారించండి."
       },
       {
         "value": "ఉచిత డౌన్‌లోడ్",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – ధ్వని బూస్ట్",
-        "url": "https://volumeboosting.com/te/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/te/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/te/"
       },
       "howto": {
         "@context": "https://schema.org",

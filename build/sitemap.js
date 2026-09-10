@@ -35,8 +35,8 @@ function getLastmodForUrl(loc) {
     lines.push('  <url>');
     lines.push(`    <loc>${loc}</loc>`);
     lines.push(`    <lastmod>${lastmod}</lastmod>`);
-    for (const { lang, url } of URLS) {
-      lines.push(`    <xhtml:link rel="alternate" hreflang="${lang}" href="${url}" />`);
+    for (const { hreflang, url } of URLS) {
+      lines.push(`    <xhtml:link rel="alternate" hreflang="${hreflang}" href="${url}" />`);
     }
     lines.push(`    <xhtml:link rel="alternate" hreflang="x-default" href="${defaultUrl}" />`);
     lines.push('    <priority>1.0</priority>');

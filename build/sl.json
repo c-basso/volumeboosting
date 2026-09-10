@@ -110,8 +110,8 @@
         "label": "Platforma: domorodna mobilna aplikacija, ne macOS ali Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Povprečna ocena v strukturiranih podatkih (120 ocen); preveri trenutno na strani App Store."
+        "value": "4,5 / 5",
+        "label": "Povprečna ocena v strukturiranih podatkih (118 ocen); preveri trenutno na strani App Store."
       },
       {
         "value": "Brezplačen prenos",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Ojačitev zvoka",
-        "url": "https://volumeboosting.com/sl/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/sl/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/sl/"
       },
       "howto": {
         "@context": "https://schema.org",

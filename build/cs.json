@@ -110,8 +110,8 @@
         "label": "Platforma: nativní mobilní aplikace, ne macOS ani Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Průměrné hodnocení ve strukturovaných datech (120 hodnocení); ověř aktuálně v App Store."
+        "value": "4,5 / 5",
+        "label": "Průměrné hodnocení ve strukturovaných datech (118 hodnocení); ověř aktuálně v App Store."
       },
       {
         "value": "Stáhnutí zdarma",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Zesílení zvuku",
-        "url": "https://volumeboosting.com/cs/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/cs/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/cs/"
       },
       "howto": {
         "@context": "https://schema.org",

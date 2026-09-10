@@ -110,8 +110,8 @@
         "label": "Πλατφόρμα: εγγενής εφαρμογή για κινητά, όχι macOS ή Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Μέση βαθμολογία σε δομημένα δεδομένα (120 αξιολογήσεις)· επιβεβαιώστε ζωντανά στο App Store."
+        "value": "4,5 / 5",
+        "label": "Μέση βαθμολογία σε δομημένα δεδομένα (118 αξιολογήσεις)· επιβεβαιώστε ζωντανά στο App Store."
       },
       {
         "value": "Δωρεάν λήψη",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Ενίσχυση ήχου",
-        "url": "https://volumeboosting.com/el/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/el/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/el/"
       },
       "howto": {
         "@context": "https://schema.org",

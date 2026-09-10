@@ -110,8 +110,8 @@
         "label": "प्लेटफ़ॉर्म: नेटिव मोबाइल ऐप, macOS या Android नहीं।"
       },
       {
-        "value": "4.8 / 5",
-        "label": "संरचित डेटा में एग्रीगेट रेटिंग (120 रेटिंग); App Store पर लाइव पुष्टि करें।"
+        "value": "4.5 / 5",
+        "label": "संरचित डेटा में एग्रीगेट रेटिंग (118 रेटिंग); App Store पर लाइव पुष्टि करें।"
       },
       {
         "value": "मुफ़्त डाउनलोड",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – ध्वनि बूस्ट",
-        "url": "https://volumeboosting.com/hi/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/hi/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/hi/"
       },
       "howto": {
         "@context": "https://schema.org",

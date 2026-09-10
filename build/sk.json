@@ -110,8 +110,8 @@
         "label": "Platforma: natívna mobilná aplikácia, nie macOS ani Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Priemerné hodnotenie v štruktúrovaných údajoch (120 hodnotení); over aktuálne na stránke App Store."
+        "value": "4,5 / 5",
+        "label": "Priemerné hodnotenie v štruktúrovaných údajoch (118 hodnotení); over aktuálne na stránke App Store."
       },
       {
         "value": "Stiahnutie zdarma",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Zosilnenie zvuku",
-        "url": "https://volumeboosting.com/sk/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/sk/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/sk/"
       },
       "howto": {
         "@context": "https://schema.org",

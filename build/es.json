@@ -110,8 +110,8 @@
         "label": "Plataforma: app móvil nativa, no macOS ni Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Valoración agregada en datos estructurados (120 valoraciones); confirma en la App Store."
+        "value": "4,5 / 5",
+        "label": "Valoración agregada en datos estructurados (118 valoraciones); confirma en la App Store."
       },
       {
         "value": "Gratis",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Potencia de sonido",
-        "url": "https://volumeboosting.com/es/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/es/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/es/"
       },
       "howto": {
         "@context": "https://schema.org",

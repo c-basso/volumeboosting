@@ -110,8 +110,8 @@
         "label": "Платформа: нативное мобильное приложение, не macOS и не Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Средняя оценка в структурированных данных (120 оценок); актуальное значение — на странице App Store."
+        "value": "4,5 / 5",
+        "label": "Средняя оценка в структурированных данных (118 оценок); актуальное значение — на странице App Store."
       },
       {
         "value": "Бесплатно",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Усиление звука",
-        "url": "https://volumeboosting.com/ru/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/ru/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/ru/"
       },
       "howto": {
         "@context": "https://schema.org",

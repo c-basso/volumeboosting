@@ -110,8 +110,8 @@
         "label": "Platform: native mobilapp, ikke macOS eller Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Gennemsnitlig vurdering i strukturerede data (120 anmeldelser); bekræft live i App Store."
+        "value": "4,5 / 5",
+        "label": "Gennemsnitlig vurdering i strukturerede data (118 anmeldelser); bekræft live i App Store."
       },
       {
         "value": "Gratis download",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Lydboost",
-        "url": "https://volumeboosting.com/da/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/da/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/da/"
       },
       "howto": {
         "@context": "https://schema.org",

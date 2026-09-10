@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "ja",
-    "title": "音量を上げる – 音の強化 | あらゆる音声・動画を大きく",
-    "description": "iPhoneで音声や動画の音量を大きく。最大約10倍まで、明瞭さ・迫力・低音も調整 — 音楽、動画、ポッドキャスト、ボイスメモや画面録画にも。端末内で処理し、新しいファイルとして保存できます。App Storeで無料お試し。",
-    "keywords": "iPhone 音量 上げる, 動画 大きく, 小さい音 動画, 音量ブースター, iPhone アプリ, 音声 増幅, 画面録画 音小さい, 音の強化, Increase Volume",
+    "title": "録音した音を大きくするiPhoneアプリ（無料）｜ボイスメモ・動画",
+    "description": "iPhoneで録音やボイスメモ、動画の音量を大きく。最大約10倍まで、明瞭さ・迫力・低音も調整。音楽、ポッドキャスト、画面録画にも。端末内で処理し、新しいファイルとして保存・共有できます。App Storeで無料お試し。",
+    "keywords": "録音した音を大きくするアプリ, ボイスメモ 音 大きくする, iPhone 音量 上げる, 動画 大きく, 音量ブースター, 無料, 画面録画 音小さい, Increase Volume",
     "canonical": "https://volumeboosting.com/ja/",
-    "og_title": "音量を上げる – 音の強化",
-    "og_description": "iPhoneの音声・動画を最大約10倍まで — Increase Volume – 音の強化。クリアな音と低音で、小さなクリップやポッドキャスト、画面録画も改善。端末内で処理し、ブースト済みファイルを保存・共有できます。",
+    "og_title": "録音した音を大きくするiPhoneアプリ",
+    "og_description": "iPhoneで録音やボイスメモ、動画の音量を大きく。最大約10倍まで、明瞭さ・迫力・低音も調整。音楽、ポッドキャスト、画面録画にも。端末内で処理し、新しいファイルとして保存・共有できます。App Storeで無料お試し。",
     "og_image": "https://volumeboosting.com/ja/site_preview.png",
     "og_image_alt": "Increase Volume – 音の強化 アプリのアイコン",
     "og_url": "https://volumeboosting.com/ja/",
     "og_locale": "ja_JP",
     "twitter_url": "https://volumeboosting.com/ja/",
-    "twitter_title": "音量を上げる – 音の強化",
-    "twitter_description": "iPhoneの音声・動画を最大約10倍まで — Increase Volume – 音の強化。クリアな音と低音で、小さなクリップやポッドキャスト、画面録画も改善。端末内で処理し、ブースト済みファイルを保存・共有できます。",
+    "twitter_title": "録音した音を大きくするiPhoneアプリ",
+    "twitter_description": "iPhoneで録音やボイスメモ、動画の音量を大きく。最大約10倍まで、明瞭さ・迫力・低音も調整。音楽、ポッドキャスト、画面録画にも。端末内で処理し、新しいファイルとして保存・共有できます。App Storeで無料お試し。",
     "twitter_image": "https://volumeboosting.com/ja/site_preview.png",
     "twitter_image_alt": "Increase Volume – 音の強化 アプリのアイコン"
   },
@@ -30,9 +30,9 @@
   "hero": {
     "kicker_value": "10x",
     "kicker_text": "小さな動画や録音を、はっきり大きな音に",
-    "title_prefix": "あらゆる音声や動画を",
-    "title_highlight": "最大約10倍まで",
-    "title_suffix": "大きく、明瞭さを損なわず。",
+    "title_prefix": "録音した音を",
+    "title_highlight": "大きくするiPhoneアプリ",
+    "title_suffix": "。無料で、明瞭さはそのまま。",
     "subtitle": "Increase Volume – 音の強化 は、iPhone専用の音量ブースターです。画面録画やポッドキャスト、小さな動画も数秒で — クリアで力強い音と豊かな低音に整えます。",
     "metadata_primary": "iPhone専用",
     "metadata_secondary": "速く、簡単で、プライバシーを尊重",
@@ -110,8 +110,8 @@
         "label": "プラットフォーム：ネイティブモバイルアプリ（macOS / Android ではありません）。"
       },
       {
-        "value": "4.8 / 5",
-        "label": "構造化データの集計評価（120件）。最新は App Store の掲載ページでご確認ください。"
+        "value": "4.5 / 5",
+        "label": "App Storeの評価：4.5 / 5（118件）。"
       },
       {
         "value": "無料ダウンロード",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – 音の強化",
-        "url": "https://volumeboosting.com/ja/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/ja/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/ja/"
       },
       "howto": {
         "@context": "https://schema.org",

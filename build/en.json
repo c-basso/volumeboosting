@@ -110,8 +110,8 @@
         "label": "Platform: native mobile app, not macOS or Android."
       },
       {
-        "value": "4.8 / 5",
-        "label": "Aggregate rating in structured data (120 ratings); confirm live on the App Store."
+        "value": "4.5 / 5",
+        "label": "App Store rating from 118 ratings."
       },
       {
         "value": "$0 download",
@@ -224,12 +224,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Sound Boost",
-        "url": "https://volumeboosting.com/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/"
       },
       "howto": {
         "@context": "https://schema.org",

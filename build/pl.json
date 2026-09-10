@@ -110,8 +110,8 @@
         "label": "Platforma: natywna aplikacja mobilna, nie macOS ani Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Łączna ocena w danych strukturalnych (120 ocen); sprawdź na stronie App Store."
+        "value": "4,5 / 5",
+        "label": "Łączna ocena w danych strukturalnych (118 ocen); sprawdź na stronie App Store."
       },
       {
         "value": "Za darmo",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Wzmocnienie dźwięku",
-        "url": "https://volumeboosting.com/pl/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/pl/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/pl/"
       },
       "howto": {
         "@context": "https://schema.org",

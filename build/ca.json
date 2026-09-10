@@ -110,8 +110,8 @@
         "label": "Plataforma: app mòbil nativa, no macOS ni Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Valoració agregada en dades estructurades (120 valoracions); confirma-ho a l'App Store."
+        "value": "4,5 / 5",
+        "label": "Valoració agregada en dades estructurades (118 valoracions); confirma-ho a l'App Store."
       },
       {
         "value": "Gratuïta",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Potència de so",
-        "url": "https://volumeboosting.com/ca/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/ca/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/ca/"
       },
       "howto": {
         "@context": "https://schema.org",

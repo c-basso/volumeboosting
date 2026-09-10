@@ -110,7 +110,7 @@
         "label": "প্ল্যাটফর্ম: নেটিভ মোবাইল অ্যাপ, macOS বা Android নয়।"
       },
       {
-        "value": "4.8 / 5",
+        "value": "4.5 / 5",
         "label": "স্ট্রাকচার্ড ডেটায় এগ্রিগেট রেটিং (১২০ রেটিং); App Store-ে লাইভ নিশ্চিত করুন।"
       },
       {
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – ধ্বনি বুস্ট",
-        "url": "https://volumeboosting.com/bn/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/bn/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/bn/"
       },
       "howto": {
         "@context": "https://schema.org",

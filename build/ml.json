@@ -110,8 +110,8 @@
         "label": "പ്ലാറ്റ്‌ഫോം: നേറ്റീവ് മൊബൈൽ ആപ്പ്, macOS അല്ല, Android അല്ല."
       },
       {
-        "value": "4.8 / 5",
-        "label": "സ്ട്രക്ചേർഡ് ഡാറ്റയിലെ സമഗ്ര റേറ്റിംഗ് (120 റേറ്റിംഗുകൾ); App Store-ൽ നേരിട്ട് സ്ഥിരീകരിക്കുക."
+        "value": "4.5 / 5",
+        "label": "സ്ട്രക്ചേർഡ് ഡാറ്റയിലെ സമഗ്ര റേറ്റിംഗ് (118 റേറ്റിംഗുകൾ); App Store-ൽ നേരിട്ട് സ്ഥിരീകരിക്കുക."
       },
       {
         "value": "സൗജന്യ ഡൗൺലോഡ്",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – ശബ്ദ ബൂസ്റ്",
-        "url": "https://volumeboosting.com/ml/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/ml/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/ml/"
       },
       "howto": {
         "@context": "https://schema.org",

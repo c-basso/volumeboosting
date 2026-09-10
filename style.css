@@ -96,7 +96,7 @@ header {
 }
 
 .brand-name {
-  font-family: "General Sans", system-ui, -apple-system, BlinkMacSystemFont,
+  font-family: "DM Sans", system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", sans-serif;
   font-size: 1rem;
   font-weight: 600;
@@ -180,7 +180,7 @@ header {
 }
 
 h1 {
-  font-family: "General Sans", system-ui, -apple-system, BlinkMacSystemFont,
+  font-family: "DM Sans", system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", sans-serif;
   font-weight: 700;
   font-size: clamp(2.2rem, 4.5vw, 3.2rem);
@@ -722,7 +722,7 @@ h1 {
 }
 
 .card h2 {
-  font-family: "General Sans", system-ui, -apple-system, BlinkMacSystemFont,
+  font-family: "DM Sans", system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", sans-serif;
   font-size: 0.88rem;
   font-weight: 600;
@@ -782,7 +782,7 @@ h1 {
 }
 
 .step-number {
-  font-family: "General Sans", system-ui, -apple-system, BlinkMacSystemFont,
+  font-family: "DM Sans", system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", sans-serif;
   width: 22px;
   height: 22px;
@@ -897,7 +897,7 @@ h1 {
 }
 
 .geo-stat-value {
-  font-family: "General Sans", system-ui, -apple-system, BlinkMacSystemFont,
+  font-family: "DM Sans", system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", sans-serif;
   font-weight: 600;
   font-size: 0.88rem;
@@ -939,7 +939,7 @@ h1 {
 }
 
 .geo-compare-table thead th {
-  font-family: "General Sans", system-ui, -apple-system, BlinkMacSystemFont,
+  font-family: "DM Sans", system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", sans-serif;
   font-size: 0.72rem;
   font-weight: 600;
@@ -978,7 +978,7 @@ h1 {
 }
 
 .geo-faq-q {
-  font-family: "General Sans", system-ui, -apple-system, BlinkMacSystemFont,
+  font-family: "DM Sans", system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", sans-serif;
   font-size: 1.05rem;
   font-weight: 600;

@@ -110,8 +110,8 @@
         "label": "Platform: aplikasi mudah alih asli, bukan macOS atau Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Penilaian agregat dalam data berstruktur (120 ulasan); sahkan pada halaman App Store."
+        "value": "4,5 / 5",
+        "label": "Penilaian agregat dalam data berstruktur (118 ulasan); sahkan pada halaman App Store."
       },
       {
         "value": "Muat turun percuma",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Penambah bunyi",
-        "url": "https://volumeboosting.com/ms/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/ms/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/ms/"
       },
       "howto": {
         "@context": "https://schema.org",

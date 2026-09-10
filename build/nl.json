@@ -110,8 +110,8 @@
         "label": "Platform: native mobiele app, geen macOS of Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Geaggregeerde beoordeling in gestructureerde data (120 beoordelingen); controleer live op de App Store-pagina."
+        "value": "4,5 / 5",
+        "label": "Geaggregeerde beoordeling in gestructureerde data (118 beoordelingen); controleer live op de App Store-pagina."
       },
       {
         "value": "Gratis",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Geluidsboost",
-        "url": "https://volumeboosting.com/nl/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/nl/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/nl/"
       },
       "howto": {
         "@context": "https://schema.org",

@@ -110,8 +110,8 @@
         "label": "פלטפורמה: אפליקציה ניידת נטיבית, לא macOS או Android."
       },
       {
-        "value": "4.8 / 5",
-        "label": "דירוג מצטבר בנתונים מובנים (120 דירוגים); יש לאמת מול רשימת ה‑App Store."
+        "value": "4.5 / 5",
+        "label": "דירוג מצטבר בנתונים מובנים (118 דירוגים); יש לאמת מול רשימת ה‑App Store."
       },
       {
         "value": "הורדה חינם",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – הגברת שמע",
-        "url": "https://volumeboosting.com/he/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/he/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/he/"
       },
       "howto": {
         "@context": "https://schema.org",

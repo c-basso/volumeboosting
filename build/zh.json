@@ -110,8 +110,8 @@
         "label": "平台：原生移动应用，而非 macOS 或 Android。"
       },
       {
-        "value": "4.8 / 5",
-        "label": "结构化数据中的平均评分（120 条评价）；请以 App Store 实时页面为准。"
+        "value": "4.5 / 5",
+        "label": "结构化数据中的平均评分（118 条评价）；请以 App Store 实时页面为准。"
       },
       {
         "value": "免费下载",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – 声音增强",
-        "url": "https://volumeboosting.com/zh/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/zh/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/zh/"
       },
       "howto": {
         "@context": "https://schema.org",

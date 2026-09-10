@@ -110,8 +110,8 @@
         "label": "Platform: natív mobilalkalmazás, nem macOS vagy Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Összesített értékelés a strukturált adatokban (120 értékelés); ellenőrizd az App Store listán."
+        "value": "4,5 / 5",
+        "label": "Összesített értékelés a strukturált adatokban (118 értékelés); ellenőrizd az App Store listán."
       },
       {
         "value": "Ingyenes letöltés",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Hang kiemelés",
-        "url": "https://volumeboosting.com/hu/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/hu/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/hu/"
       },
       "howto": {
         "@context": "https://schema.org",

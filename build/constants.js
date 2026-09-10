@@ -46,7 +46,7 @@ const LANGUAGES = [
 
 const URLS = LANGUAGES.map((code) => ({
     code,
-    hreflang: code,
+    hreflang: code === 'no' ? 'nb' : code,
     lang: code,
     url: code === DEFAULT_LANGUAGE ? SITE_URL : `${SITE_URL}${code}/`
 }));
@@ -77,8 +77,8 @@ const FOOTER_TERMS_URL = '/terms.html';
 /** JSON-LD `aggregateRating` on `MobileApplication` (merged in `buildSoftwareApplicationStructuredData`). */
 const SOFTWARE_APPLICATION_AGGREGATE_RATING = {
     '@type': 'AggregateRating',
-    ratingValue: '4.8',
-    ratingCount: '120'
+    ratingValue: '4.5',
+    ratingCount: '118'
 };
 
 /** Site-wide meta duplicated across locales; merged at build time in `normalizeMeta`. */

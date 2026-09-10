@@ -15,7 +15,7 @@
 - Website locales: 37 language-specific pages
 - Primary platform: iPhone (iOS)
 - Public website: https://volumeboosting.com/
-- Last website build date: 2026-08-21
+- Last website build date: 2026-09-10
 
 ## Main sections
 - [Home](https://volumeboosting.com/): Product overview, use cases, screenshots, and App Store link
@@ -43,7 +43,7 @@
 - [ko](https://volumeboosting.com/ko/)
 - [ms](https://volumeboosting.com/ms/)
 - [nl](https://volumeboosting.com/nl/)
-- [no](https://volumeboosting.com/no/)
+- [nb](https://volumeboosting.com/no/)
 - [pl](https://volumeboosting.com/pl/)
 - [pt](https://volumeboosting.com/pt/)
 - [ro](https://volumeboosting.com/ro/)
@@ -88,4 +88,4 @@ No public Android listing is referenced on the website. The published listing is
 - Privacy: https://volumeboosting.com/privacy.html
 - Terms: https://volumeboosting.com/terms.html
 
-Last updated: 2026-08-21
+Last updated: 2026-09-10

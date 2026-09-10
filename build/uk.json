@@ -110,8 +110,8 @@
         "label": "Платформа: нативний мобільний додаток, не macOS й не Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Середня оцінка в структурованих даних (120 оцінок); актуальне значення — у App Store."
+        "value": "4,5 / 5",
+        "label": "Середня оцінка в структурованих даних (118 оцінок); актуальне значення — у App Store."
       },
       {
         "value": "Безкоштовно",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Підсилення звуку",
-        "url": "https://volumeboosting.com/uk/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/uk/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/uk/"
       },
       "howto": {
         "@context": "https://schema.org",

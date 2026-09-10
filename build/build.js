@@ -421,6 +421,8 @@ function buildSoftwareApplicationStructuredData(data) {
     }
     app.dateModified = BUILD_DATE_ISO;
     app.aggregateRating = { ...SOFTWARE_APPLICATION_AGGREGATE_RATING };
+    app.image = data.meta?.og_logo || DEFAULT_OG_LOGO;
+    app.screenshot = `${SITE_URL}img/screenshots/1.webp`;
 }
 
 function buildWebsiteStructuredData(data) {
@@ -442,6 +444,7 @@ function buildWebsiteStructuredData(data) {
         website.name = website.name || fallbackName;
         website.description = website.description || stripHtml(data.meta?.description);
         website.inLanguage = website.inLanguage || data.meta?.lang;
+        delete website.potentialAction;
     }
 }
 

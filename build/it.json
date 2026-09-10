@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "it",
-    "title": "Aumentare volume – Potenziamento audio | ~10× su iPhone",
-    "description": "Audio o video più forte su iPhone: fino a ~10× con nitidezza e gravi. Musica, clip, podcast, memo vocali. Sul dispositivo. Prova gratuita su App Store.",
+    "title": "Aumentare volume su iPhone – audio e video più forti",
+    "description": "App per aumentare il volume su iPhone: audio e video fino a ~10×, nitidezza e gravi. Clip, podcast, memo vocali. Sul dispositivo. Prova gratuita su App Store.",
     "keywords": "aumentare volume iPhone, video troppo basso, audio più forte, booster volume, amplificatore volume, app iPhone, suono più alto, registrazione schermo silenziosa, migliorare audio video, potenziamento audio, Increase Volume",
     "canonical": "https://volumeboosting.com/it/",
-    "og_title": "Aumentare volume – Potenziamento audio",
-    "og_description": "Audio e video su iPhone fino a ~10×. Nitidezza, gravi, flusso rapido. Clip, podcast, schermate. Sul dispositivo.",
+    "og_title": "Aumentare volume su iPhone",
+    "og_description": "App per aumentare il volume su iPhone: audio e video fino a ~10×, nitidezza e gravi. Clip, podcast, memo vocali. Sul dispositivo. Prova gratuita su App Store.",
     "og_image": "https://volumeboosting.com/it/site_preview.png",
     "og_image_alt": "Icona dell'app Increase Volume – Potenziamento audio",
     "og_url": "https://volumeboosting.com/it/",
     "og_locale": "it_IT",
     "twitter_url": "https://volumeboosting.com/it/",
-    "twitter_title": "Aumentare volume – Potenziamento audio",
-    "twitter_description": "Audio e video su iPhone fino a ~10×. Nitidezza, gravi, flusso rapido. Clip, podcast, schermate. Sul dispositivo.",
+    "twitter_title": "Aumentare volume su iPhone",
+    "twitter_description": "App per aumentare il volume su iPhone: audio e video fino a ~10×, nitidezza e gravi. Clip, podcast, memo vocali. Sul dispositivo. Prova gratuita su App Store.",
     "twitter_image": "https://volumeboosting.com/it/site_preview.png",
     "twitter_image_alt": "Icona dell'app Increase Volume – Potenziamento audio"
   },
@@ -30,9 +30,9 @@
   "hero": {
     "kicker_value": "10x",
     "kicker_text": "Trasforma video e audio silenziosi in suono forte e nitido",
-    "title_prefix": "Rendi qualsiasi audio o video",
-    "title_highlight": "fino a ~10× più forte",
-    "title_suffix": " senza perdere la chiarezza.",
+    "title_prefix": "Aumenta il volume su iPhone:",
+    "title_highlight": "fino a ~10×",
+    "title_suffix": " audio e video più forti, senza perdere chiarezza.",
     "subtitle": "Increase Volume – Potenziamento audio è il booster di volume dedicato all'iPhone. In pochi secondi correggi registrazioni dello schermo, podcast e video troppo bassi con suono pulito, potente e bassi ricchi.",
     "metadata_primary": "Solo iPhone",
     "metadata_secondary": "Veloce, semplice e rispettoso della privacy",
@@ -110,8 +110,8 @@
         "label": "Piattaforma: app mobile nativa, non macOS né Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Valutazione aggregata nei dati strutturati (120 recensioni); verifica sulla scheda App Store."
+        "value": "4,5 / 5",
+        "label": "Valutazione sull'App Store: 4,5 su 5 (118 recensioni)."
       },
       {
         "value": "Gratis",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Potenziamento audio",
-        "url": "https://volumeboosting.com/it/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/it/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/it/"
       },
       "howto": {
         "@context": "https://schema.org",

@@ -110,8 +110,8 @@
         "label": "Plattform: inbyggd mobilapp, inte macOS eller Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Genomsnittligt betyg i strukturerad data (120 recensioner); bekräfta live på App Store-sidan."
+        "value": "4,5 / 5",
+        "label": "Genomsnittligt betyg i strukturerad data (118 recensioner); bekräfta live på App Store-sidan."
       },
       {
         "value": "Gratis nedladdning",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Ljudboost",
-        "url": "https://volumeboosting.com/sv/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/sv/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/sv/"
       },
       "howto": {
         "@context": "https://schema.org",

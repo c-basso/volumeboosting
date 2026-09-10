@@ -110,8 +110,8 @@
         "label": "Plataforma: app móvel nativo, não macOS nem Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Avaliação agregada nos dados estruturados (120 avaliações); confira ao vivo na página da App Store."
+        "value": "4,5 / 5",
+        "label": "Avaliação agregada nos dados estruturados (118 avaliações); confira ao vivo na página da App Store."
       },
       {
         "value": "Grátis",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Reforço de som",
-        "url": "https://volumeboosting.com/pt/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/pt/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/pt/"
       },
       "howto": {
         "@context": "https://schema.org",

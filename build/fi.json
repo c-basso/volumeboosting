@@ -110,8 +110,8 @@
         "label": "Alusta: natiivi mobiilisovellus, ei macOS tai Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Keskimääräinen arvio strukturoiduissa tiedoissa (120 arviota); vahvista App Storessa."
+        "value": "4,5 / 5",
+        "label": "Keskimääräinen arvio strukturoiduissa tiedoissa (118 arviota); vahvista App Storessa."
       },
       {
         "value": "Ilmainen lataus",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Äänen tehostus",
-        "url": "https://volumeboosting.com/fi/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/fi/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/fi/"
       },
       "howto": {
         "@context": "https://schema.org",

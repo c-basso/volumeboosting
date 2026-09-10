@@ -110,8 +110,8 @@
         "label": "Platform: native mobile app, hindi macOS o Android."
       },
       {
-        "value": "4.8 / 5",
-        "label": "Average rating sa structured data (120 ratings); i-verify live sa App Store."
+        "value": "4.5 / 5",
+        "label": "Average rating sa structured data (118 ratings); i-verify live sa App Store."
       },
       {
         "value": "$0 download",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Palakas ng tunog",
-        "url": "https://volumeboosting.com/fil/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/fil/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/fil/"
       },
       "howto": {
         "@context": "https://schema.org",

@@ -82,7 +82,7 @@
     <link rel="dns-prefetch" href="https://apps.apple.com" />
     <link rel="dns-prefetch" href="https://mc.yandex.ru" />
     <link
-      href="https://fonts.googleapis.com/css2?family=General+Sans:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
     <link rel="icon" type="image/x-icon" href="/img/favicon.ico" />
@@ -196,7 +196,7 @@
             </p>
           </div>
 
-          <div class="visual-panel" aria-hidden="true">
+          <div class="visual-panel">
             <div class="device-shell">
               <div class="device-column">
                 <div class="device-frame">
@@ -204,6 +204,8 @@
                   <img
                     src="{{hero.device_image_src}}"
                     alt="{{hero.device_image_alt}}"
+                    width="460"
+                    height="995"
                     loading="lazy"
                     decoding="async"
                   />
@@ -220,7 +222,7 @@
                   <span class="wave-toggle-label">{{wave.after_label}}</span>
                   </div>
                 </div>
-                <div class="wave-bars">
+                <div class="wave-bars" aria-hidden="true">
                   <!-- Wave bars - heights will be controlled by CSS based on state -->
                   <div class="wave-bar"></div>
                   <div class="wave-bar"></div>

@@ -110,8 +110,8 @@
         "label": "Plateforme : app mobile native, pas macOS ni Android."
       },
       {
-        "value": "4,8 / 5",
-        "label": "Note agrégée dans les données structurées (120 avis) ; vérifier sur l'App Store."
+        "value": "4,5 / 5",
+        "label": "Note agrégée dans les données structurées (118 avis) ; vérifier sur l'App Store."
       },
       {
         "value": "Gratuit",
@@ -232,12 +232,7 @@
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Increase Volume – Boost sonore",
-        "url": "https://volumeboosting.com/fr/",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://volumeboosting.com/fr/?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        }
+        "url": "https://volumeboosting.com/fr/"
       },
       "howto": {
         "@context": "https://schema.org",
