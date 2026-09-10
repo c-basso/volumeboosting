@@ -159,7 +159,7 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1789035383954"
+      href="/style.css?v=1789047437263"
     />
     <script>document.documentElement.classList.add('js');</script>
 
@@ -648,30 +648,30 @@
                     
                     <tr>
                       <th scope="row">Crée un nouveau fichier plus fort</th>
-                      <td>Non — change seulement le niveau de lecture.</td>
+                      <td data-label="Volume système iOS">Non — change seulement le niveau de lecture.</td>
                       
-                      <td class="col-app">Oui — export / copie amplifiée.</td>
+                      <td class="col-app" data-label="Increase Volume – Boost sonore">Oui — export / copie amplifiée.</td>
                     </tr>
                     
                     <tr>
                       <th scope="row">Fonctionne hors ligne sur l'appareil</th>
-                      <td>Non pertinent pour l'export de fichiers.</td>
+                      <td data-label="Volume système iOS">Non pertinent pour l'export de fichiers.</td>
                       
-                      <td class="col-app">Oui — traitement sur l'appareil.</td>
+                      <td class="col-app" data-label="Increase Volume – Boost sonore">Oui — traitement sur l'appareil.</td>
                     </tr>
                     
                     <tr>
                       <th scope="row">Régler finement les graves et la clarté</th>
-                      <td>Limité à l'égaliseur système / lecture.</td>
+                      <td data-label="Volume système iOS">Limité à l'égaliseur système / lecture.</td>
                       
-                      <td class="col-app">Oui — curseurs dédiés dans l'interface.</td>
+                      <td class="col-app" data-label="Increase Volume – Boost sonore">Oui — curseurs dédiés dans l'interface.</td>
                     </tr>
                     
                     <tr>
                       <th scope="row">Cas d'usage typique</th>
-                      <td>Écouter plus fort maintenant.</td>
+                      <td data-label="Volume système iOS">Écouter plus fort maintenant.</td>
                       
-                      <td class="col-app">Correction durable des fichiers sources trop bas.</td>
+                      <td class="col-app" data-label="Increase Volume – Boost sonore">Correction durable des fichiers sources trop bas.</td>
                     </tr>
                     
                   </tbody>
@@ -978,6 +978,47 @@
         } else {
           document.querySelectorAll('.section, .geo-summary').forEach(function (el) { el.classList.add('is-visible'); });
         }
+      })();
+
+      // Mobile-only FAQ accordion: answers stay fully rendered in HTML (SEO),
+      // small screens collapse them behind an accessible toggle.
+      (function () {
+        if (!window.matchMedia) return;
+        var mq = window.matchMedia('(max-width: 820px)');
+        var items = document.querySelectorAll('.faq-list .faq-item');
+        if (!items.length) return;
+        var enhanced = false;
+
+        function enhance() {
+          if (enhanced) return;
+          enhanced = true;
+          Array.prototype.forEach.call(items, function (item, i) {
+            var q = item.querySelector('.faq-q');
+            var a = item.querySelector('.faq-a');
+            if (!q || !a) return;
+            if (!a.id) a.id = 'faq-answer-' + (i + 1);
+            var btn = document.createElement('button');
+            btn.type = 'button';
+            btn.className = 'faq-q-btn';
+            btn.setAttribute('aria-controls', a.id);
+            while (q.firstChild) btn.appendChild(q.firstChild);
+            q.appendChild(btn);
+            item.classList.add('is-collapsible');
+            function setOpen(open) {
+              item.classList.toggle('is-open', open);
+              btn.setAttribute('aria-expanded', String(open));
+            }
+            setOpen(i === 0 || (location.hash && a.id === location.hash.slice(1)));
+            btn.addEventListener('click', function () {
+              setOpen(!item.classList.contains('is-open'));
+            });
+          });
+        }
+
+        function apply() { if (mq.matches) enhance(); }
+        apply();
+        if (mq.addEventListener) mq.addEventListener('change', apply);
+        else if (mq.addListener) mq.addListener(apply);
       })();
     </script>
 

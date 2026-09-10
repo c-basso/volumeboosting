@@ -159,7 +159,7 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1789035383954"
+      href="/style.css?v=1789047437263"
     />
     <script>document.documentElement.classList.add('js');</script>
 
@@ -648,30 +648,30 @@
                     
                     <tr>
                       <th scope="row">Gumagawa ng bagong mas malakas na file</th>
-                      <td>Hindi — binabago lang ang playback level.</td>
+                      <td data-label="System volume ng iOS">Hindi — binabago lang ang playback level.</td>
                       
-                      <td class="col-app">Oo — nag-e-export / nagse-save ng boosted copy.</td>
+                      <td class="col-app" data-label="Increase Volume – Palakas ng tunog">Oo — nag-e-export / nagse-save ng boosted copy.</td>
                     </tr>
                     
                     <tr>
                       <th scope="row">Gumagana offline sa device</th>
-                      <td>Walang kaugnayan sa pag-export ng file.</td>
+                      <td data-label="System volume ng iOS">Walang kaugnayan sa pag-export ng file.</td>
                       
-                      <td class="col-app">Oo — inilarawan ang processing bilang on-device.</td>
+                      <td class="col-app" data-label="Increase Volume – Palakas ng tunog">Oo — inilarawan ang processing bilang on-device.</td>
                     </tr>
                     
                     <tr>
                       <th scope="row">Detalyadong kontrol sa bass at kalinawan</th>
-                      <td>Limitado sa system EQ / playback.</td>
+                      <td data-label="System volume ng iOS">Limitado sa system EQ / playback.</td>
                       
-                      <td class="col-app">Oo — may dedicated sliders sa UI ng app.</td>
+                      <td class="col-app" data-label="Increase Volume – Palakas ng tunog">Oo — may dedicated sliders sa UI ng app.</td>
                     </tr>
                     
                     <tr>
                       <th scope="row">Karaniwang gamit</th>
-                      <td>Mas malakas na playback ngayon.</td>
+                      <td data-label="System volume ng iOS">Mas malakas na playback ngayon.</td>
                       
-                      <td class="col-app">Permanenteng fix sa mahinang source files.</td>
+                      <td class="col-app" data-label="Increase Volume – Palakas ng tunog">Permanenteng fix sa mahinang source files.</td>
                     </tr>
                     
                   </tbody>
@@ -978,6 +978,47 @@
         } else {
           document.querySelectorAll('.section, .geo-summary').forEach(function (el) { el.classList.add('is-visible'); });
         }
+      })();
+
+      // Mobile-only FAQ accordion: answers stay fully rendered in HTML (SEO),
+      // small screens collapse them behind an accessible toggle.
+      (function () {
+        if (!window.matchMedia) return;
+        var mq = window.matchMedia('(max-width: 820px)');
+        var items = document.querySelectorAll('.faq-list .faq-item');
+        if (!items.length) return;
+        var enhanced = false;
+
+        function enhance() {
+          if (enhanced) return;
+          enhanced = true;
+          Array.prototype.forEach.call(items, function (item, i) {
+            var q = item.querySelector('.faq-q');
+            var a = item.querySelector('.faq-a');
+            if (!q || !a) return;
+            if (!a.id) a.id = 'faq-answer-' + (i + 1);
+            var btn = document.createElement('button');
+            btn.type = 'button';
+            btn.className = 'faq-q-btn';
+            btn.setAttribute('aria-controls', a.id);
+            while (q.firstChild) btn.appendChild(q.firstChild);
+            q.appendChild(btn);
+            item.classList.add('is-collapsible');
+            function setOpen(open) {
+              item.classList.toggle('is-open', open);
+              btn.setAttribute('aria-expanded', String(open));
+            }
+            setOpen(i === 0 || (location.hash && a.id === location.hash.slice(1)));
+            btn.addEventListener('click', function () {
+              setOpen(!item.classList.contains('is-open'));
+            });
+          });
+        }
+
+        function apply() { if (mq.matches) enhance(); }
+        apply();
+        if (mq.addEventListener) mq.addEventListener('change', apply);
+        else if (mq.addListener) mq.addListener(apply);
       })();
     </script>
 

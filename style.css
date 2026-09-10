@@ -2041,7 +2041,11 @@ strong {
   }
 
   .how-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .how-grid .card {
+    min-width: 0;
   }
 
   .guide-grid {
@@ -2077,45 +2081,143 @@ strong {
   }
 
   .hero {
-    padding-top: 36px;
+    padding-top: 32px;
+    padding-bottom: 8px;
+    gap: 36px;
+  }
+
+  .hero-kicker {
+    margin-bottom: 18px;
+    font-size: 14px;
+    gap: 10px;
   }
 
   .hero h1 {
-    font-size: clamp(36px, 10vw, 52px);
+    font-size: clamp(34px, 9.6vw, 52px);
+  }
+
+  .hero-subtitle {
+    font-size: 17px;
+  }
+
+  .cta-row {
+    margin-top: 26px;
   }
 
   .proof-row {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     width: 100%;
+    margin-top: 30px;
+  }
+
+  .hero-footnote {
+    margin-top: 18px;
+    font-size: 14px;
+  }
+
+  /* Compact side-by-side hero visual: device + waveform card share one row */
+  .visual-panel {
+    max-width: none;
   }
 
   .device-shell {
-    grid-template-columns: 1fr;
-    justify-items: center;
+    grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+    align-items: center;
   }
 
   .device-frame {
-    width: min(78%, 280px);
+    width: 100%;
+    max-width: 220px;
+    border-radius: 34px;
+    padding: 7px;
   }
 
   .wave-panel {
-    margin: -48px 0 0;
-    width: 100%;
-    max-width: 440px;
+    margin: 0;
+    margin-inline-start: -8%;
+    padding: 14px 14px 16px;
+    border-radius: 22px;
+  }
+
+  .wave-toggle-container {
+    gap: 8px;
+  }
+
+  .wave-toggle-label {
+    font-size: 11px;
+  }
+
+  .wave-bars {
+    height: 72px;
+    margin-top: 12px;
+  }
+
+  .wave-footer {
+    grid-template-columns: 1fr;
+    gap: 8px;
+    margin-top: 12px;
+  }
+
+  .wave-footer-text {
+    font-size: 12.5px;
+  }
+
+  .wave-header {
+    justify-content: flex-start;
+  }
+
+  .wave-multiplier {
+    top: -14px;
+    right: 10px;
+    font-size: 20px;
+  }
+
+  .device-frame::before {
+    top: 7px;
+    height: 16px;
+    border-radius: 0 0 10px 10px;
+  }
+
+  .device-screen {
+    border-radius: 28px;
   }
 
   .geo-summary {
     grid-template-columns: 1fr;
     gap: 12px;
+    padding: 20px;
+  }
+
+  .geo-summary-lead {
+    font-size: 17.5px;
+    line-height: 1.35;
+  }
+
+  .geo-summary-body {
+    font-size: 15.5px;
+  }
+
+  .section-intro {
+    font-size: 16.5px;
   }
 
   .download-card {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .download-app {
     flex-direction: column;
     gap: 20px;
+    min-width: 0;
+  }
+
+  .download-app-text,
+  .download-facts {
+    min-width: 0;
+  }
+
+  .final-cta-card {
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .download-icon {
@@ -2129,23 +2231,52 @@ strong {
     border-top: 1px solid var(--line);
   }
 
+  /* Steps stay as compact media-left rows instead of tall cropped cards */
+  .how-steps {
+    gap: 14px;
+  }
+
   .how-step {
-    flex-direction: column;
+    flex-direction: row;
+    align-items: stretch;
   }
 
   .how-step-media {
-    width: 100%;
-    height: 240px;
-    padding: 22px 30px 0;
+    width: 36%;
+    max-width: 170px;
+    height: auto;
+    padding: 14px 0 0;
+    padding-inline-start: 14px;
   }
 
   .how-step-media img {
-    border-radius: 22px 22px 0 0;
-    max-height: none;
+    border-radius: 0;
+    border-start-start-radius: 18px;
+    max-height: 190px;
   }
 
   .how-step-body {
-    border-top: 1px solid var(--line);
+    border-top: none;
+    align-self: center;
+    padding: 16px 18px;
+    padding-inline-start: 14px;
+    gap: 12px;
+  }
+
+  .how-step-body .step-number {
+    width: 30px;
+    height: 30px;
+    font-size: 14px;
+    border-radius: 9px;
+  }
+
+  .how-step-body p {
+    font-size: 15px;
+  }
+
+  .how-grid {
+    margin-top: 28px;
+    gap: 14px;
   }
 
   .section-head-row {
@@ -2158,10 +2289,124 @@ strong {
   .guide-grid-hub,
   .faq-list {
     grid-template-columns: 1fr;
+    gap: 12px;
   }
 
-  .final-cta-card {
-    grid-template-columns: 1fr;
+  /* Homepage guide cards become a swipeable strip; the hub keeps its full list */
+  .guides .guide-grid:not(.guide-grid-hub) {
+    display: flex;
+    gap: 12px;
+    margin: 0 calc(var(--gutter) * -1);
+    padding: 4px var(--gutter) 18px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-padding-inline: var(--gutter);
+    scrollbar-width: thin;
+    scrollbar-color: rgba(255, 255, 255, 0.2) transparent;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .guides .guide-grid:not(.guide-grid-hub) .guide-card {
+    flex: 0 0 min(76vw, 300px);
+    scroll-snap-align: start;
+  }
+
+  .guide-card a {
+    padding: 18px 20px;
+    gap: 6px;
+  }
+
+  .guide-card-title {
+    font-size: 17px;
+  }
+
+  .guide-card-summary {
+    font-size: 14.5px;
+  }
+
+  .guide-card-cta {
+    font-size: 14px;
+    margin-top: 2px;
+  }
+
+  /* FAQ accordion (enhanced by JS on small screens only) */
+  .faq-item.is-collapsible {
+    padding: 16px 18px;
+    gap: 8px;
+  }
+
+  .faq-item.is-collapsible .faq-q {
+    font-size: 17px;
+  }
+
+  .faq-q-btn {
+    all: unset;
+    display: flex;
+    width: 100%;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 14px;
+    box-sizing: border-box;
+    font: inherit;
+    color: inherit;
+    text-align: start;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .faq-q-btn:focus-visible {
+    outline: 2px solid var(--coral);
+    outline-offset: 4px;
+    border-radius: 6px;
+  }
+
+  .faq-q-btn::after {
+    content: "";
+    flex-shrink: 0;
+    width: 9px;
+    height: 9px;
+    margin: 6px 4px 0 0;
+    border-right: 2px solid var(--coral);
+    border-bottom: 2px solid var(--coral);
+    transform: rotate(45deg);
+    transition: transform 0.25s ease, margin-top 0.25s ease;
+  }
+
+  .faq-item.is-collapsible.is-open .faq-q-btn::after {
+    transform: rotate(-135deg);
+    margin-top: 11px;
+  }
+
+  .faq-item.is-collapsible:not(.is-open) .faq-a,
+  .faq-item.is-collapsible:not(.is-open) .faq-more {
+    display: none;
+  }
+
+  .faq-item.is-collapsible .faq-a {
+    font-size: 15px;
+  }
+
+  .guide-aside .cta-qr {
+    display: none;
+  }
+
+  /* Comfortable tap targets for inline text links (≥ 40px hit area) */
+  .footer-links a,
+  .breadcrumbs a,
+  .faq-more,
+  .text-link {
+    display: inline-block;
+    padding: 8px 0;
+    margin: -8px 0;
+  }
+
+  .footer-links {
+    gap: 6px 22px;
+  }
+
+  .faq-q-btn {
+    padding: 8px 0;
+    margin: -8px 0;
   }
 
   .final-cta-visual {
@@ -2193,6 +2438,15 @@ strong {
 }
 
 @media (max-width: 520px) {
+  :root {
+    --section-gap: 60px;
+    --radius-lg: 22px;
+  }
+
+  .section-head {
+    margin-bottom: 22px;
+  }
+
   .cta-actions {
     width: 100%;
   }
@@ -2207,10 +2461,109 @@ strong {
     display: none;
   }
 
+  /* Fewer, wider bars so the waveform stays legible in the narrow card */
+  .wave-bars {
+    grid-template-columns: repeat(12, 1fr);
+    gap: 5px;
+  }
+
+  .wave-bar:nth-child(even) {
+    display: none;
+  }
+
+  /* The ×10 badge collides with the toggle labels in the narrow card;
+     the hero kicker already carries the ×10 claim on phones. */
   .wave-multiplier {
-    top: -18px;
-    right: 8px;
-    font-size: 22px;
+    display: none;
+  }
+
+  /* Comparison table: stack each row as a card so the app column is never hidden */
+  .geo-table-wrap {
+    overflow: visible;
+    border: none;
+    border-radius: 0;
+  }
+
+  .geo-compare-table {
+    min-width: 0;
+    font-size: 14px;
+  }
+
+  .geo-compare-table thead {
+    display: none;
+  }
+
+  .geo-compare-table,
+  .geo-compare-table tbody,
+  .geo-compare-table tr,
+  .geo-compare-table th,
+  .geo-compare-table td {
+    display: block;
+  }
+
+  .geo-compare-table tr {
+    padding: 4px 0 12px;
+    margin-bottom: 12px;
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--line);
+    overflow: hidden;
+  }
+
+  .geo-compare-table tr:last-child {
+    margin-bottom: 0;
+  }
+
+  .geo-compare-table th,
+  .geo-compare-table td {
+    padding: 10px 14px 0;
+    border-bottom: none;
+  }
+
+  .geo-compare-table tbody th {
+    font-family: var(--font-display);
+    font-size: 15.5px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .geo-compare-table td {
+    display: grid;
+    grid-template-columns: 96px minmax(0, 1fr);
+    gap: 12px;
+    align-items: start;
+  }
+
+  .geo-compare-table td::before {
+    content: attr(data-label);
+    font-family: var(--font-display);
+    font-size: 11.5px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding-top: 3px;
+  }
+
+  .geo-compare-table td.col-app {
+    background: none;
+    color: var(--text);
+    font-weight: 600;
+    margin-top: 6px;
+    padding-top: 10px;
+    border-top: 1px dashed var(--line);
+  }
+
+  .geo-compare-table td.col-app::before {
+    color: var(--coral);
+  }
+
+  .geo-compare-table tbody tr:last-child th,
+  .geo-compare-table tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  .geo-compare-table tbody tr:last-child th {
+    border-bottom: 1px solid var(--line);
   }
 
   .geo-stats-list {
@@ -2219,6 +2572,15 @@ strong {
 
   .download-actions .qr-block {
     display: none;
+  }
+
+  .download-app,
+  .download-facts {
+    padding: 22px 20px;
+  }
+
+  .download-app {
+    gap: 16px;
   }
 
   .shot {
@@ -2232,12 +2594,80 @@ strong {
   }
 
   .guide-grid-hub .guide-card-media a {
-    flex-direction: column;
+    gap: 14px;
+    padding: 14px;
   }
 
   .guide-card-thumb {
-    width: 100%;
-    height: 140px;
+    width: 76px;
+    height: 124px;
+    border-radius: 12px;
+  }
+
+  .how-step-media {
+    width: 38%;
+    padding: 12px 0 0;
+    padding-inline-start: 12px;
+  }
+
+  .how-step-body {
+    padding: 14px;
+    padding-inline-start: 12px;
+    gap: 10px;
+  }
+
+  .final-cta-visual img {
+    margin-bottom: -110px;
+    width: min(100%, 200px);
+  }
+
+  .site-footer {
+    padding-top: 40px;
+  }
+}
+
+@media (max-width: 360px) {
+  .cta-primary {
+    padding: 14px 18px 14px 16px;
+    font-size: 15.5px;
+    gap: 10px;
+    white-space: normal;
+    text-align: center;
+  }
+
+  .cta-primary .cta-apple-icon {
+    flex-shrink: 0;
+  }
+
+  .hero h1 {
+    font-size: 32px;
+  }
+
+  .proof-row {
+    gap: 12px 16px;
+  }
+
+  .wave-toggle-container {
+    gap: 6px;
+  }
+
+  .wave-toggle-label {
+    font-size: 10px;
+    letter-spacing: 0.06em;
+  }
+
+  .wave-toggle {
+    width: 44px;
+    height: 26px;
+  }
+
+  .wave-toggle-handle {
+    width: 20px;
+    height: 20px;
+  }
+
+  .wave-toggle.active .wave-toggle-handle {
+    transform: translateX(18px);
   }
 }
 

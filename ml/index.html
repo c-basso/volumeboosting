@@ -159,7 +159,7 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1789035383954"
+      href="/style.css?v=1789047437263"
     />
     <script>document.documentElement.classList.add('js');</script>
 
@@ -648,30 +648,30 @@
                     
                     <tr>
                       <th scope="row">പുതിയ ഉച്ച ഫയൽ സൃഷ്ടിക്കുന്നു</th>
-                      <td>ഇല്ല — പ്ലേബാക്ക് നില മാത്രം മാറ്റുന്നു.</td>
+                      <td data-label="iOS സിസ്റ്റം വോളിയം">ഇല്ല — പ്ലേബാക്ക് നില മാത്രം മാറ്റുന്നു.</td>
                       
-                      <td class="col-app">അതെ — ബൂസ്റ്റ് പകർപ്പ് കയറ്റുമതി/സേവ് ചെയ്യുന്നു.</td>
+                      <td class="col-app" data-label="Increase Volume – ശബ്ദ ബൂസ്റ്">അതെ — ബൂസ്റ്റ് പകർപ്പ് കയറ്റുമതി/സേവ് ചെയ്യുന്നു.</td>
                     </tr>
                     
                     <tr>
                       <th scope="row">ഉപകരണത്തിൽ ഓഫ്‌ലൈൻ പ്രവർത്തനം</th>
-                      <td>ഫയൽ കയറ്റുമതിക്ക് ബാധകമല്ല.</td>
+                      <td data-label="iOS സിസ്റ്റം വോളിയം">ഫയൽ കയറ്റുമതിക്ക് ബാധകമല്ല.</td>
                       
-                      <td class="col-app">അതെ — പ്രോസസ്സിംഗ് ഉപകരണത്തിലാണെന്ന് പറയുന്നു.</td>
+                      <td class="col-app" data-label="Increase Volume – ശബ്ദ ബൂസ്റ്">അതെ — പ്രോസസ്സിംഗ് ഉപകരണത്തിലാണെന്ന് പറയുന്നു.</td>
                     </tr>
                     
                     <tr>
                       <th scope="row">ബേസും വ്യക്തതയും നേർത്ത ക്രമീകരണം</th>
-                      <td>സിസ്റ്റം EQ / പ്ലേബാക്ക് വരെ പരിധി.</td>
+                      <td data-label="iOS സിസ്റ്റം വോളിയം">സിസ്റ്റം EQ / പ്ലേബാക്ക് വരെ പരിധി.</td>
                       
-                      <td class="col-app">അതെ — ആപ്പ് UI-ൽ പ്രത്യേക സ്ലൈഡറുകൾ.</td>
+                      <td class="col-app" data-label="Increase Volume – ശബ്ദ ബൂസ്റ്">അതെ — ആപ്പ് UI-ൽ പ്രത്യേക സ്ലൈഡറുകൾ.</td>
                     </tr>
                     
                     <tr>
                       <th scope="row">സാധാരണ ഉപയോഗം</th>
-                      <td>ഇപ്പോൾ ഉച്ചത്തിൽ കേൾക്കൽ.</td>
+                      <td data-label="iOS സിസ്റ്റം വോളിയം">ഇപ്പോൾ ഉച്ചത്തിൽ കേൾക്കൽ.</td>
                       
-                      <td class="col-app">നിശബ്ദ മൂല ഫയലുകൾക്ക് സ്ഥിരമായ പരിഹാരം.</td>
+                      <td class="col-app" data-label="Increase Volume – ശബ്ദ ബൂസ്റ്">നിശബ്ദ മൂല ഫയലുകൾക്ക് സ്ഥിരമായ പരിഹാരം.</td>
                     </tr>
                     
                   </tbody>
@@ -978,6 +978,47 @@
         } else {
           document.querySelectorAll('.section, .geo-summary').forEach(function (el) { el.classList.add('is-visible'); });
         }
+      })();
+
+      // Mobile-only FAQ accordion: answers stay fully rendered in HTML (SEO),
+      // small screens collapse them behind an accessible toggle.
+      (function () {
+        if (!window.matchMedia) return;
+        var mq = window.matchMedia('(max-width: 820px)');
+        var items = document.querySelectorAll('.faq-list .faq-item');
+        if (!items.length) return;
+        var enhanced = false;
+
+        function enhance() {
+          if (enhanced) return;
+          enhanced = true;
+          Array.prototype.forEach.call(items, function (item, i) {
+            var q = item.querySelector('.faq-q');
+            var a = item.querySelector('.faq-a');
+            if (!q || !a) return;
+            if (!a.id) a.id = 'faq-answer-' + (i + 1);
+            var btn = document.createElement('button');
+            btn.type = 'button';
+            btn.className = 'faq-q-btn';
+            btn.setAttribute('aria-controls', a.id);
+            while (q.firstChild) btn.appendChild(q.firstChild);
+            q.appendChild(btn);
+            item.classList.add('is-collapsible');
+            function setOpen(open) {
+              item.classList.toggle('is-open', open);
+              btn.setAttribute('aria-expanded', String(open));
+            }
+            setOpen(i === 0 || (location.hash && a.id === location.hash.slice(1)));
+            btn.addEventListener('click', function () {
+              setOpen(!item.classList.contains('is-open'));
+            });
+          });
+        }
+
+        function apply() { if (mq.matches) enhance(); }
+        apply();
+        if (mq.addEventListener) mq.addEventListener('change', apply);
+        else if (mq.addListener) mq.addListener(apply);
       })();
     </script>
 

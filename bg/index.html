@@ -159,7 +159,7 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1789035383954"
+      href="/style.css?v=1789047437263"
     />
     <script>document.documentElement.classList.add('js');</script>
 
@@ -648,30 +648,30 @@
                     
                     <tr>
                       <th scope="row">Създава нов по-гръмък файл</th>
-                      <td>Не — променя само нивото при възпроизвеждане.</td>
+                      <td data-label="Системна сила на звука на iOS">Не — променя само нивото при възпроизвеждане.</td>
                       
-                      <td class="col-app">Да — експорт/запазване на усилена копие.</td>
+                      <td class="col-app" data-label="Increase Volume – Усилване на звука">Да — експорт/запазване на усилена копие.</td>
                     </tr>
                     
                     <tr>
                       <th scope="row">Работи офлайн на устройството</th>
-                      <td>Н/При експорт на файлове.</td>
+                      <td data-label="Системна сила на звука на iOS">Н/При експорт на файлове.</td>
                       
-                      <td class="col-app">Да — обработката е на устройството.</td>
+                      <td class="col-app" data-label="Increase Volume – Усилване на звука">Да — обработката е на устройството.</td>
                     </tr>
                     
                     <tr>
                       <th scope="row">Фина настройка на бас и яснота</th>
-                      <td>Ограничено до системен EQ / възпроизвеждане.</td>
+                      <td data-label="Системна сила на звука на iOS">Ограничено до системен EQ / възпроизвеждане.</td>
                       
-                      <td class="col-app">Да — отделни плъзгачи в интерфейса.</td>
+                      <td class="col-app" data-label="Increase Volume – Усилване на звука">Да — отделни плъзгачи в интерфейса.</td>
                     </tr>
                     
                     <tr>
                       <th scope="row">Типичен случай</th>
-                      <td>По-гръмко възпроизвеждане сега.</td>
+                      <td data-label="Системна сила на звука на iOS">По-гръмко възпроизвеждане сега.</td>
                       
-                      <td class="col-app">Трайна поправка на тих изходен файл.</td>
+                      <td class="col-app" data-label="Increase Volume – Усилване на звука">Трайна поправка на тих изходен файл.</td>
                     </tr>
                     
                   </tbody>
@@ -978,6 +978,47 @@
         } else {
           document.querySelectorAll('.section, .geo-summary').forEach(function (el) { el.classList.add('is-visible'); });
         }
+      })();
+
+      // Mobile-only FAQ accordion: answers stay fully rendered in HTML (SEO),
+      // small screens collapse them behind an accessible toggle.
+      (function () {
+        if (!window.matchMedia) return;
+        var mq = window.matchMedia('(max-width: 820px)');
+        var items = document.querySelectorAll('.faq-list .faq-item');
+        if (!items.length) return;
+        var enhanced = false;
+
+        function enhance() {
+          if (enhanced) return;
+          enhanced = true;
+          Array.prototype.forEach.call(items, function (item, i) {
+            var q = item.querySelector('.faq-q');
+            var a = item.querySelector('.faq-a');
+            if (!q || !a) return;
+            if (!a.id) a.id = 'faq-answer-' + (i + 1);
+            var btn = document.createElement('button');
+            btn.type = 'button';
+            btn.className = 'faq-q-btn';
+            btn.setAttribute('aria-controls', a.id);
+            while (q.firstChild) btn.appendChild(q.firstChild);
+            q.appendChild(btn);
+            item.classList.add('is-collapsible');
+            function setOpen(open) {
+              item.classList.toggle('is-open', open);
+              btn.setAttribute('aria-expanded', String(open));
+            }
+            setOpen(i === 0 || (location.hash && a.id === location.hash.slice(1)));
+            btn.addEventListener('click', function () {
+              setOpen(!item.classList.contains('is-open'));
+            });
+          });
+        }
+
+        function apply() { if (mq.matches) enhance(); }
+        apply();
+        if (mq.addEventListener) mq.addEventListener('change', apply);
+        else if (mq.addListener) mq.addListener(apply);
       })();
     </script>
 
