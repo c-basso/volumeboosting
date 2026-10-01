@@ -9,6 +9,7 @@
   "card_title": "Make a WhatsApp voice note louder",
   "card_summary": "Two different problems: the earpiece switch, or a genuinely quiet recording. Fix both.",
   "published": "2026-09-10",
+  "updated": "2026-09-10",
   "quick_answer": "If every WhatsApp voice message is quiet, your iPhone is probably playing through the earpiece because the proximity sensor was covered; hold the phone away from your face and press volume up while it plays. If one particular message is quiet, export it (long-press → Forward → Share → Save to Files or share to Increase Volume), boost it ×5–×10 in Increase Volume with Improve Audio Quality on, and save or forward the louder copy.",
   "intro": [
     "There are two unrelated reasons a WhatsApp voice note is hard to hear, and they need different fixes. The first is your iPhone quietly switching to the earpiece speaker. The second is that the sender recorded it far from the microphone, in a noisy place, and it really is quiet. Check the first in ten seconds, then fix the second in a minute.",

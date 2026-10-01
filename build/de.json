@@ -52,7 +52,7 @@
     "proof": [
       {
         "value": "4,5★",
-        "label": "118 Bewertungen im App Store"
+        "label": "121 Bewertungen im App Store"
       },
       {
         "value": "10×",
@@ -132,7 +132,7 @@
       },
       {
         "value": "4,5 / 5",
-        "label": "Aggregierte Bewertung in strukturierten Daten (118 Bewertungen); live im App Store prüfen."
+        "label": "Aggregierte Bewertung in strukturierten Daten (121 Bewertungen); live im App Store prüfen."
       },
       {
         "value": "Gratis",
@@ -313,10 +313,10 @@
     "subtitle": "Audio & Music Booster · Kategorie „Musik“ · iPhone",
     "price": "Gratis",
     "price_note": "Optionale In-App-Käufe (kostenlose Testphase oder einmaliger Lifetime-Kauf)",
-    "rating_line": "4,5 ★ · 118 Bewertungen im App Store",
+    "rating_line": "4,5 ★ · 121 Bewertungen im App Store",
     "qr_alt": "QR-Code zu Increase Volume – Klangboost im App Store",
     "qr_label": "Mit der iPhone-Kamera scannen",
-    "requirements": "Erfordert iOS 18.6 oder neuer · 26,8 MB · Deutsch + 30 weitere Sprachen · Alter 4+"
+    "requirements": "Erfordert iOS 18.6 oder neuer · 26,9 MB · Deutsch + 30 weitere Sprachen · Alter 4+"
   },
   "screenshots": {
     "eyebrow": "Screenshots",

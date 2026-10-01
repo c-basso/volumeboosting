@@ -52,7 +52,7 @@
     "proof": [
       {
         "value": "4,5★",
-        "label": "118 értékelés az App Store-ban"
+        "label": "121 értékelés az App Store-ban"
       },
       {
         "value": "10×",
@@ -132,7 +132,7 @@
       },
       {
         "value": "4,5 / 5",
-        "label": "Összesített értékelés a strukturált adatokban (118 értékelés); ellenőrizd az App Store listán."
+        "label": "Összesített értékelés a strukturált adatokban (121 értékelés); ellenőrizd az App Store listán."
       },
       {
         "value": "Ingyenes letöltés",
@@ -313,10 +313,10 @@
     "subtitle": "Audio & Music Booster · Zene kategória · iPhone",
     "price": "Ingyenes",
     "price_note": "Opcionális alkalmazáson belüli vásárlások (ingyenes próba vagy egyszeri, örökös csomag)",
-    "rating_line": "4,5 ★ · 118 értékelés az App Store-ban",
+    "rating_line": "4,5 ★ · 121 értékelés az App Store-ban",
     "qr_alt": "QR-kód az Increase Volume – Hang kiemelés App Store-oldalára",
     "qr_label": "Olvasd be az iPhone kamerájával",
-    "requirements": "iOS 18.6 vagy újabb szükséges · 26,8 MB · Magyar + 30 további nyelv · 4+ korhatár"
+    "requirements": "iOS 18.6 vagy újabb szükséges · 26,9 MB · Magyar + 30 további nyelv · 4+ korhatár"
   },
   "screenshots": {
     "eyebrow": "Képernyőképek",

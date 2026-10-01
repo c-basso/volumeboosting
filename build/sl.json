@@ -52,7 +52,7 @@
     "proof": [
       {
         "value": "4,5★",
-        "label": "118 ocen v App Store"
+        "label": "121 ocen v App Store"
       },
       {
         "value": "10×",
@@ -132,7 +132,7 @@
       },
       {
         "value": "4,5 / 5",
-        "label": "Povprečna ocena v strukturiranih podatkih (118 ocen); preveri trenutno na strani App Store."
+        "label": "Povprečna ocena v strukturiranih podatkih (121 ocen); preveri trenutno na strani App Store."
       },
       {
         "value": "Brezplačen prenos",
@@ -313,10 +313,10 @@
     "subtitle": "Audio & Music Booster · Kategorija Glasba · iPhone",
     "price": "Brezplačno",
     "price_note": "Izbirni nakupi v aplikaciji (brezplačni preizkus ali enkraten doživljenjski paket)",
-    "rating_line": "4,5 ★ · 118 ocen v App Store",
+    "rating_line": "4,5 ★ · 121 ocen v App Store",
     "qr_alt": "Koda QR, ki vodi do Increase Volume – Ojačitev zvoka v App Store",
     "qr_label": "Skeniraj s kamero iPhona",
-    "requirements": "Zahteva iOS 18.6 ali novejši · 26,8 MB · Slovenščina + 30 drugih jezikov · Starost 4+"
+    "requirements": "Zahteva iOS 18.6 ali novejši · 26,9 MB · Slovenščina + 30 drugih jezikov · Starost 4+"
   },
   "screenshots": {
     "eyebrow": "Posnetki zaslona",

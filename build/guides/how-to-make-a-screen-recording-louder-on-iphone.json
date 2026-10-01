@@ -9,6 +9,7 @@
   "card_title": "Make a screen recording louder",
   "card_summary": "iOS captures app audio at a low level. Fix a finished recording in one minute and record louder next time.",
   "published": "2026-09-10",
+  "updated": "2026-09-10",
   "quick_answer": "A finished iPhone screen recording cannot be made louder with system settings, but you can boost the file: open it in Increase Volume, drag the Volume multiplication slider to ×5–×10, tap Boost Volume, check the Processed version and tap Download Processed. To record louder next time, raise the in-app media volume before you start, disconnect Bluetooth headphones, and long-press the record button to enable the microphone for narration.",
   "intro": [
     "Screen recordings are the quietest videos most iPhones ever produce. iOS captures app audio at a conservative level to avoid distortion, and if your headphones were connected or the app's own volume was low, the captured track can be almost silent. Add a voice-over through the microphone and the mix gets even more uneven.",

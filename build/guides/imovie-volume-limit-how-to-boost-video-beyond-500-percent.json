@@ -9,6 +9,7 @@
   "card_title": "Louder than iMovie's 500% cap",
   "card_summary": "How to raise volume in iMovie, why the slider stops at 5×, and the one-slider route to 10×.",
   "published": "2026-09-10",
+  "updated": "2026-09-10",
   "quick_answer": "iMovie on iPhone lets you raise a clip's volume to roughly 500% (5×): tap the clip, tap the speaker icon, drag right, then export. If the video is still too quiet at maximum, open the same file in Increase Volume, which multiplies the audio up to ×10 (1000%), lets you compare Original and Processed, and saves a new copy without building a project. Increase Volume also accepts audio-only files, which iMovie cannot open.",
   "intro": [
     "iMovie is the free answer Apple gives for “how do I make my video louder”, and for a slightly soft clip it works. But the slider has a ceiling, and recordings made across a room or via screen recording frequently need more than it offers. People then export at 500%, still cannot hear the result, and go looking for “louder than iMovie”.",

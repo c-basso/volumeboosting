@@ -9,6 +9,7 @@
   "card_title": "Boost a video from the Photos share sheet",
   "card_summary": "Photos can only mute. Use Share → Increase Volume to boost a clip and save the loud copy next to the original.",
   "published": "2026-09-10",
+  "updated": "2026-09-10",
   "quick_answer": "The Photos app cannot increase a video's volume; its editor only mutes the clip (and, on iPhone 16 or later, rebalances Spatial Audio recordings with Audio Mix). To boost a video from Photos: open it, tap Share, choose Increase Volume, drag Volume multiplication up to ×10, tap Boost Volume, then Download Processed → Save Video. The louder copy appears in Photos next to the original.",
   "intro": [
     "Most people look for a volume control in the Photos editor and do not find one, because there isn't one. Photos can trim, crop, colour-correct and mute a video, but it cannot make it louder. What Photos *does* have is a share sheet, and Increase Volume plugs into it, so the boost is two taps away from any video in your library.",

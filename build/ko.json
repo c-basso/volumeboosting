@@ -52,7 +52,7 @@
     "proof": [
       {
         "value": "4.5★",
-        "label": "App Store 평가 118개"
+        "label": "App Store 평가 121개"
       },
       {
         "value": "10배",
@@ -132,7 +132,7 @@
       },
       {
         "value": "4.5 / 5",
-        "label": "구조화 데이터의 집계 평점(118개 평가). 최신 내용은 App Store 페이지에서 확인하세요."
+        "label": "구조화 데이터의 집계 평점(121개 평가). 최신 내용은 App Store 페이지에서 확인하세요."
       },
       {
         "value": "무료",
@@ -313,10 +313,10 @@
     "subtitle": "Audio & Music Booster · «음악» 카테고리 · 아이폰",
     "price": "무료",
     "price_note": "선택적 앱 내 구입 (무료 체험 또는 일회성 평생 이용권)",
-    "rating_line": "4.5 ★ · App Store 평가 118개",
+    "rating_line": "4.5 ★ · App Store 평가 121개",
     "qr_alt": "App Store의 Increase Volume – 음향 부스트로 연결되는 QR 코드",
     "qr_label": "아이폰 카메라로 스캔하세요",
-    "requirements": "iOS 18.6 이상 필요 · 26.8 MB · 한국어 외 30개 언어 · 4세 이상"
+    "requirements": "iOS 18.6 이상 필요 · 26.9 MB · 한국어 외 30개 언어 · 4세 이상"
   },
   "screenshots": {
     "eyebrow": "스크린샷",

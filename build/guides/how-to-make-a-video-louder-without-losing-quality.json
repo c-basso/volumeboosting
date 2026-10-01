@@ -9,6 +9,7 @@
   "card_title": "Boost volume without distortion",
   "card_summary": "What clipping is, how much headroom a quiet recording has, and how to check before you save.",
   "published": "2026-09-10",
+  "updated": "2026-09-10",
   "quick_answer": "Boosting volume does not touch the picture, and it does not degrade the audio as long as the loudest peaks stay below the digital ceiling. On iPhone, open the video in Increase Volume, start at ×3, tap Boost Volume, and use the Original/Processed toggle to listen to the loudest moment. Raise the multiplier until it is clearly loud but not harsh. Switch on Improve Audio Quality for speech, and save with Download Processed. Your original file is never modified.",
   "intro": [
     "“Won't it sound distorted?” is the first question people ask about a volume booster, and it is the right question. Amplifying audio is multiplication: every sample gets bigger. If the biggest ones hit the maximum value the format allows, they are chopped flat, and you hear a crackle or harshness on the loud parts. That is clipping, and it is the only real quality risk.",
@@ -74,6 +75,7 @@
       ]
     },
     {
+      "id": "privacy",
       "heading": "Privacy: everything stays on your phone",
       "paragraphs": [
         "Increase Volume processes files on the iPhone. There is no upload, no account, and the result is saved through the standard iOS share sheet to Photos, Files or any app you choose. Online boosters require sending the file to a server and usually re-encode it at lower quality; a local app avoids both."

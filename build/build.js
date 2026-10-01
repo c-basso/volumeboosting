@@ -12,6 +12,7 @@ const {
     FOOTER_PRIVACY_URL,
     FOOTER_TERMS_URL,
     SOFTWARE_APPLICATION_AGGREGATE_RATING,
+    SITE_CONTENT_UPDATED_ISO,
     GUIDES_DIR,
     GUIDES_PATH_SEGMENT,
     GUIDES_HUB_URL,
@@ -32,7 +33,38 @@ const BUILD_TIMESTAMP = Date.now();
 const BUILD_DATE_ISO = new Date(BUILD_TIMESTAMP).toISOString().slice(0, 10);
 const CURRENT_YEAR = new Date().getFullYear();
 
-const DEFAULT_SITE_NAME = 'Increase Volume – Sound Boost';
+/** Content dates (not build dates): see SITE_CONTENT_UPDATED_ISO in constants.js. */
+const HOME_UPDATED_ISO = SITE_CONTENT_UPDATED_ISO;
+
+function guideUpdatedIso(guide) {
+    return guide.updated || guide.published || HOME_UPDATED_ISO;
+}
+
+function formatIsoDate(iso, localeTag = 'en-US') {
+    try {
+        return new Date(`${iso}T00:00:00Z`).toLocaleDateString(localeTag, {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric',
+            timeZone: 'UTC'
+        });
+    } catch {
+        return iso;
+    }
+}
+
+function slugifyHeading(value) {
+    return String(stripHtml(value) || '')
+        .toLowerCase()
+        .normalize('NFKD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '')
+        .slice(0, 60)
+        .replace(/-+$/g, '');
+}
+
+const DEFAULT_SITE_NAME = 'Increase Volume Sound';
 const DEFAULT_OG_LOGO = `${SITE_URL}img/logo.webp`;
 
 const ALTERNATE_LANGUAGE_LINKS = URLS.map(({ code, hreflang, url }) => ({
@@ -186,11 +218,8 @@ function syncWebManifest() {
         return;
     }
     const manifest = JSON.parse(fs.readFileSync(WEBMANIFEST_PATH, 'utf8'));
-    const rel = Array.isArray(manifest.related_applications) ? manifest.related_applications[0] : null;
-    if (rel) {
-        rel.url = APP_STORE_URL;
-        rel.id = String(APP_ID);
-    }
+    manifest.name = DEFAULT_SITE_NAME;
+    manifest.related_applications = [{ platform: 'itunes', url: APP_STORE_URL, id: String(APP_ID) }];
     fs.writeFileSync(WEBMANIFEST_PATH, `${JSON.stringify(manifest, null, 2)}\n`, 'utf8');
     console.log(`✅ site.webmanifest -> App Store id ${APP_ID}`);
     console.log();
@@ -252,7 +281,7 @@ function writeLlmsFile(defaultLocaleData, guides = []) {
         '## By the numbers',
         '- Maximum boost: up to 10x (1000%) volume multiplication',
         `- App Store rating: ${rating.ratingValue} out of 5 from ${rating.ratingCount} ratings`,
-        '- Requires iOS 18.6 or later; iPhone only; 26.8 MB download',
+        '- Requires iOS 18.6 or later; iPhone only; 26.9 MB download',
         '- App localized in 31 languages',
         '- Price: free download with in-app purchases (subscription with free trial, or one-time lifetime plan)',
         `- Website locales: ${localesCount} language-specific pages`,
@@ -394,7 +423,7 @@ function normalizeMeta(data, lang) {
     data.meta.og_logo = data.meta.og_logo || DEFAULT_OG_LOGO;
     data.meta.og_site_name = data.meta.og_site_name || data.header?.app_name || DEFAULT_SITE_NAME;
     data.meta.og_locale = data.meta.og_locale || OG_LOCALE_BY_LANGUAGE[lang] || OG_LOCALE_BY_LANGUAGE.en;
-    data.meta.last_updated_iso = BUILD_DATE_ISO;
+    data.meta.last_updated_iso = HOME_UPDATED_ISO;
     data.meta.language_links = LANGUAGE_LINKS;
     Object.assign(data.meta, SHARED_SITE_META);
 
@@ -411,7 +440,7 @@ function normalizeFooter(data) {
     if (typeof data.footer.copyright === 'string') {
         data.footer.copyright = data.footer.copyright.replace(/\{year\}/g, String(CURRENT_YEAR));
     }
-    data.footer.last_updated_iso = BUILD_DATE_ISO;
+    data.footer.last_updated_iso = HOME_UPDATED_ISO;
 }
 
 function ensureSeoShape(data) {
@@ -452,16 +481,7 @@ function localeTagForIntl(lang) {
 }
 
 function setSeoLastUpdatedFromBuild(data, lang) {
-    const buildDate = new Date(BUILD_TIMESTAMP);
-    try {
-        data.seo.last_updated = buildDate.toLocaleDateString(localeTagForIntl(lang), {
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric'
-        });
-    } catch {
-        data.seo.last_updated = BUILD_DATE_ISO;
-    }
+    data.seo.last_updated = formatIsoDate(HOME_UPDATED_ISO, localeTagForIntl(lang));
 }
 
 function buildWebPageStructuredData(data) {
@@ -471,7 +491,7 @@ function buildWebPageStructuredData(data) {
         name: data.meta?.title,
         url: data.meta?.canonical,
         description: data.meta?.description,
-        dateModified: BUILD_DATE_ISO,
+        dateModified: HOME_UPDATED_ISO,
         inLanguage: data.meta?.lang
     };
 }
@@ -500,7 +520,7 @@ function buildSoftwareApplicationStructuredData(data) {
     if (app.offers && typeof app.offers === 'object') {
         app.offers.url = APP_STORE_URL;
     }
-    app.dateModified = BUILD_DATE_ISO;
+    app.dateModified = HOME_UPDATED_ISO;
     app.aggregateRating = { ...SOFTWARE_APPLICATION_AGGREGATE_RATING };
     app.image = data.meta?.og_logo || DEFAULT_OG_LOGO;
     const shots = Array.isArray(data.screenshots?.items) ? data.screenshots.items : [];
@@ -890,10 +910,13 @@ function attachGuideCards(data, guides, lang) {
 
     const bySlug = new Map(guides.map((guide) => [guide.slug, guide]));
     for (const faq of data.seo?.faq || []) {
-        if (faq.guide && bySlug.has(faq.guide)) {
-            faq.learn_more_url = guideUrlForSlug(faq.guide);
-            faq.learn_more_title = bySlug.get(faq.guide).h1;
+        // `guide` may carry an anchor ("slug#section-id") to deep-link the matching section.
+        const [slug, anchor] = String(faq.guide || '').split('#');
+        if (slug && bySlug.has(slug)) {
+            faq.learn_more_url = guideUrlForSlug(slug) + (anchor ? `#${anchor}` : '');
+            faq.learn_more_title = bySlug.get(slug).h1;
         }
+        // Otherwise an explicit `learn_more_url` / `learn_more_title` in the locale JSON is kept as-is.
     }
 }
 
@@ -959,8 +982,8 @@ function buildGuideStructuredData(guide, siteData) {
             image: [image],
             author: publisher,
             publisher,
-            datePublished: guide.published || BUILD_DATE_ISO,
-            dateModified: BUILD_DATE_ISO,
+            datePublished: guide.published || guideUpdatedIso(guide),
+            dateModified: guideUpdatedIso(guide),
             mainEntityOfPage: url,
             inLanguage: 'en',
             about: { '@type': 'MobileApplication', name: appName, url: SITE_URL, operatingSystem: 'iOS' }
@@ -996,7 +1019,7 @@ function buildGuideStructuredData(guide, siteData) {
             name: guide.title,
             url,
             description: stripHtml(guide.description),
-            dateModified: BUILD_DATE_ISO,
+            dateModified: guideUpdatedIso(guide),
             inLanguage: 'en',
             isPartOf: { '@type': 'WebSite', name: appName, url: SITE_URL }
         },
@@ -1028,6 +1051,7 @@ function prepareGuideData(guide, guides, siteData) {
         : null;
     const sections = (guide.sections || []).map((section) => ({
         ...section,
+        id: section.id || slugifyHeading(section.heading),
         ordered: Boolean(section.list && section.ordered),
         unordered: Boolean(section.list && !section.ordered)
     }));
@@ -1043,8 +1067,8 @@ function prepareGuideData(guide, guides, siteData) {
             sections,
             related,
             cta,
-            updated_iso: BUILD_DATE_ISO,
-            updated_label: siteData.seo?.last_updated || BUILD_DATE_ISO
+            updated_iso: guideUpdatedIso(guide),
+            updated_label: formatIsoDate(guideUpdatedIso(guide))
         },
         guides: { ...(siteData.guides || {}), hub_url: GUIDES_HUB_URL },
         meta: {
@@ -1145,7 +1169,7 @@ function buildGuidesHub(guides, siteData) {
                     name: hub.h1,
                     description: stripHtml(hub.description),
                     url: GUIDES_HUB_URL,
-                    dateModified: BUILD_DATE_ISO,
+                    dateModified: guides.map(guideUpdatedIso).sort().pop() || HOME_UPDATED_ISO,
                     inLanguage: 'en',
                     isPartOf: { '@type': 'WebSite', name: siteData.header?.app_name || DEFAULT_SITE_NAME, url: SITE_URL }
                 },

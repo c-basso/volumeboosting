@@ -52,7 +52,7 @@
     "proof": [
       {
         "value": "4.5★",
-        "label": "App Store 118 个评分"
+        "label": "App Store 121 个评分"
       },
       {
         "value": "10×",
@@ -132,7 +132,7 @@
       },
       {
         "value": "4.5 / 5",
-        "label": "结构化数据中的平均评分（118 条评价）；请以 App Store 实时页面为准。"
+        "label": "结构化数据中的平均评分（121 条评价）；请以 App Store 实时页面为准。"
       },
       {
         "value": "免费下载",
@@ -313,10 +313,10 @@
     "subtitle": "Audio & Music Booster · 「音乐」类别 · iPhone",
     "price": "免费",
     "price_note": "可选的 App 内购买（免费试用，或一次性买断的终身方案）",
-    "rating_line": "4.5 ★ · App Store 118 个评分",
+    "rating_line": "4.5 ★ · App Store 121 个评分",
     "qr_alt": "指向 App Store 中 Increase Volume – 声音增强 的二维码",
     "qr_label": "用 iPhone 相机扫码",
-    "requirements": "需要 iOS 18.6 或更高版本 · 26.8 MB · 简体中文及其他 30 种语言 · 4+"
+    "requirements": "需要 iOS 18.6 或更高版本 · 26.9 MB · 简体中文及其他 30 种语言 · 4+"
   },
   "screenshots": {
     "eyebrow": "截图",

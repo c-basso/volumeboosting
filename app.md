@@ -1,7 +1,7 @@
 # Increase Volume Sound — App Store listing snapshot
 
 Source: https://apps.apple.com/app/id6741472421 (US storefront) and the iTunes Lookup API
-(`https://itunes.apple.com/lookup?id=6741472421&country=us`). Captured 2026-09-10.
+(`https://itunes.apple.com/lookup?id=6741472421&country=us`). Captured 2026-09-10; facts re-checked 2026-10-01.
 
 This file is the single source of truth for on-site copy about the app. Keep claims on the
 website consistent with what is listed here.
@@ -24,10 +24,10 @@ website consistent with what is listed here.
 | Age rating | 4+ |
 | Devices | iPhone only ("Only for iPhone") |
 | Minimum OS | iOS 18.6 or later |
-| Size | 26.8 MB (26,797,056 bytes) |
+| Size | 26.9 MB (26,870,784 bytes) |
 | First released | 2025-02-17 |
-| Current version | 1.3.3 (released 2026-08-31) |
-| Rating | 4.5 out of 5 (4.4576 average, 118 ratings) |
+| Current version | 1.3.6 (released 2026-09-19) |
+| Rating | 4.5 out of 5 (4.45 average, 121 ratings) |
 
 Former names seen in version history: "Volume Booster – Sound Boost" (until 1.2.16, Nov 2025),
 "Increase Volume – Sound Boost" (1.2.17), now "Increase Volume Sound".
@@ -130,6 +130,7 @@ movies, screen recordings, social clips, playlists, social posts, reactions, tut
 
 | Version | Date | Notes |
 |---|---|---|
+| 1.3.6 | 2026-09-19 | Bug fixes |
 | 1.3.3 | 2026-08-31 | Spanish and Portuguese locale improvements |
 | 1.3.0 | 2026-08-19 | Deep refactoring and improvements |
 | 1.2.26 | 2026-05-11 | New locales and UI improvements |
@@ -170,7 +171,11 @@ Original screenshot URLs (replace the trailing size segment, e.g. `1290x2796bb.p
 
 App icon (1024×1024 source):
 https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/63/0f/ca630fe3-48b4-1b55-2608-c4ab7d4dee74/AppIcon2-0-0-1x_U007ephone-0-1-85-220.png/1024x1024bb.png
-Web copies: `img/logo.webp` (460×460) and `img/app-icon.webp` (512×512). The icon is a white
+Web copies: `img/logo.webp` (460×460) and `img/app-icon.webp` (512×512).
+Note (2026-10-01): the listing now serves the icon from a new URL
+(`…/Purple211/v4/c2/14/38/c2143801-f687-c459-0fc1-368863c07d45/AppIcon2-0-0-1x_U007ephone-0-1-85-220.png/1024x1024bb.png`).
+If the icon artwork changed in 1.3.6, re-export `img/logo.webp`, `img/app-icon.webp`, favicons and
+`img/web-app-manifest-*.png` from it. The icon is a white
 speaker with sound waves and an upward arrow on a coral-to-pink gradient (#f0506e → #e8457a).
 
 ## Positioning notes for the website

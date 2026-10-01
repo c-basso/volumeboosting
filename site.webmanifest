@@ -1,5 +1,5 @@
 {
-  "name": "Increase Volume – Sound Boost",
+  "name": "Increase Volume Sound",
   "short_name": "Increase Volume",
   "icons": [
     {
@@ -15,5 +15,12 @@
   ],
   "theme_color": "#050810",
   "background_color": "#050810",
-  "display": "standalone"
+  "display": "standalone",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "url": "https://apps.apple.com/app/id6741472421",
+      "id": "6741472421"
+    }
+  ]
 }

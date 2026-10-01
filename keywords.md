@@ -92,7 +92,7 @@ JSON-LD and links back to the App Store and to 3 related guides.
   bad reviews).
 - `dateModified` in JSON-LD and a visible "Updated" date on every page (GEO freshness).
 - Facts that are quotable by AI engines: "up to 10× (1000%)", "iMovie caps at about 500%",
-  "4.5★ from 118 ratings", "iOS 18.6+", "26.8 MB", "31 languages".
+  "4.5★ from 121 ratings", "iOS 18.6+", "26.9 MB", "31 languages".
 
 ## 5. Measurement
 

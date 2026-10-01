@@ -9,6 +9,7 @@
   "card_title": "Why is my iPhone video so quiet?",
   "card_summary": "Seven causes, from a covered mic to the headphone safety limit, and how to rescue the video you already shot.",
   "published": "2026-09-10",
+  "updated": "2026-09-10",
   "quick_answer": "An iPhone video is quiet either because it was *recorded* quietly (subject too far from the microphone, mic covered by a case or finger, wind, low in-app volume during a screen recording) or because it is *playing back* quietly (Bluetooth device connected, Reduce Loud Audio limit, Attention Aware volume, dirty speaker). Check playback causes first with another video. If the recording itself is quiet, no setting will fix it; boost the file up to 10× with Increase Volume and save a louder copy.",
   "intro": [
     "First decide which kind of quiet you have. Play a different, known-good video. If that one is loud, your phone is fine and the problem is inside the recording. If everything is quiet, it is a playback issue with the phone. The causes and fixes are completely different, so this thirty-second test saves a lot of time.",
@@ -34,6 +35,7 @@
       ]
     },
     {
+      "id": "playback-causes",
       "heading": "Playback causes (every video is quiet on this phone)",
       "paragraphs": [
         "These make your phone play quietly; the file is fine and will sound normal elsewhere."

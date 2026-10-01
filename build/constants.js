@@ -124,8 +124,15 @@ const FOOTER_TERMS_URL = '/terms.html';
 const SOFTWARE_APPLICATION_AGGREGATE_RATING = {
     '@type': 'AggregateRating',
     ratingValue: '4.5',
-    ratingCount: '118'
+    ratingCount: '121'
 };
+
+/**
+ * Date the homepage content last changed (ISO). Bump ONLY when visible copy or facts change,
+ * not on every build: it feeds the visible "Updated" label, JSON-LD dateModified and sitemap lastmod.
+ * Guides carry their own `updated` field in build/guides/<slug>.json.
+ */
+const SITE_CONTENT_UPDATED_ISO = '2026-10-01';
 
 /** Site-wide meta duplicated across locales; merged at build time in `normalizeMeta`. */
 const SHARED_SITE_META = {
@@ -174,5 +181,6 @@ module.exports = {
     SHARED_SITE_META,
     FOOTER_PRIVACY_URL,
     FOOTER_TERMS_URL,
-    SOFTWARE_APPLICATION_AGGREGATE_RATING
+    SOFTWARE_APPLICATION_AGGREGATE_RATING,
+    SITE_CONTENT_UPDATED_ISO
 };

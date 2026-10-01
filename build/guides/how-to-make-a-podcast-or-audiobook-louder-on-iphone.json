@@ -9,6 +9,7 @@
   "card_title": "Make a podcast or audiobook louder",
   "card_summary": "Player settings for streams; a real file boost for episodes and chapters you have downloaded as MP3 or M4A.",
   "published": "2026-09-10",
+  "updated": "2026-09-10",
   "quick_answer": "For episodes you stream in a podcast app, use the app's own loudness feature (Overcast Voice Boost, Pocket Casts Volume Boost, Apple Podcasts has none). For episodes, audiobook chapters or lectures you have as files (MP3, M4A, MP4 in Files or iCloud Drive), open them in Increase Volume, turn on Improve Audio Quality, boost ×3–×10, compare Original and Processed, and tap Download Processed to save a louder copy you can play in any app.",
   "intro": [
     "Spoken-word audio has a loudness problem: podcasts are supposed to be mastered around −16 LUFS, but independent shows, university lecture recordings and older audiobooks are often far quieter, and one quiet guest can be buried under a loud host. On a commute or in a car, that means constantly reaching for the volume.",

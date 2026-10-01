@@ -52,7 +52,7 @@
     "proof": [
       {
         "value": "4.5★",
-        "label": "118 App Store ratings"
+        "label": "121 App Store ratings"
       },
       {
         "value": "×10",
@@ -89,10 +89,10 @@
     "subtitle": "Audio & Music Booster · Music category · iPhone",
     "price": "Free",
     "price_note": "Optional in-app purchases (free trial, or a one-time lifetime plan)",
-    "rating_line": "4.5 ★ · 118 ratings on the App Store",
+    "rating_line": "4.5 ★ · 121 ratings on the App Store",
     "qr_alt": "QR code linking to Increase Volume on the App Store",
     "qr_label": "Scan with your iPhone camera",
-    "requirements": "Requires iOS 18.6 or later · 26.8 MB · English + 30 more languages · Age 4+"
+    "requirements": "Requires iOS 18.6 or later · 26.9 MB · English + 30 more languages · Age 4+"
   },
   "screenshots": {
     "eyebrow": "Screenshots",
@@ -154,7 +154,7 @@
       "pill_2": "MP3s, podcasts, voice memos",
       "pill_3": "Optional audio-quality enhancement",
       "rating_1_strong": "4.5 ★",
-      "rating_1_text": "from 118 App Store ratings",
+      "rating_1_text": "from 121 App Store ratings",
       "rating_2_strong": "Music",
       "rating_2_text": "category on the App Store"
     },
@@ -195,7 +195,7 @@
       },
       {
         "value": "4.5 / 5",
-        "label": "App Store rating from 118 ratings (US storefront)."
+        "label": "App Store rating from 121 ratings (US storefront)."
       },
       {
         "value": "Audio + video",
@@ -207,7 +207,7 @@
       },
       {
         "value": "iOS 18.6+",
-        "label": "iPhone only. 26.8 MB download. Localized in 31 languages."
+        "label": "iPhone only. 26.9 MB download. Localized in 31 languages."
       },
       {
         "value": "Free",
@@ -347,17 +347,19 @@
       {
         "question": "Does Increase Volume make my iPhone speaker louder?",
         "answer": "No. It makes the audio inside a file louder and saves a new copy. If a recording is too quiet even at maximum system volume, boosting the file is the fix; the app cannot change the speaker's hardware limit or system-wide volume.",
-        "guide": "why-is-my-iphone-video-so-quiet"
+        "guide": "why-is-my-iphone-video-so-quiet#playback-causes"
       },
       {
         "question": "Is Increase Volume free? What does the subscription unlock?",
         "answer": "The download is free and includes a free trial. Continued unlimited boosting is unlocked with a subscription or a one-time lifetime plan; current prices are shown on the App Store listing. Processing always happens on your iPhone.",
-        "guide": ""
+        "guide": "",
+        "learn_more_url": "__APP_STORE_URL__",
+        "learn_more_title": "Increase Volume Sound: free download and current prices on the App Store"
       },
       {
         "question": "Is my audio uploaded anywhere?",
         "answer": "No. The boost is computed on your iPhone and the result is saved locally through the standard iOS share sheet. There is no account and no server-side processing step.",
-        "guide": "how-to-make-a-video-louder-without-losing-quality"
+        "guide": "how-to-make-a-video-louder-without-losing-quality#privacy"
       }
     ],
     "structured_data": {
@@ -401,7 +403,9 @@
           "pt",
           "ro",
           "ru",
-          "zh",
+          "zh-Hans",
+          "zh-Hant",
+          "fil",
           "sk",
           "es",
           "sv",

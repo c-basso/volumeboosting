@@ -52,7 +52,7 @@
     "proof": [
       {
         "value": "4,5★",
-        "label": "118 vurderinger i App Store"
+        "label": "121 vurderinger i App Store"
       },
       {
         "value": "10×",
@@ -132,7 +132,7 @@
       },
       {
         "value": "4,5 / 5",
-        "label": "Samlet vurdering i strukturerte data (118 anmeldelser); bekreft på App Store-siden."
+        "label": "Samlet vurdering i strukturerte data (121 anmeldelser); bekreft på App Store-siden."
       },
       {
         "value": "Gratis nedlasting",
@@ -313,10 +313,10 @@
     "subtitle": "Audio & Music Booster · Kategorien Musikk · iPhone",
     "price": "Gratis",
     "price_note": "Valgfrie kjøp i appen (gratis prøveperiode eller et engangskjøp for alltid)",
-    "rating_line": "4,5 ★ · 118 vurderinger i App Store",
+    "rating_line": "4,5 ★ · 121 vurderinger i App Store",
     "qr_alt": "QR-kode som leder til Increase Volume – Lydboost i App Store",
     "qr_label": "Skann med kameraet på iPhonen din",
-    "requirements": "Krever iOS 18.6 eller nyere · 26,8 MB · Norsk + 30 andre språk · Alder 4+"
+    "requirements": "Krever iOS 18.6 eller nyere · 26,9 MB · Norsk + 30 andre språk · Alder 4+"
   },
   "screenshots": {
     "eyebrow": "Skjermbilder",

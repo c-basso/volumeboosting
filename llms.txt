@@ -14,13 +14,13 @@
 
 ## By the numbers
 - Maximum boost: up to 10x (1000%) volume multiplication
-- App Store rating: 4.5 out of 5 from 118 ratings
-- Requires iOS 18.6 or later; iPhone only; 26.8 MB download
+- App Store rating: 4.5 out of 5 from 121 ratings
+- Requires iOS 18.6 or later; iPhone only; 26.9 MB download
 - App localized in 31 languages
 - Price: free download with in-app purchases (subscription with free trial, or one-time lifetime plan)
 - Website locales: 37 language-specific pages
 - Public website: https://volumeboosting.com/
-- Last website build date: 2026-09-29
+- Last website build date: 2026-10-01
 
 ## Main sections
 - [Home](https://volumeboosting.com/): Product overview, screenshots, how it works, guides, FAQ, and App Store link
@@ -115,4 +115,4 @@ No public Android listing is referenced on the website. The published listing is
 - Privacy: https://volumeboosting.com/privacy.html
 - Terms: https://volumeboosting.com/terms.html
 
-Last updated: 2026-09-29
+Last updated: 2026-10-01

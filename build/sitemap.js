@@ -14,8 +14,13 @@ function resolvePagePathByUrl(loc) {
 
 function getLastmodForUrl(loc) {
   const pagePath = resolvePagePathByUrl(loc);
-  const stats = fs.statSync(pagePath);
-  return stats.mtime.toISOString().slice(0, 10);
+  // Prefer the content date the build wrote into JSON-LD; file mtime changes on every build.
+  const html = fs.readFileSync(pagePath, 'utf8');
+  const match = html.match(/"dateModified":"(\d{4}-\d{2}-\d{2})"/);
+  if (match) {
+    return match[1];
+  }
+  return fs.statSync(pagePath).mtime.toISOString().slice(0, 10);
 }
 
 /** English-only pages: hub + guides. No hreflang cluster (single language), self x-default. */
