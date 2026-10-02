@@ -1,0 +1,101 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "Video in Fotos lauter machen",
+  "priority": 9,
+  "keywords": "Video in Fotos lauter machen, Fotos App Lautstärke Video, Video Fotos zu leise, Lautstärke Video iPhone Fotos, Teilen Increase Volume",
+  "title": "Video direkt aus der Fotos-App lauter machen (iPhone)",
+  "description": "Fotos hat keinen Lautstärkeregler. Trotzdem geht’s: Teilen tippen, Increase Volume wählen, auf 10× ziehen und die lautere Kopie zurück in Fotos sichern.",
+  "h1": "Video direkt aus der Fotos-App lauter machen",
+  "eyebrow": "Ablauf in Fotos",
+  "card_title": "Video über Teilen in Fotos verstärken",
+  "card_summary": "Fotos kann den Ton nur stummschalten. Mit Teilen → Increase Volume verstärkst du den Clip und sicherst die laute Kopie neben dem Original.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Die Fotos-App kann die Lautstärke eines Videos nicht erhöhen; ihr Editor schaltet den Ton nur stumm (und gleicht auf dem iPhone 16 und neuer räumliches Audio mit Audio-Mix neu ab). So verstärkst du ein Video aus Fotos: öffnen, auf Teilen tippen, Increase Volume wählen, „Lautstärke-Multiplikation“ bis ×10 ziehen, „Lautstärke verstärken“ tippen und dann „Verarbeitete Datei laden“ → Video sichern. Die lautere Kopie erscheint in Fotos neben dem Original.",
+  "intro": [
+    "Die meisten suchen im Fotos-Editor nach einem Lautstärkeregler und finden keinen, weil es keinen gibt. Fotos kann ein Video kürzen, zuschneiden, farblich korrigieren und stummschalten, aber nicht lauter machen. Was Fotos *hat*, ist ein Teilen-Menü – und dort klinkt sich Increase Volume ein, sodass die Verstärkung zwei Fingertipps von jedem Video in deiner Mediathek entfernt ist.",
+    "Diese Anleitung zeigt den Ablauf und was der Fotos-Editor beim Ton realistisch kann."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/de/6.webp",
+    "alt": "iOS-Teilen-Menü aus Increase Volume mit Optionen, das verstärkte Video zurück in Fotos oder in Dateien zu sichern",
+    "caption": "Die verstärkte Kopie geht über das Teilen-Menü zurück nach Fotos; dein Original bleibt, wie es war."
+  },
+  "sections": [
+    {
+      "heading": "Was der Fotos-Editor mit Ton kann und was nicht",
+      "list": [
+        "Stummschalten: Auf Bearbeiten und dann oben auf das Lautsprechersymbol tippen, um die Tonspur ganz zu entfernen.",
+        "Audio-Mix (iPhone 16 und neuer, Videos mit räumlichem Audio): verschiedene Mischungen heben Stimmen hervor und dämpfen Hintergrundgeräusche. Das ändert die *Balance*, nicht die Gesamtlautstärke.",
+        "Lautstärke verstärken: gibt es in keiner Version der Fotos-App."
+      ]
+    },
+    {
+      "heading": "Das Teilen-Menü mit Increase Volume nutzen",
+      "paragraphs": [
+        "Seit Version 1.2.7 erscheint Increase Volume im Teilen-Menü von iOS. Teilst du ein Video an die App, wird sofort ein Projekt mit Dateiname, Größe und Dauer angelegt, damit du weißt, dass es der richtige Clip ist. Nach dem Verstärken öffnet „Verarbeitete Datei laden“ wieder das Teilen-Menü, wo Video sichern die lautere Kopie zurück in Fotos legt. Weil es eine neue Datei ist, wird das Original nie überschrieben.",
+        "Taucht Increase Volume beim ersten Mal nicht im Teilen-Menü auf, scroll die App-Reihe bis zum Ende, tippe auf Mehr und aktiviere die App (du kannst sie auch nach vorne ziehen)."
+      ]
+    },
+    {
+      "heading": "Mehrere Videos verstärken",
+      "paragraphs": [
+        "Increase Volume führt eine Projektliste, du kannst also mehrere Clips aus Fotos schicken und nacheinander bearbeiten. Jedes Projekt behält seine Datei, bis du es löschst, so kommst du später leicht zurück und probierst einen anderen Faktor."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Schritt für Schritt: von Fotos zum lauteren Video",
+    "intro": "Du musst Increase Volume nicht zuerst öffnen; starte in Fotos.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Video in Fotos öffnen",
+        "text": "Das leise Video suchen und im Vollbild öffnen."
+      },
+      {
+        "name": "Teilen → Increase Volume",
+        "text": "Auf Teilen tippen, durch die Reihe der App-Symbole scrollen und Increase Volume antippen. Ein neues Projekt öffnet sich."
+      },
+      {
+        "name": "Verstärken",
+        "text": "„Lautstärke-Multiplikation“ auf den nötigen Wert (×3–×10) ziehen, bei Sprache „Audioqualität verbessern“ einschalten und „Lautstärke verstärken“ tippen."
+      },
+      {
+        "name": "Vergleichen",
+        "text": "Mit dem Umschalter Original/Verarbeitet den Unterschied anhören."
+      },
+      {
+        "name": "Video sichern",
+        "text": "Auf „Verarbeitete Datei laden“ und dann Video sichern tippen. Zurück in Fotos liegt die lautere Kopie direkt hinter dem Original."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipps",
+    "items": [
+      "Leg Increase Volume im Teilen-Menü zu den Favoriten (Mehr → Bearbeiten), damit es immer vorne steht.",
+      "Du kannst Videos auch aus Dateien, Nachrichten oder Mail direkt an die App teilen; der Ablauf ist gleich.",
+      "Um Platz zu sparen, lösch das leise Original, sobald die verstärkte Kopie gut klingt."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Ersetzt das Verstärken aus Fotos mein Originalvideo?",
+      "answer": "Nein. Increase Volume schreibt immer eine neue Datei. Mit Video sichern kommt eine zweite Kopie in Fotos dazu; das Original bleibt unverändert."
+    },
+    {
+      "question": "Kann ich Live Photos oder Zeitlupenvideos verstärken?",
+      "answer": "Zeitlupe und Zeitraffer werden als normale Videodateien exportiert und lassen sich verstärken. Live Photos sind Fotos mit kurzem Clip und werden nicht als Video unterstützt."
+    },
+    {
+      "question": "Warum hat die Fotos-App keinen Lautstärkeregler?",
+      "answer": "Apple sieht Fotos als Editor für schnelle Korrekturen und überlässt Pegeländerungen iMovie. iMovie erhöht die Lautstärke auf etwa 500 %; Increase Volume geht bis ×10 und funktioniert direkt aus dem Teilen-Menü."
+    }
+  ],
+  "related": [
+    "video-lauter-machen-iphone",
+    "imovie-lautstaerke-ueber-500-prozent",
+    "tiktok-video-lauter-machen"
+  ]
+}

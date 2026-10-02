@@ -1,0 +1,130 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "cara mengeraskan MP3",
+  "priority": 6,
+  "keywords": "cara mengeraskan MP3, mengeraskan MP3 di iPhone, MP3 suaranya kecil, mengeraskan file audio, menaikkan volume file audio",
+  "title": "Cara Mengeraskan File MP3 di iPhone (Tanpa Komputer)",
+  "description": "MP3, M4A, atau WAV pelan di iPhone? Keraskan hingga 10× dan simpan salinan yang lebih keras dengan Penguat Volume, semuanya di ponsel. Langkah, level aman, FAQ.",
+  "h1": "Cara mengeraskan file MP3 di iPhone",
+  "eyebrow": "MP3 dan audio",
+  "card_title": "Mengeraskan MP3",
+  "card_summary": "Kebanyakan penguat hanya untuk video. Yang ini mengeraskan MP3, M4A, dan WAV langsung dari File.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Untuk mengeraskan MP3 di iPhone, buka Penguat Volume, tambahkan file dari File (atau bagikan ke aplikasi), geser «Pengali volume» hingga ×10, ketuk «Boost volume», bandingkan Asli dan Diproses, lalu ketuk «Unduh yang diproses» untuk menyimpan MP3 yang lebih keras ke File atau membagikannya. Semuanya terjadi di ponsel: tanpa komputer, tanpa unggah, tanpa akun. Lagu dari Apple Music atau Spotify tidak bisa diimpor karena dilindungi dari penyalinan.",
+  "intro": [
+    "Anda mengunduh kuliah, demo lama, episode podcast, atau calon nada dering, dan suaranya jauh lebih pelan dari yang lain. Di komputer Anda akan membuka Audacity atau alat normalisasi; di iPhone saran yang biasa adalah „pakai penguat online”, artinya mengunggah file dan menerima versi yang di-encode ulang.",
+    "Penguat Volume melakukan hal yang sama secara lokal. Di App Store aplikasi ini tampil untuk musik dan video karena, berbeda dari kebanyakan penguat video, aplikasi ini membuka file audio biasa."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Tangkapan layar „Make music louder”: file MP3 sedang diproses di Penguat Volume dengan nama, ukuran, dan durasi",
+    "caption": "Aplikasi menampilkan nama, ukuran, dan durasi sebelum memperkuat."
+  },
+  "sections": [
+    {
+      "heading": "File audio apa yang bisa dikeraskan",
+      "paragraphs": [
+        "Apa saja yang berupa file nyata di iPhone Anda: MP3, M4A/AAC (termasuk ekspor Memo Suara dan voice note WhatsApp), WAV, dan format umum lain yang tersimpan di File, iCloud Drive, atau Dropbox, atau yang diterima lewat Pesan dan Mail. Aplikasi membaca metadata dan menampilkan artis dan judul jika ada."
+      ],
+      "note": "Tidak bisa: lagu streaming atau yang diunduh di dalam Apple Music, Spotify, atau YouTube Music. Semuanya dienkripsi dan tidak bisa dibuka aplikasi lain. Untuk streaming, gunakan EQ atau normalisasi dari layanannya sendiri."
+    },
+    {
+      "heading": "Seberapa besar penguatan yang tahan untuk MP3",
+      "paragraphs": [
+        "MP3 hasil rip CD atau yang dibeli biasanya sudah dekat level maksimal dan akan terpotong jika dipaksa; ×1,5–×2 sudah cukup. Podcast, kuliah, rekaman suara, dan demo lama sering 10–20 dB lebih rendah dan tahan ×4–×10 tanpa masalah. Dengan Asli/Diproses Anda bisa mengecek bagian paling keras sebelum menyimpan."
+      ]
+    },
+    {
+      "heading": "Penguat Volume vs penguat MP3 online",
+      "table": {
+        "head": [
+          "",
+          "Penguat online",
+          "Penguat Volume"
+        ],
+        "rows": [
+          [
+            "Ke mana file pergi",
+            "Diunggah ke server",
+            "Tetap di iPhone"
+          ],
+          [
+            "Encode ulang",
+            "Biasanya ke bitrate tetap yang lebih rendah",
+            "Diproses lokal"
+          ],
+          [
+            "Batas ukuran",
+            "Umum (mis. 50–500 MB)",
+            "Hanya ruang penyimpanan ponsel"
+          ],
+          [
+            "Dengar sebelum simpan",
+            "Jarang",
+            "Pengalih Asli / Diproses"
+          ],
+          [
+            "Peningkatan suara bicara",
+            "Kadang-kadang",
+            "Opsi Tingkatkan Kualitas Audio"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: mengeraskan MP3",
+    "intro": "Anda perlu MP3 di File (atau di aplikasi yang bisa membagikannya) dan aplikasi gratis Penguat Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Tambahkan MP3",
+        "text": "Buka aplikasi dan tambahkan file dari File. Atau di File tekan lama MP3, ketuk Bagikan, dan pilih Increase Volume."
+      },
+      {
+        "name": "Periksa detailnya",
+        "text": "Pastikan artis, judul, ukuran, dan durasi. Jika isinya suara bicara, aktifkan «Tingkatkan Kualitas Audio»."
+      },
+      {
+        "name": "Pilih pengali",
+        "text": "Atur «Pengali volume» ke ×2 untuk musik dan ×4–×10 untuk rekaman suara yang pelan. Ketuk «Boost volume»."
+      },
+      {
+        "name": "Bandingkan",
+        "text": "Beralih antara Asli/Diproses di bagian paling keras. Sesuaikan jika versi yang diperkuat terdengar kasar."
+      },
+      {
+        "name": "Unduh yang diproses",
+        "text": "Ketuk «Unduh yang diproses» lalu Simpan ke File, atau bagikan lewat Mail, Pesan, atau cloud."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Keraskan satu rangkaian file (bab audiobook, seri kuliah) dengan pengali yang sama agar terdengar seragam.",
+      "Simpan salinan yang diperkuat di folder tersendiri di File; aplikasi juga menyimpan setiap proyek di daftarnya.",
+      "Untuk nada dering: keraskan dulu, lalu potong menjadi 30 detik; sumber yang lebih keras menghasilkan nada dering yang lebih keras."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bisakah mengeraskan lagu dari Apple Music atau Spotify?",
+      "answer": "Tidak ada aplikasi lain yang bisa membuka unduhan streaming; semuanya dienkripsi. Penguat Volume bekerja dengan file milik Anda di File, iCloud Drive, atau penyimpanan lain."
+    },
+    {
+      "question": "Apakah kualitas MP3 turun saat dikeraskan?",
+      "answer": "Audio diproses sekali dan disimpan sebagai file baru. Kualitas hanya turun jika dikeraskan sampai puncaknya terpotong; dengan Asli/Diproses Anda bisa mendengarnya sebelum menyimpan."
+    },
+    {
+      "question": "Apakah bisa untuk WAV dan M4A?",
+      "answer": "Bisa. Format audio umum didukung, selain video MP4 dan MOV."
+    }
+  ],
+  "related": [
+    "musik-pelan-di-iphone",
+    "mengeraskan-podcast-audiobook-iphone",
+    "mengeraskan-memo-suara-iphone"
+  ]
+}

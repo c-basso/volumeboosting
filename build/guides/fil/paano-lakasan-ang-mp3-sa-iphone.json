@@ -1,0 +1,130 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "paano lakasan ang MP3",
+  "priority": 6,
+  "keywords": "paano lakasan ang MP3, MP3 volume booster iPhone, mahina ang MP3, palakasin ang audio file, lakasan ang audio iPhone",
+  "title": "Paano lakasan ang MP3 sa iPhone nang walang computer",
+  "description": "May mahinang MP3, M4A o WAV sa iPhone mo? I-boost hanggang 10× at mag-save ng mas malakas na kopya gamit ang Increase Volume, sa phone lang. Steps at FAQ.",
+  "h1": "Paano lakasan ang MP3 sa iPhone",
+  "eyebrow": "MP3 at audio files",
+  "card_title": "Lakasan ang MP3 sa iPhone",
+  "card_summary": "Video lang ang kaya ng karamihan ng booster. Ito, kayang i-boost ang MP3, M4A at WAV diretso mula sa Files.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Para lakasan ang MP3 sa iPhone, buksan ang Increase Volume, idagdag ang file mula sa Files (o i-share sa app), i-drag ang «Volume multiplication» hanggang ×10, i-tap ang «Boost Volume», ikumpara ang Orihinal at Na-process, at i-tap ang «Download Processed» para i-save ang mas malakas na MP3 sa Files o i-share. Sa phone lang lahat — walang computer, upload o account. Hindi ma-import ang mga kanta mula sa Apple Music o Spotify dahil copy-protected ang mga ito.",
+  "intro": [
+    "Nag-download ka ng lecture, lumang demo, podcast episode o gagawing ringtone, at mas mahina ito kaysa sa lahat. Sa computer, bubuksan mo ang Audacity o normalizer; sa iPhone, ang karaniwang payo ay «gumamit ng online booster» — ibig sabihin, i-upload ang file at makakuha ng re-encoded na version.",
+    "Ganoon din ang ginagawa ng Increase Volume pero sa phone mismo. Nakalista ito sa App Store bilang Audio & Music Booster dahil, hindi tulad ng karamihan ng video booster, binubuksan nito ang mga simpleng audio file."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Increase Volume na nagpo-process ng MP3 file sa iPhone na may file name, size at haba",
+    "caption": "Ipinapakita ng app ang pangalan, size at haba ng track bago mag-boost."
+  },
+  "sections": [
+    {
+      "heading": "Anong audio files ang puwedeng i-boost",
+      "paragraphs": [
+        "Kahit anong totoong file sa iPhone mo: MP3, M4A/AAC (kasama ang export ng Voice Memos at WhatsApp voice notes), WAV at iba pang karaniwang format sa Files, iCloud Drive, Dropbox o natanggap sa Messages at Mail. Binabasa ng app ang metadata at ipinapakita ang artist at title kung meron."
+      ],
+      "note": "Hindi puwede: mga kantang naka-stream o na-download sa loob ng Apple Music, Spotify o YouTube Music. Encrypted ang mga iyon at walang ibang app na makakabukas. Para sa streaming, gamitin ang EQ o normalization ng service."
+    },
+    {
+      "heading": "Gaano kalakas na boost ang kaya ng MP3",
+      "paragraphs": [
+        "Ang MP3 mula sa CD o binili ay kadalasang malapit na sa full level at magki-clip kapag pinilit; sapat na ang ×1.5–×2. Ang podcasts, lectures, voice recordings at lumang demos ay madalas 10–20 dB pa sa ilalim ng max at kaya ang ×4–×10. Gamit ang Orihinal/Na-process, ma-te-test mo ang pinakamalakas na parte bago mag-save."
+      ]
+    },
+    {
+      "heading": "Increase Volume vs. online MP3 booster",
+      "table": {
+        "head": [
+          "",
+          "Online booster",
+          "Increase Volume"
+        ],
+        "rows": [
+          [
+            "Saan napupunta ang file",
+            "Ina-upload sa server",
+            "Nananatili sa iPhone mo"
+          ],
+          [
+            "Re-encoding",
+            "Kadalasang fixed at mas mababang bitrate",
+            "Pinoproseso sa phone"
+          ],
+          [
+            "File size limit",
+            "Karaniwan (hal. 50–500 MB)",
+            "Storage lang ng phone"
+          ],
+          [
+            "Pakinggan bago mag-save",
+            "Bihira",
+            "Orihinal / Na-process toggle"
+          ],
+          [
+            "Speech enhancement",
+            "Minsan",
+            "Improve Audio Quality toggle"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: i-boost ang MP3",
+    "intro": "Kailangan mo ang MP3 sa Files (o sa app na puwedeng mag-share nito) at ang libreng Increase Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Idagdag ang MP3",
+        "text": "Buksan ang app at idagdag ang file mula sa Files. O sa Files, i-long press ang MP3, i-tap ang Share at piliin ang Increase Volume."
+      },
+      {
+        "name": "I-check ang details",
+        "text": "Kumpirmahin ang artist, track, size at haba. Kung salita, i-on ang «Improve Audio Quality»."
+      },
+      {
+        "name": "I-set ang multiplier",
+        "text": "I-drag ang «Volume multiplication» sa ×2 para sa music, ×4–×10 para sa mahinang voice recording. I-tap ang «Boost Volume»."
+      },
+      {
+        "name": "Ikumpara",
+        "text": "Magpalit sa Orihinal at Na-process sa pinakamalakas na parte. Ayusin kung magaspang ang boosted version."
+      },
+      {
+        "name": "Download Processed",
+        "text": "I-tap ang «Download Processed», tapos Save to Files, o i-share sa Mail, Messages o cloud drive."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "I-boost ang buong serye ng files (mga chapter ng audiobook, serye ng lecture) sa parehong multiplier para pare-pareho ang lakas.",
+      "Ilagay ang boosted na kopya sa sariling folder sa Files; naka-save din ang bawat project sa listahan ng app.",
+      "Para sa ringtone: i-boost muna, tapos i-trim sa 30 segundo; mas malakas na source, mas malakas na ringtone."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Puwede bang lakasan ang kanta mula sa Apple Music o Spotify?",
+      "answer": "Walang ibang app na makakabukas ng streaming downloads; encrypted ang mga iyon. Gumagana ang Increase Volume sa mga file na sa iyo sa Files, iCloud Drive o ibang storage."
+    },
+    {
+      "question": "Bababa ba ang quality ng MP3 pag bino-boost?",
+      "answer": "Isang beses pinoproseso ang audio at sine-save bilang bagong file. Bababa lang ang quality kung sobra ang boost hanggang mag-clip ang malalakas na peak; maririnig mo iyon sa Orihinal/Na-process bago mag-save."
+    },
+    {
+      "question": "Gumagana rin ba sa WAV at M4A?",
+      "answer": "Oo. Suportado ang karaniwang audio formats bukod pa sa MP4 at MOV na video."
+    }
+  ],
+  "related": [
+    "paano-lakasan-ang-music-sa-iphone",
+    "paano-lakasan-ang-podcast-o-audiobook",
+    "paano-lakasan-ang-voice-memo-sa-iphone"
+  ]
+}

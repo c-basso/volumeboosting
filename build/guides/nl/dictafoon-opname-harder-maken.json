@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "Dictafoon opname harder maken",
+  "priority": 4,
+  "keywords": "Dictafoon opname harder maken, spraakmemo harder maken iPhone, opname te zacht, verbeter opname Dictafoon, spraakopname versterken",
+  "title": "Een Dictafoon-opname harder maken op iPhone (tot 10×)",
+  "description": "'Verbeter opname' in Dictafoon vermindert ruis maar maakt het bestand niet harder. Zo maak je een zachte opname tot 10× harder en bewaar je een luidere kopie.",
+  "h1": "Een Dictafoon-opname harder maken op iPhone",
+  "eyebrow": "Dictafoon",
+  "card_title": "Zachte Dictafoon-opname harder maken",
+  "card_summary": "'Verbeter opname' verandert alleen het afspelen. Exporteer de opname en versterk het bestand zelf, tot 10×.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Om een Dictafoon-opname op iPhone harder te maken, deel je hem vanuit Dictafoon met Audioversterker (tik op de opname → ⋯ → Deel → Increase Volume), zet je 'Audiokwaliteit verbeteren' aan, zet je 'Volumevermenigvuldiging' op ×5–×10, tik je op 'Volume versterken', vergelijk je Origineel en Verwerkt en tik je op 'Verwerkt bestand downloaden' om de luidere M4A te bewaren. 'Verbeter opname' in Dictafoon vermindert ruis tijdens het afspelen, maar verandert het bestand niet en maakt het niet harder als je het deelt.",
+  "intro": [
+    "Een opname vanaf het andere eind van de vergadertafel, een college vanaf de achterste rij of een interview met iemand die zacht praat: de woorden staan erop, maar zelfs op vol volume moet je je inspannen. Dictafoon heeft een paar afspeelopties, en veel mensen denken dat een daarvan de opname harder maakt. Geen enkele doet dat.",
+    "Deze handleiding legt uit wat Dictafoon kan en hoe je een zachte opname in een minuut verandert in een hard bestand dat makkelijk te delen is."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Schermafbeelding van Audioversterker met opnamegegevens, de schakelaar Audiokwaliteit verbeteren en de schuifregelaar vermenigvuldiging ×10",
+    "caption": "Zet bij spraak 'Audiokwaliteit verbeteren' aan voordat je versterkt."
+  },
+  "sections": [
+    {
+      "heading": "Wat Dictafoon doet (en wat niet)",
+      "paragraphs": [
+        "Open een opname, tik op het symbool voor opties (de schuifregelaars) en je ziet:"
+      ],
+      "list": [
+        "Verbeter opname: vermindert achtergrondruis en galm. Handig, maar het is een *afspeel*instelling; volgens Apple verandert de opname zelf niet.",
+        "Sla stiltes over en afspeelsnelheid: handig, maar zonder invloed op het volume.",
+        "Studiostem (ondersteunde modellen): vermindert galm in de ruimte, ook alleen bij het afspelen.",
+        "Knip in / Vervang: veranderen de lengte of inhoud, niet het niveau."
+      ],
+      "note": "Niets in Dictafoon verhoogt het niveau van het bewaarde bestand. Deel je de opname, dan hoort de ontvanger hem op het oorspronkelijke volume."
+    },
+    {
+      "heading": "Waarom de opname zacht is",
+      "paragraphs": [
+        "iPhone past de gevoeligheid tijdens het opnemen automatisch aan, maar kan niet compenseren voor iemand op een paar meter afstand of een telefoon die op zijn kop ligt met de microfoon afgedekt. Het resultaat is een opname waarvan de pieken ver onder het digitale plafond liggen. Die afstand is precies de ruimte die een versterker gebruikt: een zachte opname kan meestal ×5–×10 aan zonder te vervormen."
+      ]
+    },
+    {
+      "heading": "Versterk het bestand met Audioversterker",
+      "paragraphs": [
+        "Audioversterker opent het M4A-bestand dat Dictafoon exporteert, toont duur en grootte en vermenigvuldigt het volume tot ×10. De schakelaar 'Audiokwaliteit verbeteren' richt zich op verstaanbaarheid van spraak, precies wat een spraakopname nodig heeft. Je hoort het resultaat met Origineel/Verwerkt voordat je bewaart, en het luidere bestand wordt als nieuwe kopie bewaard in Bestanden, Berichten, Mail of elke app."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Stap voor stap: een Dictafoon-opname harder maken",
+    "intro": "Werkt met elke opname die al in Dictafoon staat.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Deel de opname met de app",
+        "text": "Tik in Dictafoon op de opname, tik op ⋯, kies Deel en selecteer Increase Volume in de rij apps. (Je kunt hem ook eerst in Bestanden bewaren en vanuit de app toevoegen.)"
+      },
+      {
+        "name": "Zet Audiokwaliteit verbeteren aan",
+        "text": "Zet de schakelaar aan zodat de versterking spraak voorrang geeft."
+      },
+      {
+        "name": "Kies de vermenigvuldiging",
+        "text": "Zet 'Volumevermenigvuldiging' eerst op ×5; opnames op afstand hebben vaak ×8–×10 nodig. Tik op 'Volume versterken'."
+      },
+      {
+        "name": "Vergelijk",
+        "text": "Wissel tussen Origineel/Verwerkt op het hardste punt van de opname (gelach, een kopje dat wordt neergezet). Kraakt het, verlaag dan de vermenigvuldiging."
+      },
+      {
+        "name": "Verwerkt bestand downloaden",
+        "text": "Tik op 'Verwerkt bestand downloaden' en kies Bewaar in Bestanden, of stuur de luidere opname direct naar Berichten, Mail, WhatsApp of Notities."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Neem op met de telefoon op zijn rug, de microfoonkant naar de spreker gericht en zo dichtbij als beleefd is. Dat maakt meer uit dan welke instelling ook.",
+      "Ga je de opname uitschrijven, versterk dan eerst; spraakherkenning maakt minder fouten bij een luider en helderder bestand.",
+      "Houd het origineel in Dictafoon. De versterkte kopie is een apart bestand."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Maakt 'Verbeter opname' een Dictafoon-opname harder?",
+      "answer": "Nee. Het vermindert achtergrondruis en galm tijdens het afspelen. Apple geeft aan dat deze afspeelinstellingen de opname niet veranderen, dus een gedeelde opname blijft hetzelfde."
+    },
+    {
+      "question": "In welk formaat komt de versterkte opname?",
+      "answer": "In hetzelfde audioformaat dat je deelde (Dictafoon exporteert M4A). De app maakt een nieuw bestand; je originele opname blijft onaangeroerd."
+    },
+    {
+      "question": "Kan ik een opname harder maken die ik heb ontvangen?",
+      "answer": "Ja. Bewaar de audio uit Berichten, Mail of WhatsApp in Bestanden (of deel hem direct met de app) en versterk hem op dezelfde manier."
+    }
+  ],
+  "related": [
+    "whatsapp-spraakbericht-te-zacht",
+    "mp3-harder-maken-iphone",
+    "harder-maken-zonder-kwaliteitsverlies"
+  ]
+}

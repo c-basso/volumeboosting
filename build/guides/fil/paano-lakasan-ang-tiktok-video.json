@@ -1,0 +1,122 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "paano lakasan ang TikTok video",
+  "priority": 8,
+  "keywords": "paano lakasan ang TikTok video, mahina ang TikTok video, mahina ang Reels, lakasan bago i-upload, Facebook Reels mahina ang tunog",
+  "title": "Paano lakasan ang TikTok video bago i-post (iPhone)",
+  "description": "Lalong pinapahina ng TikTok at Reels ang mahinang audio. I-boost ang clip ng 2–5× sa iPhone gamit ang Increase Volume bago i-upload para marinig ka kahit saan.",
+  "h1": "Paano lakasan ang TikTok video bago mo i-post",
+  "eyebrow": "TikTok at Reels",
+  "card_title": "Lakasan ang TikTok o Reel",
+  "card_summary": "Ina-adjust ng platforms pag nag-upload, pero hindi nila maililigtas ang mahinang track. I-boost muna ng 2–5×.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "I-boost ang video bago i-upload. Buksan ang clip sa Increase Volume sa iPhone, i-set ang «Volume multiplication» sa ×2–×5 (mas mataas para sa sobrang hinang recording), i-tap ang «Boost Volume», ikumpara ang Orihinal at Na-process, i-tap ang «Download Processed», at i-upload ang boosted na file sa TikTok, Facebook o Instagram. Limitado ang volume slider sa loob ng TikTok at hindi kayang iligtas ng processing sa upload ang audio na sobrang hina pagdating.",
+  "intro": [
+    "Ang TikTok o Reel na hindi naririnig ay ini-scroll lang. Kadalasang nagsisimula ang problema sa pag-record: kailangan ng mic ng phone na nasa isang braso ka lang ang layo, kinakain ng hangin at trapiko ang mahinang boses, at mahina ang level ng gameplay na naka-screen record. Tapos kino-compress pa ng platform ang upload, kaya lalong humihina at natatabunan ng idinagdag na music ang mahinang track.",
+    "Ang maaasahang solusyon: itaas ang level ng video file mismo bago pa ito umabot sa app. Ito ang paraan at kung gaano kalaking boost ang gagamitin."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "iOS share sheet sa Increase Volume na may Save to Files at mga option sa pag-share ng boosted na video",
+    "caption": "Pagkatapos ng boost, i-share diretso sa TikTok o i-save sa Photos at doon mag-upload."
+  },
+  "sections": [
+    {
+      "heading": "Bakit hindi sapat ang paglakas sa loob ng TikTok",
+      "paragraphs": [
+        "May volume slider ang TikTok, Facebook at Instagram para sa original sound, pero para iyon sa pagbalanse sa idinagdag na music, hindi para iligtas ang mahinang recording. Pinapantay rin ng mga platform ang loudness pag nag-upload (mga −14 LUFS ang target ng TikTok), na nagpapantay sa *average* pero hindi kayang gawing normal na boses ang bulong nang hindi lumalakas din ang ingay. Kung mahina ang source, mahina rin ang naka-post."
+      ]
+    },
+    {
+      "heading": "Gaano kalaking boost ang gagamitin",
+      "paragraphs": [
+        "Sa clip na nagsasalita ka sa camera at medyo mahina lang, kadalasang tama ang ×2–×3. Sa clip na kuha sa malayo, sa hangin o screen recording, ×4–×6. Para sa recording na halos hindi marinig ang ×8–×10. Kapag sobra ang boost sa clip na may malalakas nang moment, magki-clip ang mga iyon, at lalong lalabas ang gaspang dahil sa compression ng platform."
+      ],
+      "table": {
+        "head": [
+          "Clip mo",
+          "Inirerekomendang multiplier"
+        ],
+        "rows": [
+          [
+            "Nagsasalita sa camera, hawak ang phone",
+            "×2 – ×3"
+          ],
+          [
+            "Kuha sa malayo o sa labas",
+            "×4 – ×6"
+          ],
+          [
+            "Screen recording ng game o tutorial",
+            "×5 – ×10"
+          ],
+          [
+            "Music video na ayos ang music pero mahina ang boses",
+            "×2 na naka-on ang Improve Audio Quality"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Bakit mas maganda dito ang dedicated booster kaysa CapCut o iMovie",
+      "paragraphs": [
+        "Kaya ring lakasan ng mga editor, pero hanggang mga 500% lang ang iMovie at pareho silang nangangailangan ng project, timeline at bagong export. Binubuksan ng Increase Volume ang clip diretso mula sa Photos, may iisang slider hanggang ×10, Orihinal/Na-process na paghahambing at share sheet na diretso sa TikTok, Facebook, Instagram o pabalik sa Photos. Isang minutong hakbang bago ang karaniwan mong editing."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: i-boost ang clip para sa TikTok o Reels",
+    "intro": "Gawin ito sa tapos nang clip, bago i-upload.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Ipadala ang clip sa Increase Volume",
+        "text": "Sa Photos, buksan ang video, i-tap ang Share, piliin ang Increase Volume. Bubukas ang project kasama ang details ng file."
+      },
+      {
+        "name": "Kung boses, i-on ang Improve Audio Quality",
+        "text": "Kung boses mo ang mahalaga sa clip, i-on ang toggle bago mag-boost."
+      },
+      {
+        "name": "Pumili ng multiplier",
+        "text": "Magsimula sa ×3, i-tap ang «Boost Volume», at magpalit sa Orihinal at Na-process sa pinakamalakas na parte. Ayusin hanggang malinaw na malakas pero hindi magaspang."
+      },
+      {
+        "name": "Download Processed",
+        "text": "I-tap ang «Download Processed», tapos Save Video (katabi ng orihinal sa Photos ang boosted clip) o i-share diretso sa TikTok o Instagram."
+      },
+      {
+        "name": "I-upload at i-check ang sound",
+        "text": "Sa TikTok, i-upload ang boosted na clip. Kung magdadagdag ka ng sound, hinaan ang idinagdag na music imbes na lakasan ulit ang boses mo."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips para sa mas malakas at mas malinis na clip",
+    "items": [
+      "Hangga't puwede, mag-record nang hindi lalayo sa 30 cm mula sa phone; layo ang numero unong dahilan ng mahinang boses.",
+      "Mag-post muna ng private test: i-upload bilang private ang boosted clip, pakinggan sa speaker ng phone, at ayusin kung kailangan.",
+      "Itago ang orihinal. Laging gumagawa ng bagong file ang app, kaya puwede kang mag-boost ulit sa ibang level."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Puwede bang lakasan ang TikTok pagkatapos i-post?",
+      "answer": "Hindi. Pagkatapos ng upload, naka-process at locked na ang audio. Hanapin ang orihinal na clip, i-boost sa Increase Volume at i-upload ulit."
+    },
+    {
+      "question": "Gumagana rin ba sa Facebook Reels, Instagram at YouTube Shorts?",
+      "answer": "Oo. Nakasulat sa video file ang boost, kaya epektibo ito saan mo man i-upload ang file: Reels, Shorts, Snapchat, WhatsApp status."
+    },
+    {
+      "question": "Mafa-flag ba o bababa ang quality ng boosted clip?",
+      "answer": "Hindi. Hindi nagagalaw ang picture at normal na audio track lang ito na mas malakas. Nire-re-encode naman ng platforms ang lahat ng upload."
+    }
+  ],
+  "related": [
+    "paano-lakasan-ang-volume-ng-video-sa-iphone",
+    "lakasan-ang-tunog-nang-hindi-nasisira-ang-quality",
+    "lakasan-ang-video-mula-sa-photos"
+  ]
+}

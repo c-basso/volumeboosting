@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "voice note WhatsApp pelan",
+  "priority": 2,
+  "keywords": "voice note WhatsApp pelan, cara mengeraskan VN WhatsApp, pesan suara WhatsApp kecil, VN WA tidak terdengar iPhone, voice note Telegram pelan",
+  "title": "Voice Note WhatsApp Pelan di iPhone? Ini Cara Mengeraskannya",
+  "description": "VN WhatsApp terlalu pelan di iPhone? Pastikan dulu tidak diputar lewat speaker telepon, lalu ekspor pesan dan keraskan hingga 10× dengan Penguat Volume.",
+  "h1": "Voice note WhatsApp pelan di iPhone: cara mengeraskannya",
+  "eyebrow": "WhatsApp dan Telegram",
+  "card_title": "Mengeraskan voice note WhatsApp",
+  "card_summary": "Dua masalah berbeda: speaker telepon atau rekaman yang memang pelan. Atasi keduanya.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Jika semua voice note WhatsApp terdengar pelan, kemungkinan iPhone memutarnya lewat speaker telepon karena sensor jarak tertutup; jauhkan ponsel dari wajah dan tekan tombol volume naik saat pesan diputar. Jika hanya satu pesan yang pelan, ekspor pesan itu (tekan lama → Teruskan → Bagikan → Simpan ke File atau langsung ke Increase Volume), keraskan ×5–×10 dengan «Tingkatkan Kualitas Audio» aktif, lalu simpan atau teruskan salinan yang lebih keras.",
+  "intro": [
+    "Ada dua alasan yang sama sekali berbeda mengapa voice note WhatsApp terdengar pelan, dan masing-masing punya solusinya sendiri. Pertama: iPhone diam-diam beralih ke speaker telepon. Kedua: pengirim merekam jauh dari mikrofon atau di tempat bising, sehingga rekamannya memang pelan. Yang pertama bisa dicek dalam sepuluh detik; yang kedua bisa diperbaiki dalam semenit.",
+    "Langkah yang sama juga berlaku untuk Telegram, Signal, dan pesan audio iMessage."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Tangkapan layar „Download and share anywhere”: lembar berbagi iOS dengan Simpan ke File untuk rekaman yang diperkuat",
+    "caption": "Voice note yang diperkuat disimpan ke File atau diteruskan langsung ke chat."
+  },
+  "sections": [
+    {
+      "heading": "Solusi 1: diputar lewat speaker telepon",
+      "paragraphs": [
+        "WhatsApp memindahkan pemutaran ke speaker telepon (speaker kecil untuk panggilan) saat sensor jarak di dekat kamera depan tertutup. Cukup jari, tepi casing, atau ponsel yang didekatkan ke wajah, dan pesan tiba-tiba terdengar seperti bisikan. Buka sensornya, jauhkan ponsel, dan tekan volume naik *saat pesan diputar*; iOS punya volume terpisah untuk speaker telepon yang mungkin sedang di posisi minimum.",
+        "Pastikan juga Bluetooth tidak mengirim suara ke earphone di saku, dan Kurangi Audio Keras tidak aktif di Pengaturan › Suara & Haptik › Keamanan Headphone."
+      ]
+    },
+    {
+      "heading": "Solusi 2: pesannya memang pelan",
+      "paragraphs": [
+        "Jika pesan lain terdengar normal dan yang ini tidak, rekamannya memang pelan. WhatsApp tidak punya kontrol volume untuk pesan yang diterima, dan tombol volume tidak bisa melewati 100%. File itu sendiri yang harus dikeraskan. WhatsApp memungkinkan Anda mengekspor voice note sebagai file, dan Penguat Volume melipatgandakannya hingga ×10 serta memberi salinan baru untuk disimpan atau diteruskan."
+      ]
+    },
+    {
+      "heading": "Cara mengekspor voice note dari WhatsApp, Telegram, atau Pesan",
+      "list": [
+        "WhatsApp: tekan lama pesan → Teruskan → ikon Bagikan (kiri bawah) → pilih Increase Volume atau Simpan ke File.",
+        "Telegram: tekan lama pesan → Teruskan atau Bagikan → Simpan ke File atau bagikan ke Increase Volume.",
+        "Pesan audio iMessage: tekan lama → Simpan (masuk ke Memo Suara) dan bagikan dari sana.",
+        "Signal: tekan lama → Simpan → Simpan ke File."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: mengeraskan voice note WhatsApp",
+    "intro": "Satu menit dengan aplikasi gratis Penguat Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Ekspor pesan",
+        "text": "Di WhatsApp, tekan lama voice note → Teruskan → ikon Bagikan → Increase Volume. (Atau Simpan ke File lalu tambahkan dari aplikasi.)"
+      },
+      {
+        "name": "Aktifkan Tingkatkan Kualitas Audio",
+        "text": "Voice note berisi suara bicara; opsi ini membantu kata-kata tetap jelas setelah diperkuat."
+      },
+      {
+        "name": "Perkuat",
+        "text": "Atur «Pengali volume» ke ×5 sebagai awal, ×8–×10 jika sangat pelan, lalu ketuk «Boost volume»."
+      },
+      {
+        "name": "Bandingkan",
+        "text": "Beralih antara Asli/Diproses. Jika kata yang paling keras terdengar pecah, turunkan pengali."
+      },
+      {
+        "name": "Simpan atau teruskan",
+        "text": "Ketuk «Unduh yang diproses». Simpan ke File atau bagikan salinan yang lebih keras kembali ke WhatsApp agar seluruh grup bisa mendengarnya."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Minta orang yang sering mengirim voice note untuk bicara lebih dekat ke ponsel; memperbaiki dari sumbernya selalu paling efektif.",
+      "Jika menyimpan banyak pesan, kumpulkan salinan yang diperkuat dalam satu folder di File; folder WhatsApp tidak bisa dijelajahi.",
+      "Untuk voice note Anda sendiri caranya sama: rekam, bagikan ke aplikasi, perkuat, lalu kirim file yang sudah diperkuat sebagai dokumen atau audio."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kenapa voice note jadi pelan saat ponsel saya dekatkan ke telinga?",
+      "answer": "Itu disengaja: saat sensor jarak tertutup, WhatsApp memutar lewat speaker telepon demi privasi. Naikkan volume speaker telepon dengan tombol saat pesan diputar, atau jauhkan ponsel agar diputar lewat speaker."
+    },
+    {
+      "question": "Bisakah mengeraskan voice note di dalam WhatsApp?",
+      "answer": "Tidak. WhatsApp punya kecepatan putar (1×, 1,5×, 2×), tetapi tidak punya penguat volume. Ekspor pesan dan keraskan dengan Penguat Volume."
+    },
+    {
+      "question": "Apakah bisa juga untuk Telegram dan Messenger?",
+      "answer": "Bisa untuk aplikasi apa pun yang memungkinkan Anda membagikan atau menyimpan file audio. File yang sudah diperkuat bisa diteruskan lewat aplikasi yang sama."
+    }
+  ],
+  "related": [
+    "mengeraskan-memo-suara-iphone",
+    "mengeraskan-mp3-di-iphone",
+    "kenapa-suara-video-pelan"
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "livre audio son trop faible",
+  "priority": 12,
+  "keywords": "livre audio son trop faible, augmenter volume podcast iPhone, podcast trop faible, augmenter le volume d'un livre audio, enregistrement de cours trop faible",
+  "title": "Augmenter le volume d'un podcast ou livre audio sur iPhone",
+  "description": "Podcast, livre audio ou cours trop faible ? En streaming, activez le boost vocal du lecteur ; vos fichiers, amplifiez-les jusqu'à 10× sur iPhone, pas à pas.",
+  "h1": "Comment augmenter le volume d'un podcast ou d'un livre audio sur iPhone",
+  "eyebrow": "Podcasts et livres audio",
+  "card_title": "Rendre un podcast ou un livre audio plus fort",
+  "card_summary": "Réglages du lecteur pour le streaming ; vraie amplification du fichier pour les épisodes et chapitres en MP3 ou M4A.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Pour les épisodes écoutés en streaming dans une app de podcasts, utilisez sa propre fonction de volume (Voice Boost d'Overcast, Volume Boost de Pocket Casts ; Apple Podcasts n'en a pas). Les épisodes, chapitres de livre audio ou cours que vous avez en fichier (MP3, M4A, MP4 dans Fichiers ou iCloud Drive), ouvrez-les dans l'Amplificateur de Volume Audio, activez « Améliorer la qualité audio », amplifiez ×3–×10, comparez Original et Traité et touchez « Télécharger le fichier traité » pour enregistrer une copie plus forte lisible dans n'importe quelle app.",
+  "intro": [
+    "La voix enregistrée a un problème de volume : les podcasts devraient être masterisés autour de −16 LUFS, mais les émissions indépendantes, les cours enregistrés et les vieux livres audio sont souvent bien plus faibles, et un invité qui parle doucement disparaît à côté d'un animateur fort. Dans le métro ou en voiture, cela veut dire toucher sans cesse au volume.",
+    "La solution dépend de l'endroit où se trouve le son : dans une app de streaming ou dans un fichier que vous contrôlez."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/fr/7.webp",
+    "alt": "Capture de la liste de projets de l'Amplificateur de Volume Audio avec des fichiers MP3 et des vidéos",
+    "caption": "Amplifiez toute une série d'épisodes ou de chapitres ; chacun reste dans la liste des projets."
+  },
+  "sections": [
+    {
+      "heading": "Streaming dans une app de podcasts",
+      "paragraphs": [
+        "Vous ne pouvez pas modifier le son qui vit dans une app de streaming, mais plusieurs lecteurs traitent le volume en temps réel :"
+      ],
+      "list": [
+        "Overcast : Voice Boost normalise et compresse la voix ; activable par émission ou pour toutes.",
+        "Pocket Casts : Volume Boost et Trim Silence dans les effets de lecture.",
+        "Spotify : Normaliser le volume dans les réglages de lecture.",
+        "Apple Podcasts : aucune fonction de volume. L'Égaliseur de volume dans Réglages › Musique ne s'applique qu'à la musique, pas aux podcasts."
+      ],
+      "note": "Ces fonctions n'agissent que pendant la lecture dans l'app concernée. Elles ne modifient pas le fichier : si vous déplacez l'épisode ailleurs, rien ne s'améliore."
+    },
+    {
+      "heading": "Fichiers téléchargés",
+      "paragraphs": [
+        "Beaucoup de podcasts proposent un téléchargement MP3 direct sur leur site, les plateformes de cours exportent en MP3 ou MP4, et les livres audio sans DRM (LibriVox, boutiques vendant des MP3 téléchargeables ou vos propres numérisations) arrivent en MP3 ou M4B. Quand le fichier est dans Fichiers ou iCloud Drive, l'Amplificateur de Volume Audio l'ouvre, multiplie le niveau jusqu'à ×10 et enregistre une nouvelle copie. « Améliorer la qualité audio » est pensé pour la voix : c'est ici qu'il est le plus utile."
+      ],
+      "note": "Les livres audio d'Audible, Apple Books, Kobo ou Storytel et les téléchargements dans Apple Podcasts ou Spotify sont protégés contre la copie et aucune autre app ne peut les importer."
+    },
+    {
+      "heading": "Quel multiplicateur pour la voix",
+      "table": {
+        "head": [
+          "Source",
+          "Multiplicateur habituel"
+        ],
+        "rows": [
+          [
+            "Podcast professionnel juste un peu faible",
+            "×1,5 – ×2"
+          ],
+          [
+            "Émission indépendante ou interview avec invité faible",
+            "×3 – ×5"
+          ],
+          [
+            "Cours ou réunion enregistré de loin",
+            "×6 – ×10"
+          ],
+          [
+            "Ancienne numérisation de livre audio",
+            "×2 – ×4"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Étape par étape : amplifier un épisode ou un chapitre",
+    "intro": "Pour les fichiers dans Fichiers, iCloud Drive, Dropbox ou reçus par e-mail.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Ajoutez le fichier",
+        "text": "Ouvrez l'Amplificateur de Volume Audio et ajoutez l'épisode depuis Fichiers, ou dans Fichiers, maintenez le doigt sur le fichier → Partager → Increase Volume."
+      },
+      {
+        "name": "Activez Améliorer la qualité audio",
+        "text": "C'est de la voix ; l'option garde les consonnes nettes après l'amplification."
+      },
+      {
+        "name": "Choisissez le multiplicateur",
+        "text": "Suivez le tableau ci-dessus et touchez « Amplifier le volume »."
+      },
+      {
+        "name": "Comparez",
+        "text": "Basculez Original/Traité sur le passage le plus fort (générique, éclat de rire)."
+      },
+      {
+        "name": "Télécharger le fichier traité",
+        "text": "Enregistrez dans Fichiers. Lisez le fichier amplifié depuis Fichiers, depuis Livres (livres audio) ou dans tout lecteur qui ouvre l'audio local."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Conseils",
+    "items": [
+      "Amplifiez tous les chapitres d'un livre audio avec le même multiplicateur pour que le volume ne varie pas d'un chapitre à l'autre.",
+      "Pour les cours en vidéo (MP4), les étapes sont identiques ; l'image n'est pas modifiée.",
+      "Si un fichier a un générique fort et une voix faible, choisissez le multiplicateur pour la voix et acceptez un générique un peu compressé avec « Améliorer la qualité audio » activé."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Puis-je augmenter le volume dans Apple Podcasts ?",
+      "answer": "Apple Podcasts n'a ni réglage de volume ni boost vocal. Passez à un lecteur qui en a un (Overcast, Pocket Casts) ou téléchargez le MP3 de l'épisode sur le site de l'émission et amplifiez le fichier avec l'Amplificateur de Volume Audio."
+    },
+    {
+      "question": "Puis-je augmenter le volume d'un livre audio Audible ou Storytel ?",
+      "answer": "Non. Ces fichiers sont chiffrés et ne s'ouvrent pas dans d'autres apps. Utilisez les réglages sonores de leur propre lecteur, s'il en a."
+    },
+    {
+      "question": "L'épisode amplifié garde-t-il chapitres et pochette ?",
+      "answer": "L'Amplificateur de Volume Audio traite le son et crée un nouveau fichier. Les métadonnées de base comme le titre sont conservées quand le format le permet ; les marqueurs de chapitre peuvent être perdus."
+    }
+  ],
+  "related": [
+    "augmenter-volume-mp3-iphone",
+    "augmenter-volume-memo-vocal-iphone",
+    "augmenter-volume-sans-perte-de-qualite"
+  ]
+}

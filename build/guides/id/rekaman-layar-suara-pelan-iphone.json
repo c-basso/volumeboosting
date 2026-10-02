@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "rekaman layar suara pelan",
+  "priority": 3,
+  "keywords": "rekaman layar suara pelan, rekam layar iPhone tidak ada suara, cara mengeraskan rekaman layar, rekam layar dengan suara iPhone, screen record suara kecil",
+  "title": "Rekaman Layar iPhone Pelan? Begini Cara Mengeraskannya",
+  "description": "Rekaman layar iPhone sering bersuara pelan. Ketahui penyebabnya, cara merekam lebih keras lain kali, dan cara mengeraskan rekaman yang ada hingga 10× dari Foto.",
+  "h1": "Rekaman layar iPhone suaranya pelan: cara mengeraskannya",
+  "eyebrow": "Rekaman layar",
+  "card_title": "Mengeraskan rekaman layar",
+  "card_summary": "iOS merekam audio aplikasi dengan pelan. Perbaiki rekaman dalam semenit dan rekam lebih keras lain kali.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Rekaman layar yang sudah tersimpan tidak bisa dikeraskan lewat pengaturan sistem, tetapi file-nya bisa: buka di Penguat Volume, atur «Pengali volume» ke ×5–×10, ketuk «Boost volume», dengarkan versi Diproses, lalu ketuk «Unduh yang diproses». Agar lain kali lebih keras: naikkan volume media sebelum mulai, putuskan earphone Bluetooth, dan untuk narasi tekan lama Perekaman Layar di Pusat Kontrol lalu nyalakan mikrofon.",
+  "intro": [
+    "Rekaman layar adalah video paling pelan yang dibuat hampir semua iPhone. iOS menangkap audio aplikasi di level hati-hati untuk menghindari distorsi, dan jika earphone tersambung atau volume aplikasi rendah, trek yang terekam bisa hampir tanpa suara. Jika Anda juga bernarasi lewat mikrofon, campurannya makin tidak seimbang.",
+    "Inilah alasan rekaman Anda pelan, apa yang perlu diubah sebelum merekam lagi, dan cara menyelamatkan rekaman yang sudah ada."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Tangkapan layar „Select the amount of boosting”: slider pengali volume ×10 dan tombol boost di aplikasi Penguat Volume",
+    "caption": "Rekaman layar biasanya butuh penguatan besar; ×5 sampai ×10 itu wajar."
+  },
+  "sections": [
+    {
+      "heading": "Mengapa rekaman layar iPhone begitu pelan",
+      "paragraphs": [
+        "Hampir selalu karena salah satu dari empat hal ini:"
+      ],
+      "list": [
+        "Level tangkapan: iOS merekam audio internal aplikasi di level yang dikurangi agar game dan video yang keras tidak terpotong.",
+        "Bluetooth: saat AirPods atau speaker Bluetooth tersambung, audio yang terekam sering jauh lebih pelan atau malah tidak terekam.",
+        "Volume aplikasi: rekaman menangkap audio pada volume saat itu. Jika ponsel di 30%, rekamannya juga 30%.",
+        "Campuran mikrofon: jika mikrofon dinyalakan, suara Anda bercampur dengan audio aplikasi, dan iOS mengecilkan aplikasi untuk memberi ruang."
+      ]
+    },
+    {
+      "heading": "Rekam lebih keras lain kali",
+      "paragraphs": [
+        "Sebelum merekam: putuskan audio Bluetooth, naikkan volume media sampai maksimal, dan bisukan notifikasi dengan mode Fokus. Untuk narasi, tekan lama Perekaman Layar di Pusat Kontrol dan ketuk Mikrofon hingga merah; ketukan biasa hanya merekam audio aplikasi. Uji coba lima detik langsung memberi tahu apakah levelnya sudah pas."
+      ]
+    },
+    {
+      "heading": "Perbaiki rekaman yang sudah ada",
+      "paragraphs": [
+        "Pengaturan sistem tidak mengubah file yang sudah tersimpan. iMovie bisa mengeraskannya hingga sekitar 500%, kadang cukup, tetapi butuh proyek dan ekspor ulang. Penguat Volume mencapai ×10, bekerja langsung dengan file dari Foto, dan punya pengalih Asli/Diproses agar Anda bisa mendengar level yang diperkuat sebelum menyimpan. Untuk tutorial dengan narasi, aktifkan «Tingkatkan Kualitas Audio» agar suara bicara lebih jelas."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: mengeraskan rekaman layar",
+    "intro": "Anda perlu aplikasi gratis Penguat Volume dan rekaman di Foto.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Bagikan rekaman ke aplikasi",
+        "text": "Buka rekaman layar di Foto, ketuk Bagikan, dan pilih Increase Volume. Atau buka aplikasi dan tambahkan file dari Foto."
+      },
+      {
+        "name": "Jika ada narasi, Tingkatkan Kualitas Audio",
+        "text": "Jika Anda berbicara saat merekam, aktifkan «Tingkatkan Kualitas Audio» agar suara tetap jelas setelah diperkuat."
+      },
+      {
+        "name": "Pilih pengali",
+        "text": "Atur «Pengali volume» ke ×5 sebagai awal. Rekaman layar biasanya jauh di bawah level normal, jadi ×8–×10 itu umum. Ketuk «Boost volume»."
+      },
+      {
+        "name": "Dengarkan Diproses",
+        "text": "Beralih ke Diproses dan putar bagian paling keras. Jika terdengar kasar, turunkan pengali."
+      },
+      {
+        "name": "Unduh yang diproses",
+        "text": "Ketuk «Unduh yang diproses» dan pilih Simpan Video agar rekaman yang lebih keras masuk ke Foto, atau kirim langsung ke YouTube, Slack, Pesan, atau editor Anda."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Keraskan sebelum memotong atau menambah subtitle di editor lain; sumber yang lebih keras memberi ruang lebih untuk semua alat berikutnya.",
+      "Untuk gameplay dengan musik, penguatan sedang (×3–×4) mencegah musik terpotong sambil menaikkan level keseluruhan.",
+      "Jika rekaman benar-benar tanpa suara, bukan sekadar pelan, audionya memang tidak pernah terekam (biasanya aplikasi dibisukan atau video ber-DRM). Tidak ada penguat yang bisa menambahkan suara yang tidak terekam."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kenapa rekaman layar saya tidak ada suaranya?",
+      "answer": "Bisa karena aplikasi yang direkam menjeda audionya saat mendeteksi perekaman layar (aplikasi streaming dan video call melakukannya), videonya ber-DRM, atau volume media di nol. Trek tanpa suara tidak bisa dikeraskan; rekam ulang dengan audio aplikasi berbunyi dan volume tinggi."
+    },
+    {
+      "question": "Bisakah hanya suara saya yang dikeraskan, bukan suara game?",
+      "answer": "Penguat Volume memperkuat seluruh trek campuran. Dengan «Tingkatkan Kualitas Audio», kejelasan suara bicara diutamakan, sehingga narasi biasanya lebih menonjol setelah diperkuat."
+    },
+    {
+      "question": "Apakah resolusi video berubah saat suaranya dikeraskan?",
+      "answer": "Tidak. Hanya trek audio yang diproses; gambar tidak berubah."
+    }
+  ],
+  "related": [
+    "cara-mengeraskan-suara-video-di-iphone",
+    "kenapa-suara-video-pelan",
+    "mengeraskan-suara-tanpa-mengurangi-kualitas"
+  ]
+}

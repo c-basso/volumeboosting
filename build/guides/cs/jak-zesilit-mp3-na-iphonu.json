@@ -1,0 +1,130 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "jak zesílit MP3",
+  "priority": 5,
+  "keywords": "jak zesílit mp3, zvýšit hlasitost mp3 iPhone, mp3 je potichu, zesílit audio soubor, zesilovač hlasitosti mp3",
+  "title": "Jak zesílit MP3 na iPhonu bez počítače (až 10×) – návod",
+  "description": "Máš v iPhonu tiché MP3, M4A nebo WAV? Zesil ho až 10× a ulož hlasitější kopii v aplikaci Increase Volume, celé přímo v telefonu. Postup, bezpečné úrovně a FAQ.",
+  "h1": "Jak zesílit MP3 na iPhonu",
+  "eyebrow": "MP3 a audio soubory",
+  "card_title": "Zesílit MP3 na iPhonu",
+  "card_summary": "Většina zesilovačů umí jen video. Tenhle zesílí MP3, M4A i WAV přímo ze Souborů.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "MP3 na iPhonu zesílíš tak, že otevřeš Increase Volume, přidáš soubor ze Souborů (nebo ho do aplikace sdílíš), posuneš „Násobek hlasitosti“ až na ×10, klepneš na „Zesílit hlasitost“, porovnáš Původní a Zpracované a klepnutím na „Stáhnout zpracované“ uložíš hlasitější MP3 do Souborů nebo ho sdílíš. Vše proběhne v telefonu, bez počítače, nahrávání na web a účtu. Skladby ze streamovacích služeb jako Apple Music nebo Spotify otevřít nejde, protože jsou chráněné proti kopírování.",
+  "intro": [
+    "Stáhl sis přednášku, staré demo, díl podcastu nebo budoucí vyzváněcí tón a hraje znatelně tišeji než všechno ostatní. Na počítači bys otevřel Audacity nebo normalizér; na iPhonu se obvykle radí „použij online zesilovač“, což znamená nahrát soubor na cizí server a dostat zpátky překódovanou verzi.",
+    "Increase Volume udělá totéž přímo v telefonu. V App Store je vedená jako Audio & Music Booster, protože na rozdíl od většiny zesilovačů videa otevře i obyčejné zvukové soubory."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Increase Volume zpracovává soubor MP3 na iPhonu, zobrazený název souboru, velikost a délka",
+    "caption": "Před zesílením aplikace ukáže název skladby, velikost a délku."
+  },
+  "sections": [
+    {
+      "heading": "Které audio soubory můžeš zesílit",
+      "paragraphs": [
+        "Cokoli, co je v iPhonu opravdu jako soubor: MP3, M4A/AAC (včetně exportů z Diktafonu a hlasovek z WhatsAppu), WAV a další běžné formáty uložené v Souborech, na iCloud Drive, Dropboxu nebo přijaté přes Zprávy a Mail. Aplikace načte metadata a kde jsou, ukáže interpreta a název skladby."
+      ],
+      "note": "Nejde to: skladby streamované nebo stažené v Apple Music, Spotify či YouTube Music. Jsou šifrované a žádná jiná aplikace je neotevře. U streamování použij ekvalizér nebo vyrovnání hlasitosti přímo ve službě."
+    },
+    {
+      "heading": "Kolik zesílení MP3 snese",
+      "paragraphs": [
+        "MP3 z CD nebo z obchodů bývají už blízko plné úrovně a při silném zesílení začnou praskat; ×1,5–×2 obvykle stačí. Podcasty, přednášky, hlasové nahrávky a stará dema bývají o 10–20 dB pod maximem a v pohodě snesou ×4–×10. Přepínačem Původní/Zpracované si nejhlasitější pasáž otestuješ před uložením."
+      ]
+    },
+    {
+      "heading": "Increase Volume vs. online zesilovače MP3",
+      "table": {
+        "head": [
+          "",
+          "Online zesilovač",
+          "Increase Volume"
+        ],
+        "rows": [
+          [
+            "Kam jde soubor",
+            "Nahraje se na server",
+            "Zůstává v iPhonu"
+          ],
+          [
+            "Překódování",
+            "Obvykle na pevný, nižší datový tok",
+            "Zpracování přímo v zařízení"
+          ],
+          [
+            "Limit velikosti",
+            "Běžný (např. 50–500 MB)",
+            "Jen podle místa v telefonu"
+          ],
+          [
+            "Náhled před uložením",
+            "Výjimečně",
+            "Přepínač Původní / Zpracované"
+          ],
+          [
+            "Vylepšení řeči",
+            "Občas",
+            "Přepínač Vylepšit kvalitu zvuku"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Postup: jak zesílit MP3",
+    "intro": "Potřebuješ MP3 uložené v Souborech (nebo v aplikaci, která ho umí sdílet) a bezplatnou aplikaci Increase Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Přidej MP3",
+        "text": "Otevři Increase Volume a přidej soubor ze Souborů. Nebo v Souborech podrž MP3, klepni na Sdílet a vyber Increase Volume."
+      },
+      {
+        "name": "Zkontroluj údaje",
+        "text": "Ověř interpreta, skladbu, velikost a délku. U mluveného slova zapni „Vylepšit kvalitu zvuku“."
+      },
+      {
+        "name": "Nastav násobek",
+        "text": "Posuň „Násobek hlasitosti“ na ×2 u hudby a na ×4–×10 u tichých hlasových nahrávek. Klepni na „Zesílit hlasitost“."
+      },
+      {
+        "name": "Porovnej",
+        "text": "Na nejhlasitějším místě přepni Původní/Zpracované. Pokud zesílená verze zní ostře, uprav násobek."
+      },
+      {
+        "name": "Stáhni zpracované",
+        "text": "Klepni na „Stáhnout zpracované“ a pak Uložit do Souborů, nebo sdílej do Mailu, Zpráv či cloudového úložiště."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Celou sadu souborů (kapitoly audioknihy, sérii přednášek) zesil stejným násobkem, aby hrály ve stejné hlasitosti.",
+      "Zesílené kopie měj ve vlastní složce v Souborech; aplikace navíc každý projekt drží v seznamu na později.",
+      "U vyzváněcích tónů nejdřív zesil a pak ořízni na 30 sekund; hlasitější zdroj znamená hlasitější vyzvánění."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Můžu zesílit skladbu z Apple Music nebo Spotify?",
+      "answer": "Žádná jiná aplikace staženou skladbu ze streamovací služby neotevře, protože je šifrovaná. Increase Volume pracuje se soubory, které vlastníš, v Souborech, na iCloud Drive nebo jiném úložišti."
+    },
+    {
+      "question": "Zhorší zesílení kvalitu MP3?",
+      "answer": "Zvuk se zpracuje jednou a uloží jako nový soubor. Kvalita utrpí, jen když zesílíš tolik, že hlasité špičky začnou praskat; přepínačem Původní/Zpracované to uslyšíš ještě před uložením."
+    },
+    {
+      "question": "Funguje to i s WAV a M4A?",
+      "answer": "Ano. Kromě videí MP4 a MOV aplikace podporuje i běžné zvukové formáty."
+    }
+  ],
+  "related": [
+    "jak-zesilit-hudbu-na-iphonu",
+    "jak-zesilit-podcast-nebo-audioknihu-na-iphonu",
+    "jak-zesilit-nahravku-z-diktafonu-na-iphonu"
+  ]
+}

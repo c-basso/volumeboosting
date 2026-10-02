@@ -1,0 +1,99 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "ako spraviť video na TikTok hlasnejšie",
+  "priority": 8,
+  "keywords": "ako spraviť video na TikTok hlasnejšie, tichý zvuk TikTok, zvýšiť hlasitosť videa TikTok, tiché video TikTok, hlasnejší zvuk Reels",
+  "title": "Ako spraviť video na TikTok hlasnejšie pred zverejnením",
+  "description": "Editor TikToku nezdvihne pôvodný zvuk nad 100 %. Ako zosilniť video až 10× vo Volume Boost ešte pred nahratím a potom ho dobre vyvážiť s hudbou v pozadí.",
+  "h1": "Ako spraviť video na TikTok hlasnejšie",
+  "eyebrow": "TikTok a Reels",
+  "card_title": "Hlasnejší TikTok",
+  "card_summary": "TikTok končí na 100 % pôvodného zvuku. Zosilni klip pred nahratím, aby bol hlas počuť cez hudbu.",
+  "quick_answer": "TikTok ti dovolí pôvodný zvuk stíšiť, ale nie zdvihnúť nad 100 %. Pre hlasnejší TikTok najprv zosilni klip: zdieľaj video z Fotiek do Increase Volume, zosilni ×3–×6, ťukni na „Stiahnuť spracované“ → Uložiť video a hlasnejšiu kópiu nahraj do TikToku. Potom vyváž pôvodný zvuk a hudbu v časti Hlasitosť.",
+  "intro": [
+    "Nikto neposúva ďalej rýchlejšie, ako keď nepočuje, čo hovoríš. TikTok aj Instagram Reels vyrovnávajú úroveň zvuku, ale klip, ktorý príde príliš tichý, nezdvihnú, a v editore TikToku je 100 % pôvodného zvuku strop.",
+    "Riešenie je spraviť klip hlasnejším pred nahratím."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Panel zdieľania iOS s voľbami Kopírovať, Pridať tagy a Uložiť do Súborov pre zosilnený súbor",
+    "caption": "Ulož hlasnejšiu kópiu do Fotiek a nahraj ju do TikToku."
+  },
+  "sections": [
+    {
+      "heading": "Prečo je video na TikTok tiché",
+      "paragraphs": [
+        "Mikrofón telefónu zachytí reč potichu, keď natáčaš s vystretou rukou alebo vonku. Keď pridáš hudbu, hlas sa stratí. Posúvač hlasitosti v TikToku vie len stišovať: pôvodný zvuk ide od 0 do 100 %."
+      ]
+    },
+    {
+      "heading": "Postup: najprv zosilniť, potom strihať",
+      "paragraphs": [],
+      "list": [
+        "Natoč ako zvyčajne fotoaparátom iPhonu.",
+        "Zosilni klip vo Volume Boost (×3–×6 pre reč).",
+        "Nahraj hlasnejšiu kópiu do TikToku alebo Instagramu.",
+        "Pridaj hudbu a stíš ju v časti Hlasitosť asi na 20–40 %."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Funguje to s Reels a Shorts?",
+      "paragraphs": [
+        "Áno. Zosilnený súbor je bežné video, takže funguje v Instagram Reels, YouTube Shorts, Snapchate aj CapCute."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Krok za krokom: zosilni klip na TikTok",
+    "intro": "Urob to pred nahratím.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Zdieľaj klip do aplikácie",
+        "text": "Vo Fotkách: Zdieľať → Increase Volume."
+      },
+      {
+        "name": "Vyber úroveň",
+        "text": "Reč: ×3–×6 s „Vylepšiť kvalitu zvuku“. Veľmi ticho: až ×10."
+      },
+      {
+        "name": "Zosilni a porovnaj",
+        "text": "Ťukni na „Zosilniť hlasitosť na ×N“ a počúvaj s Pôvodné/Spracované."
+      },
+      {
+        "name": "Ulož a nahraj",
+        "text": "„Stiahnuť spracované“ → Uložiť video, potom v TikToku vyber novú kópiu."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy pre TikTok",
+    "items": [
+      "Titulky pomôžu tým, čo pozerajú bez zvuku, ale počuteľný zvuk udrží divákov.",
+      "Nechoď nad ×6, ak sú v klipe výkriky alebo smiech.",
+      "Uložené videá z TikToku s vodoznakom sa dajú zosilniť tiež, ale najlepšiu kvalitu dá pôvodný súbor."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dá sa v TikToku zvýšiť hlasitosť nad 100 %?",
+      "answer": "Nie. Editor TikToku vie pôvodný zvuk len stíšiť. Zosilni klip pred nahratím."
+    },
+    {
+      "question": "Zhorší sa kvalita videa?",
+      "answer": "Nie, obraz sa nemení. TikTok video pri nahrávaní aj tak komprimuje."
+    },
+    {
+      "question": "Funguje to s Instagram Reels?",
+      "answer": "Áno, zosilnený súbor funguje v každej aplikácii."
+    }
+  ],
+  "related": [
+    "ako-zosilnit-zvuk-videa-na-iphone",
+    "tichy-zaznam-obrazovky-iphone",
+    "zosilnit-video-v-aplikacii-fotky"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

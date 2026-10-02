@@ -1,0 +1,101 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "videó hangerejének növelése a Fotókban",
+  "priority": 9,
+  "keywords": "videó hangerő növelése Fotók iPhone, Fotók app hangosítás, halk videó a Fotókban, videó hangosítása Fotókból, megosztás az Increase Volume appal",
+  "title": "Hogyan növeld a videó hangerejét közvetlenül a Fotókból",
+  "description": "A Fotókban nincs hangerő-szabályzó, de a videót így is hangosíthatod: Megosztás, válaszd az appot, húzd 10×-ig, és mentsd a másolatot az eredeti mellé.",
+  "h1": "Hogyan növeld a videó hangerejét közvetlenül a Fotókból",
+  "eyebrow": "A Fotókból",
+  "card_title": "Videó hangosítása a Fotók megosztásával",
+  "card_summary": "A Fotók csak némítani tud. A Megosztás → Increase Volume úton hangosítod a klipet, és a hangos másolatot az eredeti mellé mented.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "A Fotók app nem tudja növelni egy videó hangerejét; a szerkesztője csak némítani tud (iPhone 16-on vagy újabbon pedig az Audio Mixszel a térhangot kiegyensúlyozni). Videó hangosítása a Fotókból: nyisd meg, koppints a Megosztás gombra, válaszd az Increase Volume lehetőséget, húzd a „Hangerőszorzót” ×10-ig, koppints a „Hangerő kiemelése”, majd a „Feldolgozott letöltése” → Videó mentése lehetőségre. A hangosabb másolat az eredeti mellett jelenik meg a Fotókban.",
+  "intro": [
+    "Szinte mindenki keres hangerő-szabályzót a Fotók szerkesztőjében, és nem talál, mert nincs. A Fotók vág, egyenesít, színt javít és némít, de hangosítani nem tud. Ami a Fotókban *van*, az a megosztási lap, és a Hangerőnövelő Média ebbe épül be, így a hangosítás két koppintásnyira van a könyvtárad bármelyik videójától.",
+    "Ez az útmutató ezt a folyamatot mutatja be, és azt, hogy mit tud valójában a Fotók szerkesztője a hanggal."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "„Download and share anywhere” képernyőkép: megosztási lap a hangosított videó Fotókba vagy Fájlokba mentésének lehetőségeivel",
+    "caption": "A hangosított másolat a megosztási lapon át kerül vissza a Fotókba; az eredeti változatlan marad."
+  },
+  "sections": [
+    {
+      "heading": "Mit tud és mit nem a Fotók szerkesztője a hanggal",
+      "list": [
+        "Némítás: koppints a Szerkesztés gombra, majd felül a hangszóró ikonra a teljes hangsáv eltávolításához.",
+        "Audio Mix (iPhone 16 vagy újabb, térhangos videók): a különböző keverések kiemelik a beszédet és csökkentik a háttérzajt. Az *egyensúlyt* módosítja, nem az összhangerőt.",
+        "Hangerő növelése: a Fotók egyetlen verziójában sincs."
+      ]
+    },
+    {
+      "heading": "A Megosztás használata a Hangerőnövelő Média appal",
+      "paragraphs": [
+        "Az 1.2.7-es verzió óta az Increase Volume megjelenik az iOS megosztási lapján. Ha megosztasz egy videót az appal, azonnal létrejön egy projekt névvel, mérettel és hosszal, így tudod, hogy a jó klip. Hangosítás után a „Feldolgozott letöltése” újra megnyitja a megosztási lapot, ahol a Videó mentése a hangosabb másolatot a Fotókba teszi. Mivel ez új fájl, az eredeti soha nem íródik felül.",
+        "Ha az Increase Volume elsőre nem jelenik meg a megosztási lapon, görgesd végig az appok sorát, koppints a Továbbiak gombra, és kapcsold be (az elejére is húzhatod)."
+      ]
+    },
+    {
+      "heading": "Több videó hangosítása",
+      "paragraphs": [
+        "Az app projektlistát vezet, így több klipet is küldhetsz a Fotókból, és egymás után feldolgozhatod őket. Minden projekt megjegyzi a fájlját, amíg nem törlöd, így később visszatérhetsz, és kipróbálhatsz egy másik szorzót."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Lépésről lépésre: a Fotókból egy hangosabb videóig",
+    "intro": "Nem kell előbb megnyitni az appot; a Fotókban kezdj.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Nyisd meg a videót a Fotókban",
+        "text": "Keresd meg a halk videót, és nyisd meg teljes képernyőn."
+      },
+      {
+        "name": "Koppints a Megosztás → Increase Volume lehetőségre",
+        "text": "Koppints a Megosztás gombra, görgesd az ikonsort, és koppints az Increase Volume-ra. Új projekt nyílik meg."
+      },
+      {
+        "name": "Hangosíts",
+        "text": "Húzd a „Hangerőszorzót” a kívánt szintre (×3–×10), beszédhez kapcsold be a „Hangminőség javítása” lehetőséget, és koppints a „Hangerő kiemelése” gombra."
+      },
+      {
+        "name": "Hasonlítsd össze",
+        "text": "Az Eredeti/Feldolgozott kapcsolóval hallod a különbséget."
+      },
+      {
+        "name": "Videó mentése",
+        "text": "Koppints a „Feldolgozott letöltése”, majd a Videó mentése lehetőségre. A Fotókban a hangosabb másolat közvetlenül az eredeti után jelenik meg."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tippek",
+    "items": [
+      "Tedd az Increase Volume-ot a megosztási lap kedvencei közé (Továbbiak → Szerkesztés), hogy mindig első legyen.",
+      "Videót a Fájlokból, az Üzenetekből vagy a Mailből is megoszthatsz közvetlenül az appal; a folyamat ugyanaz.",
+      "Hely felszabadításához töröld a halk eredetit, ha meggyőződtél róla, hogy a hangosított másolat jól szól."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Lecseréli a Fotókból indított hangosítás az eredeti videómat?",
+      "answer": "Nem. Az app mindig új fájlt hoz létre. A Videó mentése egy második másolatot ad a Fotókhoz; az eredeti nem változik."
+    },
+    {
+      "question": "Hangosíthatok Live Photókat vagy lassított videókat?",
+      "answer": "A lassított és gyorsított videók normál videóként exportálódnak, és hangosíthatók. A Live Photók rövid klippel ellátott fotók, videóként nem támogatottak."
+    },
+    {
+      "question": "Miért nincs hangerő-szabályzó a Fotókban?",
+      "answer": "Az Apple a Fotókat gyors javításokra szánt szerkesztőnek tervezte, a szintváltoztatást az iMovie-ra hagyja. Az iMovie 500%-ig hangosít; a Hangerőnövelő Média ×10-ig megy, és a megosztási lapról működik."
+    }
+  ],
+  "related": [
+    "hogyan-noveld-a-video-hangerejet-iphone-on",
+    "imovie-hangero-500-folott",
+    "tiktok-video-hangosabba-tetele"
+  ]
+}

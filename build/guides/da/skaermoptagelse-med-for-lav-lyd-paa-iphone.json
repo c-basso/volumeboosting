@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "skærmoptagelse lyd for lav",
+  "priority": 2,
+  "keywords": "skærmoptagelse lyd for lav, skærmoptagelse iPhone lav lyd, gør skærmoptagelse højere, skærmoptagelse med lyd iPhone, skærmoptagelse uden lyd",
+  "title": "Skærmoptagelse med for lav lyd på iPhone? Sådan løser du det",
+  "description": "Skærmoptagelser fra iPhone har ofte for lav lyd. Se hvorfor, hvordan du optager højere, og hvordan du forstærker en færdig optagelse 10× med Increase Volume.",
+  "h1": "Skærmoptagelse med for lav lyd på iPhone: sådan gør du den højere",
+  "eyebrow": "Skærmoptagelse",
+  "card_title": "Gør en skærmoptagelse højere",
+  "card_summary": "iOS optager app-lyd på et lavt niveau. Ret en færdig optagelse på et minut, og optag højere næste gang.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "En færdig skærmoptagelse kan ikke gøres højere med systemindstillinger, men du kan forstærke filen: Åbn den i Increase Volume, træk „Lydstyrke-multiplikation“ til ×5–×10, tryk på „Boost lydstyrke“, lyt til Behandlet, og tryk på „Download behandlet“. For at optage højere næste gang: Skru op for medielydstyrken, før du starter, afbryd Bluetooth-høretelefoner, og hold knappen Skærmoptagelse i Kontrolcenter nede for at slå mikrofonen til, hvis du vil speake.",
+  "intro": [
+    "Skærmoptagelser er de mest stille videoer, de fleste iPhones nogensinde laver. iOS optager app-lyd på et forsigtigt niveau for at undgå forvrængning, og hvis dine høretelefoner var tilsluttet, eller appens egen lydstyrke var lav, kan det optagede lydspor være næsten lydløst. Tilføjer du speak via mikrofonen, bliver mixet endnu mere ujævnt.",
+    "Herunder: grundene til, at din optagelse er lav, hvad du skal ændre før den næste, og hvordan du redder den optagelse, du allerede har."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Increase Volume på iPhone med skyderen Lydstyrke-multiplikation ×10 og knappen Boost lydstyrke",
+    "caption": "Skærmoptagelser kræver som regel en kraftig forstærkning; ×5 til ×10 er normalt."
+  },
+  "sections": [
+    {
+      "heading": "Hvorfor skærmoptagelser på iPhone er så lave",
+      "paragraphs": [
+        "Fire årsager står bag næsten alle tilfælde:"
+      ],
+      "list": [
+        "Optageniveau: iOS optager intern app-lyd på et reduceret niveau, så højlydte spil og videoer ikke klipper.",
+        "Bluetooth: Når AirPods eller en Bluetooth-højttaler er tilsluttet, bliver den optagede lyd ofte meget lavere eller mangler helt.",
+        "Lydstyrke i appen: Optagelsen fanger appens lyd på den lydstyrke, du havde indstillet. Stod telefonen på 30 %, er optagelsen på 30 %.",
+        "Mix med mikrofon: Slår du mikrofonen til, mixes din stemme med app-lyden, og iOS sænker app-lyden for at give plads."
+      ]
+    },
+    {
+      "heading": "Optag højere næste gang",
+      "paragraphs": [
+        "Før du trykker optag: Afbryd Bluetooth-lyd, skru medielydstyrken helt op, og slå notifikationer fra med et fokus. Vil du speake, så hold knappen Skærmoptagelse i Kontrolcenter nede, og tryk på Mikrofon, så den bliver rød; et almindeligt tryk optager kun app-lyd. En testoptagelse på fem sekunder fortæller dig med det samme, om niveauet er rigtigt."
+      ]
+    },
+    {
+      "heading": "Ret den optagelse, du allerede har",
+      "paragraphs": [
+        "Systemindstillinger kan ikke ændre en fil, der allerede er gemt. iMovie kan hæve den til cirka 500 %, hvilket nogle gange er nok, men kræver et projekt og en ny eksport. Increase Volume går til ×10, arbejder direkte på filen fra Fotos og har en Original/Behandlet-kontakt, så du kan høre det forstærkede niveau, før du gemmer. Til tutorials med tale slår du „Forbedr lydkvalitet“ til for at gøre stemmen lettere at forstå."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Trin for trin: forstærk en skærmoptagelse",
+    "intro": "Du skal bruge den gratis app Increase Volume og skærmoptagelsen i Fotos.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Del optagelsen til appen",
+        "text": "Åbn skærmoptagelsen i Fotos, tryk på Del, og vælg Increase Volume. Eller åbn appen og tilføj filen fra Fotos."
+      },
+      {
+        "name": "Slå Forbedr lydkvalitet til ved speak",
+        "text": "Har du talt hen over optagelsen, så slå „Forbedr lydkvalitet“ til, så talen forbliver tydelig efter forstærkningen."
+      },
+      {
+        "name": "Indstil multiplikationen",
+        "text": "Træk „Lydstyrke-multiplikation“ til ×5 som udgangspunkt. Skærmoptagelser ligger som regel langt under normalt niveau, så ×8–×10 er almindeligt. Tryk på „Boost lydstyrke“."
+      },
+      {
+        "name": "Lyt til Behandlet",
+        "text": "Skift til Behandlet, og afspil den højeste del af optagelsen. Lyder den skarp, så sænk multiplikationen."
+      },
+      {
+        "name": "Download behandlet",
+        "text": "Tryk på „Download behandlet“, og vælg Gem video for at lægge den højere optagelse i Fotos, eller send den direkte til YouTube, Slack, Beskeder eller dit redigeringsprogram."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Forstærk, før du klipper eller tilføjer undertekster i et andet program; en højere kilde giver alle efterfølgende værktøjer mere at arbejde med.",
+      "Til gameplay med musik holder en moderat forstærkning (×3–×4) musikken fra at klippe, mens det samlede niveau løftes.",
+      "Er optagelsen helt lydløs og ikke bare lav, blev lyden aldrig optaget (typisk en app med lyd slået fra eller en DRM-beskyttet video). Ingen forstærker kan tilføje lyd, der ikke blev optaget."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Hvorfor er der slet ingen lyd på min skærmoptagelse?",
+      "answer": "Enten pauser den app, du optog, sin lyd, når den opdager skærmoptagelse (streaming- og videoopkaldsapps gør det), eller videoen var DRM-beskyttet, eller medielydstyrken stod på nul. Et lydløst spor kan ikke forstærkes; optag igen med appens lyd tændt og lydstyrken oppe."
+    },
+    {
+      "question": "Kan jeg kun gøre mit speak højere og ikke spillyden?",
+      "answer": "Increase Volume forstærker det mixede spor som helhed. Med „Forbedr lydkvalitet“ slået til prioriteres taletydelighed, så speaket som regel træder tydeligere frem efter forstærkningen."
+    },
+    {
+      "question": "Ændrer forstærkningen videoens opløsning?",
+      "answer": "Nej. Kun lydsporet behandles; billedet sendes uændret igennem."
+    }
+  ],
+  "related": [
+    "goer-en-video-hoejere-paa-iphone",
+    "hvorfor-er-min-iphone-video-saa-lav",
+    "goer-lyden-hoejere-uden-at-miste-kvalitet"
+  ]
+}

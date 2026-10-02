@@ -1,0 +1,100 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "înregistrare ecran sunet încet iPhone",
+  "priority": 3,
+  "keywords": "înregistrare ecran sunet încet iPhone, înregistrare ecran fără sunet, cum măresc sunetul la înregistrarea ecranului, sunet încet înregistrare ecran, volum înregistrare ecran",
+  "title": "Înregistrarea ecranului are sunet încet pe iPhone? Soluția",
+  "description": "De ce înregistrează iPhone-ul sunetul aplicațiilor atât de încet? Ce verifici înainte de următoarea înregistrare și cum faci una existentă de 10× mai tare.",
+  "h1": "Sunet încet în înregistrarea ecranului pe iPhone: cauză și soluție",
+  "eyebrow": "Înregistrare ecran",
+  "card_title": "Înregistrare ecran încet",
+  "card_summary": "iOS înregistrează sunetul aplicațiilor mai încet decât îl auzi. Repară următoarea înregistrare și amplifică ×5–×10 ce ai deja.",
+  "quick_answer": "iOS înregistrează sunetul aplicațiilor la un nivel redus, și mai încet la volum mic sau cu căști Bluetooth conectate. Data viitoare deconectează Bluetooth-ul și dă volumul mai tare înainte să atingi Înregistrare ecran în Centrul de control. Pentru o înregistrare pe care o ai deja: partajează videoclipul din Poze către Increase Volume, amplifică ×5–×10 și atinge „Descarcă procesat”.",
+  "intro": [
+    "Înregistrarea ecranului dintr-un joc, un tutorial sau un apel video arată perfect, dar sunetul abia se aude la redare. Nu e vina ta: iOS înregistrează sunetul sistemului mai încet decât îl auzi în timp ce înregistrezi.",
+    "Iată ce influențează nivelul, cum obții o înregistrare mai bună data viitoare și cum salvezi ce ai înregistrat deja."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Detalii piesă în Volume Boost cu comutatorul „Îmbunătățește calitatea audio”, cursorul „Multiplicare volum ×10” și butonul „Amplifică volumul la ×10”",
+    "caption": "Alege multiplicarea pentru înregistrarea ecranului și atinge „Amplifică volumul”."
+  },
+  "sections": [
+    {
+      "heading": "De ce înregistrările ecranului au sunet încet",
+      "paragraphs": [
+        "Înregistrarea ecranului din iOS captează intern sunetul aplicației. Nivelul urmează parțial volumul sistemului, deci o înregistrare făcută la volum mic iese încet. Cu căști Bluetooth conectate, sunetul aplicației poate fi înregistrat mai slab sau deloc, iar multe aplicații (streaming, apeluri) blochează sau opresc sunetul în înregistrarea ecranului."
+      ]
+    },
+    {
+      "heading": "Cum obții un sunet mai bun data viitoare",
+      "paragraphs": [],
+      "list": [
+        "Deconectează căștile Bluetooth înainte să începi.",
+        "Dă volumul media bine mai tare înainte să atingi Înregistrare ecran.",
+        "Vrei să-ți înregistrezi și vocea: ține apăsat butonul de înregistrare a ecranului din Centrul de control și activează Microfonul.",
+        "Dezactivează Concentrarea / Nu deranja, ca notificările să nu întrerupă sunetul."
+      ],
+      "ordered": false,
+      "note": "Numele butoanelor pot varia puțin între versiunile iOS."
+    },
+    {
+      "heading": "Ai deja o înregistrare încet? Amplifică fișierul",
+      "paragraphs": [
+        "O înregistrare a ecranului gata făcută e un videoclip obișnuit în Poze. Volume Boost o deschide, înmulțește pista audio de până la 10× și salvează o copie nouă lângă original. Imaginea nu se schimbă."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Fă o înregistrare a ecranului mai tare cu Volume Boost",
+    "intro": "Cam un minut pentru o înregistrare scurtă.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Partajează înregistrarea cu aplicația",
+        "text": "Deschide înregistrarea ecranului în Poze, atinge Partajați și alege Increase Volume."
+      },
+      {
+        "name": "Alege nivelul",
+        "text": "Înregistrările ecranului au nevoie adesea de ×5–×8. Dacă e vorbire (tutorial), activează „Îmbunătățește calitatea audio”."
+      },
+      {
+        "name": "Amplifică și compară",
+        "text": "Atinge „Amplifică volumul la ×N” și comută între Original și Procesat."
+      },
+      {
+        "name": "Salvează",
+        "text": "Atinge „Descarcă procesat” → Salvați video. Copia mai tare ajunge în Poze."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Sfaturi",
+    "items": [
+      "Dacă înregistrarea are și sunet de joc, și voce, amplifică moderat (×3–×5) ca exploziile din joc să nu sune spart.",
+      "O înregistrare a ecranului fără pistă audio nu poate fi amplificată; trebuie refăcută cu sunet.",
+      "Amplifică înainte de montaj în iMovie sau CapCut; așa lucrezi tot timpul cu un semnal puternic."
+    ]
+  },
+  "faq": [
+    {
+      "question": "De ce înregistrarea ecranului meu nu are sunet?",
+      "answer": "Aplicația poate bloca înregistrarea sunetului (streaming, apeluri) sau sunetul a mers în căștile Bluetooth. Verifică și dacă microfonul era activat, în caz că voiai să-ți înregistrezi vocea."
+    },
+    {
+      "question": "Pot mări sunetul unei înregistrări a ecranului după aceea?",
+      "answer": "Da. Partajează videoclipul din Poze către Volume Boost, amplifică ×5–×10 și salvează copia mai tare."
+    },
+    {
+      "question": "Se strică imaginea?",
+      "answer": "Nu. Se schimbă doar pista audio; imaginea e copiată așa cum e."
+    }
+  ],
+  "related": [
+    "cum-maresti-volumul-unui-videoclip-pe-iphone",
+    "de-ce-se-aude-incet-videoclipul",
+    "videoclip-tiktok-mai-tare"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

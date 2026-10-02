@@ -1,0 +1,140 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "pojačati glasnoću bez gubitka kvalitete",
+  "priority": 10,
+  "keywords": "pojačati glasnoću bez gubitka kvalitete, pojačati zvuk bez izobličenja, zvuk krči kad pojačam, pojačanje bez rezanja, gubitak kvalitete pri pojačanju",
+  "title": "Kako pojačati glasnoću videa bez gubitka kvalitete (iPhone)",
+  "description": "Prejako pojačanje reže zvuk. Saznaj što se događa pri pojačanju, koliko je sigurno i kako provjeriti rezultat uz Izvorno/Obrađeno prije spremanja na iPhoneu.",
+  "h1": "Kako pojačati glasnoću videa bez gubitka kvalitete",
+  "eyebrow": "Kvaliteta",
+  "card_title": "Pojačaj bez izobličenja",
+  "card_summary": "Što je rezanje, koliko prostora ima tiha snimka i kako provjeriti prije spremanja.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Pojačanje glasnoće ne dira sliku i ne kvari zvuk sve dok najglasniji vrhovi ostaju ispod digitalnog stropa. Na iPhoneu otvori video u aplikaciji Pojačaj Glasnoću Zvuka, kreni od ×3, dodirni „Pojačaj glasnoću” i poslušaj najglasniji trenutak prekidačem Izvorno/Obrađeno. Povećavaj množitelj dok zvuči jasno glasno, ali ne grubo. Za govor uključi „Poboljšaj kvalitetu zvuka” i spremi uz „Preuzmi obrađeno”. Izvorna datoteka nikad se ne mijenja.",
+  "intro": [
+    "„Neće li se izobličiti?” prvo je pitanje koje svi postave o pojačivaču glasnoće, i to je pravo pitanje. Pojačanje je množenje: svaki audiouzorak postaje veći. Ako najveći dosegnu najveću vrijednost koju format dopušta, odrežu se ravno i čuješ pucketanje ili grubost u glasnim dijelovima. To je rezanje (clipping) i jedini je stvarni rizik za kvalitetu.",
+    "Dobra vijest: *tiha* snimka po definiciji ima puno prostora do tog stropa. Ovaj vodič objašnjava kako ga iskoristiti i kako provjeriti rezultat prije spremanja."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "Snimka zaslona „Hear processed result”: zaslon rezultata aplikacije Pojačaj Glasnoću Zvuka s tipkom Preuzmi obrađeno i prekidačem Izvorno/Obrađeno",
+    "caption": "Najglasniji dio uvijek usporedi uz Izvorno/Obrađeno prije preuzimanja."
+  },
+  "sections": [
+    {
+      "heading": "Što se stvarno mijenja pri pojačanju",
+      "paragraphs": [
+        "Obrađuje se samo audiozapis. Video prolazi nepromijenjen, pa rezolucija, broj sličica i boje ostaju potpuno isti. U zvuku množitelj ×2 udvostručuje amplitudu (oko +6 dB), ×4 je oko +12 dB, a ×10 je +20 dB. Šum snimke (zujanje prostorije, vjetar) množi se jednako, pa vrlo veliko pojačanje bučne snimke može šuštati iako se ništa ne reže."
+      ]
+    },
+    {
+      "heading": "Koliko je pojačanje sigurno?",
+      "paragraphs": [
+        "Ovisi o tome koliko je najglasniji trenutak udaljen od stropa, a ne koliko je tih *prosjek*. Snimka koja zvuči jako tiho, ali ima lupanje vrata na najvećoj razini, ne podnosi puno pojačanja prije nego što se lupanje odreže. Tiha i ujednačena snimka, poput predavanja iz zadnjeg reda, često čisto podnosi ×8–×10."
+      ],
+      "table": {
+        "head": [
+          "Snimka",
+          "Uobičajeni siguran raspon",
+          "Napomene"
+        ],
+        "rows": [
+          [
+            "Snimka iz Diktafona ili predavanje izdaleka",
+            "×5 – ×10",
+            "Za govor uključi Poboljšaj kvalitetu zvuka."
+          ],
+          [
+            "Video s telefona koji je samo malo tih",
+            "×2 – ×4",
+            "Provjeri najglasniji smijeh ili pljesak."
+          ],
+          [
+            "Snimka zaslona",
+            "×5 – ×10",
+            "Često daleko ispod normalne razine."
+          ],
+          [
+            "Glazba s tihim strofama i glasnim refrenom",
+            "×1,5 – ×3",
+            "Refren određuje granicu."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Koristi provjeru Izvorno/Obrađeno",
+      "paragraphs": [
+        "Pojačaj Glasnoću Zvuka obrađuje datoteku i prikazuje prekidač Izvorno/Obrađeno prije nego što išta spremi. Pronađi najglasniji trenutak i prebacuj između njih. Ako Obrađeno ondje zvuči grubo ili pucketa, smanji množitelj za korak i ponovno pojačaj. Budući da aplikacija stvara novu datoteku, možeš slobodno eksperimentirati; izvornik se ne dira."
+      ]
+    },
+    {
+      "heading": "Poboljšaj kvalitetu zvuka: kada ga uključiti",
+      "paragraphs": [
+        "Prekidač „Poboljšaj kvalitetu zvuka” dodaje obradu usmjerenu na razumljivost i najviše pomaže govoru: intervjuima, predavanjima, glasovnim porukama, vodičima snimljenim sa zaslona. Za glazbu isprobaj obje postavke i zadrži prirodniju. U trenutačnoj verziji opcija je označena kao eksperimentalna, pa uvijek poslušaj rezultat."
+      ]
+    },
+    {
+      "id": "privatnost",
+      "heading": "Privatnost: sve ostaje na tvom telefonu",
+      "paragraphs": [
+        "Pojačaj Glasnoću Zvuka obrađuje datoteke na iPhoneu. Ništa se ne prenosi, nema računa, a rezultat se sprema uobičajenim iOS listom za dijeljenje u Fotografije, Datoteke ili aplikaciju po izboru. Online pojačivači traže slanje datoteke na poslužitelj i često je ponovno kodiraju u nižoj kvaliteti; lokalna aplikacija izbjegava oboje."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Korak po korak: čisto pojačanje",
+    "intro": "Isti tijek za video i zvuk.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Otvori datoteku u aplikaciji",
+        "text": "Dodaj je iz Fotografija ili Datoteka, ili je podijeli s aplikacijom s bilo kojeg mjesta."
+      },
+      {
+        "name": "Odluči o Poboljšaj kvalitetu zvuka",
+        "text": "Uključeno za govor; za glazbu isprobaj obje mogućnosti."
+      },
+      {
+        "name": "Kreni umjereno",
+        "text": "Postavi „Množitelj glasnoće” na ×3 i dodirni „Pojačaj glasnoću”."
+      },
+      {
+        "name": "Provjeri najglasniji trenutak",
+        "text": "Prebacuj Izvorno/Obrađeno na najglasnijem dijelu. Čisto? Povećaj množitelj i ponovi. Grubo? Smanji ga."
+      },
+      {
+        "name": "Spremi",
+        "text": "Dodirni „Preuzmi obrađeno” i spremi u Fotografije ili Datoteke. Izvornik ostaje netaknut."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Savjeti",
+    "items": [
+      "Provjeravaj u slušalicama; zvučnik telefona skriva blago rezanje.",
+      "Kod bučnih datoteka malo niži množitelj uz „Poboljšaj kvalitetu zvuka” često zvuči bolje od maksimuma.",
+      "Pojačaj jednom, iz izvornika. Ponovno pojačavanje već pojačanog izvoza gomila nedostatke."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Smanjuje li pojačanje rezoluciju videa?",
+      "answer": "Ne. Obrađuje se samo zvuk. Video zadržava rezoluciju, broj sličica i brzinu prijenosa."
+    },
+    {
+      "question": "Kako zvuči izobličenje od prejakog pojačanja?",
+      "answer": "Kao pucketanje, zujanje ili grubost samo u najglasnijim trenucima, dok tihi dijelovi zvuče dobro. Ako to čuješ, smanji množitelj."
+    },
+    {
+      "question": "Je li ×10 previše?",
+      "answer": "Ne za stvarno tihe snimke, poput udaljenih snimki iz Diktafona ili snimki zaslona. Za običan video s telefona često je dovoljno ×2–×4. Neka odluči provjera Izvorno/Obrađeno."
+    }
+  ],
+  "related": [
+    "kako-pojacati-zvuk-videa-na-iphoneu",
+    "pojacati-glasnocu-diktafon-snimke",
+    "zasto-je-video-na-iphoneu-tih"
+  ]
+}

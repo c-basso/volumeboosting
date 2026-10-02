@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "zvýšiť hlasitosť bez straty kvality",
+  "priority": 10,
+  "keywords": "zvýšiť hlasitosť bez straty kvality, hlasnejšie bez skreslenia, zosilniť video bez chrčania, zvuk chrčí po zosilnení, čisté zosilnenie zvuku",
+  "title": "Ako zvýšiť hlasitosť bez straty kvality a bez skreslenia",
+  "description": "Kedy zvuk chrčí a kedy nie? Ako vybrať správny násobok, vypočuť si Pôvodné/Spracované a spraviť video hlasnejším tak, aby sa obraz vôbec nijako nezmenil.",
+  "h1": "Ako spraviť video a zvuk hlasnejším bez straty kvality",
+  "eyebrow": "Kvalita",
+  "card_title": "Hlasnejšie bez straty kvality",
+  "card_summary": "Rezerva, špičky a skreslenie jednoducho, a ako nájsť najvyššiu ešte čistú úroveň.",
+  "quick_answer": "Zvuk sa skreslí len vtedy, keď najhlasnejšie špičky prekročia digitálny strop. Tichá nahrávka má veľkú rezervu a znesie ×5–×10. Začni na ×3 vo Volume Boost, nájdi najhlasnejší moment klipu, prepínaj Pôvodné a Spracované a zvyšuj, kým to znie čisto. Pri reči zapni „Vylepšiť kvalitu zvuku“. Obraz videa sa nikdy nemení.",
+  "intro": [
+    "Strach, že nahrávku „pokazíš“, mnohým bráni spraviť ju hlasnejšou. Zosilnenie však nie je strata: kým špičky ostávajú pod stropom, zvuk je jednoducho hlasnejší.",
+    "Tento návod vysvetľuje, čo sa deje, a ako nájsť najlepšiu úroveň bez hádania."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "Obrazovka výsledku vo Volume Boost s tlačidlom „Stiahnuť spracované“ a prepínačom Pôvodné/Spracované",
+    "caption": "Pred uložením prepínaj Pôvodné a Spracované."
+  },
+  "sections": [
+    {
+      "heading": "Rezerva: prečo tiché nahrávky znesú veľa",
+      "paragraphs": [
+        "Digitálny zvuk má strop (0 dBFS). Tichá nahrávka je možno 20 dB pod ním; to dáva priestor zhruba na 10×, kým špičky narazia na strop. Klip s jedným hlasným úderom blízko stropu má malú rezervu, aj keď je zvyšok tichý."
+      ]
+    },
+    {
+      "heading": "Ako počuť skreslenie",
+      "paragraphs": [],
+      "list": [
+        "Nájdi najhlasnejšiu pasáž: smiech, výkrik, refrén.",
+        "Počúvaj a prepínaj Pôvodné/Spracované.",
+        "Ak to znie chrapľavo alebo ploché, zníž násobok o stupeň."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Mení sa kvalita videa?",
+      "paragraphs": [
+        "Nie. Volume Boost mení len zvukovú stopu. Obraz si zachová rovnaké rozlíšenie a nedostane vodoznak."
+      ]
+    },
+    {
+      "id": "sukromie",
+      "heading": "Súkromie: všetko prebieha na iPhone",
+      "paragraphs": [
+        "Tvoje súbory neopustia telefón. Spracovanie prebieha v zariadení, bez účtu a bez nahrávania. Výsledok uložíš cez panel zdieľania iOS do Fotiek, Súborov alebo aplikácie, ktorú si vyberieš."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Nájdi najvyššiu čistú úroveň",
+    "intro": "Rýchly test za menej ako minútu.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Začni na ×3",
+        "text": "Posuň „Násobok hlasitosti“ na ×3 a ťukni na „Zosilniť hlasitosť na ×3“."
+      },
+      {
+        "name": "Skontroluj špičky",
+        "text": "Prehraj najhlasnejšiu pasáž s Pôvodné/Spracované."
+      },
+      {
+        "name": "Zvýš alebo zníž",
+        "text": "Čisté: prejdi na ×5, potom ×8 alebo ×10. Chrčí: o stupeň nižšie."
+      },
+      {
+        "name": "Ulož",
+        "text": "Keď je úroveň správna, ťukni na „Stiahnuť spracované“."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Reč znesie viac ako hudba.",
+      "„Vylepšiť kvalitu zvuku“ spraví hlasy zreteľnejšími pri silnom zosilnení.",
+      "Skús viac úrovní; originál ostáva vždy uložený."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dá sa spraviť video hlasnejším bez zhoršenia kvality?",
+      "answer": "Áno, kým špičky neprekročia strop. Pred uložením si to vypočuj s Pôvodné/Spracované."
+    },
+    {
+      "question": "Prečo zvuk po zosilnení chrčí?",
+      "answer": "Najhlasnejšie špičky sa orezali. Znižuj násobok, kým to neznie čisto."
+    },
+    {
+      "question": "Nahrávajú sa moje videá niekam?",
+      "answer": "Nie. Všetko sa spracúva na iPhone."
+    }
+  ],
+  "related": [
+    "ako-zosilnit-zvuk-videa-na-iphone",
+    "imovie-hlasitost-nad-500",
+    "ticha-hudba-na-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

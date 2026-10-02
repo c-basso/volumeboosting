@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "áudio do WhatsApp baixo",
+  "priority": 2,
+  "keywords": "áudio do WhatsApp baixo, áudio do WhatsApp baixo no iPhone, como aumentar o volume do áudio do WhatsApp, não consigo ouvir áudio do WhatsApp, mensagem de voz baixa",
+  "title": "Áudio do WhatsApp baixo no iPhone? Veja como resolver",
+  "description": "Não consegue ouvir os áudios do WhatsApp no iPhone? Confira o alto-falante de chamadas e o sensor de proximidade e deixe um áudio baixo até 10× mais alto.",
+  "h1": "Áudio do WhatsApp baixo no iPhone: causas e solução",
+  "eyebrow": "Áudios",
+  "card_title": "Áudio do WhatsApp baixo",
+  "card_summary": "Todos baixos? É o sensor de proximidade. Um só baixo? Exporte, amplifique ×5–×10 e envie a cópia mais alta.",
+  "quick_answer": "Se todos os áudios do WhatsApp estão baixos, o iPhone está tocando pelo alto-falante de chamadas porque você cobre o sensor de proximidade: afaste o celular do rosto e aumente o volume enquanto o áudio toca. Se um áudio específico está baixo, toque e segure nele → Encaminhar → ícone Compartilhar → Salvar em Arquivos, abra o arquivo no app Aumentar Volume, amplifique ×5–×10 e salve ou envie a cópia mais alta.",
+  "intro": [
+    "Áudio é o jeito mais rápido de conversar no Brasil, mas é frustrante quando quem mandou falou baixo, segurou o celular longe ou gravou numa rua barulhenta. O WhatsApp não tem controle de volume para um áudio só.",
+    "Este guia separa os dois casos, todos os áudios baixos (configuração de reprodução) e um áudio baixo (a própria gravação), e mostra como deixar um áudio permanentemente mais alto."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/pt/6.webp",
+    "alt": "Planilha de compartilhamento do iOS com Copiar, Adicionar etiquetas e Salvar em Arquivos para um áudio amplificado no app Aumentar Volume",
+    "caption": "Depois de amplificar, mande a cópia mais alta de volta ao WhatsApp ou salve no Arquivos."
+  },
+  "sections": [
+    {
+      "heading": "Todos os áudios estão baixos? Verifique a reprodução",
+      "paragraphs": [
+        "Quando você encosta o iPhone no ouvido, ou cobre a parte de cima com a mão, o WhatsApp troca do alto-falante para o pequeno alto-falante de chamadas. Fica bem mais baixo. Segure o celular reto à sua frente e aperte aumentar volume enquanto o áudio toca; o volume de mídia é separado do volume da campainha.",
+        "Se você usa AirPods ou outro aparelho Bluetooth, o som pode estar indo para lá. Abra a Central de Controle e confira a saída de áudio. Se o nível nos fones está limitado, confira Ajustes › Sons e Tátil › Segurança dos Fones de Ouvido."
+      ]
+    },
+    {
+      "heading": "Só um áudio está baixo? O problema é a gravação",
+      "paragraphs": [
+        "Se os outros áudios soam normais, o problema está no arquivo: quem mandou gravou com nível baixo. Os botões de volume não corrigem isso. A solução é exportar o arquivo de áudio, aumentar o nível no próprio arquivo e usar a nova versão."
+      ]
+    },
+    {
+      "heading": "Como exportar um áudio do WhatsApp",
+      "paragraphs": [
+        "O WhatsApp salva os áudios como arquivos Opus. Você tira eles pela planilha de compartilhamento:"
+      ],
+      "list": [
+        "Toque e segure o áudio na conversa.",
+        "Toque em Encaminhar e depois no ícone Compartilhar no canto inferior direito.",
+        "Escolha Salvar em Arquivos, ou escolha direto Increase Volume se o app aparecer na planilha."
+      ],
+      "ordered": true,
+      "note": "Os nomes dos menus podem variar um pouco entre versões do WhatsApp."
+    }
+  ],
+  "steps": {
+    "heading": "Aumente o volume de um áudio do WhatsApp com o app",
+    "intro": "Cerca de 30 segundos por áudio quando o arquivo está no Arquivos.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Importe o áudio",
+        "text": "Abra o app Aumentar Volume e adicione o arquivo do Arquivos, ou compartilhe direto do WhatsApp para Increase Volume."
+      },
+      {
+        "name": "Ative «Melhorar qualidade do áudio»",
+        "text": "A fala fica mais fácil de entender com a melhoria ativada; ela destaca a voz sobre o fundo."
+      },
+      {
+        "name": "Amplifique ×5–×10",
+        "text": "Arraste «Multiplicação do volume». Gravações baixas de celular costumam aguentar ×6–×10. Toque em «Amplificar volume para ×N»."
+      },
+      {
+        "name": "Ouça e salve",
+        "text": "Alterne entre Original e Processado, toque em «Baixar processado» e salve no Arquivos ou mande a cópia mais alta de volta no WhatsApp."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Dicas",
+    "items": [
+      "No trabalho ou no carro, às vezes é mais rápido pedir outro áudio; para mensagens importantes (endereços, números), amplificar é mais seguro.",
+      "Vento e barulho de carro também são amplificados. Teste ×4 antes de ×10 e preste atenção no chiado.",
+      "O arquivo amplificado pode ser enviado como áudio em qualquer app de conversa, inclusive Telegram ou Messenger."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Por que os áudios do WhatsApp estão tão baixos no iPhone?",
+      "answer": "Na maioria das vezes porque o sensor de proximidade troca para o alto-falante de chamadas quando o celular está perto do rosto. Afaste o aparelho e aumente o volume de mídia enquanto o áudio toca."
+    },
+    {
+      "question": "Dá para aumentar o volume de um áudio só no WhatsApp?",
+      "answer": "Não dentro do WhatsApp. Exporte o áudio por Encaminhar → Compartilhar, amplifique no app Aumentar Volume e use a cópia mais alta."
+    },
+    {
+      "question": "O áudio perde qualidade ao ser amplificado?",
+      "answer": "A voz fica mais alta sem novos artefatos, mas o ruído de fundo que já existe também sobe. Comece moderado e aumente comparando Original e Processado."
+    }
+  ],
+  "related": [
+    "aumentar-volume-do-gravador-iphone",
+    "aumentar-volume-de-mp3-no-iphone",
+    "podcast-audiolivro-baixo-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

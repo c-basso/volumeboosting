@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "gjøre lyden på video høyere iPhone",
+  "priority": 1,
+  "keywords": "gjøre lyden på video høyere iPhone, øke lyden på video, for lav lyd på video, app for å øke volumet på video, volumforsterker video",
+  "title": "Gjør lyden på en video høyere på iPhone (opptil 10×)",
+  "description": "Gjør en video med for lav lyd høyere på iPhone på under ett minutt: hva Bilder og iMovie kan, hvor de stopper, og hvordan du når 10× med Volumforsterker.",
+  "h1": "Slik gjør du lyden på en video høyere på iPhone",
+  "eyebrow": "Video",
+  "card_title": "Gjør video høyere",
+  "card_summary": "Bilder kan ikke øke volumet, og iMovie stopper rundt 500 %. Slik når du 10× med én glidebryter.",
+  "quick_answer": "For å gjøre lyden på en video høyere på iPhone åpner du videoen i Volumforsterker (Increase Volume, gratis i App Store), drar glidebryteren «Volummultiplikasjon» til ×10, trykker «Boost lydstyrken», sammenligner Original og Behandlet og trykker «Last ned behandlet». Den høyere kopien lagres i Bilder eller Filer og spilles høyt av på alle enheter og i alle apper. Bilder-appen kan ikke øke volumet, og iMovie stopper rundt 500 %.",
+  "intro": [
+    "Du filmer et øyeblikk, sender det til en venn og får svar: «Jeg hører ingenting.» En video med for lav lyd er et av de vanligste iPhone-problemene, fordi løsningen ikke ligger der folk leter. Volumknappene endrer bare hvor høyt telefonen spiller, og redigeringen i Bilder har ingen volumkontroll.",
+    "Denne guiden går gjennom de tre reelle mulighetene på iPhone, hva hver av dem kan og ikke kan, og deretter den raskeste metoden: gang lyden i videoen opptil 10× med Volumforsterker og lagre en varig høyere fil."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/2.webp",
+    "alt": "Skjermbildet «Make video louder»: en finger drar den rosa glidebryteren over en video i Volumforsterker",
+    "caption": "Glidebryteren ligger over videoforhåndsvisningen. Dra, lytt, lagre."
+  },
+  "sections": [
+    {
+      "heading": "Hvorfor volumet på telefonen ikke fikser videoen",
+      "paragraphs": [
+        "Volumknappene på iPhone endrer hvor høyt *din* høyttaler spiller. De endrer ikke lyden i selve videofilen. Deler du filen, spiller mottakerens telefon den av på det opprinnelige, lave nivået. For å løse det på ordentlig må nivået i lydsporet økes og en ny fil lagres. Det er nøyaktig det en volumforsterker for video gjør."
+      ]
+    },
+    {
+      "heading": "Alternativ 1: Bilder-appen (øker ikke volumet)",
+      "paragraphs": [
+        "Åpne videoen i Bilder og trykk Rediger. Du ser et høyttalersymbol som bare demper klippet, og på iPhone 16 eller nyere med video med romlig lyd også Lydmiks, som endrer balansen mellom stemmer og bakgrunnslyd. Ingen av dem øker det totale volumet. Er hele opptaket lavt, hjelper ikke Bilder."
+      ]
+    },
+    {
+      "heading": "Alternativ 2: iMovie (gratis, grense rundt 500 %)",
+      "paragraphs": [
+        "iMovie kan gjøre et klipp høyere: lag et filmprosjekt, legg til videoen, trykk på klippet, trykk på høyttalersymbolet og dra glidebryteren mot høyre. Det er to begrensninger. Glidebryteren stopper rundt 500 % (5×), som ofte ikke er nok for noe som er tatt opp fra andre siden av rommet. Og du må lage et prosjekt og eksportere hele videoen på nytt, noe som tar noen minutter for et langt klipp."
+      ],
+      "list": [
+        "Åpne iMovie → Start nytt prosjekt → Film og velg videoen.",
+        "Trykk på klippet i tidslinjen, trykk på høyttalersymbolet og dra volumglidebryteren mot høyre (maks rundt 500 %).",
+        "Trykk Ferdig → Del → Arkiver video og vent til eksporten er ferdig."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Alternativ 3: Volumforsterker (opptil 10×, én glidebryter, under ett minutt)",
+      "paragraphs": [
+        "Volumforsterker er laget nettopp for dette. Appen åpner hvilken som helst video fra Bilder eller Filer, viser én glidebryter «Volummultiplikasjon» opptil ×10 (1000 %), lar deg sammenligne Original og Behandlet før du lagrer, og lagrer resultatet via det vanlige delingsarket i iOS. Den åpner også rene lydfiler som MP3 og opptak fra Taleopptak, som iMovie ikke åpner.",
+        "Behandlingen skjer på iPhonen din. Ingenting lastes opp, du trenger ingen konto, og den eksporterte videoen har ikke vannmerke."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Steg for steg: gjør en video høyere med Volumforsterker",
+    "intro": "For et vanlig klipp tar det rundt ett minutt. Du trenger den gratis appen fra App Store og videoen i Bilder eller Filer.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Åpne videoen i appen",
+        "text": "Åpne appen og legg til videoen fra Bilder eller Filer. Raskere: åpne videoen i Bilder, trykk Del og velg Increase Volume; prosjektet opprettes med en gang."
+      },
+      {
+        "name": "Sjekk detaljene",
+        "text": "Appen viser filnavn, størrelse og varighet, så du vet at det er riktig klipp. Er det mest tale, slå på «Forbedre lydkvalitet»."
+      },
+      {
+        "name": "Velg forsterkningen",
+        "text": "Dra «Volummultiplikasjon». Start med ×3 til ×5 hvis videoen bare er litt lav; gå til ×10 hvis du knapt hører den. Trykk «Boost lydstyrken til ×N»."
+      },
+      {
+        "name": "Sammenlign Original og Behandlet",
+        "text": "Bruk bryteren under knappen for å bytte mellom originalen og den forsterkede versjonen. Høres de høye partiene skurrete ut, gå tilbake og senk multiplikasjonen ett hakk."
+      },
+      {
+        "name": "Last ned og del",
+        "text": "Trykk «Last ned behandlet». Velg Arkiver video i delingsarket for å legge den høyere kopien i Bilder, Arkiver i Filer, eller send den direkte via Meldinger, WhatsApp, AirDrop eller TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips for best resultat",
+    "items": [
+      "Forsterk *før* du legger ut på TikTok, Instagram eller YouTube. Plattformene jevner ut volumet ved opplasting, men redder ikke et spor som kommer inn for lavt.",
+      "Har klippet et høyt øyeblikk (latter, en dør som smeller) med lav tale rundt, bruk en moderat multiplikasjon (×3–×5) og slå på «Forbedre lydkvalitet» i stedet for å gå til ×10.",
+      "Originalen blir ikke rørt. Appen lager alltid en ny fil, så du kan prøve flere nivåer.",
+      "En video tatt opp med tildekket mikrofon (deksel, finger) høres lav *og* dempet ut; forsterkning fikser nivået, ikke den dempede klangen."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan jeg gjøre lyden på en video høyere på iPhone uten app?",
+      "answer": "Bare med iMovie, som Apple tilbyr gratis og som gjør et klipp opptil rundt 500 % høyere. Bilder kan ikke øke volumet. For mer enn 5× eller en raskere arbeidsflyt bruker du Volumforsterker."
+    },
+    {
+      "question": "Blir videokvaliteten dårligere når jeg øker lyden?",
+      "answer": "Bildet endres ikke i det hele tatt. Lyden multipliseres; presser du et opptak som allerede har høye topper for langt, kan det forvrenges og skurre. Derfor har appen bryteren Original/Behandlet, så du lytter før du lagrer."
+    },
+    {
+      "question": "Er videoen fortsatt høy når jeg sender den?",
+      "answer": "Ja. Forsterkningen ligger i filens lydspor, så den spilles av på det nye nivået på alle telefoner, datamaskiner og sosiale medier."
+    },
+    {
+      "question": "Fungerer det med nedlastede videoer?",
+      "answer": "Ja, så lenge filen ligger i Bilder eller Filer og ikke er kopibeskyttet. Appen åpner MP4- og MOV-filer fra hvilken som helst kilde."
+    }
+  ],
+  "related": [
+    "hoyere-uten-kvalitetstap",
+    "skjermopptak-lyd-for-lav-iphone",
+    "imovie-volum-over-500"
+  ],
+  "cta": {
+    "title": "Gjør videoen din høyere nå",
+    "text": "Volumforsterker er gratis i App Store. Del videoen med appen, dra til ×10 og trykk «Last ned behandlet»."
+  },
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

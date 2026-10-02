@@ -1,0 +1,122 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "TikTok video lav lyd",
+  "priority": 8,
+  "keywords": "tiktok video lav lyd, gør tiktok video højere, reels for lav lyd, gør lyd højere før upload, instagram reels lav lyd",
+  "title": "Lav lyd på TikTok-video? Gør den højere før du poster",
+  "description": "TikTok og Reels presser lav lyd endnu mere. Forstærk dit klip 2–5× på iPhone med Increase Volume, før du uploader, så din stemme høres på alle telefoner.",
+  "h1": "Sådan gør du lyden på en TikTok-video højere, før du poster",
+  "eyebrow": "TikTok og Reels",
+  "card_title": "Gør en TikTok eller Reel højere",
+  "card_summary": "Platformene udjævner ved upload, men kan ikke redde et lavt lydspor. Forstærk det 2–5× først.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Forstærk videoen, før du uploader den. Åbn klippet i Increase Volume på din iPhone, sæt „Lydstyrke-multiplikation“ til ×2–×5 (mere for meget lave optagelser), tryk på „Boost lydstyrke“, sammenlign Original og Behandlet, tryk derefter på „Download behandlet“, og upload den forstærkede fil til TikTok eller Instagram. TikToks egen lydstyrkeskyder er begrænset, og behandlingen ved upload kan ikke redde lyd, der kommer for lavt ind.",
+  "intro": [
+    "En TikTok eller Reel, som ingen kan høre, bliver scrollet forbi. Problemet starter som regel ved optagelsen: Telefonens mikrofon kræver, at du er inden for en armslængde, vind og trafik sluger stille tale, og skærmoptaget gameplay optages på et lavt niveau. Bagefter komprimerer platformen uploaden, og et spor, der allerede var lavt, ender tyndt og begravet under den tilføjede musik.",
+    "Den sikre løsning er at hæve niveauet i selve videofilen, før den når appen. Denne guide viser hvordan, og hvor meget forstærkning du skal bruge."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Delingsark i iOS i Increase Volume med Gem i Filer og muligheder for at dele den forstærkede video",
+    "caption": "Efter forstærkningen kan du dele direkte til TikTok eller gemme i Fotos og uploade derfra."
+  },
+  "sections": [
+    {
+      "heading": "Hvorfor det ikke er nok at skrue op inde i TikTok",
+      "paragraphs": [
+        "TikTok og Instagram har en lydstyrkeskyder til den originale lyd, men den er beregnet til at afbalancere mod tilføjet musik, ikke til at redde en lav optagelse. Begge platforme normaliserer også lydstyrken ved upload (TikTok sigter efter cirka −14 LUFS), hvilket udjævner den *gennemsnitlige* lydstyrke, men ikke kan løfte en hvisken til taleniveau uden også at hæve støjen. Er kilden lav, er det offentliggjorte resultat lavt."
+      ]
+    },
+    {
+      "heading": "Hvor meget forstærkning du skal bruge",
+      "paragraphs": [
+        "Til klip, hvor du taler til kameraet, og lyden bare er lidt svag, er ×2–×3 som regel rigtigt. Til klip optaget på afstand, i vind eller som skærmoptagelse ×4–×6. Spar ×8–×10 til optagelser, du næsten ikke kan høre. For meget forstærkning af et klip, der allerede har høje øjeblikke, får dem til at klippe, og platformens egen komprimering forstærker så skarpheden."
+      ],
+      "table": {
+        "head": [
+          "Dit klip",
+          "Foreslået multiplikation"
+        ],
+        "rows": [
+          [
+            "Taler til kameraet, telefon i hånden",
+            "×2 – ×3"
+          ],
+          [
+            "Optaget på tværs af et rum eller udendørs",
+            "×4 – ×6"
+          ],
+          [
+            "Skærmoptagelse af gameplay eller en tutorial",
+            "×5 – ×10"
+          ],
+          [
+            "Musikvideo, hvor musikken er fin, men stemmen lav",
+            "×2 med Forbedr lydkvalitet slået til"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Hvorfor en dedikeret forstærker slår CapCut eller iMovie her",
+      "paragraphs": [
+        "Redigeringsapps kan også hæve lydstyrken, men iMovie stopper ved cirka 500 %, og begge kræver et projekt, en tidslinje og en ny eksport. Increase Volume åbner klippet direkte fra Fotos, giver dig én skyder op til ×10, en Original/Behandlet-sammenligning og et delingsark, der går direkte til TikTok, Instagram eller tilbage til Fotos. Det er et trin på et minut, du kan lægge ind før din normale redigering."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Trin for trin: forstærk et klip til TikTok eller Reels",
+    "intro": "Gør det med det færdige klip, før du uploader.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Send klippet til Increase Volume",
+        "text": "Åbn videoen i Fotos, tryk på Del, og vælg Increase Volume. Projektet åbner med filens detaljer."
+      },
+      {
+        "name": "Slå Forbedr lydkvalitet til ved tale",
+        "text": "Er din stemme pointen med klippet, så slå kontakten til, før du forstærker."
+      },
+      {
+        "name": "Vælg multiplikationen",
+        "text": "Start ved ×3, tryk på „Boost lydstyrke“, og skift mellem Original og Behandlet ved den højeste del. Juster, til den er tydeligt høj uden skarphed."
+      },
+      {
+        "name": "Download behandlet",
+        "text": "Tryk på „Download behandlet“, derefter Gem video (så det forstærkede klip ligger ved siden af originalen i Fotos), eller del direkte til TikTok eller Instagram."
+      },
+      {
+        "name": "Upload, og tjek lydindstillingerne",
+        "text": "Upload det forstærkede klip i TikTok. Tilføjer du en lyd, så sænk den tilføjede musik i stedet for at hæve din stemme igen."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips til højere og renere klip",
+    "items": [
+      "Optag inden for 30 cm af telefonen, når du kan; afstand er årsag nummer ét til lav tale.",
+      "Post en privat test først: upload det forstærkede klip som privat, afspil det i telefonens højttaler, og juster efter behov.",
+      "Behold originalen. Increase Volume skriver altid en ny fil, så du kan forstærke igen på et andet niveau."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan jeg gøre en TikTok højere, efter jeg har postet den?",
+      "answer": "Nej. Efter upload er lyden behandlet og fastlåst. Find dit originale klip, forstærk det med Increase Volume, og upload det igen."
+    },
+    {
+      "question": "Virker det også til Instagram Reels og YouTube Shorts?",
+      "answer": "Ja. Forstærkningen er skrevet ind i videofilen, så den gælder overalt, hvor du uploader filen: Reels, Shorts, Snapchat og WhatsApp-status."
+    },
+    {
+      "question": "Bliver det forstærkede klip markeret eller dårligere?",
+      "answer": "Nej. Billedet er urørt, og lyden er et almindeligt, bare højere spor. Platformene genkoder alligevel alle uploads."
+    }
+  ],
+  "related": [
+    "goer-en-video-hoejere-paa-iphone",
+    "goer-lyden-hoejere-uden-at-miste-kvalitet",
+    "oeg-lyden-paa-en-video-direkte-fra-fotos"
+  ]
+}

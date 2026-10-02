@@ -1,0 +1,122 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "pojačati zvuk TikTok videa",
+  "priority": 8,
+  "keywords": "pojačati zvuk TikTok videa, TikTok video pretih, Reels pretih, pojačati glasnoću prije objave, Instagram Reels tih zvuk",
+  "title": "Kako pojačati zvuk TikTok ili Reels videa prije objave",
+  "description": "TikTok i Reels dodatno sažimaju tih zvuk. Pojačaj isječak ×2–×5 na iPhoneu uz Pojačaj Glasnoću Zvuka prije objave da se tvoj glas čuje na svakom telefonu.",
+  "h1": "Kako pojačati zvuk TikTok ili Reels videa prije objave",
+  "eyebrow": "TikTok i Reels",
+  "card_title": "Pojačaj TikTok ili Reel",
+  "card_summary": "Platforme normaliziraju pri prijenosu, ali ne spašavaju tihi zapis. Pojačaj ga ×2–×5 prije.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Pojačaj zvuk videa prije objave. Otvori isječak u aplikaciji Pojačaj Glasnoću Zvuka na iPhoneu, postavi „Množitelj glasnoće” na ×2–×5 (više ako je jako tih), dodirni „Pojačaj glasnoću”, usporedi Izvorno i Obrađeno, dodirni „Preuzmi obrađeno” i prenesi pojačanu datoteku na TikTok ili Instagram. Kontrola glasnoće u TikToku je ograničena, a obrada pri prijenosu ne spašava zvuk koji stigne pretih.",
+  "intro": [
+    "TikTok ili Reel koji se ne čuje — preskače se. Problem obično počinje pri snimanju: mikrofon telefona želi te na dužini ruke, vjetar i promet gutaju tih glas, a zvuk igre pri snimanju zaslona hvata se na niskoj razini. Zatim platforma sažme video i zapis koji je već bio tih završi plošan i zakopan ispod dodane glazbe.",
+    "Pouzdano rješenje je podići razinu same datoteke prije nego stigne u aplikaciju. Evo kako i koliko pojačati."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Snimka zaslona „Download and share anywhere”: iOS list za dijeljenje za pojačani video",
+    "caption": "Nakon pojačanja podijeli izravno na TikTok ili spremi u Fotografije i prenesi odande."
+  },
+  "sections": [
+    {
+      "heading": "Zašto pojačavanje u TikToku nije dovoljno",
+      "paragraphs": [
+        "TikTok i Instagram imaju kontrolu glasnoće za izvorni zvuk, ali ona služi za ravnotežu s dodanom glazbom, a ne za spašavanje tihe snimke. Obje platforme pri prijenosu i normaliziraju glasnoću (TikTok cilja oko −14 LUFS), što izjednačava *prosječnu* glasnoću, ali ne može šapat dovesti na razinu govora bez pojačavanja buke. Ako je izvor tih, i objava je tiha."
+      ]
+    },
+    {
+      "heading": "Koliko pojačanja koristiti",
+      "paragraphs": [
+        "Za isječke u kojima govoriš u kameru, a zvuk je samo malo tih, obično je dovoljno ×2–×3. Za isječke snimljene izdaleka, na vjetru ili sa zaslona, ×4–×6. ×8–×10 ostavi za snimke koje se jedva čuju. Prejako pojačanje isječka koji već ima glasne trenutke uzrokuje rezanje, a sažimanje platforme tu grubost još naglašava."
+      ],
+      "table": {
+        "head": [
+          "Tvoj isječak",
+          "Preporučeni množitelj"
+        ],
+        "rows": [
+          [
+            "Govor u kameru, telefon u ruci",
+            "×2 – ×3"
+          ],
+          [
+            "Snimljeno s drugog kraja prostorije ili vani",
+            "×4 – ×6"
+          ],
+          [
+            "Snimka zaslona igre ili vodiča",
+            "×5 – ×10"
+          ],
+          [
+            "Glazbeni isječak, glazba u redu, glas tih",
+            "×2 uz Poboljšaj kvalitetu zvuka"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Zašto namjenski pojačivač ovdje pobjeđuje CapCut ili iMovie",
+      "paragraphs": [
+        "I uređivači videa pojačavaju glasnoću, ali iMovie staje na 500 %, a oba traže projekt, vremensku crtu i novi izvoz. Pojačaj Glasnoću Zvuka otvara isječak izravno iz Fotografija, daje klizač do ×10, usporedbu Izvorno/Obrađeno i list za dijeljenje koji ide ravno na TikTok, Instagram ili natrag u Fotografije. To je korak od minute prije tvog uobičajenog uređivanja."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Korak po korak: pojačaj isječak za TikTok ili Reels",
+    "intro": "Napravi to na gotovom isječku, neposredno prije objave.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Pošalji isječak u aplikaciju",
+        "text": "U Fotografijama otvori video, dodirni Podijeli i odaberi Increase Volume. Projekt se otvara s podacima o datoteci."
+      },
+      {
+        "name": "Za govor, Poboljšaj kvalitetu zvuka",
+        "text": "Ako je tvoj glas bit isječka, uključi prekidač prije pojačanja."
+      },
+      {
+        "name": "Odaberi množitelj",
+        "text": "Kreni od ×3, dodirni „Pojačaj glasnoću” i prebacuj Izvorno/Obrađeno na najglasnijem dijelu. Prilagođavaj dok ne zvuči jasno glasno bez grubosti."
+      },
+      {
+        "name": "Preuzmi obrađeno",
+        "text": "Dodirni „Preuzmi obrađeno” pa Spremi video (pojačani isječak ide pokraj izvornika u Fotografijama) ili ga podijeli izravno na TikTok ili Instagram."
+      },
+      {
+        "name": "Objavi i provjeri zvuk",
+        "text": "Na TikToku prenesi pojačani isječak. Ako dodaješ zvuk, utišaj dodanu glazbu umjesto da ponovno pojačavaš glas."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Savjeti za glasnije i čišće isječke",
+    "items": [
+      "Snimaj na manje od 30 cm od telefona kad god možeš; udaljenost je uzrok broj jedan tihog glasa.",
+      "Prvo objavi privatni test: prenesi pojačani isječak kao privatan, poslušaj ga na zvučniku telefona i prilagodi.",
+      "Zadrži izvornik. Aplikacija uvijek stvara novu datoteku pa možeš ponovno pojačati na drugoj razini."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Mogu li pojačati TikTok koji je već objavljen?",
+      "answer": "Ne. Nakon prijenosa zvuk je obrađen i fiksan. Pronađi izvorni isječak, pojačaj ga uz Pojačaj Glasnoću Zvuka i ponovno objavi."
+    },
+    {
+      "question": "Radi li i za Instagram Reels i YouTube Shorts?",
+      "answer": "Da. Pojačanje je upisano u video datoteku, pa vrijedi svugdje gdje je preneseš: Reels, Shorts, Snapchat, WhatsApp status."
+    },
+    {
+      "question": "Gubi li pojačani isječak kvalitetu ili biva označen?",
+      "answer": "Ne. Slika se ne mijenja, a zvuk je običan zapis, samo glasniji. Platforme ionako ponovno kodiraju sve što preneseš."
+    }
+  ],
+  "related": [
+    "kako-pojacati-zvuk-videa-na-iphoneu",
+    "pojacati-glasnocu-bez-gubitka-kvalitete",
+    "pojacati-glasnocu-videa-iz-fotografija"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "augmenter le volume sans perte de qualité",
+  "priority": 10,
+  "keywords": "augmenter volume sans perte de qualité, augmenter le son sans distorsion, son qui sature quand on monte le volume, amplifier sans saturation, perte de qualité volume",
+  "title": "Augmenter le volume d'une vidéo sans perte de qualité",
+  "description": "Trop amplifier fait saturer le son. Comprenez l'amplification, la marge sûre et comment vérifier le résultat avec Original/Traité avant d'enregistrer.",
+  "h1": "Comment augmenter le volume d'une vidéo sans perte de qualité",
+  "eyebrow": "Qualité",
+  "card_title": "Augmenter le volume sans distorsion",
+  "card_summary": "Ce qu'est la saturation, la marge d'un enregistrement faible et comment vérifier avant d'enregistrer.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Augmenter le volume ne touche pas l'image et ne dégrade pas le son tant que les crêtes les plus fortes restent sous le plafond numérique. Sur iPhone, ouvrez la vidéo dans l'Amplificateur de Volume Audio, commencez à ×3, touchez « Amplifier le volume » et écoutez le passage le plus fort avec le sélecteur Original/Traité. Montez le multiplicateur jusqu'à un son nettement fort mais pas dur. Pour la voix, activez « Améliorer la qualité audio », puis enregistrez avec « Télécharger le fichier traité ». Le fichier d'origine n'est jamais modifié.",
+  "intro": [
+    "« Ça ne va pas distordre ? » est la première question que l'on pose sur un amplificateur de volume, et c'est la bonne. Augmenter le volume, c'est multiplier : chaque échantillon audio devient plus grand. Si les plus grands atteignent la valeur maximale permise par le format, ils sont écrêtés et vous entendez un craquement ou une dureté dans les passages forts. C'est la saturation (clipping), et c'est le seul vrai risque pour la qualité.",
+    "Bonne nouvelle : un enregistrement *faible* a, par définition, beaucoup de marge sous ce plafond. Ce guide explique comment l'exploiter et comment vérifier le résultat avant d'enregistrer."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/fr/5.webp",
+    "alt": "Capture de l'écran de résultat de l'Amplificateur de Volume Audio avec le bouton Télécharger le fichier traité et le sélecteur Original/Traité",
+    "caption": "Comparez toujours le passage le plus fort avec Original/Traité avant de télécharger."
+  },
+  "sections": [
+    {
+      "heading": "Ce qui change vraiment quand on augmente le volume",
+      "paragraphs": [
+        "Seule la piste audio est traitée. La vidéo passe sans modification : résolution, cadence d'images et couleurs restent identiques. Côté son, un multiplicateur ×2 double l'amplitude (environ +6 dB), ×4 donne environ +12 dB et ×10 donne +20 dB. Le bruit de l'enregistrement (ronflement de la pièce, vent) est multiplié de la même façon : une très forte amplification sur un enregistrement bruyant peut donc souffler même si rien ne sature."
+      ]
+    },
+    {
+      "heading": "Quelle amplification est sûre ?",
+      "paragraphs": [
+        "Cela dépend de la distance entre le passage le plus fort et le plafond, pas du niveau *moyen*. Un enregistrement très faible mais avec une porte qui claque au maximum ne supporte pas beaucoup d'amplification avant que la porte ne sature. Un enregistrement faible et régulier, comme un cours enregistré du dernier rang, supporte souvent ×8–×10 proprement."
+      ],
+      "table": {
+        "head": [
+          "Enregistrement",
+          "Plage sûre habituelle",
+          "Remarques"
+        ],
+        "rows": [
+          [
+            "Mémo vocal ou cours enregistré de loin",
+            "×5 – ×10",
+            "Activez Améliorer la qualité audio pour la voix."
+          ],
+          [
+            "Vidéo de téléphone juste un peu faible",
+            "×2 – ×4",
+            "Vérifiez le rire ou l'applaudissement le plus fort."
+          ],
+          [
+            "Enregistrement d'écran",
+            "×5 – ×10",
+            "Souvent très en dessous du niveau normal."
+          ],
+          [
+            "Musique avec couplets doux et refrain fort",
+            "×1,5 – ×3",
+            "Le refrain fixe la limite."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Utilisez la vérification Original/Traité",
+      "paragraphs": [
+        "L'Amplificateur de Volume Audio traite le fichier et affiche le sélecteur Original/Traité avant d'enregistrer quoi que ce soit. Trouvez le passage le plus fort et basculez entre les deux. Si Traité sonne dur ou craque à cet endroit, baissez le multiplicateur d'un cran et réamplifiez. Comme l'app crée un nouveau fichier, vous pouvez expérimenter librement ; l'original n'est pas touché."
+      ]
+    },
+    {
+      "heading": "Améliorer la qualité audio : quand l'activer",
+      "paragraphs": [
+        "L'option « Améliorer la qualité audio » ajoute un traitement axé sur l'intelligibilité, utile surtout pour la voix : interviews, cours, messages vocaux, tutoriels enregistrés à l'écran. Pour la musique, essayez les deux réglages et gardez le plus naturel. Dans la version actuelle, l'option est indiquée comme expérimentale : écoutez toujours le résultat."
+      ]
+    },
+    {
+      "id": "confidentialite",
+      "heading": "Confidentialité : tout reste sur votre téléphone",
+      "paragraphs": [
+        "L'Amplificateur de Volume Audio traite les fichiers sur l'iPhone. Rien n'est envoyé, aucun compte n'est nécessaire et le résultat est enregistré via la feuille de partage iOS habituelle dans Photos, Fichiers ou l'app de votre choix. Les amplificateurs en ligne obligent à envoyer le fichier sur un serveur et le réencodent souvent en moindre qualité ; une app locale évite les deux."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Étape par étape : une amplification propre",
+    "intro": "Même parcours pour la vidéo et l'audio.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Ouvrez le fichier dans l'app",
+        "text": "Ajoutez-le depuis Photos ou Fichiers, ou partagez-le vers l'app depuis n'importe où."
+      },
+      {
+        "name": "Décidez pour Améliorer la qualité audio",
+        "text": "Activé pour la voix ; pour la musique, essayez les deux."
+      },
+      {
+        "name": "Commencez modérément",
+        "text": "Réglez « Multiplication du volume » sur ×3 et touchez « Amplifier le volume »."
+      },
+      {
+        "name": "Vérifiez le passage le plus fort",
+        "text": "Basculez Original/Traité sur la partie la plus forte. Propre ? Montez le multiplicateur et recommencez. Dur ? Baissez-le."
+      },
+      {
+        "name": "Enregistrez",
+        "text": "Touchez « Télécharger le fichier traité » et enregistrez dans Photos ou Fichiers. L'original reste intact."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Conseils",
+    "items": [
+      "Vérifiez au casque ; le haut-parleur du téléphone masque une légère saturation.",
+      "Sur les fichiers bruyants, un multiplicateur un peu plus bas avec « Améliorer la qualité audio » sonne souvent mieux que le maximum.",
+      "Amplifiez une seule fois, depuis l'original. Réamplifier un export déjà amplifié cumule les défauts."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Augmenter le volume réduit-il la résolution de la vidéo ?",
+      "answer": "Non. Seul le son est traité. La vidéo conserve sa résolution, sa cadence d'images et son débit."
+    },
+    {
+      "question": "À quoi ressemble la distorsion due à un volume trop élevé ?",
+      "answer": "À un craquement, un bourdonnement ou une dureté uniquement dans les passages les plus forts, alors que les parties douces sonnent bien. Si vous l'entendez, baissez le multiplicateur."
+    },
+    {
+      "question": "×10, c'est trop ?",
+      "answer": "Pas pour des enregistrements vraiment faibles, comme des mémos vocaux lointains ou des enregistrements d'écran. Pour une vidéo de téléphone normale, ×2–×4 suffit souvent. Laissez la vérification Original/Traité décider."
+    }
+  ],
+  "related": [
+    "comment-augmenter-le-son-d-une-video-sur-iphone",
+    "augmenter-volume-memo-vocal-iphone",
+    "pourquoi-ma-video-iphone-a-un-son-faible"
+  ]
+}

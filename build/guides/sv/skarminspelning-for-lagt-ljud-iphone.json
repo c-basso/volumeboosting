@@ -1,0 +1,100 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "skärminspelning för lågt ljud iPhone",
+  "priority": 3,
+  "keywords": "skärminspelning för lågt ljud iPhone, skärminspelning utan ljud, göra skärminspelning högre, lågt ljud skärminspelning, höja ljudet i skärminspelning",
+  "title": "För lågt ljud i skärminspelning på iPhone? Så fixar du det",
+  "description": "Varför spelar iPhone in appljud så lågt? Inställningarna du ska kolla före nästa skärminspelning, och hur du gör en befintlig inspelning upp till 10× högre.",
+  "h1": "För lågt ljud i skärminspelning på iPhone: orsak och lösning",
+  "eyebrow": "Skärminspelning",
+  "card_title": "Skärminspelning för låg",
+  "card_summary": "iOS spelar in appljud lägre än du hör det. Fixa nästa inspelning och förstärk den du redan har ×5–×10.",
+  "quick_answer": "iOS spelar in ljud från appar på en reducerad nivå, och ännu lägre när volymen är låg eller Bluetooth-hörlurar är anslutna. Nästa gång: koppla från Bluetooth och höj volymen innan du trycker på Skärminspelning i Kontrollcenter. För en inspelning du redan har: dela videon från Bilder till Increase Volume, förstärk ×5–×10 och tryck på «Hämta bearbetad».",
+  "intro": [
+    "En skärminspelning av ett spel, en guide eller ett videosamtal ser perfekt ut, men ljudet hörs knappt vid uppspelning. Det är inte ditt fel: iOS spelar in systemljud lägre än det du hör medan du spelar in.",
+    "Här är vad som påverkar nivån, hur du får en bättre nästa inspelning och hur du räddar det du redan har spelat in."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Spårinformation i Volymförstärkare med reglaget «Förbättra ljudkvalitet», skjutreglaget «Volymmultiplikation ×10» och knappen «Boosta volymen till ×10»",
+    "caption": "Välj multiplikation för skärminspelningen och tryck på «Boosta volymen»."
+  },
+  "sections": [
+    {
+      "heading": "Varför skärminspelningar får lågt ljud",
+      "paragraphs": [
+        "Skärminspelning i iOS spelar in ljudet från appen internt. Nivån följer delvis systemvolymen, så en inspelning gjord på låg volym blir tyst. Med Bluetooth-hörlurar anslutna kan appljudet spelas in svagare eller inte alls, och många appar (streaming, samtal) blockerar eller tystar ljudet i skärminspelningar."
+      ]
+    },
+    {
+      "heading": "Så får du bättre ljud i nästa inspelning",
+      "paragraphs": [],
+      "list": [
+        "Koppla från Bluetooth-hörlurar innan du börjar.",
+        "Höj mediavolymen ordentligt innan du trycker på Skärminspelning.",
+        "Vill du spela in din röst också: tryck och håll på skärminspelningsknappen i Kontrollcenter och slå på Mikrofon.",
+        "Stäng av Fokus/Stör ej så att notiser inte avbryter ljudet."
+      ],
+      "ordered": false,
+      "note": "Knapparnas namn kan skilja sig något mellan iOS-versioner."
+    },
+    {
+      "heading": "Har du redan en tyst inspelning? Förstärk filen",
+      "paragraphs": [
+        "En färdig skärminspelning är en vanlig video i Bilder. Volymförstärkare kan öppna den, multiplicera ljudspåret upp till 10× och spara en ny kopia bredvid originalet. Bilden ändras inte."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Gör en skärminspelning högre med Volymförstärkare",
+    "intro": "Ungefär en minut för en kort inspelning.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Dela inspelningen till appen",
+        "text": "Öppna skärminspelningen i Bilder, tryck på Dela och välj Increase Volume."
+      },
+      {
+        "name": "Välj nivå",
+        "text": "Skärminspelningar behöver ofta ×5–×8. Är det tal (guide), slå på «Förbättra ljudkvalitet»."
+      },
+      {
+        "name": "Boosta och jämför",
+        "text": "Tryck på «Boosta volymen till ×N» och växla mellan Original och Bearbetad."
+      },
+      {
+        "name": "Spara",
+        "text": "Tryck på «Hämta bearbetad» → Spara video. Den högre kopian hamnar i Bilder."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Har inspelningen både spelljud och röst, förstärk måttligt (×3–×5) så att explosioner i spelet inte sprakar.",
+      "En skärminspelning helt utan ljudspår kan inte förstärkas; den måste spelas in igen med ljud.",
+      "Förstärk innan du klipper i iMovie eller CapCut; då arbetar du med en stark signal hela vägen."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Varför har min skärminspelning inget ljud?",
+      "answer": "Appen kan blockera ljudinspelning (streaming, samtal), eller så gick ljudet till Bluetooth-hörlurar. Kontrollera också att mikrofonen var påslagen om du ville spela in din röst."
+    },
+    {
+      "question": "Kan jag höja ljudet i en skärminspelning i efterhand?",
+      "answer": "Ja. Dela videon från Bilder till Volymförstärkare, förstärk ×5–×10 och spara den högre kopian."
+    },
+    {
+      "question": "Blir bilden sämre?",
+      "answer": "Nej. Bara ljudspåret ändras; bilden kopieras som den är."
+    }
+  ],
+  "related": [
+    "gor-ljudet-pa-en-video-hogre-iphone",
+    "varfor-ar-videon-sa-tyst",
+    "tiktok-video-hogre"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

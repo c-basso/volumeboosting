@@ -1,0 +1,127 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "podcast nebo audiokniha potichu",
+  "priority": 12,
+  "keywords": "podcast potichu iPhone, zesílit audioknihu, audiokniha je potichu, zesílit podcast, nahrávka přednášky potichu",
+  "title": "Jak zesílit podcast nebo audioknihu na iPhonu – návod",
+  "description": "Tichý podcast, kapitola audioknihy nebo nahrávka přednášky? U streamu použij zesílení hlasu v přehrávači, stažené soubory zesil až 10× v Increase Volume.",
+  "h1": "Jak zesílit podcast nebo audioknihu na iPhonu",
+  "eyebrow": "Podcasty a audioknihy",
+  "card_title": "Zesílit podcast nebo audioknihu",
+  "card_summary": "Nastavení přehrávače pro streamy; skutečné zesílení souboru pro díly a kapitoly stažené jako MP3 nebo M4A.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "U dílů, které streamuješ v podcastové aplikaci, použij její vlastní funkci hlasitosti (Overcast Voice Boost, Pocket Casts Volume Boost; Apple Podcasty žádnou nemají). U dílů, kapitol audioknih nebo přednášek, které máš jako soubory (MP3, M4A, MP4 v Souborech nebo na iCloud Drive), je otevři v Increase Volume, zapni „Vylepšit kvalitu zvuku“, zesil ×3–×10, porovnej Původní a Zpracované a klepnutím na „Stáhnout zpracované“ ulož hlasitější kopii, kterou přehraješ v jakékoli aplikaci.",
+  "intro": [
+    "Mluvené slovo má problém s hlasitostí: podcasty by měly být masterované kolem −16 LUFS, ale nezávislé pořady, nahrávky přednášek a starší audioknihy bývají mnohem tišší a jeden tichý host se ztratí vedle hlasitého moderátora. V MHD nebo v autě to znamená neustále sahat po hlasitosti.",
+    "Správné řešení záleží na tom, kde zvuk je: ve streamovací aplikaci, nebo jako soubor, který máš pod kontrolou."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Seznam projektů v Increase Volume na iPhonu s několika soubory MP3 a videi s velikostí a délkou",
+    "caption": "Zesil celou sérii dílů nebo kapitol; každý zůstane v seznamu projektů."
+  },
+  "sections": [
+    {
+      "heading": "Streamování v podcastové aplikaci",
+      "paragraphs": [
+        "Zvuk uvnitř streamovací aplikace upravit nemůžeš, ale několik přehrávačů umí hlasitost zpracovávat v reálném čase:"
+      ],
+      "list": [
+        "Overcast: Voice Boost normalizuje a komprimuje řeč; zapneš ho pro jednotlivý pořad nebo pro všechny.",
+        "Pocket Casts: Volume Boost a Trim Silence v efektech přehrávání.",
+        "Spotify: Normalizovat hlasitost v nastavení přehrávání.",
+        "Apple Podcasty: žádnou funkci hlasitosti nemají. Kontrola hlasitosti v Nastavení › Hudba platí jen pro hudbu, ne pro podcasty."
+      ],
+      "note": "Tyto funkce fungují jen při přehrávání v dané aplikaci. Soubor nemění, takže když díl přesuneš jinam, nic se nezlepší."
+    },
+    {
+      "heading": "Soubory, které máš stažené",
+      "paragraphs": [
+        "Řada podcastů nabízí na webu přímé stažení MP3, platformy s přednáškami exportují MP3 nebo MP4 a audioknihy bez DRM (třeba LibriVox, obchody prodávající MP3 ke stažení nebo vlastní ripy) přicházejí jako MP3 nebo M4B. Jakmile je soubor v Souborech nebo na iCloud Drive, Increase Volume ho otevře, zesílí až ×10 a uloží novou kopii. Přepínač „Vylepšit kvalitu zvuku“ je navržený pro řeč, takže tady se hodí nejvíc."
+      ],
+      "note": "Audioknihy z Audible, Apple Books nebo Kindle a stažené díly v Apple Podcastech či Spotify jsou chráněné proti kopírování a žádná jiná aplikace je neotevře."
+    },
+    {
+      "heading": "Jaký násobek zvolit u mluveného slova",
+      "table": {
+        "head": [
+          "Zdroj",
+          "Obvyklý násobek"
+        ],
+        "rows": [
+          [
+            "Profesionálně produkovaný podcast, jen trochu tichý",
+            "×1,5 – ×2"
+          ],
+          [
+            "Nezávislý pořad nebo rozhovor s tichým hostem",
+            "×3 – ×5"
+          ],
+          [
+            "Přednáška nebo porada nahraná z dálky",
+            "×6 – ×10"
+          ],
+          [
+            "Starý rip audioknihy",
+            "×2 – ×4"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Postup: jak zesílit díl nebo kapitolu",
+    "intro": "Pro soubory v Souborech, na iCloud Drive, v Dropboxu nebo přijaté mailem.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Přidej soubor",
+        "text": "Otevři Increase Volume a přidej díl ze Souborů, nebo v Souborech soubor podrž → Sdílet → Increase Volume."
+      },
+      {
+        "name": "Zapni Vylepšit kvalitu zvuku",
+        "text": "Jde o řeč; přepínač udrží souhlásky po zesílení čisté."
+      },
+      {
+        "name": "Nastav násobek",
+        "text": "Řiď se tabulkou výše a klepni na „Zesílit hlasitost“."
+      },
+      {
+        "name": "Porovnej",
+        "text": "Na nejhlasitější části (úvodní znělka, smích) přepni Původní/Zpracované."
+      },
+      {
+        "name": "Stáhni zpracované",
+        "text": "Ulož do Souborů. Zesílený soubor přehraješ v Souborech, v aplikaci Knihy (audioknihy) nebo v jakémkoli přehrávači, který otevře místní zvuk."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Všechny kapitoly audioknihy zesil stejným násobkem, aby hlasitost mezi kapitolami seděla.",
+      "U video přednášek (MP4) platí stejný postup; obraz zůstane netknutý.",
+      "Pokud má soubor hlasitou úvodní znělku a tichou řeč, zvol násobek podle řeči a se zapnutým „Vylepšit kvalitu zvuku“ přijmi lehce stlačenou znělku."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Jde zesílit Apple Podcasty?",
+      "answer": "Apple Podcasty nemají žádné nastavení hlasitosti ani zesílení hlasu. Buď přejdi na přehrávač, který ho má (Overcast, Pocket Casts), nebo si stáhni MP3 dílu z webu pořadu a zesil soubor v Increase Volume."
+    },
+    {
+      "question": "Můžu zesílit audioknihu z Audible?",
+      "answer": "Ne. Soubory z Audible jsou šifrované a jiné aplikace je neotevřou. Přehrávač Audible má v nastavení přehrávání omezené zesílení."
+    },
+    {
+      "question": "Zůstanou u zesíleného dílu kapitoly a obal?",
+      "answer": "Increase Volume zpracuje zvuk a vytvoří nový soubor. Základní metadata jako název se přenesou tam, kde to formát dovolí; značky kapitol se zachovat nemusí."
+    }
+  ],
+  "related": [
+    "jak-zesilit-mp3-na-iphonu",
+    "jak-zesilit-nahravku-z-diktafonu-na-iphonu",
+    "jak-zesilit-zvuk-videa-bez-ztraty-kvality"
+  ]
+}

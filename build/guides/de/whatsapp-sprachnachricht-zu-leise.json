@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "WhatsApp Sprachnachricht zu leise",
+  "priority": 3,
+  "keywords": "WhatsApp Sprachnachricht zu leise, Sprachnachricht lauter machen, WhatsApp Sprachnachricht leise am Ohr, Sprachnachricht iPhone leise, Telegram Sprachnachricht leise",
+  "title": "WhatsApp-Sprachnachricht zu leise? So machst du sie lauter",
+  "description": "WhatsApp-Sprachnachricht zu leise? Erst prüfen, ob sie über die Hörmuschel läuft, dann die Nachricht exportieren und mit Increase Volume bis 10× verstärken.",
+  "h1": "WhatsApp-Sprachnachricht auf dem iPhone lauter machen",
+  "eyebrow": "WhatsApp & Telegram",
+  "card_title": "Leise Sprachnachricht lauter machen",
+  "card_summary": "Zwei verschiedene Probleme: die Hörmuschel oder eine wirklich leise Aufnahme. So löst du beide.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Sind alle WhatsApp-Sprachnachrichten leise, spielt dein iPhone vermutlich über die Hörmuschel ab, weil der Näherungssensor verdeckt war; halte das Handy vom Gesicht weg und drück während der Wiedergabe Lauter. Ist eine bestimmte Nachricht leise, exportiere sie (gedrückt halten → Weiterleiten → Teilen → In Dateien sichern oder direkt an Increase Volume), verstärke sie in Increase Volume mit eingeschaltetem „Audioqualität verbessern“ auf ×5–×10 und sichere oder leite die lautere Kopie weiter.",
+  "intro": [
+    "Es gibt zwei völlig verschiedene Gründe, warum eine WhatsApp-Sprachnachricht schwer zu verstehen ist, und sie brauchen unterschiedliche Lösungen. Der erste: Dein iPhone wechselt unbemerkt auf die Hörmuschel. Der zweite: Der Absender hat weit weg vom Mikrofon oder in lauter Umgebung aufgenommen, und die Nachricht ist wirklich leise. Das Erste prüfst du in zehn Sekunden, das Zweite löst du in einer Minute.",
+    "Dieselben Schritte gelten für Telegram, Signal und Audionachrichten in iMessage."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/de/6.webp",
+    "alt": "iOS-Teilen-Menü in Increase Volume mit In Dateien sichern und Optionen zum Teilen einer verstärkten Sprachnachricht",
+    "caption": "Verstärkte Sprachnachrichten kannst du in Dateien sichern oder direkt zurück in den Chat schicken."
+  },
+  "sections": [
+    {
+      "heading": "Lösung 1: Sie läuft über die Hörmuschel",
+      "paragraphs": [
+        "WhatsApp schaltet die Wiedergabe auf die Hörmuschel (den kleinen Lautsprecher für Anrufe), wenn der Näherungssensor neben der Frontkamera verdeckt ist. Ein Finger, der Rand einer Hülle oder das Anheben zum Gesicht reicht, und die Nachricht klingt plötzlich wie ein Flüstern. Gib den Sensor frei, halte das Handy von dir weg und drück die Lauter-Taste, *während die Nachricht läuft*; iOS hat für die Hörmuschel eine eigene Lautstärke, die womöglich ganz unten ist.",
+        "Prüfe außerdem, dass Bluetooth den Ton nicht an Ohrhörer in der Tasche schickt und dass unter Einstellungen › Töne & Haptik › Kopfhörersicherheit die Option Laute Töne reduzieren die Kopfhörerlautstärke nicht begrenzt."
+      ]
+    },
+    {
+      "heading": "Lösung 2: Die Nachricht selbst ist leise",
+      "paragraphs": [
+        "Sind andere Nachrichten in Ordnung und nur diese nicht, ist die Aufnahme leise. WhatsApp hat keine Lautstärkeregelung für empfangene Sprachnachrichten, und die Lautstärketasten gehen nicht über 100 %. Du musst die Datei selbst lauter machen. WhatsApp lässt dich eine Sprachnachricht als Audiodatei exportieren, und Increase Volume verstärkt sie bis ×10 und gibt dir eine neue Kopie zum Behalten oder Weiterleiten."
+      ]
+    },
+    {
+      "heading": "Sprachnachricht aus WhatsApp, Telegram oder Nachrichten exportieren",
+      "list": [
+        "WhatsApp: Sprachnachricht gedrückt halten → Weiterleiten → Teilen-Symbol (unten links) → Increase Volume wählen oder In Dateien sichern.",
+        "Telegram: Sprachnachricht gedrückt halten → Weiterleiten oder Teilen → In Dateien sichern oder an Increase Volume teilen.",
+        "Audionachrichten in iMessage: gedrückt halten → Sichern (landet in Sprachmemos), dann aus Sprachmemos teilen.",
+        "Signal: gedrückt halten → Sichern → In Dateien sichern."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Schritt für Schritt: WhatsApp-Sprachnachricht verstärken",
+    "intro": "Etwa eine Minute mit der kostenlosen App Increase Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Sprachnachricht exportieren",
+        "text": "In WhatsApp die Nachricht gedrückt halten → Weiterleiten → Teilen-Symbol → Increase Volume. (Oder In Dateien sichern und in der App hinzufügen.)"
+      },
+      {
+        "name": "Audioqualität verbessern einschalten",
+        "text": "Sprachnachrichten sind Sprache; der Schalter hilft, dass die Worte nach der Verstärkung klar bleiben."
+      },
+      {
+        "name": "Verstärken",
+        "text": "Stell „Lautstärke-Multiplikation“ zum Start auf ×5, bei sehr leisen Nachrichten auf ×8–×10, und tippe auf „Lautstärke verstärken“."
+      },
+      {
+        "name": "Vergleichen",
+        "text": "Wechsle zwischen Original und Verarbeitet. Knistert das lauteste Wort, senke den Faktor."
+      },
+      {
+        "name": "Sichern oder weiterleiten",
+        "text": "Tippe auf „Verarbeitete Datei laden“. In Dateien sichern oder die lautere Kopie direkt zurück an WhatsApp teilen, damit die ganze Gruppe sie hört."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipps",
+    "items": [
+      "Bitte häufige Absender, das Handy näher zu halten; nichts schlägt eine Lösung an der Quelle.",
+      "Sicherst du oft Sprachnachrichten, sammle die verstärkten Kopien in einem Ordner in Dateien; WhatsApps eigener Medienordner ist nicht durchsuchbar.",
+      "Bei eigenen Sprachnachrichten funktioniert derselbe Trick: aufnehmen, an Increase Volume teilen, verstärken und die verstärkte Datei als Dokument oder Audio senden."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Warum sind Sprachnachrichten leise, wenn ich das Handy ans Ohr halte?",
+      "answer": "Das ist gewollt: Bei verdecktem Näherungssensor spielt WhatsApp aus Datenschutzgründen über die Hörmuschel ab. Dreh die Hörmuschel-Lautstärke während der Wiedergabe mit den Tasten hoch oder halte das Handy weg, um den Lautsprecher zu nutzen."
+    },
+    {
+      "question": "Kann ich eine Sprachnachricht direkt in WhatsApp lauter machen?",
+      "answer": "Nein. WhatsApp hat Wiedergabegeschwindigkeiten (1×, 1,5×, 2×), aber keine Lautstärkeverstärkung. Exportiere die Nachricht und verstärke sie mit Increase Volume."
+    },
+    {
+      "question": "Funktioniert das auch mit Telegram und Messenger?",
+      "answer": "Mit jeder App, die die Audiodatei teilen oder sichern kann. Verstärkte Dateien kannst du über dieselbe App zurückschicken."
+    }
+  ],
+  "related": [
+    "sprachmemo-lauter-machen-iphone",
+    "mp3-lauter-machen-iphone",
+    "warum-ist-mein-iphone-video-so-leise"
+  ]
+}

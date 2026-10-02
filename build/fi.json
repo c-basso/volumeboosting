@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "fi",
-    "title": "Äänen tehostus – iPhone | Ääni tai video ~10× kovemmaksi",
-    "description": "Tee äänitteestä tai videosta kovempi iPhonella: jopa ~10× selkeydellä ja bassolla. Musiikki, podcastit, äänimuistiot. Laitteella. Ilmainen kokeilu App Storessa.",
-    "keywords": "äänenvoimakkuus iPhone, kovempi video, hiljainen video, äänen tehostus, iPhone-sovellus, kovempi ääni, hiljainen näyttötallenne, äänen tehostus, Increase Volume",
+    "title": "Videon ääni kovemmaksi iPhonella – äänen tehostus jopa 10×",
+    "description": "Tee hiljaisesta videosta, MP3:sta tai Sanelin-äänitteestä jopa 10× kovempi iPhonella. Increase Volume tehostaa itse tiedoston ja tallentaa selkeän kopion.",
+    "keywords": "videon ääni kovemmaksi iPhone, äänen tehostus, äänenvoimakkuuden vahvistin, näytön tallennus ääni hiljainen, WhatsApp ääniviesti hiljainen, Sanelin äänite hiljainen, MP3 kovemmaksi, Increase Volume",
     "canonical": "https://volumeboosting.com/fi/",
-    "og_title": "Äänen tehostus – iPhone",
-    "og_description": "Ääni ja video iPhonella jopa ~10× kovemmaksi — Increase Volume – Äänen tehostus. Puhdas ääni, basso; hiljaiset klipit ja podcastit. Käsittely laitteella.",
+    "og_title": "Videon ääni kovemmaksi iPhonella – jopa 10× kovempi ääni",
+    "og_description": "Hiljainen video, MP3 tai Sanelin-äänite? Increase Volume tehostaa itse tiedoston jopa 10×, vertaat Alkuperäistä ja Käsiteltyä ja tallennat kovemman kopion.",
     "og_image": "https://volumeboosting.com/fi/site_preview.png",
     "og_image_alt": "Increase Volume – Äänen tehostus -sovelluksen kuvake",
     "og_url": "https://volumeboosting.com/fi/",
     "og_locale": "fi_FI",
     "twitter_url": "https://volumeboosting.com/fi/",
-    "twitter_title": "Äänen tehostus – iPhone",
-    "twitter_description": "Ääni ja video iPhonella jopa ~10× kovemmaksi — Increase Volume – Äänen tehostus. Puhdas ääni, basso; hiljaiset klipit ja podcastit. Käsittely laitteella.",
+    "twitter_title": "Videon ääni kovemmaksi iPhonella – jopa 10× kovempi ääni",
+    "twitter_description": "Hiljainen video, MP3 tai Sanelin-äänite? Increase Volume tehostaa itse tiedoston jopa 10×, vertaat Alkuperäistä ja Käsiteltyä ja tallennat kovemman kopion.",
     "twitter_image": "https://volumeboosting.com/fi/site_preview.png",
     "twitter_image_alt": "Increase Volume – Äänen tehostus -sovelluksen kuvake"
   },
@@ -188,44 +188,61 @@
     "breadcrumb_home": "Etusivu",
     "faq": [
       {
-        "question": "Mikä Increase Volume – Äänen tehostus on?",
-        "answer": "Se on iPhone-sovellus App Storen Musiikki-kategoriassa, joka tekee tuoduista ääni- ja videotiedostoista kovempia — jopa noin ~10× — ja antaa tallentaa uuden tiedoston. Se käsittelee mediaa laitteella; tarkoitettu hiljaisille tallenteille, podcasteille ja klippeille — ei iOS-laitteiston rajojen ohittamiseen koko järjestelmän äänelle."
+        "question": "Miten saan videon äänen kovemmaksi iPhonella?",
+        "answer": "Avaa Increase Volume, tuo video Kuvista (tai jaa se sovellukseen), vedä ”Äänenvoimakkuuden kertoja” ×10:een asti, napauta ”Tehosta äänenvoimakkuutta”, vertaa Alkuperäistä ja Käsiteltyä ja napauta ”Lataa käsitelty”. Kovempi kopio tallentuu Kuviin tai Tiedostoihin ja kuuluu kovaa kaikilla laitteilla.",
+        "guide": "nain-saat-videon-aanen-kovemmaksi-iphonella"
       },
       {
-        "question": "Miten Increase Volume – Äänen tehostus toimii?",
-        "answer": "Tuo video, kappale tai tallenne (myös Kuvat-sovelluksesta), säädä äänenvoimakkuutta tehostusliukusäätimellä sekä selkeyttä ja bassoa, kuuntele esikuuntelu reaaliajassa ja tallenna sitten tehostettu tiedosto iPhonelle tai jaa se."
+        "question": "Miksi näytön tallennuksen ääni on niin hiljainen?",
+        "answer": "iOS tallentaa sovellusten äänen varovaisella tasolla, ja Bluetooth-kuulokkeiden tai pienen sovellusäänenvoimakkuuden kanssa vielä hiljempaa. Valmista tallennetta ei korjata asetuksilla, mutta Increase Volume tehostaa sen äänen jopa ×10:llä ja tallentaa uuden tiedoston.",
+        "guide": "nayton-tallennuksen-aani-hiljainen-iphone"
       },
       {
-        "question": "Onko Increase Volume parempi kuin vain iPhonen äänen nostaminen?",
-        "answer": "Ne ratkaisevat eri ongelmia. Järjestelmän ääni tekee toistosta tilapäisesti kovemman. Tämä sovellus luo pysyvästi kovemman tiedoston — hyödyllistä, kun itse tallenne on hiljainen tai kun pitää jakaa tehostettu versio."
+        "question": "Miten saan WhatsApp-ääniviestin kovemmaksi?",
+        "answer": "Sulje ensin pois kuuloke: pidä puhelin kauempana kasvoista ja nosta äänenvoimakkuutta viestin soidessa. Jos itse viesti on hiljainen, vie se (paina pitkään → Välitä → Jaa), tehosta ×5–×10 Increase Volumessa ja tallenna tai välitä kovempi kopio.",
+        "guide": "whatsapp-aaniviesti-hiljainen"
       },
       {
-        "question": "Miten Increase Volume eroaa VLC:stä tai Audacitystä äänenvoimakkuudessa?",
-        "answer": "VLC ja Audacity ovat tehokkaita työpöytätyökaluja, jotka voivat normalisoida tai vahvistää ääntä monilla säädöillä. Increase Volume on rakennettu iPhonelle: lyhyt tuonti → liukusäädin → tallennus ilman työpöytäaikajanaa."
+        "question": "Voiko Sanelin-äänitteen koventaa jälkikäteen?",
+        "answer": "Kyllä. Jaa äänite Sanelimesta Increase Volumeen (tai tallenna se ensin Tiedostoihin), tehosta jopa ×10:llä ja tallenna käsitelty tiedosto. Sanelimen Paranna tallennetta vain vähentää kohinaa toistossa; se ei tee kovempaa tiedostoa.",
+        "guide": "sanelin-aanite-kovemmaksi-iphonella"
       },
       {
-        "question": "Toimiiko Increase Volume sekä videolle että äänelle?",
-        "answer": "Kyllä. Voit tehostaa videota ääniraidalla, musiikkia, podcasteja, äänimuistioita ja näyttötallenteita ja tallentaa tuloksen."
+        "question": "Toimiiko Increase Volume myös MP3:lle ja muille äänitiedostoille, ei vain videolle?",
+        "answer": "Kyllä. Se tehostaa MP3-, M4A- ja WAV-tiedostoja sekä muita yleisiä äänimuotoja ja MP4- ja MOV-videoita. Useimmat iPhonen tehostimet osaavat vain videon; tämä on App Storessa Audio & Music Booster ja näyttää nimen, koon ja keston ennen tehostusta.",
+        "guide": "mp3-tiedosto-kovemmaksi-iphonella"
       },
       {
-        "question": "Tallennetaanko tehostettu tiedosto iPhonelleni?",
-        "answer": "Kyllä. Käsittelyn jälkeen tallennat kovemman tiedoston takaisin laitteelle ja voit jakaa sen kuten minkä tahansa mediatiedoston."
+        "question": "Voinko koventaa videon suoraan Kuvat-apista?",
+        "answer": "Kyllä. Avaa video Kuvissa, napauta Jaa ja valitse Increase Volume; projekti luodaan heti. Tehosta ja tallenna kovempi kopio takaisin Kuviin ”Lataa käsitelty” -painikkeella. Kuvat itse ei nosta äänenvoimakkuutta.",
+        "guide": "video-kovemmaksi-kuvat-apista"
       },
       {
-        "question": "Paljonko Increase Volume – Äänen tehostus maksaa?",
-        "answer": "App Store -listaus näyttää ajantasaisen hinnan ja mahdolliset sovelluksen sisäiset ostot. Sivuston strukturoidut tiedot voivat viitata ilmaiseen tarjoukseen; vahvista hinnat aina Applen sivulla ennen siteerausta."
+        "question": "Säröytyykö tehostettu video?",
+        "answer": "Vain jos tehostat liikaa tallennetta, joka on jo lähellä kattoa. Aloita ×3–×5:stä, kuuntele Alkuperäinen/Käsitelty-kytkimellä ennen tallennusta ja laita puheelle ”Paranna äänenlaatua” päälle. Hiljaiset tallenteet kestävät yleensä ×5–×10 puhtaasti.",
+        "guide": "aani-kovemmaksi-ilman-laadun-heikkenemista"
       },
       {
-        "question": "Kuka julkaisee Increase Volume – Äänen tehostusin?",
-        "answer": "Sovelluksen julkaisee c-basso ja Apple App Store jakaa sen (App Store -tunnus 6741472421). Tuotesivusto on volumeboosting.com."
+        "question": "Kuinka paljon kovemmaksi kuin iMoviessa pääsee?",
+        "answer": "iMovie iPhonella nostaa leikkeen äänenvoimakkuuden noin 500 %:iin. Increase Volume yltää ×10:een (1000 %), ei tarvitse projektia ja avaa myös pelkät äänitiedostot, joita iMovie ei avaa.",
+        "guide": "imovie-aanenvoimakkuus-yli-500-prosenttia"
       },
       {
-        "question": "Miten teen liian hiljaisesta videosta kovemman iPhonella?",
-        "answer": "Increase Volume – Äänen tehostusissa tuo video (esim. Kuvat-sovelluksesta), säädä tehostusliukusäädintä reaaliaikaisella esikuuntelulla ja tallenna kopio kovemmalla ääniraidalla. Korjaat tasoa tiedostossa — toisin kuin vain nostamalla järjestelmän ääntä toiston aikana."
+        "question": "Koventaako Increase Volume iPhoneni kaiutinta?",
+        "answer": "Ei. Se koventaa tiedoston sisällä olevaa ääntä ja tallentaa uuden kopion. Jos tallenne on hiljainen täysillä järjestelmääänilläkin, tämä on ratkaisu; kaiuttimen laitteistoraja ja koko järjestelmän äänenvoimakkuus (Spotify, puhelut) eivät muutu.",
+        "guide": "miksi-iphonen-video-on-niin-hiljainen#toisto"
       },
       {
-        "question": "Nostaako sovellus iPhonen enimmäisäänenvoimakkuutta musiikille ja puheluille?",
-        "answer": "Ei. Se käsittelee tuomasi tiedostot ja antaa kovemman version tallennukseen tai jakamiseen. Laitteiston raja ja globaali äänenvoimakkuus Spotifylle, puheluille jne. eivät muutu."
+        "question": "Paljonko Increase Volume maksaa?",
+        "answer": "Lataus on ilmainen ja sisältää ilmaisen kokeilujakson. Rajaton tehostus avautuu tilauksella tai kertaostolla; ajantasaiset hinnat euroina näet App Storesta. Käsittely tapahtuu aina iPhonessasi.",
+        "guide": "",
+        "learn_more_url": "__APP_STORE_URL__",
+        "learn_more_title": "Increase Volume Sound: ilmainen lataus ja ajantasaiset hinnat App Storessa"
+      },
+      {
+        "question": "Ladataanko ääntäni minnekään?",
+        "answer": "Ei. Tehostus lasketaan iPhonessa ja tulos tallennetaan paikallisesti iOS:n tavallisen jakoarkin kautta. Tiliä tai palvelinkäsittelyä ei ole.",
+        "guide": "aani-kovemmaksi-ilman-laadun-heikkenemista#tietosuoja"
       }
     ],
     "structured_data": {
@@ -376,5 +393,35 @@
     "title": "Hiljainen tiedostosi 10× kovemmaksi alle minuutissa.",
     "text": "Lataa Increase Volume – Äänen tehostus, tuo video tai ääni, jota kukaan ei kuule, vedä liukusäädintä ja jaa kovempi versio.",
     "note": "Ilmainen lataus · Vaatii iOS 18.6:n tai uudemman · 4,5★ App Storessa"
+  },
+  "guides": {
+    "eyebrow": "Oppaat",
+    "title": "Näin korjaat hiljaisen äänen iPhonessa tapaus kerrallaan",
+    "intro": "Jokainen opas vastaa yhteen kysymykseen, jota ihmiset oikeasti etsivät, kertoo rehellisesti, mihin iOS:n omat työkalut pystyvät ja mihin eivät, ja näyttää sitten tarkat vaiheet Increase Volumessa.",
+    "hub_link_text": "Kaikki oppaat",
+    "read_more": "Lue opas",
+    "hub": {
+      "title": "Oppaat: video ja ääni kovemmaksi iPhonella – vaihe vaiheelta",
+      "description": "Vaihe vaiheelta -oppaat videoiden, Sanelin-äänitteiden, MP3:ien, näyttötallenteiden ja ääniviestien koventamiseen iPhonella iOS:n ja Increase Volumen avulla.",
+      "h1": "Oppaat: hiljainen video ja ääni kovemmaksi iPhonella",
+      "intro": "Jokainen opas alkaa suoralla vastauksella, käy rehellisesti läpi ilmaiset sisäänrakennetut vaihtoehdot (Kuvat, iMovie, Sanelin) ja näyttää, miten saat Increase Volumella jopa 10× enemmän äänenvoimakkuutta.",
+      "keywords": "oppaat äänen tehostus iPhone, video kovemmaksi, MP3 kovemmaksi, näytön tallennus hiljainen, Sanelin hiljainen"
+    },
+    "labels": {
+      "home": "Etusivu",
+      "guides": "Oppaat",
+      "breadcrumb_aria": "Murupolku",
+      "updated": "Päivitetty",
+      "reading_time": "Lukuaika 3–4 min",
+      "quick_answer": "Lyhyt vastaus",
+      "faq_heading": "Muut kysyvät myös",
+      "related": "Aiheeseen liittyvät oppaat",
+      "all_guides": "Kaikki oppaat",
+      "disclaimer": "Increase Volume koventaa tiedoston sisällä olevaa ääntä ja tallentaa uuden kopion. Se ei voi nostaa iPhonen kaiuttimen laitteistorajaa eikä muuttaa koko järjestelmän äänenvoimakkuutta."
+    },
+    "default_cta": {
+      "title": "Tee se Increase Volumella",
+      "text": "Ilmainen App Storessa. Tuo tiedosto, vedä liukusäädin ×10:een ja napauta ”Lataa käsitelty”."
+    }
   }
 }

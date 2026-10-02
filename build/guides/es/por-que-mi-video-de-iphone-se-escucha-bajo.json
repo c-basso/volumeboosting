@@ -1,0 +1,115 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "por qué mi vídeo se escucha bajo",
+  "priority": 7,
+  "keywords": "por qué mi vídeo se escucha bajo, vídeo iPhone sonido bajo, vídeo grabado se oye bajo, micrófono iPhone bajo, vídeo iPhone poco volumen",
+  "title": "¿Por qué mi vídeo de iPhone se escucha bajo? 7 causas",
+  "description": "El sonido bajo en vídeos de iPhone suele venir de la distancia, un micrófono tapado, viento, Bluetooth o el límite de auriculares. Halla la causa y súbelo 10×.",
+  "h1": "¿Por qué mi vídeo de iPhone se escucha bajo? Causas y solución",
+  "eyebrow": "Solución de problemas",
+  "card_title": "¿Por qué mi vídeo se escucha bajo?",
+  "card_summary": "Siete causas, del micrófono tapado al límite de auriculares, y cómo rescatar el vídeo que ya grabaste.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Un vídeo de iPhone se oye bajo porque se *grabó* bajo (quien habla estaba lejos del micrófono, el micrófono estaba tapado por la funda o un dedo, había viento, la app estaba baja durante una grabación de pantalla) o porque se *reproduce* bajo (un dispositivo Bluetooth conectado, Reducir sonidos fuertes activado, el altavoz sucio). Comprueba primero la reproducción con otro vídeo. Si la grabación en sí está baja, ningún ajuste la arregla; súbela hasta 10× con Aumentar Volumen y guarda una copia más alta.",
+  "intro": [
+    "Primero averigua qué tipo de «bajo» tienes. Reproduce otro vídeo que sepas que está bien. Si suena fuerte, tu móvil está bien y el problema está en la grabación. Si todo suena bajo, es un problema de reproducción del teléfono. Las causas y las soluciones son totalmente distintas, así que esta prueba de treinta segundos ahorra mucho tiempo.",
+    "Abajo están las siete causas que más vemos, ordenadas por lo a menudo que resultan ser las culpables."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/es/1.webp",
+    "alt": "Captura promocional «Aumentar volumen hasta 1000 %, ×10 más alto» de Aumentar Volumen para iPhone",
+    "caption": "Si la grabación en sí está baja, la solución es potenciar el archivo."
+  },
+  "sections": [
+    {
+      "heading": "Causas al grabar (el vídeo se oye bajo en todas partes)",
+      "paragraphs": [
+        "Estas van dentro del archivo. Explican por qué el vídeo suena bajo en cualquier móvil al que lo envíes."
+      ],
+      "list": [
+        "Distancia: los micrófonos del móvil están pensados para alguien a un metro más o menos. Una persona al otro lado de la sala suena floja y con eco.",
+        "Micrófono tapado: el micrófono principal de vídeo está junto a las cámaras traseras; una funda gruesa, un dedo o un soporte pueden taparlo. La grabación sale baja y apagada.",
+        "Viento y ruido de fondo: con ruido alrededor, el iPhone baja la sensibilidad y la persona que habla suena más baja.",
+        "Nivel de la grabación de pantalla: iOS captura el audio de las apps reducido, y aún más si la app estaba baja o había auriculares Bluetooth conectados.",
+        "Clips recibidos: un vídeo enviado por WhatsApp o Messenger se recodifica y a veces llega más bajo que el original."
+      ]
+    },
+    {
+      "id": "reproduccion",
+      "heading": "Causas al reproducir (todos los vídeos se oyen bajo en este móvil)",
+      "paragraphs": [
+        "Estas hacen que tu móvil suene bajo; el archivo está bien y sonará normal en otro sitio."
+      ],
+      "list": [
+        "Bluetooth aún conectado: el sonido va a unos AirPods en un cajón o al coche. Abre el Centro de control y revisa la salida de audio.",
+        "Reducir sonidos fuertes: Ajustes › Sonidos y vibraciones › Seguridad de los auriculares limita el volumen de los auriculares. Es buena protección, pero hace que los vídeos bajos suenen todavía más bajo con auriculares.",
+        "Funciones de atención (iPhone con Face ID): Ajustes › Face ID y código baja el volumen de los avisos cuando miras la pantalla; a algunas personas también les parecen más bajos los vídeos.",
+        "Rejilla del altavoz sucia o restos de agua: un cepillo suave y seco recupera sorprendentemente mucho volumen.",
+        "Balance: Ajustes › Accesibilidad › Audio y elementos visuales › Balance debe estar centrado."
+      ]
+    },
+    {
+      "heading": "La solución para un vídeo grabado bajo",
+      "paragraphs": [
+        "No puedes repetir el momento y los ajustes del iPhone no cambian un archivo guardado. Fotos no tiene control de volumen; iMovie sube el volumen del clip hasta un 500 % aproximadamente después de crear un proyecto. Aumentar Volumen abre el vídeo directamente desde Fotos, multiplica el audio hasta ×10, te deja comparar Original y Procesado y guarda una copia nueva. La copia más alta suena fuerte en cualquier dispositivo y app.",
+        "Si la causa fue un micrófono tapado, el aumento corrige el nivel pero no el sonido apagado; activa «Mejorar calidad de audio» para ayudar a la voz."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Paso a paso: rescatar un vídeo que se oye bajo",
+    "intro": "Un minuto con la app gratuita Aumentar Volumen.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Confirma que es la grabación",
+        "text": "Reproduce otro vídeo. Si suena fuerte, sigue; si no, resuelve antes las causas de reproducción de arriba."
+      },
+      {
+        "name": "Comparte el vídeo con la app",
+        "text": "Ábrelo en Fotos, toca Compartir y elige Increase Volume."
+      },
+      {
+        "name": "Potencia",
+        "text": "Pon «Multiplicación del volumen» en ×4 para empezar (más para clips muy bajos), activa «Mejorar calidad de audio» si es voz y toca «Potenciar volumen»."
+      },
+      {
+        "name": "Compara",
+        "text": "Alterna Original/Procesado en el momento más fuerte y ajusta el multiplicador si hace falta."
+      },
+      {
+        "name": "Guarda",
+        "text": "Toca «Descargar procesado» → Guardar vídeo. Comparte la copia nueva en lugar del original."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Graba más alto la próxima vez",
+    "items": [
+      "Acércate a un brazo de distancia de quien habla o usa un micrófono de solapa con o sin cable.",
+      "Quita la funda o comprueba que nada tapa los micrófonos traseros.",
+      "Para grabaciones de pantalla, desconecta el Bluetooth y sube el volumen multimedia al máximo antes de empezar.",
+      "Protege el móvil del viento con el cuerpo o con la mano."
+    ]
+  },
+  "faq": [
+    {
+      "question": "¿Por qué mi vídeo solo se oye bajo cuando lo envío?",
+      "answer": "Las apps de mensajería recodifican el vídeo y pueden bajar un poco el nivel, pero el efecto mayor es que el móvil de quien lo recibe lo reproduce a su nivel bajo original y no con tu altavoz al máximo. Potencia el archivo antes de enviarlo."
+    },
+    {
+      "question": "¿Una app para subir el volumen puede hacer más alto el altavoz del iPhone?",
+      "answer": "Ninguna app supera el límite físico del altavoz ni cambia el volumen de todo el sistema; Apple no lo permite. Los amplificadores suben el archivo, que es justo lo que necesitas cuando la grabación está baja."
+    },
+    {
+      "question": "¿El interruptor de silencio afecta al volumen del vídeo?",
+      "answer": "No. El interruptor de tono/silencio (o el botón de Acción) solo silencia tonos y avisos. El volumen multimedia lo controlan los botones de volumen mientras suena el vídeo."
+    }
+  ],
+  "related": [
+    "como-subir-el-volumen-de-un-video-en-iphone",
+    "grabacion-de-pantalla-se-escucha-bajo-iphone",
+    "subir-volumen-sin-perder-calidad"
+  ]
+}

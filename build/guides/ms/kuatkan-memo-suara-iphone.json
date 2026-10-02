@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "kuatkan rakaman Memo Suara",
+  "priority": 4,
+  "keywords": "kuatkan memo suara iPhone, rakaman suara perlahan, memo suara perlahan, tingkatkan rakaman memo suara, cara kuatkan rakaman suara",
+  "title": "Cara Kuatkan Rakaman Memo Suara yang Perlahan di iPhone",
+  "description": "«Tingkatkan Rakaman» dalam Memo Suara mengurangkan hingar tetapi tidak menguatkan fail. Begini cara menguatkan rakaman perlahan hingga 10× dan menyimpannya.",
+  "h1": "Cara kuatkan rakaman Memo Suara di iPhone",
+  "eyebrow": "Memo Suara",
+  "card_title": "Kuatkan rakaman Memo Suara",
+  "card_summary": "«Tingkatkan Rakaman» hanya mengubah main balik. Eksport rakaman dan kuatkan fail itu sendiri, hingga 10×.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Untuk menguatkan rakaman Memo Suara di iPhone, kongsi dari Memo Suara ke Penguat Volume Bunyi (ketik rakaman → ⋯ → Kongsi → Increase Volume), hidupkan «Tingkatkan Kualiti Audio», tetapkan «Pengganda kelantangan» ke ×5–×10, ketik «Boost kelantangan», bandingkan Asal dan Diproses, kemudian ketik «Muat turun yang diproses» untuk menyimpan M4A yang lebih kuat. Pilihan «Tingkatkan Rakaman» dalam Memo Suara mengurangkan hingar semasa dimainkan, tetapi tidak mengubah fail dan tidak menjadikannya lebih kuat apabila dikongsi.",
+  "intro": [
+    "Rakaman dari hujung meja mesyuarat, kuliah dari barisan paling belakang, atau temu bual dengan orang yang bercakap perlahan: perkataannya ada, tetapi walaupun pada kelantangan penuh anda perlu memasang telinga. Memo Suara ada beberapa pilihan main balik, dan ramai menyangka salah satunya menguatkan rakaman. Sebenarnya tiada.",
+    "Panduan ini menerangkan apa yang boleh dilakukan Memo Suara dan cara menukar rakaman perlahan kepada fail kuat yang mudah dikongsi dalam seminit."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Tangkapan skrin Penguat Volume Bunyi dengan butiran rakaman, togol Tingkatkan Kualiti Audio dan peluncur pengganda ×10",
+    "caption": "Untuk suara bercakap, hidupkan «Tingkatkan Kualiti Audio» sebelum menguatkan."
+  },
+  "sections": [
+    {
+      "heading": "Apa yang dilakukan Memo Suara (dan yang tidak)",
+      "paragraphs": [
+        "Buka rakaman, ketik ikon pilihan (peluncur) dan anda akan nampak:"
+      ],
+      "list": [
+        "Tingkatkan Rakaman: mengurangkan hingar latar dan gema. Berguna, tetapi ini tetapan *main balik*; menurut Apple, rakaman itu sendiri tidak berubah.",
+        "Langkau Senyap dan kelajuan main balik: praktikal, tetapi tidak menjejaskan kelantangan.",
+        "Suara Studio (model yang disokong): mengurangkan gema bilik, juga hanya semasa dimainkan.",
+        "Pangkas / Ganti: mengubah tempoh atau kandungan, bukan tahap."
+      ],
+      "note": "Tiada apa-apa dalam Memo Suara yang menaikkan tahap fail yang disimpan. Apabila rakaman dikongsi, penerima mendengarnya pada kelantangan asal."
+    },
+    {
+      "heading": "Kenapa rakaman perlahan",
+      "paragraphs": [
+        "iPhone melaraskan kepekaan secara automatik semasa merakam, tetapi tidak dapat mengimbangi penutur yang berada beberapa meter jauhnya atau telefon tertiarap dengan mikrofon tertutup. Hasilnya rakaman yang puncaknya jauh di bawah had digital. Jarak itulah ruang yang digunakan oleh penguat: rakaman perlahan biasanya tahan ×5–×10 tanpa terpotong."
+      ]
+    },
+    {
+      "heading": "Kuatkan fail dengan Penguat Volume Bunyi",
+      "paragraphs": [
+        "Penguat Volume Bunyi membuka fail M4A yang dieksport oleh Memo Suara, memaparkan tempoh dan saiznya, dan menggandakan kelantangan hingga ×10. Pilihan «Tingkatkan Kualiti Audio» memberi tumpuan kepada kejelasan suara bercakap, tepat seperti yang diperlukan rakaman suara. Anda dengar hasilnya dengan Asal/Diproses sebelum menyimpan, dan fail yang lebih kuat disimpan sebagai salinan baharu ke Fail, Mesej, Mail atau mana-mana aplikasi."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: kuatkan rakaman Memo Suara",
+    "intro": "Berfungsi untuk mana-mana rakaman yang sudah ada dalam Memo Suara.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Kongsi rakaman ke aplikasi",
+        "text": "Dalam Memo Suara, ketik rakaman, ketik ⋯, pilih Kongsi dan pilih Increase Volume dalam baris aplikasi. (Anda juga boleh Simpan ke Fail dahulu dan menambahnya dari aplikasi.)"
+      },
+      {
+        "name": "Hidupkan Tingkatkan Kualiti Audio",
+        "text": "Hidupkan supaya penguatan mengutamakan suara bercakap."
+      },
+      {
+        "name": "Pilih pengganda",
+        "text": "Tetapkan «Pengganda kelantangan» ke ×5 sebagai permulaan; rakaman dari jauh selalunya perlukan ×8–×10. Ketik «Boost kelantangan»."
+      },
+      {
+        "name": "Bandingkan",
+        "text": "Beralih antara Asal/Diproses pada titik paling kuat rakaman (gelak, cawan diletakkan). Jika pecah, turunkan pengganda."
+      },
+      {
+        "name": "Muat turun yang diproses",
+        "text": "Ketik «Muat turun yang diproses» dan pilih Simpan ke Fail, atau hantar rakaman lebih kuat terus ke Mesej, Mail, WhatsApp atau Nota."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tip",
+    "items": [
+      "Rakam dengan telefon terlentang, hujung mikrofon menghala ke penutur dan sedekat yang sopan. Ini lebih berkesan daripada mana-mana tetapan.",
+      "Jika rakaman akan ditranskripsi, kuatkan dahulu; pengecaman suara kurang tersilap pada fail yang lebih kuat dan jelas.",
+      "Simpan rakaman asal dalam Memo Suara. Salinan yang dikuatkan ialah fail berasingan."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Adakah «Tingkatkan Rakaman» menguatkan Memo Suara?",
+      "answer": "Tidak. Ia mengurangkan hingar latar dan gema semasa dimainkan. Apple menyatakan tetapan main balik ini tidak mengubah rakaman, jadi rakaman yang dikongsi kekal sama."
+    },
+    {
+      "question": "Dalam format apa rakaman yang dikuatkan disimpan?",
+      "answer": "Dalam format audio yang sama seperti yang anda kongsi (Memo Suara mengeksport M4A). Aplikasi mencipta fail baharu; rakaman asal tidak diubah."
+    },
+    {
+      "question": "Bolehkah kuatkan rakaman yang dihantar kepada saya?",
+      "answer": "Boleh. Simpan audio dari Mesej, Mail atau WhatsApp ke Fail (atau kongsi terus ke aplikasi) dan kuatkan dengan cara yang sama."
+    }
+  ],
+  "related": [
+    "voice-note-whatsapp-perlahan",
+    "kuatkan-mp3-iphone",
+    "kuatkan-suara-tanpa-hilang-kualiti"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "höja volymen utan kvalitetsförlust",
+  "priority": 10,
+  "keywords": "höja volymen utan kvalitetsförlust, högre ljud utan förvrängning, förstärka video utan sprak, ljudet sprakar efter förstärkning, ren ljudförstärkning",
+  "title": "Höj volymen utan kvalitetsförlust eller förvrängning",
+  "description": "När sprakar ljudet, och när gör det inte det? Så väljer du rätt multiplikation, lyssnar på Original/Bearbetad och gör video högre utan att bilden ändras.",
+  "h1": "Så gör du video och ljud högre utan kvalitetsförlust",
+  "eyebrow": "Kvalitet",
+  "card_title": "Högre utan kvalitetsförlust",
+  "card_summary": "Marginal, toppar och sprak förklarat, och hur du hittar den högsta nivån som fortfarande är ren.",
+  "quick_answer": "Ljud förvrängs bara när de starkaste topparna trycks över det digitala taket. En tyst inspelning har mycket marginal och tål ×5–×10. Börja med ×3 i Volymförstärkare, hitta det starkaste ögonblicket i klippet, växla mellan Original och Bearbetad och öka så länge det låter rent. Slå på «Förbättra ljudkvalitet» för tal. Bilden i videon ändras aldrig.",
+  "intro": [
+    "Rädslan för att ”förstöra” en inspelning hindrar många från att göra den högre. Men förstärkning är inte förlust: så länge topparna håller sig under taket blir ljudet bara högre.",
+    "Den här guiden förklarar vad som händer och hur du hittar den bästa nivån utan att gissa."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "Resultatskärm i Volymförstärkare med knappen «Hämta bearbetad» och växlingen Original/Bearbetad",
+    "caption": "Växla mellan Original och Bearbetad innan du sparar."
+  },
+  "sections": [
+    {
+      "heading": "Marginal: varför tysta inspelningar tål mycket",
+      "paragraphs": [
+        "Digitalt ljud har ett tak (0 dBFS). En tyst inspelning ligger kanske 20 dB under; det ger utrymme för ungefär 10× innan topparna når taket. Ett klipp med en hög smäll nära taket har lite marginal, även om resten är tyst."
+      ]
+    },
+    {
+      "heading": "Så hör du förvrängning",
+      "paragraphs": [],
+      "list": [
+        "Hitta det starkaste partiet: skratt, rop, refräng.",
+        "Lyssna med växlingen Original/Bearbetad.",
+        "Låter det sprakigt eller platt, sänk multiplikationen ett steg."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Ändras videokvaliteten?",
+      "paragraphs": [
+        "Nej. Volymförstärkare ändrar bara ljudspåret. Bilden behåller samma upplösning och får ingen vattenstämpel."
+      ]
+    },
+    {
+      "id": "integritet",
+      "heading": "Integritet: allt sker på iPhone",
+      "paragraphs": [
+        "Dina filer lämnar inte telefonen. Bearbetningen sker på enheten, utan konto och utan uppladdning. Resultatet sparas via delningsbladet i iOS i Bilder, Filer eller den app du väljer."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Hitta den högsta rena nivån",
+    "intro": "Ett snabbt test som tar under en minut.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Börja på ×3",
+        "text": "Dra «Volymmultiplikation» till ×3 och tryck på «Boosta volymen till ×3»."
+      },
+      {
+        "name": "Kontrollera topparna",
+        "text": "Spela det starkaste partiet med Original/Bearbetad."
+      },
+      {
+        "name": "Öka eller sänk",
+        "text": "Rent: gå till ×5, sedan ×8 eller ×10. Sprakar det: gå ner ett steg."
+      },
+      {
+        "name": "Spara",
+        "text": "Tryck på «Hämta bearbetad» när nivån är rätt."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Tal tål mer än musik.",
+      "«Förbättra ljudkvalitet» gör röster tydligare vid hög förstärkning.",
+      "Prova flera nivåer; originalet behålls alltid."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan jag göra en video högre utan att kvaliteten blir sämre?",
+      "answer": "Ja, så länge topparna inte trycks över taket. Lyssna med Original/Bearbetad innan du sparar."
+    },
+    {
+      "question": "Varför sprakar ljudet efter förstärkning?",
+      "answer": "De starkaste topparna klipptes. Sänk multiplikationen tills det låter rent."
+    },
+    {
+      "question": "Laddas mina videor upp någonstans?",
+      "answer": "Nej. Allt bearbetas på iPhone."
+    }
+  ],
+  "related": [
+    "gor-ljudet-pa-en-video-hogre-iphone",
+    "imovie-volym-over-500",
+    "musiken-for-lag-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

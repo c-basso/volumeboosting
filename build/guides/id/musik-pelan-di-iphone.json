@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "musik pelan di iPhone",
+  "priority": 5,
+  "keywords": "musik pelan di iPhone, cara mengeraskan musik di iPhone, periksa suara iPhone, kurangi audio keras, lagu terdengar pelan",
+  "title": "Musik di iPhone Terdengar Pelan? Begini Cara Mengeraskannya",
+  "description": "Lagu terdengar pelan di iPhone? Cek Periksa Suara, EQ, dan batas headphone, lalu keraskan MP3 dan rekaman milik Anda hingga 10× dengan Penguat Volume.",
+  "h1": "Cara mengeraskan musik di iPhone",
+  "eyebrow": "Musik",
+  "card_title": "Mengeraskan musik",
+  "card_summary": "Tiga pengaturan iOS yang diam-diam membatasi musik, dan cara mengeraskan lagu yang Anda miliki sebagai file.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Mulai dari pengaturan: di Pengaturan › Musik matikan Periksa Suara dan coba preset EQ „Larut Malam” (Late Night), yang menaikkan bagian yang pelan; di Pengaturan › Suara & Haptik › Keamanan Headphone matikan Kurangi Audio Keras. Ini berlaku untuk streaming dan pemutaran. File musik milik Anda (MP3, M4A, WAV di File, demo, rekaman latihan) buka di Penguat Volume, keraskan ×1,5–×4, bandingkan Asli dan Diproses, lalu ketuk «Unduh yang diproses».",
+  "intro": [
+    "„Musik di iPhone saya pelan” punya dua jawaban yang sangat berbeda. Jika Apple Music atau Spotify terdengar pelan di speaker atau headphone, kemungkinan besar ponsel membatasi dirinya lewat pengaturan yang bisa diubah dalam semenit. Jika lagu *tertentu* yang pelan — MP3 lama, rekaman latihan, demo teman — file itulah yang butuh level lebih tinggi.",
+    "Panduan ini membahas keduanya, berurutan."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Tangkapan layar „Make music louder”: Penguat Volume memproses file musik dengan nama, ukuran, dan durasi",
+    "caption": "File musik milik Anda dikeraskan langsung dari File."
+  },
+  "sections": [
+    {
+      "heading": "Pengaturan yang mengecilkan semua musik (cek ini dulu)",
+      "list": [
+        "Kurangi Audio Keras: Pengaturan › Suara & Haptik › Keamanan Headphone. Jika aktif, volume headphone dibatasi ke level pilihan Anda. Matikan atau naikkan batasnya.",
+        "Periksa Suara: Pengaturan › Musik › Periksa Suara menyamakan semua lagu ke volume yang sama sehingga lagu keras jadi lebih pelan. Matikan jika semuanya terdengar pelan.",
+        "EQ: Pengaturan › Musik › EQ. „Larut Malam” memampatkan dinamika sehingga bagian pelan naik; „Kenyaringan” (Loudness) menonjolkan bass dan treble pada volume rendah. Coba keduanya.",
+        "Batas volume di Durasi Layar: Pengaturan › Durasi Layar › Pembatasan Konten & Privasi mungkin punya batas yang dikunci orang tua atau pengaturan lama.",
+        "Bluetooth: beberapa headphone dan speaker punya volume sendiri; naikkan juga di perangkatnya."
+      ]
+    },
+    {
+      "heading": "File musik apa yang bisa dikeraskan",
+      "paragraphs": [
+        "Penguat Volume mengeraskan file yang benar-benar milik Anda: MP3 dan WAV di File atau iCloud Drive, rekaman latihan M4A, demo yang diterima lewat Mail atau AirDrop, ekspor GarageBand, dan audio dari video musik. Artis dan judul ditampilkan jika ada di file. Unduhan Apple Music, Spotify, atau YouTube Music dienkripsi dan tidak bisa dibuka aplikasi lain; untuk itu gunakan pengaturan di atas."
+      ]
+    },
+    {
+      "heading": "Seberapa keras sebuah lagu bisa dinaikkan",
+      "paragraphs": [
+        "Musik rilisan resmi sudah di-master mendekati level maksimal, jadi ×1,5–×2 biasanya batasnya sebelum reff terpotong. Rekaman rumahan, demo, dan rip lama sering punya ruang 6–12 dB dan tahan ×2–×4. Putuskan dengan Asli/Diproses di reff paling keras."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: mengeraskan file musik",
+    "intro": "Untuk lagu di File, ekspor GarageBand, atau rekaman.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Tambahkan lagu",
+        "text": "Buka Penguat Volume dan tambahkan file dari File, atau bagikan ke aplikasi dari File, Mail, atau GarageBand."
+      },
+      {
+        "name": "Pilih pengali sedang",
+        "text": "Atur «Pengali volume» ke ×1,5–×2 untuk musik rilisan dan ×2–×4 untuk demo dan rekaman. Coba «Tingkatkan Kualitas Audio» aktif dan nonaktif, pilih yang paling alami. Ketuk «Boost volume»."
+      },
+      {
+        "name": "Cek reff",
+        "text": "Beralih antara Asli/Diproses di bagian paling keras. Jika pecah, turunkan."
+      },
+      {
+        "name": "Unduh yang diproses",
+        "text": "Simpan ke File dan tambahkan lagu yang lebih keras ke pemutar Anda, atau bagikan."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Keraskan satu album atau set dengan pengali yang sama agar lagu-lagunya tetap seimbang.",
+      "Pada video musik, gambar tidak diubah; hanya audio yang diproses.",
+      "Jika Anda me-master musik sendiri, perkuat mix-nya, bukan master akhirnya; limiter di DAW akan memberi hasil lebih bersih daripada penguatan biasa."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bisakah penguat volume mengeraskan Apple Music atau Spotify?",
+      "answer": "Tidak dengan mengedit lagunya, karena dienkripsi. Gunakan Periksa Suara, EQ, dan Keamanan Headphone, atau normalisasi di aplikasi streaming. Penguat Volume mengeraskan file milik Anda sendiri."
+    },
+    {
+      "question": "Kenapa beberapa lagu lebih pelan dari yang lain?",
+      "answer": "Karena level mastering yang berbeda. Periksa Suara menyamakannya tetapi mengecilkan yang keras; jika dimatikan, lagu keras kembali keras. File pelan milik Anda bisa dikeraskan dengan Penguat Volume agar seimbang."
+    },
+    {
+      "question": "Apakah format lagu berubah saat dikeraskan?",
+      "answer": "Aplikasi membuat file baru dalam format audio umum di samping file asli. File asli tidak berubah."
+    }
+  ],
+  "related": [
+    "mengeraskan-mp3-di-iphone",
+    "mengeraskan-podcast-audiobook-iphone",
+    "mengeraskan-suara-tanpa-mengurangi-kualitas"
+  ]
+}

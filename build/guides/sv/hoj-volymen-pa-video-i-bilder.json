@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "höja volymen på video i Bilder",
+  "priority": 9,
+  "keywords": "höja volymen på video i Bilder, Bilder-appen volym video, göra video högre från Bilder, videoljud Bilder iPhone, Dela Increase Volume",
+  "title": "Höj volymen på en video från Bilder-appen på iPhone",
+  "description": "Redigeringen i Bilder kan bara stänga av ljudet. Så använder du Dela → Increase Volume för att göra en video upp till 10× högre och spara kopian i Bilder.",
+  "h1": "Så höjer du volymen på en video från Bilder-appen",
+  "eyebrow": "Bilder",
+  "card_title": "Volym från Bilder",
+  "card_summary": "Bilder kan bara stänga av ljudet. Med Dela → Increase Volume gör du videon högre och sparar den tillbaka i Bilder.",
+  "quick_answer": "Bilder-appen kan bara stänga av ljudet i en video, inte höja det. Öppna videon i Bilder, tryck på Dela och välj Increase Volume. Projektet öppnas i Volymförstärkare; dra «Volymmultiplikation» upp till ×10, tryck på «Boosta volymen» och sedan «Hämta bearbetad» → Spara video. Den högre kopian hamnar i Bilder bredvid originalet.",
+  "intro": [
+    "De flesta videor på en iPhone ligger i Bilder, och det är där folk först försöker fixa lågt ljud. I Redigera finns en högtalarsymbol, men den slår bara av och på ljudet.",
+    "Med delningsbladet skickar du videon direkt till Volymförstärkare och får tillbaka den högre kopian i Bilder, utan omvägen via Filer."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Delningsbladet i iOS med alternativ för den förstärkta filen från Volymförstärkare",
+    "caption": "Delningsbladet i iOS skickar videon fram och tillbaka mellan Bilder och appen."
+  },
+  "sections": [
+    {
+      "heading": "Vad redigeringen i Bilder kan göra med ljud",
+      "paragraphs": [
+        "Tryck på Redigera på en video: högtalarsymbolen överst stänger av eller slår på ljudet. På nyare iPhone-modeller med spatialt ljud finns även Ljudmix, som ändrar balansen mellan röster och bakgrund, men inte totalvolymen."
+      ]
+    },
+    {
+      "heading": "Hittar du inte Increase Volume i delningsbladet?",
+      "paragraphs": [],
+      "list": [
+        "Bläddra åt höger i appraden och tryck på Mer.",
+        "Hitta Increase Volume och lägg till den bland Favoriter.",
+        "Nu visas den i delningsbladet för alla videor."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Var hamnar kopian?",
+      "paragraphs": [
+        "Väljer du Spara video läggs den förstärkta videon i Bilder som ett nytt objekt, nyast i biblioteket. Originalet behålls oförändrat."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Från Bilder till högre video",
+    "intro": "Ungefär en minut.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Öppna videon i Bilder",
+        "text": "Tryck på videon och sedan på Dela."
+      },
+      {
+        "name": "Välj Increase Volume",
+        "text": "Projektet öppnas direkt i Volymförstärkare."
+      },
+      {
+        "name": "Förstärk",
+        "text": "Dra «Volymmultiplikation», tryck på «Boosta volymen till ×N» och jämför Original/Bearbetad."
+      },
+      {
+        "name": "Spara tillbaka i Bilder",
+        "text": "Tryck på «Hämta bearbetad» → Spara video."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Förstärk flera videor en i taget från projektlistan.",
+      "Favoritmarkera den nya kopian så hittar du den snabbt.",
+      "Radera originalet först när du är nöjd med den högre versionen."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan Bilder-appen göra en video högre?",
+      "answer": "Nej. Bilder kan bara stänga av ljudet eller justera Ljudmix på modeller som stöds."
+    },
+    {
+      "question": "Ersätter appen originalvideon?",
+      "answer": "Nej. Den sparar alltid en ny kopia; originalet förblir oförändrat."
+    },
+    {
+      "question": "Fungerar det med Live Photos?",
+      "answer": "Appen arbetar med videofiler. Spara Live Photo som video i Bilder först."
+    }
+  ],
+  "related": [
+    "gor-ljudet-pa-en-video-hogre-iphone",
+    "varfor-ar-videon-sa-tyst",
+    "tiktok-video-hogre"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

@@ -1,0 +1,101 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "kuatkan suara video dalam aplikasi Foto",
+  "priority": 9,
+  "keywords": "kuatkan suara video dalam Foto iPhone, aplikasi Foto naikkan volume, video dalam Foto suara perlahan, naikkan volume video dari Foto, kongsi ke Increase Volume",
+  "title": "Cara Kuatkan Suara Video Terus dari Aplikasi Foto iPhone",
+  "description": "Foto tiada kawalan kelantangan, tetapi video masih boleh dikuatkan: ketik Kongsi, pilih Penguat Volume Bunyi, seret hingga 10× dan simpan salinan di sisi asal.",
+  "h1": "Cara kuatkan suara video terus dari Foto",
+  "eyebrow": "Dari Foto",
+  "card_title": "Kuatkan video melalui Kongsi dalam Foto",
+  "card_summary": "Foto hanya boleh membisukan. Dengan Kongsi → Increase Volume, klip dikuatkan dan salinan kuat disimpan di sebelah asal.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Aplikasi Foto tidak boleh menguatkan suara video; editornya hanya boleh membisukan (dan pada iPhone 16 atau lebih baharu mengimbangkan audio ruang dengan Audio Mix). Untuk menguatkan video dari Foto: buka video, ketik Kongsi, pilih Increase Volume, seret «Pengganda kelantangan» hingga ×10, ketik «Boost kelantangan», kemudian «Muat turun yang diproses» → Simpan Video. Salinan yang lebih kuat muncul dalam Foto di sebelah asal.",
+  "intro": [
+    "Hampir semua orang mencari kawalan kelantangan dalam editor Foto dan tidak menjumpainya, kerana memang tiada. Foto boleh memangkas, meluruskan, membetulkan warna dan membisukan video, tetapi tidak boleh menguatkannya. Yang *ada* dalam Foto ialah helaian kongsi, dan Penguat Volume Bunyi bersambung di situ, jadi penguatan hanya dua ketikan dari mana-mana video dalam pustaka anda.",
+    "Panduan ini menunjukkan aliran itu dan apa yang sebenarnya boleh dilakukan editor Foto terhadap audio."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Tangkapan skrin «Download and share anywhere»: helaian kongsi dengan pilihan menyimpan video yang dikuatkan ke Foto atau Fail",
+    "caption": "Salinan yang dikuatkan kembali ke Foto melalui helaian kongsi; fail asal kekal seperti biasa."
+  },
+  "sections": [
+    {
+      "heading": "Apa yang boleh dan tidak boleh dilakukan editor Foto terhadap audio",
+      "list": [
+        "Bisukan: ketik Edit kemudian ikon pembesar suara di atas untuk membuang seluruh trek audio.",
+        "Audio Mix (iPhone 16 atau lebih baharu, video dengan audio ruang): pelbagai campuran menonjolkan suara bercakap dan mengurangkan hingar latar. Ini mengubah *imbangan*, bukan kelantangan keseluruhan.",
+        "Menguatkan kelantangan: tiada dalam mana-mana versi Foto."
+      ]
+    },
+    {
+      "heading": "Menggunakan Kongsi dengan Penguat Volume Bunyi",
+      "paragraphs": [
+        "Sejak versi 1.2.7, Increase Volume muncul dalam helaian kongsi iOS. Berkongsi video ke aplikasi terus mencipta projek dengan nama, saiz dan tempoh, supaya anda tahu itu klip yang betul. Selepas dikuatkan, «Muat turun yang diproses» membuka helaian kongsi semula, dan Simpan Video meletakkan salinan yang lebih kuat dalam Foto. Kerana ini fail baharu, fail asal tidak pernah ditimpa.",
+        "Jika Increase Volume tidak muncul dalam helaian kongsi kali pertama, leret baris aplikasi hingga hujung, ketik Lagi dan hidupkannya (anda juga boleh menyeretnya ke hadapan)."
+      ]
+    },
+    {
+      "heading": "Menguatkan beberapa video",
+      "paragraphs": [
+        "Aplikasi menyimpan senarai projek, jadi anda boleh menghantar beberapa klip dari Foto dan memprosesnya satu demi satu. Setiap projek mengingati failnya sehingga dipadam, jadi anda boleh kembali kemudian dan mencuba pengganda lain."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: dari Foto ke video yang lebih kuat",
+    "intro": "Tidak perlu membuka aplikasi dahulu; mulakan dari Foto.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Buka video dalam Foto",
+        "text": "Cari video yang perlahan dan buka dalam skrin penuh."
+      },
+      {
+        "name": "Ketik Kongsi → Increase Volume",
+        "text": "Ketik Kongsi, leret baris ikon dan ketik Increase Volume. Projek baharu dibuka."
+      },
+      {
+        "name": "Kuatkan",
+        "text": "Seret «Pengganda kelantangan» ke tahap yang diperlukan (×3–×10), hidupkan «Tingkatkan Kualiti Audio» untuk suara bercakap, dan ketik «Boost kelantangan»."
+      },
+      {
+        "name": "Bandingkan",
+        "text": "Dengan togol Asal/Diproses anda boleh mendengar perbezaannya."
+      },
+      {
+        "name": "Simpan Video",
+        "text": "Ketik «Muat turun yang diproses» kemudian Simpan Video. Dalam Foto, salinan yang lebih kuat muncul sejurus selepas fail asal."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tip",
+    "items": [
+      "Tambah Increase Volume ke kegemaran helaian kongsi (Lagi → Edit) supaya ia sentiasa muncul paling depan.",
+      "Anda juga boleh berkongsi video dari Fail, Mesej atau Mail terus ke aplikasi; alirannya sama.",
+      "Untuk menjimatkan ruang, padam fail asal yang perlahan selepas memastikan salinan yang dikuatkan berbunyi baik."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Adakah menguatkan dari Foto menggantikan video asal saya?",
+      "answer": "Tidak. Aplikasi sentiasa mencipta fail baharu. Simpan Video menambah salinan kedua ke Foto; fail asal tidak berubah."
+    },
+    {
+      "question": "Bolehkah menguatkan Live Photo atau video gerak perlahan?",
+      "answer": "Video gerak perlahan dan selang masa dieksport sebagai video biasa dan boleh dikuatkan. Live Photo ialah foto dengan klip pendek dan tidak disokong sebagai video."
+    },
+    {
+      "question": "Kenapa aplikasi Foto tiada kawalan kelantangan?",
+      "answer": "Apple mereka bentuk Foto sebagai editor untuk pembetulan pantas dan menyerahkan perubahan tahap kepada iMovie. iMovie menguatkan hingga 500%; Penguat Volume Bunyi mencapai ×10 dan berfungsi dari helaian kongsi."
+    }
+  ],
+  "related": [
+    "cara-kuatkan-suara-video-iphone",
+    "imovie-volume-lebih-500",
+    "kuatkan-suara-video-tiktok"
+  ]
+}

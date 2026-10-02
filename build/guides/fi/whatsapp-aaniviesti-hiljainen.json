@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "WhatsApp ääniviesti hiljainen",
+  "priority": 3,
+  "keywords": "WhatsApp ääniviesti hiljainen, ääniviesti kovemmaksi, WhatsApp ääniviesti ei kuulu, ääniviesti hiljainen iPhone, Telegram ääniviesti hiljainen",
+  "title": "WhatsApp-ääniviesti hiljainen? Näin saat sen kovemmaksi",
+  "description": "Hiljainen WhatsApp-ääniviesti iPhonessa? Sulje ensin pois kuulokkeeseen vaihtuminen, sitten vie viesti ja tehosta se jopa 10× Increase Volume -sovelluksella.",
+  "h1": "Näin saat WhatsApp-ääniviestin kovemmaksi iPhonella",
+  "eyebrow": "WhatsApp ja Telegram",
+  "card_title": "Hiljainen ääniviesti kovemmaksi",
+  "card_summary": "Kaksi eri ongelmaa: kuuloke tai oikeasti hiljainen tallenne. Korjaa molemmat.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Jos kaikki WhatsAppin ääniviestit ovat hiljaisia, iPhone toistaa ne todennäköisesti kuulokkeesta, koska läheisyysanturi peittyi; pidä puhelin kauempana kasvoista ja paina äänenvoimakkuuden lisäyspainiketta viestin soidessa. Jos yksi tietty viesti on hiljainen, vie se (paina pitkään → Välitä → Jaa → Tallenna Tiedostoihin tai suoraan Increase Volumeen), tehosta ×5–×10 ”Paranna äänenlaatua” päällä ja tallenna tai välitä kovempi kopio.",
+  "intro": [
+    "WhatsApp-ääniviestin heikkoon kuuluvuuteen on kaksi täysin eri syytä, ja kumpikin korjataan eri tavalla. Ensimmäinen on se, että iPhone vaihtaa huomaamatta kuulokkeeseen. Toinen on se, että lähettäjä äänitti kaukana mikrofonista tai metelissä, ja viesti on oikeasti hiljainen. Ensimmäisen tarkistat kymmenessä sekunnissa, toisen korjaat minuutissa.",
+    "Samat ohjeet toimivat myös Telegramissa, Signalissa ja iMessagen ääniviesteissä."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "iOS:n jakoarkki Increase Volumessa: Tallenna Tiedostoihin ja jakovaihtoehdot tehostetulle ääniviestille",
+    "caption": "Tehostetut ääniviestit voi tallentaa Tiedostoihin tai lähettää suoraan takaisin keskusteluun."
+  },
+  "sections": [
+    {
+      "heading": "Korjaus 1: viesti soi kuulokkeesta",
+      "paragraphs": [
+        "WhatsApp vaihtaa toiston kuulokkeeseen (puheluiden pieneen kaiuttimeen), kun etukameran vieressä oleva läheisyysanturi peittyy. Sormi, kuoren reuna tai puhelimen nostaminen kasvoja kohti riittää, ja viesti kuulostaa yhtäkkiä kuiskaukselta. Paljasta anturi, pidä puhelin itsestäsi poispäin ja paina äänenvoimakkuuden lisäyspainiketta *viestin soidessa*; iOS:llä on kuulokkeelle oma äänenvoimakkuutensa, joka voi olla aivan alhaalla.",
+        "Tarkista myös, ettei Bluetooth ohjaa ääntä taskussa oleviin nappikuulokkeisiin ja ettei Asetukset › Äänet ja tuntokyky › Kuulokkeiden turvallisuus › Vähennä kovia ääniä rajoita kuulokkeiden äänenvoimakkuutta."
+      ]
+    },
+    {
+      "heading": "Korjaus 2: itse viesti on hiljainen",
+      "paragraphs": [
+        "Jos muut viestit kuuluvat hyvin mutta tämä ei, tallenne on hiljainen. WhatsAppissa ei ole äänenvoimakkuussäädintä vastaanotetuille ääniviesteille, eivätkä äänenvoimakkuuspainikkeet mene yli 100 %. Sinun täytyy koventaa itse tiedosto. WhatsApp antaa viedä ääniviestin äänitiedostona, ja Increase Volume kertoo sen jopa ×10:llä ja antaa uuden kopion säilytettäväksi tai välitettäväksi."
+      ]
+    },
+    {
+      "heading": "Ääniviestin vienti WhatsAppista, Telegramista tai Viesteistä",
+      "list": [
+        "WhatsApp: paina ääniviestiä pitkään → Välitä → napauta Jaa-kuvaketta (vasemmalla alhaalla) → valitse Increase Volume tai Tallenna Tiedostoihin.",
+        "Telegram: paina ääniviestiä pitkään → Välitä tai Jaa → Tallenna Tiedostoihin tai jaa Increase Volumeen.",
+        "iMessagen ääniviestit: paina pitkään → Tallenna (menee Sanelimeen) ja jaa sitten Sanelimesta.",
+        "Signal: paina pitkään → Tallenna → Tallenna Tiedostoihin."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Vaihe vaiheelta: WhatsApp-ääniviestin tehostus",
+    "intro": "Noin minuutti ilmaisella Increase Volume -sovelluksella.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Vie ääniviesti",
+        "text": "Paina WhatsAppissa viestiä pitkään → Välitä → Jaa-kuvake → Increase Volume. (Tai Tallenna Tiedostoihin ja lisää se sovelluksesta.)"
+      },
+      {
+        "name": "Laita Paranna äänenlaatua päälle",
+        "text": "Ääniviestit ovat puhetta; kytkin pitää sanat selkeinä tehostuksen jälkeen."
+      },
+      {
+        "name": "Tehosta",
+        "text": "Aseta ”Äänenvoimakkuuden kertoja” aluksi ×5:een, hyvin hiljaiselle viestille ×8–×10, ja napauta ”Tehosta äänenvoimakkuutta”."
+      },
+      {
+        "name": "Vertaa",
+        "text": "Vaihda Alkuperäinen/Käsitelty. Jos kovin sana rätisee, laske kerrointa."
+      },
+      {
+        "name": "Tallenna tai välitä",
+        "text": "Napauta ”Lataa käsitelty”. Tallenna Tiedostoihin tai jaa kovempi kopio suoraan takaisin WhatsAppiin, jotta koko ryhmä kuulee sen."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Vinkit",
+    "items": [
+      "Pyydä usein ääniviestejä lähettäviä pitämään puhelinta lähempänä; mikään ei voita lähteessä korjaamista.",
+      "Jos tallennat paljon ääniviestejä, kokoa tehostetut kopiot Tiedostot-kansioon; WhatsAppin omaa mediakansiota ei voi selata.",
+      "Omiin ääniviesteihisi sama temppu toimii: äänitä, jaa Increase Volumeen, tehosta ja lähetä tehostettu tiedosto dokumenttina tai äänenä."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Miksi ääniviestit ovat hiljaisia, kun nostan puhelimen korvalle?",
+      "answer": "Se on tarkoituksellista: kun läheisyysanturi on peitossa, WhatsApp toistaa yksityisyyden vuoksi kuulokkeesta. Nosta kuulokkeen äänenvoimakkuutta painikkeilla viestin soidessa tai pidä puhelin kauempana käyttääksesi kaiutinta."
+    },
+    {
+      "question": "Voinko koventaa ääniviestiä WhatsAppin sisällä?",
+      "answer": "Et. WhatsAppissa on toistonopeudet (1×, 1,5×, 2×) mutta ei äänenvoimakkuuden tehostusta. Vie viesti ja tehosta se Increase Volumella."
+    },
+    {
+      "question": "Toimiiko tämä myös Telegramissa ja Messengerissä?",
+      "answer": "Toimii kaikissa sovelluksissa, joista äänitiedoston voi jakaa tai tallentaa. Tehostetut tiedostot voi lähettää takaisin samaa sovellusta pitkin."
+    }
+  ],
+  "related": [
+    "sanelin-aanite-kovemmaksi-iphonella",
+    "mp3-tiedosto-kovemmaksi-iphonella",
+    "miksi-iphonen-video-on-niin-hiljainen"
+  ]
+}

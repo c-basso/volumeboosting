@@ -1,0 +1,137 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie äänenvoimakkuus",
+  "priority": 11,
+  "keywords": "iMovie äänenvoimakkuus, iMovie ei tarpeeksi kova, video kovemmaksi kuin iMovie, yli 500 prosenttia, iMovie maksimi äänenvoimakkuus iPhone",
+  "title": "iMovien äänenvoimakkuus: näin pääset yli 500 %:n rajan",
+  "description": "iMovie iPhonella pysähtyy noin 500 %:iin. Kun se ei riitä, Increase Volume vie saman videon 10×:ään yhdellä liukusäätimellä ilman projektia tai uutta vientiä.",
+  "h1": "iMovien äänenvoimakkuusraja (noin 500 %) ja miten sen yli pääsee",
+  "eyebrow": "vs. iMovie",
+  "card_title": "Kovempi kuin iMovien 500 %",
+  "card_summary": "Miten nostat äänenvoimakkuutta iMoviessa, miksi säädin pysähtyy 5×:ään ja tie 10×:ään yhdellä säätimellä.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "iMovie iPhonella antaa nostaa leikkeen äänenvoimakkuuden noin 500 %:iin (5×): napauta leikettä, napauta kaiutinkuvaketta, vedä oikealle ja vie. Jos video on maksimissakin hiljainen, avaa sama tiedosto Increase Volumessa, joka kertoo äänen jopa ×10:llä (1000 %), antaa verrata Alkuperäistä ja Käsiteltyä ja tallentaa uuden kopion ilman projektia. Increase Volume avaa myös pelkät äänitiedostot, joita iMovie ei avaa.",
+  "intro": [
+    "iMovie on Applen ilmainen vastaus kysymykseen ”miten saan videoni kovemmaksi”, ja hieman hiljaiselle leikkeelle se toimii. Säätimellä on kuitenkin katto, ja huoneen toiselta puolelta tai näytön tallennuksella tehdyt tallenteet tarvitsevat usein enemmän. Silloin moni vie 500 %:lla, ei vieläkään kuule tulosta ja etsii jotain ”iMovieta kovempaa”.",
+    "Tässä näet tarkalleen, kuinka pitkälle iMovie yltää, miten sitä käytetään ja mitä tehdä, kun se ei riitä."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Increase Volume: Äänenvoimakkuuden kertoja ×10 -liukusäädin, kaksinkertainen iMovien maksimiin verrattuna",
+    "caption": "Increase Volumen ×10 on noin kaksinkertainen iMovien maksimiin nähden."
+  },
+  "sections": [
+    {
+      "heading": "Näin nostat äänenvoimakkuutta iMoviessa iPhonella",
+      "paragraphs": [
+        "Jos et ole vielä kokeillut, ilmainen tapa kannattaa tuntea:"
+      ],
+      "list": [
+        "Avaa iMovie → Aloita uusi projekti → Elokuva ja valitse video.",
+        "Napauta leikettä aikajanalla, jotta se korostuu.",
+        "Napauta työkalupalkin kaiutinkuvaketta ja vedä äänenvoimakkuuden liukusäädintä oikealle. Se pysähtyy noin 500 %:iin.",
+        "Napauta Valmis, sitten Jaa → Tallenna video, ja odota, kun iMovie koodaa koko leikkeen uudelleen."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Missä iMovie jää vajaaksi",
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Increase Volume"
+        ],
+        "rows": [
+          [
+            "Suurin tehostus",
+            "Noin 500 % (5×)",
+            "×10 (1000 %)"
+          ],
+          [
+            "Pelkät äänitiedostot (MP3, Sanelin)",
+            "Ei tuettu",
+            "Tuettu"
+          ],
+          [
+            "Työnkulku",
+            "Luo projekti → lisää leike → säädä → vie",
+            "Jaa Kuvista → vedä → Lataa käsitelty"
+          ],
+          [
+            "Kuuntelu ennen/jälkeen",
+            "Toista aikajana",
+            "Alkuperäinen / Käsitelty -kytkin"
+          ],
+          [
+            "Kuvan uudelleenkoodaus",
+            "Kyllä, täysi vienti",
+            "Ääni käsitellään, kuva kulkee läpi"
+          ],
+          [
+            "Puheen parannus",
+            "Ei",
+            "Paranna äänenlaatua -kytkin"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Milloin 500 % riittää ja milloin ei",
+      "paragraphs": [
+        "5× on noin +14 dB. Se riittää leikkeeseen, joka kuulostaa vain vähän vaisulta. Se ei riitä takariviltä äänitettyyn luentoon, keskustelun ajaksi pöydälle jätettyyn puhelimeen eikä useimpiin näyttötallenteisiin, jotka ovat tyypillisesti 15–25 dB normaalia alempana. Niihin tarvitset ×8–×10, ja sinun täytyy kuulla, leikkautuuko kovin kohta sillä tasolla – juuri siihen Increase Volumen Alkuperäinen/Käsitelty-kytkin on."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Vaihe vaiheelta: iMovien rajan yli",
+    "intro": "Käytä alkuperäistä videota, älä iMovien vientiä, jotta tehostat kerran puhtaimmasta lähteestä.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Jaa alkuperäinen video Increase Volumeen",
+        "text": "Avaa leike Kuvissa, napauta Jaa ja valitse Increase Volume."
+      },
+      {
+        "name": "Kerroin yli 5",
+        "text": "Vedä ”Äänenvoimakkuuden kertoja” ×6–×10:een sen mukaan, kuinka hiljainen leike on. Laita puheelle ”Paranna äänenlaatua” päälle. Napauta ”Tehosta äänenvoimakkuutta”."
+      },
+      {
+        "name": "Vertaa",
+        "text": "Vaihda Alkuperäinen/Käsitelty kovimmassa kohdassa. Jos se on räikeä, laske pykälä ja tehosta uudelleen."
+      },
+      {
+        "name": "Lataa käsitelty",
+        "text": "Tallenna kovempi kopio Kuviin tai jaa se suoraan. Alkuperäinen pysyy koskemattomana."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Vinkit",
+    "items": [
+      "Jos haluat yhä käyttää iMovieta leikkaamiseen tai teksteihin, tehosta ensin Increase Volumessa ja muokkaa sitten tehostettua tiedostoa iMoviessa.",
+      "Älä pinoa tehostuksia (iMovie 500 % ja sitten ×10 viennille); mene suoraan alkuperäisestä tarvitsemallesi tasolle.",
+      "Äänitiedostoissa ohita iMovie kokonaan; se ei avaa MP3:ia eikä M4A:ta."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Miksi iMovie rajoittaa äänenvoimakkuuden 500 %:iin?",
+      "answer": "Apple rajoittaa säädintä, jotta tavalliset muokkaukset eivät säröytyisi pahasti. Se on järkevä oletus tavalliselle kuvamateriaalille, mutta liian matala hyvin hiljaisille tallenteille."
+    },
+    {
+      "question": "Onko Increase Volume ilmainen kuten iMovie?",
+      "answer": "Increase Volumen lataus on ilmainen ja siinä on ilmainen kokeilujakso; rajaton tehostus avautuu tilauksella tai kertaostolla. Ajantasaiset hinnat näet App Storesta."
+    },
+    {
+      "question": "Pääseekö iMovie Macilla yli 500 %:n?",
+      "answer": "Myös Macin iMovie pysähtyy noin 400–500 %:iin. Final Cut Pro tai Audacity yltävät pidemmälle, mutta tarvitset tietokoneen ja tiedostonsiirron. Increase Volume tekee sen iPhonessa."
+    }
+  ],
+  "related": [
+    "nain-saat-videon-aanen-kovemmaksi-iphonella",
+    "aani-kovemmaksi-ilman-laadun-heikkenemista",
+    "video-kovemmaksi-kuvat-apista"
+  ]
+}

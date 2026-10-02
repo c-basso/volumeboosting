@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "musiikki hiljaisella iPhone",
+  "priority": 5,
+  "keywords": "musiikki hiljaisella iPhone, musiikki kovemmalle iPhone, äänitason tarkistus, vähennä kovia ääniä, kappaleet hiljaisia",
+  "title": "Musiikki soi hiljaa iPhonessa? Näin saat sen kovemmalle",
+  "description": "Kappaleet soivat hiljaa iPhonessa? Tarkista ensin Äänitason tarkistus, taajuuskorjain ja kuulokkeiden raja, ja kovenna omat MP3:t jopa 10× Increase Volumella.",
+  "h1": "Näin saat musiikin kovemmalle iPhonella",
+  "eyebrow": "Musiikki",
+  "card_title": "Musiikki kovemmalle iPhonella",
+  "card_summary": "Kolme iOS-asetusta, jotka hiljentävät musiikkiasi salaa, ja miten tehostat kappaleet, jotka sinulla on tiedostoina.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Aloita asetuksista: Asetukset › Musiikki -kohdassa laita Äänitason tarkistus pois ja kokeile taajuuskorjaimen Myöhäinen ilta -esiasetusta, joka nostaa hiljaisia kohtia; Asetukset › Äänet ja tuntokyky › Kuulokkeiden turvallisuus -kohdassa laita Vähennä kovia ääniä pois. Nämä vaikuttavat suoratoistoon ja toistoon. Omat musiikkitiedostot (MP3, M4A, WAV Tiedostoissa, demot, treenitallenteet) avaa Increase Volumessa, tehosta ×1,5–×4, vertaa Alkuperäistä ja Käsiteltyä ja napauta ”Lataa käsitelty”.",
+  "intro": [
+    "”Musiikki soi iPhonessa hiljaa” -ongelmaan on kaksi hyvin erilaista vastausta. Jos Apple Music tai Spotify kuulostaa hiljaiselta kaiuttimesta tai kuulokkeista, puhelin todennäköisesti rajoittaa itseään asetuksella, jonka muutat minuutissa. Jos *tietty* kappale on hiljainen – vanha MP3, treenitallenne, kaverin demo – itse tiedosto tarvitsee lisää tasoa.",
+    "Tämä opas käsittelee molemmat, tässä järjestyksessä."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Increase Volume käsittelee musiikkitiedostoa iPhonella: kappaleen nimi, koko ja kesto",
+    "caption": "Omat musiikkitiedostot tehostat suoraan Tiedostoista."
+  },
+  "sections": [
+    {
+      "heading": "Asetukset, jotka hiljentävät kaiken musiikin (tarkista ensin)",
+      "list": [
+        "Vähennä kovia ääniä: Asetukset › Äänet ja tuntokyky › Kuulokkeiden turvallisuus. Päällä ollessaan se rajoittaa kuulokkeiden äänenvoimakkuuden asettamaasi tasoon. Laita pois tai nosta rajaa.",
+        "Äänitason tarkistus: Asetukset › Musiikki › Äänitason tarkistus tasaa kaikki kappaleet samalle voimakkuudelle ja vetää siksi kovia kappaleita alas. Laita pois, jos kaikki tuntuu vaisulta.",
+        "Taajuuskorjain: Asetukset › Musiikki › Taajuuskorjain. Myöhäinen ilta pakkaa dynamiikkaa niin, että hiljaiset kohdat nousevat; Loudness korostaa bassoja ja diskanttia pienellä voimakkuudella. Kokeile molempia.",
+        "Ruutuajan äänenvoimakkuusraja: Asetukset › Ruutuaika › Sisältö- ja tietosuojarajoitukset voi sisältää vanhemman tai vanhan asetuksen lukitseman rajan.",
+        "Bluetooth: joissain kuulokkeissa ja kaiuttimissa on oma äänenvoimakkuutensa; nosta sitä myös laitteesta."
+      ]
+    },
+    {
+      "heading": "Mitä musiikkitiedostoja voit tehostaa",
+      "paragraphs": [
+        "Increase Volume tehostaa tiedostoja, jotka sinulla oikeasti on: MP3- ja WAV-tiedostoja Tiedostoissa tai iCloud Drivessa, M4A-treenitallenteita, Mailin tai AirDropin kautta saatuja demoja, GarageBand-vientejä ja musiikkivideoiden ääniraitaa. Se näyttää esittäjän ja kappaleen nimen, jos tiedostossa on ne. Apple Musicin, Spotifyn tai YouTube Musicin lataukset ovat salattuja, eikä mikään muu sovellus avaa niitä; niihin käytä yllä olevia asetuksia."
+      ]
+    },
+    {
+      "heading": "Kuinka paljon kappaletta kannattaa tehostaa",
+      "paragraphs": [
+        "Julkaistu musiikki on jo masteroitu lähelle täyttä tasoa, joten ×1,5–×2 on yleensä katto, ennen kuin kertosäe säröytyy. Kotitallenteissa, demoissa ja vanhoissa ripeissä on usein 6–12 dB varaa, ja ne kestävät ×2–×4. Päätä Alkuperäinen/Käsitelty-kytkimellä kovimman kertosäkeen kohdalla."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Vaihe vaiheelta: musiikkitiedosto kovemmaksi",
+    "intro": "Kappaleelle Tiedostoissa, GarageBand-viennille tai tallenteelle.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Lisää kappale",
+        "text": "Avaa Increase Volume ja lisää tiedosto Tiedostoista, tai jaa se sovellukseen Tiedostoista, Mailista tai GarageBandista."
+      },
+      {
+        "name": "Valitse maltillinen kerroin",
+        "text": "Aseta ”Äänenvoimakkuuden kertoja” ×1,5–×2:een julkaistulle musiikille ja ×2–×4:ään demoille ja tallenteille. Kokeile ”Paranna äänenlaatua” päällä ja pois ja pidä luonnollisemmalta kuulostava. Napauta ”Tehosta äänenvoimakkuutta”."
+      },
+      {
+        "name": "Tarkista kertosäe",
+        "text": "Vaihda Alkuperäinen/Käsitelty kovimmassa kohdassa. Rätinä tarkoittaa: laske."
+      },
+      {
+        "name": "Lataa käsitelty",
+        "text": "Tallenna Tiedostoihin ja lisää kovempi kappale soittimeesi, tai jaa se."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Vinkit",
+    "items": [
+      "Tehosta koko albumi tai setti samalla kertoimella, jotta kappaleet pysyvät tasoissa keskenään.",
+      "Musiikkivideoissa kuva pysyy koskemattomana; vain ääni käsitellään.",
+      "Jos masteroit itse, tehosta mieluummin miksausta kuin valmista masteria; DAW:n limitteri tekee siistimpää jälkeä kuin pelkkä vahvistus."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Voiko äänen tehostin koventaa Apple Musicia tai Spotifya?",
+      "answer": "Ei kappaleita muokkaamalla, sillä ne ovat salattuja. Käytä Äänitason tarkistusta, taajuuskorjainta ja Kuulokkeiden turvallisuus -asetuksia tai suoratoistosovelluksen omaa normalisointia. Increase Volume tehostaa tiedostoja, jotka ovat omiasi."
+    },
+    {
+      "question": "Miksi jotkin kappaleet soivat hiljempaa kuin toiset?",
+      "answer": "Masterointitasot vaihtelevat. Äänitason tarkistus tasaa ne mutta laskee kovia kappaleita; kun laitat sen pois, kovat palaavat. Omat hiljaiset tiedostot voit tehostaa Increase Volumella, jotta ne sopivat muiden joukkoon."
+    },
+    {
+      "question": "Muuttaako tehostus kappaleen tiedostomuotoa?",
+      "answer": "Increase Volume tekee uuden tiedoston tavalliseen äänimuotoon alkuperäisen viereen. Alkuperäinen ei muutu."
+    }
+  ],
+  "related": [
+    "mp3-tiedosto-kovemmaksi-iphonella",
+    "podcast-tai-aanikirja-kovemmaksi-iphonella",
+    "aani-kovemmaksi-ilman-laadun-heikkenemista"
+  ]
+}

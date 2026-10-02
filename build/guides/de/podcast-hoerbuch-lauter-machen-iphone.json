@@ -1,0 +1,127 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "Hörbuch zu leise",
+  "priority": 12,
+  "keywords": "Hörbuch zu leise, Podcast lauter machen iPhone, Hörbuch lauter machen, Vorlesung Aufnahme zu leise, Podcast zu leise",
+  "title": "Podcast oder Hörbuch auf dem iPhone lauter machen (2026)",
+  "description": "Leise Podcastfolge, Hörbuchkapitel oder Vorlesung? Für Streams die Funktion des Players nutzen, eigene Dateien mit Increase Volume bis zu 10× lauter machen.",
+  "h1": "Podcast oder Hörbuch auf dem iPhone lauter machen",
+  "eyebrow": "Podcasts & Hörbücher",
+  "card_title": "Podcast oder Hörbuch lauter machen",
+  "card_summary": "Player-Einstellungen für Streams; echte Dateiverstärkung für Folgen und Kapitel als MP3 oder M4A.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Für Folgen, die du in einer Podcast-App streamst, nutzt du deren eigene Lautstärkefunktion (Overcast Voice Boost, Pocket Casts Volume Boost; Apple Podcasts hat keine). Folgen, Hörbuchkapitel oder Vorlesungen, die du als Datei hast (MP3, M4A, MP4 in Dateien oder iCloud Drive), öffnest du in Increase Volume, schaltest „Audioqualität verbessern“ ein, verstärkst ×3–×10, vergleichst Original und Verarbeitet und sicherst mit „Verarbeitete Datei laden“ eine lautere Kopie, die in jeder App läuft.",
+  "intro": [
+    "Gesprochenes Audio hat ein Lautheitsproblem: Podcasts sollten um −16 LUFS gemastert sein, aber unabhängige Sendungen, Vorlesungsmitschnitte und ältere Hörbücher sind oft viel leiser, und ein leiser Gast geht neben einem lauten Moderator unter. In Bahn oder Auto heißt das: ständig zur Lautstärke greifen.",
+    "Die richtige Lösung hängt davon ab, wo der Ton liegt: in einer Streaming-App oder als Datei, über die du verfügst."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/de/7.webp",
+    "alt": "Screenshot mit der Überschrift Mehrere Projekte speichern: Projektliste in Increase Volume mit MP3- und Videodateien",
+    "caption": "Verstärke eine ganze Reihe Folgen oder Kapitel; jede bleibt in der Projektliste."
+  },
+  "sections": [
+    {
+      "heading": "Streaming in einer Podcast-App",
+      "paragraphs": [
+        "Ton in einer Streaming-App kannst du nicht bearbeiten, aber einige Player verarbeiten die Lautheit in Echtzeit:"
+      ],
+      "list": [
+        "Overcast: Voice Boost normalisiert und komprimiert Sprache; pro Sendung oder global einschaltbar.",
+        "Pocket Casts: Volume Boost und Trim Silence in den Wiedergabeeffekten.",
+        "Spotify: Lautstärke normalisieren in den Wiedergabeeinstellungen.",
+        "Apple Podcasts: keine Lautheitsfunktion. „Lautstärke anpassen“ unter Einstellungen › Musik gilt nur für Musik, nicht für Podcasts."
+      ],
+      "note": "Diese Funktionen wirken nur beim Abspielen in der jeweiligen App. Sie ändern die Datei nicht, verschiebst du die Folge woanders hin, verbessert sich nichts."
+    },
+    {
+      "heading": "Heruntergeladene Dateien",
+      "paragraphs": [
+        "Viele Podcasts bieten auf ihrer Website einen direkten MP3-Download, Vorlesungsplattformen exportieren MP3 oder MP4, und Hörbücher ohne DRM (etwa LibriVox, Shops mit MP3-Download oder eigene Rips) kommen als MP3 oder M4B. Liegt eine Datei in Dateien oder iCloud Drive, öffnet Increase Volume sie, verstärkt den Pegel bis ×10 und sichert eine neue Kopie. Der Schalter „Audioqualität verbessern“ ist für Sprache gemacht – hier passt er am besten."
+      ],
+      "note": "Hörbücher aus Audible, Apple Books, BookBeat oder Spotify sowie Downloads in Apple Podcasts sind kopiergeschützt und lassen sich von keiner anderen App importieren."
+    },
+    {
+      "heading": "Faktor für gesprochenes Wort wählen",
+      "table": {
+        "head": [
+          "Quelle",
+          "Typischer Faktor"
+        ],
+        "rows": [
+          [
+            "Professioneller Podcast, nur etwas leise",
+            "×1,5 – ×2"
+          ],
+          [
+            "Unabhängige Sendung oder Interview mit leisem Gast",
+            "×3 – ×5"
+          ],
+          [
+            "Vorlesung oder Meeting aus der Distanz aufgenommen",
+            "×6 – ×10"
+          ],
+          [
+            "Alter Hörbuch-Rip",
+            "×2 – ×4"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Schritt für Schritt: Folge oder Kapitel verstärken",
+    "intro": "Für Dateien in Dateien, iCloud Drive, Dropbox oder per Mail empfangen.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Datei hinzufügen",
+        "text": "Increase Volume öffnen und die Folge aus Dateien hinzufügen, oder in Dateien die Datei gedrückt halten → Teilen → Increase Volume."
+      },
+      {
+        "name": "Audioqualität verbessern einschalten",
+        "text": "Es ist Sprache; der Schalter hält Konsonanten nach der Verstärkung klar."
+      },
+      {
+        "name": "Faktor einstellen",
+        "text": "Die Tabelle oben als Richtwert nehmen und auf „Lautstärke verstärken“ tippen."
+      },
+      {
+        "name": "Vergleichen",
+        "text": "An der lautesten Stelle (Intro-Musik, Lachen) zwischen Original und Verarbeitet wechseln."
+      },
+      {
+        "name": "Verarbeitete Datei laden",
+        "text": "In Dateien sichern. Die verstärkte Datei spielst du in Dateien, in Bücher (Hörbücher) oder in jedem Player ab, der lokale Audiodateien öffnet."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipps",
+    "items": [
+      "Verstärke alle Kapitel eines Hörbuchs mit demselben Faktor, damit der Pegel von Kapitel zu Kapitel gleich bleibt.",
+      "Für Video-Vorlesungen (MP4) gelten dieselben Schritte; das Bild bleibt unberührt.",
+      "Hat eine Datei laute Intro-Musik und leise Sprache, wähle den Faktor nach der Sprache und nimm mit „Audioqualität verbessern“ ein leicht komprimiertes Intro in Kauf."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kann ich Apple Podcasts lauter machen?",
+      "answer": "Apple Podcasts hat keine Einstellung für Lautheit oder Sprachverstärkung. Wechsle entweder zu einem Player mit dieser Funktion (Overcast, Pocket Casts) oder lade die MP3 der Folge von der Website der Sendung und verstärke die Datei mit Increase Volume."
+    },
+    {
+      "question": "Kann ich ein Audible-Hörbuch verstärken?",
+      "answer": "Nein. Audible-Dateien sind verschlüsselt und lassen sich in anderen Apps nicht öffnen. Der Audible-Player hat in den Wiedergabeeinstellungen eine begrenzte Lautstärkeverstärkung."
+    },
+    {
+      "question": "Bleiben Kapitel und Cover der verstärkten Folge erhalten?",
+      "answer": "Increase Volume verarbeitet den Ton und schreibt eine neue Datei. Grundlegende Metadaten wie der Titel bleiben erhalten, wo das Format es zulässt; Kapitelmarken gehen eventuell verloren."
+    }
+  ],
+  "related": [
+    "mp3-lauter-machen-iphone",
+    "sprachmemo-lauter-machen-iphone",
+    "ton-lauter-machen-ohne-qualitaetsverlust"
+  ]
+}

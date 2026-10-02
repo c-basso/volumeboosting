@@ -1,0 +1,127 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "äänikirja hiljainen",
+  "priority": 12,
+  "keywords": "äänikirja hiljainen, podcast kovemmaksi iPhone, podcast liian hiljainen, äänikirja kovemmaksi, luentotallenne hiljainen",
+  "title": "Näin saat podcastin tai äänikirjan kovemmaksi iPhonella",
+  "description": "Hiljainen podcast, äänikirja tai luentotallenne? Käytä suoratoistossa soittimen omaa toimintoa ja tehosta ladatut tiedostot jopa 10× Increase Volumella.",
+  "h1": "Näin saat podcastin tai äänikirjan kovemmaksi iPhonella",
+  "eyebrow": "Podcastit ja äänikirjat",
+  "card_title": "Podcast tai äänikirja kovemmaksi",
+  "card_summary": "Soittimen asetukset suoratoistoon; oikea tiedoston tehostus MP3- tai M4A-jaksoille ja -luvuille.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Suoratoistettaville jaksoille käytä podcast-sovelluksen omaa äänenvoimakkuustoimintoa (Overcastin Voice Boost, Pocket Castsin Volume Boost; Apple Podcastsissa sitä ei ole). Jaksot, äänikirjan luvut tai luennot, jotka sinulla on tiedostoina (MP3, M4A, MP4 Tiedostoissa tai iCloud Drivessa), avaa Increase Volumessa, laita ”Paranna äänenlaatua” päälle, tehosta ×3–×10, vertaa Alkuperäistä ja Käsiteltyä ja napauta ”Lataa käsitelty”, jolloin saat kovemman kopion, joka soi missä tahansa sovelluksessa.",
+  "intro": [
+    "Puhutulla äänellä on äänenvoimakkuusongelma: podcastit pitäisi masteroida noin −16 LUFSiin, mutta itsenäiset ohjelmat, luentotallenteet ja vanhemmat äänikirjat ovat usein paljon hiljaisempia, ja yksi hiljainen vieras hukkuu kovaäänisen juontajan rinnalla. Junassa tai autossa se tarkoittaa jatkuvaa äänenvoimakkuuden säätöä.",
+    "Oikea ratkaisu riippuu siitä, missä ääni on: suoratoistosovelluksessa vai tiedostona, jota hallitset itse."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Increase Volumen projektilista iPhonella: useita MP3- ja videotiedostoja kokoineen ja kestoineen",
+    "caption": "Tehosta kokonainen sarja jaksoja tai lukuja; jokainen jää projektilistaan."
+  },
+  "sections": [
+    {
+      "heading": "Suoratoisto podcast-sovelluksessa",
+      "paragraphs": [
+        "Suoratoistosovelluksen sisällä olevaa ääntä et voi muokata, mutta useat soittimet käsittelevät äänenvoimakkuutta reaaliajassa:"
+      ],
+      "list": [
+        "Overcast: Voice Boost normalisoi ja pakkaa puhetta; kytke päälle ohjelmakohtaisesti tai kaikille.",
+        "Pocket Casts: Volume Boost ja Trim Silence toistoefekteissä.",
+        "Spotify: Normalisoi äänenvoimakkuus toistoasetuksissa.",
+        "Apple Podcasts: ei äänenvoimakkuustoimintoa. Asetukset › Musiikki › Äänitason tarkistus koskee vain musiikkia, ei podcasteja."
+      ],
+      "note": "Nämä toiminnot toimivat vain kyseisessä sovelluksessa toistettaessa. Ne eivät muuta tiedostoa, joten jos siirrät jakson muualle, mikään ei parane."
+    },
+    {
+      "heading": "Ladatut tiedostot",
+      "paragraphs": [
+        "Monet podcastit tarjoavat suoran MP3-latauksen verkkosivuillaan, luentoalustat vievät MP3:ta tai MP4:ää, ja DRM-vapaat äänikirjat (esim. LibriVox, MP3-latauksia myyvät kaupat tai omat rippisi) tulevat MP3:na tai M4B:nä. Kun tiedosto on Tiedostoissa tai iCloud Drivessa, Increase Volume avaa sen, kertoo tason jopa ×10:llä ja tallentaa uuden kopion. ”Paranna äänenlaatua” on suunniteltu puheelle, joten tässä se on parhaimmillaan."
+      ],
+      "note": "BookBeatin, Storytelin, Nextoryn, Audiblen ja Apple Booksin äänikirjat sekä Apple Podcastsin tai Spotifyn sisäiset lataukset ovat kopiosuojattuja, eikä mikään muu sovellus voi tuoda niitä."
+    },
+    {
+      "heading": "Kertoimen valinta puheelle",
+      "table": {
+        "head": [
+          "Lähde",
+          "Tyypillinen kerroin"
+        ],
+        "rows": [
+          [
+            "Ammattimaisesti tuotettu podcast, vain vähän hiljainen",
+            "×1,5 – ×2"
+          ],
+          [
+            "Itsenäinen ohjelma tai haastattelu hiljaisen vieraan kanssa",
+            "×3 – ×5"
+          ],
+          [
+            "Kaukaa äänitetty luento tai kokous",
+            "×6 – ×10"
+          ],
+          [
+            "Vanha äänikirjaripi",
+            "×2 – ×4"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Vaihe vaiheelta: jakson tai luvun tehostus",
+    "intro": "Tiedostoille Tiedostoissa, iCloud Drivessa, Dropboxissa tai sähköpostilla saaduille.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Lisää tiedosto",
+        "text": "Avaa Increase Volume ja lisää jakso Tiedostoista, tai paina Tiedostoissa tiedostoa pitkään → Jaa → Increase Volume."
+      },
+      {
+        "name": "Laita Paranna äänenlaatua päälle",
+        "text": "Kyse on puheesta; kytkin pitää konsonantit selkeinä tehostuksen jälkeen."
+      },
+      {
+        "name": "Aseta kerroin",
+        "text": "Käytä yllä olevaa taulukkoa ohjeena ja napauta ”Tehosta äänenvoimakkuutta”."
+      },
+      {
+        "name": "Vertaa",
+        "text": "Vaihda Alkuperäinen/Käsitelty kovimmassa kohdassa (tunnusmusiikki, nauru)."
+      },
+      {
+        "name": "Lataa käsitelty",
+        "text": "Tallenna Tiedostoihin. Toista tehostettu tiedosto Tiedostoista, Kirjat-apista (äänikirjat) tai mistä tahansa soittimesta, joka avaa paikallista ääntä."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Vinkit",
+    "items": [
+      "Tehosta äänikirjan kaikki luvut samalla kertoimella, jotta taso pysyy samana luvusta toiseen.",
+      "Videoluennoille (MP4) pätevät samat vaiheet; kuva pysyy koskemattomana.",
+      "Jos tiedostossa on kova tunnusmusiikki ja hiljaista puhetta, valitse kerroin puheen mukaan ja hyväksy hieman pakattu tunnari ”Paranna äänenlaatua” päällä."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Voinko koventaa Apple Podcastsia?",
+      "answer": "Apple Podcastsissa ei ole äänenvoimakkuus- tai puheen tehostusasetusta. Vaihda soittimeen, jossa se on (Overcast, Pocket Casts), tai lataa jakson MP3 ohjelman verkkosivulta ja tehosta tiedosto Increase Volumella."
+    },
+    {
+      "question": "Voinko tehostaa BookBeatin tai Storytelin äänikirjan?",
+      "answer": "Et. Niiden tiedostot ovat salattuja eivätkä aukea muissa sovelluksissa. Käytä palvelun oman soittimen ääniasetuksia, jos niitä on."
+    },
+    {
+      "question": "Säilyvätkö tehostetun jakson luvut ja kansikuva?",
+      "answer": "Increase Volume käsittelee äänen ja kirjoittaa uuden tiedoston. Perusmetatiedot, kuten nimi, säilyvät, jos tiedostomuoto sen sallii; lukumerkit eivät välttämättä säily."
+    }
+  ],
+  "related": [
+    "mp3-tiedosto-kovemmaksi-iphonella",
+    "sanelin-aanite-kovemmaksi-iphonella",
+    "aani-kovemmaksi-ilman-laadun-heikkenemista"
+  ]
+}

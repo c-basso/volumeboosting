@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "cicha muzyka na iPhonie",
+  "priority": 5,
+  "keywords": "cicha muzyka na iPhonie, jak zgłośnić muzykę na iPhonie, iPhone za cicho muzyka, zwiększyć głośność muzyki iPhone, wzmacniacz muzyki",
+  "title": "Muzyka za cicha na iPhonie? 6 ustawień i wzmocnienie 10×",
+  "description": "Muzyka za cicha na iPhonie? Sprawdź bezpieczeństwo słuchawek, korektor, wyrównywanie głośności i balans, a własne pliki MP3 zgłośnij nawet 10× w Volume Boost.",
+  "h1": "Muzyka za cicha na iPhonie: ustawienia i rozwiązanie",
+  "eyebrow": "Muzyka",
+  "card_title": "Cicha muzyka",
+  "card_summary": "Sześć ustawień, które ściszają muzykę, i jak zgłośnić własne pliki audio nawet 10×.",
+  "quick_answer": "Jeśli cała muzyka na iPhonie jest cicha, sprawdź Ustawienia › Dźwięki i haptyka › Bezpieczeństwo słuchawek (ograniczanie głośnych dźwięków), korektor w ustawieniach Muzyki, wyrównywanie głośności i balans w Dostępności. Jeśli cichy jest jeden plik (MP3, nagranie, demo), otwórz go w Volume Boost, wzmocnij ×2–×5 i zachowaj głośniejszą kopię w Plikach. Muzyki z Apple Music czy Spotify nie da się wzmocnić jako pliku, bo jest zabezpieczona.",
+  "intro": [
+    "Za „cichą muzyką” stoją dwa różne problemy: ustawienie, które ogranicza cały dźwięk, albo plik nagrany lub zmiksowany za cicho. Pierwsze naprawisz w Ustawieniach; drugie wymaga zgłośnienia samego pliku.",
+    "Oto oba, w kolejności, w jakiej warto je sprawdzić."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Volume Boost przetwarza plik MP3, widoczna nazwa, rozmiar i czas trwania",
+    "caption": "Własne pliki audio (MP3, M4A, WAV) są przetwarzane na urządzeniu."
+  },
+  "sections": [
+    {
+      "heading": "Sześć ustawień, które ściszają muzykę",
+      "paragraphs": [],
+      "list": [
+        "Bezpieczeństwo słuchawek: Ustawienia › Dźwięki i haptyka › Bezpieczeństwo słuchawek może ograniczać poziom w słuchawkach.",
+        "Korektor: Ustawienia › Muzyka › Korektor. Ustawienie „Późny wieczór” podnosi ciche fragmenty i może sprawić, że muzyka wydaje się głośniejsza w hałasie.",
+        "Wyrównywanie głośności: Ustawienia › Muzyka. Włączone wyrównuje poziomy między utworami, co może ściszać głośne nagrania.",
+        "Balans: Ustawienia › Dostępność › Audio i wizualne › Balans powinien być na środku.",
+        "Bluetooth: niektóre słuchawki mają własną głośność; sprawdź ich aplikację.",
+        "Kurz w głośniku lub złączu tłumi dźwięk; delikatnie je wyczyść."
+      ],
+      "ordered": true,
+      "note": "Nazwy menu opisano według iOS 18 i mogą się nieco różnić między wersjami."
+    },
+    {
+      "heading": "Gdy cichy jest jeden plik: wzmocnij plik",
+      "paragraphs": [
+        "Dema, nagrania na żywo, stare MP3 i pobrane pliki bywają zmiksowane cicho. Volume Boost otworzy plik z Plików, pomnoży poziom i zapisze nowy plik. „Mocniejszy bas” dodaje pełni, gdy wzmacniasz muzykę."
+      ]
+    },
+    {
+      "heading": "Czego nie da się wzmocnić",
+      "paragraphs": [
+        "Utwory z Apple Music, Spotify i innych serwisów są zabezpieczone DRM i nie da się ich otworzyć jako plików. Dla nich zostają ustawienia powyżej. Pliki, które masz na własność, można wzmocnić."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Zgłośnij plik audio w Volume Boost",
+    "intro": "Działa z MP3, M4A i WAV z Plików.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Zaimportuj z Plików",
+        "text": "Otwórz aplikację i wybierz utwór w Plikach."
+      },
+      {
+        "name": "Wybierz poziom",
+        "text": "Muzyka jest zwykle zmiksowana blisko maksimum; zacznij od ×2–×3 i zwiększaj ostrożnie."
+      },
+      {
+        "name": "Porównaj",
+        "text": "Stuknij „Wzmocnij głośność do ×N” i posłuchaj refrenu, przełączając Oryginał/Przetworzony."
+      },
+      {
+        "name": "Zapisz",
+        "text": "Stuknij „Pobierz przetworzony” → Zachowaj w Plikach."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Wskazówki",
+    "items": [
+      "Komercyjnie zmasterowana muzyka ma mało zapasu; ×2 często wystarczy.",
+      "Nagrania na żywo z telefonu mają duży zapas i znoszą ×5 i więcej.",
+      "Zachowaj oryginał; aplikacja zawsze tworzy nowy plik."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dlaczego muzyka w słuchawkach jest ciszej niż wcześniej?",
+      "answer": "Często dlatego, że włączone jest ograniczanie głośnych dźwięków w Bezpieczeństwie słuchawek albo iPhone obniżył poziom po długim słuchaniu na dużej głośności."
+    },
+    {
+      "question": "Czy mogę zgłośnić muzykę ze Spotify tą aplikacją?",
+      "answer": "Nie. Muzyka ze streamingu jest zabezpieczona i nie da się jej otworzyć jako pliku. Użyj ustawień Spotify i iOS."
+    },
+    {
+      "question": "Czy utwór się przesteruje?",
+      "answer": "Tylko jeśli szczyty przekroczą maksimum. Słuchaj z Oryginał/Przetworzony i zmniejsz mnożnik, gdy pojawi się chrypienie."
+    }
+  ],
+  "related": [
+    "jak-zwiekszyc-glosnosc-mp3-iphone",
+    "glosniej-bez-utraty-jakosci",
+    "cichy-podcast-audiobook-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "glazba pretiha na iPhoneu",
+  "priority": 5,
+  "keywords": "glazba pretiha iPhone, pojačati glazbu na iPhoneu, provjera zvuka iPhone, smanji glasan zvuk, pjesme pretihe",
+  "title": "Glazba na iPhoneu pretiha? Ovako je pojačaš u par koraka",
+  "description": "Pjesme pretihe na iPhoneu? Provjeri Provjeru zvuka, ekvilizator i ograničenje slušalica, a svoje MP3 datoteke i snimke pojačaj do 10× uz Pojačaj Glasnoću Zvuka.",
+  "h1": "Kako pojačati glazbu na iPhoneu",
+  "eyebrow": "Glazba",
+  "card_title": "Pojačaj glazbu",
+  "card_summary": "Tri iOS postavke koje tiho ograničavaju glazbu i kako pojačati pjesme koje imaš kao datoteku.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Kreni od postavki: u Postavke › Glazba isključi Provjeru zvuka i u ekvilizatoru isprobaj „Kasna noć” (Late Night), koji podiže tihe dijelove; u Postavke › Zvukovi i dodir › Sigurnost slušalica isključi Smanji glasan zvuk. To utječe na streaming i reprodukciju. Glazbene datoteke koje su tvoje (MP3, M4A, WAV u Datotekama, demo snimke, probe) otvori u aplikaciji Pojačaj Glasnoću Zvuka, pojačaj ×1,5–×4, usporedi Izvorno i Obrađeno i dodirni „Preuzmi obrađeno”.",
+  "intro": [
+    "„Glazba na mom iPhoneu je pretiha” ima dva vrlo različita odgovora. Ako Apple Music ili Spotify zvuče tiho na zvučniku ili u slušalicama, telefon se najvjerojatnije ograničava postavkom koju promijeniš za minutu. Ako je tiha *određena* pjesma — stari MP3, proba, prijateljev demo — više razine treba datoteka.",
+    "Ovaj vodič pokriva oboje, tim redom."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Snimka zaslona „Make music louder”: Pojačaj Glasnoću Zvuka obrađuje glazbenu datoteku s nazivom, veličinom i trajanjem",
+    "caption": "Glazbene datoteke koje su tvoje pojačavaš izravno iz Datoteka."
+  },
+  "sections": [
+    {
+      "heading": "Postavke koje utišavaju svu glazbu (provjeri ih prve)",
+      "list": [
+        "Smanji glasan zvuk: Postavke › Zvukovi i dodir › Sigurnost slušalica. Kad je uključeno, ograničava glasnoću slušalica na razinu koju odabereš. Isključi ga ili podigni granicu.",
+        "Provjera zvuka: Postavke › Glazba › Provjera zvuka izjednačava sve pjesme na istu glasnoću i zato utišava glasne. Isključi je ako ti sve zvuči tiho.",
+        "Ekvilizator: Postavke › Glazba › Ekvilizator. „Kasna noć” sažima dinamiku pa tihi dijelovi postaju glasniji; „Glasnoća” (Loudness) naglašava bas i visoke tonove na niskoj glasnoći. Isprobaj oboje.",
+        "Ograničenje glasnoće u Vremenu uporabe: Postavke › Vrijeme uporabe › Ograničenja sadržaja i privatnosti može imati ograničenje koje je zaključao roditelj ili stara postavka.",
+        "Bluetooth: neke slušalice i zvučnici imaju vlastitu glasnoću; pojačaj i na samom uređaju."
+      ]
+    },
+    {
+      "heading": "Koje glazbene datoteke možeš pojačati",
+      "paragraphs": [
+        "Pojačaj Glasnoću Zvuka pojačava datoteke koje su stvarno tvoje: MP3 i WAV u Datotekama ili na iCloud Driveu, probe u M4A, demo snimke primljene Mailom ili AirDropom, izvoze iz GarageBanda i zvuk glazbenih videa. Prikazuje izvođača i naslov ako ih datoteka sadrži. Preuzimanja iz Apple Musica, Spotifyja ili YouTube Musica šifrirana su i nijedna ih druga aplikacija ne može otvoriti; za njih koristi postavke iznad."
+      ]
+    },
+    {
+      "heading": "Koliko pojačati pjesmu",
+      "paragraphs": [
+        "Objavljena glazba već je masterirana blizu najveće razine, pa je ×1,5–×2 obično granica prije nego što se refren odreže. Kućne snimke, demo snimke i stari ripovi često imaju 6–12 dB prostora i podnose ×2–×4. Odluči uz Izvorno/Obrađeno na najglasnijem refrenu."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Korak po korak: pojačaj glazbenu datoteku",
+    "intro": "Za pjesmu u Datotekama, izvoz iz GarageBanda ili snimku.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Dodaj pjesmu",
+        "text": "Otvori Pojačaj Glasnoću Zvuka i dodaj datoteku iz Datoteka ili je podijeli s aplikacijom iz Datoteka, Maila ili GarageBanda."
+      },
+      {
+        "name": "Odaberi umjeren množitelj",
+        "text": "Postavi „Množitelj glasnoće” na ×1,5–×2 za objavljenu glazbu i ×2–×4 za demo snimke i snimke. Isprobaj „Poboljšaj kvalitetu zvuka” uključeno i isključeno i zadrži prirodnije. Dodirni „Pojačaj glasnoću”."
+      },
+      {
+        "name": "Provjeri refren",
+        "text": "Prebacuj Izvorno/Obrađeno na najglasnijem dijelu. Ako krči, smanji."
+      },
+      {
+        "name": "Preuzmi obrađeno",
+        "text": "Spremi u Datoteke i dodaj glasniju pjesmu u svoj player ili je podijeli."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Savjeti",
+    "items": [
+      "Cijeli album ili set pojačaj istim množiteljem da pjesme ostanu ujednačene.",
+      "Kod glazbenih videa slika ostaje netaknuta; obrađuje se samo zvuk.",
+      "Ako sam masteriraš glazbu, pojačaj miks, a ne završni master; limiter u DAW-u napravit će to čišće od običnog pojačanja."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Može li pojačivač glasnoće pojačati Apple Music ili Spotify?",
+      "answer": "Ne uređivanjem pjesama, koje su šifrirane. Koristi Provjeru zvuka, ekvilizator i Sigurnost slušalica ili normalizaciju u aplikaciji za streaming. Pojačaj Glasnoću Zvuka pojačava datoteke koje su tvoje."
+    },
+    {
+      "question": "Zašto su neke pjesme tiše od drugih?",
+      "answer": "Zbog različitih razina masteringa. Provjera zvuka ih izjednačava, ali utišava glasne; kad je isključiš, ponovno zvuče glasno. Tihe datoteke koje su tvoje pojačaj uz Pojačaj Glasnoću Zvuka da se uklope."
+    },
+    {
+      "question": "Mijenja li se format pjesme pri pojačanju?",
+      "answer": "Aplikacija stvara novu datoteku u uobičajenom audioformatu pokraj izvornika. Izvornik se ne mijenja."
+    }
+  ],
+  "related": [
+    "pojacati-glasnocu-mp3-iphone",
+    "pojacati-podcast-audioknjigu-iphone",
+    "pojacati-glasnocu-bez-gubitka-kvalitete"
+  ]
+}

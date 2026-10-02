@@ -1,0 +1,137 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "cara mengeraskan suara di iMovie",
+  "priority": 11,
+  "keywords": "cara mengeraskan suara di iMovie, volume iMovie tidak bisa lebih, lebih keras dari iMovie, iMovie lebih dari 500%, volume maksimal iMovie iPhone",
+  "title": "Volume iMovie: Cara Melewati Batas 500% di iPhone (10×)",
+  "description": "iMovie di iPhone berhenti di sekitar 500% per klip. Jika belum cukup, Penguat Volume membawa video yang sama ke 10× dengan satu slider, tanpa proyek dan ekspor.",
+  "h1": "Batas volume iMovie (500%) dan cara melewatinya",
+  "eyebrow": "Dibanding iMovie",
+  "card_title": "Lebih keras dari 500% iMovie",
+  "card_summary": "Cara mengeraskan di iMovie, kenapa slider berhenti di 5×, dan jalan menuju 10× dengan satu slider.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "iMovie di iPhone bisa mengeraskan klip hingga sekitar 500% (5×): ketuk klip, ketuk ikon speaker, geser ke kanan, lalu ekspor. Jika video masih pelan di level maksimal, buka file yang sama di Penguat Volume, yang melipatgandakan audio hingga ×10 (1000%), memungkinkan perbandingan Asli/Diproses, dan menyimpan salinan baru tanpa membuat proyek. Aplikasi ini juga membuka file audio saja, yang tidak bisa dibuka iMovie.",
+  "intro": [
+    "iMovie adalah jawaban gratis Apple untuk „cara mengeraskan suara video”, dan untuk klip yang sedikit pelan memang berhasil. Tetapi slidernya punya batas, dan rekaman dari ujung ruangan atau rekaman layar sering butuh lebih. Lalu orang mengekspor di 500%, masih kurang jelas, dan mencari sesuatu yang „lebih keras dari iMovie”.",
+    "Berikut seberapa jauh iMovie bisa, cara memakainya, dan apa yang dilakukan jika belum cukup."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Tangkapan layar „Select the amount of boosting”: slider pengali volume ×10, dua kali lipat maksimal iMovie",
+    "caption": "×10 di Penguat Volume kira-kira dua kali lipat maksimal iMovie."
+  },
+  "sections": [
+    {
+      "heading": "Cara mengeraskan suara di iMovie untuk iPhone",
+      "paragraphs": [
+        "Jika belum pernah mencoba, jalur gratis ini perlu diketahui:"
+      ],
+      "list": [
+        "Buka iMovie → Mulai Proyek Baru → Film, lalu pilih video.",
+        "Ketuk klip di garis waktu untuk memilihnya.",
+        "Ketuk ikon speaker di bar alat dan geser slider volume ke kanan. Slider berhenti di sekitar 500%.",
+        "Ketuk Selesai, lalu ikon Bagikan → Simpan Video, dan tunggu iMovie meng-encode ulang seluruh klip."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Di mana iMovie tidak cukup",
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Penguat Volume"
+        ],
+        "rows": [
+          [
+            "Penguatan maksimal",
+            "Sekitar 500% (5×)",
+            "×10 (1000%)"
+          ],
+          [
+            "File audio saja (MP3, Memo Suara)",
+            "Tidak didukung",
+            "Didukung"
+          ],
+          [
+            "Alur kerja",
+            "Buat proyek → tambah klip → atur → ekspor",
+            "Bagikan dari Foto → slider → Unduh yang diproses"
+          ],
+          [
+            "Dengar sebelum/sesudah",
+            "Putar garis waktu",
+            "Pengalih Asli / Diproses"
+          ],
+          [
+            "Encode ulang gambar",
+            "Ya, ekspor penuh",
+            "Hanya audio diproses, gambar tetap utuh"
+          ],
+          [
+            "Peningkatan suara bicara",
+            "Tidak",
+            "Opsi Tingkatkan Kualitas Audio"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Kapan 500% cukup, dan kapan tidak",
+      "paragraphs": [
+        "5× sekitar +14 dB. Itu cukup untuk klip yang sedikit pelan. Tidak cukup untuk kuliah dari barisan belakang, ponsel yang tertinggal di meja saat mengobrol, atau kebanyakan rekaman layar, yang sering 15–25 dB di bawah level normal. Untuk itu Anda butuh ×8–×10 dan cara untuk mendengar apakah momen paling keras terpotong di level tersebut; itulah fungsi pengalih Asli/Diproses di Penguat Volume."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: melewati batas iMovie",
+    "intro": "Gunakan video asli, bukan ekspor iMovie, agar diperkuat sekali dari sumber paling bersih.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Bagikan video asli ke aplikasi",
+        "text": "Di Foto, buka klip, ketuk Bagikan, dan pilih Increase Volume."
+      },
+      {
+        "name": "Pengali di atas 5",
+        "text": "Geser «Pengali volume» ke ×6–×10 sesuai seberapa pelan. Untuk suara bicara, aktifkan «Tingkatkan Kualitas Audio». Ketuk «Boost volume»."
+      },
+      {
+        "name": "Bandingkan",
+        "text": "Beralih antara Asli/Diproses di bagian paling keras. Jika kasar, turunkan satu tingkat dan perkuat ulang."
+      },
+      {
+        "name": "Unduh yang diproses",
+        "text": "Simpan salinan yang lebih keras ke Foto atau bagikan langsung. File asli tetap utuh."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Jika tetap ingin memakai iMovie untuk memotong atau menambah judul, perkuat dulu di Penguat Volume, lalu edit file yang diperkuat di iMovie.",
+      "Jangan menumpuk penguatan (iMovie di 500% lalu ×10 pada ekspornya); langsung dari file asli ke level yang dibutuhkan.",
+      "Untuk file audio, lupakan iMovie; aplikasi ini tidak membuka MP3 atau M4A."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kenapa iMovie membatasi volume di 500%?",
+      "answer": "Apple membatasi slider agar editan biasa tidak terlalu banyak terpotong. Itu nilai yang wajar untuk video normal, tetapi rendah untuk rekaman yang sangat pelan."
+    },
+    {
+      "question": "Apakah Penguat Volume gratis seperti iMovie?",
+      "answer": "Unduhannya gratis dan ada masa uji coba gratis; penguatan tanpa batas dibuka dengan langganan. Harga terbaru ada di App Store."
+    },
+    {
+      "question": "Apakah iMovie di Mac bisa lebih dari 500%?",
+      "answer": "iMovie untuk Mac juga berhenti di sekitar 400–500%. Program seperti Final Cut Pro atau Audacity bisa lebih tinggi, tetapi butuh komputer dan memindahkan file. Penguat Volume melakukannya di iPhone."
+    }
+  ],
+  "related": [
+    "cara-mengeraskan-suara-video-di-iphone",
+    "mengeraskan-suara-tanpa-mengurangi-kualitas",
+    "mengeraskan-video-dari-foto"
+  ]
+}

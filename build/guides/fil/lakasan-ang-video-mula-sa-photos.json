@@ -1,0 +1,101 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "lakasan ang video sa Photos",
+  "priority": 9,
+  "keywords": "lakasan ang video sa Photos iPhone, Photos app volume, mahina ang video sa Photos, palakasin ang video mula sa Photos, share sa Increase Volume",
+  "title": "Paano lakasan ang video diretso mula sa Photos app (iPhone)",
+  "description": "Walang volume slider ang Photos, pero kaya mo pa ring i-boost ang video: i-tap ang Share, piliin ang Increase Volume, i-slide sa 10× at i-save sa Photos.",
+  "h1": "Paano lakasan ang video diretso mula sa Photos app",
+  "eyebrow": "Mula sa Photos",
+  "card_title": "I-boost ang video mula sa Share ng Photos",
+  "card_summary": "Mute lang ang kaya ng Photos. Gamit ang Share → Increase Volume, ma-boost ang clip at mase-save ang malakas na kopya katabi ng orihinal.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Hindi kayang lakasan ng Photos app ang video; mute lang ang kaya ng editor nito (at sa iPhone 16 o mas bago, ina-adjust ang Spatial Audio gamit ang Audio Mix). Para i-boost ang video mula sa Photos: buksan ito, i-tap ang Share, piliin ang Increase Volume, i-drag ang «Volume multiplication» hanggang ×10, i-tap ang «Boost Volume», tapos «Download Processed» → Save Video. Lalabas sa Photos ang mas malakas na kopya katabi ng orihinal.",
+  "intro": [
+    "Karamihan ay naghahanap ng volume control sa editor ng Photos at hindi nakakahanap, kasi wala talaga. Kayang mag-trim, mag-crop, mag-ayos ng kulay at mag-mute ng Photos, pero hindi magpalakas. Ang *meron* ang Photos ay share sheet, at doon kumokonekta ang Increase Volume, kaya dalawang tap lang ang layo ng boost mula sa kahit anong video sa library mo.",
+    "Ipapakita ng gabay na ito ang workflow at kung ano talaga ang kaya ng Photos editor sa audio."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "iOS share sheet mula sa Increase Volume na may mga option para i-save ang boosted video pabalik sa Photos o sa Files",
+    "caption": "Bumabalik sa Photos ang boosted na kopya gamit ang share sheet; hindi nagagalaw ang orihinal."
+  },
+  "sections": [
+    {
+      "heading": "Ano ang kaya at hindi kaya ng Photos editor sa audio",
+      "list": [
+        "Mute: i-tap ang Edit, tapos ang speaker icon sa itaas para tanggalin ang buong audio track.",
+        "Audio Mix (iPhone 16 o mas bago, video na may Spatial Audio): iba't ibang mix para palitawin ang boses at bawasan ang ingay. *Balanse* ang binabago, hindi ang kabuuang lakas.",
+        "Volume boost: wala sa kahit anong version ng Photos."
+      ]
+    },
+    {
+      "heading": "Paggamit ng share sheet kasama ang Increase Volume",
+      "paragraphs": [
+        "Mula version 1.2.7, lumalabas ang Increase Volume sa share sheet ng iOS. Kapag nag-share ka ng video dito, gagawa agad ng project na may file name, size at haba para alam mong tama ang clip. Pagkatapos ng boost, bubuksan ulit ng «Download Processed» ang share sheet, kung saan ibabalik ng Save Video sa Photos ang mas malakas na kopya. Dahil bagong file ito, hindi kailanman napapalitan ang orihinal.",
+        "Kung hindi lumabas ang Increase Volume sa share sheet sa unang beses, i-scroll ang hilera ng apps hanggang dulo, i-tap ang More at i-on ito (puwede mo rin itong i-drag sa unahan)."
+      ]
+    },
+    {
+      "heading": "Pag-boost ng maraming video",
+      "paragraphs": [
+        "May listahan ng projects ang Increase Volume, kaya puwede kang magpadala ng ilang clip mula sa Photos at i-process isa-isa. Natatandaan ng bawat project ang file nito hangga't hindi mo binubura, kaya madaling bumalik mamaya at sumubok ng ibang multiplier."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: mula Photos papuntang mas malakas na video",
+    "intro": "Hindi na kailangang buksan muna ang Increase Volume; sa Photos magsimula.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Buksan ang video sa Photos",
+        "text": "Hanapin ang mahinang video at buksan nang full screen."
+      },
+      {
+        "name": "Share → Increase Volume",
+        "text": "I-tap ang Share, i-scroll ang hilera ng app icons at i-tap ang Increase Volume. Magbubukas ang bagong project."
+      },
+      {
+        "name": "I-boost",
+        "text": "I-drag ang «Volume multiplication» sa kailangang level (×3–×10), i-on ang «Improve Audio Quality» kung salita, at i-tap ang «Boost Volume»."
+      },
+      {
+        "name": "Ikumpara",
+        "text": "Gamitin ang Orihinal/Na-process toggle para marinig ang pagkakaiba."
+      },
+      {
+        "name": "Save Video",
+        "text": "I-tap ang «Download Processed», tapos Save Video. Sa Photos, nasa kasunod mismo ng orihinal ang mas malakas na kopya."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Idagdag ang Increase Volume sa favorites ng share sheet (More → Edit) para laging una.",
+      "Puwede ka ring mag-share ng video mula sa Files, Messages o Mail diretso sa app; pareho ang workflow.",
+      "Para makatipid sa storage, burahin ang mahinang orihinal kapag sigurado ka nang maganda ang boosted na kopya."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Napapalitan ba ng boost mula sa Photos ang orihinal kong video?",
+      "answer": "Hindi. Laging gumagawa ng bagong file ang app. Pag sine-save gamit ang Save Video, nadadagdagan ng pangalawang kopya ang Photos; walang pagbabago sa orihinal."
+    },
+    {
+      "question": "Puwede bang i-boost ang Live Photos o slow-mo?",
+      "answer": "Ine-export bilang normal na video ang slow-mo at time-lapse kaya puwedeng i-boost. Ang Live Photos ay mga larawan na may maikling clip at hindi suportado bilang video."
+    },
+    {
+      "question": "Bakit walang volume slider ang Photos app?",
+      "answer": "Para sa mabilisang edit ang Photos ayon sa Apple, at sa iMovie iniiwan ang pagbabago ng level. Hanggang mga 500% ang iMovie; umaabot ng ×10 ang Increase Volume at gumagana mula sa share sheet."
+    }
+  ],
+  "related": [
+    "paano-lakasan-ang-volume-ng-video-sa-iphone",
+    "imovie-volume-lampas-500-percent",
+    "paano-lakasan-ang-tiktok-video"
+  ]
+}

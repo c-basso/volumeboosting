@@ -1,0 +1,121 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "aumentar volume de MP3 no iPhone",
+  "priority": 6,
+  "keywords": "aumentar volume de MP3 no iPhone, deixar MP3 mais alto, amplificar arquivo de áudio iPhone, MP3 baixo, aumentar volume de áudio sem computador",
+  "title": "Como aumentar o volume de um MP3 no iPhone sem PC (10×)",
+  "description": "Deixe MP3, M4A ou WAV mais alto direto no iPhone, sem computador: importe do Arquivos, escolha a multiplicação, ouça Original/Processado e salve a cópia.",
+  "h1": "Como aumentar o volume de um MP3 no iPhone",
+  "eyebrow": "MP3",
+  "card_title": "MP3 mais alto",
+  "card_summary": "Sem Audacity, sem PC. Importe do Arquivos, arraste o controle e salve uma cópia MP3 mais alta.",
+  "quick_answer": "Para aumentar o volume de um MP3 no iPhone, abra o app Aumentar Volume, adicione o arquivo do Arquivos, arraste «Multiplicação do volume» (×2–×10), toque em «Amplificar volume», compare Original e Processado e toque em «Baixar processado» → Salvar em Arquivos. Tudo acontece no celular, sem computador e sem upload.",
+  "intro": [
+    "O jeito clássico de amplificar um MP3 é o Audacity no computador. No iPhone não existe função nativa: o Arquivos toca, mas não muda o volume, e o iMovie não abre arquivos só de áudio.",
+    "O app Aumentar Volume preenche essa lacuna: um controle, prévia antes de salvar e um novo arquivo no Arquivos."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/pt/3.webp",
+    "alt": "O app Aumentar Volume processando um arquivo MP3, com nome, tamanho e duração",
+    "caption": "O MP3 importado do Arquivos, pronto para amplificar."
+  },
+  "sections": [
+    {
+      "heading": "Por que o iPhone não aumenta o volume de um MP3 sozinho",
+      "paragraphs": [
+        "O Arquivos e o Música tocam áudio, mas não editam. O Gravador só edita as próprias gravações. O iMovie trabalha com vídeo. Para mudar o nível de um MP3, você precisa de um editor de áudio ou de um amplificador de volume."
+      ]
+    },
+    {
+      "heading": "Quais arquivos funcionam",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "Formato",
+          "Compatível",
+          "Observação"
+        ],
+        "rows": [
+          [
+            "MP3",
+            "Sim",
+            "Formato mais comum de downloads e podcasts"
+          ],
+          [
+            "M4A / AAC",
+            "Sim",
+            "Gravador e compras do iTunes sem DRM"
+          ],
+          [
+            "WAV",
+            "Sim",
+            "Sem compressão, muita folga"
+          ],
+          [
+            "Apple Music / Spotify",
+            "Não",
+            "Streaming protegido por DRM"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Quanto amplificar?",
+      "paragraphs": [
+        "Um podcast ou gravação baixa costuma aguentar ×4–×10. Uma música já masterizada tem pouca folga; comece com ×2. Ouça os trechos mais altos com Original/Processado antes de salvar."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Passo a passo: amplifique um MP3",
+    "intro": "Cerca de um minuto.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Adicione o arquivo",
+        "text": "Abra o app e escolha o MP3 no Arquivos, ou compartilhe com Increase Volume a partir de outro app."
+      },
+      {
+        "name": "Escolha a multiplicação",
+        "text": "Arraste «Multiplicação do volume». Para fala, ative «Melhorar qualidade do áudio»."
+      },
+      {
+        "name": "Amplifique",
+        "text": "Toque em «Amplificar volume para ×N» e alterne entre Original e Processado."
+      },
+      {
+        "name": "Salve no Arquivos",
+        "text": "Toque em «Baixar processado» e escolha Salvar em Arquivos."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Dicas",
+    "items": [
+      "Dê um nome claro ao novo arquivo no Arquivos, por exemplo «musica_mais_alta».",
+      "A lista de projetos do app permite voltar e testar outro nível.",
+      "Arquivos WAV grandes demoram um pouco mais, mas continuam sendo processados no aparelho."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dá para aumentar o volume de um MP3 sem computador?",
+      "answer": "Sim. O app Aumentar Volume faz isso direto no iPhone e salva a cópia mais alta no Arquivos."
+    },
+    {
+      "question": "O arquivo é enviado para um servidor?",
+      "answer": "Não. O processamento acontece no iPhone, sem conta e sem upload."
+    },
+    {
+      "question": "Dá para aumentar o volume de uma música do Apple Music?",
+      "answer": "Não, música de streaming é protegida por DRM. O app funciona com arquivos que são seus."
+    }
+  ],
+  "related": [
+    "musica-baixa-no-iphone",
+    "podcast-audiolivro-baixo-iphone",
+    "aumentar-volume-sem-perder-qualidade"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

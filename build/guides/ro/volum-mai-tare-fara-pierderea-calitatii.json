@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "mărire volum fără pierderea calității",
+  "priority": 10,
+  "keywords": "mărire volum fără pierderea calității, volum mai tare fără distorsiuni, amplificare video fără să sune spart, sunet spart după amplificare, amplificare audio curată",
+  "title": "Cum mărești volumul fără pierderea calității sau distorsiuni",
+  "description": "Când sună spart sunetul și când nu? Cum alegi multiplicarea, asculți Original/Procesat și faci un videoclip mai tare fără ca imaginea să se schimbe deloc.",
+  "h1": "Cum faci video și audio mai tari fără pierderea calității",
+  "eyebrow": "Calitate",
+  "card_title": "Mai tare fără pierderi",
+  "card_summary": "Rezervă, vârfuri și distorsiune explicate simplu, și cum găsești cel mai înalt nivel care rămâne curat.",
+  "quick_answer": "Sunetul distorsionează doar când vârfurile cele mai tari depășesc plafonul digital. O înregistrare încet are multă rezervă și suportă ×5–×10. Începe cu ×3 în Volume Boost, găsește momentul cel mai tare din clip, comută Original și Procesat și crește cât timp sună curat. Pentru vorbire activează „Îmbunătățește calitatea audio”. Imaginea videoclipului nu se schimbă niciodată.",
+  "intro": [
+    "Teama de a „strica” o înregistrare îi oprește pe mulți să o facă mai tare. Dar amplificarea nu înseamnă pierdere: cât timp vârfurile rămân sub plafon, sunetul devine pur și simplu mai tare.",
+    "Ghidul acesta explică ce se întâmplă și cum găsești cel mai bun nivel fără să ghicești."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "Ecran de rezultat în Volume Boost cu butonul „Descarcă procesat” și comutatorul Original/Procesat",
+    "caption": "Comută Original și Procesat înainte să salvezi."
+  },
+  "sections": [
+    {
+      "heading": "Rezerva: de ce înregistrările încet suportă mult",
+      "paragraphs": [
+        "Sunetul digital are un plafon (0 dBFS). O înregistrare încet stă poate cu 20 dB sub el; asta lasă loc pentru aproximativ 10× înainte ca vârfurile să atingă plafonul. Un clip cu o bufnitură tare aproape de plafon are puțină rezervă, chiar dacă restul e încet."
+      ]
+    },
+    {
+      "heading": "Cum auzi distorsiunea",
+      "paragraphs": [],
+      "list": [
+        "Găsește pasajul cel mai tare: râs, strigăt, refren.",
+        "Ascultă comutând Original/Procesat.",
+        "Dacă sună spart sau plat, scade multiplicarea cu o treaptă."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Se schimbă calitatea video?",
+      "paragraphs": [
+        "Nu. Volume Boost schimbă doar pista audio. Imaginea își păstrează rezoluția și nu primește filigran."
+      ]
+    },
+    {
+      "id": "confidentialitate",
+      "heading": "Confidențialitate: totul se întâmplă pe iPhone",
+      "paragraphs": [
+        "Fișierele tale nu pleacă de pe telefon. Procesarea se face pe dispozitiv, fără cont și fără încărcare. Rezultatul îl salvezi prin fila de partajare iOS în Poze, Fișiere sau în aplicația pe care o alegi."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Găsește cel mai înalt nivel curat",
+    "intro": "Un test rapid, sub un minut.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Începe cu ×3",
+        "text": "Trage „Multiplicare volum” la ×3 și atinge „Amplifică volumul la ×3”."
+      },
+      {
+        "name": "Verifică vârfurile",
+        "text": "Redă pasajul cel mai tare cu Original/Procesat."
+      },
+      {
+        "name": "Urcă sau coboară",
+        "text": "Curat: treci la ×5, apoi ×8 sau ×10. Sună spart: coboară o treaptă."
+      },
+      {
+        "name": "Salvează",
+        "text": "Atinge „Descarcă procesat” când nivelul e potrivit."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Sfaturi",
+    "items": [
+      "Vorbirea suportă mai mult decât muzica.",
+      "„Îmbunătățește calitatea audio” face vocile mai clare la amplificare mare.",
+      "Încearcă mai multe niveluri; originalul rămâne mereu păstrat."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Pot face un videoclip mai tare fără să scadă calitatea?",
+      "answer": "Da, cât timp vârfurile nu trec de plafon. Ascultă cu Original/Procesat înainte să salvezi."
+    },
+    {
+      "question": "De ce sună spart sunetul după amplificare?",
+      "answer": "Vârfurile cele mai tari au fost tăiate. Scade multiplicarea până sună curat."
+    },
+    {
+      "question": "Se încarcă undeva videoclipurile mele?",
+      "answer": "Nu. Totul se procesează pe iPhone."
+    }
+  ],
+  "related": [
+    "cum-maresti-volumul-unui-videoclip-pe-iphone",
+    "imovie-volum-peste-500",
+    "muzica-se-aude-incet-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

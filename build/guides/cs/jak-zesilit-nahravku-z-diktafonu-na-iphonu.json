@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "jak zesílit nahrávku z Diktafonu",
+  "priority": 2,
+  "keywords": "zesílit nahrávku z diktafonu, nahrávka z diktafonu je potichu, zvýšit hlasitost nahrávky iPhone, zesílit hlasovou nahrávku, vylepšit nahrávku diktafon",
+  "title": "Nahrávka z Diktafonu je potichu? Jak ji zesílit na iPhonu",
+  "description": "Funkce Vylepšit nahrávku v Diktafonu potlačí šum, ale soubor nezesílí. Zjisti, jak tichou nahrávku zesílit až 10× a uložit jako nový soubor v Increase Volume.",
+  "h1": "Jak zesílit nahrávku z Diktafonu na iPhonu",
+  "eyebrow": "Diktafon",
+  "card_title": "Zesílit tichou nahrávku z Diktafonu",
+  "card_summary": "Vylepšit nahrávku mění jen přehrávání. Nahrávku vyexportuj a zesil samotný soubor, až 10×.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Nahrávku z Diktafonu zesílíš tak, že ji z aplikace Diktafon pošleš do Increase Volume (klepni na nahrávku → ⋯ → Sdílet → Increase Volume), zapneš „Vylepšit kvalitu zvuku“, posuneš „Násobek hlasitosti“ na ×5 až ×10, klepneš na „Zesílit hlasitost“, porovnáš Původní a Zpracované a klepnutím na „Stáhnout zpracované“ uložíš hlasitější soubor M4A. Funkce Vylepšit nahrávku v Diktafonu potlačí šum při přehrávání, ale soubor nezmění a při sdílení nebude hlasitější.",
+  "intro": [
+    "Porada nahraná z druhého konce stolu, přednáška ze zadní řady nebo rozhovor s někým, kdo mluví tiše: slova tam jsou, ale i na plnou hlasitost se musíš soustředit, abys je slyšel. Aplikace Diktafon nabízí několik voleb přehrávání a lidé často čekají, že některá z nich nahrávku zesílí. Žádná to nedělá.",
+    "Tady se dozvíš, co Diktafon umí a jak z tiché nahrávky zhruba za minutu udělat hlasitý soubor, který můžeš sdílet."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Increase Volume s údaji o nahrávce, přepínačem Vylepšit kvalitu zvuku a jezdcem Násobek hlasitosti ×10",
+    "caption": "U mluveného slova zapni před zesílením „Vylepšit kvalitu zvuku“."
+  },
+  "sections": [
+    {
+      "heading": "Co Diktafon umí (a co ne)",
+      "paragraphs": [
+        "Otevři nahrávku, klepni na ikonu voleb (jezdce) a uvidíš:"
+      ],
+      "list": [
+        "Vylepšit nahrávku: potlačí šum a ozvěnu. Užitečné, ale jde o nastavení *přehrávání*; samotná nahrávka se podle dokumentace Apple nemění.",
+        "Přeskočit ticho a rychlost přehrávání: pohodlné, ale hlasitost neovlivní.",
+        "Studiový hlas (podporované modely): potlačí dozvuk místnosti, opět jen při přehrávání.",
+        "Oříznout / Nahradit: mění délku nebo obsah, ne hlasitost."
+      ],
+      "note": "Nic v Diktafonu nezvýší hlasitost uloženého souboru. Když nahrávku sdílíš, příjemce ji uslyší v původní hlasitosti."
+    },
+    {
+      "heading": "Proč je nahrávka vůbec tichá",
+      "paragraphs": [
+        "iPhone při nahrávání automaticky upravuje citlivost, ale nedokáže vyrovnat mluvčího několik metrů daleko nebo telefon ležící displejem dolů se zakrytým mikrofonem. Výsledkem je nahrávka, jejíž špičky jsou hluboko pod digitálním stropem. Právě tahle rezerva je místo, které zesilovač využije: tichou nahrávku jde obvykle vynásobit ×5–×10 bez praskání."
+      ]
+    },
+    {
+      "heading": "Zesil soubor v Increase Volume",
+      "paragraphs": [
+        "Increase Volume otevře soubor M4A, který Diktafon exportuje, ukáže jeho délku a velikost a umožní zesílit hlasitost až na ×10. Přepínač „Vylepšit kvalitu zvuku“ cílí na srozumitelnost řeči, což je přesně to, co nahrávka z Diktafonu potřebuje. Výsledek si přepínačem Původní/Zpracované poslechneš ještě před uložením a hlasitější soubor se uloží jako nová kopie do Souborů, Zpráv, Mailu nebo jiné aplikace."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Postup: jak zesílit nahrávku z Diktafonu",
+    "intro": "Funguje u jakékoli nahrávky, kterou už máš v Diktafonu.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Pošli nahrávku do Increase Volume",
+        "text": "V Diktafonu klepni na nahrávku, pak na tlačítko ⋯, zvol Sdílet a v řadě aplikací vyber Increase Volume. (Případně ji nejdřív ulož do Souborů a přidej ji z aplikace.)"
+      },
+      {
+        "name": "Zapni Vylepšit kvalitu zvuku",
+        "text": "Zapni přepínač, aby zesílení upřednostnilo hlas."
+      },
+      {
+        "name": "Nastav násobek",
+        "text": "Posuň „Násobek hlasitosti“ na začátek na ×5; vzdálené nahrávky často potřebují ×8–×10. Klepni na „Zesílit hlasitost“."
+      },
+      {
+        "name": "Porovnej",
+        "text": "V nejhlasitějším místě nahrávky (smích, položený hrnek) přepni Původní/Zpracované. Pokud to praská, sniž násobek."
+      },
+      {
+        "name": "Stáhni zpracované",
+        "text": "Klepni na „Stáhnout zpracované“ a zvol Uložit do Souborů, nebo hlasitější nahrávku rovnou pošli do Zpráv, Mailu, WhatsAppu nebo Poznámek."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Nahrávej s telefonem položeným na zádech, spodní hranou (mikrofonem) k mluvčímu a co nejblíž. To udělá víc než jakékoli nastavení.",
+      "Pokud nahrávku budeš přepisovat do textu, nejdřív ji zesil; rozpoznávání řeči dělá u hlasitějšího a čistšího souboru méně chyb.",
+      "Originál si nech v Diktafonu. Zesílená kopie je samostatný soubor."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Zesílí nahrávku funkce Vylepšit nahrávku?",
+      "answer": "Ne. Potlačí šum a ozvěnu během přehrávání. Apple uvádí, že tato nastavení přehrávání samotnou nahrávku nemění, takže sdílená nahrávka zůstane stejná."
+    },
+    {
+      "question": "V jakém formátu bude zesílená nahrávka?",
+      "answer": "Ve stejném zvukovém formátu, který jsi sdílel (Diktafon exportuje M4A). Increase Volume vytvoří nový soubor; původní nahrávka zůstane netknutá."
+    },
+    {
+      "question": "Můžu zesílit nahrávku, kterou mi někdo poslal?",
+      "answer": "Ano. Ulož zvuk ze Zpráv, Mailu nebo WhatsAppu do Souborů (nebo ho rovnou sdílej do Increase Volume) a zesil ho stejně."
+    }
+  ],
+  "related": [
+    "jak-zesilit-hlasovou-zpravu-z-whatsappu",
+    "jak-zesilit-mp3-na-iphonu",
+    "jak-zesilit-zvuk-videa-bez-ztraty-kvality"
+  ]
+}

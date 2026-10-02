@@ -1,0 +1,115 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "miért halk a videóm",
+  "priority": 7,
+  "keywords": "miért halk a videóm, halk iPhone videó, felvett videó nem hallatszik, iPhone mikrofon halk, kevés hang a videóban",
+  "title": "Miért ilyen halk az iPhone-os videóm? 7 ok és a megoldás",
+  "description": "A halk videó oka többnyire a távolság, letakart mikrofon, szél, Bluetooth vagy a fejhallgató-korlát. Keresd meg az okot, és hangosítsd a videót akár 10×-re.",
+  "h1": "Miért halk az iPhone-os videóm? Okok és megoldás",
+  "eyebrow": "Hibaelhárítás",
+  "card_title": "Miért halk a videóm?",
+  "card_summary": "Hét ok a letakart mikrofontól a fejhallgató-korlátig, és hogyan mentheted meg a már rögzített videót.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Egy iPhone-os videó azért halk, mert halkan *rögzült* (a beszélő messze volt a mikrofontól, a mikrofont tok vagy ujj takarta, szél fújt, az app halk volt képernyőfelvétel közben), vagy mert halkan *szól lejátszáskor* (csatlakoztatott Bluetooth-eszköz, bekapcsolt Hangos hangok csökkentése, koszos hangszóró). Először egy másik videóval ellenőrizd a lejátszást. Ha maga a felvétel halk, semmilyen beállítás nem javítja meg; hangosítsd akár 10×-re a Hangerőnövelő Média appal, és ments hangosabb másolatot.",
+  "intro": [
+    "Először derítsd ki, melyik fajta „halk” a tiéd. Játssz le egy másik videót, amelyről tudod, hogy rendben van. Ha hangosan szól, a telefonod jó, a gond a felvételben van. Ha minden halk, akkor a telefon lejátszásával van baj. Az okok és a megoldások teljesen eltérnek, ezért ez a harmincmásodperces teszt sok időt spórol.",
+    "Alább a hét leggyakoribb ok, előfordulási gyakoriság szerint."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/1.webp",
+    "alt": "A Hangerőnövelő Média iPhone-app „Volume Booster Sound Amplifier ×10 Louder” promóciós képe",
+    "caption": "Ha maga a felvétel halk, a megoldás a fájl hangosítása."
+  },
+  "sections": [
+    {
+      "heading": "Felvételi okok (a videó mindenhol halk)",
+      "paragraphs": [
+        "Ezek a fájlba vannak beégetve. Megmagyarázzák, miért halk a videó minden telefonon, amelyre elküldöd."
+      ],
+      "list": [
+        "Távolság: a telefon mikrofonjai kb. egy méterre lévő beszélőre vannak hangolva. Aki a terem túlsó végében áll, halkan és visszhangosan szól.",
+        "Letakart mikrofon: a fő videómikrofon a hátsó kamerák mellett van; vastag tok, ujj vagy tartó letakarhatja. A felvétel halk és tompa lesz.",
+        "Szél és háttérzaj: zajban az iPhone csökkenti az érzékenységet, és a beszélő halkabbnak hallatszik.",
+        "Képernyőfelvétel szintje: az iOS csökkentett szinten rögzíti az appok hangját, még inkább, ha az app halk volt vagy Bluetooth-fülhallgató csatlakozott.",
+        "Kapott klipek: a WhatsAppon vagy Messengeren küldött videó újrakódolódik, és néha halkabban érkezik, mint az eredeti."
+      ]
+    },
+    {
+      "id": "lejatszas",
+      "heading": "Lejátszási okok (ezen a telefonon minden videó halk)",
+      "paragraphs": [
+        "Ezek miatt szól halkan a telefonod; a fájl rendben van, máshol normálisan szól."
+      ],
+      "list": [
+        "Még csatlakozik a Bluetooth: a hang egy fiókban lévő AirPodsra vagy az autóba megy. Nyisd meg a Vezérlőközpontot, és ellenőrizd a hangkimenetet.",
+        "Hangos hangok csökkentése: a Beállítások › Hangok és rezgések › Fejhallgató-biztonság korlátozza a fejhallgató hangerejét. Jó védelem, de a halk videók fejhallgatóban még halkabbak lesznek tőle.",
+        "Figyelemérzékelő funkciók (Face ID-s iPhone): a Beállítások › Face ID és jelkód lehalkítja a figyelmeztetéseket, ha a kijelzőre nézel; egyesek szerint a videók is halkabbnak tűnnek.",
+        "Koszos hangszórórács vagy vízmaradvány: egy puha, száraz kefe meglepően sok hangerőt visszahoz.",
+        "Balansz: a Beállítások › Kisegítő lehetőségek › Hang és vizuális elemek › Balansz legyen középen."
+      ]
+    },
+    {
+      "heading": "A megoldás halkan rögzített videóra",
+      "paragraphs": [
+        "A pillanatot nem tudod megismételni, és az iPhone beállításai nem változtatnak meg egy mentett fájlt. A Fotókban nincs hangerő-szabályzó; az iMovie projekt létrehozása után kb. 500%-ig hangosít egy klipet. A Hangerőnövelő Média közvetlenül a Fotókból nyitja meg a videót, ×10-ig megszorozza a hangot, engedi az Eredeti/Feldolgozott összehasonlítást, és új másolatot ment. A hangosabb másolat minden eszközön és appban hangosan szól.",
+        "Ha letakart mikrofon volt az ok, a hangosítás a szintet javítja, a tompaságot nem; kapcsold be a „Hangminőség javítása” lehetőséget, hogy segíts a beszédnek."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Lépésről lépésre: egy halk videó megmentése",
+    "intro": "Egy perc az ingyenes Hangerőnövelő Média appal.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Győződj meg róla, hogy a felvétel a hibás",
+        "text": "Játssz le egy másik videót. Ha hangos, folytasd; ha nem, előbb a fenti lejátszási okokat javítsd."
+      },
+      {
+        "name": "Oszd meg a videót az appal",
+        "text": "Nyisd meg a Fotókban, koppints a Megosztás gombra, és válaszd az Increase Volume lehetőséget."
+      },
+      {
+        "name": "Hangosíts",
+        "text": "Állítsd a „Hangerőszorzót” ×4-re kezdésnek (nagyon halk klipeknél többre), beszédhez kapcsold be a „Hangminőség javítása” lehetőséget, és koppints a „Hangerő kiemelése” gombra."
+      },
+      {
+        "name": "Hasonlítsd össze",
+        "text": "Válts az Eredeti/Feldolgozott között a leghangosabb pillanatnál, és szükség szerint igazítsd a szorzót."
+      },
+      {
+        "name": "Mentsd",
+        "text": "Koppints a „Feldolgozott letöltése” → Videó mentése lehetőségre. Az eredeti helyett az új másolatot oszd meg."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Rögzíts hangosabban legközelebb",
+    "items": [
+      "Menj karnyújtásnyira a beszélőhöz, vagy használj vezetékes vagy vezeték nélküli csiptetős mikrofont.",
+      "Vedd le a tokot, vagy ellenőrizd, hogy semmi sem takarja a hátsó mikrofonokat.",
+      "Képernyőfelvételnél kezdés előtt válaszd le a Bluetootht, és növeld maximumra a média hangerejét.",
+      "Védd a telefont a széltől a testeddel vagy a kezeddel."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Miért csak akkor halk a videóm, amikor elküldöm?",
+      "answer": "Az üzenetküldő appok újrakódolják a videót, és kissé csökkenthetik a szintet, de a fő hatás az, hogy a címzett telefonja az eredeti, halk szinten játssza le, nem a te maximumon szóló hangszóróddal. Küldés előtt hangosítsd a fájlt."
+    },
+    {
+      "question": "Hangosabbá teheti egy hangerőnövelő app az iPhone hangszóróját?",
+      "answer": "Egyetlen app sem lépheti túl a hangszóró fizikai határát, és nem változtathatja meg a teljes rendszer hangerejét; az Apple nem engedi. A hangerőnövelők a fájlt hangosítják, és pont erre van szükség, ha a felvétel halk."
+    },
+    {
+      "question": "Befolyásolja a némítókapcsoló a videók hangerejét?",
+      "answer": "Nem. A Csengés/Néma kapcsoló (vagy a Művelet gomb) csak a csengőhangokat és figyelmeztetéseket némítja. A média hangerejét lejátszás közben a hangerőgombokkal állítod."
+    }
+  ],
+  "related": [
+    "hogyan-noveld-a-video-hangerejet-iphone-on",
+    "halk-kepernyofelvetel-iphone",
+    "hangero-novelese-minosegromlas-nelkul"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "halk WhatsApp hangüzenet",
+  "priority": 2,
+  "keywords": "halk WhatsApp hangüzenet, WhatsApp hangüzenet hangosítása, nem hallom a hangüzenetet iPhone, halk hangüzenetek, Telegram hangüzenet halk",
+  "title": "Halk WhatsApp hangüzenet iPhone-on? Így hangosítsd fel",
+  "description": "Túl halkak a WhatsApp hangüzenetek iPhone-on? Először zárd ki a fülhallgatóra váltást, aztán exportáld az üzenetet, és hangosítsd akár 10×-re egy perc alatt.",
+  "h1": "Halk WhatsApp hangüzenet iPhone-on: így hangosítsd fel",
+  "eyebrow": "WhatsApp és Telegram",
+  "card_title": "WhatsApp hangüzenet hangosítása",
+  "card_summary": "Két különböző gond: a hívásfülhallgató vagy egy valóban halk felvétel. Mindkettőt megoldod.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Ha minden WhatsApp hangüzenet halk, az iPhone valószínűleg a hívásfülhallgatón játssza le őket, mert eltakartad a közelségérzékelőt; tartsd távolabb a telefont az arcodtól, és nyomd meg a hangerő-növelőt lejátszás közben. Ha csak egy üzenet halk, exportáld (hosszú nyomás → Továbbítás → Megosztás → Mentés a Fájlokba vagy közvetlenül az Increase Volume appba), hangosítsd ×5–×10-re bekapcsolt „Hangminőség javítása” mellett, és mentsd vagy továbbítsd a hangosabb másolatot.",
+  "intro": [
+    "Két teljesen különböző oka lehet annak, hogy egy WhatsApp hangüzenet halk, és mindkettőnek megvan a maga megoldása. Az egyik: az iPhone észrevétlenül átvált a hívásfülhallgatóra. A másik: a küldő messze volt a mikrofontól vagy zajban beszélt, és a felvétel tényleg halk. Az elsőt tíz másodperc alatt ellenőrzöd, a másodikat egy perc alatt javítod.",
+    "Ugyanezek a lépések működnek Telegramon, Signalon és az iMessage hangüzeneteinél is."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "„Download and share anywhere” képernyőkép: iOS megosztási lap Mentés a Fájlokba lehetőséggel a hangosított felvételhez",
+    "caption": "A hangosított üzenetek a Fájlokba kerülnek, vagy közvetlenül visszamennek a csevegésbe."
+  },
+  "sections": [
+    {
+      "heading": "1. megoldás: a hívásfülhallgatón szól",
+      "paragraphs": [
+        "A WhatsApp a hívásfülhallgatóra (a telefonáláshoz használt kis hangszóróra) vált, ha az előlapi kamera melletti közelségérzékelő le van takarva. Elég egy ujj, a tok széle vagy ha az arcodhoz emeled a telefont, és az üzenet hirtelen suttogásnak hat. Szabadítsd fel az érzékelőt, tartsd távolabb a telefont, és nyomd meg a hangerő-növelőt *lejátszás közben*; az iOS külön hangerőt tart a fülhallgatóra, ami lehet, hogy minimumon van.",
+        "Ellenőrizd azt is, hogy a Bluetooth nem küldi-e a hangot egy zsebben lévő fülhallgatóra, és hogy a Beállítások › Hangok és rezgések › Fejhallgató-biztonság alatt nincs-e bekapcsolva a Hangos hangok csökkentése."
+      ]
+    },
+    {
+      "heading": "2. megoldás: maga az üzenet halk",
+      "paragraphs": [
+        "Ha a többi üzenet rendesen szól, ez az egy pedig nem, akkor a felvétel halk. A WhatsAppban nincs hangerő-szabályzó a kapott üzenetekhez, a hangerőgombok pedig nem mennek 100% fölé. Magát a fájlt kell hangosítani. A WhatsApp engedi fájlként exportálni a hangüzenetet, a Hangerőnövelő Média pedig ×10-ig megszorozza, és új másolatot ad mentéshez vagy továbbításhoz."
+      ]
+    },
+    {
+      "heading": "Hangüzenet exportálása WhatsAppból, Telegramból vagy az Üzenetekből",
+      "list": [
+        "WhatsApp: hosszan nyomd meg az üzenetet → Továbbítás → Megosztás ikon (lent) → válaszd az Increase Volume vagy a Mentés a Fájlokba lehetőséget.",
+        "Telegram: hosszan nyomd meg az üzenetet → Továbbítás vagy Megosztás → Mentés a Fájlokba, vagy oszd meg az Increase Volume appal.",
+        "iMessage hangüzenetek: hosszú nyomás → Mentés (a Hangjegyzetekbe kerül), és onnan oszd meg.",
+        "Signal: hosszú nyomás → Mentés → Mentés a Fájlokba."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Lépésről lépésre: WhatsApp hangüzenet hangosítása",
+    "intro": "Egy perc az ingyenes Hangerőnövelő Média appal.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Exportáld az üzenetet",
+        "text": "A WhatsAppban hosszan nyomd meg az üzenetet → Továbbítás → Megosztás ikon → Increase Volume. (Vagy Mentés a Fájlokba, és add hozzá az appból.)"
+      },
+      {
+        "name": "Kapcsold be a Hangminőség javítását",
+        "text": "A hangüzenet beszéd; a kapcsoló segít, hogy a szavak hangosítás után is érthetők maradjanak."
+      },
+      {
+        "name": "Hangosíts",
+        "text": "Állítsd a „Hangerőszorzót” ×5-re kezdésnek, nagyon halk üzenetnél ×8–×10-re, és koppints a „Hangerő kiemelése” gombra."
+      },
+      {
+        "name": "Hasonlítsd össze",
+        "text": "Válts az Eredeti/Feldolgozott között. Ha a leghangosabb szó recseg, vegyél vissza a szorzóból."
+      },
+      {
+        "name": "Mentsd vagy továbbítsd",
+        "text": "Koppints a „Feldolgozott letöltése” gombra. Mentsd a Fájlokba, vagy oszd meg a hangosabb másolatot vissza a WhatsAppba, hogy az egész csoport hallja."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tippek",
+    "items": [
+      "Kérd meg azt, aki gyakran küld hangüzenetet, hogy beszéljen közelebb a telefonhoz; a forrásnál javítani a legjobb.",
+      "Ha sok üzenetet mentesz, gyűjtsd a hangosított másolatokat egy mappába a Fájlokban; a WhatsApp mappája nem böngészhető.",
+      "A saját üzeneteiddel ugyanígy megy: rögzítsd, oszd meg az appal, hangosítsd, és küldd el a hangosított fájlt dokumentumként vagy hangként."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Miért halkak a hangüzenetek, amikor a fülemhez tartom a telefont?",
+      "answer": "Ez szándékos: ha a közelségérzékelő le van takarva, a WhatsApp adatvédelmi okból a hívásfülhallgatón játszik. Lejátszás közben növeld a fülhallgató hangerejét a gombokkal, vagy tartsd távolabb a telefont, hogy a hangszóró szóljon."
+    },
+    {
+      "question": "Hangosíthatok egy üzenetet a WhatsAppon belül?",
+      "answer": "Nem. A WhatsAppban vannak lejátszási sebességek (1×, 1,5×, 2×), de hangerő-növelés nincs. Exportáld az üzenetet, és hangosítsd a Hangerőnövelő Média appal."
+    },
+    {
+      "question": "Telegrammal és Messengerrel is működik?",
+      "answer": "Minden olyan appal működik, amely engedi a hangfájl megosztását vagy mentését. A hangosított fájlokat ugyanazon az appon keresztül továbbíthatod."
+    }
+  ],
+  "related": [
+    "hangjegyzet-hangerejenek-novelese",
+    "mp3-hangerejenek-novelese-iphone",
+    "miert-halk-a-videom"
+  ]
+}

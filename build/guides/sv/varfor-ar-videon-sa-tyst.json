@@ -1,0 +1,105 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "varför är videon så tyst iPhone",
+  "priority": 7,
+  "keywords": "varför är videon så tyst iPhone, lågt ljud på video iPhone, iPhone video inget ljud, lågt ljud iPhone högtalare, video för lågt ljud",
+  "title": "Varför är min video så tyst på iPhone? 7 orsaker och lösning",
+  "description": "Lågt ljud på iPhone-video? Ta reda på om det är uppspelningen (ljud av, Bluetooth, hörlurssäkerhet) eller själva inspelningen, och hur du löser varje fall.",
+  "h1": "Varför är min video så tyst på iPhone?",
+  "eyebrow": "Felsökning",
+  "card_title": "Varför är videon så tyst?",
+  "card_summary": "Sju orsaker till lågt videoljud: fyra vid uppspelning, tre i själva inspelningen, och lösningen för var och en.",
+  "quick_answer": "Är alla videor tysta ligger felet i uppspelningen: kontrollera att ljudet inte är avstängt i videon, att Bluetooth inte är anslutet, Hörlurssäkerhet under Ljud och haptik och att högtalaren är ren. Är bara en video tyst ligger det i inspelningen: personen var långt bort, mikrofonen var täckt eller ljudet spelades in lågt. Då gör du filen högre med Volymförstärkare, upp till 10×.",
+  "intro": [
+    "”Varför är videon så tyst?” har två svar, och det är bra att veta vilket som gäller innan du ändrar något. Test: spela en annan video. Är den också tyst är det telefonen. Låter den normal är det filen.",
+    "Här är de sju vanligaste orsakerna, uppdelade i de två grupperna."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/1.webp",
+    "alt": "Marknadsbild för Volymförstärkare: volymbooster och ljudförstärkare, upp till tio gånger högre",
+    "caption": "När själva inspelningen är tyst gör appen filen upp till 10× högre."
+  },
+  "sections": [
+    {
+      "id": "uppspelning",
+      "heading": "Orsaker vid uppspelning (alla videor tysta)",
+      "paragraphs": [],
+      "list": [
+        "Ljudet är avstängt i videon: tryck på högtalarsymbolen i spelaren i Bilder.",
+        "Ljudet går till Bluetooth: AirPods eller en bilhögtalare kan vara anslutna; kontrollera ljudutgången i Kontrollcenter.",
+        "Hörlurssäkerhet: Inställningar › Ljud och haptik › Hörlurssäkerhet › Minska höga ljud begränsar nivån.",
+        "Igentäppt högtalare: damm eller ludd i gallret dämpar ljudet; rengör med en mjuk, torr borste."
+      ],
+      "ordered": true,
+      "note": "Ingen app kan gå förbi högtalarens fysiska gräns eller ändra volymen för hela systemet."
+    },
+    {
+      "heading": "Orsaker i inspelningen (en video tyst)",
+      "paragraphs": [],
+      "list": [
+        "Avstånd: den som pratade var långt från mikrofonen.",
+        "Täckt mikrofon: ett skal, ett finger eller en ficka dämpade ljudet.",
+        "Skärminspelning eller nedladdning: iOS eller källappen levererade ljudet på låg nivå."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Lösningen när inspelningen är tyst",
+      "paragraphs": [
+        "Du kan inte höja något som inte spelades in tillräckligt högt, men du kan höja nivån i filen. Volymförstärkare multiplicerar ljudspåret upp till 10× och sparar en ny video. Den spelas upp högt överallt, även hos dem du skickar den till."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Gör en tyst video högre",
+    "intro": "När testet visar att filen är problemet.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Dela videon till appen",
+        "text": "Öppna videon i Bilder → Dela → Increase Volume."
+      },
+      {
+        "name": "Förstärk",
+        "text": "Dra «Volymmultiplikation» (×3–×10) och tryck på «Boosta volymen till ×N»."
+      },
+      {
+        "name": "Jämför",
+        "text": "Lyssna med Original/Bearbetad; sänk om det sprakar."
+      },
+      {
+        "name": "Spara",
+        "text": "Tryck på «Hämta bearbetad» → Spara video."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Undvik tysta videor nästa gång",
+    "items": [
+      "Håll fingrarna borta från mikrofonhålen nertill och vid kameran.",
+      "Gå närmare den som pratar; avstånd sänker nivån snabbt.",
+      "Gör en provinspelning på fem sekunder före det viktiga ögonblicket."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Varför har min video inget ljud alls?",
+      "answer": "Kontrollera att ljudet inte är avstängt i redigeringen i Bilder och att ingen Bluetooth-enhet tar ljudet. Har inspelningen inget ljudspår kan den inte förstärkas."
+    },
+    {
+      "question": "Gör appen iPhone-högtalaren högre?",
+      "answer": "Nej. Den gör filen högre. Högtalarens maximum är fysiskt och kan inte överskridas av någon app."
+    },
+    {
+      "question": "Varför är videor från andra tysta?",
+      "answer": "De spelades in eller exporterades lågt. Förstärk filen, så spelas den upp högt."
+    }
+  ],
+  "related": [
+    "gor-ljudet-pa-en-video-hogre-iphone",
+    "skarminspelning-for-lagt-ljud-iphone",
+    "hoj-volymen-pa-video-i-bilder"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

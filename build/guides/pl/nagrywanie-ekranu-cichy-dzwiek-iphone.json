@@ -1,0 +1,100 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "nagrywanie ekranu cichy dźwięk iPhone",
+  "priority": 3,
+  "keywords": "nagrywanie ekranu cichy dźwięk iPhone, nagranie ekranu bez dźwięku, jak zgłośnić nagranie ekranu, cichy dźwięk w nagraniu ekranu, zwiększyć głośność nagrania ekranu",
+  "title": "Cichy dźwięk w nagraniu ekranu na iPhonie? Jak to naprawić",
+  "description": "Dlaczego iPhone nagrywa dźwięk z aplikacji tak cicho? Ustawienia do sprawdzenia przed kolejnym nagraniem ekranu i jak zgłośnić istniejące nagranie nawet 10×.",
+  "h1": "Cichy dźwięk w nagraniu ekranu na iPhonie: przyczyna i rozwiązanie",
+  "eyebrow": "Nagrywanie ekranu",
+  "card_title": "Ciche nagranie ekranu",
+  "card_summary": "iOS nagrywa dźwięk aplikacji ciszej, niż go słyszysz. Popraw kolejne nagranie i wzmocnij to, które już masz, ×5–×10.",
+  "quick_answer": "iOS nagrywa dźwięk aplikacji na obniżonym poziomie, a jeszcze ciszej przy niskiej głośności lub podłączonych słuchawkach Bluetooth. Następnym razem odłącz Bluetooth i podgłośnij, zanim stukniesz Nagrywanie ekranu w Centrum sterowania. Dla istniejącego nagrania: udostępnij film ze Zdjęć do Increase Volume, wzmocnij ×5–×10 i stuknij „Pobierz przetworzony”.",
+  "intro": [
+    "Nagranie ekranu z gry, poradnika czy rozmowy wideo wygląda idealnie, ale dźwięk ledwo słychać przy odtwarzaniu. To nie Twoja wina: iOS nagrywa dźwięk systemowy ciszej, niż słyszysz go podczas nagrywania.",
+    "Oto co wpływa na poziom, jak uzyskać lepsze kolejne nagranie i jak uratować to, które już masz."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Szczegóły utworu w Volume Boost z przełącznikiem „Popraw jakość dźwięku”, suwakiem „Mnożnik głośności ×10” i przyciskiem „Wzmocnij głośność do ×10”",
+    "caption": "Wybierz mnożnik dla nagrania ekranu i stuknij „Wzmocnij głośność”."
+  },
+  "sections": [
+    {
+      "heading": "Dlaczego nagrania ekranu mają cichy dźwięk",
+      "paragraphs": [
+        "Nagrywanie ekranu w iOS zapisuje dźwięk aplikacji wewnętrznie. Poziom częściowo zależy od głośności systemu, więc nagranie przy niskiej głośności wychodzi ciche. Przy podłączonych słuchawkach Bluetooth dźwięk aplikacji może zostać nagrany słabiej albo wcale, a wiele aplikacji (streaming, połączenia) blokuje lub wycisza dźwięk w nagraniu ekranu."
+      ]
+    },
+    {
+      "heading": "Jak uzyskać lepszy dźwięk w kolejnym nagraniu",
+      "paragraphs": [],
+      "list": [
+        "Odłącz słuchawki Bluetooth przed rozpoczęciem.",
+        "Podgłośnij multimedia, zanim stukniesz Nagrywanie ekranu.",
+        "Chcesz nagrać też swój głos: przytrzymaj przycisk nagrywania ekranu w Centrum sterowania i włącz Mikrofon.",
+        "Wyłącz Skupienie / Nie przeszkadzać, żeby powiadomienia nie przerywały dźwięku."
+      ],
+      "ordered": false,
+      "note": "Nazwy przycisków mogą się nieco różnić między wersjami iOS."
+    },
+    {
+      "heading": "Masz już ciche nagranie? Wzmocnij plik",
+      "paragraphs": [
+        "Gotowe nagranie ekranu to zwykły film w Zdjęciach. Volume Boost otworzy go, pomnoży ścieżkę dźwiękową nawet 10× i zapisze nową kopię obok oryginału. Obraz się nie zmienia."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Zgłośnij nagranie ekranu w Volume Boost",
+    "intro": "Około minuty przy krótkim nagraniu.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Udostępnij nagranie aplikacji",
+        "text": "Otwórz nagranie ekranu w Zdjęciach, stuknij Udostępnij i wybierz Increase Volume."
+      },
+      {
+        "name": "Wybierz poziom",
+        "text": "Nagrania ekranu często potrzebują ×5–×8. Jeśli to mowa (poradnik), włącz „Popraw jakość dźwięku”."
+      },
+      {
+        "name": "Wzmocnij i porównaj",
+        "text": "Stuknij „Wzmocnij głośność do ×N” i przełączaj Oryginał i Przetworzony."
+      },
+      {
+        "name": "Zapisz",
+        "text": "Stuknij „Pobierz przetworzony” → Zachowaj wideo. Głośniejsza kopia trafi do Zdjęć."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Wskazówki",
+    "items": [
+      "Jeśli nagranie ma i dźwięk gry, i głos, wzmacniaj umiarkowanie (×3–×5), żeby wybuchy w grze nie charczały.",
+      "Nagrania ekranu całkiem bez ścieżki dźwiękowej nie da się wzmocnić; trzeba nagrać je ponownie z dźwiękiem.",
+      "Wzmacniaj przed montażem w iMovie czy CapCut; wtedy przez cały czas pracujesz na mocnym sygnale."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dlaczego moje nagranie ekranu nie ma dźwięku?",
+      "answer": "Aplikacja może blokować nagrywanie dźwięku (streaming, połączenia) albo dźwięk trafił do słuchawek Bluetooth. Sprawdź też, czy mikrofon był włączony, jeśli chciałeś nagrać swój głos."
+    },
+    {
+      "question": "Czy mogę zwiększyć głośność nagrania ekranu po fakcie?",
+      "answer": "Tak. Udostępnij film ze Zdjęć do Volume Boost, wzmocnij ×5–×10 i zapisz głośniejszą kopię."
+    },
+    {
+      "question": "Czy obraz się pogorszy?",
+      "answer": "Nie. Zmienia się tylko ścieżka dźwiękowa; obraz jest kopiowany bez zmian."
+    }
+  ],
+  "related": [
+    "jak-zwiekszyc-glosnosc-filmu-iphone",
+    "dlaczego-film-jest-cichy",
+    "glosniejszy-film-tiktok"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

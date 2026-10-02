@@ -1,0 +1,105 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "prečo je video na iPhone potichu",
+  "priority": 7,
+  "keywords": "prečo je video na iPhone potichu, tiché video iPhone, video bez zvuku iPhone, tichý reproduktor iPhone, video hrá potichu",
+  "title": "Prečo je moje video na iPhone také tiché? 7 príčin",
+  "description": "Tichý zvuk vo videu z iPhonu? Zisti, či je chyba v prehrávaní (stlmený zvuk, Bluetooth, slúchadlá) alebo v samotnej nahrávke, a ako vyriešiť každý prípad.",
+  "h1": "Prečo je moje video na iPhone také tiché?",
+  "eyebrow": "Riešenie problémov",
+  "card_title": "Prečo je video tiché?",
+  "card_summary": "Sedem príčin tichého zvuku: štyri pri prehrávaní, tri v nahrávke, a riešenie pre každú.",
+  "quick_answer": "Ak sú tiché všetky videá, chyba je v prehrávaní: skontroluj, či video nie je stlmené, či nie je pripojený Bluetooth, Bezpečnosť slúchadiel v Zvukoch a haptike a čistotu reproduktora. Ak je tiché len jedno video, chyba je v nahrávke: človek bol ďaleko, mikrofón bol zakrytý alebo sa zvuk nahral potichu. Vtedy sprav súbor hlasnejším vo Volume Boost, až 10×.",
+  "intro": [
+    "Otázka „prečo je video také tiché?“ má dve odpovede a oplatí sa vedieť, ktorá je tvoja, skôr než niečo zmeníš. Test: pusti iné video. Ak je tiež tiché, ide o telefón. Ak znie normálne, ide o súbor.",
+    "Tu je sedem najčastejších príčin rozdelených do týchto dvoch skupín."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/1.webp",
+    "alt": "Propagačná snímka Volume Boost: zosilňovač hlasitosti a zvuku, až desaťkrát hlasnejšie",
+    "caption": "Keď je tichá samotná nahrávka, aplikácia spraví súbor až 10× hlasnejším."
+  },
+  "sections": [
+    {
+      "id": "prehravanie",
+      "heading": "Príčiny pri prehrávaní (všetky videá tiché)",
+      "paragraphs": [],
+      "list": [
+        "Video je stlmené: ťukni na ikonu reproduktora v prehrávači vo Fotkách.",
+        "Zvuk ide do Bluetooth: môžu byť pripojené AirPods alebo autorádio; skontroluj zvukový výstup v Ovládacom centre.",
+        "Bezpečnosť slúchadiel: Nastavenia › Zvuky a haptika › Bezpečnosť slúchadiel › Znížiť hlasné zvuky obmedzuje úroveň.",
+        "Upchatý reproduktor: prach alebo vlákna v mriežke tlmia zvuk; vyčisti ju mäkkou suchou kefkou."
+      ],
+      "ordered": true,
+      "note": "Žiadna aplikácia neprekročí fyzický limit reproduktora ani nezmení hlasitosť celého systému."
+    },
+    {
+      "heading": "Príčiny v nahrávke (tiché jedno video)",
+      "paragraphs": [],
+      "list": [
+        "Vzdialenosť: rečník bol ďaleko od mikrofónu.",
+        "Zakrytý mikrofón: obal, prst alebo vrecko stlmili zvuk.",
+        "Záznam obrazovky alebo stiahnutý súbor: iOS alebo zdrojová aplikácia dodali zvuk na nízkej úrovni."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Riešenie, keď je tichá nahrávka",
+      "paragraphs": [
+        "Nemôžeš zosilniť niečo, čo sa nenahralo dosť nahlas, ale môžeš zvýšiť úroveň v súbore. Volume Boost vynásobí zvukovú stopu až 10× a uloží nové video. To hrá nahlas všade, aj u tých, ktorým ho pošleš."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Sprav tiché video hlasnejším",
+    "intro": "Keď test ukázal, že problém je v súbore.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Zdieľaj video do aplikácie",
+        "text": "Otvor video vo Fotkách → Zdieľať → Increase Volume."
+      },
+      {
+        "name": "Zosilni",
+        "text": "Posuň „Násobok hlasitosti“ (×3–×10) a ťukni na „Zosilniť hlasitosť na ×N“."
+      },
+      {
+        "name": "Porovnaj",
+        "text": "Počúvaj s Pôvodné/Spracované; pri chrčaní zníž."
+      },
+      {
+        "name": "Ulož",
+        "text": "Ťukni na „Stiahnuť spracované“ → Uložiť video."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Ako sa vyhnúť tichým videám",
+    "items": [
+      "Drž prsty mimo otvorov mikrofónu dole a pri fotoaparáte.",
+      "Choď bližšie k rečníkovi; vzdialenosť rýchlo znižuje úroveň.",
+      "Pred dôležitou chvíľou sprav päťsekundovú skúšobnú nahrávku."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Prečo moje video nemá vôbec zvuk?",
+      "answer": "Skontroluj, či zvuk nie je vypnutý v úpravách vo Fotkách a či ho nepreberá Bluetooth zariadenie. Ak nahrávka nemá zvukovú stopu, zosilniť sa nedá."
+    },
+    {
+      "question": "Spraví aplikácia reproduktor iPhonu hlasnejším?",
+      "answer": "Nie. Spraví hlasnejším súbor. Maximum reproduktora je fyzické a žiadna aplikácia ho neprekročí."
+    },
+    {
+      "question": "Prečo sú videá od iných tiché?",
+      "answer": "Boli nahraté alebo exportované potichu. Zosilni súbor a bude hrať nahlas."
+    }
+  ],
+  "related": [
+    "ako-zosilnit-zvuk-videa-na-iphone",
+    "tichy-zaznam-obrazovky-iphone",
+    "zosilnit-video-v-aplikacii-fotky"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

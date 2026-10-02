@@ -1,0 +1,101 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "pojačati glasnoću videa u Fotografijama",
+  "priority": 9,
+  "keywords": "pojačati glasnoću videa Fotografije iPhone, aplikacija Fotografije pojačati zvuk, video u Fotografijama tih, pojačati zvuk videa Fotografije, podijeli s Increase Volume",
+  "title": "Kako pojačati glasnoću videa izravno iz Fotografija (iPhone)",
+  "description": "Fotografije nemaju kontrolu glasnoće, ali video ipak možeš pojačati: dodirni Podijeli, odaberi Pojačaj Glasnoću Zvuka, povuci do 10× i spremi novu kopiju.",
+  "h1": "Kako pojačati glasnoću videa izravno iz Fotografija",
+  "eyebrow": "Iz Fotografija",
+  "card_title": "Pojačaj video preko Podijeli u Fotografijama",
+  "card_summary": "Fotografije mogu samo utišati. Uz Podijeli → Increase Volume pojačaš isječak i spremiš glasnu kopiju pokraj izvornika.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Aplikacija Fotografije ne može pojačati zvuk videa; njen uređivač može samo utišati (a na iPhoneu 16 ili novijem uravnotežiti prostorni zvuk uz Audio Mix). Da bi pojačao video iz Fotografija: otvori ga, dodirni Podijeli, odaberi Increase Volume, povuci „Množitelj glasnoće” do ×10, dodirni „Pojačaj glasnoću” pa „Preuzmi obrađeno” → Spremi video. Glasnija kopija pojavljuje se u Fotografijama pokraj izvornika.",
+  "intro": [
+    "Gotovo svi traže kontrolu glasnoće u uređivaču Fotografija i ne nalaze je, jer ne postoji. Fotografije režu, izravnavaju, ispravljaju boje i utišavaju video, ali ga ne pojačavaju. Ono što Fotografije *imaju* jest list za dijeljenje, a Pojačaj Glasnoću Zvuka se u njega uklapa, pa je pojačanje dva dodira udaljeno od bilo kojeg videa u tvojoj medijateci.",
+    "Ovaj vodič pokazuje taj tijek i što uređivač Fotografija stvarno može sa zvukom."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Snimka zaslona „Download and share anywhere”: list za dijeljenje s opcijama za spremanje pojačanog videa u Fotografije ili Datoteke",
+    "caption": "Pojačana kopija vraća se u Fotografije preko lista za dijeljenje; izvornik ostaje kakav je."
+  },
+  "sections": [
+    {
+      "heading": "Što uređivač Fotografija može, a što ne može sa zvukom",
+      "list": [
+        "Utišaj: dodirni Uredi pa ikonu zvučnika na vrhu da ukloniš cijeli audiozapis.",
+        "Audio Mix (iPhone 16 ili noviji, videi s prostornim zvukom): različiti miksevi ističu glasove i smanjuju pozadinsku buku. Mijenja *ravnotežu*, ne ukupnu glasnoću.",
+        "Pojačaj glasnoću: ne postoji ni u jednoj verziji Fotografija."
+      ]
+    },
+    {
+      "heading": "Korištenje Podijeli uz Pojačaj Glasnoću Zvuka",
+      "paragraphs": [
+        "Od verzije 1.2.7 Increase Volume pojavljuje se na iOS listu za dijeljenje. Dijeljenje videa s aplikacijom odmah stvara projekt s nazivom, veličinom i trajanjem, da znaš da je to pravi isječak. Nakon pojačanja „Preuzmi obrađeno” ponovno otvara list za dijeljenje, gdje Spremi video stavlja glasniju kopiju u Fotografije. Budući da je to nova datoteka, izvornik se nikad ne prepisuje.",
+        "Ako se Increase Volume prvi put ne pojavi na listu za dijeljenje, pomakni redak aplikacija do kraja, dodirni Više i uključi je (možeš je i povući na početak)."
+      ]
+    },
+    {
+      "heading": "Pojačavanje više videa",
+      "paragraphs": [
+        "Aplikacija čuva popis projekata, pa možeš poslati nekoliko isječaka iz Fotografija i obraditi ih jedan za drugim. Svaki projekt pamti svoju datoteku dok ga ne izbrišeš, pa se kasnije možeš vratiti i isprobati drugi množitelj."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Korak po korak: od Fotografija do glasnijeg videa",
+    "intro": "Ne moraš najprije otvarati aplikaciju; kreni iz Fotografija.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Otvori video u Fotografijama",
+        "text": "Pronađi tihi video i otvori ga preko cijelog zaslona."
+      },
+      {
+        "name": "Dodirni Podijeli → Increase Volume",
+        "text": "Dodirni Podijeli, pomakni redak ikona i dodirni Increase Volume. Otvara se novi projekt."
+      },
+      {
+        "name": "Pojačaj",
+        "text": "Povuci „Množitelj glasnoće” na potrebnu razinu (×3–×10), uključi „Poboljšaj kvalitetu zvuka” za govor i dodirni „Pojačaj glasnoću”."
+      },
+      {
+        "name": "Usporedi",
+        "text": "Prekidačem Izvorno/Obrađeno čuješ razliku."
+      },
+      {
+        "name": "Spremi video",
+        "text": "Dodirni „Preuzmi obrađeno” pa Spremi video. U Fotografijama se glasnija kopija pojavljuje odmah iza izvornika."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Savjeti",
+    "items": [
+      "Dodaj Increase Volume u favorite na listu za dijeljenje (Više → Uredi) da se uvijek pojavljuje prva.",
+      "Video možeš podijeliti s aplikacijom i iz Datoteka, Poruka ili Maila; tijek je isti.",
+      "Za oslobađanje prostora izbriši tihi izvornik kad provjeriš da pojačana kopija zvuči dobro."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Zamjenjuje li pojačanje iz Fotografija moj izvorni video?",
+      "answer": "Ne. Aplikacija uvijek stvara novu datoteku. Spremi video dodaje drugu kopiju u Fotografije; izvornik se ne mijenja."
+    },
+    {
+      "question": "Mogu li pojačati Live Photos ili usporene videe?",
+      "answer": "Usporeni i ubrzani videi izvoze se kao običan video i mogu se pojačati. Live Photos su fotografije s kratkim isječkom i nisu podržane kao video."
+    },
+    {
+      "question": "Zašto Fotografije nemaju kontrolu glasnoće?",
+      "answer": "Apple je Fotografije zamislio kao uređivač za brze ispravke, a promjene razine prepušta iMovieju. iMovie pojačava do 500 %; Pojačaj Glasnoću Zvuka ide do ×10 i radi s lista za dijeljenje."
+    }
+  ],
+  "related": [
+    "kako-pojacati-zvuk-videa-na-iphoneu",
+    "imovie-glasnoca-vise-od-500",
+    "pojacati-zvuk-tiktok-videa"
+  ]
+}

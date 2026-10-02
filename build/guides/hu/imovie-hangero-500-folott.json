@@ -1,0 +1,137 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie hangerő növelése",
+  "priority": 11,
+  "keywords": "iMovie hangerő növelése, iMovie nem hangosít tovább, hangosabb mint az iMovie, iMovie 500% fölött, iMovie maximális hangerő iPhone",
+  "title": "iMovie hangerő: hogyan lépd túl az 500%-os korlátot (iPhone)",
+  "description": "Az iMovie iPhone-on klipenként kb. 500%-nál megáll. Ha ez kevés, a Hangerőnövelő Média a videót 10×-re viszi egy csúszkával, projekt és újraexport nélkül.",
+  "h1": "Az iMovie hangerőkorlátja (500%) és a túllépés módja",
+  "eyebrow": "Összevetés az iMovie-val",
+  "card_title": "Hangosabb, mint az iMovie 500%-a",
+  "card_summary": "Hogyan hangosíts az iMovie-ban, miért áll meg a csúszka 5×-nél, és az út 10×-ig egy csúszkával.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Az iMovie iPhone-on kb. 500%-ig (5×) engedi egy klip hangosítását: koppints a klipre, a hangszóró ikonra, húzd jobbra, és exportálj. Ha a videó maximumon is halk, nyisd meg ugyanazt a fájlt a Hangerőnövelő Média appban, amely ×10-ig (1000%) megszorozza a hangot, engedi az Eredeti/Feldolgozott összehasonlítást, és projekt létrehozása nélkül új másolatot ment. Csak hangot tartalmazó fájlokat is megnyit, amelyeket az iMovie nem.",
+  "intro": [
+    "Az iMovie az Apple ingyenes válasza arra, hogy „hogyan hangosítsam a videómat”, és egy kicsit halk klipnél működik is. A csúszkának azonban van plafonja, és a terem túloldaláról vagy képernyőről rögzített felvételeknek gyakran több kell. Ilyenkor az emberek 500%-on exportálnak, még mindig nem hallanak jól, és valami „iMovie-nál hangosabbat” keresnek.",
+    "Íme, pontosan meddig megy az iMovie, hogyan használd, és mit tegyél, ha nem elég."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "„Select the amount of boosting” képernyőkép: ×10-es hangerőszorzó csúszka, az iMovie maximumának kétszerese",
+    "caption": "A Hangerőnövelő Média ×10-e nagyjából kétszerese az iMovie maximumának."
+  },
+  "sections": [
+    {
+      "heading": "Hogyan hangosíts az iMovie-ban iPhone-on",
+      "paragraphs": [
+        "Ha még nem próbáltad, érdemes ismerni az ingyenes utat:"
+      ],
+      "list": [
+        "Nyisd meg az iMovie-t → Új projekt → Film, és válaszd ki a videót.",
+        "Koppints a klipre az idővonalon, hogy kijelöld.",
+        "Koppints a hangszóró ikonra az eszközsoron, és húzd jobbra a hangerő-csúszkát. Kb. 500%-nál megáll.",
+        "Koppints a Kész gombra, majd a Megosztás ikon → Videó mentése lehetőségre, és várj, amíg az iMovie újrakódolja a teljes klipet."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Ahol az iMovie elakad",
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Hangerőnövelő Média"
+        ],
+        "rows": [
+          [
+            "Maximális hangosítás",
+            "Kb. 500% (5×)",
+            "×10 (1000%)"
+          ],
+          [
+            "Csak hangot tartalmazó fájlok (MP3, hangjegyzetek)",
+            "Nem támogatott",
+            "Támogatott"
+          ],
+          [
+            "Folyamat",
+            "Projekt létrehozása → klip hozzáadása → beállítás → export",
+            "Megosztás a Fotókból → csúszka → Feldolgozott letöltése"
+          ],
+          [
+            "Előtte/utána meghallgatás",
+            "Idővonal lejátszása",
+            "Eredeti / Feldolgozott kapcsoló"
+          ],
+          [
+            "Kép újrakódolása",
+            "Igen, teljes export",
+            "Csak a hang kerül feldolgozásra, a kép érintetlen"
+          ],
+          [
+            "Beszédjavítás",
+            "Nincs",
+            "Hangminőség javítása kapcsoló"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Mikor elég az 500%, és mikor nem",
+      "paragraphs": [
+        "Az 5× kb. +14 dB. Ez lefed egy kicsit halknak tűnő klipet. Nem fedi le a hátsó sorból rögzített előadást, a beszélgetés alatt az asztalon felejtett telefont, sem a legtöbb képernyőfelvételt, amelyek gyakran 15–25 dB-lel a normál szint alatt vannak. Ezekhez ×8–×10 kell, és az, hogy halld, levágódik-e a leghangosabb pillanat ezen a szinten; pontosan erre való a Hangerőnövelő Média Eredeti/Feldolgozott kapcsolója."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Lépésről lépésre: az iMovie korlátjának túllépése",
+    "intro": "Az eredeti videót használd, ne az iMovie exportját, hogy egyszer, a legtisztább forrásból hangosíts.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Oszd meg az eredeti videót az appal",
+        "text": "A Fotókban nyisd meg a klipet, koppints a Megosztás gombra, és válaszd az Increase Volume lehetőséget."
+      },
+      {
+        "name": "Szorzó 5 fölött",
+        "text": "Húzd a „Hangerőszorzót” ×6–×10-re attól függően, mennyire halk. Beszédhez kapcsold be a „Hangminőség javítása” lehetőséget. Koppints a „Hangerő kiemelése” gombra."
+      },
+      {
+        "name": "Hasonlítsd össze",
+        "text": "Válts az Eredeti/Feldolgozott között a leghangosabb résznél. Ha recseg, vegyél vissza egy fokozatot, és hangosíts újra."
+      },
+      {
+        "name": "Feldolgozott letöltése",
+        "text": "Mentsd a hangosabb másolatot a Fotókba, vagy oszd meg közvetlenül. Az eredeti érintetlen marad."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tippek",
+    "items": [
+      "Ha vágáshoz vagy feliratokhoz továbbra is az iMovie-t használnád, előbb hangosíts a Hangerőnövelő Média appban, aztán az iMovie-ban a hangosított fájlt szerkeszd.",
+      "Ne halmozd a hangosításokat (iMovie 500%-on, aztán ×10 az exporton); menj közvetlenül az eredetiből a szükséges szintre.",
+      "Hangfájlokhoz felejtsd el az iMovie-t; nem nyit meg MP3-at és M4A-t."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Miért korlátozza az iMovie a hangerőt 500%-ra?",
+      "answer": "Az Apple korlátozza a csúszkát, hogy a hétköznapi szerkesztések ne vágódjanak le túlságosan. Normál videókhoz ésszerű érték, de nagyon halk felvételekhez kevés."
+    },
+    {
+      "question": "Ingyenes a Hangerőnövelő Média, mint az iMovie?",
+      "answer": "A letöltés ingyenes, és van ingyenes próbaidőszak; a korlátlan hangosítás előfizetéssel oldható fel. Az aktuális árakat az App Store-ban találod."
+    },
+    {
+      "question": "Mac-en túlléphető az iMovie 500%-a?",
+      "answer": "A Maces iMovie is kb. 400–500%-nál megáll. Az olyan programok, mint a Final Cut Pro vagy az Audacity, többre képesek, de kell hozzájuk számítógép és a fájl átvitele. A Hangerőnövelő Média ezt az iPhone-on végzi."
+    }
+  ],
+  "related": [
+    "hogyan-noveld-a-video-hangerejet-iphone-on",
+    "hangero-novelese-minosegromlas-nelkul",
+    "video-hangerejenek-novelese-fotokbol"
+  ]
+}

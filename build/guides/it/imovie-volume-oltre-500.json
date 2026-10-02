@@ -1,0 +1,137 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "aumentare il volume su iMovie",
+  "priority": 11,
+  "keywords": "aumentare volume iMovie, iMovie non alza di più, più forte di iMovie, iMovie oltre 500%, volume massimo iMovie iPhone",
+  "title": "Volume in iMovie: come superare il limite del 500% su iPhone",
+  "description": "Su iPhone iMovie si ferma intorno al 500% per clip. Se non basta, Aumenta Volume porta lo stesso video a 10× con un solo cursore, senza progetto né riesportare.",
+  "h1": "Il limite di volume di iMovie (500%) e come superarlo",
+  "eyebrow": "Confronto con iMovie",
+  "card_title": "Più forte del 500% di iMovie",
+  "card_summary": "Come alzare il volume in iMovie, perché il cursore si ferma a 5× e la strada per arrivare a 10× con un cursore.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Su iPhone iMovie permette di alzare una clip fino al 500% circa (5×): tocca la clip, l'icona dell'altoparlante, trascina a destra ed esporta. Se il video è ancora basso al massimo, apri lo stesso file in Aumenta Volume, che moltiplica l'audio fino a ×10 (1000%), ti fa confrontare Originale ed Elaborato e salva una nuova copia senza creare un progetto. Apre anche file solo audio, che iMovie non apre.",
+  "intro": [
+    "iMovie è la risposta gratuita di Apple a «come alzo il volume del mio video», e per una clip un po' bassa funziona. Ma il cursore ha un tetto, e le registrazioni fatte dall'altra parte di una stanza o dallo schermo spesso richiedono di più. Allora si esporta al 500%, ancora non si sente bene e si cerca qualcosa «più forte di iMovie».",
+    "Ecco esattamente fin dove arriva iMovie, come usarlo e cosa fare quando non basta."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/it/4.webp",
+    "alt": "Schermata «Seleziona la quantità di aumento»: cursore di moltiplicazione volume ×10, il doppio del massimo di iMovie",
+    "caption": "Il ×10 di Aumenta Volume è circa il doppio del massimo di iMovie."
+  },
+  "sections": [
+    {
+      "heading": "Come alzare il volume in iMovie su iPhone",
+      "paragraphs": [
+        "Se non l'hai ancora provato, vale la pena conoscere la strada gratuita:"
+      ],
+      "list": [
+        "Apri iMovie → Inizia nuovo progetto → Filmato e scegli il video.",
+        "Tocca la clip nella timeline per selezionarla.",
+        "Tocca l'icona dell'altoparlante nella barra strumenti e trascina il cursore del volume a destra. Si ferma intorno al 500%.",
+        "Tocca Fine, poi l'icona Condividi → Salva video, e aspetta che iMovie ricodifichi tutta la clip."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Dove iMovie non arriva",
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Aumenta Volume"
+        ],
+        "rows": [
+          [
+            "Potenziamento massimo",
+            "Circa 500% (5×)",
+            "×10 (1000%)"
+          ],
+          [
+            "File solo audio (MP3, Memo Vocali)",
+            "Non supportati",
+            "Supportati"
+          ],
+          [
+            "Flusso",
+            "Crea progetto → aggiungi clip → regola → esporta",
+            "Condividi da Foto → cursore → Scarica elaborato"
+          ],
+          [
+            "Ascolto prima/dopo",
+            "Riproduci la timeline",
+            "Selettore Originale / Elaborato"
+          ],
+          [
+            "Ricodifica dell'immagine",
+            "Sì, esportazione completa",
+            "Solo l'audio viene elaborato, l'immagine passa intatta"
+          ],
+          [
+            "Miglioramento del parlato",
+            "No",
+            "Opzione Migliora qualità audio"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Quando il 500% basta e quando no",
+      "paragraphs": [
+        "5× sono circa +14 dB. Copre una clip che sembra un po' bassa. Non copre una lezione dall'ultima fila, un telefono dimenticato sul tavolo durante una conversazione né la maggior parte delle registrazioni dello schermo, spesso 15–25 dB sotto il livello normale. Per quelle servono ×8–×10 e la possibilità di sentire se il momento più forte distorce a quel livello, che è proprio il compito del selettore Originale/Elaborato di Aumenta Volume."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Passo dopo passo: superare il limite di iMovie",
+    "intro": "Usa il video originale, non l'esportazione di iMovie, per potenziare una sola volta dalla sorgente più pulita.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Condividi il video originale con l'app",
+        "text": "In Foto apri la clip, tocca Condividi e scegli Increase Volume."
+      },
+      {
+        "name": "Moltiplicatore oltre 5",
+        "text": "Trascina «Moltiplicazione volume» a ×6–×10 in base a quanto è basso. Per il parlato attiva «Migliora qualità audio». Tocca «Potenzia volume»."
+      },
+      {
+        "name": "Confronta",
+        "text": "Passa da Originale a Elaborato nella parte più forte. Se suona duro, scendi di un passo e potenzia di nuovo."
+      },
+      {
+        "name": "Scarica elaborato",
+        "text": "Salva la copia più forte in Foto o condividila direttamente. L'originale resta intatto."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consigli",
+    "items": [
+      "Se vuoi continuare a usare iMovie per tagli o titoli, potenzia prima in Aumenta Volume e poi monta in iMovie il file potenziato.",
+      "Non sommare i potenziamenti (iMovie al 500% e poi ×10 sull'esportazione); vai direttamente dall'originale al livello che ti serve.",
+      "Per i file audio lascia perdere iMovie; non apre MP3 né M4A."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Perché iMovie limita il volume al 500%?",
+      "answer": "Apple limita il cursore perché i montaggi normali non distorcano troppo. È un valore ragionevole per video normali, ma basso per registrazioni molto deboli."
+    },
+    {
+      "question": "Aumenta Volume è gratuita come iMovie?",
+      "answer": "Il download è gratuito e c'è una prova gratuita; il potenziamento illimitato si sblocca con un abbonamento. I prezzi aggiornati sono su App Store."
+    },
+    {
+      "question": "iMovie su Mac supera il 500%?",
+      "answer": "Anche iMovie per Mac si ferma intorno al 400–500%. Programmi come Final Cut Pro o Audacity vanno oltre, ma servono un computer e il trasferimento del file. Aumenta Volume lo fa sull'iPhone."
+    }
+  ],
+  "related": [
+    "come-aumentare-il-volume-di-un-video-su-iphone",
+    "aumentare-volume-senza-perdere-qualita",
+    "aumentare-volume-video-da-foto"
+  ]
+}

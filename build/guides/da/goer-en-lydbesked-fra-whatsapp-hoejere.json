@@ -1,0 +1,103 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "lydbesked WhatsApp for lav",
+  "priority": 4,
+  "keywords": "lydbesked whatsapp for lav, gør lydbesked højere, talebesked for lav iPhone, messenger lydbesked lav lyd, telegram talebesked for lav",
+  "title": "Lydbesked fra WhatsApp for lav? Sådan gør du den højere",
+  "description": "Lav lydbesked fra WhatsApp på iPhone? Udeluk først, at den spiller i ørehøjttaleren, og eksportér så beskeden og forstærk den op til 10× i Increase Volume.",
+  "h1": "Sådan gør du en lydbesked fra WhatsApp højere på iPhone",
+  "eyebrow": "WhatsApp og Messenger",
+  "card_title": "Gør en lav lydbesked højere",
+  "card_summary": "To forskellige problemer: ørehøjttaleren eller en reelt lav optagelse. Løs dem begge.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Er alle lydbeskeder i WhatsApp for lave, afspiller din iPhone sandsynligvis gennem ørehøjttaleren, fordi nærhedssensoren blev dækket; hold telefonen væk fra ansigtet, og tryk på lydstyrke op, mens beskeden spiller. Er én bestemt besked for lav, så eksportér den (hold nede → Videresend → Del → Gem i Filer eller direkte til Increase Volume), forstærk den ×5–×10 i Increase Volume med „Forbedr lydkvalitet“ slået til, og gem eller videresend den højere kopi.",
+  "intro": [
+    "Der er to helt forskellige grunde til, at en lydbesked i WhatsApp er svær at høre, og de kræver hver sin løsning. Den første er, at din iPhone stille skifter til ørehøjttaleren. Den anden er, at afsenderen optog langt fra mikrofonen eller et larmende sted, så beskeden reelt er lav. Tjek det første på ti sekunder, og løs det andet på et minut.",
+    "De samme trin gælder for Telegram, Signal og lydbeskeder i iMessage."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Delingsark i iOS fra Increase Volume med Gem i Filer og muligheder for at dele en forstærket lydbesked",
+    "caption": "Forstærkede lydbeskeder kan gemmes i Filer eller sendes direkte tilbage til chatten."
+  },
+  "sections": [
+    {
+      "heading": "Løsning 1: Den spiller gennem ørehøjttaleren",
+      "paragraphs": [
+        "WhatsApp skifter afspilning til ørehøjttaleren (den lille højttaler, du bruger til opkald), når nærhedssensoren ved frontkameraet dækkes. En finger, kanten af et cover eller at løfte telefonen op mod ansigtet udløser det, og beskeden lyder pludselig som en hvisken. Afdæk sensoren, hold telefonen væk fra dig, og tryk på lydstyrke op, *mens beskeden spiller*; iOS har et separat lydstyrkeniveau for ørehøjttaleren, og det kan være skruet helt ned.",
+        "Tjek også, at Bluetooth ikke sender lyden til øretelefoner i lommen, og at Indstillinger › Lyde og haptik › Høretelefonsikkerhed › Reducer høj lyd ikke begrænser lydstyrken i høretelefoner."
+      ]
+    },
+    {
+      "heading": "Løsning 2: Selve beskeden er lav",
+      "paragraphs": [
+        "Er andre beskeder fine og netop denne ikke, så er optagelsen lav. WhatsApp har ingen lydstyrkekontrol til modtaget lyd, og lydstyrkeknapperne kan ikke gå over 100 %. Du skal gøre selve filen højere. WhatsApp lader dig eksportere en lydbesked som lydfil, og Increase Volume kan gange den op til ×10 og give dig en ny kopi, du kan beholde eller videresende."
+      ]
+    },
+    {
+      "heading": "Sådan eksporterer du en lydbesked fra WhatsApp, Telegram eller Beskeder",
+      "list": [
+        "WhatsApp: hold lydbeskeden nede → Videresend → tryk på Del-ikonet (nederst til venstre) → vælg Increase Volume eller Gem i Filer.",
+        "Telegram: hold lydbeskeden nede → Videresend eller Del → Gem i Filer, eller del til Increase Volume.",
+        "Lydbeskeder i iMessage: hold nede → Gem (lægges i Diktafon), og del derefter fra Diktafon.",
+        "Signal: hold nede → Gem → Gem i Filer.",
+        "Messenger: tilbyder som regel ikke at gemme lydbeskeder som fil; her hjælper en skærmoptagelse under afspilning, som du så forstærker som video."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Trin for trin: forstærk en lydbesked fra WhatsApp",
+    "intro": "Cirka et minut med den gratis app Increase Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Eksportér lydbeskeden",
+        "text": "Hold beskeden nede i WhatsApp → Videresend → Del-ikonet → Increase Volume. (Eller Gem i Filer og tilføj den inde fra appen.)"
+      },
+      {
+        "name": "Slå Forbedr lydkvalitet til",
+        "text": "Lydbeskeder er tale; kontakten hjælper med at holde ordene tydelige efter forstærkningen."
+      },
+      {
+        "name": "Forstærk",
+        "text": "Sæt „Lydstyrke-multiplikation“ til ×5 til at starte med, ×8–×10 for en meget lav besked, og tryk på „Boost lydstyrke“."
+      },
+      {
+        "name": "Sammenlign",
+        "text": "Skift Original/Behandlet. Knitrer det højeste ord, så sænk multiplikationen."
+      },
+      {
+        "name": "Gem eller videresend",
+        "text": "Tryk på „Download behandlet“. Gem i Filer, eller del den højere kopi direkte tilbage til WhatsApp, så hele gruppen kan høre den."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Bed dem, der ofte sender lydbeskeder, om at holde telefonen tættere på; intet slår at løse det ved kilden.",
+      "Gemmer du mange lydbeskeder, så saml de forstærkede kopier i en mappe i Filer; WhatsApps egen mediemappe kan ikke gennemses.",
+      "Til lydbeskeder, du selv optager, virker samme trick: optag, del til Increase Volume, forstærk, og send den forstærkede fil som dokument eller lyd."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Hvorfor er lydbeskeder lave, når jeg holder telefonen op til øret?",
+      "answer": "Det er meningen: WhatsApp skifter til ørehøjttaleren af hensyn til privatlivet, når nærhedssensoren er dækket. Skru op for ørehøjttaleren med knapperne, mens beskeden spiller, eller hold telefonen væk for at bruge højttaleren."
+    },
+    {
+      "question": "Kan jeg gøre en lydbesked højere inde i WhatsApp?",
+      "answer": "Nej. WhatsApp har afspilningshastighed (1×, 1,5×, 2×), men ingen lydforstærkning. Eksportér beskeden, og forstærk den med Increase Volume."
+    },
+    {
+      "question": "Virker det også med Telegram og Messenger?",
+      "answer": "Det virker med enhver app, der lader dig dele eller gemme lydfilen (Telegram, Signal, iMessage). Messenger tilbyder som regel ikke at gemme lydbeskeder som fil; der hjælper en skærmoptagelse. Forstærkede filer kan sendes tilbage gennem samme app."
+    }
+  ],
+  "related": [
+    "goer-en-diktafon-optagelse-hoejere-paa-iphone",
+    "goer-en-mp3-hoejere-paa-iphone",
+    "hvorfor-er-min-iphone-video-saa-lav"
+  ]
+}

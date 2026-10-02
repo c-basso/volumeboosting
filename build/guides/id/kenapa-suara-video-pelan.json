@@ -1,0 +1,115 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "kenapa suara video pelan",
+  "priority": 7,
+  "keywords": "kenapa suara video pelan, suara video iPhone kecil, video yang direkam tidak terdengar, mikrofon iPhone pelan, video kurang keras",
+  "title": "Kenapa Suara Video iPhone Saya Pelan? 7 Penyebab & Solusinya",
+  "description": "Suara video pelan biasanya karena jarak, mikrofon tertutup, angin, Bluetooth, atau batas headphone. Temukan penyebabnya dan keraskan video hingga 10× di iPhone.",
+  "h1": "Kenapa suara video iPhone saya pelan? Penyebab dan solusi",
+  "eyebrow": "Pemecahan masalah",
+  "card_title": "Kenapa suara video saya pelan?",
+  "card_summary": "Tujuh penyebab, dari mikrofon tertutup sampai batas headphone, dan cara menyelamatkan video yang sudah direkam.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Video iPhone terdengar pelan karena *direkam* pelan (pembicara jauh dari mikrofon, mikrofon tertutup casing atau jari, angin, aplikasi pelan saat perekaman layar) atau *diputar* pelan (perangkat Bluetooth tersambung, Kurangi Audio Keras aktif, speaker kotor). Cek pemutaran dulu dengan video lain. Jika rekamannya sendiri pelan, tidak ada pengaturan yang bisa memperbaikinya; keraskan hingga 10× dengan Penguat Volume dan simpan salinan yang lebih keras.",
+  "intro": [
+    "Pertama, cari tahu jenis „pelan” yang Anda alami. Putar video lain yang Anda tahu normal. Jika terdengar keras, ponsel Anda baik-baik saja dan masalahnya ada di rekaman. Jika semua terdengar pelan, itu masalah pemutaran di ponsel. Penyebab dan solusinya sama sekali berbeda, jadi tes tiga puluh detik ini menghemat banyak waktu.",
+    "Berikut tujuh penyebab yang paling sering kami temui, diurutkan dari yang paling umum."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/1.webp",
+    "alt": "Gambar promosi „Volume Booster Sound Amplifier ×10 Louder” aplikasi Penguat Volume untuk iPhone",
+    "caption": "Jika rekamannya sendiri pelan, solusinya adalah mengeraskan file."
+  },
+  "sections": [
+    {
+      "heading": "Penyebab saat merekam (video pelan di mana pun)",
+      "paragraphs": [
+        "Penyebab ini tertanam di file. Inilah alasan video terdengar pelan di ponsel mana pun yang Anda kirimi."
+      ],
+      "list": [
+        "Jarak: mikrofon ponsel dirancang untuk orang yang berjarak sekitar satu meter. Orang di ujung ruangan terdengar pelan dan bergema.",
+        "Mikrofon tertutup: mikrofon video utama ada di dekat kamera belakang; casing tebal, jari, atau holder bisa menutupinya. Rekaman jadi pelan dan teredam.",
+        "Angin dan bising latar: di tempat bising, iPhone menurunkan sensitivitas dan pembicara terdengar lebih pelan.",
+        "Level perekaman layar: iOS menangkap audio aplikasi di level yang dikurangi, lebih rendah lagi jika aplikasi pelan atau earphone Bluetooth tersambung.",
+        "Klip yang diterima: video yang dikirim lewat WhatsApp atau Messenger di-encode ulang dan kadang tiba lebih pelan dari aslinya."
+      ]
+    },
+    {
+      "id": "pemutaran",
+      "heading": "Penyebab saat memutar (semua video pelan di ponsel ini)",
+      "paragraphs": [
+        "Penyebab ini membuat ponsel Anda terdengar pelan; file-nya baik dan akan terdengar normal di tempat lain."
+      ],
+      "list": [
+        "Bluetooth masih tersambung: suara dikirim ke AirPods di laci atau ke mobil. Buka Pusat Kontrol dan periksa output audio.",
+        "Kurangi Audio Keras: Pengaturan › Suara & Haptik › Keamanan Headphone membatasi volume headphone. Perlindungan yang baik, tetapi video pelan jadi makin pelan di headphone.",
+        "Fitur Perhatian (iPhone dengan Face ID): Pengaturan › Face ID & Kode Sandi mengecilkan volume peringatan saat Anda melihat layar; sebagian orang merasa video juga jadi lebih pelan.",
+        "Kisi speaker kotor atau sisa air: sikat lembut yang kering mengembalikan volume secara mengejutkan.",
+        "Keseimbangan: Pengaturan › Aksesibilitas › Audio & Visual › Keseimbangan harus di tengah."
+      ]
+    },
+    {
+      "heading": "Solusi untuk video yang direkam pelan",
+      "paragraphs": [
+        "Momen itu tidak bisa diulang, dan pengaturan iPhone tidak mengubah file yang sudah tersimpan. Foto tidak punya kontrol volume; iMovie mengeraskan klip hingga sekitar 500% setelah Anda membuat proyek. Penguat Volume membuka video langsung dari Foto, melipatgandakan audio hingga ×10, memungkinkan perbandingan Asli/Diproses, dan menyimpan salinan baru. Salinan yang lebih keras terdengar keras di perangkat dan aplikasi mana pun.",
+        "Jika penyebabnya mikrofon tertutup, penguatan memperbaiki level tetapi tidak menghilangkan suara teredam; aktifkan «Tingkatkan Kualitas Audio» untuk membantu suara bicara."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: menyelamatkan video yang pelan",
+    "intro": "Satu menit dengan aplikasi gratis Penguat Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Pastikan masalahnya di rekaman",
+        "text": "Putar video lain. Jika keras, lanjutkan; jika tidak, atasi dulu penyebab pemutaran di atas."
+      },
+      {
+        "name": "Bagikan video ke aplikasi",
+        "text": "Buka di Foto, ketuk Bagikan, dan pilih Increase Volume."
+      },
+      {
+        "name": "Perkuat",
+        "text": "Atur «Pengali volume» ke ×4 sebagai awal (lebih tinggi untuk klip yang sangat pelan), aktifkan «Tingkatkan Kualitas Audio» untuk suara bicara, dan ketuk «Boost volume»."
+      },
+      {
+        "name": "Bandingkan",
+        "text": "Beralih antara Asli/Diproses di momen paling keras dan sesuaikan pengali bila perlu."
+      },
+      {
+        "name": "Simpan",
+        "text": "Ketuk «Unduh yang diproses» → Simpan Video. Bagikan salinan baru, bukan file asli."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Rekam lebih keras lain kali",
+    "items": [
+      "Dekati pembicara sejauh satu lengan atau gunakan mikrofon klip, berkabel maupun nirkabel.",
+      "Lepas casing atau pastikan tidak ada yang menutupi mikrofon belakang.",
+      "Untuk perekaman layar, putuskan Bluetooth dan naikkan volume media ke maksimal sebelum mulai.",
+      "Lindungi ponsel dari angin dengan badan atau tangan."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kenapa video saya hanya pelan saat dikirim?",
+      "answer": "Aplikasi pesan meng-encode ulang video dan bisa sedikit menurunkan level, tetapi efek terbesarnya adalah ponsel penerima memutarnya di level asli yang pelan, bukan dengan speaker Anda yang sedang maksimal. Keraskan file sebelum mengirim."
+    },
+    {
+      "question": "Bisakah aplikasi penguat membuat speaker iPhone lebih keras?",
+      "answer": "Tidak ada aplikasi yang bisa melewati batas fisik speaker atau mengubah volume seluruh sistem; Apple tidak mengizinkannya. Penguat mengeraskan file, dan itulah yang Anda butuhkan saat rekamannya pelan."
+    },
+    {
+      "question": "Apakah sakelar senyap memengaruhi volume video?",
+      "answer": "Tidak. Sakelar Dering/Senyap (atau tombol Tindakan) hanya membisukan dering dan peringatan. Volume media diatur dengan tombol volume saat video diputar."
+    }
+  ],
+  "related": [
+    "cara-mengeraskan-suara-video-di-iphone",
+    "rekaman-layar-suara-pelan-iphone",
+    "mengeraskan-suara-tanpa-mengurangi-kualitas"
+  ]
+}

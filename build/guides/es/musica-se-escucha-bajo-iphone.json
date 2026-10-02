@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "música se escucha bajo iPhone",
+  "priority": 5,
+  "keywords": "música se escucha bajo iPhone, subir volumen música iPhone, ajuste de volumen iPhone, reducir sonidos fuertes, canciones suenan bajo",
+  "title": "¿La música se escucha bajo en tu iPhone? Cómo subirla",
+  "description": "¿Canciones bajas en iPhone? Revisa Ajuste de volumen, el ecualizador y el límite de auriculares; luego sube tus MP3 y grabaciones 10× con Aumentar Volumen.",
+  "h1": "Cómo subir el volumen de la música en iPhone",
+  "eyebrow": "Música",
+  "card_title": "Subir el volumen de la música",
+  "card_summary": "Tres ajustes de iOS que limitan tu música sin avisar, y cómo potenciar canciones que tienes como archivo.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Empieza por los ajustes: en Ajustes › Música desactiva Ajuste de volumen y prueba en el ecualizador el preajuste «Nocturno» (Late Night), que sube las partes suaves; en Ajustes › Sonidos y vibraciones › Seguridad de los auriculares desactiva Reducir sonidos fuertes. Eso afecta al streaming y a la reproducción. Los archivos de música que son tuyos (MP3, M4A, WAV en Archivos, maquetas, ensayos), ábrelos en Aumentar Volumen, súbelos ×1,5–×4, compara Original y Procesado y toca «Descargar procesado».",
+  "intro": [
+    "«La música de mi iPhone se oye bajo» tiene dos respuestas muy distintas. Si Apple Music o Spotify suenan bajos en el altavoz o en los auriculares, lo más probable es que el móvil se esté limitando con un ajuste que cambias en un minuto. Si es una canción *concreta* la que está baja —un MP3 antiguo, un ensayo, una maqueta de un amigo—, el que necesita más nivel es el archivo.",
+    "Esta guía cubre las dos cosas, en ese orden."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/es/3.webp",
+    "alt": "Captura «Aumenta el volumen del audio»: Aumentar Volumen procesando un archivo de música con nombre, tamaño y duración",
+    "caption": "Los archivos de música que son tuyos se potencian directamente desde Archivos."
+  },
+  "sections": [
+    {
+      "heading": "Ajustes que bajan toda la música (revísalos primero)",
+      "list": [
+        "Reducir sonidos fuertes: Ajustes › Sonidos y vibraciones › Seguridad de los auriculares. Activado, limita el volumen de los auriculares al nivel que elijas. Desactívalo o sube el límite.",
+        "Ajuste de volumen: Ajustes › Música › Ajuste de volumen iguala todas las canciones al mismo volumen y por eso baja las fuertes. Desactívalo si todo te suena flojo.",
+        "Ecualizador: Ajustes › Música › Ecualizador. «Nocturno» comprime la dinámica para que suban las partes suaves; «Volumen» realza graves y agudos a bajo volumen. Prueba los dos.",
+        "Límite de volumen en Tiempo de uso: Ajustes › Tiempo de uso › Restricciones de contenido y privacidad puede tener un límite bloqueado por un padre o un ajuste antiguo.",
+        "Bluetooth: algunos auriculares y altavoces tienen su propio volumen; súbelo también en el dispositivo."
+      ]
+    },
+    {
+      "heading": "Qué archivos de música puedes potenciar",
+      "paragraphs": [
+        "Aumentar Volumen potencia archivos que realmente tienes: MP3 y WAV en Archivos o iCloud Drive, ensayos en M4A, maquetas recibidas por Mail o AirDrop, exportaciones de GarageBand y el audio de vídeos musicales. Muestra artista y título si el archivo los incluye. Las descargas de Apple Music, Spotify o YouTube Music están cifradas y ninguna otra app puede abrirlas; para ellas, usa los ajustes de arriba."
+      ]
+    },
+    {
+      "heading": "Cuánto subir una canción",
+      "paragraphs": [
+        "La música publicada ya viene masterizada cerca del nivel máximo, así que ×1,5–×2 suele ser el tope antes de que el estribillo se sature. Las grabaciones caseras, maquetas y rips antiguos suelen tener 6–12 dB de margen y aguantan ×2–×4. Decide con Original/Procesado en el estribillo más fuerte."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Paso a paso: subir el volumen de un archivo de música",
+    "intro": "Para una canción en Archivos, una exportación de GarageBand o una grabación.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Añade la canción",
+        "text": "Abre Aumentar Volumen y añade el archivo desde Archivos, o compártelo con la app desde Archivos, Mail o GarageBand."
+      },
+      {
+        "name": "Elige un multiplicador moderado",
+        "text": "Pon «Multiplicación del volumen» en ×1,5–×2 para música publicada y ×2–×4 para maquetas y grabaciones. Prueba «Mejorar calidad de audio» activado y desactivado y quédate con lo que suene más natural. Toca «Potenciar volumen»."
+      },
+      {
+        "name": "Revisa el estribillo",
+        "text": "Alterna Original/Procesado en la parte más fuerte. Si cruje, baja."
+      },
+      {
+        "name": "Descargar procesado",
+        "text": "Guarda en Archivos y añade la canción más alta a tu reproductor, o compártela."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consejos",
+    "items": [
+      "Potencia un álbum o un set entero con el mismo multiplicador para que las canciones queden parejas.",
+      "En vídeos musicales la imagen no se toca; solo se procesa el audio.",
+      "Si masterizas tu propia música, potencia la mezcla y no el máster final; un limitador en tu DAW lo hará más limpio que la ganancia sin más."
+    ]
+  },
+  "faq": [
+    {
+      "question": "¿Un amplificador de volumen puede subir Apple Music o Spotify?",
+      "answer": "No editando las canciones, que están cifradas. Usa Ajuste de volumen, el ecualizador y Seguridad de los auriculares, o la normalización de la app de streaming. Aumentar Volumen potencia archivos que son tuyos."
+    },
+    {
+      "question": "¿Por qué unas canciones suenan más bajo que otras?",
+      "answer": "Por niveles de masterización distintos. Ajuste de volumen las iguala, pero baja las fuertes; si lo desactivas, vuelven a sonar fuertes. Los archivos bajos que sean tuyos, súbelos con Aumentar Volumen para que encajen."
+    },
+    {
+      "question": "¿Cambia el formato de la canción al potenciarla?",
+      "answer": "La app crea un archivo nuevo en un formato de audio habitual junto al original. El original no cambia."
+    }
+  ],
+  "related": [
+    "subir-volumen-mp3-iphone",
+    "subir-volumen-podcast-audiolibro-iphone",
+    "subir-volumen-sin-perder-calidad"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "augmenter le son d'une vidéo sur iPhone",
+  "priority": 1,
+  "keywords": "augmenter le son d'une vidéo iPhone, rendre une vidéo plus forte, vidéo son trop faible, amplificateur de volume vidéo, augmenter volume vidéo",
+  "title": "Augmenter le son d'une vidéo sur iPhone (jusqu'à 10×)",
+  "description": "Rendez une vidéo trop faible plus forte sur iPhone en une minute : ce que font Photos et iMovie, leurs limites, et comment aller jusqu'à 10× avec l'app.",
+  "h1": "Comment augmenter le son d'une vidéo sur iPhone",
+  "eyebrow": "Vidéo",
+  "card_title": "Augmenter le son d'une vidéo",
+  "card_summary": "Photos ne peut pas monter le son et iMovie s'arrête vers 500 %. Voici comment atteindre 10× avec un seul curseur.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Pour augmenter le son d'une vidéo sur iPhone, ouvrez-la dans l'Amplificateur de Volume Audio (Increase Volume, gratuit sur l'App Store), faites glisser le curseur « Multiplication du volume » jusqu'à ×10, touchez « Amplifier le volume », comparez Original et Traité, puis touchez « Télécharger le fichier traité ». La copie plus forte est enregistrée dans Photos ou Fichiers et reste forte sur tous les appareils et dans toutes les apps. L'app Photos n'a pas d'amplification, et iMovie plafonne à environ 500 %.",
+  "intro": [
+    "Vous filmez un moment, vous l'envoyez à un ami, et il répond : « On n'entend rien. » La vidéo trop faible est l'un des soucis les plus courants sur iPhone, parce que la solution n'est pas là où on la cherche. Les boutons de volume ne changent que la puissance de votre téléphone, et l'éditeur de Photos n'a aucun curseur de volume.",
+    "Ce guide passe en revue les trois options réelles sur iPhone, ce que chacune sait faire ou non, puis la méthode la plus rapide : multiplier le son de la vidéo jusqu'à 10× avec l'amplificateur et enregistrer un fichier durablement plus fort."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/fr/2.webp",
+    "alt": "Capture de l'amplificateur de volume : un doigt fait glisser le curseur rose sur une vidéo pour la rendre plus forte",
+    "caption": "Le curseur d'amplification se trouve directement sur l'aperçu de la vidéo. Glissez, écoutez, enregistrez."
+  },
+  "sections": [
+    {
+      "heading": "Pourquoi monter le volume du téléphone ne corrige pas une vidéo",
+      "paragraphs": [
+        "Les boutons de volume de l'iPhone changent la puissance de *votre* haut-parleur. Ils ne modifient pas le son contenu dans le fichier vidéo. Quand vous partagez le fichier, le téléphone du destinataire le lit à son niveau d'origine, trop faible. Pour corriger durablement, il faut augmenter le niveau de la piste audio elle-même et enregistrer un nouveau fichier. C'est exactement le rôle d'un amplificateur de volume vidéo."
+      ]
+    },
+    {
+      "heading": "Option 1 : l'app Photos (pas d'amplification)",
+      "paragraphs": [
+        "Ouvrez la vidéo dans Photos et touchez Modifier. Vous trouverez une icône de haut-parleur qui coupe seulement le son et, sur iPhone 16 ou ultérieur avec des vidéos en audio spatial, la fonction Mixage audio, qui rééquilibre les voix et le bruit de fond. Aucune des deux n'augmente le volume global. Si tout l'enregistrement est faible, Photos ne vous aidera pas."
+      ]
+    },
+    {
+      "heading": "Option 2 : iMovie (gratuit, plafond vers 500 %)",
+      "paragraphs": [
+        "iMovie peut augmenter le volume d'un plan : créez un projet Film, ajoutez la vidéo, touchez le plan, touchez l'icône de haut-parleur et faites glisser le curseur vers la droite. Deux limites comptent. Le curseur s'arrête vers 500 % (5×), ce qui suffit rarement pour un enregistrement fait à l'autre bout d'une pièce. Et il faut créer un projet puis réexporter toute la vidéo, ce qui prend quelques minutes pour un long clip."
+      ],
+      "list": [
+        "Ouvrez iMovie → Commencer un nouveau projet → Film, puis choisissez la vidéo.",
+        "Touchez le plan dans la timeline, touchez l'icône de haut-parleur et faites glisser le curseur de volume vers la droite (environ 500 % au maximum).",
+        "Touchez OK → Partager → Enregistrer la vidéo et attendez l'export."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Option 3 : l'Amplificateur de Volume Audio (jusqu'à 10×, un curseur, moins d'une minute)",
+      "paragraphs": [
+        "L'app est conçue exactement pour cela. Elle ouvre n'importe quelle vidéo depuis Photos ou Fichiers, affiche un seul curseur « Multiplication du volume » qui monte jusqu'à ×10 (1000 %), vous laisse comparer Original et Traité avant d'enregistrer, et enregistre le résultat via la feuille de partage habituelle d'iOS. Elle ouvre aussi les fichiers purement audio, comme les MP3 et les mémos du Dictaphone, qu'iMovie ne sait pas ouvrir.",
+        "Le traitement se fait sur l'iPhone. Rien n'est envoyé en ligne, aucun compte n'est nécessaire et la vidéo exportée n'a pas de filigrane."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Étape par étape : augmenter le son d'une vidéo avec l'amplificateur",
+    "intro": "Environ une minute pour un clip ordinaire. Il vous faut l'app gratuite de l'App Store et la vidéo dans Photos ou Fichiers.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Ouvrez la vidéo dans l'app",
+        "text": "Lancez l'app et ajoutez la vidéo depuis Photos ou Fichiers. Plus rapide : ouvrez la vidéo dans Photos, touchez Partager et choisissez Increase Volume ; le projet se crée aussitôt."
+      },
+      {
+        "name": "Vérifiez les informations",
+        "text": "L'app affiche le nom du fichier, sa taille et sa durée pour confirmer que c'est le bon clip. S'il s'agit surtout de parole, activez « Améliorer la qualité audio »."
+      },
+      {
+        "name": "Réglez l'amplification",
+        "text": "Faites glisser « Multiplication du volume ». Commencez entre ×3 et ×5 pour une vidéo juste un peu faible ; allez jusqu'à ×10 pour un enregistrement à peine audible. Touchez « Amplifier le volume à ×N »."
+      },
+      {
+        "name": "Comparez Original et Traité",
+        "text": "Utilisez le sélecteur sous le bouton pour passer de l'original à la version amplifiée. Si les passages forts paraissent durs, revenez et baissez le multiplicateur d'un cran."
+      },
+      {
+        "name": "Téléchargez et partagez",
+        "text": "Touchez « Télécharger le fichier traité ». Dans la feuille de partage, choisissez Enregistrer la vidéo pour placer la copie plus forte dans Photos, Enregistrer dans Fichiers, ou envoyez-la directement par Messages, WhatsApp, AirDrop ou TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Conseils pour un meilleur résultat",
+    "items": [
+      "Amplifiez la vidéo *avant* de la publier sur TikTok, Instagram ou YouTube. Ces plateformes normalisent le volume à l'envoi, mais ne sauvent pas une piste qui arrive trop faible.",
+      "Si le clip contient un moment fort (un rire, une porte qui claque) entouré de paroles faibles, choisissez un multiplicateur modéré (×3–×5) et activez « Améliorer la qualité audio » plutôt que de pousser à ×10.",
+      "L'original reste intact. L'app crée toujours un nouveau fichier, vous pouvez donc essayer plusieurs niveaux.",
+      "Une vidéo filmée avec le micro masqué (coque, doigt) est faible *et* étouffée ; l'amplification corrige le niveau, pas l'étouffement."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Peut-on augmenter le son d'une vidéo sur iPhone sans app ?",
+      "answer": "Seulement avec iMovie, offert par Apple, qui monte le volume d'un plan jusqu'à environ 500 %. L'app Photos ne peut pas augmenter le volume. Pour aller au-delà de 5× ou plus vite, utilisez l'amplificateur."
+    },
+    {
+      "question": "Augmenter le volume fait-il perdre de la qualité ?",
+      "answer": "L'image n'est pas touchée. Le son est multiplié ; si vous poussez trop un enregistrement qui a déjà des crêtes fortes, il peut saturer et sonner dur. C'est pour cela que l'app propose le sélecteur Original/Traité, pour écouter avant d'enregistrer."
+    },
+    {
+      "question": "La vidéo reste-t-elle forte quand je l'envoie ?",
+      "answer": "Oui. L'amplification est écrite dans la piste audio du fichier, elle est donc lue au nouveau niveau sur n'importe quel téléphone, ordinateur ou réseau social."
+    },
+    {
+      "question": "Ça marche aussi avec des vidéos téléchargées ?",
+      "answer": "Oui, tant que le fichier est dans Photos ou Fichiers et n'est pas protégé contre la copie. L'app ouvre les fichiers MP4 et MOV de toute provenance."
+    }
+  ],
+  "related": [
+    "augmenter-volume-sans-perte-de-qualite",
+    "enregistrement-ecran-iphone-son-trop-faible",
+    "imovie-volume-plus-de-500"
+  ],
+  "cta": {
+    "title": "Rendez votre vidéo plus forte maintenant",
+    "text": "L'Amplificateur de Volume Audio est gratuit sur l'App Store. Partagez la vidéo vers l'app, glissez jusqu'à ×10 et touchez « Télécharger le fichier traité »."
+  }
+}

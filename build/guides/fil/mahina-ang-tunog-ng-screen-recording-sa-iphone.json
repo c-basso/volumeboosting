@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "mahina ang tunog ng screen record",
+  "priority": 2,
+  "keywords": "mahina ang tunog ng screen record, screen recording walang tunog iPhone, lakasan ang screen recording, screen record with sound iPhone, mahina ang screen recording",
+  "title": "Mahina ang tunog ng screen recording sa iPhone? Ayusin ito",
+  "description": "Mahina ang screen recording sa iPhone? Alamin kung bakit, paano mag-record nang mas malakas, at paano lakasan ang tapos na recording ng 10× sa Increase Volume.",
+  "h1": "Mahina ang tunog ng screen recording sa iPhone: paano ito lakasan",
+  "eyebrow": "Screen recording",
+  "card_title": "Lakasan ang screen recording",
+  "card_summary": "Mahinang nire-record ng iOS ang tunog ng apps. Ayusin ang recording sa isang minuto at mag-record nang mas malakas sa susunod.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Hindi kayang lakasan ng settings ang tapos nang screen recording, pero puwede mong i-boost ang file: buksan ito sa Increase Volume, i-set ang «Volume multiplication» sa ×5–×10, i-tap ang «Boost Volume», pakinggan ang Na-process at i-tap ang «Download Processed». Para mas malakas ang susunod: lakasan ang media volume bago mag-record, i-disconnect ang Bluetooth headphones, at kung may commentary, i-long press ang Screen Recording sa Control Center at i-on ang Microphone.",
+  "intro": [
+    "Ang screen recordings ang pinakamahinang video na ginagawa ng karamihan ng iPhone. Maingat ang level ng iOS sa pag-record ng tunog ng apps para hindi mag-distort, at kung may naka-connect na headphones o mahina ang volume ng app, halos tahimik ang lumalabas na track. Kapag nag-commentary ka pa sa mic, lalong hindi pantay ang mix.",
+    "Narito kung bakit mahina ang recording mo, ano ang babaguhin bago ang susunod, at paano ililigtas ang recording na meron ka na."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Increase Volume sa iPhone na may Volume multiplication ×10 slider at Boost Volume button",
+    "caption": "Kadalasang kailangan ng screen recording ng malakas na boost; normal ang ×5 hanggang ×10."
+  },
+  "sections": [
+    {
+      "heading": "Bakit mahina ang screen recording sa iPhone",
+      "paragraphs": [
+        "Halos lahat ng kaso ay dahil sa isa sa apat na ito:"
+      ],
+      "list": [
+        "Capture level: nire-record ng iOS ang internal audio ng apps sa mas mababang level para hindi mag-clip ang malalakas na games at videos.",
+        "Bluetooth: kapag naka-connect ang AirPods o Bluetooth speaker, madalas mas mahina o wala talagang na-record na tunog.",
+        "Volume ng app: kinukuha ng recording ang tunog sa volume na naka-set. Kung 30% ang phone, 30% din ang recording.",
+        "Mix sa mic: kapag naka-on ang mic, hinahalo ang boses mo sa tunog ng app at hinihinaan ng iOS ang app audio."
+      ]
+    },
+    {
+      "heading": "Mag-record nang mas malakas sa susunod",
+      "paragraphs": [
+        "Bago mag-record: i-disconnect ang Bluetooth audio, itaas sa max ang media volume, at i-mute ang notifications gamit ang Focus. Kung gusto mo ng commentary, i-long press ang Screen Recording button sa Control Center at i-tap ang Microphone hanggang maging pula; ang simpleng tap ay app audio lang ang nire-record. Malalaman mo agad sa limang segundong test recording kung tama ang level."
+      ]
+    },
+    {
+      "heading": "Ayusin ang recording na meron ka na",
+      "paragraphs": [
+        "Hindi binabago ng system settings ang file na na-save na. Kaya ng iMovie na itaas ito hanggang mga 500%, minsan sapat, pero kailangan ng project at bagong export. Umaabot ng ×10 ang Increase Volume, direktang gumagana sa file mula sa Photos, at may Orihinal/Na-process toggle para marinig mo ang boosted level bago mag-save. Sa mga tutorial na may salita, i-on ang «Improve Audio Quality» para mas malinaw ang boses."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: lakasan ang screen recording",
+    "intro": "Kailangan mo ang libreng Increase Volume app at ang screen recording sa Photos.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "I-share ang recording sa app",
+        "text": "Buksan ang screen recording sa Photos, i-tap ang Share at piliin ang Increase Volume. O buksan ang app at idagdag ang file mula sa Photos."
+      },
+      {
+        "name": "May commentary? I-on ang Improve Audio Quality",
+        "text": "Kung nagsalita ka habang nagre-record, i-on ang «Improve Audio Quality» para malinaw pa rin ang boses pagkatapos ng boost."
+      },
+      {
+        "name": "I-set ang multiplier",
+        "text": "I-drag ang «Volume multiplication» sa ×5 bilang simula. Kadalasang malayo sa normal ang level ng screen recordings, kaya karaniwan ang ×8–×10. I-tap ang «Boost Volume»."
+      },
+      {
+        "name": "Pakinggan ang Na-process",
+        "text": "Lumipat sa Na-process at i-play ang pinakamalakas na bahagi. Kung magaspang, bawasan ang multiplier."
+      },
+      {
+        "name": "Download Processed",
+        "text": "I-tap ang «Download Processed» at piliin ang Save Video para mapunta sa Photos ang mas malakas na recording, o ipadala diretso sa YouTube, Messenger o sa editor mo."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Mag-boost muna bago mag-trim o maglagay ng captions sa ibang editor; mas maraming room ang lahat ng susunod na tools kung malakas ang source.",
+      "Sa gameplay na may music, mas maganda ang katamtamang boost (×3–×4) para hindi mag-clip ang music pero lumakas pa rin ang kabuuan.",
+      "Kung walang tunog talaga ang recording at hindi lang mahina, hindi talaga na-record ang audio (kadalasan naka-mute ang app o may DRM ang video). Walang booster na makakapagdagdag ng tunog na hindi na-record."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bakit walang tunog ang screen recording ko sa iPhone?",
+      "answer": "Puwedeng pinapatay ng app na ni-record mo ang tunog nito kapag may screen recording (ginagawa ito ng streaming at video-call apps), may DRM ang video, o zero ang media volume. Hindi mabu-boost ang walang tunog na track; mag-record ulit na naka-play ang tunog ng app at malakas ang volume."
+    },
+    {
+      "question": "Puwede bang lakasan lang ang boses ko at hindi ang game audio?",
+      "answer": "Bino-boost ng Increase Volume ang buong mixed track. Pero kapag naka-on ang «Improve Audio Quality», mas inuuna ang linaw ng boses, kaya kadalasang mas lumilitaw ang commentary pagkatapos ng boost."
+    },
+    {
+      "question": "Nagbabago ba ang resolution ng video pag nag-boost?",
+      "answer": "Hindi. Audio track lang ang pinoproseso; walang nagbabago sa picture."
+    }
+  ],
+  "related": [
+    "paano-lakasan-ang-volume-ng-video-sa-iphone",
+    "bakit-mahina-ang-tunog-ng-video-sa-iphone",
+    "lakasan-ang-tunog-nang-hindi-nasisira-ang-quality"
+  ]
+}

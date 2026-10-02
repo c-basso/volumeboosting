@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "augmenter le volume d'un mémo vocal",
+  "priority": 4,
+  "keywords": "augmenter volume mémo vocal iPhone, mémo vocal trop faible, Dictaphone enregistrement trop faible, améliorer l'enregistrement Dictaphone, amplifier enregistrement vocal",
+  "title": "Mémo vocal trop faible ? Augmenter son volume sur iPhone",
+  "description": "« Améliorer l'enregistrement » du Dictaphone réduit le bruit mais ne rend pas le fichier plus fort. Voici comment amplifier un mémo vocal 10× sur iPhone.",
+  "h1": "Comment augmenter le volume d'un mémo vocal sur iPhone",
+  "eyebrow": "Dictaphone",
+  "card_title": "Rendre un mémo vocal plus fort",
+  "card_summary": "« Améliorer l'enregistrement » ne change que la lecture. Exportez le mémo et amplifiez le fichier lui-même, jusqu'à 10×.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Pour rendre un mémo vocal plus fort sur iPhone, partagez-le depuis Dictaphone vers l'Amplificateur de Volume Audio (touchez le mémo → ⋯ → Partager → Increase Volume), activez « Améliorer la qualité audio », réglez « Multiplication du volume » entre ×5 et ×10, touchez « Amplifier le volume », comparez Original et Traité, puis touchez « Télécharger le fichier traité » pour enregistrer le M4A plus fort. « Améliorer l'enregistrement » dans Dictaphone réduit le bruit à la lecture, mais ne modifie pas le fichier et ne le rend pas plus fort une fois partagé.",
+  "intro": [
+    "Un mémo enregistré au bout de la table de réunion, un cours depuis le dernier rang, une interview avec quelqu'un qui parle bas : les mots sont là, mais même à fond vous devez tendre l'oreille. Dictaphone propose quelques options de lecture, et beaucoup pensent que l'une d'elles rend l'enregistrement plus fort. Aucune ne le fait.",
+    "Ce guide explique ce que fait Dictaphone et comment transformer un mémo faible en fichier fort et facile à partager en une minute."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/fr/4.webp",
+    "alt": "Capture de l'amplificateur avec les infos de l'enregistrement, l'option Améliorer la qualité audio et le curseur de multiplication ×10",
+    "caption": "Pour de la parole, activez « Améliorer la qualité audio » avant d'amplifier."
+  },
+  "sections": [
+    {
+      "heading": "Ce que fait Dictaphone (et ce qu'il ne fait pas)",
+      "paragraphs": [
+        "Ouvrez un mémo, touchez l'icône des options (curseurs) et vous verrez :"
+      ],
+      "list": [
+        "Améliorer l'enregistrement : réduit le bruit de fond et l'écho. Utile, mais c'est un réglage de *lecture* ; d'après Apple, il ne modifie pas l'enregistrement lui-même.",
+        "Ignorer les silences et vitesse de lecture : pratiques, sans effet sur le volume.",
+        "Voix de studio (modèles compatibles) : réduit la réverbération de la pièce, lui aussi uniquement à la lecture.",
+        "Raccourcir / Remplacer : modifient la durée ou le contenu, pas le niveau."
+      ],
+      "note": "Rien dans Dictaphone n'augmente le niveau du fichier enregistré. Quand vous partagez le mémo, le destinataire l'entend au volume d'origine."
+    },
+    {
+      "heading": "Pourquoi le mémo est faible",
+      "paragraphs": [
+        "L'iPhone ajuste automatiquement la sensibilité pendant l'enregistrement, mais il ne peut pas compenser un orateur à plusieurs mètres ou un téléphone posé écran vers le bas, micro masqué. Résultat : un enregistrement dont les crêtes restent loin sous le plafond numérique. Cet écart est justement la marge qu'utilise un amplificateur : un mémo faible supporte en général ×5–×10 sans saturer."
+      ]
+    },
+    {
+      "heading": "Amplifiez le fichier avec l'app",
+      "paragraphs": [
+        "L'Amplificateur de Volume Audio ouvre le fichier M4A exporté par Dictaphone, affiche sa durée et sa taille et multiplie le volume jusqu'à ×10. L'option « Améliorer la qualité audio » vise l'intelligibilité de la voix, exactement ce dont un mémo a besoin. Vous écoutez le résultat avec Original/Traité avant d'enregistrer, et le fichier plus fort est écrit comme nouvelle copie dans Fichiers, Messages, Mail ou l'app de votre choix."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Étape par étape : rendre un mémo vocal plus fort",
+    "intro": "Fonctionne avec tout mémo déjà présent dans Dictaphone.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Partagez le mémo vers l'app",
+        "text": "Dans Dictaphone, touchez le mémo, touchez ⋯, choisissez Partager et sélectionnez Increase Volume. (Vous pouvez aussi Enregistrer dans Fichiers d'abord et l'ajouter depuis l'app.)"
+      },
+      {
+        "name": "Activez Améliorer la qualité audio",
+        "text": "Activez l'option pour que l'amplification privilégie la voix."
+      },
+      {
+        "name": "Réglez le multiplicateur",
+        "text": "Placez « Multiplication du volume » sur ×5 pour commencer ; les enregistrements lointains demandent souvent ×8–×10. Touchez « Amplifier le volume »."
+      },
+      {
+        "name": "Comparez",
+        "text": "Basculez Original/Traité au passage le plus fort (un rire, une tasse posée). Si ça grésille, baissez le multiplicateur."
+      },
+      {
+        "name": "Télécharger le fichier traité",
+        "text": "Touchez « Télécharger le fichier traité » et choisissez Enregistrer dans Fichiers, ou envoyez le mémo plus fort directement dans Messages, Mail, WhatsApp ou Notes."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Conseils",
+    "items": [
+      "Enregistrez téléphone posé sur le dos, côté micro vers l'orateur, aussi près que la politesse le permet. Cela compte plus que n'importe quel réglage.",
+      "Si le mémo doit être transcrit, amplifiez-le d'abord ; la reconnaissance vocale se trompe moins sur un fichier plus fort et plus net.",
+      "Gardez l'original dans Dictaphone. La copie amplifiée est un fichier séparé."
+    ]
+  },
+  "faq": [
+    {
+      "question": "« Améliorer l'enregistrement » rend-il un mémo plus fort ?",
+      "answer": "Non. Il réduit le bruit de fond et l'écho pendant la lecture. Apple précise que ces réglages de lecture ne modifient pas l'enregistrement lui-même ; un mémo partagé reste donc identique."
+    },
+    {
+      "question": "Dans quel format sort le mémo amplifié ?",
+      "answer": "Dans le même format audio que celui partagé (Dictaphone exporte en M4A). L'app crée un nouveau fichier ; votre mémo d'origine n'est pas modifié."
+    },
+    {
+      "question": "Puis-je amplifier un mémo qu'on m'a envoyé ?",
+      "answer": "Oui. Enregistrez l'audio depuis Messages, Mail ou WhatsApp dans Fichiers (ou partagez-le directement vers l'app) et amplifiez-le de la même façon."
+    }
+  ],
+  "related": [
+    "message-vocal-whatsapp-trop-faible",
+    "augmenter-volume-mp3-iphone",
+    "augmenter-volume-sans-perte-de-qualite"
+  ]
+}

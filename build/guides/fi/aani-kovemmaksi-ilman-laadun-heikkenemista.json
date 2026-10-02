@@ -1,0 +1,140 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "ääni kovemmaksi ilman säröä",
+  "priority": 10,
+  "keywords": "ääni kovemmaksi ilman laadun heikkenemistä, ääni kovemmaksi ilman säröä, ääni säröytyy tehostuksessa, äänenvoimakkuus ilman leikkautumista, heikentääkö tehostus laatua",
+  "title": "Videon ääni kovemmaksi ilman laadun heikkenemistä (iPhone)",
+  "description": "Liika tehostus säröyttää äänen. Näin tehostus toimii, paljonko on turvallista ja miten tarkistat tuloksen Alkuperäinen/Käsitelty-kytkimellä Increase Volumessa.",
+  "h1": "Näin saat videon äänen kovemmaksi ilman laadun heikkenemistä",
+  "eyebrow": "Laatu",
+  "card_title": "Kovempi ääni ilman säröä",
+  "card_summary": "Mitä leikkautuminen on, paljonko hiljaisessa tallenteessa on varaa ja miten tarkistat ennen tallennusta.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Tehostus ei koske kuvaan eikä heikennä ääntä, kunhan kovimmat huiput pysyvät digitaalisen katon alla. Avaa video iPhonella Increase Volumessa, aloita ×3:sta, napauta ”Tehosta äänenvoimakkuutta” ja kuuntele kovin kohta Alkuperäinen/Käsitelty-kytkimellä. Nosta kerrointa, kunnes ääni on selvästi kova muttei räikeä. Laita puheelle ”Paranna äänenlaatua” päälle ja tallenna ”Lataa käsitelty” -painikkeella. Alkuperäistä tiedostoa ei koskaan muuteta.",
+  "intro": [
+    "”Eikö se ala säröytyä?” on ensimmäinen kysymys äänen tehostimesta, ja se on oikea kysymys. Tehostus on kertolaskua: jokainen äänen näyte kasvaa. Jos suurimmat osuvat tiedostomuodon sallimaan maksimiarvoon, ne leikkautuvat tasaisiksi ja kuulet rätinää tai räikeyttä kovissa kohdissa. Sitä kutsutaan leikkautumiseksi (clipping), ja se on ainoa todellinen laaturiski.",
+    "Hyvä uutinen: *hiljaisessa* tallenteessa on määritelmän mukaan paljon tilaa kattoon. Tämä opas kertoo, miten tila käytetään ja miten tulos tarkistetaan ennen tallennusta."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "Increase Volumen tulosnäkymä: Lataa käsitelty -painike ja Alkuperäinen/Käsitelty-kytkin",
+    "caption": "Vertaa kovinta kohtaa aina Alkuperäinen/Käsitelty-kytkimellä ennen latausta."
+  },
+  "sections": [
+    {
+      "heading": "Mikä tehostuksessa oikeasti muuttuu",
+      "paragraphs": [
+        "Vain ääniraita käsitellään. Videovirta kulkee läpi, joten resoluutio, kuvataajuus ja värit pysyvät täsmälleen samoina. Äänessä kerroin ×2 kaksinkertaistaa amplitudin (noin +6 dB), ×4 on noin +12 dB ja ×10 on +20 dB. Tallenteen kohina (huoneen humina, tuuli) kerrotaan samalla, minkä vuoksi hyvin suuri tehostus kohinaisessa tallenteessa voi kuulostaa kohisevalta, vaikkei mikään leikkautuisi."
+      ]
+    },
+    {
+      "heading": "Paljonko tehostusta on turvallista?",
+      "paragraphs": [
+        "Se riippuu siitä, kuinka kaukana katosta kovin kohta on, ei siitä, kuinka hiljainen *keskiarvo* on. Hyvin hiljaiselta kuulostava tallenne, jossa on yksi täysitasoinen oven paukahdus, ei kestä paljon tehostusta ennen kuin paukahdus leikkautuu. Tasaisen hiljainen tallenne, kuten takariviltä äänitetty luento, kestää usein ×8–×10 puhtaasti."
+      ],
+      "table": {
+        "head": [
+          "Tallenne",
+          "Tyypillinen turvallinen alue",
+          "Huomio"
+        ],
+        "rows": [
+          [
+            "Sanelin-äänite tai luento kaukaa",
+            "×5 – ×10",
+            "Laita puheelle Paranna äänenlaatua päälle."
+          ],
+          [
+            "Puhelinvideo, joka on vain vähän hiljainen",
+            "×2 – ×4",
+            "Tarkista kovin nauru tai taputus."
+          ],
+          [
+            "Näytön tallennus",
+            "×5 – ×10",
+            "Yleensä selvästi normaalia hiljaisempi."
+          ],
+          [
+            "Musiikki, jossa hiljaiset säkeistöt ja kova kertosäe",
+            "×1,5 – ×3",
+            "Kertosäe määrää rajan."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Käytä Alkuperäinen/Käsitelty-tarkistusta",
+      "paragraphs": [
+        "Increase Volume käsittelee tiedoston ja näyttää sitten Alkuperäinen/Käsitelty-kytkimen ennen kuin mitään tallennetaan. Etsi kovin kohta ja vaihda versioiden välillä. Jos Käsitelty kuulostaa siinä räikeältä tai rätisevältä, laske kerrointa pykälä ja tehosta uudelleen. Koska sovellus tekee uuden tiedoston, voit kokeilla vapaasti; alkuperäiseen ei kosketa."
+      ]
+    },
+    {
+      "heading": "Paranna äänenlaatua: milloin päälle",
+      "paragraphs": [
+        "”Paranna äänenlaatua” -kytkin lisää selkeyteen tähtäävää käsittelyä, joka auttaa eniten puheessa: haastatteluissa, luennoissa, ääniviesteissä ja näytöltä tallennetuissa opastuksissa. Musiikissa kokeile molempia ja pidä luonnollisempi. Nykyversiossa toiminto on merkitty kokeelliseksi, joten kuuntele tulos aina."
+      ]
+    },
+    {
+      "id": "tietosuoja",
+      "heading": "Tietosuoja: kaikki pysyy puhelimessasi",
+      "paragraphs": [
+        "Increase Volume käsittelee tiedostot iPhonessa. Mitään ei ladata, tiliä ei ole, ja tulos tallennetaan iOS:n tavallisen jakoarkin kautta Kuviin, Tiedostoihin tai valitsemaasi sovellukseen. Verkkotehostimet vaativat tiedoston lähettämistä palvelimelle ja koodaavat sen yleensä uudelleen heikommalla laadulla; paikallinen sovellus välttää molemmat."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Vaihe vaiheelta: puhdas tehostus",
+    "intro": "Sama työnkulku video- ja äänitiedostoille.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Avaa tiedosto Increase Volumessa",
+        "text": "Lisää se Kuvista tai Tiedostoista, tai jaa se sovellukseen mistä tahansa."
+      },
+      {
+        "name": "Päätä Paranna äänenlaatua",
+        "text": "Päälle puheelle; musiikissa kokeile molempia."
+      },
+      {
+        "name": "Aloita maltillisesti",
+        "text": "Aseta ”Äänenvoimakkuuden kertoja” ×3:een ja napauta ”Tehosta äänenvoimakkuutta”."
+      },
+      {
+        "name": "Tarkista kovin kohta",
+        "text": "Vaihda Alkuperäinen/Käsitelty kovimmassa kohdassa. Puhdas? Nosta kerrointa ja toista. Räikeä? Laske."
+      },
+      {
+        "name": "Tallenna",
+        "text": "Napauta ”Lataa käsitelty” ja tallenna Kuviin tai Tiedostoihin. Alkuperäinen pysyy koskemattomana."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Vinkit",
+    "items": [
+      "Tarkista kuulokkeilla; puhelimen kaiutin peittää lievän leikkautumisen.",
+      "Kohinaisessa tiedostossa hieman pienempi kerroin ”Paranna äänenlaatua” päällä kuulostaa usein paremmalta kuin suurin tehostus.",
+      "Tehosta kerran, lähteestä. Jo tehostetun viennin tehostaminen uudelleen kasaa virheet päällekkäin."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Laskeeko äänenvoimakkuuden nosto videon resoluutiota?",
+      "answer": "Ei. Vain ääni käsitellään. Videovirta säilyttää resoluution, kuvataajuuden ja bittinopeuden."
+    },
+    {
+      "question": "Miltä liiasta tehostuksesta johtuva särö kuulostaa?",
+      "answer": "Rätinältä, surinalta tai räikeydeltä vain kovimmissa kohdissa, kun hiljaiset osat kuulostavat hyviltä. Jos kuulet sitä, laske kerrointa."
+    },
+    {
+      "question": "Onko ×10 liikaa?",
+      "answer": "Ei oikeasti hiljaisille tallenteille, kuten kaukaa äänitetyille Sanelin-äänitteille tai näyttötallenteille. Tavalliselle puhelinvideolle riittää yleensä ×2–×4. Anna Alkuperäinen/Käsitelty-tarkistuksen ratkaista."
+    }
+  ],
+  "related": [
+    "nain-saat-videon-aanen-kovemmaksi-iphonella",
+    "sanelin-aanite-kovemmaksi-iphonella",
+    "miksi-iphonen-video-on-niin-hiljainen"
+  ]
+}

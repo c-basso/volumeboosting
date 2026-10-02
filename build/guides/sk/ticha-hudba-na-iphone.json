@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "tichá hudba na iPhone",
+  "priority": 5,
+  "keywords": "tichá hudba na iPhone, ako zosilniť hudbu na iPhone, iPhone hrá potichu, zvýšiť hlasitosť hudby, zosilňovač hudby",
+  "title": "Hudba na iPhone hrá potichu? 6 nastavení a zosilnenie 10×",
+  "description": "Hudba na iPhone hrá potichu? Skontroluj bezpečnosť slúchadiel, ekvalizér, vyrovnanie hlasitosti a vyváženie a vlastné MP3 a M4A zosilni až 10× v aplikácii.",
+  "h1": "Tichá hudba na iPhone: nastavenia a riešenie",
+  "eyebrow": "Hudba",
+  "card_title": "Tichá hudba",
+  "card_summary": "Šesť nastavení, ktoré hudbu stíšia, a ako zosilniť vlastné zvukové súbory až 10×.",
+  "quick_answer": "Ak je na iPhone tichá všetka hudba, skontroluj Nastavenia › Zvuky a haptika › Bezpečnosť slúchadiel (znižovanie hlasných zvukov), ekvalizér v nastaveniach Hudby, vyrovnanie hlasitosti a vyváženie v Prístupnosti. Ak je tichý jeden súbor (MP3, nahrávka, demo), otvor ho vo Volume Boost, zosilni ×2–×5 a hlasnejšiu kópiu ulož do Súborov. Hudbu z Apple Music či Spotify ako súbor zosilniť nejde, je chránená.",
+  "intro": [
+    "Za „hudba je potichu“ sú dva rôzne problémy: nastavenie, ktoré obmedzuje celý zvuk, alebo súbor nahraný či zmixovaný potichu. Prvé vyriešiš v Nastaveniach, druhé vyžaduje, aby bol hlasnejší samotný súbor.",
+    "Tu sú oba, v poradí, v akom sa ich oplatí kontrolovať."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Volume Boost spracováva súbor MP3 a zobrazuje názov, veľkosť a dĺžku",
+    "caption": "Tvoje zvukové súbory (MP3, M4A, WAV) sa spracúvajú v zariadení."
+  },
+  "sections": [
+    {
+      "heading": "Šesť nastavení, ktoré stíšia hudbu",
+      "paragraphs": [],
+      "list": [
+        "Bezpečnosť slúchadiel: Nastavenia › Zvuky a haptika › Bezpečnosť slúchadiel môže obmedziť úroveň v slúchadlách.",
+        "Ekvalizér: Nastavenia › Hudba › Ekvalizér. Voľba „Neskoro v noci“ zdvihne tiché pasáže a v hluku môže hudba pôsobiť hlasnejšie.",
+        "Vyrovnanie hlasitosti: Nastavenia › Hudba. Keď je zapnuté, vyrovnáva hlasitosť skladieb, takže hlasné skladby môžu stíchnuť.",
+        "Vyváženie: Nastavenia › Prístupnosť › Zvuk a obraz › Vyváženie by malo byť v strede.",
+        "Bluetooth: niektoré slúchadlá majú vlastnú hlasitosť; skontroluj ich aplikáciu.",
+        "Nečistoty v reproduktore alebo konektore tlmia zvuk; opatrne ich vyčisti."
+      ],
+      "ordered": true,
+      "note": "Názvy ponúk zodpovedajú iOS 18 a v iných verziách sa môžu mierne líšiť."
+    },
+    {
+      "heading": "Keď je tichý jeden súbor: zosilni súbor",
+      "paragraphs": [
+        "Demá, živé nahrávky, staré MP3 a stiahnuté súbory bývajú zmixované potichu. Volume Boost otvorí súbor zo Súborov, vynásobí úroveň a uloží nový súbor. Silnejšie basy dodajú plnosť, keď zosilňuješ hudbu."
+      ]
+    },
+    {
+      "heading": "Čo sa zosilniť nedá",
+      "paragraphs": [
+        "Skladby z Apple Music, Spotify a ďalších streamovacích služieb sú chránené DRM a nedajú sa otvoriť ako súbory. Pre ne platia nastavenia vyššie. Súbory, ktoré vlastníš, zosilniť ide."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Zosilni zvukový súbor vo Volume Boost",
+    "intro": "Funguje s MP3, M4A a WAV zo Súborov.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Importuj zo Súborov",
+        "text": "Otvor aplikáciu a vyber skladbu v Súboroch."
+      },
+      {
+        "name": "Vyber úroveň",
+        "text": "Hudba býva zmixovaná blízko maxima; začni na ×2–×3 a zvyšuj opatrne."
+      },
+      {
+        "name": "Porovnaj",
+        "text": "Ťukni na „Zosilniť hlasitosť na ×N“ a vypočuj si refrén, prepínajúc Pôvodné/Spracované."
+      },
+      {
+        "name": "Ulož",
+        "text": "Ťukni na „Stiahnuť spracované“ → Uložiť do Súborov."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Komerčne masterovaná hudba má málo rezervy; často stačí ×2.",
+      "Živé nahrávky z telefónu majú veľkú rezervu a znesú ×5 aj viac.",
+      "Ponechaj si originál; aplikácia vždy vytvorí nový súbor."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Prečo hrá hudba v slúchadlách tichšie ako predtým?",
+      "answer": "Často preto, že je zapnuté znižovanie hlasných zvukov v Bezpečnosti slúchadiel, alebo iPhone znížil úroveň po dlhom počúvaní nahlas."
+    },
+    {
+      "question": "Dá sa aplikáciou zosilniť hudba zo Spotify?",
+      "answer": "Nie. Streamovaná hudba je chránená a nedá sa otvoriť ako súbor. Použi nastavenia Spotify a iOS."
+    },
+    {
+      "question": "Nebude skladba skresľovať?",
+      "answer": "Len ak špičky prekročia strop. Počúvaj s Pôvodné/Spracované a pri chrčaní zníž násobok."
+    }
+  ],
+  "related": [
+    "ako-zosilnit-mp3-na-iphone",
+    "hlasnejsie-bez-straty-kvality",
+    "tichy-podcast-audiokniha-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

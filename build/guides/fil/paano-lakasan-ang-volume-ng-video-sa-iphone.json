@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "paano lakasan ang volume ng video sa iPhone",
+  "priority": 1,
+  "keywords": "paano lakasan ang volume ng video sa iPhone, palakasin ang video, mahina ang tunog ng video, video volume booster, lakasan ang video iPhone",
+  "title": "Paano lakasan ang volume ng video sa iPhone (hanggang 10×)",
+  "description": "Lakasan ang mahinang video sa iPhone sa loob ng isang minuto: ano ang kaya ng Photos at iMovie, saan sila kulang, at paano umabot ng 10× sa Increase Volume.",
+  "h1": "Paano lakasan ang volume ng video sa iPhone",
+  "eyebrow": "Video",
+  "card_title": "Lakasan ang volume ng video",
+  "card_summary": "Hindi kayang lakasan ng Photos ang video at hanggang 500% lang ang iMovie. Ganito umabot ng 10× gamit ang isang slider.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Para lakasan ang volume ng video sa iPhone, buksan ito sa Increase Volume (libre sa App Store), i-drag ang «Volume multiplication» slider hanggang ×10, i-tap ang «Boost Volume», ikumpara ang Orihinal at Na-process, at i-tap ang «Download Processed». Mase-save ang mas malakas na kopya sa Photos o Files at malakas na ito sa kahit anong device o app. Walang volume boost ang Photos app, at hanggang mga 500% lang ang iMovie.",
+  "intro": [
+    "Nag-video ka, pinadala mo sa kaibigan, at ang reply: «Wala akong marinig.» Isa sa pinakakaraniwang problema sa iPhone ang mahinang video, kasi wala ang solusyon sa lugar kung saan ito hinahanap ng mga tao. Ang volume buttons ay nagpapalakas lang ng speaker ng phone mo, at walang volume slider sa editor ng Photos.",
+    "Sa gabay na ito, makikita mo ang tatlong totoong option sa iPhone, ano ang kaya at hindi kaya ng bawat isa, at ang pinakamabilis na paraan: i-multiply ang audio ng video hanggang 10× gamit ang Increase Volume at mag-save ng permanenteng mas malakas na file."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/2.webp",
+    "alt": "Increase Volume sa iPhone: dina-drag ng daliri ang pink na boost slider sa ibabaw ng video para lumakas",
+    "caption": "Nasa ibabaw mismo ng video preview ang boost slider. I-drag, pakinggan, i-save."
+  },
+  "sections": [
+    {
+      "heading": "Bakit hindi naaayos ng volume button ang mahinang video",
+      "paragraphs": [
+        "Ang volume buttons ng iPhone ay nagbabago lang kung gaano kalakas tumunog ang *speaker mo*. Hindi nito binabago ang audio sa loob ng video file. Pag ipinadala mo ang file, ipe-play ito ng phone ng tatanggap sa orihinal na mahinang level. Para ayusin nang permanente, kailangang lakasan ang audio track mismo at mag-save ng bagong file. Iyan mismo ang ginagawa ng video volume booster."
+      ]
+    },
+    {
+      "heading": "Option 1: Photos app (walang boost)",
+      "paragraphs": [
+        "Buksan ang video sa Photos at i-tap ang Edit. May speaker icon na pang-mute lang, at sa iPhone 16 o mas bago na may Spatial Audio, may Audio Mix na nag-aayos ng balanse ng boses at ingay sa background. Wala sa dalawa ang nagpapalakas ng kabuuang volume. Kung mahina ang buong recording, hindi makakatulong ang Photos."
+      ]
+    },
+    {
+      "heading": "Option 2: iMovie (libre, hanggang mga 500%)",
+      "paragraphs": [
+        "Kaya ng iMovie na lakasan ang clip: gumawa ng Movie project, idagdag ang video, i-tap ang clip, i-tap ang speaker icon at i-drag pakanan ang slider. Dalawa ang limitasyon. Humihinto ang slider sa mga 500% (5×), na madalas kulang para sa recording na kinuha mula sa kabilang dulo ng kwarto. At kailangan mong gumawa ng project at i-export ulit ang buong video, na ilang minuto sa mahabang clip."
+      ],
+      "list": [
+        "Buksan ang iMovie → Start New Project → Movie, at piliin ang video.",
+        "I-tap ang clip sa timeline, i-tap ang speaker icon, at i-drag pakanan ang volume slider (max mga 500%).",
+        "I-tap ang Done → Share → Save Video at hintayin ang export."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Option 3: Increase Volume (hanggang 10×, isang slider, wala pang isang minuto)",
+      "paragraphs": [
+        "Ginawa ang Increase Volume para mismo dito. Binubuksan nito ang kahit anong video mula sa Photos o Files, may iisang «Volume multiplication» slider na umaabot ng ×10 (1000%), puwede mong ikumpara ang Orihinal at Na-process bago mag-save, at sine-save ang resulta gamit ang normal na share sheet ng iOS. Kaya rin nito ang audio-only files tulad ng MP3 at voice memo, na hindi nabubuksan ng iMovie.",
+        "Sa iPhone mismo ginagawa ang processing. Walang ina-upload, walang account na kailangan, at walang watermark ang na-export na video."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: lakasan ang video gamit ang Increase Volume",
+    "intro": "Mga isang minuto lang sa karaniwang clip. Kailangan mo ang libreng app sa App Store at ang video sa Photos o Files.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Buksan ang video sa Increase Volume",
+        "text": "Buksan ang app at idagdag ang video mula sa Photos o Files. Mas mabilis: buksan ang video sa Photos, i-tap ang Share, at piliin ang Increase Volume — gagawa agad ng project."
+      },
+      {
+        "name": "I-check ang details",
+        "text": "Makikita mo ang file name, size at haba para siguradong tama ang clip. Kung puro salita ang video, i-on ang «Improve Audio Quality»."
+      },
+      {
+        "name": "I-set ang boost",
+        "text": "I-drag ang «Volume multiplication». Magsimula sa ×3 hanggang ×5 kung medyo mahina lang; ×10 kung halos hindi marinig. I-tap ang «Boost Volume to ×N»."
+      },
+      {
+        "name": "Ikumpara ang Orihinal at Na-process",
+        "text": "Gamitin ang toggle sa ilalim ng button para magpalit sa orihinal at sa boosted version. Kung magaspang ang malalakas na parte, bumalik at bawasan ng isang level."
+      },
+      {
+        "name": "I-download at i-share",
+        "text": "I-tap ang «Download Processed». Sa share sheet, piliin ang Save Video para mapunta sa Photos ang mas malakas na kopya, Save to Files, o ipadala diretso sa Messenger, Viber, WhatsApp, AirDrop o TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips para sa pinakamagandang resulta",
+    "items": [
+      "Lakasan ang video *bago* i-upload sa TikTok, Facebook, Instagram o YouTube. Ina-adjust ng mga platform ang volume pag nag-upload, pero hindi nila maililigtas ang track na sobrang hina.",
+      "Kung may isang malakas na moment ang clip (tawa, kalabog ng pinto) at mahinang salita sa paligid nito, gumamit ng katamtamang multiplier (×3–×5) at i-on ang «Improve Audio Quality» imbes na ×10.",
+      "Hindi nagagalaw ang orihinal. Laging gumagawa ng bagong file ang app, kaya puwede kang sumubok ng iba't ibang level.",
+      "Kung natakpan ang mikropono (case, daliri), mahina *at* parang barado ang video; inaayos ng boost ang level, hindi ang baradong tunog."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Puwede bang lakasan ang video sa iPhone nang walang app?",
+      "answer": "Sa iMovie lang, na libre mula sa Apple at nagpapalakas ng clip hanggang mga 500%. Hindi kaya ng Photos app na lakasan ang volume. Para sa higit sa 5× o mas mabilis na paraan, gamitin ang Increase Volume."
+    },
+    {
+      "question": "Bababa ba ang quality pag nilakasan ang video?",
+      "answer": "Hindi nagagalaw ang picture. Mina-multiply ang audio; kung sobra ang boost sa recording na may malalakas nang peak, puwedeng mag-clip at maging magaspang. Kaya may Orihinal/Na-process toggle ang app para mapakinggan mo bago mag-save."
+    },
+    {
+      "question": "Malakas pa rin ba ang video pag ipinadala ko?",
+      "answer": "Oo. Nakasulat ang boost sa audio track ng file, kaya malakas ito sa kahit anong phone, computer o social app."
+    },
+    {
+      "question": "Gagana ba sa mga na-download na video?",
+      "answer": "Oo, basta nasa Photos o Files ang file at hindi copy-protected. Bukas ang app sa MP4 at MOV mula sa kahit saan."
+    }
+  ],
+  "related": [
+    "lakasan-ang-tunog-nang-hindi-nasisira-ang-quality",
+    "mahina-ang-tunog-ng-screen-recording-sa-iphone",
+    "imovie-volume-lampas-500-percent"
+  ],
+  "cta": {
+    "title": "Lakasan na ang mahinang video mo",
+    "text": "Libre ang Increase Volume sa App Store. I-share ang video sa app, i-slide hanggang ×10, at i-tap ang «Download Processed»."
+  }
+}

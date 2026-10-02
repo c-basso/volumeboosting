@@ -1,0 +1,115 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "proč je video z iPhonu potichu",
+  "priority": 9,
+  "keywords": "proč je video z iphonu potichu, video z iphonu má tichý zvuk, nahrané video je potichu, tichý mikrofon iphone video, iphone video slabý zvuk",
+  "title": "Proč je video z iPhonu potichu? 7 příčin a jak to opravit",
+  "description": "Tiché video z iPhonu způsobuje vzdálenost, zakrytý mikrofon, vítr, Bluetooth nebo limit hlasitosti. Najdi příčinu a soubor zesil až 10× v Increase Volume.",
+  "h1": "Proč je video z iPhonu potichu? Příčiny a řešení",
+  "eyebrow": "Řešení problémů",
+  "card_title": "Proč je video z iPhonu potichu?",
+  "card_summary": "Sedm příčin, od zakrytého mikrofonu po omezení hlasitosti sluchátek, a jak zachránit video, které už máš.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Video z iPhonu je potichu buď proto, že bylo potichu *nahrané* (mluvčí daleko od mikrofonu, mikrofon zakrytý obalem nebo prstem, vítr, nízká hlasitost aplikace při záznamu obrazovky), nebo proto, že se potichu *přehrává* (připojené Bluetooth zařízení, omezení Ztlumit hlasité zvuky, znečištěný reproduktor). Nejdřív jiným videem ověř příčiny přehrávání. Pokud je tichá samotná nahrávka, žádné nastavení ji neopraví; zesil soubor až 10× v Increase Volume a ulož hlasitější kopii.",
+  "intro": [
+    "Nejdřív zjisti, jaký druh ticha máš. Pusť jiné video, o kterém víš, že je v pořádku. Pokud je hlasité, telefon je v pořádku a problém je v nahrávce. Pokud je potichu všechno, jde o přehrávání v telefonu. Příčiny i řešení jsou úplně jiné, takže tenhle třicetivteřinový test ušetří spoustu času.",
+    "Níže je sedm nejčastějších příčin, seřazených podle toho, jak často bývají viníkem."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/1.webp",
+    "alt": "Propagační snímek Increase Volume s desetinásobným zesílením hlasitosti pro iPhone",
+    "caption": "Když je tichá samotná nahrávka, řešením je zesílit soubor."
+  },
+  "sections": [
+    {
+      "heading": "Příčiny při nahrávání (video je potichu všude)",
+      "paragraphs": [
+        "Tyhle jsou zapečené přímo v souboru. Vysvětlují, proč je video tiché na každém telefonu, kam ho pošleš."
+      ],
+      "list": [
+        "Vzdálenost: mikrofony telefonu jsou laděné na mluvčího zhruba do metru. Člověk na druhém konci místnosti zní slabě a dutě.",
+        "Zakrytý mikrofon: hlavní mikrofon pro video je u zadních fotoaparátů; silný obal, prst nebo držák ho může utlumit. Nahrávka je tichá a zastřená.",
+        "Vítr a hluk v pozadí: iPhone v hlučném prostředí snižuje citlivost, takže mluvčí je tišší.",
+        "Úroveň u záznamu obrazovky: iOS zachytává zvuk aplikací sníženě, a ještě víc, když byla hlasitost v aplikaci stažená nebo byla připojená Bluetooth sluchátka.",
+        "Přijaté klipy: video poslané přes WhatsApp nebo Messenger služba překóduje a někdy dorazí s nižší úrovní než originál."
+      ]
+    },
+    {
+      "id": "prehravani",
+      "heading": "Příčiny při přehrávání (potichu je každé video v tomhle telefonu)",
+      "paragraphs": [
+        "Kvůli těmhle hraje potichu tvůj telefon; soubor je v pořádku a jinde bude znít normálně."
+      ],
+      "list": [
+        "Pořád připojené Bluetooth: zvuk jde do AirPods v šuplíku nebo do autorádia. Otevři Ovládací centrum a zkontroluj výstup.",
+        "Ztlumit hlasité zvuky: Nastavení › Zvuky a haptika › Bezpečnost sluchátek omezuje hlasitost ve sluchátkách. Je to dobrá ochrana, ale tichá videa ve sluchátkách ještě víc ztiší.",
+        "Funkce s ohledem na pozornost (iPhony s Face ID): Nastavení › Face ID a kód ztiší upozornění, když se díváš na telefon; některým uživatelům připadají tišší i média.",
+        "Zanesená mřížka reproduktoru nebo zbytky vody: otření suchým měkkým štětečkem vrátí překvapivě velký kus hlasitosti.",
+        "Vyvážení: Nastavení › Zpřístupnění › Zvuk a obraz › Vyvážení má být uprostřed."
+      ]
+    },
+    {
+      "heading": "Řešení pro potichu nahrané video",
+      "paragraphs": [
+        "Okamžik znovu nenatočíš a nastavení iPhonu uložený soubor nezmění. Fotky jezdec hlasitosti nemají; iMovie zvýší hlasitost klipu zhruba na 500 %, až když vytvoříš projekt. Increase Volume otevře video rovnou z Fotek, zesílí zvuk až ×10, dovolí porovnat Původní a Zpracované a uloží novou kopii. Hlasitější kopie hraje nahlas na každém zařízení a v každé aplikaci.",
+        "Pokud byl příčinou zakrytý mikrofon, zesílení opraví hlasitost, ale ne zastřený tón; zapni „Vylepšit kvalitu zvuku“, aby byla řeč srozumitelnější."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Postup: jak zachránit tiché video",
+    "intro": "Minuta s bezplatnou aplikací Increase Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Ověř, že jde o nahrávku",
+        "text": "Pusť jiné video. Pokud je hlasité, pokračuj; pokud ne, nejdřív vyřeš příčiny při přehrávání výše."
+      },
+      {
+        "name": "Pošli tiché video do Increase Volume",
+        "text": "Otevři ho ve Fotkách, klepni na Sdílet a vyber Increase Volume."
+      },
+      {
+        "name": "Zesil",
+        "text": "Nastav „Násobek hlasitosti“ na začátek na ×4 (u hodně tichých klipů výš), u řeči zapni „Vylepšit kvalitu zvuku“ a klepni na „Zesílit hlasitost“."
+      },
+      {
+        "name": "Porovnej",
+        "text": "Na nejhlasitějším místě přepni Původní/Zpracované a případně uprav násobek."
+      },
+      {
+        "name": "Ulož",
+        "text": "Klepni na „Stáhnout zpracované“ → Uložit video. Dál posílej novou kopii místo originálu."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Jak příště nahrát hlasitěji",
+    "items": [
+      "Buď na délku paže od toho, kdo mluví, nebo použij drátový či bezdrátový klopový mikrofon.",
+      "Sundej obal nebo zkontroluj, že nic nezakrývá zadní mikrofony.",
+      "Před záznamem obrazovky odpoj Bluetooth a zvyš hlasitost médií na maximum.",
+      "Chraň telefon před větrem tělem nebo dlaní."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Proč je video z iPhonu potichu jen když ho pošlu?",
+      "answer": "Messengery video překódují a mohou úroveň mírně snížit, ale větší vliv má to, že telefon příjemce ho přehraje v původní tiché úrovni, ne s tvým reproduktorem na maximu. Zesil soubor před odesláním."
+    },
+    {
+      "question": "Zesílí aplikace na zesílení zvuku reproduktor iPhonu?",
+      "answer": "Žádná aplikace nepřekoná hardwarový limit reproduktoru ani nezmění hlasitost celého systému; Apple to nedovoluje. Zesilovače fungují tak, že zesílí soubor, a to je přesně to, co potřebuješ, když je potichu samotná nahrávka."
+    },
+    {
+      "question": "Ovlivňuje přepínač ztlumení hlasitost videa?",
+      "answer": "Ne. Přepínač zvonění/ticho (nebo tlačítko Akce) ztlumí jen vyzvánění a upozornění. Hlasitost médií ovládají tlačítka hlasitosti během přehrávání videa."
+    }
+  ],
+  "related": [
+    "jak-zesilit-zvuk-videa-na-iphonu",
+    "jak-zesilit-zaznam-obrazovky-na-iphonu",
+    "jak-zesilit-zvuk-videa-bez-ztraty-kvality"
+  ]
+}

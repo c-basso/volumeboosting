@@ -1,0 +1,127 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "podcast eller lydbog for lav",
+  "priority": 12,
+  "keywords": "podcast for lav iPhone, lydbog for lav lyd, gør podcast højere, forstærk lydbog, forelæsning optagelse for lav",
+  "title": "Sådan gør du en podcast eller lydbog højere på iPhone",
+  "description": "Lavt podcastafsnit, lydbogskapitel eller forelæsning? Brug afspillerens stemmeboost til streams, og forstærk downloadede filer op til 10× med Increase Volume.",
+  "h1": "Sådan gør du en podcast eller lydbog højere på iPhone",
+  "eyebrow": "Podcasts og lydbøger",
+  "card_title": "Gør en podcast eller lydbog højere",
+  "card_summary": "Afspillerindstillinger til streams; en rigtig filforstærkning til afsnit og kapitler, du har som MP3 eller M4A.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Til afsnit, du streamer i en podcastapp, bruger du appens egen lydstyrkefunktion (Overcast Voice Boost, Pocket Casts Volume Boost; Apple Podcasts har ingen). Til afsnit, lydbogskapitler eller forelæsninger, du har som filer (MP3, M4A, MP4 i Filer eller iCloud Drive), åbner du dem i Increase Volume, slår „Forbedr lydkvalitet“ til, forstærker ×3–×10, sammenligner Original og Behandlet og trykker på „Download behandlet“ for at gemme en højere kopi, du kan afspille i enhver app.",
+  "intro": [
+    "Talt lyd har et lydstyrkeproblem: Podcasts bør mastereres omkring −16 LUFS, men uafhængige programmer, optagede forelæsninger og ældre lydbøger er ofte langt lavere, og én lav gæst kan drukne ved siden af en høj vært. I toget eller bilen betyder det, at du hele tiden rækker ud efter lydstyrken.",
+    "Den rigtige løsning afhænger af, hvor lyden befinder sig: i en streamingapp eller som en fil, du selv har styr på."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Projektliste i Increase Volume på iPhone med flere MP3- og videofiler med størrelse og varighed",
+    "caption": "Forstærk en hel serie afsnit eller kapitler; hvert ligger på projektlisten."
+  },
+  "sections": [
+    {
+      "heading": "Streaming i en podcastapp",
+      "paragraphs": [
+        "Du kan ikke redigere lyd inde i en streamingapp, men flere afspillere behandler lydstyrken i realtid:"
+      ],
+      "list": [
+        "Overcast: Voice Boost normaliserer og komprimerer tale; slå det til for et enkelt program eller for alle.",
+        "Pocket Casts: Volume Boost og Trim Silence under afspilningseffekter.",
+        "Spotify: Normaliser lydstyrken under afspilningsindstillinger.",
+        "Apple Podcasts: ingen lydstyrkefunktion. Lydkontrol under Indstillinger › Musik gælder kun musik, ikke podcasts."
+      ],
+      "note": "Disse funktioner virker kun, mens du afspiller i den pågældende app. De ændrer ikke filen, så intet forbedres, hvis du flytter afsnittet et andet sted hen."
+    },
+    {
+      "heading": "Filer, du har downloadet",
+      "paragraphs": [
+        "Mange podcasts tilbyder direkte download af MP3 fra deres hjemmeside, forelæsningsplatforme eksporterer MP3 eller MP4, og lydbøger uden DRM (fx LibriVox, butikker der sælger MP3 til download, eller dine egne rips) kommer som MP3 eller M4B. Når en fil ligger i Filer eller iCloud Drive, kan Increase Volume åbne den, gange niveauet op til ×10 og gemme en ny kopi. Kontakten „Forbedr lydkvalitet“ er designet til tale, så her passer den bedst."
+      ],
+      "note": "Lydbøger fra Audible, Apple Bøger, Mofibo, BookBeat og Storytel samt downloads inde i Apple Podcasts eller Spotify er kopibeskyttede og kan ikke importeres af andre apps."
+    },
+    {
+      "heading": "Vælg en multiplikation til tale",
+      "table": {
+        "head": [
+          "Kilde",
+          "Typisk multiplikation"
+        ],
+        "rows": [
+          [
+            "Professionelt produceret podcast, der bare er lidt lav",
+            "×1,5 – ×2"
+          ],
+          [
+            "Uafhængigt program eller interview med en lav gæst",
+            "×3 – ×5"
+          ],
+          [
+            "Forelæsning eller møde optaget på afstand",
+            "×6 – ×10"
+          ],
+          [
+            "Gammel lydbogsrip",
+            "×2 – ×4"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Trin for trin: forstærk et afsnit eller kapitel",
+    "intro": "Til filer i Filer, iCloud Drive, Dropbox eller modtaget via mail.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Tilføj filen",
+        "text": "Åbn Increase Volume, og tilføj afsnittet fra Filer, eller hold filen nede i Filer → Del → Increase Volume."
+      },
+      {
+        "name": "Slå Forbedr lydkvalitet til",
+        "text": "Det er tale; kontakten holder konsonanterne tydelige efter forstærkningen."
+      },
+      {
+        "name": "Indstil multiplikationen",
+        "text": "Brug tabellen ovenfor som rettesnor, og tryk på „Boost lydstyrke“."
+      },
+      {
+        "name": "Sammenlign",
+        "text": "Skift Original/Behandlet ved den højeste del (intromusik, et grin)."
+      },
+      {
+        "name": "Download behandlet",
+        "text": "Gem i Filer. Afspil den forstærkede fil i Filer, i Bøger (lydbøger) eller i en hvilken som helst afspiller, der åbner lokal lyd."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Forstærk alle kapitler i en lydbog med samme multiplikation, så niveauet er ens fra kapitel til kapitel.",
+      "Til videoforelæsninger (MP4) gælder de samme trin; billedet er urørt.",
+      "Har en fil høj intromusik og lav tale, så vælg multiplikationen efter talen, og accepter en let komprimeret intro med „Forbedr lydkvalitet“ slået til."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan jeg gøre Apple Podcasts højere?",
+      "answer": "Apple Podcasts har ingen indstilling for lydstyrke eller stemmeforstærkning. Skift enten til en afspiller med en sådan (Overcast, Pocket Casts), eller download afsnittets MP3 fra programmets hjemmeside, og forstærk filen med Increase Volume."
+    },
+    {
+      "question": "Kan jeg forstærke en lydbog fra Mofibo, Storytel eller Audible?",
+      "answer": "Nej. Lydbøger fra disse tjenester er kopibeskyttede og kan ikke åbnes af andre apps. Brug i stedet afspillerens egne lydindstillinger, hvis de findes."
+    },
+    {
+      "question": "Bevarer det forstærkede afsnit kapitler og omslag?",
+      "answer": "Increase Volume behandler lyden og skriver en ny fil. Grundlæggende metadata som titel bevares, hvor formatet tillader det; kapitelmærker bevares ikke nødvendigvis."
+    }
+  ],
+  "related": [
+    "goer-en-mp3-hoejere-paa-iphone",
+    "goer-en-diktafon-optagelse-hoejere-paa-iphone",
+    "goer-lyden-hoejere-uden-at-miste-kvalitet"
+  ]
+}

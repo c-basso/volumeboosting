@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "pojačati glasnoću snimke u Diktafonu",
+  "priority": 4,
+  "keywords": "pojačati glasnoću Diktafon iPhone, snimka u Diktafonu pretiha, tiha glasovna bilješka, poboljšaj snimku Diktafon, pojačati snimku glasa",
+  "title": "Kako pojačati glasnoću snimke iz Diktafona na iPhoneu",
+  "description": "„Poboljšaj snimku” u Diktafonu uklanja šum, ali ne pojačava datoteku. Ovako pojačaš tihu snimku do 10× i spremiš glasniju kopiju uz Pojačaj Glasnoću Zvuka.",
+  "h1": "Kako pojačati glasnoću snimke iz Diktafona na iPhoneu",
+  "eyebrow": "Diktafon",
+  "card_title": "Pojačaj tihu snimku iz Diktafona",
+  "card_summary": "„Poboljšaj snimku” mijenja samo reprodukciju. Izvezi snimku i pojačaj samu datoteku, do 10×.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Da bi pojačao snimku iz Diktafona na iPhoneu, podijeli je iz Diktafona s aplikaciji Pojačaj Glasnoću Zvuka (dodirni snimku → ⋯ → Podijeli → Increase Volume), uključi „Poboljšaj kvalitetu zvuka”, postavi „Množitelj glasnoće” na ×5–×10, dodirni „Pojačaj glasnoću”, usporedi Izvorno i Obrađeno i dodirni „Preuzmi obrađeno” da spremiš glasniji M4A. Opcija „Poboljšaj snimku” u Diktafonu smanjuje šum tijekom reprodukcije, ali ne mijenja datoteku i ne čini je glasnijom kad je podijeliš.",
+  "intro": [
+    "Snimka s drugog kraja stola za sastanke, predavanje iz zadnjeg reda ili intervju s nekim tko govori tiho: riječi su tu, ali i na punoj glasnoći moraš se naprezati. Diktafon ima nekoliko opcija reprodukcije i mnogi misle da neka od njih pojačava snimku. Nijedna to ne radi.",
+    "Ovaj vodič objašnjava što Diktafon može i kako tihu snimku za minutu pretvoriti u glasnu datoteku koju je lako podijeliti."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Snimka zaslona aplikacije Pojačaj Glasnoću Zvuka s pojedinostima snimke, prekidačem Poboljšaj kvalitetu zvuka i klizačem množitelja ×10",
+    "caption": "Za govor uključi „Poboljšaj kvalitetu zvuka” prije pojačanja."
+  },
+  "sections": [
+    {
+      "heading": "Što Diktafon radi (a što ne)",
+      "paragraphs": [
+        "Otvori snimku, dodirni ikonu opcija (klizači) i vidjet ćeš:"
+      ],
+      "list": [
+        "Poboljšaj snimku: smanjuje pozadinski šum i jeku. Korisno, ali to je postavka *reprodukcije*; prema Appleu ne mijenja samu snimku.",
+        "Preskoči tišinu i brzina reprodukcije: praktično, ali ne utječe na glasnoću.",
+        "Studijski glas (podržani modeli): smanjuje jeku prostorije, također samo pri reprodukciji.",
+        "Skrati / Zamijeni: mijenjaju trajanje ili sadržaj, ne razinu."
+      ],
+      "note": "Ništa u Diktafonu ne podiže razinu spremljene datoteke. Kad podijeliš snimku, primatelj je čuje na izvornoj glasnoći."
+    },
+    {
+      "heading": "Zašto je snimka tiha",
+      "paragraphs": [
+        "iPhone automatski prilagođava osjetljivost tijekom snimanja, ali ne može nadoknaditi govornika udaljenog nekoliko metara ili telefon okrenut naopako s pokrivenim mikrofonom. Rezultat je snimka čiji su vrhovi daleko ispod digitalnog stropa. Ta je udaljenost upravo prostor koji pojačivač koristi: tiha snimka obično podnosi ×5–×10 bez rezanja."
+      ]
+    },
+    {
+      "heading": "Pojačaj datoteku uz Pojačaj Glasnoću Zvuka",
+      "paragraphs": [
+        "Pojačaj Glasnoću Zvuka otvara M4A datoteku koju Diktafon izvozi, prikazuje trajanje i veličinu i množi glasnoću do ×10. Prekidač „Poboljšaj kvalitetu zvuka” usmjeren je na razumljivost govora, upravo ono što snimci treba. Rezultat poslušaš uz Izvorno/Obrađeno prije spremanja, a glasnija datoteka sprema se kao nova kopija u Datoteke, Poruke, Mail ili bilo koju aplikaciju."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Korak po korak: pojačaj snimku iz Diktafona",
+    "intro": "Radi sa svakom snimkom koja je već u Diktafonu.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Podijeli snimku s aplikacijom",
+        "text": "U Diktafonu dodirni snimku, dodirni ⋯, odaberi Podijeli i u retku aplikacija odaberi Increase Volume. (Možeš je i prvo spremiti u Datoteke pa je dodati iz aplikacije.)"
+      },
+      {
+        "name": "Uključi Poboljšaj kvalitetu zvuka",
+        "text": "Uključi prekidač da pojačanje da prednost govoru."
+      },
+      {
+        "name": "Odaberi množitelj",
+        "text": "Postavi „Množitelj glasnoće” na ×5 za početak; snimke iz daljine često trebaju ×8–×10. Dodirni „Pojačaj glasnoću”."
+      },
+      {
+        "name": "Usporedi",
+        "text": "Prebacuj Izvorno/Obrađeno na najglasnijem mjestu snimke (smijeh, spuštena šalica). Ako krči, smanji množitelj."
+      },
+      {
+        "name": "Preuzmi obrađeno",
+        "text": "Dodirni „Preuzmi obrađeno” i odaberi Spremi u Datoteke ili pošalji glasniju snimku izravno u Poruke, Mail, WhatsApp ili Bilješke."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Savjeti",
+    "items": [
+      "Snimaj s telefonom položenim na leđa, s mikrofonom prema govorniku i što bliže je pristojno. To znači više od bilo koje postavke.",
+      "Ako ćeš snimku transkribirati, prvo je pojačaj; prepoznavanje govora manje griješi na glasnijoj i jasnijoj datoteci.",
+      "Izvornik ostavi u Diktafonu. Pojačana kopija je zasebna datoteka."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Pojačava li „Poboljšaj snimku” glasnoću u Diktafonu?",
+      "answer": "Ne. Smanjuje pozadinski šum i jeku tijekom reprodukcije. Apple navodi da te postavke reprodukcije ne mijenjaju snimku, pa podijeljena snimka ostaje ista."
+    },
+    {
+      "question": "U kojem formatu izlazi pojačana snimka?",
+      "answer": "U istom audioformatu koji si podijelio (Diktafon izvozi M4A). Aplikacija stvara novu datoteku; izvorna snimka ostaje netaknuta."
+    },
+    {
+      "question": "Mogu li pojačati snimku koju su mi poslali?",
+      "answer": "Da. Spremi zvuk iz Poruka, Maila ili WhatsAppa u Datoteke (ili ga podijeli izravno s aplikacijom) i pojačaj ga na isti način."
+    }
+  ],
+  "related": [
+    "whatsapp-glasovna-poruka-pretiha",
+    "pojacati-glasnocu-mp3-iphone",
+    "pojacati-glasnocu-bez-gubitka-kvalitete"
+  ]
+}

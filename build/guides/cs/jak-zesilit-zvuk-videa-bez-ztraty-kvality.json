@@ -1,0 +1,140 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "zesílit zvuk bez ztráty kvality",
+  "priority": 8,
+  "keywords": "zesílit zvuk bez ztráty kvality, zesílit video bez zkreslení, zvuk praská po zesílení, snižuje zesílení kvalitu, zesílit hlasitost bez praskání",
+  "title": "Jak zesílit zvuk videa bez ztráty kvality (iPhone)",
+  "description": "Přehnané zesílení způsobí praskání. Zjisti, jak zesílení funguje, kolik je bezpečné a jak výsledek ověřit přepínačem Původní/Zpracované v Increase Volume.",
+  "h1": "Jak zesílit zvuk videa bez ztráty kvality",
+  "eyebrow": "Kvalita",
+  "card_title": "Zesílit zvuk bez zkreslení",
+  "card_summary": "Co je praskání (clipping), kolik rezervy má tichá nahrávka a jak to ověřit před uložením.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Zesílení se obrazu vůbec nedotkne a zvuk nezhorší, dokud nejhlasitější špičky zůstanou pod digitálním stropem. Na iPhonu otevři video v Increase Volume, začni na ×3, klepni na „Zesílit hlasitost“ a přepínačem Původní/Zpracované si poslechni nejhlasitější moment. Zvyšuj násobek, dokud není zvuk jasně hlasitý, ale ne ostrý. U řeči zapni „Vylepšit kvalitu zvuku“ a ulož přes „Stáhnout zpracované“. Původní soubor se nikdy nemění.",
+  "intro": [
+    "„Nebude to zkreslené?“ je první otázka, kterou lidé o zesilovači zvuku kladou, a je to správná otázka. Zesílení je násobení: každý vzorek zvuku se zvětší. Pokud ty největší narazí na maximální hodnotu, kterou formát dovolí, useknou se naplocho a na hlasitých místech uslyšíš praskání nebo ostrost. Tomu se říká clipping a je to jediné skutečné riziko pro kvalitu.",
+    "Dobrá zpráva: *tichá* nahrávka má z principu pod stropem spoustu místa. Tady se dozvíš, jak ho využít a jak výsledek zkontrolovat před uložením."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "Obrazovka výsledku v Increase Volume s tlačítkem Stáhnout zpracované a přepínačem Původní a Zpracované",
+    "caption": "Nejhlasitější místo si vždy porovnej přepínačem Původní/Zpracované, než soubor stáhneš."
+  },
+  "sections": [
+    {
+      "heading": "Co se při zesílení doopravdy mění",
+      "paragraphs": [
+        "Zpracovává se jen zvuková stopa. Obraz projde beze změny, takže rozlišení, snímková frekvence i barvy zůstanou přesně stejné. Ve zvuku násobek ×2 zdvojnásobí amplitudu (zhruba +6 dB), ×4 je asi +12 dB a ×10 je +20 dB. Šum v nahrávce (syčení místnosti, vítr) se zesílí stejně, proto může velmi silné zesílení zašuměné nahrávky znít syčivě, i když nic nepraská."
+      ]
+    },
+    {
+      "heading": "Kolik zesílení je bezpečné",
+      "paragraphs": [
+        "Záleží na tom, jak daleko pod stropem je nejhlasitější moment, ne na tom, jak tichý je *průměr*. Nahrávka, která zní hodně potichu, ale obsahuje jedno bouchnutí dveří na plnou úroveň, nesnese velké zesílení, než bouchnutí začne praskat. Rovnoměrně tichá nahrávka, třeba přednáška ze zadní řady, často čistě snese ×8–×10."
+      ],
+      "table": {
+        "head": [
+          "Nahrávka",
+          "Obvyklý bezpečný rozsah",
+          "Poznámka"
+        ],
+        "rows": [
+          [
+            "Diktafon nebo přednáška nahraná z dálky",
+            "×5 – ×10",
+            "U řeči zapni Vylepšit kvalitu zvuku."
+          ],
+          [
+            "Video z telefonu, které je jen trochu tiché",
+            "×2 – ×4",
+            "Zkontroluj nejhlasitější smích nebo potlesk."
+          ],
+          [
+            "Záznam obrazovky",
+            "×5 – ×10",
+            "Bývá hluboko pod běžnou úrovní."
+          ],
+          [
+            "Hudba s tichými slokami a hlasitým refrénem",
+            "×1,5 – ×3",
+            "Limit určuje refrén."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Použij kontrolu Původní/Zpracované",
+      "paragraphs": [
+        "Increase Volume soubor zpracuje a ukáže přepínač Původní/Zpracované dřív, než se cokoli uloží. Najdi nejhlasitější moment a přepínej mezi verzemi. Pokud Zpracované tam zní ostře nebo praská, sniž násobek o stupeň a zesil znovu. Protože aplikace vytváří nový soubor, můžeš zkoušet libovolně; originálu se nic nestane."
+      ]
+    },
+    {
+      "heading": "Vylepšit kvalitu zvuku: kdy ho zapnout",
+      "paragraphs": [
+        "Přepínač „Vylepšit kvalitu zvuku“ přidá zpracování zaměřené na srozumitelnost, které nejvíc pomůže u řeči: rozhovory, přednášky, hlasové zprávy, návody nahrané z obrazovky. U hudby vyzkoušej obě nastavení a nech si to, které zní přirozeněji. V aktuální verzi je volba označená jako experimentální, takže si výsledek vždy poslechni."
+      ]
+    },
+    {
+      "id": "soukromi",
+      "heading": "Soukromí: všechno zůstává v telefonu",
+      "paragraphs": [
+        "Increase Volume zpracovává soubory přímo v iPhonu. Nic se nenahrává, nepotřebuješ účet a výsledek se uloží přes běžný panel sdílení iOS do Fotek, Souborů nebo kterékoli aplikace. Online zesilovače vyžadují poslat soubor na server a obvykle ho překódují v nižší kvalitě; aplikace v telefonu se obojímu vyhne."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Postup: čisté zesílení",
+    "intro": "Stejný postup pro video i zvukové soubory.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Otevři soubor v Increase Volume",
+        "text": "Přidej ho z Fotek nebo Souborů, nebo ho do aplikace sdílej odkudkoli."
+      },
+      {
+        "name": "Rozhodni o Vylepšit kvalitu zvuku",
+        "text": "U řeči zapnout; u hudby vyzkoušej obojí."
+      },
+      {
+        "name": "Začni opatrně",
+        "text": "Nastav „Násobek hlasitosti“ na ×3 a klepni na „Zesílit hlasitost“."
+      },
+      {
+        "name": "Zkontroluj nejhlasitější moment",
+        "text": "Na nejhlasitějším místě přepni Původní/Zpracované. Čisté? Zvyš násobek a opakuj. Ostré? Sniž ho."
+      },
+      {
+        "name": "Ulož",
+        "text": "Klepni na „Stáhnout zpracované“ a ulož do Fotek nebo Souborů. Originál zůstane netknutý."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Na kontrolu použij sluchátka; reproduktor telefonu jemné praskání zamaskuje.",
+      "U zašuměného souboru často zní lépe trochu nižší násobek se zapnutým „Vylepšit kvalitu zvuku“ než maximální zesílení.",
+      "Zesiluj jednou, ze zdroje. Opakované zesílení už zesíleného exportu sčítá všechny vady."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Sníží zesílení hlasitosti rozlišení videa?",
+      "answer": "Ne. Zpracovává se jen zvuk. Obrazová stopa si zachová rozlišení, snímkovou frekvenci i datový tok."
+    },
+    {
+      "question": "Jak zní zkreslení z přehnaného zesílení?",
+      "answer": "Jako praskání, bzučení nebo ostrost jen na nejhlasitějších místech, zatímco tichá místa zní dobře. Když ho uslyšíš, sniž násobek."
+    },
+    {
+      "question": "Není ×10 příliš?",
+      "answer": "Ne u opravdu tichých nahrávek, jako jsou vzdálené nahrávky z Diktafonu nebo záznamy obrazovky. U běžného videa z telefonu obvykle stačí ×2–×4. Rozhodne kontrola Původní/Zpracované."
+    }
+  ],
+  "related": [
+    "jak-zesilit-zvuk-videa-na-iphonu",
+    "jak-zesilit-nahravku-z-diktafonu-na-iphonu",
+    "proc-je-video-z-iphonu-potichu"
+  ]
+}

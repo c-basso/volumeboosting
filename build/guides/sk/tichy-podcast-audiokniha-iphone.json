@@ -1,0 +1,113 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "tichý podcast na iPhone",
+  "priority": 12,
+  "keywords": "tichý podcast na iPhone, tichá audiokniha, ako zosilniť podcast, zvýšiť hlasitosť audioknihy iPhone, Podcasty tichý zvuk",
+  "title": "Tichý podcast alebo audiokniha na iPhone? Ako ich zosilniť",
+  "description": "Podcast alebo audiokniha hrá potichu? Skontroluj nastavenia Podcastov a slúchadiel a stiahnuté epizódy MP3 a M4A zosilni až 10× vo Volume Boost na iPhone.",
+  "h1": "Tichý podcast alebo audiokniha na iPhone: riešenia",
+  "eyebrow": "Podcasty",
+  "card_title": "Tichý podcast",
+  "card_summary": "Nastavenia Podcastov a ako zosilniť stiahnuté epizódy MP3 a audioknihy bez DRM.",
+  "quick_answer": "Ak hrá podcast v aplikácii Podcasty potichu, zapni zvýraznenie hlasu pri tlačidle rýchlosti a skontroluj Bezpečnosť slúchadiel v Zvukoch a haptike. Ak máš epizódu alebo audioknihu ako súbor MP3 alebo M4A bez DRM, otvor ju vo Volume Boost, zapni „Vylepšiť kvalitu zvuku“, zosilni ×3–×8 a hlasnejšiu kópiu ulož do Súborov.",
+  "intro": [
+    "Rozhovory nahraté cez telefón, hostia so slabým mikrofónom a staršie audioknihy bývajú tichšie ako všetko ostatné, čo počúvaš. V autobuse či v aute sa hlas stratí v hluku.",
+    "Riešenia sú dve: nastavenia prehrávania pre streamovaný obsah a zosilnenie súboru, keď ho máš."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Zoznam projektov vo Volume Boost so súbormi MP3 a MP4, ich veľkosťou a dĺžkou",
+    "caption": "Ulož si viac epizód ako projekty a vráť sa k nim neskôr."
+  },
+  "sections": [
+    {
+      "heading": "V aplikácii Podcasty",
+      "paragraphs": [
+        "Počas prehrávania ťukni na tlačidlo rýchlosti a zapni zvýraznenie hlasu. Stlmí pozadie a vytiahne reč. Skontroluj aj, či úroveň neobmedzuje znižovanie hlasných zvukov v Bezpečnosti slúchadiel."
+      ],
+      "note": "Názvy sa v rôznych verziách iOS môžu líšiť; over si ich na svojom iPhone."
+    },
+    {
+      "heading": "Audioknihy a stiahnuté súbory",
+      "paragraphs": [
+        "Audioknihy z Audible, Storytelu, Audiolibrixu alebo Apple Books sú chránené a nedajú sa otvoriť ako súbory. Vlastné audioknihy v MP3, epizódy z RSS kanálov a nahrávky bez DRM zosilniť ide."
+      ]
+    },
+    {
+      "heading": "Čo na čo platí",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "Zdroj",
+          "Riešenie"
+        ],
+        "rows": [
+          [
+            "Podcasty (streamovanie)",
+            "Zvýraznenie hlasu, nastavenia slúchadiel"
+          ],
+          [
+            "Spotify / Storytel / Audiolibrix",
+            "Nastavenia danej aplikácie"
+          ],
+          [
+            "MP3/M4A bez DRM",
+            "Volume Boost, až 10×"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Zosilni epizódu alebo audioknihu",
+    "intro": "Pre súbory v Súboroch.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Importuj súbor",
+        "text": "Otvor aplikáciu a vyber MP3 alebo M4A v Súboroch."
+      },
+      {
+        "name": "Zapni „Vylepšiť kvalitu zvuku“",
+        "text": "Hlasy budú zreteľnejšie."
+      },
+      {
+        "name": "Zosilni",
+        "text": "Posuň „Násobok hlasitosti“ na ×3–×8 a ťukni na „Zosilniť hlasitosť na ×N“."
+      },
+      {
+        "name": "Ulož",
+        "text": "„Stiahnuť spracované“ → Uložiť do Súborov a počúvaj v aplikácii, ktorá otvára súbory."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Dlhé súbory sa spracúvajú dlhšie; nechaj aplikáciu otvorenú do konca.",
+      "Reč znesie vyšší násobok ako hudba.",
+      "Ak má rozhovor jeden hlasný a jeden tichý hlas, vyber úroveň, pri ktorej hlasný nechrčí."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Prečo sú niektoré podcasty tichšie ako iné?",
+      "answer": "Tvorcovia mixujú na rôzne úrovne a rozhovory cez telefón bývajú tiché."
+    },
+    {
+      "question": "Dá sa aplikáciou zosilniť audiokniha zo Storytelu?",
+      "answer": "Nie. Chránené audioknihy sa nedajú otvoriť ako súbory."
+    },
+    {
+      "question": "Ktoré súbory fungujú?",
+      "answer": "MP3, M4A a WAV bez DRM zo Súborov."
+    }
+  ],
+  "related": [
+    "ako-zosilnit-mp3-na-iphone",
+    "ako-zosilnit-nahravku-z-diktafonu",
+    "ticha-hudba-na-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

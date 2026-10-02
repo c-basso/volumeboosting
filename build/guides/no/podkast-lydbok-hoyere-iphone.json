@@ -1,0 +1,113 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "podkast for lav iPhone",
+  "priority": 12,
+  "keywords": "podkast for lav iPhone, lydbok for lav, gjøre podkast høyere, øke volum lydbok iPhone, Podkaster-appen lav lyd",
+  "title": "Podkast eller lydbok for lav på iPhone? Slik løser du det",
+  "description": "Podkast eller lydbok for lav på iPhone? Sjekk Forbedre stemmer i Podkaster, og gjør nedlastede MP3- og M4A-episoder opptil 10× høyere med Volumforsterker.",
+  "h1": "Podkast eller lydbok for lav på iPhone: løsningene",
+  "eyebrow": "Podkaster",
+  "card_title": "Podkast for lav",
+  "card_summary": "Innstillingene i Podkaster, og hvordan du forsterker nedlastede MP3-episoder og lydbøker uten DRM.",
+  "quick_answer": "Er en podkast for lav i Podkaster-appen, slå på Forbedre stemmer under avspillingshastighet, og sjekk Hodetelefonsikkerhet under Lyder og haptikk. Har du episoden eller lydboken som MP3- eller M4A-fil uten DRM, åpne den i Volumforsterker, slå på «Forbedre lydkvalitet», forsterk ×3–×8 og arkiver den høyere kopien i Filer.",
+  "intro": [
+    "Intervjuer tatt opp over telefon, gjester med dårlig mikrofon og eldre lydbøker er ofte lavere enn resten av det du lytter til. På bussen eller i bilen forsvinner stemmen i støyen.",
+    "Det finnes to løsninger: avspillingsinnstillinger for strømmet innhold, og forsterkning av filen når du har den."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Prosjektliste i Volumforsterker med MP3- og MP4-filer, størrelse og varighet",
+    "caption": "Lagre flere episoder som prosjekter og kom tilbake til dem senere."
+  },
+  "sections": [
+    {
+      "heading": "I Podkaster-appen",
+      "paragraphs": [
+        "Under avspilling: trykk på hastighetsknappen og slå på Forbedre stemmer. Det demper bakgrunn og løfter tale. Sjekk også at Reduser høye lyder under Hodetelefonsikkerhet ikke begrenser nivået."
+      ],
+      "note": "Navnene kan variere mellom iOS-versjoner; sjekk på din iPhone."
+    },
+    {
+      "heading": "Lydbøker og nedlastede filer",
+      "paragraphs": [
+        "Lydbøker fra Storytel, BookBeat eller Apple Books er beskyttet og kan ikke åpnes som filer. Egne MP3-lydbøker, episoder fra RSS-feeder og opptak uten DRM kan forsterkes."
+      ]
+    },
+    {
+      "heading": "Hva passer til hva",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "Kilde",
+          "Løsning"
+        ],
+        "rows": [
+          [
+            "Podkaster-appen (strømmet)",
+            "Forbedre stemmer, hodetelefoninnstillinger"
+          ],
+          [
+            "Spotify / Storytel",
+            "Appens egne innstillinger"
+          ],
+          [
+            "MP3/M4A uten DRM",
+            "Volumforsterker, opptil 10×"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Forsterk en episode eller lydbok",
+    "intro": "For filer i Filer.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Importer filen",
+        "text": "Åpne appen og velg MP3- eller M4A-filen i Filer."
+      },
+      {
+        "name": "Slå på «Forbedre lydkvalitet»",
+        "text": "Gjør stemmer tydeligere."
+      },
+      {
+        "name": "Forsterk",
+        "text": "Dra «Volummultiplikasjon» til ×3–×8 og trykk «Boost lydstyrken til ×N»."
+      },
+      {
+        "name": "Arkiver",
+        "text": "«Last ned behandlet» → Arkiver i Filer, og spill av i en app som åpner filer."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Lange filer tar litt lengre tid; la appen være åpen til behandlingen er ferdig.",
+      "Tale tåler høyere multiplikasjon enn musikk.",
+      "Har intervjuet én høy og én lav stemme, velg et nivå der den høye ikke skurrer."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Hvorfor er noen podkaster lavere enn andre?",
+      "answer": "Produsentene mikser til ulike nivåer, og telefonintervjuer er ofte lave."
+    },
+    {
+      "question": "Kan jeg gjøre en Storytel-lydbok høyere med appen?",
+      "answer": "Nei. Beskyttede lydbøker kan ikke åpnes som filer."
+    },
+    {
+      "question": "Hvilke filer fungerer?",
+      "answer": "MP3, M4A og WAV uten DRM fra Filer."
+    }
+  ],
+  "related": [
+    "gjor-mp3-hoyere-iphone",
+    "taleopptak-hoyere-iphone",
+    "musikk-for-lav-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

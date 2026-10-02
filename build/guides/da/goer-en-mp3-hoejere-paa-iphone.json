@@ -1,0 +1,130 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "gør MP3 højere",
+  "priority": 5,
+  "keywords": "gør mp3 højere, øg lydstyrke mp3 iPhone, mp3 for lav, forstærk lydfil, mp3 lydforstærker app",
+  "title": "Sådan gør du en MP3 højere på iPhone (uden computer)",
+  "description": "Har du en lav MP3, M4A eller WAV på din iPhone? Forstærk den op til 10× og gem en højere kopi med Increase Volume, helt på telefonen. Trin, niveauer og FAQ.",
+  "h1": "Sådan gør du en MP3 højere på iPhone",
+  "eyebrow": "MP3 og lydfiler",
+  "card_title": "Gør en MP3 højere på iPhone",
+  "card_summary": "De fleste lydforstærkere kan kun video. Denne forstærker MP3, M4A og WAV direkte fra Filer.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Du gør en MP3 højere på iPhone ved at åbne Increase Volume, tilføje filen fra Filer (eller dele den til appen), trække „Lydstyrke-multiplikation“ op til ×10, trykke på „Boost lydstyrke“, sammenligne Original og Behandlet og derefter trykke på „Download behandlet“ for at gemme den højere MP3 i Filer eller dele den. Alt sker på telefonen; du behøver ingen computer, upload eller konto. Numre fra Apple Music eller Spotify kan ikke importeres, fordi de er kopibeskyttede.",
+  "intro": [
+    "Du har downloadet en forelæsning, en gammel demo, et podcastafsnit eller en kommende ringetone, og den spiller tydeligt lavere end alt andet. På en computer ville du åbne Audacity eller et normaliseringsprogram; på iPhone lyder rådet som regel „brug en online forstærker“, hvilket betyder at uploade filen og få en genkodet version tilbage.",
+    "Increase Volume gør det samme lokalt. Den står i App Store som en Audio & Music Booster, fordi den – i modsætning til de fleste videoforstærkere – åbner almindelige lydfiler."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Increase Volume behandler en MP3-fil på iPhone med filnavn, størrelse og varighed",
+    "caption": "Appen viser nummerets navn, størrelse og varighed, før du forstærker."
+  },
+  "sections": [
+    {
+      "heading": "Hvilke lydfiler du kan forstærke",
+      "paragraphs": [
+        "Alt, der er en rigtig fil på din iPhone: MP3, M4A/AAC (inklusive eksporter fra Diktafon og lydbeskeder fra WhatsApp), WAV og andre almindelige formater i Filer, iCloud Drive, Dropbox eller modtaget via Beskeder og Mail. Appen læser filens metadata og viser kunstner og nummer, hvor de findes."
+      ],
+      "note": "Ikke muligt: numre streamet eller downloadet i Apple Music, Spotify eller YouTube Music. De er krypterede og kan ikke åbnes af nogen anden app. Til streaming bruger du tjenestens egen EQ eller lydstyrkeudjævning."
+    },
+    {
+      "heading": "Hvor meget forstærkning en MP3 kan tåle",
+      "paragraphs": [
+        "MP3'er rippet fra cd'er eller købt i butikker ligger som regel allerede tæt på fuldt niveau og klipper, hvis de presses hårdt; ×1,5–×2 er rigeligt. Podcasts, forelæsninger, stemmeoptagelser og gamle demoer ligger ofte 10–20 dB under maksimum og tåler fint ×4–×10. Med kontakten Original/Behandlet kan du teste den højeste passage, før du gemmer."
+      ]
+    },
+    {
+      "heading": "Increase Volume vs. online MP3-forstærkere",
+      "table": {
+        "head": [
+          "",
+          "Online forstærker",
+          "Increase Volume"
+        ],
+        "rows": [
+          [
+            "Hvor filen ender",
+            "Uploades til en server",
+            "Bliver på din iPhone"
+          ],
+          [
+            "Genkodning",
+            "Som regel til en fast, lavere bitrate",
+            "Behandles lokalt"
+          ],
+          [
+            "Filstørrelsesgrænse",
+            "Almindelig (fx 50–500 MB)",
+            "Kun begrænset af telefonens lagerplads"
+          ],
+          [
+            "Forhåndslyt før gem",
+            "Sjældent",
+            "Kontakten Original / Behandlet"
+          ],
+          [
+            "Taleforbedring",
+            "Nogle gange",
+            "Kontakten Forbedr lydkvalitet"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Trin for trin: forstærk en MP3",
+    "intro": "Du skal bruge MP3'en i Filer (eller i en app, der kan dele den) og den gratis app Increase Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Tilføj MP3'en",
+        "text": "Åbn Increase Volume, og tilføj filen fra Filer. Eller åbn Filer, hold MP3'en nede, tryk på Del, og vælg Increase Volume."
+      },
+      {
+        "name": "Tjek detaljerne",
+        "text": "Bekræft kunstner, nummer, størrelse og varighed. Er det tale, så slå „Forbedr lydkvalitet“ til."
+      },
+      {
+        "name": "Indstil multiplikationen",
+        "text": "Træk „Lydstyrke-multiplikation“ til ×2 for musik og ×4–×10 for lave taleoptagelser. Tryk på „Boost lydstyrke“."
+      },
+      {
+        "name": "Sammenlign",
+        "text": "Skift Original/Behandlet ved den højeste del. Juster, hvis den forstærkede version lyder skarp."
+      },
+      {
+        "name": "Download behandlet",
+        "text": "Tryk på „Download behandlet“, derefter Gem i Filer, eller del til Mail, Beskeder eller et skydrev."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Forstærk en hel serie filer (en lydbogs kapitler, en række forelæsninger) med samme multiplikation, så de spiller på samme niveau.",
+      "Saml de forstærkede kopier i en mappe i Filer; appen gemmer desuden hvert projekt på sin liste til senere.",
+      "Til ringetoner: forstærk først, og beskær derefter til 30 sekunder i din ringetone-app; en højere kilde giver en højere ringetone."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan jeg gøre en sang fra Apple Music eller Spotify højere?",
+      "answer": "Ingen anden app kan åbne downloads fra streamingtjenester; de er krypterede. Increase Volume virker på filer, du ejer, i Filer, iCloud Drive eller andet lager."
+    },
+    {
+      "question": "Bliver kvaliteten dårligere, når en MP3 forstærkes?",
+      "answer": "Lyden behandles én gang og gemmes som en ny fil. Kvaliteten lider kun, hvis du forstærker så meget, at de høje toppe klipper; med kontakten Original/Behandlet hører du det, før du gemmer."
+    },
+    {
+      "question": "Virker det også med WAV og M4A?",
+      "answer": "Ja. Almindelige lydformater understøttes ud over MP4- og MOV-video."
+    }
+  ],
+  "related": [
+    "musik-for-lav-paa-iphone",
+    "goer-en-podcast-eller-lydbog-hoejere-paa-iphone",
+    "goer-en-diktafon-optagelse-hoejere-paa-iphone"
+  ]
+}

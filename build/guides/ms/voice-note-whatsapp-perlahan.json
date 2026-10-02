@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "voice note WhatsApp perlahan",
+  "priority": 2,
+  "keywords": "voice note WhatsApp perlahan, cara kuatkan voice note WhatsApp, mesej suara WhatsApp tak dengar, voice note perlahan iPhone, voice note Telegram perlahan",
+  "title": "Voice Note WhatsApp Perlahan di iPhone? Ini Cara Kuatkannya",
+  "description": "Voice note WhatsApp terlalu perlahan di iPhone? Pastikan ia tidak dimainkan melalui pembesar suara panggilan, kemudian eksport mesej dan kuatkan hingga 10×.",
+  "h1": "Voice note WhatsApp perlahan di iPhone: cara menguatkannya",
+  "eyebrow": "WhatsApp dan Telegram",
+  "card_title": "Kuatkan voice note WhatsApp",
+  "card_summary": "Dua masalah berbeza: pembesar suara panggilan atau rakaman yang memang perlahan. Selesaikan kedua-duanya.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Jika semua voice note WhatsApp berbunyi perlahan, kemungkinan besar iPhone memainkannya melalui pembesar suara panggilan kerana sensor jarak tertutup; jauhkan telefon dari muka dan tekan butang naik volume semasa mesej dimainkan. Jika hanya satu mesej yang perlahan, eksport mesej itu (tekan lama → Majukan → Kongsi → Simpan ke Fail atau terus ke Increase Volume), kuatkan ×5–×10 dengan «Tingkatkan Kualiti Audio» dihidupkan, kemudian simpan atau majukan salinan yang lebih kuat.",
+  "intro": [
+    "Ada dua sebab yang sama sekali berbeza mengapa voice note WhatsApp berbunyi perlahan, dan setiap satu ada penyelesaiannya. Pertama: iPhone beralih secara senyap ke pembesar suara panggilan. Kedua: pengirim merakam jauh dari mikrofon atau di tempat bising, jadi rakaman itu memang perlahan. Yang pertama boleh disemak dalam sepuluh saat; yang kedua boleh dibetulkan dalam seminit.",
+    "Langkah yang sama juga sesuai untuk Telegram, Signal dan mesej audio iMessage."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Tangkapan skrin «Download and share anywhere»: helaian kongsi iOS dengan Simpan ke Fail untuk rakaman yang dikuatkan",
+    "caption": "Voice note yang dikuatkan disimpan ke Fail atau dimajukan terus ke sembang."
+  },
+  "sections": [
+    {
+      "heading": "Penyelesaian 1: dimainkan melalui pembesar suara panggilan",
+      "paragraphs": [
+        "WhatsApp memindahkan main balik ke pembesar suara panggilan (pembesar suara kecil untuk panggilan) apabila sensor jarak berhampiran kamera depan tertutup. Cukup jari, tepi sarung atau telefon yang didekatkan ke muka, dan mesej tiba-tiba berbunyi seperti bisikan. Buka sensor, jauhkan telefon dan tekan naik volume *semasa mesej dimainkan*; iOS ada kelantangan berasingan untuk pembesar suara panggilan yang mungkin berada pada tahap minimum.",
+        "Pastikan juga Bluetooth tidak menghantar bunyi ke fon telinga dalam poket, dan Kurangkan Audio Kuat tidak dihidupkan di Tetapan › Bunyi & Haptik › Keselamatan Fon Kepala."
+      ]
+    },
+    {
+      "heading": "Penyelesaian 2: mesej itu sendiri perlahan",
+      "paragraphs": [
+        "Jika mesej lain berbunyi normal tetapi yang ini tidak, rakamannya memang perlahan. WhatsApp tiada kawalan kelantangan untuk mesej yang diterima, dan butang volume tidak boleh melebihi 100%. Fail itu sendiri yang perlu dikuatkan. WhatsApp membolehkan anda mengeksport voice note sebagai fail, dan Penguat Volume Bunyi menggandakannya hingga ×10 serta memberikan salinan baharu untuk disimpan atau dimajukan."
+      ]
+    },
+    {
+      "heading": "Cara eksport voice note dari WhatsApp, Telegram atau Mesej",
+      "list": [
+        "WhatsApp: tekan lama mesej → Majukan → ikon Kongsi (kiri bawah) → pilih Increase Volume atau Simpan ke Fail.",
+        "Telegram: tekan lama mesej → Majukan atau Kongsi → Simpan ke Fail atau kongsi ke Increase Volume.",
+        "Mesej audio iMessage: tekan lama → Simpan (masuk ke Memo Suara) dan kongsi dari sana.",
+        "Signal: tekan lama → Simpan → Simpan ke Fail."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: kuatkan voice note WhatsApp",
+    "intro": "Seminit dengan aplikasi percuma Penguat Volume Bunyi.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Eksport mesej",
+        "text": "Dalam WhatsApp, tekan lama voice note → Majukan → ikon Kongsi → Increase Volume. (Atau Simpan ke Fail dan tambah dari aplikasi.)"
+      },
+      {
+        "name": "Hidupkan Tingkatkan Kualiti Audio",
+        "text": "Voice note ialah suara bercakap; pilihan ini membantu perkataan kekal jelas selepas dikuatkan."
+      },
+      {
+        "name": "Kuatkan",
+        "text": "Tetapkan «Pengganda kelantangan» ke ×5 sebagai permulaan, ×8–×10 jika sangat perlahan, kemudian ketik «Boost kelantangan»."
+      },
+      {
+        "name": "Bandingkan",
+        "text": "Beralih antara Asal/Diproses. Jika perkataan paling kuat berbunyi pecah, turunkan pengganda."
+      },
+      {
+        "name": "Simpan atau majukan",
+        "text": "Ketik «Muat turun yang diproses». Simpan ke Fail atau kongsi salinan lebih kuat kembali ke WhatsApp supaya seluruh kumpulan boleh dengar."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tip",
+    "items": [
+      "Minta orang yang kerap menghantar voice note bercakap lebih dekat dengan telefon; membetulkan dari sumber sentiasa paling berkesan.",
+      "Jika anda menyimpan banyak mesej, kumpulkan salinan yang dikuatkan dalam satu folder dalam Fail; folder WhatsApp tidak boleh dilayari.",
+      "Untuk voice note anda sendiri caranya sama: rakam, kongsi ke aplikasi, kuatkan, kemudian hantar fail yang dikuatkan sebagai dokumen atau audio."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kenapa voice note jadi perlahan apabila telefon didekatkan ke telinga?",
+      "answer": "Itu memang disengajakan: apabila sensor jarak tertutup, WhatsApp memainkan melalui pembesar suara panggilan demi privasi. Naikkan kelantangan pembesar suara panggilan dengan butang semasa mesej dimainkan, atau jauhkan telefon supaya ia dimainkan melalui pembesar suara."
+    },
+    {
+      "question": "Bolehkah kuatkan voice note di dalam WhatsApp?",
+      "answer": "Tidak. WhatsApp ada kelajuan main balik (1×, 1.5×, 2×) tetapi tiada penguat kelantangan. Eksport mesej dan kuatkan dengan Penguat Volume Bunyi."
+    },
+    {
+      "question": "Bolehkah digunakan untuk Telegram dan Messenger?",
+      "answer": "Boleh untuk mana-mana aplikasi yang membenarkan anda berkongsi atau menyimpan fail audio. Fail yang dikuatkan boleh dimajukan melalui aplikasi yang sama."
+    }
+  ],
+  "related": [
+    "kuatkan-memo-suara-iphone",
+    "kuatkan-mp3-iphone",
+    "kenapa-suara-video-perlahan"
+  ]
+}

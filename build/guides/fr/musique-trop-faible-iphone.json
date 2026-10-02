@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "musique trop faible iPhone",
+  "priority": 5,
+  "keywords": "musique trop faible iPhone, augmenter le son de la musique iPhone, égaliseur de volume iPhone, réduire les sons forts, chansons trop faibles",
+  "title": "Musique trop faible sur iPhone ? Rendez-la plus forte",
+  "description": "Chansons trop faibles sur iPhone ? Vérifiez l'Égaliseur de volume et la limite des écouteurs, puis rendez vos MP3 et enregistrements jusqu'à 10× plus forts.",
+  "h1": "Comment rendre la musique plus forte sur iPhone",
+  "eyebrow": "Musique",
+  "card_title": "Rendre la musique plus forte",
+  "card_summary": "Trois réglages iOS qui brident discrètement votre musique, et comment amplifier les morceaux que vous possédez en fichier.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Commencez par les réglages : dans Réglages › Musique, désactivez l'Égaliseur de volume et essayez le préréglage d'égaliseur pour l'écoute de nuit (Late Night), qui remonte les passages doux ; dans Réglages › Sons et vibrations › Sécurité des écouteurs, désactivez Réduire les sons forts. Cela agit sur le streaming et la lecture. Pour les fichiers musicaux qui vous appartiennent (MP3, M4A, WAV dans Fichiers, maquettes, répétitions), ouvrez-les dans l'Amplificateur de Volume Audio, amplifiez ×1,5–×4, comparez Original et Traité et touchez « Télécharger le fichier traité ».",
+  "intro": [
+    "« Ma musique est trop faible sur iPhone » a deux réponses très différentes. Si Apple Music ou Spotify vous paraît faible au haut-parleur ou au casque, le téléphone se bride probablement lui-même avec un réglage modifiable en une minute. Si c'est un morceau *précis* qui est faible – un vieux MP3, une répétition, une maquette d'ami – c'est le fichier lui-même qui manque de niveau.",
+    "Ce guide traite les deux, dans cet ordre."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/fr/3.webp",
+    "alt": "Capture « Augmenter le volume de l'audio » : l'amplificateur traite un fichier musical avec titre, taille et durée",
+    "caption": "Les fichiers musicaux qui vous appartiennent s'amplifient directement depuis Fichiers."
+  },
+  "sections": [
+    {
+      "heading": "Les réglages qui baissent toute la musique (à vérifier d'abord)",
+      "list": [
+        "Réduire les sons forts : Réglages › Sons et vibrations › Sécurité des écouteurs. Activé, il plafonne le volume du casque au niveau choisi. Désactivez-le ou relevez la limite.",
+        "Égaliseur de volume : Réglages › Musique › Égaliseur de volume aligne tous les morceaux sur la même intensité et baisse donc les plus forts. Désactivez-le si tout paraît mou.",
+        "Égaliseur (EQ) : Réglages › Musique › Égaliseur. Le préréglage nuit (Late Night) compresse la dynamique pour que les passages doux remontent ; « Loudness » renforce graves et aigus à bas volume. Essayez les deux.",
+        "Limite de volume dans Temps d'écran : Réglages › Temps d'écran › Restrictions relatives au contenu et à la confidentialité peut contenir une limite verrouillée par un parent ou un ancien réglage.",
+        "Bluetooth : certains écouteurs et enceintes ont leur propre volume ; montez-le aussi sur l'appareil."
+      ]
+    },
+    {
+      "heading": "Quels fichiers musicaux vous pouvez amplifier",
+      "paragraphs": [
+        "L'app amplifie les fichiers que vous possédez vraiment : MP3 et WAV dans Fichiers ou iCloud Drive, répétitions en M4A, maquettes reçues par Mail ou AirDrop, exports GarageBand et piste audio des clips. Elle affiche l'artiste et le titre si le fichier les contient. Les téléchargements d'Apple Music, Spotify ou YouTube Music sont chiffrés et aucune autre app ne peut les ouvrir ; pour eux, utilisez les réglages ci-dessus."
+      ]
+    },
+    {
+      "heading": "De combien amplifier un morceau",
+      "paragraphs": [
+        "La musique commercialisée est déjà masterisée près du niveau maximal, donc ×1,5–×2 est généralement le plafond avant que le refrain ne sature. Les enregistrements maison, maquettes et vieux rips ont souvent 6–12 dB de marge et supportent ×2–×4. Décidez avec Original/Traité sur le refrain le plus fort."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Étape par étape : rendre un fichier musical plus fort",
+    "intro": "Pour un morceau dans Fichiers, un export GarageBand ou un enregistrement.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Ajoutez le morceau",
+        "text": "Ouvrez l'app et ajoutez le fichier depuis Fichiers, ou partagez-le vers l'app depuis Fichiers, Mail ou GarageBand."
+      },
+      {
+        "name": "Choisissez un multiplicateur modéré",
+        "text": "Réglez « Multiplication du volume » sur ×1,5–×2 pour de la musique commercialisée et ×2–×4 pour des maquettes et enregistrements. Testez « Améliorer la qualité audio » activé et désactivé et gardez le plus naturel. Touchez « Amplifier le volume »."
+      },
+      {
+        "name": "Vérifiez le refrain",
+        "text": "Basculez Original/Traité sur le passage le plus fort. Un grésillement signifie qu'il faut baisser."
+      },
+      {
+        "name": "Télécharger le fichier traité",
+        "text": "Enregistrez dans Fichiers et ajoutez le morceau plus fort à votre lecteur, ou partagez-le."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Conseils",
+    "items": [
+      "Amplifiez tout un album ou un set avec le même multiplicateur pour que les morceaux restent homogènes.",
+      "Pour les clips, l'image n'est pas touchée ; seul le son est traité.",
+      "Si vous masterisez votre propre musique, amplifiez le mix plutôt que le master final ; un limiteur dans votre DAW fera un travail plus propre qu'un simple gain."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Un amplificateur de volume peut-il rendre Apple Music ou Spotify plus fort ?",
+      "answer": "Pas en modifiant les morceaux, qui sont chiffrés. Utilisez l'Égaliseur de volume, l'égaliseur et la Sécurité des écouteurs, ou la normalisation de l'app de streaming. L'app amplifie les fichiers qui vous appartiennent."
+    },
+    {
+      "question": "Pourquoi certaines chansons sont-elles plus faibles que d'autres ?",
+      "answer": "Les niveaux de mastering diffèrent. L'Égaliseur de volume les aligne mais baisse les plus forts ; désactivé, ceux-ci retrouvent leur niveau. Les fichiers faibles qui vous appartiennent, amplifiez-les avec l'app pour qu'ils s'accordent au reste."
+    },
+    {
+      "question": "L'amplification change-t-elle le format du morceau ?",
+      "answer": "L'app écrit un nouveau fichier dans un format audio courant à côté de l'original. L'original n'est pas modifié."
+    }
+  ],
+  "related": [
+    "augmenter-volume-mp3-iphone",
+    "augmenter-volume-podcast-livre-audio-iphone",
+    "augmenter-volume-sans-perte-de-qualite"
+  ]
+}

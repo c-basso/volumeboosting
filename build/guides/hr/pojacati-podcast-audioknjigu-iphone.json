@@ -1,0 +1,127 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "audioknjiga pretiha",
+  "priority": 12,
+  "keywords": "audioknjiga pretiha, pojačati podcast iPhone, podcast pretih, pojačati glasnoću audioknjige, snimka predavanja pretiha",
+  "title": "Kako pojačati tihi podcast ili audioknjigu na iPhoneu",
+  "description": "Podcast, audioknjiga ili snimljeno predavanje pretihi? U streamingu koristi pojačanje govora u playeru; svoje datoteke pojačaj do 10× uz Pojačaj Glasnoću Zvuka.",
+  "h1": "Kako pojačati podcast ili audioknjigu na iPhoneu",
+  "eyebrow": "Podcasti i audioknjige",
+  "card_title": "Pojačaj podcast ili audioknjigu",
+  "card_summary": "Postavke playera za streaming; stvarno pojačanje datoteke za epizode i poglavlja u MP3 ili M4A.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Za epizode koje slušaš u streamingu u aplikaciji za podcaste koristi njezinu funkciju glasnoće (Voice Boost u Overcastu, Volume Boost u Pocket Castsu; Apple Podcasts je nema). Epizode, poglavlja audioknjiga ili predavanja koja imaš kao datoteku (MP3, M4A, MP4 u Datotekama ili na iCloud Driveu) otvori u aplikaciji Pojačaj Glasnoću Zvuka, uključi „Poboljšaj kvalitetu zvuka”, pojačaj ×3–×10, usporedi Izvorno i Obrađeno i dodirni „Preuzmi obrađeno” da spremiš glasniju kopiju koja svira u svakoj aplikaciji.",
+  "intro": [
+    "Snimljeni govor ima problem s glasnoćom: podcasti bi trebali biti masterirani oko −16 LUFS, ali neovisne emisije, snimljena predavanja i starije audioknjige često su puno tiši, a gost koji govori tiho nestaje pokraj glasnog voditelja. U tramvaju ili autu to znači stalno dirati glasnoću.",
+    "Rješenje ovisi o tome gdje je zvuk: u aplikaciji za streaming ili u datoteci kojom upravljaš."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Snimka zaslona popisa projekata u aplikaciji Pojačaj Glasnoću Zvuka s MP3 datotekama i videima",
+    "caption": "Pojačaj cijeli niz epizoda ili poglavlja; svako ostaje na popisu projekata."
+  },
+  "sections": [
+    {
+      "heading": "Streaming u aplikaciji za podcaste",
+      "paragraphs": [
+        "Zvuk koji živi u aplikaciji za streaming ne možeš uređivati, ali nekoliko playera obrađuje glasnoću u stvarnom vremenu:"
+      ],
+      "list": [
+        "Overcast: Voice Boost normalizira i sažima govor; uključuje se po emisiji ili za sve.",
+        "Pocket Casts: Volume Boost i Trim Silence u efektima reprodukcije.",
+        "Spotify: Normalizacija glasnoće u postavkama reprodukcije.",
+        "Apple Podcasts: nema funkciju glasnoće. Provjera zvuka u Postavke › Glazba vrijedi samo za glazbu, ne za podcaste."
+      ],
+      "note": "Te funkcije rade samo dok slušaš u toj aplikaciji. Ne mijenjaju datoteku, pa ako epizodu premjestiš drugdje, ništa se ne poboljšava."
+    },
+    {
+      "heading": "Preuzete datoteke",
+      "paragraphs": [
+        "Mnogi podcasti nude izravno preuzimanje MP3-a sa svoje stranice, platforme za tečajeve izvoze MP3 ili MP4, a audioknjige bez DRM-a (LibriVox, trgovine koje prodaju MP3 za preuzimanje ili vlastite kopije) stižu kao MP3 ili M4B. Kad je datoteka u Datotekama ili na iCloud Driveu, Pojačaj Glasnoću Zvuka je otvara, množi razinu do ×10 i sprema novu kopiju. „Poboljšaj kvalitetu zvuka” namijenjen je govoru i ovdje je najkorisniji."
+      ],
+      "note": "Audioknjige iz Audiblea, Apple Booksa ili Storytela i preuzimanja unutar Apple Podcastsa ili Spotifyja zaštićena su od kopiranja i nijedna ih druga aplikacija ne može uvesti."
+    },
+    {
+      "heading": "Koji množitelj za govor",
+      "table": {
+        "head": [
+          "Izvor",
+          "Uobičajeni množitelj"
+        ],
+        "rows": [
+          [
+            "Profesionalni podcast koji je samo malo tih",
+            "×1,5 – ×2"
+          ],
+          [
+            "Neovisna emisija ili intervju s tihim gostom",
+            "×3 – ×5"
+          ],
+          [
+            "Predavanje ili sastanak snimljen izdaleka",
+            "×6 – ×10"
+          ],
+          [
+            "Stara kopija audioknjige",
+            "×2 – ×4"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Korak po korak: pojačaj epizodu ili poglavlje",
+    "intro": "Za datoteke u Datotekama, na iCloud Driveu, Dropboxu ili primljene e-poštom.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Dodaj datoteku",
+        "text": "Otvori Pojačaj Glasnoću Zvuka i dodaj epizodu iz Datoteka, ili u Datotekama dugo pritisni datoteku → Podijeli → Increase Volume."
+      },
+      {
+        "name": "Uključi Poboljšaj kvalitetu zvuka",
+        "text": "Riječ je o govoru; prekidač održava jasne suglasnike nakon pojačanja."
+      },
+      {
+        "name": "Odaberi množitelj",
+        "text": "Ravnaj se po tablici iznad i dodirni „Pojačaj glasnoću”."
+      },
+      {
+        "name": "Usporedi",
+        "text": "Prebacuj Izvorno/Obrađeno na najglasnijem dijelu (uvodna špica, smijeh)."
+      },
+      {
+        "name": "Preuzmi obrađeno",
+        "text": "Spremi u Datoteke. Pojačanu datoteku slušaj iz Datoteka, iz Knjiga (audioknjige) ili u bilo kojem playeru koji otvara lokalni zvuk."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Savjeti",
+    "items": [
+      "Sva poglavlja audioknjige pojačaj istim množiteljem da glasnoća ne skače između poglavlja.",
+      "Za predavanja u videu (MP4) koraci su isti; slika se ne mijenja.",
+      "Ako datoteka ima glasnu špicu i tih govor, odaberi množitelj prema govoru i prihvati malo sažetu špicu uz uključen „Poboljšaj kvalitetu zvuka”."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Mogu li pojačati Apple Podcasts?",
+      "answer": "Apple Podcasts nema postavku glasnoće ni pojačanje govora. Prijeđi na player koji ih ima (Overcast, Pocket Casts) ili preuzmi MP3 epizode sa stranice emisije i pojačaj datoteku uz Pojačaj Glasnoću Zvuka."
+    },
+    {
+      "question": "Mogu li pojačati audioknjigu iz Audiblea ili Storytela?",
+      "answer": "Ne. Te su datoteke šifrirane i ne otvaraju se u drugim aplikacijama. Koristi postavke zvuka njihova playera, ako ih ima."
+    },
+    {
+      "question": "Zadržava li pojačana epizoda poglavlja i naslovnicu?",
+      "answer": "Pojačaj Glasnoću Zvuka obrađuje zvuk i stvara novu datoteku. Osnovni metapodaci poput naslova čuvaju se kad format to dopušta; oznake poglavlja mogu se izgubiti."
+    }
+  ],
+  "related": [
+    "pojacati-glasnocu-mp3-iphone",
+    "pojacati-glasnocu-diktafon-snimke",
+    "pojacati-glasnocu-bez-gubitka-kvalitete"
+  ]
+}

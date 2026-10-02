@@ -1,0 +1,121 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "ako zosilniť MP3 na iPhone",
+  "priority": 6,
+  "keywords": "ako zosilniť MP3 na iPhone, hlasnejšie MP3, zosilniť zvukový súbor iPhone, tiché MP3, zvýšiť hlasitosť zvuku bez počítača",
+  "title": "Ako zosilniť MP3 na iPhone bez počítača – až 10× hlasnejšie",
+  "description": "Sprav MP3, M4A alebo WAV hlasnejším priamo na iPhone bez počítača: import zo Súborov, výber násobku, porovnanie Pôvodné/Spracované a uloženie novej kópie.",
+  "h1": "Ako zosilniť MP3 na iPhone",
+  "eyebrow": "MP3",
+  "card_title": "Hlasnejšie MP3",
+  "card_summary": "Bez Audacity, bez PC. Importuj zo Súborov, posuň posúvač a ulož hlasnejšiu kópiu MP3.",
+  "quick_answer": "Ak chceš zosilniť MP3 na iPhone, otvor Volume Boost, pridaj súbor zo Súborov, posuň „Násobok hlasitosti“ (×2–×10), ťukni na „Zosilniť hlasitosť“, porovnaj Pôvodné a Spracované a ťukni na „Stiahnuť spracované“ → Uložiť do Súborov. Všetko prebieha v telefóne, bez počítača a bez nahrávania na internet.",
+  "intro": [
+    "Klasický spôsob, ako zosilniť MP3, je Audacity na počítači. Na iPhone vstavaná funkcia nie je: Súbory prehrávajú, ale hlasitosť nemenia, a iMovie čisto zvukové súbory neotvorí.",
+    "Volume Boost túto medzeru zapĺňa: jeden posúvač, vypočutie pred uložením a nový súbor v Súboroch."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Volume Boost spracováva súbor MP3 a zobrazuje názov, veľkosť a dĺžku",
+    "caption": "MP3 importované zo Súborov, pripravené na zosilnenie."
+  },
+  "sections": [
+    {
+      "heading": "Prečo iPhone sám MP3 nezosilní",
+      "paragraphs": [
+        "Súbory a Hudba zvuk prehrávajú, ale neupravujú. Diktafón upravuje len vlastné nahrávky. iMovie pracuje s videom. Na zmenu úrovne MP3 potrebuješ zvukový editor alebo zosilňovač hlasitosti."
+      ]
+    },
+    {
+      "heading": "Ktoré súbory fungujú",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "Formát",
+          "Podpora",
+          "Poznámka"
+        ],
+        "rows": [
+          [
+            "MP3",
+            "Áno",
+            "Najbežnejší formát sťahovaní a podcastov"
+          ],
+          [
+            "M4A / AAC",
+            "Áno",
+            "Diktafón a nákupy iTunes bez DRM"
+          ],
+          [
+            "WAV",
+            "Áno",
+            "Bez kompresie, veľká rezerva"
+          ],
+          [
+            "Apple Music / Spotify",
+            "Nie",
+            "Streamovanie chránené DRM"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "O koľko zosilniť?",
+      "paragraphs": [
+        "Tichý podcast alebo nahrávka často znesie ×4–×10. Hotová masterovaná skladba má málo rezervy; začni na ×2. Pred uložením si vypočuj najhlasnejšie miesta s Pôvodné/Spracované."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Krok za krokom: zosilni MP3",
+    "intro": "Asi minúta.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Pridaj súbor",
+        "text": "Otvor aplikáciu a vyber MP3 v Súboroch, alebo ho zdieľaj do Increase Volume z inej aplikácie."
+      },
+      {
+        "name": "Vyber násobok",
+        "text": "Posuň „Násobok hlasitosti“. Pri reči zapni „Vylepšiť kvalitu zvuku“."
+      },
+      {
+        "name": "Zosilni",
+        "text": "Ťukni na „Zosilniť hlasitosť na ×N“ a prepínaj Pôvodné a Spracované."
+      },
+      {
+        "name": "Ulož do Súborov",
+        "text": "Ťukni na „Stiahnuť spracované“ a vyber Uložiť do Súborov."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Daj novému súboru v Súboroch jasný názov, napríklad „skladba_hlasnejsie“.",
+      "Zoznam projektov v aplikácii ti umožní vrátiť sa a skúsiť inú úroveň.",
+      "Veľké súbory WAV sa spracúvajú o niečo dlhšie, ale stále v zariadení."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dá sa MP3 zosilniť bez počítača?",
+      "answer": "Áno. Volume Boost to urobí priamo na iPhone a hlasnejšiu kópiu uloží do Súborov."
+    },
+    {
+      "question": "Nahrá sa súbor na server?",
+      "answer": "Nie. Spracovanie prebieha na iPhone, bez účtu a bez nahrávania."
+    },
+    {
+      "question": "Dá sa zosilniť skladba z Apple Music?",
+      "answer": "Nie, streamovaná hudba je chránená DRM. Aplikácia funguje so súbormi, ktoré vlastníš."
+    }
+  ],
+  "related": [
+    "ticha-hudba-na-iphone",
+    "tichy-podcast-audiokniha-iphone",
+    "hlasnejsie-bez-straty-kvality"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

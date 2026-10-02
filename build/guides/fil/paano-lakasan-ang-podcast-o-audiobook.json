@@ -1,0 +1,127 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "mahina ang podcast o audiobook",
+  "priority": 12,
+  "keywords": "mahina ang podcast iPhone, paano lakasan ang audiobook, mahina ang audiobook, lakasan ang podcast, mahina ang recording ng lecture",
+  "title": "Paano lakasan ang podcast o audiobook sa iPhone (2026)",
+  "description": "Mahinang podcast, audiobook o lecture? Sa streaming, gamitin ang feature ng player; ang mga na-download na file, i-boost hanggang 10× gamit ang Increase Volume.",
+  "h1": "Paano lakasan ang podcast o audiobook sa iPhone",
+  "eyebrow": "Podcast at audiobook",
+  "card_title": "Lakasan ang podcast o audiobook",
+  "card_summary": "Settings ng player para sa streaming; totoong file boost para sa episodes at chapters na MP3 o M4A.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Para sa episodes na sini-stream sa podcast app, gamitin ang sariling loudness feature nito (Overcast Voice Boost, Pocket Casts Volume Boost; wala nito ang Apple Podcasts). Para sa episodes, audiobook chapters o lectures na file mo (MP3, M4A, MP4 sa Files o iCloud Drive), buksan sa Increase Volume, i-on ang «Improve Audio Quality», i-boost ng ×3–×10, ikumpara ang Orihinal at Na-process, at i-tap ang «Download Processed» para sa mas malakas na kopya na gagana sa kahit anong app.",
+  "intro": [
+    "May problema sa lakas ang spoken audio: dapat naka-master sa mga −16 LUFS ang podcasts, pero ang independent shows, lecture recordings at lumang audiobooks ay kadalasang mas mahina, at nalulunod ang mahinang guest sa tabi ng malakas na host. Sa jeep, MRT o kotse, ibig sabihin nito ay palaging hinahawakan ang volume.",
+    "Ang tamang solusyon ay depende kung nasaan ang audio: nasa loob ng streaming app, o file na hawak mo."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Listahan ng projects sa Increase Volume sa iPhone na may ilang MP3 at video files, size at haba",
+    "caption": "I-boost ang buong serye ng episodes o chapters; nananatili ang bawat isa sa listahan ng projects."
+  },
+  "sections": [
+    {
+      "heading": "Streaming sa podcast app",
+      "paragraphs": [
+        "Hindi mo mae-edit ang audio sa loob ng streaming app, pero may ilang player na nagpo-process ng loudness habang nagpe-play:"
+      ],
+      "list": [
+        "Overcast: nino-normalize at kino-compress ng Voice Boost ang boses; i-on kada show o para sa lahat.",
+        "Pocket Casts: Volume Boost at Trim Silence sa playback effects.",
+        "Spotify: Normalize volume sa playback settings.",
+        "Apple Podcasts: walang loudness feature. Para lang sa music ang Sound Check sa Settings › Music, hindi para sa podcasts."
+      ],
+      "note": "Gumagana lang ang mga feature na ito habang nagpe-play sa app na iyon. Hindi nila binabago ang file, kaya walang gumaganda kapag inilipat mo ang episode."
+    },
+    {
+      "heading": "Mga na-download na file",
+      "paragraphs": [
+        "Maraming podcast ang may direktang MP3 download sa website nila, nag-e-export ng MP3 o MP4 ang lecture platforms, at dumarating bilang MP3 o M4B ang audiobooks na walang DRM (hal. LibriVox, tindahang nagbebenta ng MP3 download, o sarili mong rips). Kapag nasa Files o iCloud Drive na ang file, bubuksan ito ng Increase Volume, mina-multiply ang level hanggang ×10, at nagse-save ng bagong kopya. Para sa boses ang «Improve Audio Quality», kaya pinakabagay ito dito."
+      ],
+      "note": "Copy-protected ang audiobooks mula sa Audible, Apple Books, Storytel at Spotify, pati ang downloads sa loob ng Apple Podcasts, at walang ibang app na makakapag-import ng mga ito."
+    },
+    {
+      "heading": "Pagpili ng multiplier para sa boses",
+      "table": {
+        "head": [
+          "Source",
+          "Karaniwang multiplier"
+        ],
+        "rows": [
+          [
+            "Propesyonal na podcast na medyo mahina lang",
+            "×1.5 – ×2"
+          ],
+          [
+            "Independent show o interview na may mahinang guest",
+            "×3 – ×5"
+          ],
+          [
+            "Lecture o meeting na malayo ang pagka-record",
+            "×6 – ×10"
+          ],
+          [
+            "Lumang audiobook rip",
+            "×2 – ×4"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: i-boost ang episode o chapter",
+    "intro": "Para sa files sa Files, iCloud Drive, Dropbox o natanggap sa email.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Idagdag ang file",
+        "text": "Buksan ang Increase Volume at idagdag ang episode mula sa Files, o i-long press ang file sa Files → Share → Increase Volume."
+      },
+      {
+        "name": "I-on ang Improve Audio Quality",
+        "text": "Boses ito; pinapanatiling malinaw ng toggle ang mga consonant pagkatapos ng boost."
+      },
+      {
+        "name": "I-set ang multiplier",
+        "text": "Gamitin ang table sa itaas bilang gabay, tapos i-tap ang «Boost Volume»."
+      },
+      {
+        "name": "Ikumpara",
+        "text": "Magpalit sa Orihinal at Na-process sa pinakamalakas na parte (intro music, tawa)."
+      },
+      {
+        "name": "Download Processed",
+        "text": "I-save sa Files. I-play ang boosted na file sa Files, sa Books (audiobooks) o sa kahit anong player na nagbubukas ng local audio."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "I-boost ang lahat ng chapter ng audiobook sa parehong multiplier para pare-pareho ang lakas.",
+      "Sa video lectures (MP4), pareho ang steps; hindi nagagalaw ang picture.",
+      "Kung malakas ang intro music at mahina ang salita, piliin ang multiplier para sa salita at tanggapin ang bahagyang naka-compress na intro na naka-on ang «Improve Audio Quality»."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Puwede bang lakasan ang Apple Podcasts?",
+      "answer": "Walang loudness o voice boost setting ang Apple Podcasts. Lumipat sa player na meron nito (Overcast, Pocket Casts), o i-download ang MP3 ng episode mula sa website ng show at i-boost ang file gamit ang Increase Volume."
+    },
+    {
+      "question": "Kaya bang i-boost ang audiobook mula sa Audible o Storytel?",
+      "answer": "Hindi. Encrypted ang files nila at hindi nabubuksan ng ibang apps. Gamitin ang sound settings ng sarili nilang player kung meron."
+    },
+    {
+      "question": "Mananatili ba ang chapters at cover ng boosted na episode?",
+      "answer": "Pinoproseso ng Increase Volume ang audio at gumagawa ng bagong file. Nadadala ang basic metadata tulad ng title kung pinapayagan ng format; puwedeng hindi madala ang chapter markers."
+    }
+  ],
+  "related": [
+    "paano-lakasan-ang-mp3-sa-iphone",
+    "paano-lakasan-ang-voice-memo-sa-iphone",
+    "lakasan-ang-tunog-nang-hindi-nasisira-ang-quality"
+  ]
+}

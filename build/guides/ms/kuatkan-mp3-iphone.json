@@ -1,0 +1,130 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "cara kuatkan MP3",
+  "priority": 6,
+  "keywords": "cara kuatkan MP3, kuatkan MP3 di iPhone, MP3 suara perlahan, kuatkan fail audio, naikkan volume fail audio",
+  "title": "Cara Kuatkan Fail MP3 di iPhone Tanpa Komputer (Hingga 10×)",
+  "description": "MP3, M4A atau WAV perlahan di iPhone? Kuatkan hingga 10× dan simpan salinan lebih kuat dengan Penguat Volume Bunyi, semuanya di telefon. Langkah dan had.",
+  "h1": "Cara kuatkan fail MP3 di iPhone",
+  "eyebrow": "MP3 dan audio",
+  "card_title": "Kuatkan MP3",
+  "card_summary": "Kebanyakan penguat hanya untuk video. Yang ini menguatkan MP3, M4A dan WAV terus dari Fail.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Untuk menguatkan MP3 di iPhone, buka Penguat Volume Bunyi, tambah fail dari Fail (atau kongsi ke aplikasi), seret «Pengganda kelantangan» hingga ×10, ketik «Boost kelantangan», bandingkan Asal dan Diproses, kemudian ketik «Muat turun yang diproses» untuk menyimpan MP3 yang lebih kuat ke Fail atau berkongsinya. Semuanya berlaku di telefon: tanpa komputer, tanpa muat naik, tanpa akaun. Lagu dari Apple Music atau Spotify tidak boleh diimport kerana dilindungi salinan.",
+  "intro": [
+    "Anda muat turun kuliah, demo lama, episod podcast atau bakal nada dering, dan bunyinya jauh lebih perlahan daripada yang lain. Di komputer anda akan buka Audacity atau alat normalisasi; di iPhone nasihat biasa ialah «guna penguat dalam talian», iaitu memuat naik fail dan menerima versi yang dikod semula.",
+    "Penguat Volume Bunyi melakukan perkara yang sama secara setempat. Di App Store ia dipaparkan untuk muzik dan video kerana, tidak seperti kebanyakan penguat video, ia membuka fail audio biasa."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Tangkapan skrin «Make music louder»: fail MP3 sedang diproses dalam Penguat Volume Bunyi dengan nama, saiz dan tempoh",
+    "caption": "Aplikasi memaparkan nama, saiz dan tempoh sebelum menguatkan."
+  },
+  "sections": [
+    {
+      "heading": "Fail audio apa yang boleh dikuatkan",
+      "paragraphs": [
+        "Apa sahaja yang merupakan fail sebenar di iPhone anda: MP3, M4A/AAC (termasuk eksport Memo Suara dan voice note WhatsApp), WAV dan format biasa lain yang disimpan dalam Fail, iCloud Drive atau Dropbox, atau yang diterima melalui Mesej dan Mail. Aplikasi membaca metadata dan memaparkan artis dan tajuk jika ada."
+      ],
+      "note": "Tidak boleh: lagu penstriman atau yang dimuat turun di dalam Apple Music, Spotify atau YouTube Music. Semuanya disulitkan dan tidak boleh dibuka aplikasi lain. Untuk penstriman, gunakan EQ atau normalisasi perkhidmatan itu sendiri."
+    },
+    {
+      "heading": "Berapa banyak penguatan yang tahan untuk MP3",
+      "paragraphs": [
+        "MP3 daripada rip CD atau yang dibeli biasanya sudah hampir tahap maksimum dan akan terpotong jika dipaksa; ×1.5–×2 sudah memadai. Podcast, kuliah, rakaman suara dan demo lama selalunya 10–20 dB lebih rendah dan tahan ×4–×10 tanpa masalah. Dengan Asal/Diproses anda boleh menyemak bahagian paling kuat sebelum menyimpan."
+      ]
+    },
+    {
+      "heading": "Penguat Volume Bunyi berbanding penguat MP3 dalam talian",
+      "table": {
+        "head": [
+          "",
+          "Penguat dalam talian",
+          "Penguat Volume Bunyi"
+        ],
+        "rows": [
+          [
+            "Ke mana fail pergi",
+            "Dimuat naik ke pelayan",
+            "Kekal di iPhone"
+          ],
+          [
+            "Kod semula",
+            "Biasanya ke kadar bit tetap yang lebih rendah",
+            "Diproses setempat"
+          ],
+          [
+            "Had saiz",
+            "Biasa (cth. 50–500 MB)",
+            "Hanya ruang storan telefon"
+          ],
+          [
+            "Dengar sebelum simpan",
+            "Jarang",
+            "Togol Asal / Diproses"
+          ],
+          [
+            "Peningkatan suara bercakap",
+            "Kadangkala",
+            "Pilihan Tingkatkan Kualiti Audio"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: kuatkan MP3",
+    "intro": "Anda perlukan MP3 dalam Fail (atau dalam aplikasi yang boleh berkongsinya) dan aplikasi percuma Penguat Volume Bunyi.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Tambah MP3",
+        "text": "Buka aplikasi dan tambah fail dari Fail. Atau dalam Fail tekan lama MP3, ketik Kongsi dan pilih Increase Volume."
+      },
+      {
+        "name": "Semak butiran",
+        "text": "Pastikan artis, tajuk, saiz dan tempoh. Jika ia suara bercakap, hidupkan «Tingkatkan Kualiti Audio»."
+      },
+      {
+        "name": "Pilih pengganda",
+        "text": "Tetapkan «Pengganda kelantangan» ke ×2 untuk muzik dan ×4–×10 untuk rakaman suara yang perlahan. Ketik «Boost kelantangan»."
+      },
+      {
+        "name": "Bandingkan",
+        "text": "Beralih antara Asal/Diproses pada bahagian paling kuat. Laraskan jika versi yang dikuatkan berbunyi kasar."
+      },
+      {
+        "name": "Muat turun yang diproses",
+        "text": "Ketik «Muat turun yang diproses» kemudian Simpan ke Fail, atau kongsi melalui Mail, Mesej atau awan."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tip",
+    "items": [
+      "Kuatkan satu siri fail (bab buku audio, siri kuliah) dengan pengganda yang sama supaya berbunyi seragam.",
+      "Simpan salinan yang dikuatkan dalam folder tersendiri dalam Fail; aplikasi juga menyimpan setiap projek dalam senarainya.",
+      "Untuk nada dering: kuatkan dahulu, kemudian potong kepada 30 saat; sumber yang lebih kuat menghasilkan nada dering yang lebih kuat."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bolehkah kuatkan lagu dari Apple Music atau Spotify?",
+      "answer": "Tiada aplikasi lain yang boleh membuka muat turun penstriman; semuanya disulitkan. Penguat Volume Bunyi berfungsi dengan fail milik anda dalam Fail, iCloud Drive atau storan lain."
+    },
+    {
+      "question": "Adakah kualiti MP3 turun apabila dikuatkan?",
+      "answer": "Audio diproses sekali dan disimpan sebagai fail baharu. Kualiti hanya terjejas jika dikuatkan sehingga puncaknya terpotong; dengan Asal/Diproses anda boleh mendengarnya sebelum menyimpan."
+    },
+    {
+      "question": "Bolehkah untuk WAV dan M4A?",
+      "answer": "Boleh. Format audio biasa disokong, selain video MP4 dan MOV."
+    }
+  ],
+  "related": [
+    "muzik-perlahan-iphone",
+    "kuatkan-podcast-buku-audio-iphone",
+    "kuatkan-memo-suara-iphone"
+  ]
+}

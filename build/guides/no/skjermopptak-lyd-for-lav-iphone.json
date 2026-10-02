@@ -1,0 +1,100 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "skjermopptak lyd for lav iPhone",
+  "priority": 3,
+  "keywords": "skjermopptak lyd for lav iPhone, skjermopptak uten lyd, gjøre skjermopptak høyere, lav lyd skjermopptak, øke lyd i skjermopptak",
+  "title": "For lav lyd i skjermopptak på iPhone? Slik fikser du det",
+  "description": "Hvorfor tar iPhone opp app-lyd så lavt? Innstillingene du bør sjekke før neste skjermopptak, og hvordan du gjør et eksisterende opptak opptil 10× høyere.",
+  "h1": "For lav lyd i skjermopptak på iPhone: årsak og løsning",
+  "eyebrow": "Skjermopptak",
+  "card_title": "Skjermopptak for lavt",
+  "card_summary": "iOS tar opp app-lyd lavere enn du hører den. Fiks neste opptak og forsterk det du allerede har ×5–×10.",
+  "quick_answer": "iOS tar opp lyd fra apper på et redusert nivå, og enda lavere når volumet er lavt eller Bluetooth-hodetelefoner er tilkoblet. Neste gang: koble fra Bluetooth og skru opp volumet før du trykker Skjermopptak i Kontrollsenter. For et opptak du allerede har: del videoen fra Bilder til Increase Volume, forsterk ×5–×10 og trykk «Last ned behandlet».",
+  "intro": [
+    "Et skjermopptak av et spill, en veiledning eller en videosamtale ser perfekt ut, men lyden er knapt hørbar når du spiller det av. Det er ikke din feil: iOS tar opp systemlyd lavere enn det du hører mens du tar opp.",
+    "Her er hva som påvirker nivået, hvordan du får et bedre neste opptak, og hvordan du redder det du allerede har tatt opp."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Spordetaljer i Volumforsterker med bryteren «Forbedre lydkvalitet», glidebryteren «Volummultiplikasjon ×10» og knappen «Boost lydstyrken til ×10»",
+    "caption": "Velg multiplikasjonen for skjermopptaket og trykk «Boost lydstyrken»."
+  },
+  "sections": [
+    {
+      "heading": "Hvorfor skjermopptak får lav lyd",
+      "paragraphs": [
+        "Skjermopptak i iOS tar opp lyden fra appen internt. Nivået følger delvis systemvolumet, så et opptak gjort på lavt volum blir lavt. Med Bluetooth-hodetelefoner tilkoblet kan app-lyden tas opp svakere eller ikke i det hele tatt, og mange apper (strømming, samtaler) blokkerer eller demper lyd i skjermopptak."
+      ]
+    },
+    {
+      "heading": "Slik får du bedre lyd i neste opptak",
+      "paragraphs": [],
+      "list": [
+        "Koble fra Bluetooth-hodetelefoner før du starter.",
+        "Skru medievolumet godt opp før du trykker på Skjermopptak.",
+        "Vil du også ta opp stemmen din: trykk og hold på Skjermopptak-knappen i Kontrollsenter og slå på Mikrofon.",
+        "Slå av Fokus/Ikke forstyrr så varsler ikke avbryter lyden."
+      ],
+      "ordered": false,
+      "note": "Navnene på knappene kan variere litt mellom iOS-versjoner."
+    },
+    {
+      "heading": "Har du allerede et lavt opptak? Forsterk filen",
+      "paragraphs": [
+        "Et ferdig skjermopptak er en vanlig video i Bilder. Volumforsterker kan åpne den, gange lydsporet opptil 10× og lagre en ny kopi ved siden av originalen. Bildet endres ikke."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Gjør et skjermopptak høyere med Volumforsterker",
+    "intro": "Rundt ett minutt for et kort opptak.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Del opptaket til appen",
+        "text": "Åpne skjermopptaket i Bilder, trykk Del og velg Increase Volume."
+      },
+      {
+        "name": "Velg nivå",
+        "text": "Skjermopptak trenger ofte ×5–×8. Er det tale (veiledning), slå på «Forbedre lydkvalitet»."
+      },
+      {
+        "name": "Boost og sammenlign",
+        "text": "Trykk «Boost lydstyrken til ×N» og bytt mellom Original og Behandlet."
+      },
+      {
+        "name": "Lagre",
+        "text": "Trykk «Last ned behandlet» → Arkiver video. Den høyere kopien legges i Bilder."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Har opptaket både spillyd og stemme, forsterk moderat (×3–×5) så spill-eksplosjoner ikke skurrer.",
+      "Et skjermopptak helt uten lydspor kan ikke forsterkes; det må tas opp på nytt med lyd på.",
+      "Forsterk før du klipper i iMovie eller CapCut; da arbeider du med et sterkt signal hele veien."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Hvorfor har skjermopptaket mitt ingen lyd?",
+      "answer": "Appen kan blokkere lydopptak (strømming, samtaler), eller lyden gikk til Bluetooth-hodetelefoner. Sjekk også at mikrofonen er slått på hvis du ville ta opp stemmen din."
+    },
+    {
+      "question": "Kan jeg øke lyden i et skjermopptak etterpå?",
+      "answer": "Ja. Del videoen fra Bilder til Volumforsterker, forsterk ×5–×10 og lagre den høyere kopien."
+    },
+    {
+      "question": "Blir bildet dårligere?",
+      "answer": "Nei. Bare lydsporet endres; bildet kopieres som det er."
+    }
+  ],
+  "related": [
+    "gjor-video-hoyere-iphone",
+    "hvorfor-er-videoen-sa-lav",
+    "tiktok-video-hoyere"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

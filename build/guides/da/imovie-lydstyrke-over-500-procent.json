@@ -1,0 +1,137 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie lydstyrke",
+  "priority": 11,
+  "keywords": "imovie lydstyrke, imovie ikke højt nok, gør video højere end imovie, forstærk video over 500 procent, imovie max lydstyrke iPhone",
+  "title": "iMovie lydstyrke: sådan forstærker du en video over 500 %",
+  "description": "iMovie på iPhone stopper ved cirka 500 % lydstyrke. Når det ikke er nok, tager Increase Volume samme video til 10× med én skyder, uden projekt eller eksport.",
+  "h1": "iMovies lydstyrkegrænse (cirka 500 %) og hvordan du går videre",
+  "eyebrow": "vs. iMovie",
+  "card_title": "Højere end iMovies grænse på 500 %",
+  "card_summary": "Sådan hæver du lydstyrken i iMovie, hvorfor skyderen stopper ved 5×, og vejen til 10× med én skyder.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "iMovie på iPhone lader dig hæve et klips lydstyrke til cirka 500 % (5×): tryk på klippet, tryk på højttalerikonet, træk mod højre, og eksportér. Er videoen stadig for lav på maksimum, så åbn samme fil i Increase Volume, som ganger lyden op til ×10 (1000 %), lader dig sammenligne Original og Behandlet og gemmer en ny kopi uden at bygge et projekt. Increase Volume åbner også rene lydfiler, som iMovie ikke kan.",
+  "intro": [
+    "iMovie er Apples gratis svar på „hvordan gør jeg min video højere“, og til et klip, der bare er lidt lavt, virker det. Men skyderen har et loft, og optagelser lavet på tværs af et rum eller via skærmoptagelse kræver ofte mere, end den giver. Folk eksporterer så på 500 %, kan stadig ikke høre resultatet og leder efter „højere end iMovie“.",
+    "Her kan du se præcis, hvor langt iMovie går, hvordan du bruger det, og hvad du gør, når det ikke er nok."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Increase Volume med skyderen Lydstyrke-multiplikation ×10, det dobbelte af iMovies loft på iPhone",
+    "caption": "×10 i Increase Volume er cirka det dobbelte af iMovies maksimum."
+  },
+  "sections": [
+    {
+      "heading": "Sådan øger du lydstyrken i iMovie på iPhone",
+      "paragraphs": [
+        "Har du ikke prøvet det endnu, er den gratis vej værd at kende:"
+      ],
+      "list": [
+        "Åbn iMovie → Start nyt projekt → Film, og vælg videoen.",
+        "Tryk på klippet på tidslinjen, så det markeres.",
+        "Tryk på højttalerikonet i værktøjslinjen, og træk lydstyrkeskyderen mod højre. Den stopper ved cirka 500 %.",
+        "Tryk på OK, derefter Del-ikonet → Gem video, og vent, mens iMovie genkoder hele klippet."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Hvor iMovie kommer til kort",
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Increase Volume"
+        ],
+        "rows": [
+          [
+            "Maksimal forstærkning",
+            "Cirka 500 % (5×)",
+            "×10 (1000 %)"
+          ],
+          [
+            "Rene lydfiler (MP3, Diktafon)",
+            "Understøttes ikke",
+            "Understøttes"
+          ],
+          [
+            "Arbejdsgang",
+            "Opret projekt → tilføj klip → juster → eksportér",
+            "Del fra Fotos → træk → Download behandlet"
+          ],
+          [
+            "Lyt før/efter",
+            "Afspil tidslinjen",
+            "Kontakten Original / Behandlet"
+          ],
+          [
+            "Genkoder billedet",
+            "Ja, fuld eksport",
+            "Lyden behandles, billedet sendes uændret igennem"
+          ],
+          [
+            "Taleforbedring",
+            "Ingen",
+            "Kontakten Forbedr lydkvalitet"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Hvornår 500 % er nok, og hvornår ikke",
+      "paragraphs": [
+        "5× er cirka +14 dB. Det dækker et klip, der lyder lidt svagt. Det dækker ikke en forelæsning optaget fra bageste række, en telefon, der lå på bordet under en samtale, eller de fleste skærmoptagelser, som typisk ligger 15–25 dB under normalt niveau. Til dem har du brug for ×8–×10, og du skal kunne høre, om det højeste øjeblik klipper på det niveau, og det er netop, hvad kontakten Original/Behandlet i Increase Volume er til."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Trin for trin: forstærk ud over iMovies grænse",
+    "intro": "Brug den originale video, ikke iMovie-eksporten, så du forstærker én gang fra den reneste kilde.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Del den originale video til Increase Volume",
+        "text": "Åbn klippet i Fotos, tryk på Del, og vælg Increase Volume."
+      },
+      {
+        "name": "Sæt multiplikationen over 5",
+        "text": "Træk „Lydstyrke-multiplikation“ til ×6–×10 afhængigt af, hvor lavt klippet er. Slå „Forbedr lydkvalitet“ til ved tale. Tryk på „Boost lydstyrke“."
+      },
+      {
+        "name": "Sammenlign",
+        "text": "Skift Original/Behandlet ved den højeste del. Er det skarpt, så gå et trin ned, og forstærk igen."
+      },
+      {
+        "name": "Download behandlet",
+        "text": "Gem den højere kopi i Fotos, eller del den direkte. Originalen er urørt."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Vil du stadig bruge iMovie til klipning eller titler, så forstærk først i Increase Volume, og rediger derefter den forstærkede fil i iMovie.",
+      "Undgå at stable forstærkninger (iMovie 500 % og derefter ×10 på eksporten); gå direkte fra originalen til det niveau, du har brug for.",
+      "Til lydfiler kan du springe iMovie helt over; den åbner hverken MP3 eller M4A."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Hvorfor begrænser iMovie lydstyrken til 500 %?",
+      "answer": "Apple begrænser skyderen for at undgå, at almindelige redigeringer klipper voldsomt. Det er en fornuftig standard til normale optagelser, men for lav til meget lave optagelser."
+    },
+    {
+      "question": "Er Increase Volume gratis ligesom iMovie?",
+      "answer": "Increase Volume er gratis at hente med en gratis prøveperiode; ubegrænset forstærkning låses op med et abonnement eller et engangskøb for altid. De aktuelle priser står i App Store."
+    },
+    {
+      "question": "Kan iMovie på Mac gå over 500 %?",
+      "answer": "iMovie til Mac har også et loft omkring 400–500 %. Programmer som Final Cut Pro eller Audacity går højere, men kræver en computer og overførsel af filen. Increase Volume gør det på din iPhone."
+    }
+  ],
+  "related": [
+    "goer-en-video-hoejere-paa-iphone",
+    "goer-lyden-hoejere-uden-at-miste-kvalitet",
+    "oeg-lyden-paa-en-video-direkte-fra-fotos"
+  ]
+}

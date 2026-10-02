@@ -1,21 +1,21 @@
 {
   "meta": {
     "lang": "pl",
-    "title": "Zwiększ głośność – Wzmocnienie dźwięku | Do ~10× na iPhonie",
-    "description": "Głośniejsze audio lub wideo na iPhone: do ~10× z klarownością i basem. Zdjęcia, podcasty, notatki głosowe. Na urządzeniu. Wypróbuj za darmo w App Store.",
-    "keywords": "zwiększ głośność iPhone, głośniejsze wideo, cichy film, booster głośności, zwiększyć dźwięk, aplikacja iPhone, audio głośniej, nagranie ekranu ciche, wzmocnienie dźwięku, Increase Volume",
+    "title": "Jak zwiększyć głośność filmu na iPhonie – Volume Boost",
+    "description": "Zgłośnij filmy, MP3 i nagrania z Dyktafonu na iPhonie nawet 10×. Wzmacniacz – Volume Boost wzmacnia sam plik, zachowuje czysty dźwięk i zapisuje nową kopię.",
+    "keywords": "jak zwiększyć głośność filmu na iPhonie, zgłośnić wideo, aplikacja do zwiększania głośności, wzmacniacz głośności, zwiększyć głośność MP3, cicha wiadomość głosowa WhatsApp, cichy dźwięk nagrania ekranu, Dyktafon głośniej, Wzmacniacz – Volume Boost",
     "canonical": "https://volumeboosting.com/pl/",
-    "og_title": "Zwiększ głośność – Wzmocnienie dźwięku",
-    "og_description": "Audio i wideo na iPhone do ~10× głośniej — Increase Volume – Wzmocnienie dźwięku. Czysty dźwięk, bas; ciche klipy i podcasty. Przetwarzanie na urządzeniu.",
+    "og_title": "Głośniejsze filmy i audio na iPhonie – nawet 10× głośniej",
+    "og_description": "Film, MP3 lub nagranie z Dyktafonu za ciche? Wzmacniacz – Volume Boost zgłaśnia sam plik nawet 10×; porównujesz Oryginał/Przetworzony i zapisujesz kopię.",
     "og_image": "https://volumeboosting.com/pl/site_preview.png",
-    "og_image_alt": "Ikona aplikacji Increase Volume – Wzmocnienie dźwięku",
+    "og_image_alt": "Ikona aplikacji Wzmacniacz – Volume Boost",
     "og_url": "https://volumeboosting.com/pl/",
     "og_locale": "pl_PL",
     "twitter_url": "https://volumeboosting.com/pl/",
-    "twitter_title": "Zwiększ głośność – Wzmocnienie dźwięku",
-    "twitter_description": "Audio i wideo na iPhone do ~10× głośniej — Increase Volume – Wzmocnienie dźwięku. Czysty dźwięk, bas; ciche klipy i podcasty. Przetwarzanie na urządzeniu.",
+    "twitter_title": "Głośniejsze filmy i audio na iPhonie – nawet 10× głośniej",
+    "twitter_description": "Film, MP3 lub nagranie z Dyktafonu za ciche? Wzmacniacz – Volume Boost zgłaśnia sam plik nawet 10×; porównujesz Oryginał/Przetworzony i zapisujesz kopię.",
     "twitter_image": "https://volumeboosting.com/pl/site_preview.png",
-    "twitter_image_alt": "Ikona aplikacji Increase Volume – Wzmocnienie dźwięku"
+    "twitter_image_alt": "Ikona aplikacji Wzmacniacz – Volume Boost"
   },
   "header": {
     "app_name_suffix": "Wzmocnienie dźwięku na iPhone",
@@ -188,44 +188,61 @@
     "breadcrumb_home": "Strona główna",
     "faq": [
       {
-        "question": "Czym jest Increase Volume – Wzmocnienie dźwięku?",
-        "answer": "To aplikacja na iPhone'a w kategorii «Muzyka» w App Store, która robi głośniejszymi zaimportowane pliki audio i wideo — do około 10× — i pozwala zapisać nowy plik. Przetwarza multimedia na urządzeniu; jest do cichych nagrań, podcastów i klipów, a nie do omijania limitów sprzętowych iOS dla całego dźwięku systemowego."
+        "question": "Jak zwiększyć głośność filmu na iPhonie?",
+        "answer": "Otwórz Volume Boost, zaimportuj film ze Zdjęć (albo udostępnij go aplikacji), przesuń „Mnożnik głośności” do ×10, stuknij „Wzmocnij głośność”, porównaj Oryginał i Przetworzony i stuknij „Pobierz przetworzony”. Głośniejsza kopia trafi do Zdjęć lub Plików i zagra głośno na każdym urządzeniu.",
+        "guide": "jak-zwiekszyc-glosnosc-filmu-iphone"
       },
       {
-        "question": "Jak działa Increase Volume – Wzmocnienie dźwięku?",
-        "answer": "Importujesz film, utwór lub nagranie (także z aplikacji Zdjęcia), dostosowujesz głośność, klarowność i bas suwakiem wzmocnienia, słuchasz podglądu na żywo, potem zapisujesz wzmocniony plik na iPhone'ie lub udostępniasz go."
+        "question": "Dlaczego wiadomości głosowe WhatsApp są takie ciche na iPhonie?",
+        "answer": "Jeśli wszystkie są ciche, iPhone odtwarza je przez głośnik rozmów, bo zasłaniasz czujnik zbliżeniowy: odsuń telefon od twarzy i podgłośnij w trakcie odtwarzania. Jeśli cicha jest jedna, wyeksportuj ją (przytrzymaj → Przekaż → Udostępnij), wzmocnij ×5–×10 w aplikacji i zapisz lub wyślij głośniejszą kopię.",
+        "guide": "cicha-wiadomosc-glosowa-whatsapp"
       },
       {
-        "question": "Czy Increase Volume jest lepsze niż samo podkręcenie głośności iPhone'a?",
-        "answer": "To inne problemy. Głośność systemowa tymczasowo podgłaśnia odtwarzanie. Ta aplikacja tworzy trwale głośniejszy plik — przydatne, gdy samo nagranie jest ciche lub musisz wysłać wzmocnioną wersję."
+        "question": "Dlaczego dźwięk w nagraniu ekranu jest za cichy?",
+        "answer": "iOS nagrywa dźwięk aplikacji na obniżonym poziomie, jeszcze ciszej przy niskiej głośności lub podłączonych słuchawkach Bluetooth. Przed kolejnym nagraniem odłącz Bluetooth i podgłośnij. Istniejące nagranie wzmocnisz ×5–×10 w Volume Boost.",
+        "guide": "nagrywanie-ekranu-cichy-dzwiek-iphone"
       },
       {
-        "question": "Czym Increase Volume różni się od VLC lub Audacity pod kątem głośności?",
-        "answer": "VLC i Audacity to potężne narzędzia desktopowe z normalizacją, wzmocnieniem i wieloma opcjami. Increase Volume jest zbudowana pod iPhone'a: krótki przepływ import → suwak → zapis, bez osi czasu na komputerze."
+        "question": "Jak zgłośnić nagranie z Dyktafonu?",
+        "answer": "„Ulepsz nagranie” w Dyktafonie redukuje szum, ale nie zgłaśnia pliku. Udostępnij nagranie aplikacji (⋯ → Udostępnij → Increase Volume), włącz „Popraw jakość dźwięku”, wzmocnij ×5–×10 i zapisz głośniejszy plik M4A.",
+        "guide": "glosniejsze-nagranie-dyktafon"
       },
       {
-        "question": "Czy Increase Volume obsługuje wideo i audio?",
-        "answer": "Tak. Możesz wzmocnić wideo ze ścieżką dźwiękową, utwory, podcasty, notatki głosowe i nagrania ekranu, a potem zapisać wynik."
+        "question": "Czy mogę zgłośnić MP3 na iPhonie bez komputera?",
+        "answer": "Tak. Dodaj plik MP3, M4A lub WAV z Plików, wybierz mnożnik, odsłuchaj Oryginał/Przetworzony i stuknij „Pobierz przetworzony”. Głośniejsza kopia trafi do Plików; wszystko dzieje się na telefonie.",
+        "guide": "jak-zwiekszyc-glosnosc-mp3-iphone"
       },
       {
-        "question": "Czy wzmocniony plik zapisuje się na moim iPhone'ie?",
-        "answer": "Tak. Po przetworzeniu zapisujesz głośniejszy plik na urządzeniu i możesz go udostępnić jak każdy inny plik multimedialny."
+        "question": "Czy mogę zwiększyć głośność filmu w aplikacji Zdjęcia?",
+        "answer": "Edycja w Zdjęciach potrafi tylko wyciszyć, nie zgłośnić. Stuknij Udostępnij → Increase Volume, aby wzmocnić film nawet do ×10; głośniejsza kopia trafi do Zdjęć obok oryginału.",
+        "guide": "glosnosc-filmu-w-aplikacji-zdjecia"
       },
       {
-        "question": "Ile kosztuje Increase Volume – Wzmocnienie dźwięku?",
-        "answer": "Aktualna cena i zakupy w aplikacji są na stronie App Store. Dane strukturalne witryny mogą wskazywać darmową ofertę; przed cytowaniem zawsze sprawdź u Apple."
+        "question": "Czy dźwięk się przesteruje, gdy go zgłośnię?",
+        "answer": "Tylko jeśli najgłośniejsze szczyty przekroczą cyfrowe maksimum. Ciche nagranie ma duży zapas. Zacznij od ×3, posłuchaj najgłośniejszego momentu z Oryginał/Przetworzony i zwiększaj, dopóki brzmi czysto. Obraz nigdy się nie zmienia.",
+        "guide": "glosniej-bez-utraty-jakosci"
       },
       {
-        "question": "Kto wydaje Increase Volume – Wzmocnienie dźwięku?",
-        "answer": "Aplikację publikuje c-basso i dystrybuuje Apple App Store (ID 6741472421). Strona produktu to volumeboosting.com."
+        "question": "Czym to się różni od głośności w iMovie?",
+        "answer": "iMovie na iPhonie zatrzymuje się na ok. 500% (5×) i wymaga projektu oraz pełnego eksportu. Volume Boost dochodzi do ×10 (1000%), otwiera też pliki audio i ma Oryginał/Przetworzony przed zapisem.",
+        "guide": "imovie-glosnosc-powyzej-500"
       },
       {
-        "question": "Jak zwiększyć głośność zbyt cichego wideo na iPhone'ie?",
-        "answer": "W Increase Volume – Wzmocnienie dźwięku zaimportuj film (np. z aplikacji Zdjęcia), ustaw suwak wzmocnienia z podglądem na żywo i zapisz kopię z głośniejszą ścieżką audio. Poprawiasz poziom w pliku — w przeciwieństwie do samego podgłaszania systemu podczas odtwarzania."
+        "question": "Czy aplikacja zgłośni głośnik iPhone'a?",
+        "answer": "Nie. Żadna aplikacja nie przekroczy fizycznego limitu głośnika ani nie zmieni głośności całego systemu. Aplikacja zgłaśnia plik, co pomaga, gdy samo nagranie jest ciche. Jeśli ciche są wszystkie filmy, najpierw sprawdź przyczyny po stronie odtwarzania.",
+        "guide": "dlaczego-film-jest-cichy#odtwarzanie"
       },
       {
-        "question": "Czy aplikacja podnosi maksymalną głośność iPhone'a do muzyki i połączeń?",
-        "answer": "Nie. Przetwarza pliki, które importujesz, i daje głośniejszą wersję do zapisu lub udostępnienia. Limit sprzętowy i globalna głośność dla Spotify, połączeń itd. się nie zmieniają."
+        "question": "Ile kosztuje Wzmacniacz – Volume Boost?",
+        "answer": "Pobranie jest bezpłatne i obejmuje bezpłatny okres próbny. Nieograniczone wzmacnianie odblokowuje subskrypcja; aktualne ceny w złotych znajdziesz w App Store. Przetwarzanie zawsze odbywa się na Twoim iPhonie.",
+        "guide": "",
+        "learn_more_url": "__APP_STORE_URL__",
+        "learn_more_title": "Wzmacniacz – Volume Boost: bezpłatne pobranie i aktualne ceny w App Store"
+      },
+      {
+        "question": "Czy moje pliki są wysyłane na serwer?",
+        "answer": "Nie. Przetwarzanie odbywa się na Twoim iPhonie, bez konta i bez wysyłania. Wynik zapisujesz przez arkusz udostępniania iOS w Zdjęciach, Plikach lub wybranej aplikacji.",
+        "guide": "glosniej-bez-utraty-jakosci#prywatnosc"
       }
     ],
     "structured_data": {
@@ -376,5 +393,35 @@
     "title": "Twój cichy plik 10× głośniej w niecałą minutę.",
     "text": "Pobierz Increase Volume – Wzmocnienie dźwięku, zaimportuj film lub nagranie, którego nikt nie słyszy, przesuń suwak i udostępnij głośną wersję.",
     "note": "Bezpłatne pobieranie · Wymaga iOS 18.6 lub nowszego · 4,5★ w App Store"
+  },
+  "guides": {
+    "eyebrow": "Poradniki",
+    "title": "Napraw cichy dźwięk na iPhonie, sytuacja po sytuacji",
+    "intro": "Każdy poradnik odpowiada na pytanie, którego ludzie naprawdę szukają, uczciwie wyjaśnia, co potrafią narzędzia iOS, a czego nie, i pokazuje dokładne kroki w Volume Boost.",
+    "hub_link_text": "Wszystkie poradniki",
+    "read_more": "Przeczytaj poradnik",
+    "hub": {
+      "title": "Poradniki: jak zgłośnić dźwięk na iPhonie – wideo i MP3",
+      "description": "Poradniki krok po kroku: jak zgłośnić filmy, nagrania z Dyktafonu, pliki MP3, nagrania ekranu i wiadomości głosowe WhatsApp na iPhonie, w iOS i w aplikacji.",
+      "h1": "Poradniki: jak zgłośnić wideo i audio na iPhonie",
+      "intro": "Każdy poradnik zaczyna się od bezpośredniej odpowiedzi, uczciwie omawia bezpłatne opcje systemu (Zdjęcia, iMovie, Dyktafon) i pokazuje, jak uzyskać nawet 10× większą głośność w Volume Boost.",
+      "keywords": "poradniki jak zgłośnić dźwięk iPhone, zgłośnić film, zgłośnić MP3, cicha wiadomość głosowa, ciche nagranie ekranu"
+    },
+    "labels": {
+      "home": "Strona główna",
+      "guides": "Poradniki",
+      "breadcrumb_aria": "Ścieżka nawigacji",
+      "updated": "Zaktualizowano",
+      "reading_time": "3–4 min czytania",
+      "quick_answer": "Krótka odpowiedź",
+      "faq_heading": "Więcej pytań",
+      "related": "Powiązane poradniki",
+      "all_guides": "Wszystkie poradniki",
+      "disclaimer": "Wzmacniacz – Volume Boost wzmacnia dźwięk w pliku i zapisuje nową kopię. Nie przekroczy fizycznego limitu głośnika iPhone'a ani nie zmieni głośności całego systemu."
+    },
+    "default_cta": {
+      "title": "Zrób to w Volume Boost",
+      "text": "Bezpłatnie w App Store. Zaimportuj, przesuń suwak do ×10 i stuknij „Pobierz przetworzony”."
+    }
   }
 }

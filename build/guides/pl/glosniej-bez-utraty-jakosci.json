@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "zwiększyć głośność bez utraty jakości",
+  "priority": 10,
+  "keywords": "zwiększyć głośność bez utraty jakości, zgłośnić bez przesterowania, wzmocnić film bez zniekształceń, dźwięk charczy po wzmocnieniu, czyste wzmocnienie dźwięku",
+  "title": "Jak zwiększyć głośność bez utraty jakości i przesterowania",
+  "description": "Kiedy dźwięk się przesterowuje, a kiedy nie? Jak dobrać mnożnik, odsłuchać Oryginał/Przetworzony i zgłośnić film tak, by obraz i jakość pozostały bez zmian.",
+  "h1": "Jak zgłośnić film i dźwięk bez utraty jakości",
+  "eyebrow": "Jakość",
+  "card_title": "Głośniej bez utraty jakości",
+  "card_summary": "Zapas, szczyty i przesterowanie w prostych słowach, i jak znaleźć najwyższy czysty poziom.",
+  "quick_answer": "Dźwięk przesterowuje się tylko wtedy, gdy najgłośniejsze szczyty przekroczą cyfrowe maksimum. Ciche nagranie ma duży zapas i znosi ×5–×10. Zacznij od ×3 w Volume Boost, znajdź najgłośniejszy moment klipu, przełączaj Oryginał i Przetworzony i zwiększaj, dopóki brzmi czysto. Dla mowy włącz „Popraw jakość dźwięku”. Obraz filmu nigdy się nie zmienia.",
+  "intro": [
+    "Strach przed „zepsuciem” nagrania powstrzymuje wiele osób przed jego zgłośnieniem. Ale wzmocnienie to nie strata: dopóki szczyty mieszczą się pod maksimum, dźwięk staje się po prostu głośniejszy.",
+    "Ten poradnik wyjaśnia, co się dzieje, i jak znaleźć najlepszy poziom bez zgadywania."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "Ekran wyniku w Volume Boost z przyciskiem „Pobierz przetworzony” i przełącznikiem Oryginał/Przetworzony",
+    "caption": "Przełączaj Oryginał i Przetworzony przed zapisem."
+  },
+  "sections": [
+    {
+      "heading": "Zapas: dlaczego ciche nagrania znoszą dużo",
+      "paragraphs": [
+        "Cyfrowy dźwięk ma sufit (0 dBFS). Ciche nagranie leży może 20 dB poniżej; to daje miejsce na mniej więcej 10×, zanim szczyty dotkną sufitu. Klip z jednym głośnym hukiem blisko sufitu ma mały zapas, nawet jeśli reszta jest cicha."
+      ]
+    },
+    {
+      "heading": "Jak usłyszeć przesterowanie",
+      "paragraphs": [],
+      "list": [
+        "Znajdź najgłośniejszy fragment: śmiech, krzyk, refren.",
+        "Słuchaj, przełączając Oryginał/Przetworzony.",
+        "Jeśli brzmi chrapliwie lub płasko, zmniejsz mnożnik o stopień."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Czy jakość wideo się zmienia?",
+      "paragraphs": [
+        "Nie. Volume Boost zmienia tylko ścieżkę dźwiękową. Obraz zachowuje tę samą rozdzielczość i nie dostaje znaku wodnego."
+      ]
+    },
+    {
+      "id": "prywatnosc",
+      "heading": "Prywatność: wszystko dzieje się na iPhonie",
+      "paragraphs": [
+        "Twoje pliki nie opuszczają telefonu. Przetwarzanie odbywa się na urządzeniu, bez konta i bez wysyłania. Wynik zapisujesz przez arkusz udostępniania iOS w Zdjęciach, Plikach lub wybranej aplikacji."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Znajdź najwyższy czysty poziom",
+    "intro": "Szybki test na mniej niż minutę.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Zacznij od ×3",
+        "text": "Przesuń „Mnożnik głośności” do ×3 i stuknij „Wzmocnij głośność do ×3”."
+      },
+      {
+        "name": "Sprawdź szczyty",
+        "text": "Odtwórz najgłośniejszy fragment z Oryginał/Przetworzony."
+      },
+      {
+        "name": "Zwiększ lub zmniejsz",
+        "text": "Czysto: przejdź do ×5, potem ×8 lub ×10. Charczy: zejdź o stopień."
+      },
+      {
+        "name": "Zapisz",
+        "text": "Stuknij „Pobierz przetworzony”, gdy poziom jest właściwy."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Wskazówki",
+    "items": [
+      "Mowa znosi więcej niż muzyka.",
+      "„Popraw jakość dźwięku” poprawia wyrazistość głosu przy dużym wzmocnieniu.",
+      "Wypróbuj kilka poziomów; oryginał zawsze zostaje."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Czy mogę zgłośnić film bez pogorszenia jakości?",
+      "answer": "Tak, dopóki szczyty nie przekroczą maksimum. Odsłuchaj z Oryginał/Przetworzony przed zapisem."
+    },
+    {
+      "question": "Dlaczego dźwięk charczy po wzmocnieniu?",
+      "answer": "Najgłośniejsze szczyty zostały obcięte. Zmniejsz mnożnik, aż brzmi czysto."
+    },
+    {
+      "question": "Czy moje filmy są wysyłane?",
+      "answer": "Nie. Wszystko jest przetwarzane na iPhonie."
+    }
+  ],
+  "related": [
+    "jak-zwiekszyc-glosnosc-filmu-iphone",
+    "imovie-glosnosc-powyzej-500",
+    "cicha-muzyka-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

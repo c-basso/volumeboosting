@@ -1,0 +1,113 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "podcast se aude încet pe iPhone",
+  "priority": 12,
+  "keywords": "podcast se aude încet pe iPhone, audiobook încet, cum fac podcastul mai tare, mărire volum audiobook iPhone, aplicația Podcasturi sunet încet",
+  "title": "Podcastul sau audiobook-ul se aude încet pe iPhone? Soluția",
+  "description": "Podcast sau audiobook prea încet? Verifică setările din Podcasturi și din căști, iar episoadele MP3 și M4A descărcate fă-le de până la 10× mai tari pe iPhone.",
+  "h1": "Podcast sau audiobook prea încet pe iPhone: soluțiile",
+  "eyebrow": "Podcasturi",
+  "card_title": "Podcast încet",
+  "card_summary": "Setările din Podcasturi și cum amplifici episoade MP3 descărcate și audiobook-uri fără DRM.",
+  "quick_answer": "Dacă un podcast e prea încet în aplicația Podcasturi, activează îmbunătățirea vocii de lângă butonul de viteză și verifică Siguranța căștilor din Sunete și haptică. Dacă ai episodul sau audiobook-ul ca fișier MP3 sau M4A fără DRM, deschide-l în Volume Boost, activează „Îmbunătățește calitatea audio”, amplifică ×3–×8 și salvează copia mai tare în Fișiere.",
+  "intro": [
+    "Interviurile înregistrate la telefon, invitații cu microfon slab și audiobook-urile mai vechi sunt adesea mai încet decât restul a ce asculți. În autobuz sau în mașină, vocea se pierde în zgomot.",
+    "Există două soluții: setări de redare pentru streaming și amplificarea fișierului când îl ai."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Lista de proiecte din Volume Boost cu fișiere MP3 și MP4, dimensiune și durată",
+    "caption": "Păstrează mai multe episoade ca proiecte și revino la ele mai târziu."
+  },
+  "sections": [
+    {
+      "heading": "În aplicația Podcasturi",
+      "paragraphs": [
+        "În timpul redării, atinge butonul de viteză și activează îmbunătățirea vocii. Coboară fundalul și scoate vorbirea în față. Verifică și dacă reducerea sunetelor puternice din Siguranța căștilor nu limitează nivelul."
+      ],
+      "note": "Numele pot varia între versiunile iOS; verifică pe iPhone-ul tău."
+    },
+    {
+      "heading": "Audiobook-uri și fișiere descărcate",
+      "paragraphs": [
+        "Audiobook-urile din Audible, Storytel, Voxa sau Apple Books sunt protejate și nu pot fi deschise ca fișiere. Audiobook-urile MP3 proprii, episoadele din fluxuri RSS și înregistrările fără DRM pot fi amplificate."
+      ]
+    },
+    {
+      "heading": "Ce se potrivește la ce",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "Sursă",
+          "Soluție"
+        ],
+        "rows": [
+          [
+            "Aplicația Podcasturi (streaming)",
+            "Îmbunătățirea vocii, setări căști"
+          ],
+          [
+            "Spotify / Storytel / Voxa",
+            "Setările aplicației respective"
+          ],
+          [
+            "MP3/M4A fără DRM",
+            "Volume Boost, până la 10×"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Amplifică un episod sau un audiobook",
+    "intro": "Pentru fișiere din Fișiere.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Importă fișierul",
+        "text": "Deschide aplicația și alege fișierul MP3 sau M4A în Fișiere."
+      },
+      {
+        "name": "Activează „Îmbunătățește calitatea audio”",
+        "text": "Vocile devin mai clare."
+      },
+      {
+        "name": "Amplifică",
+        "text": "Trage „Multiplicare volum” la ×3–×8 și atinge „Amplifică volumul la ×N”."
+      },
+      {
+        "name": "Salvează",
+        "text": "„Descarcă procesat” → Salvați în Fișiere, și ascultă într-o aplicație care deschide fișiere."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Sfaturi",
+    "items": [
+      "Fișierele lungi durează mai mult; lasă aplicația deschisă până termină.",
+      "Vorbirea suportă o multiplicare mai mare decât muzica.",
+      "Dacă interviul are o voce tare și una încet, alege un nivel la care cea tare nu sună spart."
+    ]
+  },
+  "faq": [
+    {
+      "question": "De ce unele podcasturi sunt mai încet decât altele?",
+      "answer": "Producătorii mixează la niveluri diferite, iar interviurile la telefon sunt adesea încet."
+    },
+    {
+      "question": "Pot face mai tare un audiobook din Storytel cu aplicația?",
+      "answer": "Nu. Audiobook-urile protejate nu pot fi deschise ca fișiere."
+    },
+    {
+      "question": "Ce fișiere funcționează?",
+      "answer": "MP3, M4A și WAV fără DRM din Fișiere."
+    }
+  ],
+  "related": [
+    "cum-maresti-volumul-mp3-pe-iphone",
+    "reportofon-inregistrare-mai-tare",
+    "muzica-se-aude-incet-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "göra röstmemo högre iPhone",
+  "priority": 4,
+  "keywords": "göra röstmemo högre iPhone, Röstmemon för lågt, höja volymen på inspelning, lågt ljud inspelning iPhone, förstärka inspelad föreläsning",
+  "title": "Gör en inspelning i Röstmemon högre på iPhone (upp till 10×)",
+  "description": "«Förbättra inspelning» i Röstmemon gör inte filen högre. Så exporterar du inspelningen, förstärker den upp till 10× och sparar en högre M4A-fil på iPhone.",
+  "h1": "Så gör du en inspelning i Röstmemon högre på iPhone",
+  "eyebrow": "Röstmemon",
+  "card_title": "Röstmemon högre",
+  "card_summary": "«Förbättra inspelning» tar bort brus men höjer inte volymen. Så gör du själva filen högre.",
+  "quick_answer": "Röstmemon har inget volymreglage för själva filen; «Förbättra inspelning» minskar bara brus vid uppspelning. För att göra inspelningen högre: tryck på ⋯ vid inspelningen → Dela → Increase Volume, slå på «Förbättra ljudkvalitet», förstärk ×5–×10, jämför Original och Bearbetad och tryck på «Hämta bearbetad». Den högre M4A-filen kan sparas i Filer eller delas.",
+  "intro": [
+    "Föreläsningar, möten, intervjuer och idéer spelas ofta in med Röstmemon från en telefon som ligger på bordet. Resultatet blir ofta för tyst, särskilt när den som pratar sitter långt bort.",
+    "Den här guiden förklarar vad funktionerna i Röstmemon faktiskt gör och hur du skapar en permanent högre kopia av inspelningen."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Spårinformation i Volymförstärkare med «Förbättra ljudkvalitet» påslaget och reglaget «Volymmultiplikation ×10»",
+    "caption": "För tal: slå på «Förbättra ljudkvalitet» och välj multiplikation."
+  },
+  "sections": [
+    {
+      "heading": "Vad «Förbättra inspelning» gör, och inte gör",
+      "paragraphs": [
+        "I Röstmemon finns redigeringsvalet «Förbättra inspelning» (trollstavssymbolen). Det minskar bakgrundsbrus och eko men höjer inte nivån i filen märkbart. Delar du inspelningen är den lika tyst som förut."
+      ]
+    },
+    {
+      "heading": "Uppspelningsvolym kontra filvolym",
+      "paragraphs": [
+        "Volymknapparna påverkar bara din högtalare. Ska en kollega, en transkriberingstjänst eller ett redigeringsprogram få en tydlig signal måste själva filen bli högre. Det gör Volymförstärkare: den multiplicerar ljudnivån och sparar en ny M4A."
+      ]
+    },
+    {
+      "heading": "Så delar du en inspelning från Röstmemon",
+      "paragraphs": [],
+      "list": [
+        "Öppna Röstmemon och tryck på inspelningen.",
+        "Tryck på ⋯ (Mer) och välj Dela.",
+        "Välj Increase Volume i delningsbladet, eller Spara i Filer för att öppna den senare."
+      ],
+      "ordered": true
+    }
+  ],
+  "steps": {
+    "heading": "Steg för steg: förstärk en inspelning från Röstmemon",
+    "intro": "Under en minut för en inspelning på några minuter.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Dela inspelningen",
+        "text": "Från Röstmemon: ⋯ → Dela → Increase Volume. Appen visar filnamn, storlek och längd."
+      },
+      {
+        "name": "Slå på «Förbättra ljudkvalitet»",
+        "text": "Gör rösten tydligare tillsammans med förstärkningen."
+      },
+      {
+        "name": "Förstärk",
+        "text": "Dra «Volymmultiplikation» till ×5–×10 och tryck på «Boosta volymen till ×N»."
+      },
+      {
+        "name": "Jämför och spara",
+        "text": "Lyssna på Original och Bearbetad, tryck på «Hämta bearbetad» och välj Spara i Filer."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips för tal",
+    "items": [
+      "Lägg telefonen med mikrofonen (nederkanten) mot den som pratar nästa gång; det ger mer än någon förstärkning.",
+      "Applåder eller skratt nära telefonen skapar toppar. Använd ×4–×6 och kontrollera de starkaste partierna.",
+      "En högre fil ger ofta bättre resultat i transkriberingsverktyg."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan jag höja volymen i Röstmemon utan en annan app?",
+      "answer": "Nej. Röstmemon kan klippa, ersätta och förbättra, men har ingen volymförstärkning för filen."
+    },
+    {
+      "question": "Vilket format får den förstärkta filen?",
+      "answer": "Ljudfiler sparas som en ny ljudfil (M4A för inspelningar från Röstmemon) som kan sparas i Filer eller delas."
+    },
+    {
+      "question": "Blir bakgrundsbruset också högre?",
+      "answer": "Ja, allt i inspelningen förstärks. «Förbättra ljudkvalitet» hjälper rösten att sticka ut."
+    }
+  ],
+  "related": [
+    "whatsapp-rostmeddelande-for-lagt",
+    "podd-ljudbok-for-lag-iphone",
+    "gor-mp3-hogre-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

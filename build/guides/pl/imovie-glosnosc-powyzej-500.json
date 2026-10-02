@@ -1,0 +1,120 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie głośność powyżej 500%",
+  "priority": 11,
+  "keywords": "iMovie głośność powyżej 500%, iMovie głośniejszy dźwięk, limit głośności iMovie, zwiększyć głośność w iMovie iPhone, iMovie za cicho",
+  "title": "iMovie kończy się na 500%? Jak zrobić film głośniejszy",
+  "description": "Suwak głośności w iMovie na iPhonie zatrzymuje się na ok. 500%. Jak zgłośnić klip do 1000% (10×) w Volume Boost przed iMovie albo po eksporcie z niego.",
+  "h1": "Głośność w iMovie powyżej 500%: jak ominąć limit",
+  "eyebrow": "iMovie",
+  "card_title": "iMovie powyżej 500%",
+  "card_summary": "iMovie kończy się na ok. 5×. Wzmocnij klip do 10×, zanim trafi do projektu.",
+  "quick_answer": "W iMovie na iPhonie suwak głośności zatrzymuje się na ok. 500% (5×). Aby uzyskać więcej, najpierw wzmocnij klip w Volume Boost (Udostępnij → Increase Volume, do ×10), zachowaj go w Zdjęciach i zaimportuj głośniejszą kopię do iMovie. Albo pomiń iMovie: aplikacja otwiera też same pliki audio i zapisuje bez projektu i eksportu.",
+  "intro": [
+    "iMovie jest bezpłatne i świetne do cięcia, ale głośność ma sufit. Gdy 500% to za mało, najczęstszy trik to zduplikowanie ścieżki dźwiękowej, czego iMovie na iPhonie nie ułatwia.",
+    "Oto szybsza droga."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Suwak „Mnożnik głośności ×10” i przycisk „Wzmocnij głośność do ×10” w Volume Boost",
+    "caption": "Volume Boost dochodzi do ×10, dwa razy wyżej niż limit iMovie."
+  },
+  "sections": [
+    {
+      "heading": "iMovie a Volume Boost",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Volume Boost"
+        ],
+        "rows": [
+          [
+            "Maks. głośność",
+            "ok. 500% (5×)",
+            "1000% (10×)"
+          ],
+          [
+            "Pliki audio (MP3, M4A)",
+            "Nie",
+            "Tak"
+          ],
+          [
+            "Projekt i eksport",
+            "Wymagane",
+            "Nie, jeden suwak"
+          ],
+          [
+            "Odsłuch przed zapisem",
+            "Na osi czasu",
+            "Oryginał/Przetworzony"
+          ],
+          [
+            "Cena",
+            "Bezpłatnie",
+            "Bezpłatne pobranie, subskrypcja"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Połącz je",
+      "paragraphs": [
+        "Użyj Volume Boost do poziomu, a iMovie do montażu. Wzmocnij surowy klip np. do ×8, zaimportuj go do iMovie i montuj dalej. Nie musisz wtedy ciągnąć suwaka iMovie do maksimum."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Przekrocz 500%",
+    "intro": "Zanim dodasz klip do iMovie.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Udostępnij klip aplikacji",
+        "text": "W Zdjęciach: Udostępnij → Increase Volume."
+      },
+      {
+        "name": "Wzmocnij",
+        "text": "Przesuń „Mnożnik głośności” do ×6–×10 i stuknij „Wzmocnij głośność do ×N”."
+      },
+      {
+        "name": "Zachowaj",
+        "text": "„Pobierz przetworzony” → Zachowaj wideo."
+      },
+      {
+        "name": "Zaimportuj do iMovie",
+        "text": "Dodaj głośniejszą kopię do projektu iMovie i montuj dalej."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Wskazówki",
+    "items": [
+      "Wzmacniaj przed montażem; ponowny eksport z iMovie zajmuje czas.",
+      "Jeśli już wyeksportowałeś film z iMovie, wzmocnij wyeksportowany plik.",
+      "Dla mowy włącz „Popraw jakość dźwięku”."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Jaka jest maksymalna głośność w iMovie na iPhonie?",
+      "answer": "Około 500% (5×) na klip."
+    },
+    {
+      "question": "Czy mogę zgłośnić klip powyżej 500% w iMovie?",
+      "answer": "Nie bezpośrednio. Najpierw wzmocnij klip w Volume Boost i zaimportuj głośniejszą kopię."
+    },
+    {
+      "question": "Czy Volume Boost otwiera projekty iMovie?",
+      "answer": "Nie, ale otwiera filmy wyeksportowane z iMovie."
+    }
+  ],
+  "related": [
+    "jak-zwiekszyc-glosnosc-filmu-iphone",
+    "glosniej-bez-utraty-jakosci",
+    "glosnosc-filmu-w-aplikacji-zdjecia"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

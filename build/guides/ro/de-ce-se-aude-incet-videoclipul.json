@@ -1,0 +1,105 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "de ce se aude încet videoclipul pe iPhone",
+  "priority": 7,
+  "keywords": "de ce se aude încet videoclipul pe iPhone, video cu sunet încet iPhone, video fără sunet iPhone, difuzor iPhone încet, sunet video încet",
+  "title": "De ce se aude atât de încet videoclipul pe iPhone? 7 cauze",
+  "description": "Videoclip cu sunet încet pe iPhone? Află dacă e de vină redarea (sunet oprit, Bluetooth, căști) sau chiar înregistrarea și cum rezolvi fiecare caz în parte.",
+  "h1": "De ce se aude atât de încet videoclipul meu pe iPhone?",
+  "eyebrow": "Depanare",
+  "card_title": "De ce se aude încet?",
+  "card_summary": "Șapte cauze ale sunetului încet: patru la redare, trei în înregistrare, și soluția pentru fiecare.",
+  "quick_answer": "Dacă toate videoclipurile se aud încet, problema e redarea: verifică dacă sunetul videoclipului nu e oprit, dacă nu e conectat Bluetooth, Siguranța căștilor din Sunete și haptică și dacă difuzorul e curat. Dacă doar un videoclip e încet, problema e înregistrarea: persoana era departe, microfonul era acoperit sau sunetul s-a înregistrat încet. Atunci faci fișierul mai tare cu Volume Boost, de până la 10×.",
+  "intro": [
+    "„De ce se aude videoclipul atât de încet?” are două răspunsuri și merită să știi care e al tău înainte să schimbi ceva. Test: redă alt videoclip. Dacă și el e încet, e telefonul. Dacă sună normal, e fișierul.",
+    "Iată cele șapte cauze cele mai frecvente, împărțite în aceste două grupuri."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/1.webp",
+    "alt": "Imagine promoțională Volume Boost: amplificator de volum și de sunet, de până la zece ori mai tare",
+    "caption": "Când înregistrarea în sine e încet, aplicația face fișierul de până la 10× mai tare."
+  },
+  "sections": [
+    {
+      "id": "redare",
+      "heading": "Cauze la redare (toate videoclipurile încet)",
+      "paragraphs": [],
+      "list": [
+        "Sunetul videoclipului e oprit: atinge pictograma difuzorului în playerul din Poze.",
+        "Sunetul merge pe Bluetooth: AirPods sau boxa mașinii pot fi conectate; verifică ieșirea audio în Centrul de control.",
+        "Siguranța căștilor: Configurări › Sunete și haptică › Siguranța căștilor › Reduceți sunetele puternice limitează nivelul.",
+        "Difuzor înfundat: praful sau scamele din grilă înăbușă sunetul; curăță cu o perie moale și uscată."
+      ],
+      "ordered": true,
+      "note": "Nicio aplicație nu poate depăși limita fizică a difuzorului și nici nu poate schimba volumul întregului sistem."
+    },
+    {
+      "heading": "Cauze în înregistrare (un singur videoclip încet)",
+      "paragraphs": [],
+      "list": [
+        "Distanța: cel care vorbea era departe de microfon.",
+        "Microfon acoperit: o husă, un deget sau un buzunar au înăbușit sunetul.",
+        "Înregistrare ecran sau descărcare: iOS sau aplicația sursă a livrat sunetul la nivel scăzut."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Soluția când înregistrarea e încet",
+      "paragraphs": [
+        "Nu poți da mai tare ceva ce nu s-a înregistrat suficient de tare, dar poți crește nivelul în fișier. Volume Boost înmulțește pista audio de până la 10× și salvează un videoclip nou. Se aude tare oriunde, inclusiv la cei cărora îl trimiți."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Fă un videoclip încet mai tare",
+    "intro": "Când testul a arătat că problema e fișierul.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Partajează videoclipul cu aplicația",
+        "text": "Deschide videoclipul în Poze → Partajați → Increase Volume."
+      },
+      {
+        "name": "Amplifică",
+        "text": "Trage „Multiplicare volum” (×3–×10) și atinge „Amplifică volumul la ×N”."
+      },
+      {
+        "name": "Compară",
+        "text": "Ascultă cu Original/Procesat; scade dacă sună spart."
+      },
+      {
+        "name": "Salvează",
+        "text": "Atinge „Descarcă procesat” → Salvați video."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Cum eviți videoclipurile încet",
+    "items": [
+      "Ține degetele departe de găurile microfonului de jos și de lângă cameră.",
+      "Apropie-te de cel care vorbește; distanța scade nivelul repede.",
+      "Fă o înregistrare de probă de cinci secunde înainte de momentul important."
+    ]
+  },
+  "faq": [
+    {
+      "question": "De ce videoclipul meu nu are deloc sunet?",
+      "answer": "Verifică dacă sunetul nu a fost oprit la editare în Poze și dacă niciun dispozitiv Bluetooth nu preia sunetul. Dacă înregistrarea nu are pistă audio, nu poate fi amplificată."
+    },
+    {
+      "question": "Face aplicația difuzorul iPhone-ului mai tare?",
+      "answer": "Nu. Face fișierul mai tare. Maximul difuzorului e fizic și nicio aplicație nu îl depășește."
+    },
+    {
+      "question": "De ce videoclipurile primite de la alții sunt încet?",
+      "answer": "Au fost înregistrate sau exportate încet. Amplifică fișierul și se va auzi tare."
+    }
+  ],
+  "related": [
+    "cum-maresti-volumul-unui-videoclip-pe-iphone",
+    "inregistrare-ecran-sunet-incet-iphone",
+    "volum-videoclip-din-aplicatia-poze"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

@@ -1,0 +1,103 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "mahina ang voice message",
+  "priority": 3,
+  "keywords": "mahina ang voice message, mahina ang voice message sa Messenger, WhatsApp voice message mahina, lakasan ang voice message iPhone, Viber voice message mahina",
+  "title": "Mahina ang voice message sa iPhone? Ganito ito lakasan",
+  "description": "Mahinang voice message sa Messenger, WhatsApp o Viber? I-check muna ang earpiece, tapos i-export ang message at lakasan ng hanggang 10× sa Increase Volume.",
+  "h1": "Mahina ang voice message sa iPhone: paano ito lakasan",
+  "eyebrow": "Messenger at WhatsApp",
+  "card_title": "Lakasan ang mahinang voice message",
+  "card_summary": "Dalawang magkaibang problema: earpiece o talagang mahinang recording. Ayusin pareho.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Kung lahat ng voice message ay mahina, malamang sa earpiece tumutunog ang iPhone dahil natakpan ang proximity sensor; ilayo ang phone sa mukha at pindutin ang volume up habang tumutugtog. Kung isang partikular na message lang ang mahina, i-export ito (WhatsApp: long press → Forward → Share → Save to Files o diretso sa Increase Volume), i-boost ng ×5–×10 na naka-on ang «Improve Audio Quality», at i-save o i-forward ang mas malakas na kopya.",
+  "intro": [
+    "Dalawang magkaibang dahilan kung bakit mahirap marinig ang voice message, at magkaiba ang solusyon nila. Una: tahimik na lumilipat ang iPhone sa earpiece. Pangalawa: malayo sa mic o maingay ang lugar ng nag-record, kaya talagang mahina ang message. Sampung segundo lang para i-check ang una, isang minuto para ayusin ang pangalawa.",
+    "Gumagana ito sa WhatsApp, Viber, Telegram at iMessage. Sa Messenger, may espesyal na paraan sa ibaba."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "iOS share sheet sa Increase Volume na may Save to Files at mga option sa pag-share ng boosted na voice message",
+    "caption": "Puwedeng i-save sa Files o ibalik diretso sa chat ang boosted na voice message."
+  },
+  "sections": [
+    {
+      "heading": "Ayos 1: sa earpiece tumutunog",
+      "paragraphs": [
+        "Lumilipat sa earpiece (ang maliit na speaker para sa tawag) ang playback ng WhatsApp at Messenger kapag natakpan ang proximity sensor malapit sa front camera. Isang daliri, gilid ng case, o pag-angat ng phone sa mukha, biglang parang bulong na ang message. Alisin ang takip sa sensor, ilayo ang phone, at pindutin ang volume up *habang tumutugtog ang message*; may sariling volume ang earpiece sa iOS na posibleng nakababa.",
+        "I-check din na hindi napupunta sa earbuds sa bulsa ang tunog dahil sa Bluetooth, at na hindi nililimitahan ng Settings › Sounds & Haptics › Headphone Safety › Reduce Loud Audio ang volume ng headphones."
+      ]
+    },
+    {
+      "heading": "Ayos 2: mahina talaga ang message",
+      "paragraphs": [
+        "Kung ayos ang ibang message at ito lang ang mahina, mahina ang recording mismo. Walang volume control para sa natanggap na voice message, at hindi lumalampas ng 100% ang volume buttons. Kailangan mong lakasan ang file mismo. Puwedeng i-export ang voice message bilang audio file sa WhatsApp, Viber at Telegram, at kaya itong i-multiply ng Increase Volume hanggang ×10 at bigyan ka ng bagong kopya."
+      ]
+    },
+    {
+      "heading": "Paano i-export ang voice message",
+      "list": [
+        "WhatsApp: long press sa voice message → Forward → Share icon (kaliwa sa ibaba) → piliin ang Increase Volume o Save to Files.",
+        "Viber: long press → Share (kung meron) → Save to Files o Increase Volume.",
+        "Telegram: long press → Forward o Share → Save to Files o i-share sa Increase Volume.",
+        "iMessage audio: long press → Save (mapupunta sa Voice Memos), tapos i-share mula roon.",
+        "Messenger: kadalasang walang option na i-save bilang file ang voice message. Ang workaround: i-screen record habang tumutugtog ang message, tapos i-boost ang screen recording na parang video."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: lakasan ang voice message",
+    "intro": "Mga isang minuto gamit ang libreng Increase Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "I-export ang voice message",
+        "text": "Sa WhatsApp: long press → Forward → Share icon → Increase Volume. (O Save to Files tapos idagdag sa app.) Sa Messenger: i-screen record habang nagpe-play."
+      },
+      {
+        "name": "I-on ang Improve Audio Quality",
+        "text": "Boses ang voice message; nakakatulong ang toggle para malinaw pa rin ang salita pagkatapos ng boost."
+      },
+      {
+        "name": "I-boost",
+        "text": "I-set ang «Volume multiplication» sa ×5 bilang simula, ×8–×10 kung sobrang hina, at i-tap ang «Boost Volume»."
+      },
+      {
+        "name": "Ikumpara",
+        "text": "Magpalit sa Orihinal at Na-process. Kung may lagutok ang pinakamalakas na salita, bawasan ang multiplier."
+      },
+      {
+        "name": "I-save o i-forward",
+        "text": "I-tap ang «Download Processed». I-save sa Files, o i-share ang mas malakas na kopya pabalik sa chat para marinig ng buong group."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Pakiusapan ang madalas mag-send na ilapit ang phone sa bibig; wala nang mas epektibo sa pag-ayos mula sa source.",
+      "Kung madalas kang mag-save ng voice messages, ilagay ang boosted na kopya sa isang folder sa Files; hindi nabu-browse ang sariling media folder ng WhatsApp.",
+      "Sa sarili mong voice message, pareho ang trick: mag-record, i-share sa Increase Volume, i-boost, at ipadala ang boosted file bilang document o audio."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bakit humihina ang voice message pag nilapit ko sa tenga?",
+      "answer": "Sinasadya ito: kapag natakpan ang proximity sensor, sa earpiece nagpe-play ang WhatsApp at Messenger para sa privacy. Lakasan ang earpiece gamit ang volume buttons habang tumutugtog, o ilayo ang phone para gamitin ang speaker."
+    },
+    {
+      "question": "Puwede bang lakasan ang voice message sa loob mismo ng WhatsApp o Messenger?",
+      "answer": "Hindi. May playback speed sila (1×, 1.5×, 2×) pero walang volume boost. I-export ang message (o i-screen record sa Messenger) at i-boost gamit ang Increase Volume."
+    },
+    {
+      "question": "Gumagana ba ito sa Viber at Telegram?",
+      "answer": "Oo, sa kahit anong app na kayang mag-share o mag-save ng audio file. Puwedeng ibalik ang boosted file sa parehong app."
+    }
+  ],
+  "related": [
+    "paano-lakasan-ang-voice-memo-sa-iphone",
+    "paano-lakasan-ang-mp3-sa-iphone",
+    "bakit-mahina-ang-tunog-ng-video-sa-iphone"
+  ]
+}

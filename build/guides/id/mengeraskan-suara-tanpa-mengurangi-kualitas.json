@@ -1,0 +1,140 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "mengeraskan suara tanpa mengurangi kualitas",
+  "priority": 10,
+  "keywords": "mengeraskan suara tanpa mengurangi kualitas, mengeraskan suara tanpa distorsi, suara pecah saat dikeraskan, menaikkan volume tanpa clipping, kualitas turun saat volume dinaikkan",
+  "title": "Cara Mengeraskan Suara Video Tanpa Mengurangi Kualitas",
+  "description": "Penguatan berlebihan membuat suara pecah. Pahami apa yang terjadi saat volume dinaikkan, batas amannya, dan cara mengecek hasil dengan Asli/Diproses dulu.",
+  "h1": "Cara mengeraskan suara video tanpa mengurangi kualitas",
+  "eyebrow": "Kualitas",
+  "card_title": "Mengeraskan tanpa distorsi",
+  "card_summary": "Apa itu clipping, berapa ruang yang dimiliki rekaman pelan, dan cara mengeceknya sebelum menyimpan.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Mengeraskan suara tidak menyentuh gambar dan tidak merusak audio selama puncak paling keras tetap di bawah batas digital. Di iPhone, buka video di Penguat Volume, mulai dari ×3, ketuk «Boost volume», dan dengarkan momen paling keras dengan pengalih Asli/Diproses. Naikkan pengali sampai terdengar jelas keras tetapi tidak kasar. Untuk suara bicara, aktifkan «Tingkatkan Kualitas Audio», lalu simpan dengan «Unduh yang diproses». File asli tidak pernah diubah.",
+  "intro": [
+    "„Nanti suaranya pecah, nggak?” adalah pertanyaan pertama semua orang tentang penguat volume, dan memang itu pertanyaan yang tepat. Mengeraskan berarti mengalikan: setiap sampel audio jadi lebih besar. Jika yang terbesar mencapai nilai maksimum yang diizinkan format, sampel itu terpotong rata dan Anda mendengar suara retak atau kasar di bagian keras. Itulah clipping, dan itu satu-satunya risiko nyata bagi kualitas.",
+    "Kabar baiknya: rekaman yang *pelan*, menurut definisinya, punya banyak ruang sampai batas itu. Panduan ini menjelaskan cara memanfaatkannya dan mengecek hasil sebelum menyimpan."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "Tangkapan layar „Hear processed result”: layar hasil Penguat Volume dengan tombol Unduh yang diproses dan pengalih Asli/Diproses",
+    "caption": "Selalu bandingkan bagian paling keras dengan Asli/Diproses sebelum mengunduh."
+  },
+  "sections": [
+    {
+      "heading": "Apa yang sebenarnya berubah saat suara dikeraskan",
+      "paragraphs": [
+        "Hanya trek audio yang diproses. Video lewat tanpa perubahan, jadi resolusi, frame rate, dan warna tetap sama persis. Pada audio, pengali ×2 menggandakan amplitudo (sekitar +6 dB), ×4 sekitar +12 dB, dan ×10 adalah +20 dB. Bising rekaman (dengung ruangan, angin) ikut dikalikan, sehingga penguatan sangat besar pada rekaman bising bisa terdengar mendesis meski tidak ada yang terpotong."
+      ]
+    },
+    {
+      "heading": "Berapa penguatan yang aman?",
+      "paragraphs": [
+        "Tergantung seberapa jauh momen paling keras dari batas, bukan seberapa pelan *rata-ratanya*. Rekaman yang terdengar sangat pelan tetapi ada bantingan pintu di level maksimal tidak tahan banyak penguatan sebelum bantingan itu terpotong. Rekaman yang pelan dan rata, seperti kuliah dari barisan belakang, sering tahan ×8–×10 dengan bersih."
+      ],
+      "table": {
+        "head": [
+          "Rekaman",
+          "Rentang aman umum",
+          "Catatan"
+        ],
+        "rows": [
+          [
+            "Memo Suara atau kuliah dari jauh",
+            "×5 – ×10",
+            "Aktifkan Tingkatkan Kualitas Audio untuk suara bicara."
+          ],
+          [
+            "Video ponsel yang hanya sedikit pelan",
+            "×2 – ×4",
+            "Cek tawa atau tepuk tangan paling keras."
+          ],
+          [
+            "Rekaman layar",
+            "×5 – ×10",
+            "Sering jauh di bawah level normal."
+          ],
+          [
+            "Musik dengan verse pelan dan reff keras",
+            "×1,5 – ×3",
+            "Reff yang menentukan batasnya."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Gunakan pengecekan Asli/Diproses",
+      "paragraphs": [
+        "Penguat Volume memproses file dan menampilkan pengalih Asli/Diproses sebelum menyimpan apa pun. Cari momen paling keras dan beralih di antara keduanya. Jika Diproses terdengar kasar atau berderak di sana, turunkan pengali satu tingkat dan perkuat ulang. Karena aplikasi membuat file baru, Anda bebas bereksperimen; file asli tidak tersentuh."
+      ]
+    },
+    {
+      "heading": "Tingkatkan Kualitas Audio: kapan diaktifkan",
+      "paragraphs": [
+        "Opsi «Tingkatkan Kualitas Audio» menambahkan pemrosesan yang berfokus pada kejelasan dan paling membantu untuk suara bicara: wawancara, kuliah, voice note, tutorial rekaman layar. Untuk musik, coba kedua pengaturan dan pilih yang paling alami. Di versi saat ini opsi ini ditandai eksperimental, jadi selalu dengarkan hasilnya."
+      ]
+    },
+    {
+      "id": "privasi",
+      "heading": "Privasi: semuanya tetap di ponsel Anda",
+      "paragraphs": [
+        "Penguat Volume memproses file di iPhone. Tidak ada yang diunggah, tidak perlu akun, dan hasilnya disimpan lewat lembar berbagi iOS biasa ke Foto, File, atau aplikasi pilihan Anda. Penguat online mengharuskan file dikirim ke server dan sering meng-encode ulang dengan kualitas lebih rendah; aplikasi lokal menghindari keduanya."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: penguatan yang bersih",
+    "intro": "Alur yang sama untuk video dan audio.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Buka file di aplikasi",
+        "text": "Tambahkan dari Foto atau File, atau bagikan ke aplikasi dari mana saja."
+      },
+      {
+        "name": "Tentukan Tingkatkan Kualitas Audio",
+        "text": "Aktif untuk suara bicara; untuk musik, coba keduanya."
+      },
+      {
+        "name": "Mulai dengan sedang",
+        "text": "Atur «Pengali volume» ke ×3 dan ketuk «Boost volume»."
+      },
+      {
+        "name": "Cek momen paling keras",
+        "text": "Beralih antara Asli/Diproses di bagian paling keras. Bersih? Naikkan pengali dan ulangi. Kasar? Turunkan."
+      },
+      {
+        "name": "Simpan",
+        "text": "Ketuk «Unduh yang diproses» dan simpan ke Foto atau File. File asli tetap utuh."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Cek dengan headphone; speaker ponsel menyamarkan clipping ringan.",
+      "Pada file yang bising, pengali sedikit lebih rendah dengan «Tingkatkan Kualitas Audio» sering terdengar lebih baik daripada maksimal.",
+      "Perkuat sekali, dari file asli. Memperkuat ulang ekspor yang sudah diperkuat menumpuk cacatnya."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Apakah mengeraskan suara menurunkan resolusi video?",
+      "answer": "Tidak. Hanya audio yang diproses. Video mempertahankan resolusi, frame rate, dan bitrate-nya."
+    },
+    {
+      "question": "Seperti apa bunyi distorsi akibat penguatan berlebih?",
+      "answer": "Seperti berderak, berdengung, atau kasar hanya di momen paling keras, sementara bagian pelan terdengar baik. Jika Anda mendengarnya, turunkan pengali."
+    },
+    {
+      "question": "Apakah ×10 terlalu besar?",
+      "answer": "Tidak untuk rekaman yang benar-benar pelan, seperti Memo Suara dari jauh atau rekaman layar. Untuk video ponsel biasa, ×2–×4 sering sudah cukup. Biarkan pengecekan Asli/Diproses yang menentukan."
+    }
+  ],
+  "related": [
+    "cara-mengeraskan-suara-video-di-iphone",
+    "mengeraskan-memo-suara-iphone",
+    "kenapa-suara-video-pelan"
+  ]
+}

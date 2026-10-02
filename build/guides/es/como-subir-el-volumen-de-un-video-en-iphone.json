@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "cómo subir el volumen de un vídeo en iPhone",
+  "priority": 1,
+  "keywords": "subir volumen video iPhone, aumentar volumen de un vídeo, vídeo se escucha bajo, subir volumen video, amplificador de volumen video",
+  "title": "Cómo subir el volumen de un vídeo en iPhone (hasta 10×)",
+  "description": "Sube el volumen de un vídeo bajo en iPhone en menos de un minuto: qué hacen Fotos e iMovie, dónde se quedan cortos y cómo llegar a 10× con Aumentar Volumen.",
+  "h1": "Cómo subir el volumen de un vídeo en iPhone",
+  "eyebrow": "Vídeo",
+  "card_title": "Subir el volumen de un vídeo",
+  "card_summary": "Fotos no sube el volumen e iMovie se queda en un 500 %. Así llegas a 10× con un solo deslizador.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Para subir el volumen de un vídeo en iPhone, ábrelo en Aumentar Volumen (Increase Volume, gratis en la App Store), arrastra el deslizador «Multiplicación del volumen» hasta ×10, toca «Potenciar volumen», compara Original y Procesado y toca «Descargar procesado». La copia más alta se guarda en Fotos o Archivos y suena fuerte en cualquier dispositivo y app. La app Fotos no tiene forma de subir el volumen e iMovie se queda en torno al 500 %.",
+  "intro": [
+    "Grabas un momento, se lo mandas a un amigo y te responde: «No se oye nada». El vídeo con sonido bajo es de los problemas más habituales del iPhone, porque la solución no está donde la gente la busca. Los botones de volumen solo cambian lo alto que suena tu teléfono, y el editor de Fotos no tiene ningún control de volumen.",
+    "Esta guía repasa las tres opciones reales en iPhone, qué puede y qué no puede hacer cada una, y después el método más rápido: multiplicar el audio del vídeo hasta 10× con Aumentar Volumen y guardar un archivo más alto de forma permanente."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/es/2.webp",
+    "alt": "Captura «Aumenta el volumen de un vídeo»: un dedo arrastra el deslizador rosa sobre un vídeo en Aumentar Volumen",
+    "caption": "El deslizador está encima de la vista previa del vídeo. Arrastra, escucha y guarda."
+  },
+  "sections": [
+    {
+      "heading": "Por qué subir el volumen del móvil no arregla un vídeo",
+      "paragraphs": [
+        "Los botones de volumen del iPhone cambian lo alto que suena *tu* altavoz. No cambian el audio que hay dentro del archivo de vídeo. Cuando compartes el archivo, el teléfono de quien lo recibe lo reproduce al nivel original, bajo. Para arreglarlo de verdad hay que subir el nivel de la propia pista de audio y guardar un archivo nuevo. Eso es justo lo que hace un amplificador de volumen para vídeo."
+      ]
+    },
+    {
+      "heading": "Opción 1: la app Fotos (no sube el volumen)",
+      "paragraphs": [
+        "Abre el vídeo en Fotos y toca Editar. Verás un icono de altavoz que solo silencia el clip y, en iPhone 16 o posterior con vídeos grabados con audio espacial, la función Audio Mix, que cambia el equilibrio entre voces y ruido de fondo. Ninguna de las dos sube el volumen general. Si toda la grabación está baja, Fotos no te ayuda."
+      ]
+    },
+    {
+      "heading": "Opción 2: iMovie (gratis, límite de un 500 %)",
+      "paragraphs": [
+        "iMovie puede subir el volumen de un clip: crea un proyecto de película, añade el vídeo, toca el clip, toca el icono del altavoz y arrastra el deslizador a la derecha. Hay dos límites. El deslizador se para en torno al 500 % (5×), que muchas veces no basta para algo grabado desde el otro lado de una sala. Y tienes que crear un proyecto y volver a exportar todo el vídeo, lo que en un clip largo tarda varios minutos."
+      ],
+      "list": [
+        "Abre iMovie → Iniciar proyecto nuevo → Película y elige el vídeo.",
+        "Toca el clip en la línea de tiempo, toca el icono del altavoz y arrastra el deslizador de volumen a la derecha (máximo, en torno al 500 %).",
+        "Toca OK → Compartir → Guardar vídeo y espera a que termine la exportación."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Opción 3: Aumentar Volumen (hasta 10×, un deslizador, menos de un minuto)",
+      "paragraphs": [
+        "Aumentar Volumen está hecha justo para esto. Abre cualquier vídeo de Fotos o Archivos, muestra un único deslizador «Multiplicación del volumen» que llega a ×10 (1000 %), te deja comparar Original y Procesado antes de guardar y guarda el resultado con la hoja de compartir normal de iOS. También abre archivos solo de audio, como MP3 y notas de voz, que iMovie no abre.",
+        "El procesamiento se hace en el iPhone. No se sube nada, no hace falta cuenta y el vídeo exportado no lleva marca de agua."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Paso a paso: subir el volumen de un vídeo con Aumentar Volumen",
+    "intro": "Tarda más o menos un minuto en un clip normal. Necesitas la app gratuita de la App Store y el vídeo en Fotos o Archivos.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Abre el vídeo en Aumentar Volumen",
+        "text": "Abre la app y añade el vídeo desde Fotos o Archivos. Más rápido: abre el vídeo en Fotos, toca Compartir y elige Increase Volume; el proyecto se crea al momento."
+      },
+      {
+        "name": "Revisa los detalles",
+        "text": "La app muestra el nombre del archivo, el tamaño y la duración para que confirmes que es el clip correcto. Si es sobre todo voz, activa «Mejorar calidad de audio»."
+      },
+      {
+        "name": "Elige el aumento",
+        "text": "Arrastra «Multiplicación del volumen». Empieza en ×3 a ×5 si el vídeo solo está algo bajo; sube a ×10 si casi no se oye. Toca «Potenciar volumen a ×N»."
+      },
+      {
+        "name": "Compara Original y Procesado",
+        "text": "Usa el selector bajo el botón para alternar entre el original y la versión potenciada. Si las partes fuertes suenan ásperas, vuelve y baja un paso el multiplicador."
+      },
+      {
+        "name": "Descarga y comparte",
+        "text": "Toca «Descargar procesado». En la hoja de compartir elige Guardar vídeo para dejar la copia más alta en Fotos, Guardar en Archivos, o envíala directamente por Mensajes, WhatsApp, AirDrop o TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consejos para el mejor resultado",
+    "items": [
+      "Sube el volumen *antes* de publicar en TikTok, Instagram o YouTube. Las plataformas igualan el volumen al subir el vídeo, pero no rescatan una pista que llega demasiado baja.",
+      "Si el clip tiene un momento fuerte (una risa, un portazo) y voz baja alrededor, usa un multiplicador moderado (×3–×5) y activa «Mejorar calidad de audio» en lugar de ir a ×10.",
+      "El original no se toca. La app siempre crea un archivo nuevo, así que puedes probar varios niveles.",
+      "Un vídeo grabado con el micrófono tapado (funda, dedo) suena bajo *y* apagado; el aumento corrige el nivel, no el sonido apagado."
+    ]
+  },
+  "faq": [
+    {
+      "question": "¿Se puede subir el volumen de un vídeo en iPhone sin app?",
+      "answer": "Solo con iMovie, que Apple ofrece gratis y que sube el volumen del clip hasta un 500 % aproximadamente. La app Fotos no puede subir el volumen. Para más de 5× o un proceso más rápido, usa Aumentar Volumen."
+    },
+    {
+      "question": "¿Pierde calidad un vídeo al subirle el volumen?",
+      "answer": "La imagen no cambia nada. El audio se multiplica; si fuerzas demasiado una grabación que ya tiene picos fuertes, puede saturarse y sonar áspera. Por eso la app tiene el selector Original/Procesado, para escucharlo antes de guardar."
+    },
+    {
+      "question": "¿El vídeo sigue sonando alto cuando lo envío?",
+      "answer": "Sí. El aumento queda escrito en la pista de audio del archivo, así que suena al nuevo nivel en cualquier móvil, ordenador o red social."
+    },
+    {
+      "question": "¿Funciona con vídeos descargados?",
+      "answer": "Sí, siempre que el archivo esté en Fotos o Archivos y no tenga protección anticopia. La app abre archivos MP4 y MOV de cualquier origen."
+    }
+  ],
+  "related": [
+    "subir-volumen-sin-perder-calidad",
+    "grabacion-de-pantalla-se-escucha-bajo-iphone",
+    "imovie-volumen-mas-de-500"
+  ],
+  "cta": {
+    "title": "Sube el volumen de tu vídeo ahora",
+    "text": "Aumentar Volumen es gratis en la App Store. Comparte el vídeo con la app, desliza hasta ×10 y toca «Descargar procesado»."
+  }
+}

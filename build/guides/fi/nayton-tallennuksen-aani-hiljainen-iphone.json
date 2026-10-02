@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "näytön tallennus ääni hiljainen",
+  "priority": 2,
+  "keywords": "näytön tallennus ääni hiljainen, näyttötallenne hiljainen iPhone, näytön tallennus ilman ääntä, näytön tallennus äänen kanssa, näyttötallenne kovemmaksi",
+  "title": "Näytön tallennuksen ääni hiljainen iPhonessa? Näin korjaat",
+  "description": "iPhonen näyttötallenteet jäävät usein hiljaisiksi. Katso miksi, miten tallennat kovemmin ja miten tehostat valmiin tallenteen jopa 10× Increase Volumella.",
+  "h1": "Näytön tallennuksen ääni hiljainen iPhonessa: näin saat sen kovemmaksi",
+  "eyebrow": "Näytön tallennus",
+  "card_title": "Näyttötallenne kovemmaksi",
+  "card_summary": "iOS tallentaa sovellusten äänen hiljaa. Korjaa valmis tallenne minuutissa ja tallenna ensi kerralla kovemmin.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Valmista näyttötallennetta ei saa kovemmaksi järjestelmäasetuksilla, mutta voit tehostaa tiedoston: avaa se Increase Volumessa, vedä ”Äänenvoimakkuuden kertoja” ×5–×10:een, napauta ”Tehosta äänenvoimakkuutta”, kuuntele Käsitelty-versio ja napauta ”Lataa käsitelty”. Jotta seuraava tallenne olisi kovempi: nosta median äänenvoimakkuutta ennen aloitusta, irrota Bluetooth-kuulokkeet ja selostusta varten pidä Ohjauskeskuksen Näytön tallennus -painiketta painettuna ja laita mikrofoni päälle.",
+  "intro": [
+    "Näyttötallenteet ovat useimpien iPhonejen hiljaisimpia videoita. iOS tallentaa sovellusten äänen varovaisella tasolla säröjen välttämiseksi, ja jos kuulokkeet olivat yhdistettyinä tai sovelluksen oma äänenvoimakkuus oli pieni, tallentunut raita voi olla lähes äänetön. Jos lisäksi selostat mikrofoniin, miksaus on vielä epätasaisempi.",
+    "Alla: miksi tallenteesi on hiljainen, mitä muuttaa ennen seuraavaa ja miten pelastat jo olemassa olevan."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Increase Volume iPhonella: Äänenvoimakkuuden kertoja ×10 -liukusäädin ja Tehosta äänenvoimakkuutta -painike",
+    "caption": "Näyttötallenteet tarvitsevat yleensä reilun tehostuksen; ×5–×10 on tavallista."
+  },
+  "sections": [
+    {
+      "heading": "Miksi iPhonen näyttötallenteet ovat niin hiljaisia",
+      "paragraphs": [
+        "Lähes aina syy on jokin näistä neljästä:"
+      ],
+      "list": [
+        "Tallennustaso: iOS tallentaa sovellusten sisäisen äänen alennetulla tasolla, jotta kovat pelit ja videot eivät säröisi.",
+        "Bluetooth: kun AirPodsit tai Bluetooth-kaiutin on yhdistetty, tallentunut ääni on usein paljon hiljaisempi tai puuttuu kokonaan.",
+        "Sovelluksen äänenvoimakkuus: tallenne nappaa äänen sillä voimakkuudella, joka sinulla oli. Jos puhelin oli 30 %:ssa, tallenne on 30 %:ssa.",
+        "Miksaus mikrofonin kanssa: kun mikrofoni on päällä, äänesi miksataan sovelluksen ääneen ja iOS hiljentää sovelluksen ääntä."
+      ]
+    },
+    {
+      "heading": "Tallenna kovemmin ensi kerralla",
+      "paragraphs": [
+        "Ennen kuin painat tallennusta: irrota Bluetooth-ääni, nosta median äänenvoimakkuus maksimiin ja hiljennä ilmoitukset Keskittymisellä. Jos haluat selostaa, pidä Ohjauskeskuksen Näytön tallennus -painiketta painettuna ja napauta Mikrofoni punaiseksi; tavallinen napautus tallentaa vain sovelluksen äänen. Viiden sekunnin testitallenne kertoo heti, onko taso kohdallaan."
+      ]
+    },
+    {
+      "heading": "Korjaa jo tehty tallenne",
+      "paragraphs": [
+        "Järjestelmäasetukset eivät muuta jo tallennettua tiedostoa. iMovie voi nostaa sen noin 500 %:iin, mikä joskus riittää, mutta vaatii projektin ja uuden viennin. Increase Volume yltää ×10:een, käsittelee tiedoston suoraan Kuvista ja näyttää Alkuperäinen/Käsitelty-kytkimen, jotta kuulet tehostetun tason ennen tallennusta. Puhetta sisältävissä opastusvideoissa laita ”Paranna äänenlaatua” päälle, jotta puhe on helpompi ymmärtää."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Vaihe vaiheelta: näyttötallenteen tehostus",
+    "intro": "Tarvitset ilmaisen Increase Volume -sovelluksen ja näyttötallenteen Kuvissa.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Jaa tallenne sovellukseen",
+        "text": "Avaa näyttötallenne Kuvissa, napauta Jaa ja valitse Increase Volume. Tai avaa sovellus ja lisää tiedosto Kuvista."
+      },
+      {
+        "name": "Selostukselle Paranna äänenlaatua",
+        "text": "Jos puhuit tallenteen päälle, laita ”Paranna äänenlaatua” päälle, jotta puhe pysyy selkeänä tehostuksen jälkeen."
+      },
+      {
+        "name": "Aseta kerroin",
+        "text": "Vedä ”Äänenvoimakkuuden kertoja” aluksi ×5:een. Näyttötallenteet ovat yleensä selvästi normaalia hiljaisempia, joten ×8–×10 on tavallista. Napauta ”Tehosta äänenvoimakkuutta”."
+      },
+      {
+        "name": "Kuuntele Käsitelty",
+        "text": "Vaihda Käsitelty-versioon ja toista tallenteen kovin kohta. Jos se kuulostaa räikeältä, laske kerrointa."
+      },
+      {
+        "name": "Lataa käsitelty",
+        "text": "Napauta ”Lataa käsitelty” ja valitse Tallenna video, jolloin kovempi tallenne menee Kuviin, tai lähetä se suoraan YouTubeen, Slackiin, Viesteihin tai editoriisi."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Vinkit",
+    "items": [
+      "Tehosta ennen kuin leikkaat tai lisäät tekstityksiä toisessa editorissa; kovempi lähde antaa kaikille seuraaville työkaluille enemmän pelivaraa.",
+      "Pelitallenteissa, joissa on musiikkia, maltillinen tehostus (×3–×4) pitää musiikin puhtaana ja nostaa silti kokonaistasoa.",
+      "Jos tallenne on täysin äänetön eikä vain hiljainen, ääntä ei koskaan tallentunut (yleensä mykistetty sovellus tai DRM-suojattu video). Mikään tehostin ei lisää ääntä, jota ei tallennettu."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Miksi näyttötallenteessani ei ole ääntä lainkaan?",
+      "answer": "Joko tallentamasi sovellus keskeyttää äänensä havaitessaan näytön tallennuksen (striimaus- ja videopuhelusovellukset tekevät niin), video oli DRM-suojattu tai median äänenvoimakkuus oli nollassa. Äänetöntä raitaa ei voi tehostaa; tallenna uudelleen niin, että sovelluksen ääni kuuluu ja äänenvoimakkuus on ylhäällä."
+    },
+    {
+      "question": "Voinko koventaa vain selostukseni enkä pelin ääntä?",
+      "answer": "Increase Volume tehostaa miksatun raidan kokonaisuutena. ”Paranna äänenlaatua” painottaa kuitenkin puheen selkeyttä, joten selostus erottuu tehostuksen jälkeen yleensä paremmin."
+    },
+    {
+      "question": "Muuttaako tehostus videon resoluutiota?",
+      "answer": "Ei. Vain ääniraita käsitellään; kuva kulkee läpi muuttumattomana."
+    }
+  ],
+  "related": [
+    "nain-saat-videon-aanen-kovemmaksi-iphonella",
+    "miksi-iphonen-video-on-niin-hiljainen",
+    "aani-kovemmaksi-ilman-laadun-heikkenemista"
+  ]
+}

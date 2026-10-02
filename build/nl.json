@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "nl",
-    "title": "Volume verhogen – Geluidsboost | Tot ~10× luider op iPhone",
-    "description": "Maak geluid of video luider op iPhone: tot ~10× met helderheid en bas. Foto's, podcasts, spraakmemo's. Op je apparaat. Gratis proberen in de App Store.",
-    "keywords": "volume verhogen iPhone, video harder maken, stille video, volume booster, geluid versterken, iPhone app, audio luider, schermopname geluid, geluidsboost, Increase Volume",
+    "title": "Geluid van video's harder maken op iPhone – Audioversterker",
+    "description": "Maak video's, MP3's en Dictafoon-opnames op iPhone tot 10× harder. Audioversterker versterkt het bestand zelf, houdt het geluid helder en bewaart een kopie.",
+    "keywords": "geluid video harder maken iPhone, volume verhogen, app om geluid harder te maken, audioversterker, MP3 harder maken, WhatsApp spraakbericht te zacht, schermopname geluid te zacht, Dictafoon opname harder maken, Audioversterker – Volume Boost",
     "canonical": "https://volumeboosting.com/nl/",
-    "og_title": "Volume verhogen – Geluidsboost",
-    "og_description": "Audio en video op iPhone tot ~10× luider — Increase Volume – Geluidsboost. Heldere klank en bas; voor stille clips en podcasts. Verwerking op je apparaat.",
+    "og_title": "Video's en audio harder maken op iPhone – tot 10× luider",
+    "og_description": "Video, MP3 of Dictafoon-opname te zacht? Audioversterker maakt het bestand zelf tot 10× harder; je vergelijkt Origineel/Verwerkt en bewaart een luidere kopie.",
     "og_image": "https://volumeboosting.com/nl/site_preview.png",
     "og_image_alt": "App-pictogram van Increase Volume – Geluidsboost",
     "og_url": "https://volumeboosting.com/nl/",
     "og_locale": "nl_NL",
     "twitter_url": "https://volumeboosting.com/nl/",
-    "twitter_title": "Volume verhogen – Geluidsboost",
-    "twitter_description": "Audio en video op iPhone tot ~10× luider — Increase Volume – Geluidsboost. Heldere klank en bas; voor stille clips en podcasts. Verwerking op je apparaat.",
+    "twitter_title": "Video's en audio harder maken op iPhone – tot 10× luider",
+    "twitter_description": "Video, MP3 of Dictafoon-opname te zacht? Audioversterker maakt het bestand zelf tot 10× harder; je vergelijkt Origineel/Verwerkt en bewaart een luidere kopie.",
     "twitter_image": "https://volumeboosting.com/nl/site_preview.png",
     "twitter_image_alt": "App-pictogram van Increase Volume – Geluidsboost"
   },
@@ -188,44 +188,61 @@
     "breadcrumb_home": "Home",
     "faq": [
       {
-        "question": "Wat is Increase Volume – Geluidsboost?",
-        "answer": "Een iPhone-app in de categorie «Muziek» van de App Store die geïmporteerde audio- en videobestanden luider maakt — tot ongeveer 10× — en een nieuw bestand laat opslaan. Media worden op het apparaat verwerkt; bedoeld voor zachte opnames, podcasts en clips, niet om iOS-hardwarelimieten voor alle systeemaudio te omzeilen."
+        "question": "Hoe maak ik het geluid van een video op iPhone harder?",
+        "answer": "Open Audioversterker, importeer de video uit Foto's (of deel hem met de app), sleep 'Volumevermenigvuldiging' tot ×10, tik op 'Volume versterken', vergelijk Origineel en Verwerkt en tik op 'Verwerkt bestand downloaden'. De luidere kopie wordt bewaard in Foto's of Bestanden en klinkt op elk apparaat hard.",
+        "guide": "video-geluid-harder-maken-iphone"
       },
       {
-        "question": "Hoe werkt Increase Volume – Geluidsboost?",
-        "answer": "Je importeert een video, nummer of opname (ook uit de Foto's-app), past volume, helderheid en bas aan met de boost-schuifregelaar, luistert in realtime naar de preview en slaat het versterkte bestand op je iPhone op of deelt het."
+        "question": "Waarom zijn WhatsApp-spraakberichten zo zacht op mijn iPhone?",
+        "answer": "Zijn ze allemaal zacht, dan speelt je iPhone ze via de oorspeaker af omdat je de nabijheidssensor afdekt: houd de telefoon van je gezicht en zet het volume hoger terwijl het bericht speelt. Is één bericht zacht, exporteer het (lang drukken → Stuur door → Deel), versterk het ×5–×10 in de app en bewaar of stuur de luidere kopie door.",
+        "guide": "whatsapp-spraakbericht-te-zacht"
       },
       {
-        "question": "Is Increase Volume beter dan alleen het iPhone-volume hoger zetten?",
-        "answer": "Het zijn verschillende problemen. Systeemvolume maakt afspelen tijdelijk luider. Deze app maakt een blijvend luider bestand — handig als de opname zelf zacht is of je de versterkte versie moet doorsturen."
+        "question": "Waarom is het geluid van mijn schermopname te zacht?",
+        "answer": "iOS neemt app-geluid op een verlaagd niveau op, nog lager bij laag volume of verbonden Bluetooth-oortjes. Koppel de volgende keer Bluetooth los en zet het volume omhoog voor je opneemt. Een bestaande opname versterk je ×5–×10 met Audioversterker.",
+        "guide": "schermopname-geluid-te-zacht-iphone"
       },
       {
-        "question": "Hoe verschilt Increase Volume van VLC of Audacity qua volume?",
-        "answer": "VLC en Audacity zijn krachtige desktop-tools met normalisatie, versterking en veel opties. Increase Volume is gebouwd voor de iPhone: korte flow importeren → schuifregelaar → opslaan, zonder tijdlijn op de computer."
+        "question": "Hoe maak ik een Dictafoon-opname harder?",
+        "answer": "'Verbeter opname' in Dictafoon vermindert ruis bij het afspelen, maar maakt het bestand niet harder. Deel de opname met de app (⋯ → Deel → Increase Volume), zet 'Audiokwaliteit verbeteren' aan, versterk ×5–×10 en bewaar de luidere M4A.",
+        "guide": "dictafoon-opname-harder-maken"
       },
       {
-        "question": "Werkt Increase Volume voor zowel video als audio?",
-        "answer": "Ja. Je kunt video met geluid, muziek, podcasts, spraakmemo’s en schermopnames versterken en het resultaat opslaan."
+        "question": "Kan ik een MP3 op iPhone harder maken zonder computer?",
+        "answer": "Ja. Voeg de MP3, M4A of WAV toe uit Bestanden, kies de vermenigvuldiging, luister naar Origineel/Verwerkt en tik op 'Verwerkt bestand downloaden'. De luidere kopie wordt in Bestanden bewaard; alles gebeurt op de telefoon.",
+        "guide": "mp3-harder-maken-iphone"
       },
       {
-        "question": "Wordt het versterkte bestand op mijn iPhone opgeslagen?",
-        "answer": "Ja. Na verwerking sla je het luider bestand op je apparaat op en kun je het delen als elk ander mediabestand."
+        "question": "Kan ik het volume van een video verhogen in de Foto's-app?",
+        "answer": "De bewerker van Foto's kan alleen dempen, niet harder maken. Tik op Deel → Increase Volume om de video tot ×10 te versterken; de luidere kopie komt naast het origineel in Foto's.",
+        "guide": "video-harder-maken-vanuit-fotos"
       },
       {
-        "question": "Wat kost Increase Volume – Geluidsboost?",
-        "answer": "Actuele prijs en in-app aankopen staan op de App Store-pagina. De gestructureerde data op de site noemt een gratis aanbod; controleer altijd bij Apple voordat je het citeert."
+        "question": "Gaat het geluid vervormen als ik het harder maak?",
+        "answer": "Alleen als de hardste pieken boven het digitale plafond komen. Een zachte opname heeft veel ruimte. Begin met ×3, luister naar het hardste moment met Origineel/Verwerkt en ga omhoog zolang het schoon blijft. Het beeld verandert nooit.",
+        "guide": "harder-maken-zonder-kwaliteitsverlies"
       },
       {
-        "question": "Wie maakt Increase Volume – Geluidsboost?",
-        "answer": "De app wordt uitgegeven door c-basso en gedistribueerd via de Apple App Store (ID 6741472421). De productsite is volumeboosting.com."
+        "question": "Wat is het verschil met het volume in iMovie?",
+        "answer": "iMovie op iPhone stopt rond 500% (5×) en vraagt om een project en een volledige export. Audioversterker gaat tot ×10 (1000%), opent ook audiobestanden en biedt Origineel/Verwerkt voordat je bewaart.",
+        "guide": "imovie-volume-boven-500"
       },
       {
-        "question": "Hoe maak ik een te zachte video op de iPhone luider?",
-        "answer": "Met Increase Volume – Geluidsboost importeer je de video (bijv. uit Foto's), stel je de boost-schuifregelaar in met live preview en sla je een kopie op met een luider audiospoor. Zo pas je het niveau in het bestand aan — anders dan alleen het systeemvolume tijdens afspelen te verhogen."
+        "question": "Maakt de app de luidspreker van mijn iPhone harder?",
+        "answer": "Nee. Geen enkele app kan voorbij de fysieke grens van de luidspreker gaan of het volume van het hele systeem veranderen. De app maakt het bestand harder, wat helpt als de opname zelf zacht is. Zijn alle video's zacht, controleer dan eerst de oorzaken bij het afspelen.",
+        "guide": "waarom-is-mijn-video-zo-zacht#afspelen"
       },
       {
-        "question": "Verhoogt de app het maximale iPhone-volume voor muziek en bellen?",
-        "answer": "Nee. De app verwerkt bestanden die je importeert en levert een luider versie om op te slaan of te delen. Hardwarelimiet en globaal volume voor Spotify, bellen enz. veranderen niet."
+        "question": "Wat kost Audioversterker?",
+        "answer": "De download is gratis en inclusief een gratis proefperiode. Onbeperkt versterken ontgrendel je met een abonnement; de actuele prijzen in euro staan in de App Store. De verwerking gebeurt altijd op je iPhone.",
+        "guide": "",
+        "learn_more_url": "__APP_STORE_URL__",
+        "learn_more_title": "Audioversterker: gratis downloaden en actuele prijzen in de App Store"
+      },
+      {
+        "question": "Worden mijn bestanden naar een server geüpload?",
+        "answer": "Nee. De verwerking gebeurt op je iPhone, zonder account en zonder upload. Het resultaat wordt via het deelmenu van iOS bewaard in Foto's, Bestanden of de app die je kiest.",
+        "guide": "harder-maken-zonder-kwaliteitsverlies#privacy"
       }
     ],
     "structured_data": {
@@ -376,5 +393,35 @@
     "title": "Je stille bestand, 10× luider, in minder dan een minuut.",
     "text": "Download Increase Volume – Geluidsboost, importeer de video of audio die niemand kan horen, sleep de schuifregelaar en deel de luide versie.",
     "note": "Gratis download · Vereist iOS 18.6 of nieuwer · 4,5★ in de App Store"
+  },
+  "guides": {
+    "eyebrow": "Handleidingen",
+    "title": "Te zacht geluid op iPhone oplossen, per situatie",
+    "intro": "Elke handleiding beantwoordt een vraag waar mensen echt naar zoeken, legt eerlijk uit wat de iOS-hulpmiddelen wel en niet kunnen en toont daarna de precieze stappen in Audioversterker.",
+    "hub_link_text": "Alle handleidingen",
+    "read_more": "Lees de handleiding",
+    "hub": {
+      "title": "Handleidingen: geluid harder maken op iPhone, video en MP3",
+      "description": "Stap-voor-staphandleidingen om video's, Dictafoon-opnames, MP3's, schermopnames en WhatsApp-spraakberichten op iPhone harder te maken, met iOS en met de app.",
+      "h1": "Handleidingen: video en audio harder maken op iPhone",
+      "intro": "Elke handleiding begint met een direct antwoord, loopt eerlijk de gratis opties van het systeem langs (Foto's, iMovie, Dictafoon) en laat zien hoe je met Audioversterker tot 10× meer volume krijgt.",
+      "keywords": "handleidingen geluid harder maken iPhone, video harder maken, MP3 harder maken, spraakbericht te zacht, schermopname te zacht"
+    },
+    "labels": {
+      "home": "Home",
+      "guides": "Handleidingen",
+      "breadcrumb_aria": "Kruimelpad",
+      "updated": "Bijgewerkt",
+      "reading_time": "3–4 min lezen",
+      "quick_answer": "Kort antwoord",
+      "faq_heading": "Meer veelgestelde vragen",
+      "related": "Gerelateerde handleidingen",
+      "all_guides": "Alle handleidingen",
+      "disclaimer": "Audioversterker versterkt het geluid in een bestand en bewaart een nieuwe kopie. Hij kan niet voorbij de fysieke grens van de iPhone-luidspreker gaan of het volume van het hele systeem veranderen."
+    },
+    "default_cta": {
+      "title": "Doe het met Audioversterker",
+      "text": "Gratis in de App Store. Importeer, sleep de schuifregelaar tot ×10 en tik op 'Verwerkt bestand downloaden'."
+    }
   }
 }

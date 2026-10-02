@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "muziek te zacht iPhone",
+  "priority": 5,
+  "keywords": "muziek te zacht iPhone, muziek harder zetten iPhone, geluidscontrole iPhone, reduceer harde audio, nummers te zacht",
+  "title": "Muziek te zacht op je iPhone? Zo zet je hem harder",
+  "description": "Nummers te zacht op iPhone? Controleer Geluidscontrole, de equalizer en de koptelefoonlimiet en maak daarna je eigen MP3's en opnames tot 10× harder met de app.",
+  "h1": "Muziek harder zetten op iPhone",
+  "eyebrow": "Muziek",
+  "card_title": "Muziek harder maken",
+  "card_summary": "Drie iOS-instellingen die je muziek stilletjes begrenzen, en hoe je nummers die je als bestand hebt harder maakt.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Begin bij de instellingen: zet in Instellingen › Muziek Geluidscontrole uit en probeer de equalizervoorinstelling 'Laat op de avond' (Late Night), die zachte passages optilt; zet in Instellingen › Geluid en voelbare feedback › Koptelefoonveiligheid 'Reduceer harde audio' uit. Dat geldt voor streamen en afspelen. Muziekbestanden van jezelf (MP3, M4A, WAV in Bestanden, demo's, repetities) open je in Audioversterker, versterk je ×1,5–×4, vergelijk je Origineel en Verwerkt en tik je op 'Verwerkt bestand downloaden'.",
+  "intro": [
+    "'Mijn muziek is te zacht op mijn iPhone' heeft twee heel verschillende antwoorden. Klinken Apple Music of Spotify zacht via de luidspreker of koptelefoon, dan begrenst je telefoon zichzelf waarschijnlijk met een instelling die je in een minuut verandert. Is een *specifiek* nummer zacht — een oude MP3, een repetitie-opname, een demo van een vriend — dan is het het bestand dat meer niveau nodig heeft.",
+    "Deze handleiding behandelt allebei, in die volgorde."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Schermafbeelding 'Make music louder': Audioversterker verwerkt een muziekbestand met naam, grootte en duur",
+    "caption": "Muziekbestanden van jezelf versterk je direct vanuit Bestanden."
+  },
+  "sections": [
+    {
+      "heading": "Instellingen die alle muziek zachter maken (controleer deze eerst)",
+      "list": [
+        "Reduceer harde audio: Instellingen › Geluid en voelbare feedback › Koptelefoonveiligheid. Staat dit aan, dan wordt het koptelefoonvolume begrensd op het niveau dat je kiest. Zet het uit of verhoog de grens.",
+        "Geluidscontrole: Instellingen › Muziek › Geluidscontrole brengt alle nummers op hetzelfde volume en maakt harde nummers dus zachter. Zet het uit als alles zacht klinkt.",
+        "Equalizer: Instellingen › Muziek › EQ. 'Laat op de avond' comprimeert de dynamiek zodat zachte stukken omhoog komen; 'Loudness' versterkt lage en hoge tonen bij laag volume. Probeer beide.",
+        "Volumegrens in Schermtijd: Instellingen › Schermtijd › Beperkingen voor inhoud en privacy kan een grens hebben die een ouder of een oude instelling heeft vastgezet.",
+        "Bluetooth: sommige koptelefoons en speakers hebben een eigen volume; zet dat ook omhoog op het apparaat."
+      ]
+    },
+    {
+      "heading": "Welke muziekbestanden je kunt versterken",
+      "paragraphs": [
+        "Audioversterker versterkt bestanden die echt van jou zijn: MP3 en WAV in Bestanden of iCloud Drive, repetitie-opnames in M4A, demo's die je via Mail of AirDrop kreeg, GarageBand-exports en het geluid van muziekvideo's. De app toont artiest en titel als het bestand die bevat. Downloads van Apple Music, Spotify of YouTube Music zijn versleuteld en kunnen door geen andere app worden geopend; gebruik daarvoor de instellingen hierboven."
+      ]
+    },
+    {
+      "heading": "Hoeveel je een nummer harder kunt maken",
+      "paragraphs": [
+        "Uitgebrachte muziek is al bijna op maximaal niveau gemasterd, dus ×1,5–×2 is meestal de grens voordat het refrein vervormt. Thuisopnames, demo's en oude rips hebben vaak 6–12 dB ruimte en kunnen ×2–×4 aan. Beslis met Origineel/Verwerkt op het hardste refrein."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Stap voor stap: een muziekbestand harder maken",
+    "intro": "Voor een nummer in Bestanden, een GarageBand-export of een opname.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Voeg het nummer toe",
+        "text": "Open Audioversterker en voeg het bestand toe uit Bestanden, of deel het met de app vanuit Bestanden, Mail of GarageBand."
+      },
+      {
+        "name": "Kies een gematigde vermenigvuldiging",
+        "text": "Zet 'Volumevermenigvuldiging' op ×1,5–×2 voor uitgebrachte muziek en ×2–×4 voor demo's en opnames. Probeer 'Audiokwaliteit verbeteren' aan en uit en houd wat het natuurlijkst klinkt. Tik op 'Volume versterken'."
+      },
+      {
+        "name": "Controleer het refrein",
+        "text": "Wissel tussen Origineel/Verwerkt op het hardste stuk. Kraakt het, ga dan omlaag."
+      },
+      {
+        "name": "Verwerkt bestand downloaden",
+        "text": "Bewaar in Bestanden en voeg het luidere nummer toe aan je speler, of deel het."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Versterk een heel album of een hele set met dezelfde vermenigvuldiging zodat de nummers gelijk blijven.",
+      "Bij muziekvideo's blijft het beeld onaangeroerd; alleen het geluid wordt verwerkt.",
+      "Master je zelf muziek, versterk dan de mix en niet de eindmaster; een limiter in je DAW doet dat netter dan gewone versterking."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan een volumeversterker Apple Music of Spotify harder maken?",
+      "answer": "Niet door de nummers te bewerken, want die zijn versleuteld. Gebruik Geluidscontrole, de equalizer en Koptelefoonveiligheid, of de normalisatie van je streamingapp. Audioversterker versterkt bestanden die van jou zijn."
+    },
+    {
+      "question": "Waarom klinken sommige nummers zachter dan andere?",
+      "answer": "Door verschillende masteringniveaus. Geluidscontrole trekt ze gelijk maar maakt harde nummers zachter; zet je het uit, dan klinken die weer hard. Zachte bestanden van jezelf maak je met Audioversterker harder zodat ze aansluiten."
+    },
+    {
+      "question": "Verandert het formaat van een nummer als ik het versterk?",
+      "answer": "De app maakt naast het origineel een nieuw bestand in een gangbaar audioformaat. Het origineel verandert niet."
+    }
+  ],
+  "related": [
+    "mp3-harder-maken-iphone",
+    "podcast-luisterboek-harder-iphone",
+    "harder-maken-zonder-kwaliteitsverlies"
+  ]
+}

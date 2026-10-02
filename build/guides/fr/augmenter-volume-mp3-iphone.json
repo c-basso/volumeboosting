@@ -1,0 +1,130 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "augmenter le volume d'un MP3",
+  "priority": 6,
+  "keywords": "augmenter le volume d'un MP3, MP3 trop faible iPhone, rendre un MP3 plus fort, amplifier un fichier audio, amplificateur MP3",
+  "title": "Augmenter le volume d'un MP3 sur iPhone (sans ordinateur)",
+  "description": "Un MP3, M4A ou WAV trop faible sur iPhone ? Amplifiez-le jusqu'à 10× et enregistrez une copie plus forte, sans ordinateur. Étapes, niveaux sûrs et FAQ.",
+  "h1": "Comment augmenter le volume d'un MP3 sur iPhone",
+  "eyebrow": "MP3 et fichiers audio",
+  "card_title": "Rendre un MP3 plus fort",
+  "card_summary": "La plupart des amplificateurs ne gèrent que la vidéo. Celui-ci amplifie MP3, M4A et WAV directement depuis Fichiers.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Pour augmenter le volume d'un MP3 sur iPhone, ouvrez l'Amplificateur de Volume Audio, ajoutez le fichier depuis Fichiers (ou partagez-le vers l'app), faites glisser « Multiplication du volume » jusqu'à ×10, touchez « Amplifier le volume », comparez Original et Traité, puis touchez « Télécharger le fichier traité » pour enregistrer le MP3 plus fort dans Fichiers ou le partager. Tout se passe sur le téléphone : ni ordinateur, ni envoi en ligne, ni compte. Les morceaux d'Apple Music ou de Spotify ne peuvent pas être importés, car ils sont protégés contre la copie.",
+  "intro": [
+    "Vous avez téléchargé un cours, une vieille maquette, un épisode de podcast ou une future sonnerie, et il sonne nettement plus bas que tout le reste. Sur ordinateur, vous ouvririez Audacity ou un normaliseur ; sur iPhone, le conseil habituel est « utilisez un amplificateur en ligne », c'est-à-dire envoyer le fichier et récupérer une version réencodée.",
+    "L'Amplificateur de Volume Audio fait la même chose en local. Il ouvre de simples fichiers audio, contrairement à la plupart des amplificateurs vidéo."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/fr/3.webp",
+    "alt": "Capture « Augmenter le volume de l'audio » : un fichier MP3 en traitement avec nom, taille et durée",
+    "caption": "L'app affiche le nom, la taille et la durée du morceau avant l'amplification."
+  },
+  "sections": [
+    {
+      "heading": "Quels fichiers audio vous pouvez amplifier",
+      "paragraphs": [
+        "Tout ce qui est un vrai fichier sur votre iPhone : MP3, M4A/AAC (y compris les exports de Dictaphone et les vocaux WhatsApp), WAV et autres formats courants dans Fichiers, iCloud Drive, Dropbox ou reçus par Messages et Mail. L'app lit les métadonnées et affiche l'artiste et le titre quand ils existent."
+      ],
+      "note": "Impossible : les morceaux en streaming ou téléchargés dans Apple Music, Spotify ou YouTube Music. Ils sont chiffrés et aucune autre app ne peut les ouvrir. Pour le streaming, utilisez l'égaliseur ou la normalisation du service."
+    },
+    {
+      "heading": "Quelle amplification un MP3 supporte",
+      "paragraphs": [
+        "Les MP3 issus de CD ou achetés sont généralement déjà proches du niveau maximal et saturent si on les pousse ; ×1,5–×2 suffit. Podcasts, cours, enregistrements de voix et vieilles maquettes sont souvent 10 à 20 dB sous le maximum et supportent sans problème ×4–×10. Avec Original/Traité, vous testez le passage le plus fort avant d'enregistrer."
+      ]
+    },
+    {
+      "heading": "L'app face aux amplificateurs MP3 en ligne",
+      "table": {
+        "head": [
+          "",
+          "Amplificateur en ligne",
+          "Amplificateur de Volume Audio"
+        ],
+        "rows": [
+          [
+            "Où va le fichier",
+            "Envoyé sur un serveur",
+            "Reste sur votre iPhone"
+          ],
+          [
+            "Réencodage",
+            "Souvent à un débit fixe plus bas",
+            "Traité en local"
+          ],
+          [
+            "Limite de taille",
+            "Courante (p. ex. 50–500 Mo)",
+            "Seulement le stockage du téléphone"
+          ],
+          [
+            "Écoute avant enregistrement",
+            "Rarement",
+            "Sélecteur Original / Traité"
+          ],
+          [
+            "Amélioration de la voix",
+            "Parfois",
+            "Option Améliorer la qualité audio"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Étape par étape : amplifier un MP3",
+    "intro": "Il vous faut le MP3 dans Fichiers (ou dans une app qui peut le partager) et l'app gratuite.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Ajoutez le MP3",
+        "text": "Ouvrez l'app et ajoutez le fichier depuis Fichiers. Ou dans Fichiers, appui long sur le MP3, touchez Partager et choisissez Increase Volume."
+      },
+      {
+        "name": "Vérifiez les informations",
+        "text": "Contrôlez artiste, titre, taille et durée. Pour de la parole, activez « Améliorer la qualité audio »."
+      },
+      {
+        "name": "Réglez le multiplicateur",
+        "text": "Placez « Multiplication du volume » sur ×2 pour de la musique, ×4–×10 pour des enregistrements de voix faibles. Touchez « Amplifier le volume »."
+      },
+      {
+        "name": "Comparez",
+        "text": "Basculez Original/Traité sur le passage le plus fort. Ajustez si la version amplifiée sonne dure."
+      },
+      {
+        "name": "Télécharger le fichier traité",
+        "text": "Touchez « Télécharger le fichier traité », puis Enregistrer dans Fichiers, ou partagez vers Mail, Messages ou un cloud."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Conseils",
+    "items": [
+      "Amplifiez toute une série de fichiers (chapitres d'un livre audio, série de cours) avec le même multiplicateur pour qu'ils sonnent au même niveau.",
+      "Rangez les copies amplifiées dans un dossier dédié de Fichiers ; l'app garde aussi chaque projet dans sa liste.",
+      "Pour une sonnerie : amplifiez d'abord, coupez ensuite à 30 secondes ; une source plus forte donne une sonnerie plus forte."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Puis-je rendre plus fort un morceau d'Apple Music ou de Spotify ?",
+      "answer": "Aucune autre app ne peut ouvrir les téléchargements de streaming, qui sont chiffrés. L'app fonctionne avec les fichiers qui vous appartiennent dans Fichiers, iCloud Drive ou ailleurs."
+    },
+    {
+      "question": "Un MP3 perd-il en qualité quand on l'amplifie ?",
+      "answer": "L'audio est traité une fois et enregistré dans un nouveau fichier. La qualité ne souffre que si vous amplifiez au point de faire saturer les crêtes ; Original/Traité vous permet de l'entendre avant d'enregistrer."
+    },
+    {
+      "question": "Ça marche aussi avec WAV et M4A ?",
+      "answer": "Oui. Les formats audio courants sont pris en charge, en plus de la vidéo MP4 et MOV."
+    }
+  ],
+  "related": [
+    "musique-trop-faible-iphone",
+    "augmenter-volume-podcast-livre-audio-iphone",
+    "augmenter-volume-memo-vocal-iphone"
+  ]
+}

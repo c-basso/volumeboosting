@@ -1,0 +1,105 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "dlaczego film na iPhonie jest cichy",
+  "priority": 7,
+  "keywords": "dlaczego film na iPhonie jest cichy, cichy dźwięk w filmie iPhone, film bez dźwięku iPhone, cichy głośnik iPhone, za cichy film",
+  "title": "Dlaczego mój film na iPhonie jest taki cichy? 7 przyczyn",
+  "description": "Cichy dźwięk w filmie z iPhone'a? Sprawdź, czy winne jest odtwarzanie (wyciszenie, Bluetooth, słuchawki), czy samo nagranie, i jak naprawić każdy przypadek.",
+  "h1": "Dlaczego mój film na iPhonie jest taki cichy?",
+  "eyebrow": "Rozwiązywanie problemów",
+  "card_title": "Dlaczego film jest cichy?",
+  "card_summary": "Siedem przyczyn cichego dźwięku: cztery przy odtwarzaniu, trzy w samym nagraniu, i rozwiązanie dla każdej.",
+  "quick_answer": "Jeśli ciche są wszystkie filmy, winne jest odtwarzanie: sprawdź, czy dźwięk filmu nie jest wyciszony, czy nie jest podłączony Bluetooth, ustawienie Bezpieczeństwo słuchawek w Dźwiękach i haptyce oraz czy głośnik jest czysty. Jeśli cichy jest jeden film, winne jest nagranie: osoba była daleko, mikrofon był zasłonięty albo dźwięk nagrał się cicho. Wtedy zgłośnij plik w Volume Boost, nawet 10×.",
+  "intro": [
+    "„Dlaczego film jest taki cichy?” ma dwie odpowiedzi i warto wiedzieć, która dotyczy Ciebie, zanim cokolwiek zmienisz. Test: odtwórz inny film. Jeśli też jest cichy, chodzi o telefon. Jeśli brzmi normalnie, chodzi o plik.",
+    "Oto siedem najczęstszych przyczyn podzielonych na te dwie grupy."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/1.webp",
+    "alt": "Grafika promocyjna Volume Boost: wzmacniacz głośności i dźwięku, nawet dziesięć razy głośniej",
+    "caption": "Gdy samo nagranie jest ciche, aplikacja zgłaśnia plik nawet 10×."
+  },
+  "sections": [
+    {
+      "id": "odtwarzanie",
+      "heading": "Przyczyny po stronie odtwarzania (wszystkie filmy ciche)",
+      "paragraphs": [],
+      "list": [
+        "Dźwięk filmu jest wyciszony: stuknij ikonę głośnika w odtwarzaczu w Zdjęciach.",
+        "Dźwięk idzie do Bluetooth: AirPods lub głośnik w aucie mogą być podłączone; sprawdź wyjście audio w Centrum sterowania.",
+        "Bezpieczeństwo słuchawek: Ustawienia › Dźwięki i haptyka › Bezpieczeństwo słuchawek może ograniczać poziom.",
+        "Zatkany głośnik: kurz lub włókna w kratce tłumią dźwięk; wyczyść ją miękką, suchą szczoteczką."
+      ],
+      "ordered": true,
+      "note": "Żadna aplikacja nie przekroczy fizycznego limitu głośnika ani nie zmieni głośności całego systemu."
+    },
+    {
+      "heading": "Przyczyny w samym nagraniu (cichy jeden film)",
+      "paragraphs": [],
+      "list": [
+        "Odległość: osoba mówiła daleko od mikrofonu.",
+        "Zasłonięty mikrofon: etui, palec lub kieszeń stłumiły dźwięk.",
+        "Nagranie ekranu lub pobrany plik: iOS albo aplikacja źródłowa dostarczyła dźwięk na niskim poziomie."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Rozwiązanie, gdy nagranie jest ciche",
+      "paragraphs": [
+        "Nie podgłośnisz czegoś, co nie zostało nagrane wystarczająco głośno, ale możesz podnieść poziom w pliku. Volume Boost mnoży ścieżkę dźwiękową nawet 10× i zapisuje nowy film. Gra on głośno wszędzie, także u osób, którym go wyślesz."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Zgłośnij cichy film",
+    "intro": "Gdy test pokazał, że problemem jest plik.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Udostępnij film aplikacji",
+        "text": "Otwórz film w Zdjęciach → Udostępnij → Increase Volume."
+      },
+      {
+        "name": "Wzmocnij",
+        "text": "Przesuń „Mnożnik głośności” (×3–×10) i stuknij „Wzmocnij głośność do ×N”."
+      },
+      {
+        "name": "Porównaj",
+        "text": "Odsłuchaj z Oryginał/Przetworzony; zmniejsz przy chrypieniu."
+      },
+      {
+        "name": "Zapisz",
+        "text": "Stuknij „Pobierz przetworzony” → Zachowaj wideo."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Jak unikać cichych filmów",
+    "items": [
+      "Trzymaj palce z dala od otworów mikrofonu na dole i przy aparacie.",
+      "Podejdź bliżej do mówiącego; odległość szybko obniża poziom.",
+      "Zrób pięciosekundowe nagranie próbne przed ważnym momentem."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dlaczego mój film w ogóle nie ma dźwięku?",
+      "answer": "Sprawdź, czy dźwięk nie jest wyłączony w edycji w Zdjęciach i czy żadne urządzenie Bluetooth go nie przejmuje. Jeśli nagranie nie ma ścieżki dźwiękowej, nie da się go wzmocnić."
+    },
+    {
+      "question": "Czy aplikacja zgłośni głośnik iPhone'a?",
+      "answer": "Nie. Zgłaśnia plik. Maksimum głośnika jest fizyczne i żadna aplikacja go nie przekroczy."
+    },
+    {
+      "question": "Dlaczego filmy od innych osób są ciche?",
+      "answer": "Zostały nagrane lub wyeksportowane cicho. Wzmocnij plik, a będzie grał głośno."
+    }
+  ],
+  "related": [
+    "jak-zwiekszyc-glosnosc-filmu-iphone",
+    "nagrywanie-ekranu-cichy-dzwiek-iphone",
+    "glosnosc-filmu-w-aplikacji-zdjecia"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

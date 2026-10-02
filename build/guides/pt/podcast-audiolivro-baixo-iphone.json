@@ -1,0 +1,113 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "podcast baixo no iPhone",
+  "priority": 12,
+  "keywords": "podcast baixo no iPhone, audiolivro baixo, como aumentar o volume de podcast, aumentar volume de audiolivro iPhone, app Podcasts som baixo",
+  "title": "Podcast ou audiolivro baixo no iPhone? Veja como resolver",
+  "description": "Podcast ou audiolivro baixo? Confira os ajustes do app Podcasts e dos fones, e deixe episódios MP3 e M4A baixados até 10× mais altos com o app Aumentar Volume.",
+  "h1": "Podcast ou audiolivro baixo no iPhone: as soluções",
+  "eyebrow": "Podcasts",
+  "card_title": "Podcast baixo",
+  "card_summary": "Os ajustes do app Podcasts e como amplificar episódios MP3 baixados e audiolivros sem DRM.",
+  "quick_answer": "Se um podcast está baixo no app Podcasts, ative o realce de voz junto ao controle de velocidade e confira a Segurança dos Fones de Ouvido em Sons e Tátil. Se você tem o episódio ou o audiolivro como arquivo MP3 ou M4A sem DRM, abra no app Aumentar Volume, ative «Melhorar qualidade do áudio», amplifique ×3–×8 e salve a cópia mais alta no Arquivos.",
+  "intro": [
+    "Entrevistas gravadas por telefone, convidados com microfone ruim e audiolivros antigos costumam ser mais baixos do que o resto do que você ouve. No ônibus ou no carro, a voz some no barulho.",
+    "Existem duas soluções: ajustes de reprodução para o que é streaming e amplificação do arquivo quando ele é seu."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/pt/7.webp",
+    "alt": "Lista de projetos do app Aumentar Volume com arquivos MP3 e MP4, tamanho e duração",
+    "caption": "Salve vários episódios como projetos e volte a eles depois."
+  },
+  "sections": [
+    {
+      "heading": "No app Podcasts",
+      "paragraphs": [
+        "Durante a reprodução, toque no botão de velocidade e ative o realce de voz. Ele abaixa o fundo e destaca a fala. Confira também se o Reduzir Áudio Alto em Segurança dos Fones de Ouvido não está limitando o nível."
+      ],
+      "note": "Os nomes podem variar entre versões do iOS; confira no seu iPhone."
+    },
+    {
+      "heading": "Audiolivros e arquivos baixados",
+      "paragraphs": [
+        "Audiolivros da Audible, Storytel, Ubook ou Apple Books são protegidos e não podem ser abertos como arquivos. Audiolivros MP3 seus, episódios de feeds RSS e gravações sem DRM podem ser amplificados."
+      ]
+    },
+    {
+      "heading": "O que serve para quê",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "Origem",
+          "Solução"
+        ],
+        "rows": [
+          [
+            "App Podcasts (streaming)",
+            "Realce de voz, ajustes dos fones"
+          ],
+          [
+            "Spotify / Audible / Storytel",
+            "Ajustes do próprio app"
+          ],
+          [
+            "MP3/M4A sem DRM",
+            "App Aumentar Volume, até 10×"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Amplifique um episódio ou audiolivro",
+    "intro": "Para arquivos no Arquivos.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Importe o arquivo",
+        "text": "Abra o app e escolha o MP3 ou M4A no Arquivos."
+      },
+      {
+        "name": "Ative «Melhorar qualidade do áudio»",
+        "text": "As vozes ficam mais claras."
+      },
+      {
+        "name": "Amplifique",
+        "text": "Arraste «Multiplicação do volume» para ×3–×8 e toque em «Amplificar volume para ×N»."
+      },
+      {
+        "name": "Salve",
+        "text": "«Baixar processado» → Salvar em Arquivos, e ouça num app que abra arquivos."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Dicas",
+    "items": [
+      "Arquivos longos demoram mais; deixe o app aberto até terminar.",
+      "Fala aguenta uma multiplicação maior do que música.",
+      "Se a entrevista tem uma voz alta e outra baixa, escolha um nível em que a alta não estoure."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Por que alguns podcasts são mais baixos que outros?",
+      "answer": "Os produtores mixam em níveis diferentes, e entrevistas por telefone costumam ser baixas."
+    },
+    {
+      "question": "Dá para aumentar o volume de um audiolivro da Audible com o app?",
+      "answer": "Não. Audiolivros protegidos não podem ser abertos como arquivos."
+    },
+    {
+      "question": "Quais arquivos funcionam?",
+      "answer": "MP3, M4A e WAV sem DRM do Arquivos."
+    }
+  ],
+  "related": [
+    "aumentar-volume-de-mp3-no-iphone",
+    "aumentar-volume-do-gravador-iphone",
+    "musica-baixa-no-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

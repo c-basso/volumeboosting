@@ -1,0 +1,121 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "cum măresc volumul unui MP3 pe iPhone",
+  "priority": 6,
+  "keywords": "cum măresc volumul unui MP3 pe iPhone, MP3 mai tare, amplificare fișier audio iPhone, MP3 încet, mărire volum audio fără calculator",
+  "title": "Cum mărești volumul unui MP3 pe iPhone fără PC (până la 10×)",
+  "description": "Fă un MP3, M4A sau WAV mai tare direct pe iPhone, fără calculator: importă din Fișiere, alege multiplicarea, ascultă Original/Procesat și salvează copia.",
+  "h1": "Cum mărești volumul unui MP3 pe iPhone",
+  "eyebrow": "MP3",
+  "card_title": "MP3 mai tare",
+  "card_summary": "Fără Audacity, fără PC. Importă din Fișiere, trage cursorul și salvează o copie MP3 mai tare.",
+  "quick_answer": "Ca să mărești volumul unui MP3 pe iPhone, deschide Volume Boost, adaugă fișierul din Fișiere, trage „Multiplicare volum” (×2–×10), atinge „Amplifică volumul”, compară Original și Procesat și atinge „Descarcă procesat” → Salvați în Fișiere. Totul se face pe telefon, fără calculator și fără încărcare.",
+  "intro": [
+    "Metoda clasică de a amplifica un MP3 e Audacity pe calculator. Pe iPhone nu există o funcție nativă: Fișiere redă, dar nu schimbă volumul, iar iMovie nu deschide fișiere doar audio.",
+    "Volume Boost umple golul: un cursor, ascultare înainte de salvare și un fișier nou în Fișiere."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Volume Boost procesează un fișier MP3 și afișează numele, dimensiunea și durata",
+    "caption": "MP3-ul importat din Fișiere, gata de amplificare."
+  },
+  "sections": [
+    {
+      "heading": "De ce iPhone-ul nu poate face singur un MP3 mai tare",
+      "paragraphs": [
+        "Fișiere și Muzică redau sunet, dar nu îl editează. Reportofon editează doar propriile înregistrări. iMovie lucrează cu video. Ca să schimbi nivelul unui MP3 ai nevoie de un editor audio sau de un amplificator de volum."
+      ]
+    },
+    {
+      "heading": "Ce fișiere funcționează",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "Format",
+          "Compatibil",
+          "Observație"
+        ],
+        "rows": [
+          [
+            "MP3",
+            "Da",
+            "Cel mai comun format pentru descărcări și podcasturi"
+          ],
+          [
+            "M4A / AAC",
+            "Da",
+            "Reportofon și cumpărături iTunes fără DRM"
+          ],
+          [
+            "WAV",
+            "Da",
+            "Necomprimat, multă rezervă"
+          ],
+          [
+            "Apple Music / Spotify",
+            "Nu",
+            "Streaming protejat DRM"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Cât să amplifici?",
+      "paragraphs": [
+        "Un podcast sau o înregistrare încet suportă adesea ×4–×10. O piesă deja masterizată are puțină rezervă; începe cu ×2. Ascultă pasajele cele mai tari cu Original/Procesat înainte să salvezi."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Pas cu pas: amplifică un MP3",
+    "intro": "Cam un minut.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Adaugă fișierul",
+        "text": "Deschide aplicația și alege MP3-ul în Fișiere, sau partajează-l către Increase Volume din altă aplicație."
+      },
+      {
+        "name": "Alege multiplicarea",
+        "text": "Trage „Multiplicare volum”. Pentru vorbire, activează „Îmbunătățește calitatea audio”."
+      },
+      {
+        "name": "Amplifică",
+        "text": "Atinge „Amplifică volumul la ×N” și comută între Original și Procesat."
+      },
+      {
+        "name": "Salvează în Fișiere",
+        "text": "Atinge „Descarcă procesat” și alege Salvați în Fișiere."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Sfaturi",
+    "items": [
+      "Dă fișierului nou un nume clar în Fișiere, de exemplu „piesa_mai_tare”.",
+      "Lista de proiecte din aplicație te lasă să revii și să încerci alt nivel.",
+      "Fișierele WAV mari durează puțin mai mult, dar tot pe dispozitiv se procesează."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Pot face un MP3 mai tare fără calculator?",
+      "answer": "Da. Volume Boost face asta direct pe iPhone și salvează copia mai tare în Fișiere."
+    },
+    {
+      "question": "Se încarcă fișierul pe un server?",
+      "answer": "Nu. Procesarea se face pe iPhone, fără cont și fără încărcare."
+    },
+    {
+      "question": "Pot face mai tare o piesă din Apple Music?",
+      "answer": "Nu, muzica din streaming e protejată DRM. Aplicația funcționează cu fișiere care îți aparțin."
+    }
+  ],
+  "related": [
+    "muzica-se-aude-incet-iphone",
+    "podcast-audiobook-incet-iphone",
+    "volum-mai-tare-fara-pierderea-calitatii"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

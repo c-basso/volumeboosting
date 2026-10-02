@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "zvýšiť hlasitosť videa v aplikácii Fotky",
+  "priority": 9,
+  "keywords": "zvýšiť hlasitosť videa v aplikácii Fotky, Fotky iPhone hlasitosť videa, zosilniť video z galérie, zvuk videa Fotky iPhone, Zdieľať Increase Volume",
+  "title": "Ako zvýšiť hlasitosť videa z aplikácie Fotky na iPhone",
+  "description": "Úpravy vo Fotkách vedia zvuk len stlmiť. Ako cez Zdieľať → Increase Volume spraviť video až 10× hlasnejším a uložiť kópiu späť do knižnice vo Fotkách.",
+  "h1": "Ako zvýšiť hlasitosť videa z aplikácie Fotky",
+  "eyebrow": "Fotky",
+  "card_title": "Hlasitosť z Fotiek",
+  "card_summary": "Fotky vedia len stlmiť. Cez Zdieľať → Increase Volume video zosilníš a uložíš späť do Fotiek.",
+  "quick_answer": "Aplikácia Fotky vie zvuk videa len stlmiť, nie zosilniť. Otvor video vo Fotkách, ťukni na Zdieľať a vyber Increase Volume. Projekt sa otvorí vo Volume Boost; posuň „Násobok hlasitosti“ až na ×10, ťukni na „Zosilniť hlasitosť“ a potom „Stiahnuť spracované“ → Uložiť video. Hlasnejšia kópia sa objaví vo Fotkách vedľa originálu.",
+  "intro": [
+    "Väčšina videí na iPhone je vo Fotkách a práve tam sa ľudia najprv snažia tichý zvuk opraviť. V Úpravách je ikona reproduktora, ale tá zvuk len zapína a vypína.",
+    "Cez panel zdieľania pošleš video priamo do Volume Boost a hlasnejšiu kópiu dostaneš späť do Fotiek, bez obchádzky cez Súbory."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Panel zdieľania iOS s voľbami pre zosilnený súbor z Volume Boost",
+    "caption": "Panel zdieľania iOS prenesie video z Fotiek do aplikácie a späť."
+  },
+  "sections": [
+    {
+      "heading": "Čo vedia úpravy vo Fotkách so zvukom",
+      "paragraphs": [
+        "Ťukni na Upraviť pri videu: ikona reproduktora hore zvuk stlmí alebo zapne. Na novších iPhonoch s priestorovým zvukom je aj Mix zvuku, ktorý mení pomer hlasov a pozadia, ale nie celkovú hlasitosť."
+      ]
+    },
+    {
+      "heading": "Nevidíš Increase Volume v paneli zdieľania?",
+      "paragraphs": [],
+      "list": [
+        "Posuň rad aplikácií doprava a ťukni na Viac.",
+        "Nájdi Increase Volume a pridaj ju medzi Obľúbené.",
+        "Odteraz sa zobrazí v paneli pri každom videu."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Kam sa kópia uloží?",
+      "paragraphs": [
+        "Keď vyberieš Uložiť video, zosilnené video sa pridá do Fotiek ako nová položka, najnovšia v knižnici. Originál zostane nezmenený."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Z Fotiek k hlasnejšiemu videu",
+    "intro": "Asi minúta.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Otvor video vo Fotkách",
+        "text": "Ťukni na video a potom na Zdieľať."
+      },
+      {
+        "name": "Vyber Increase Volume",
+        "text": "Projekt sa otvorí priamo vo Volume Boost."
+      },
+      {
+        "name": "Zosilni",
+        "text": "Posuň „Násobok hlasitosti“, ťukni na „Zosilniť hlasitosť na ×N“ a porovnaj Pôvodné/Spracované."
+      },
+      {
+        "name": "Ulož späť do Fotiek",
+        "text": "Ťukni na „Stiahnuť spracované“ → Uložiť video."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Viac videí zosilníš postupne zo zoznamu projektov.",
+      "Označ novú kópiu ako obľúbenú, aby si ju rýchlo našiel.",
+      "Originál vymaž, až keď si s hlasnejšou verziou spokojný."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Vie aplikácia Fotky spraviť video hlasnejším?",
+      "answer": "Nie. Fotky vedia len stlmiť zvuk alebo upraviť Mix zvuku na podporovaných modeloch."
+    },
+    {
+      "question": "Nahradí aplikácia pôvodné video?",
+      "answer": "Nie. Vždy uloží novú kópiu; originál zostane nezmenený."
+    },
+    {
+      "question": "Funguje to so živými fotkami?",
+      "answer": "Aplikácia pracuje s videosúbormi. Živú fotku najprv ulož vo Fotkách ako video."
+    }
+  ],
+  "related": [
+    "ako-zosilnit-zvuk-videa-na-iphone",
+    "preco-je-video-potichu",
+    "hlasnejsie-video-na-tiktok"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

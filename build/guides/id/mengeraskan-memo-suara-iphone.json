@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "mengeraskan memo suara",
+  "priority": 4,
+  "keywords": "mengeraskan memo suara iPhone, rekaman suara pelan, memo suara kecil, tingkatkan rekaman memo suara, cara mengeraskan rekaman suara",
+  "title": "Cara Mengeraskan Rekaman Memo Suara yang Pelan di iPhone",
+  "description": "„Tingkatkan Rekaman” di Memo Suara mengurangi bising tetapi tidak mengeraskan file. Begini cara mengeraskan rekaman pelan hingga 10× dan menyimpan salinannya.",
+  "h1": "Cara mengeraskan rekaman Memo Suara di iPhone",
+  "eyebrow": "Memo Suara",
+  "card_title": "Mengeraskan rekaman Memo Suara",
+  "card_summary": "„Tingkatkan Rekaman” hanya mengubah pemutaran. Ekspor rekaman dan keraskan file-nya, hingga 10×.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Untuk mengeraskan rekaman Memo Suara di iPhone, bagikan dari Memo Suara ke Penguat Volume (ketuk rekaman → ⋯ → Bagikan → Increase Volume), aktifkan «Tingkatkan Kualitas Audio», atur «Pengali volume» ke ×5–×10, ketuk «Boost volume», bandingkan Asli dan Diproses, lalu ketuk «Unduh yang diproses» untuk menyimpan M4A yang lebih keras. Opsi „Tingkatkan Rekaman” di Memo Suara mengurangi bising saat diputar, tetapi tidak mengubah file dan tidak membuatnya lebih keras saat dibagikan.",
+  "intro": [
+    "Rekaman dari ujung meja rapat, kuliah dari barisan paling belakang, atau wawancara dengan orang yang bicaranya pelan: kata-katanya ada, tetapi bahkan dengan volume penuh Anda harus berusaha keras mendengarnya. Memo Suara punya beberapa opsi pemutaran, dan banyak orang mengira salah satunya mengeraskan rekaman. Tidak ada.",
+    "Panduan ini menjelaskan apa yang bisa dilakukan Memo Suara dan cara mengubah rekaman pelan menjadi file keras yang mudah dibagikan dalam semenit."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Tangkapan layar Penguat Volume dengan detail rekaman, opsi Tingkatkan Kualitas Audio, dan slider pengali ×10",
+    "caption": "Untuk suara bicara, aktifkan «Tingkatkan Kualitas Audio» sebelum memperkuat."
+  },
+  "sections": [
+    {
+      "heading": "Apa yang dilakukan Memo Suara (dan yang tidak)",
+      "paragraphs": [
+        "Buka rekaman, ketuk ikon opsi (slider), dan Anda akan melihat:"
+      ],
+      "list": [
+        "Tingkatkan Rekaman: mengurangi bising latar dan gema. Berguna, tetapi ini pengaturan *pemutaran*; menurut Apple, rekamannya sendiri tidak berubah.",
+        "Lewati Hening dan kecepatan putar: praktis, tetapi tidak memengaruhi volume.",
+        "Suara Studio (model yang didukung): mengurangi gema ruangan, juga hanya saat diputar.",
+        "Pangkas / Ganti: mengubah durasi atau isi, bukan level."
+      ],
+      "note": "Tidak ada fitur di Memo Suara yang menaikkan level file tersimpan. Saat rekaman dibagikan, penerima mendengarnya di volume asli."
+    },
+    {
+      "heading": "Mengapa rekamannya pelan",
+      "paragraphs": [
+        "iPhone menyesuaikan sensitivitas secara otomatis saat merekam, tetapi tidak bisa mengimbangi pembicara yang berjarak beberapa meter atau ponsel tertelungkup dengan mikrofon tertutup. Hasilnya rekaman dengan puncak yang jauh di bawah batas digital. Jarak itu justru ruang yang dipakai penguat: rekaman pelan biasanya tahan ×5–×10 tanpa terpotong."
+      ]
+    },
+    {
+      "heading": "Keraskan file-nya dengan Penguat Volume",
+      "paragraphs": [
+        "Penguat Volume membuka file M4A yang diekspor Memo Suara, menampilkan durasi dan ukurannya, dan melipatgandakan volume hingga ×10. Opsi «Tingkatkan Kualitas Audio» berfokus pada kejelasan suara bicara, persis yang dibutuhkan rekaman suara. Anda mendengar hasilnya dengan Asli/Diproses sebelum menyimpan, dan file yang lebih keras disimpan sebagai salinan baru ke File, Pesan, Mail, atau aplikasi apa pun."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: mengeraskan rekaman Memo Suara",
+    "intro": "Berlaku untuk rekaman apa pun yang sudah ada di Memo Suara.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Bagikan rekaman ke aplikasi",
+        "text": "Di Memo Suara, ketuk rekaman, ketuk ⋯, pilih Bagikan, dan pilih Increase Volume di baris aplikasi. (Anda juga bisa Simpan ke File dulu lalu menambahkannya dari aplikasi.)"
+      },
+      {
+        "name": "Aktifkan Tingkatkan Kualitas Audio",
+        "text": "Aktifkan agar penguatan mengutamakan suara bicara."
+      },
+      {
+        "name": "Pilih pengali",
+        "text": "Atur «Pengali volume» ke ×5 sebagai awal; rekaman dari jauh sering butuh ×8–×10. Ketuk «Boost volume»."
+      },
+      {
+        "name": "Bandingkan",
+        "text": "Beralih antara Asli/Diproses di titik paling keras rekaman (tawa, cangkir diletakkan). Jika pecah, turunkan pengali."
+      },
+      {
+        "name": "Unduh yang diproses",
+        "text": "Ketuk «Unduh yang diproses» dan pilih Simpan ke File, atau kirim rekaman yang lebih keras langsung ke Pesan, Mail, WhatsApp, atau Catatan."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Rekam dengan ponsel telentang, ujung mikrofon mengarah ke pembicara, dan sedekat yang masih sopan. Ini lebih berpengaruh daripada pengaturan apa pun.",
+      "Jika rekaman akan ditranskripsi, keraskan dulu; pengenalan suara lebih sedikit salah pada file yang lebih keras dan jelas.",
+      "Simpan rekaman asli di Memo Suara. Salinan yang diperkuat adalah file terpisah."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Apakah „Tingkatkan Rekaman” mengeraskan Memo Suara?",
+      "answer": "Tidak. Fitur ini mengurangi bising latar dan gema saat diputar. Apple menyebutkan pengaturan pemutaran ini tidak mengubah rekaman, jadi rekaman yang dibagikan tetap sama."
+    },
+    {
+      "question": "Dalam format apa rekaman yang diperkuat disimpan?",
+      "answer": "Dalam format audio yang sama dengan yang Anda bagikan (Memo Suara mengekspor M4A). Aplikasi membuat file baru; rekaman asli tidak diubah."
+    },
+    {
+      "question": "Bisakah mengeraskan rekaman yang dikirim ke saya?",
+      "answer": "Bisa. Simpan audio dari Pesan, Mail, atau WhatsApp ke File (atau bagikan langsung ke aplikasi) dan keraskan dengan cara yang sama."
+    }
+  ],
+  "related": [
+    "voice-note-whatsapp-pelan",
+    "mengeraskan-mp3-di-iphone",
+    "mengeraskan-suara-tanpa-mengurangi-kualitas"
+  ]
+}

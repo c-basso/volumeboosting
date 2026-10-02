@@ -1,0 +1,122 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "cara mengeraskan suara video TikTok",
+  "priority": 8,
+  "keywords": "cara mengeraskan suara video TikTok, suara TikTok pelan, suara Reels kecil, mengeraskan suara sebelum upload, Instagram Reels suara pelan",
+  "title": "Cara Mengeraskan Suara Video TikTok Sebelum Diunggah",
+  "description": "TikTok dan Reels makin memampatkan suara pelan. Keraskan klip ×2–×5 di iPhone dengan Penguat Volume sebelum unggah agar suara Anda jelas di ponsel mana pun.",
+  "h1": "Cara mengeraskan suara video TikTok atau Reels sebelum diunggah",
+  "eyebrow": "TikTok dan Reels",
+  "card_title": "Mengeraskan TikTok atau Reels",
+  "card_summary": "Platform menormalkan saat unggah, tetapi tidak menyelamatkan trek pelan. Keraskan ×2–×5 lebih dulu.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Keraskan video sebelum diunggah. Buka klip di Penguat Volume di iPhone, atur «Pengali volume» ke ×2–×5 (lebih tinggi jika sangat pelan), ketuk «Boost volume», bandingkan Asli dan Diproses, ketuk «Unduh yang diproses», lalu unggah file yang diperkuat ke TikTok atau Instagram. Kontrol volume di TikTok terbatas, dan pemrosesan saat unggah tidak menyelamatkan audio yang tiba terlalu pelan.",
+  "intro": [
+    "TikTok atau Reels yang suaranya tidak terdengar akan langsung di-scroll. Masalahnya biasanya bermula saat merekam: mikrofon ponsel ingin Anda berjarak satu lengan, angin dan lalu lintas menelan suara pelan, dan audio game di rekaman layar tertangkap di level rendah. Lalu platform memampatkan video, dan trek yang sudah pelan jadi datar dan tenggelam di bawah musik tambahan.",
+    "Solusi yang andal adalah menaikkan level file-nya sendiri sebelum masuk ke aplikasi. Begini caranya dan seberapa besar penguatannya."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Tangkapan layar „Download and share anywhere”: lembar berbagi iOS untuk video yang diperkuat",
+    "caption": "Setelah diperkuat, bagikan langsung ke TikTok atau simpan ke Foto lalu unggah dari sana."
+  },
+  "sections": [
+    {
+      "heading": "Kenapa mengeraskan di dalam TikTok tidak cukup",
+      "paragraphs": [
+        "TikTok dan Instagram punya kontrol volume untuk suara asli, tetapi fungsinya menyeimbangkan dengan musik tambahan, bukan menyelamatkan rekaman yang pelan. Kedua platform juga menormalkan volume saat unggah (TikTok menargetkan sekitar −14 LUFS), yang menyamakan volume *rata-rata*, tetapi tidak bisa menaikkan bisikan ke level suara bicara tanpa ikut menaikkan bising. Jika sumbernya pelan, unggahannya juga pelan."
+      ]
+    },
+    {
+      "heading": "Seberapa besar penguatannya",
+      "paragraphs": [
+        "Untuk klip saat Anda bicara ke kamera dan suaranya hanya sedikit pelan, ×2–×3 biasanya pas. Untuk klip dari jauh, berangin, atau rekaman layar, ×4–×6. Simpan ×8–×10 untuk rekaman yang hampir tak terdengar. Memperkuat berlebihan klip yang sudah punya momen keras membuatnya terpotong, dan kompresi platform makin menonjolkan kekasarannya."
+      ],
+      "table": {
+        "head": [
+          "Klip Anda",
+          "Pengali yang disarankan"
+        ],
+        "rows": [
+          [
+            "Bicara ke kamera, ponsel di tangan",
+            "×2 – ×3"
+          ],
+          [
+            "Direkam dari ujung ruangan atau di luar",
+            "×4 – ×6"
+          ],
+          [
+            "Rekaman layar game atau tutorial",
+            "×5 – ×10"
+          ],
+          [
+            "Klip musik, musik oke, suara pelan",
+            "×2 dengan Tingkatkan Kualitas Audio"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Kenapa penguat khusus lebih unggul dari CapCut atau iMovie di sini",
+      "paragraphs": [
+        "Editor video juga bisa mengeraskan suara, tetapi iMovie berhenti di 500% dan keduanya butuh proyek, garis waktu, dan ekspor baru. Penguat Volume membuka klip langsung dari Foto, memberi slider hingga ×10, perbandingan Asli/Diproses, dan lembar berbagi yang langsung ke TikTok, Instagram, atau kembali ke Foto. Ini langkah satu menit sebelum alur edit Anda yang biasa."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: memperkuat klip untuk TikTok atau Reels",
+    "intro": "Lakukan pada klip final, tepat sebelum diunggah.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Kirim klip ke aplikasi",
+        "text": "Di Foto, buka video, ketuk Bagikan, dan pilih Increase Volume. Proyek terbuka dengan info file."
+      },
+      {
+        "name": "Untuk suara bicara, Tingkatkan Kualitas Audio",
+        "text": "Jika suara Anda inti klipnya, aktifkan opsi ini sebelum memperkuat."
+      },
+      {
+        "name": "Pilih pengali",
+        "text": "Mulai dari ×3, ketuk «Boost volume», dan beralih antara Asli/Diproses di bagian paling keras. Sesuaikan sampai jelas keras tanpa kasar."
+      },
+      {
+        "name": "Unduh yang diproses",
+        "text": "Ketuk «Unduh yang diproses» lalu Simpan Video (klip yang diperkuat tersimpan di samping aslinya di Foto), atau bagikan langsung ke TikTok atau Instagram."
+      },
+      {
+        "name": "Unggah dan cek suaranya",
+        "text": "Di TikTok, unggah klip yang diperkuat. Jika menambah sound, kecilkan musik tambahannya daripada mengeraskan suara Anda lagi."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips untuk klip yang lebih keras dan jernih",
+    "items": [
+      "Rekam dalam jarak kurang dari 30 cm dari ponsel bila memungkinkan; jarak adalah penyebab nomor satu suara pelan.",
+      "Unggah tes privat dulu: unggah klip yang diperkuat sebagai privat, dengarkan lewat speaker ponsel, lalu sesuaikan.",
+      "Simpan file asli. Aplikasi selalu membuat file baru, jadi Anda bisa memperkuat ulang di level lain."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bisakah mengeraskan TikTok yang sudah diunggah?",
+      "answer": "Tidak. Setelah diunggah, audionya sudah diproses dan tetap. Cari klip aslinya, keraskan dengan Penguat Volume, lalu unggah ulang."
+    },
+    {
+      "question": "Apakah bisa juga untuk Instagram Reels dan YouTube Shorts?",
+      "answer": "Bisa. Penguatan tertulis di file video, jadi berlaku di mana pun Anda mengunggahnya: Reels, Shorts, Snapchat, status WhatsApp."
+    },
+    {
+      "question": "Apakah klip yang diperkuat turun kualitasnya atau ditandai?",
+      "answer": "Tidak. Gambar tidak berubah dan audionya trek biasa, hanya lebih keras. Platform tetap meng-encode ulang semua yang Anda unggah."
+    }
+  ],
+  "related": [
+    "cara-mengeraskan-suara-video-di-iphone",
+    "mengeraskan-suara-tanpa-mengurangi-kualitas",
+    "mengeraskan-video-dari-foto"
+  ]
+}

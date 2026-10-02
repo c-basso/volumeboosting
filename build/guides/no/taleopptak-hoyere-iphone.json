@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "gjøre taleopptak høyere iPhone",
+  "priority": 4,
+  "keywords": "gjøre taleopptak høyere iPhone, Taleopptak for lavt, øke volum på lydopptak, lavt lydopptak iPhone, forsterke opptak forelesning",
+  "title": "Gjør et opptak i Taleopptak høyere på iPhone (opptil 10×)",
+  "description": "«Forbedre opptak» i Taleopptak gjør ikke filen høyere. Slik eksporterer du opptaket, forsterker det opptil 10× med Volumforsterker og lagrer en høyere M4A.",
+  "h1": "Slik gjør du et opptak i Taleopptak høyere på iPhone",
+  "eyebrow": "Taleopptak",
+  "card_title": "Taleopptak høyere",
+  "card_summary": "«Forbedre opptak» fjerner støy, men øker ikke volumet. Slik gjør du selve filen høyere.",
+  "quick_answer": "Taleopptak-appen har ingen volumglidebryter for selve filen; «Forbedre opptak» reduserer bare støy ved avspilling. For å gjøre opptaket høyere: trykk ⋯ på opptaket → Del → Increase Volume, slå på «Forbedre lydkvalitet», forsterk ×5–×10, sammenlign Original og Behandlet og trykk «Last ned behandlet». Den høyere M4A-filen kan arkiveres i Filer eller deles.",
+  "intro": [
+    "Forelesninger, møter, intervjuer og idéer tas ofte opp med Taleopptak fra en telefon som ligger på bordet. Resultatet er ofte for lavt, særlig når den som snakker sitter langt unna.",
+    "Denne guiden forklarer hva innstillingene i Taleopptak faktisk gjør, og hvordan du lager en varig høyere kopi av opptaket."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Spordetaljer i Volumforsterker med «Forbedre lydkvalitet» slått på og glidebryteren «Volummultiplikasjon ×10»",
+    "caption": "For tale: slå på «Forbedre lydkvalitet» og velg multiplikasjonen."
+  },
+  "sections": [
+    {
+      "heading": "Hva «Forbedre opptak» gjør, og ikke gjør",
+      "paragraphs": [
+        "I Taleopptak finner du redigeringsvalget «Forbedre opptak» (tryllestavsymbolet). Det reduserer bakgrunnsstøy og romklang, men øker ikke nivået i filen merkbart. Deler du opptaket, er det like lavt som før."
+      ]
+    },
+    {
+      "heading": "Avspillingsvolum versus filvolum",
+      "paragraphs": [
+        "Volumknappene påvirker bare høyttaleren din. Skal en kollega, en transkriberingstjeneste eller et redigeringsprogram få et tydelig signal, må selve filen bli høyere. Det gjør Volumforsterker: den multipliserer lydnivået og lagrer en ny M4A."
+      ]
+    },
+    {
+      "heading": "Slik deler du et opptak fra Taleopptak",
+      "paragraphs": [],
+      "list": [
+        "Åpne Taleopptak og trykk på opptaket.",
+        "Trykk ⋯ (Mer) og velg Del.",
+        "Velg Increase Volume i delingsarket, eller Arkiver i Filer for å åpne det senere."
+      ],
+      "ordered": true
+    }
+  ],
+  "steps": {
+    "heading": "Steg for steg: forsterk et taleopptak",
+    "intro": "Under ett minutt for et opptak på noen minutter.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Del opptaket",
+        "text": "Fra Taleopptak: ⋯ → Del → Increase Volume. Appen viser filnavn, størrelse og varighet."
+      },
+      {
+        "name": "Slå på «Forbedre lydkvalitet»",
+        "text": "Gjør stemmen tydeligere sammen med forsterkningen."
+      },
+      {
+        "name": "Forsterk",
+        "text": "Dra «Volummultiplikasjon» til ×5–×10 og trykk «Boost lydstyrken til ×N»."
+      },
+      {
+        "name": "Sammenlign og lagre",
+        "text": "Lytt til Original og Behandlet, trykk «Last ned behandlet» og velg Arkiver i Filer."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips for tale",
+    "items": [
+      "Legg telefonen med mikrofonen (nederst) mot den som snakker neste gang; det gir mer enn noen forsterkning.",
+      "Klapp eller latter nær telefonen lager topper. Bruk ×4–×6 og sjekk de høyeste partiene.",
+      "En høyere fil gir ofte bedre resultat i transkriberingsverktøy."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan jeg øke volumet i Taleopptak uten en annen app?",
+      "answer": "Nei. Taleopptak kan klippe, erstatte og forbedre, men har ingen volumforsterkning for filen."
+    },
+    {
+      "question": "Hvilket format får den forsterkede filen?",
+      "answer": "Lydfiler lagres som en ny lydfil (M4A for opptak fra Taleopptak) som kan arkiveres i Filer eller deles."
+    },
+    {
+      "question": "Blir bakgrunnsstøyen også høyere?",
+      "answer": "Ja, alt i opptaket forsterkes. «Forbedre lydkvalitet» hjelper stemmen med å skille seg ut."
+    }
+  ],
+  "related": [
+    "whatsapp-talemelding-for-lav",
+    "podkast-lydbok-hoyere-iphone",
+    "gjor-mp3-hoyere-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

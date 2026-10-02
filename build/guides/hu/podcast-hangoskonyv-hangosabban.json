@@ -1,0 +1,127 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "halk hangoskönyv",
+  "priority": 12,
+  "keywords": "halk hangoskönyv, podcast hangosítása iPhone, halk podcast, hangoskönyv hangerő növelése, halk előadásfelvétel",
+  "title": "Hogyan hangosíts podcastot vagy hangoskönyvet iPhone-on",
+  "description": "Halk podcast, hangoskönyv vagy rögzített előadás? Streamingnél a lejátszó beszédkiemelését használd; a saját fájljaidat hangosítsd akár 10×-re iPhone-on.",
+  "h1": "Hogyan hangosíts podcastot vagy hangoskönyvet iPhone-on",
+  "eyebrow": "Podcastok és hangoskönyvek",
+  "card_title": "Podcast vagy hangoskönyv hangosítása",
+  "card_summary": "Lejátszóbeállítások streaminghez; valódi fájlhangosítás MP3 vagy M4A epizódokhoz és fejezetekhez.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "A podcast-appban streamelt epizódoknál használd az app saját hangerőfunkcióját (Overcast: Voice Boost, Pocket Casts: Volume Boost; az Apple Podcastsban nincs ilyen). A fájlként meglévő epizódokat, hangoskönyv-fejezeteket vagy előadásokat (MP3, M4A, MP4 a Fájlokban vagy az iCloud Drive-on) nyisd meg a Hangerőnövelő Média appban, kapcsold be a „Hangminőség javítása” lehetőséget, hangosíts ×3–×10-re, hasonlítsd össze az Eredetit és a Feldolgozottat, és a „Feldolgozott letöltése” gombbal ments egy hangosabb másolatot, amely minden appban lejátszható.",
+  "intro": [
+    "A rögzített beszédnek hangerőgondja van: a podcastokat kb. −16 LUFS-re kellene masterelni, de a független műsorok, a rögzített előadások és a régebbi hangoskönyvek gyakran jóval halkabbak, és egy halkan beszélő vendég eltűnik a hangos műsorvezető mellett. A villamoson vagy az autóban ez folytonos hangerő-állítgatást jelent.",
+    "A megoldás attól függ, hol van a hang: egy streaming-appban vagy egy általad kezelt fájlban."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Képernyőkép a Hangerőnövelő Média projektlistájáról MP3 fájlokkal és videókkal",
+    "caption": "Hangosíts egy egész epizód- vagy fejezetsorozatot; mindegyik a projektlistán marad."
+  },
+  "sections": [
+    {
+      "heading": "Streaming egy podcast-appban",
+      "paragraphs": [
+        "A streaming-appban élő hangot nem tudod szerkeszteni, de több lejátszó valós időben dolgozza fel a hangerőt:"
+      ],
+      "list": [
+        "Overcast: a Voice Boost normalizálja és tömöríti a beszédet; műsoronként vagy mindenhol bekapcsolható.",
+        "Pocket Casts: Volume Boost és Trim Silence a lejátszási effektek között.",
+        "Spotify: Hangerő normalizálása a lejátszási beállításokban.",
+        "Apple Podcasts: nincs hangerőfunkció. A Beállítások › Zene › Hangerő-kiegyenlítés csak a zenére vonatkozik, a podcastokra nem."
+      ],
+      "note": "Ezek a funkciók csak az adott appban, lejátszás közben működnek. A fájlt nem változtatják meg, így ha máshová viszed az epizódot, semmi sem javul."
+    },
+    {
+      "heading": "Letöltött fájlok",
+      "paragraphs": [
+        "Sok podcast közvetlen MP3-letöltést kínál a weboldalán, a kurzusplatformok MP3-at vagy MP4-et exportálnak, a DRM nélküli hangoskönyvek (LibriVox, letölthető MP3-at árusító boltok vagy saját másolataid) pedig MP3-ként vagy M4B-ként érkeznek. Ha a fájl a Fájlokban vagy az iCloud Drive-on van, a Hangerőnövelő Média megnyitja, ×10-ig megszorozza a szintet, és új másolatot ment. A „Hangminőség javítása” beszédre készült, itt a leghasznosabb."
+      ],
+      "note": "Az Audible, az Apple Books vagy a Storytel hangoskönyvei, illetve az Apple Podcastsban vagy a Spotifyban letöltött tartalmak másolásvédettek, más app nem importálhatja őket."
+    },
+    {
+      "heading": "Milyen szorzót használj beszédhez",
+      "table": {
+        "head": [
+          "Forrás",
+          "Szokásos szorzó"
+        ],
+        "rows": [
+          [
+            "Profi podcast, amely csak kicsit halk",
+            "×1,5 – ×2"
+          ],
+          [
+            "Független műsor vagy interjú halk vendéggel",
+            "×3 – ×5"
+          ],
+          [
+            "Távolról rögzített előadás vagy megbeszélés",
+            "×6 – ×10"
+          ],
+          [
+            "Régi hangoskönyv-másolat",
+            "×2 – ×4"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Lépésről lépésre: epizód vagy fejezet hangosítása",
+    "intro": "A Fájlokban, iCloud Drive-on, Dropboxban lévő vagy e-mailben kapott fájlokhoz.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Add hozzá a fájlt",
+        "text": "Nyisd meg a Hangerőnövelő Média appot, és add hozzá az epizódot a Fájlokból, vagy a Fájlokban nyomd hosszan a fájlt → Megosztás → Increase Volume."
+      },
+      {
+        "name": "Kapcsold be a Hangminőség javítását",
+        "text": "Beszédről van szó; a kapcsoló hangosítás után is tisztán tartja a mássalhangzókat."
+      },
+      {
+        "name": "Válaszd ki a szorzót",
+        "text": "Igazodj a fenti táblázathoz, és koppints a „Hangerő kiemelése” gombra."
+      },
+      {
+        "name": "Hasonlítsd össze",
+        "text": "Válts az Eredeti/Feldolgozott között a leghangosabb résznél (főcímzene, nevetés)."
+      },
+      {
+        "name": "Feldolgozott letöltése",
+        "text": "Mentsd a Fájlokba. A hangosított fájlt játszd le a Fájlokból, a Könyvekből (hangoskönyvek) vagy bármely lejátszóból, amely helyi hangot nyit meg."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tippek",
+    "items": [
+      "Egy hangoskönyv minden fejezetét ugyanazzal a szorzóval hangosítsd, hogy a hangerő ne ugráljon a fejezetek között.",
+      "Videós előadásoknál (MP4) a lépések ugyanazok; a kép nem változik.",
+      "Ha egy fájlban hangos a főcímzene és halk a beszéd, a szorzót a beszédhez válaszd, és fogadd el, hogy a zene a „Hangminőség javítása” mellett kissé tömörített lesz."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Hangosíthatom az Apple Podcastsot?",
+      "answer": "Az Apple Podcastsban nincs hangerő-beállítás vagy beszédkiemelés. Válts olyan lejátszóra, amelyben van (Overcast, Pocket Casts), vagy töltsd le az epizód MP3-át a műsor weboldaláról, és hangosítsd a fájlt a Hangerőnövelő Média appal."
+    },
+    {
+      "question": "Hangosíthatok egy Audible- vagy Storytel-hangoskönyvet?",
+      "answer": "Nem. Ezek a fájlok titkosítottak, más appban nem nyílnak meg. Használd a saját lejátszójuk hangbeállításait, ha vannak."
+    },
+    {
+      "question": "Megmaradnak a fejezetek és a borítókép a hangosított epizódban?",
+      "answer": "A Hangerőnövelő Média feldolgozza a hangot, és új fájlt hoz létre. Az alapvető metaadatok, például a cím, megmaradnak, ha a formátum engedi; a fejezetjelölők elveszhetnek."
+    }
+  ],
+  "related": [
+    "mp3-hangerejenek-novelese-iphone",
+    "hangjegyzet-hangerejenek-novelese",
+    "hangero-novelese-minosegromlas-nelkul"
+  ]
+}

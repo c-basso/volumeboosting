@@ -1,0 +1,127 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "buku audio suara perlahan",
+  "priority": 12,
+  "keywords": "buku audio suara perlahan, kuatkan podcast di iPhone, podcast berbunyi perlahan, naikkan volume buku audio, rakaman kuliah perlahan",
+  "title": "Cara Kuatkan Podcast atau Buku Audio yang Perlahan di iPhone",
+  "description": "Podcast, buku audio atau kuliah terlalu perlahan? Semasa strim guna penguat suara pemain; fail milik anda kuatkan hingga 10× dengan Penguat Volume Bunyi.",
+  "h1": "Cara kuatkan podcast atau buku audio di iPhone",
+  "eyebrow": "Podcast dan buku audio",
+  "card_title": "Kuatkan podcast atau buku audio",
+  "card_summary": "Tetapan pemain untuk penstriman; penguatan fail sebenar untuk episod dan bab dalam MP3 atau M4A.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Untuk episod yang anda strim dalam aplikasi podcast, gunakan ciri kelantangan aplikasi itu sendiri (Voice Boost dalam Overcast, Volume Boost dalam Pocket Casts; Apple Podcasts tiada). Episod, bab buku audio atau kuliah yang anda miliki sebagai fail (MP3, M4A, MP4 dalam Fail atau iCloud Drive), buka dalam Penguat Volume Bunyi, hidupkan «Tingkatkan Kualiti Audio», kuatkan ×3–×10, bandingkan Asal dan Diproses, kemudian ketik «Muat turun yang diproses» untuk menyimpan salinan lebih kuat yang boleh dimainkan dalam mana-mana aplikasi.",
+  "intro": [
+    "Suara bercakap yang dirakam ada masalah kelantangan: podcast sepatutnya di-master sekitar −16 LUFS, tetapi rancangan bebas, rakaman kuliah dan buku audio lama selalunya jauh lebih perlahan, dan tetamu yang bercakap perlahan tenggelam di sebelah hos yang kuat. Dalam LRT atau kereta, itu bermakna sentiasa melaraskan kelantangan.",
+    "Penyelesaiannya bergantung pada di mana audio itu berada: dalam aplikasi penstriman atau dalam fail yang anda kawal."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Tangkapan skrin senarai projek dalam Penguat Volume Bunyi dengan fail MP3 dan video",
+    "caption": "Kuatkan satu siri episod atau bab; setiap satu kekal dalam senarai projek."
+  },
+  "sections": [
+    {
+      "heading": "Penstriman dalam aplikasi podcast",
+      "paragraphs": [
+        "Audio dalam aplikasi penstriman tidak boleh disunting, tetapi beberapa pemain memproses kelantangan secara langsung:"
+      ],
+      "list": [
+        "Overcast: Voice Boost menormalkan dan memampatkan suara bercakap; boleh dihidupkan bagi setiap rancangan atau semua.",
+        "Pocket Casts: Volume Boost dan Trim Silence dalam kesan main balik.",
+        "Spotify: Normalisasi volume dalam tetapan main balik.",
+        "Apple Podcasts: tiada ciri kelantangan. Semak Bunyi dalam Tetapan › Muzik hanya terpakai untuk muzik, bukan podcast."
+      ],
+      "note": "Ciri-ciri ini hanya berfungsi semasa dimainkan dalam aplikasi tersebut. Failnya tidak berubah, jadi jika episod dipindahkan ke tempat lain, tiada apa-apa yang bertambah baik."
+    },
+    {
+      "heading": "Fail yang dimuat turun",
+      "paragraphs": [
+        "Banyak podcast menyediakan muat turun MP3 terus dari laman webnya, platform kursus mengeksport MP3 atau MP4, dan buku audio tanpa DRM (LibriVox, kedai yang menjual MP3 untuk dimuat turun atau salinan anda sendiri) datang sebagai MP3 atau M4B. Jika fail ada dalam Fail atau iCloud Drive, Penguat Volume Bunyi membukanya, menggandakan tahapnya hingga ×10 dan menyimpan salinan baharu. «Tingkatkan Kualiti Audio» direka untuk suara bercakap, jadi di sinilah ia paling berguna."
+      ],
+      "note": "Buku audio dari Audible, Apple Books atau Storytel serta muat turun dalam Apple Podcasts atau Spotify dilindungi salinan dan tidak boleh diimport oleh aplikasi lain."
+    },
+    {
+      "heading": "Pengganda yang sesuai untuk suara bercakap",
+      "table": {
+        "head": [
+          "Sumber",
+          "Pengganda biasa"
+        ],
+        "rows": [
+          [
+            "Podcast profesional yang hanya sedikit perlahan",
+            "×1.5 – ×2"
+          ],
+          [
+            "Rancangan bebas atau temu bual dengan tetamu perlahan",
+            "×3 – ×5"
+          ],
+          [
+            "Kuliah atau mesyuarat yang dirakam dari jauh",
+            "×6 – ×10"
+          ],
+          [
+            "Salinan buku audio lama",
+            "×2 – ×4"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: kuatkan episod atau bab",
+    "intro": "Untuk fail dalam Fail, iCloud Drive, Dropbox atau yang diterima melalui e-mel.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Tambah fail",
+        "text": "Buka Penguat Volume Bunyi dan tambah episod dari Fail, atau dalam Fail tekan lama fail → Kongsi → Increase Volume."
+      },
+      {
+        "name": "Hidupkan Tingkatkan Kualiti Audio",
+        "text": "Kandungannya suara bercakap; pilihan ini mengekalkan konsonan yang jelas selepas dikuatkan."
+      },
+      {
+        "name": "Pilih pengganda",
+        "text": "Ikut jadual di atas dan ketik «Boost kelantangan»."
+      },
+      {
+        "name": "Bandingkan",
+        "text": "Beralih antara Asal/Diproses pada bahagian paling kuat (jingle pembuka, gelak)."
+      },
+      {
+        "name": "Muat turun yang diproses",
+        "text": "Simpan ke Fail. Mainkan fail yang dikuatkan dari Fail, dari Buku (buku audio) atau dalam mana-mana pemain yang membuka audio setempat."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tip",
+    "items": [
+      "Kuatkan semua bab buku audio dengan pengganda yang sama supaya kelantangannya tidak melompat antara bab.",
+      "Untuk kuliah berbentuk video (MP4), langkahnya sama; gambar tidak berubah.",
+      "Jika fail ada jingle kuat dan suara bercakap perlahan, pilih pengganda berdasarkan suara bercakap dan terima jingle yang sedikit dimampatkan dengan «Tingkatkan Kualiti Audio» dihidupkan."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bolehkah kuatkan Apple Podcasts?",
+      "answer": "Apple Podcasts tiada tetapan kelantangan atau penguat suara bercakap. Tukar ke pemain yang ada (Overcast, Pocket Casts) atau muat turun MP3 episod dari laman rancangan dan kuatkan failnya dengan Penguat Volume Bunyi."
+    },
+    {
+      "question": "Bolehkah kuatkan buku audio dari Audible atau Storytel?",
+      "answer": "Tidak. Fail tersebut disulitkan dan tidak boleh dibuka dalam aplikasi lain. Gunakan tetapan bunyi dalam pemainnya sendiri, jika ada."
+    },
+    {
+      "question": "Adakah episod yang dikuatkan mengekalkan bab dan kulit?",
+      "answer": "Penguat Volume Bunyi memproses audio dan mencipta fail baharu. Metadata asas seperti tajuk dikekalkan jika format membenarkannya; penanda bab mungkin hilang."
+    }
+  ],
+  "related": [
+    "kuatkan-mp3-iphone",
+    "kuatkan-memo-suara-iphone",
+    "kuatkan-suara-tanpa-hilang-kualiti"
+  ]
+}

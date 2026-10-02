@@ -1,0 +1,137 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie volume verhogen",
+  "priority": 11,
+  "keywords": "iMovie volume verhogen, iMovie geluid harder, harder dan iMovie, iMovie meer dan 500%, maximaal volume iMovie iPhone",
+  "title": "iMovie-volume: zo kom je boven de grens van 500% (iPhone)",
+  "description": "iMovie op iPhone stopt rond 500% per clip. Niet genoeg? Audioversterker brengt dezelfde video met één schuifregelaar naar 10×, zonder project of nieuwe export.",
+  "h1": "De volumegrens van iMovie (500%) en hoe je erboven komt",
+  "eyebrow": "Versus iMovie",
+  "card_title": "Harder dan de 500% van iMovie",
+  "card_summary": "Zo verhoog je het volume in iMovie, waarom de schuifregelaar bij 5× stopt en de weg naar 10× met één regelaar.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "In iMovie op iPhone kun je een clip tot ongeveer 500% (5×) harder maken: tik op de clip, op het luidsprekersymbool, sleep naar rechts en exporteer. Is de video op het maximum nog te zacht, open dan hetzelfde bestand in Audioversterker, dat het geluid tot ×10 (1000%) vermenigvuldigt, je Origineel en Verwerkt laat vergelijken en een nieuwe kopie bewaart zonder project. Hij opent ook losse audiobestanden, die iMovie niet opent.",
+  "intro": [
+    "iMovie is het gratis antwoord van Apple op 'hoe maak ik mijn video harder', en voor een clip die wat zacht is werkt het. Maar de schuifregelaar heeft een plafond, en opnames vanaf de andere kant van een kamer of schermopnames hebben vaak meer nodig. Dan exporteer je op 500%, hoor je het nog steeds slecht en ga je op zoek naar iets 'harders dan iMovie'.",
+    "Hier lees je precies hoe ver iMovie gaat, hoe je het gebruikt en wat je doet als het niet genoeg is."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Schermafbeelding 'Select the amount of boosting': schuifregelaar volumevermenigvuldiging ×10, het dubbele van het maximum van iMovie",
+    "caption": "De ×10 van Audioversterker is ongeveer het dubbele van het maximum van iMovie."
+  },
+  "sections": [
+    {
+      "heading": "Zo verhoog je het volume in iMovie op iPhone",
+      "paragraphs": [
+        "Heb je het nog niet geprobeerd, dan is het goed om de gratis route te kennen:"
+      ],
+      "list": [
+        "Open iMovie → Start nieuw project → Film en kies de video.",
+        "Tik op de clip in de tijdbalk om hem te selecteren.",
+        "Tik op het luidsprekersymbool in de knoppenbalk en sleep de volumeschuifregelaar naar rechts. Hij stopt rond 500%.",
+        "Tik op Gereed, dan op het deelsymbool → Bewaar video, en wacht terwijl iMovie de hele clip opnieuw codeert."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Waar iMovie tekortschiet",
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Audioversterker"
+        ],
+        "rows": [
+          [
+            "Maximale versterking",
+            "Ongeveer 500% (5×)",
+            "×10 (1000%)"
+          ],
+          [
+            "Losse audiobestanden (MP3, Dictafoon)",
+            "Niet ondersteund",
+            "Ondersteund"
+          ],
+          [
+            "Werkwijze",
+            "Project maken → clip toevoegen → regelen → exporteren",
+            "Delen vanuit Foto's → schuifregelaar → Verwerkt bestand downloaden"
+          ],
+          [
+            "Voor/na beluisteren",
+            "Tijdbalk afspelen",
+            "Schakelaar Origineel / Verwerkt"
+          ],
+          [
+            "Beeld opnieuw coderen",
+            "Ja, volledige export",
+            "Alleen het geluid wordt verwerkt, het beeld blijft intact"
+          ],
+          [
+            "Spraakverbetering",
+            "Nee",
+            "Schakelaar Audiokwaliteit verbeteren"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Wanneer 500% genoeg is, en wanneer niet",
+      "paragraphs": [
+        "5× is ongeveer +14 dB. Dat dekt een clip die een beetje zacht klinkt. Het dekt geen college vanaf de achterste rij, een telefoon die tijdens een gesprek op tafel is vergeten, of de meeste schermopnames, die vaak 15–25 dB onder normaal liggen. Daarvoor heb je ×8–×10 nodig en moet je kunnen horen of het hardste moment op dat niveau clipt; precies daarvoor is de schakelaar Origineel/Verwerkt van Audioversterker."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Stap voor stap: voorbij de grens van iMovie",
+    "intro": "Gebruik de originele video, niet de iMovie-export, zodat je één keer versterkt vanaf de schoonste bron.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Deel de originele video met de app",
+        "text": "Open in Foto's de clip, tik op Deel en kies Increase Volume."
+      },
+      {
+        "name": "Vermenigvuldiging boven 5",
+        "text": "Sleep 'Volumevermenigvuldiging' naar ×6–×10, afhankelijk van hoe zacht het is. Zet voor spraak 'Audiokwaliteit verbeteren' aan. Tik op 'Volume versterken'."
+      },
+      {
+        "name": "Vergelijk",
+        "text": "Wissel tussen Origineel/Verwerkt op het hardste stuk. Klinkt het rauw, ga dan een stap omlaag en versterk opnieuw."
+      },
+      {
+        "name": "Verwerkt bestand downloaden",
+        "text": "Bewaar de luidere kopie in Foto's of deel hem direct. Het origineel blijft intact."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Wil je iMovie blijven gebruiken voor knippen of titels, versterk dan eerst in Audioversterker en bewerk daarna het versterkte bestand in iMovie.",
+      "Stapel versterkingen niet (iMovie op 500% en dan ×10 op de export); ga in één keer van het origineel naar het niveau dat je nodig hebt.",
+      "Vergeet iMovie voor audiobestanden; het opent geen MP3 of M4A."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Waarom begrenst iMovie het volume op 500%?",
+      "answer": "Apple begrenst de schuifregelaar zodat gewone bewerkingen niet te veel clippen. Voor normale video's is dat redelijk, maar voor heel zachte opnames is het laag."
+    },
+    {
+      "question": "Is Audioversterker gratis zoals iMovie?",
+      "answer": "De download is gratis en er is een gratis proefperiode; onbeperkt versterken ontgrendel je met een abonnement. De actuele prijzen staan in de App Store."
+    },
+    {
+      "question": "Gaat iMovie op de Mac boven 500%?",
+      "answer": "Ook iMovie voor Mac stopt rond 400–500%. Programma's als Final Cut Pro of Audacity gaan hoger, maar daarvoor heb je een computer nodig en moet je het bestand overzetten. Audioversterker doet het op je iPhone."
+    }
+  ],
+  "related": [
+    "video-geluid-harder-maken-iphone",
+    "harder-maken-zonder-kwaliteitsverlies",
+    "video-harder-maken-vanuit-fotos"
+  ]
+}

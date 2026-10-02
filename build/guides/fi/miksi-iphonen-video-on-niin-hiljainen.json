@@ -1,0 +1,115 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "miksi video on hiljainen",
+  "priority": 7,
+  "keywords": "miksi iPhonen video on hiljainen, video hiljainen iPhone, kuvattu video liian hiljainen, iPhonen mikrofoni hiljainen, videon ääni heikko",
+  "title": "Miksi iPhonen video on niin hiljainen? 7 syytä ja korjaus",
+  "description": "Hiljainen iPhone-video johtuu yleensä etäisyydestä, peittyneestä mikrofonista, tuulesta, Bluetoothista tai kuulokerajasta. Löydä syy ja tehosta tiedosto 10×.",
+  "h1": "Miksi iPhonen video on niin hiljainen? Syyt ja korjaus",
+  "eyebrow": "Vianmääritys",
+  "card_title": "Miksi iPhonen video on hiljainen?",
+  "card_summary": "Seitsemän syytä peittyneestä mikrofonista kuulokerajaan ja miten pelastat jo kuvatun videon.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "iPhone-video on hiljainen joko siksi, että se *tallennettiin* hiljaa (puhuja kaukana mikrofonista, mikrofoni kuoren tai sormen peitossa, tuuli, sovelluksen pieni äänenvoimakkuus näytön tallennuksessa), tai siksi, että se *toistetaan* hiljaa (Bluetooth-laite yhdistettynä, Vähennä kovia ääniä päällä, likainen kaiutin). Tarkista ensin toisto toisella videolla. Jos itse tallenne on hiljainen, mikään asetus ei korjaa sitä; tehosta tiedosto jopa 10× Increase Volumella ja tallenna kovempi kopio.",
+  "intro": [
+    "Selvitä ensin, millaisesta hiljaisuudesta on kyse. Toista toinen video, jonka tiedät olevan kunnossa. Jos se kuuluu kovaa, puhelin on kunnossa ja vika on tallenteessa. Jos kaikki on hiljaista, kyse on puhelimen toistosta. Syyt ja korjaukset ovat täysin erilaiset, joten tämä puolen minuutin testi säästää paljon aikaa.",
+    "Alla ovat seitsemän yleisintä syytä siinä järjestyksessä, kuinka usein ne osoittautuvat syyllisiksi."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/1.webp",
+    "alt": "Increase Volumen mainoskuva: äänenvoimakkuus kymmenkertaiseksi iPhonella",
+    "caption": "Jos itse tallenne on hiljainen, ratkaisu on tehostaa tiedostoa."
+  },
+  "sections": [
+    {
+      "heading": "Tallennuksen syyt (video on hiljainen kaikkialla)",
+      "paragraphs": [
+        "Nämä ovat tiedostossa sisällä. Ne selittävät, miksi video on hiljainen jokaisessa puhelimessa, johon sen lähetät."
+      ],
+      "list": [
+        "Etäisyys: puhelimen mikrofonit on viritetty noin metrin päässä olevalle puhujalle. Huoneen toisella puolella oleva kuulostaa heikolta ja kaikuvalta.",
+        "Peittynyt mikrofoni: videon päämikrofoni on takakameroiden vieressä; paksu kuori, sormi tai pidike voi vaimentaa sen. Tallenne on hiljainen ja tukkoinen.",
+        "Tuuli ja taustamelu: meluisassa ympäristössä iPhone laskee herkkyyttä, joten puhuja kuuluu hiljempaa.",
+        "Näytön tallennuksen taso: iOS tallentaa sovellusten äänen alennettuna, ja vielä hiljempaa, jos sovelluksen äänenvoimakkuus oli pieni tai Bluetooth-kuulokkeet olivat yhdistettyinä.",
+        "Vastaanotetut leikkeet: WhatsAppin tai Messengerin kautta lähetetty video koodataan uudelleen ja saapuu joskus alkuperäistä hiljaisempana."
+      ]
+    },
+    {
+      "id": "toisto",
+      "heading": "Toiston syyt (kaikki videot ovat hiljaisia tässä puhelimessa)",
+      "paragraphs": [
+        "Nämä saavat puhelimesi soittamaan hiljaa; tiedosto on kunnossa ja kuulostaa muualla normaalilta."
+      ],
+      "list": [
+        "Bluetooth yhä yhdistettynä: ääni menee laatikossa oleviin AirPodseihin tai auton soittimeen. Avaa Ohjauskeskus ja tarkista äänilähtö.",
+        "Vähennä kovia ääniä: Asetukset › Äänet ja tuntokyky › Kuulokkeiden turvallisuus rajoittaa kuulokkeiden äänenvoimakkuutta. Hyvä suoja, mutta tekee hiljaisista videoista kuulokkeissa vielä hiljaisempia.",
+        "Tarkkaavaisuutta vaativat ominaisuudet (Face ID -iPhonet): Asetukset › Face ID ja pääsykoodi hiljentää hälytyksiä, kun katsot näyttöä; joidenkin mielestä myös media kuulostaa hiljaisemmalta.",
+        "Likainen kaiutinritilä tai vesijäämät: kuiva, pehmeä sivellin palauttaa yllättävän paljon äänenvoimakkuutta.",
+        "Tasapaino: Asetukset › Saavutettavuus › Ääni ja visuaalisuus › Tasapaino pitäisi olla keskellä."
+      ]
+    },
+    {
+      "heading": "Korjaus hiljaa tallennetulle videolle",
+      "paragraphs": [
+        "Hetkeä ei voi kuvata uudelleen, eivätkä iPhonen asetukset muuta tallennettua tiedostoa. Kuvissa ei ole äänenvoimakkuussäädintä; iMovie nostaa leikkeen äänenvoimakkuuden noin 500 %:iin, kun olet luonut projektin. Increase Volume avaa videon suoraan Kuvista, kertoo äänen jopa ×10:llä, antaa verrata Alkuperäistä ja Käsiteltyä ja tallentaa uuden kopion. Kovempi kopio kuuluu kovaa kaikilla laitteilla ja kaikissa sovelluksissa.",
+        "Jos syy oli peittynyt mikrofoni, tehostus korjaa tason mutta ei tukkoista sointia; laita ”Paranna äänenlaatua” päälle puheen avuksi."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Vaihe vaiheelta: pelasta hiljainen video",
+    "intro": "Minuutti ilmaisella Increase Volume -sovelluksella.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Varmista, että vika on tallenteessa",
+        "text": "Toista toinen video. Jos se kuuluu kovaa, jatka; muuten korjaa ensin yllä olevat toiston syyt."
+      },
+      {
+        "name": "Jaa hiljainen video Increase Volumeen",
+        "text": "Avaa se Kuvissa, napauta Jaa ja valitse Increase Volume."
+      },
+      {
+        "name": "Tehosta",
+        "text": "Aseta ”Äänenvoimakkuuden kertoja” aluksi ×4:ään (hyvin hiljaisille enemmän), laita ”Paranna äänenlaatua” päälle, jos kyse on puheesta, ja napauta ”Tehosta äänenvoimakkuutta”."
+      },
+      {
+        "name": "Vertaa",
+        "text": "Vaihda Alkuperäinen/Käsitelty kovimmassa kohdassa ja säädä kerrointa tarvittaessa."
+      },
+      {
+        "name": "Tallenna",
+        "text": "Napauta ”Lataa käsitelty” → Tallenna video. Jaa tästä eteenpäin uusi kopio alkuperäisen sijaan."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tallenna kovemmin ensi kerralla",
+    "items": [
+      "Mene käsivarren mitan päähän puhujasta tai käytä langallista tai langatonta mikkiä.",
+      "Ota kuori pois tai tarkista, ettei mikään peitä takamikrofoneja.",
+      "Ennen näytön tallennusta irrota Bluetooth ja nosta median äänenvoimakkuus maksimiin.",
+      "Suojaa puhelin tuulelta kehollasi tai kämmenelläsi."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Miksi iPhone-videoni on hiljainen vain lähettäessäni sen?",
+      "answer": "Viestisovellukset koodaavat videon uudelleen ja voivat laskea tasoa hieman, mutta suurempi syy on se, että vastaanottajan puhelin toistaa sen alkuperäisellä hiljaisella tasolla eikä sinun täysille väännetyllä kaiuttimellasi. Tehosta tiedosto ennen lähettämistä."
+    },
+    {
+      "question": "Voiko äänen tehostussovellus koventaa iPhonen kaiutinta?",
+      "answer": "Mikään sovellus ei ylitä kaiuttimen laitteistorajaa eikä muuta koko järjestelmän äänenvoimakkuutta; Apple ei salli sitä. Tehostimet koventavat tiedostoa, ja sitä juuri tarvitset, kun itse tallenne on hiljainen."
+    },
+    {
+      "question": "Vaikuttaako äänetön-kytkin videon äänenvoimakkuuteen?",
+      "answer": "Ei. Soitto/äänetön-kytkin (tai Toimintopainike) mykistää vain soittoäänet ja hälytykset. Median äänenvoimakkuutta säädetään äänenvoimakkuuspainikkeilla videon soidessa."
+    }
+  ],
+  "related": [
+    "nain-saat-videon-aanen-kovemmaksi-iphonella",
+    "nayton-tallennuksen-aani-hiljainen-iphone",
+    "aani-kovemmaksi-ilman-laadun-heikkenemista"
+  ]
+}

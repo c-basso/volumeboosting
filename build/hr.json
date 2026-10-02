@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "hr",
-    "title": "Pojačaj glasnoću – Pojačanje zvuka | Zvuk/video do ~10×",
-    "description": "Glasniji zvuk ili video na iPhoneu do ~10×: jasnoća i bas. Glazba, video, podcasti, glasovne bilješke. Obrada na uređaju. Isprobaj besplatno u App Storeu.",
-    "keywords": "pojačaj glasnoću iPhone, glasniji video, tihi video, pojačivač glasnoće, aplikacija za iPhone, glasniji zvuk, tihi snimak zaslona, pojačanje zvuka, Increase Volume",
+    "title": "Pojačaj zvuk videa na iPhoneu – Pojačaj Glasnoću Zvuka 10×",
+    "description": "Pojačaj videe, MP3 datoteke i snimke iz Diktafona na iPhoneu do 10×. Aplikacija pojačava samu datoteku, čuva jasan zvuk i sprema glasniju kopiju za dijeljenje.",
+    "keywords": "pojačati zvuk videa iPhone, pojačati glasnoću, aplikacija za pojačanje zvuka, pojačivač glasnoće, pojačati MP3, WhatsApp glasovna poruka pretiha, snimka zaslona pretiha, pojačati snimku Diktafon, Pojačaj Glasnoću Zvuka",
     "canonical": "https://volumeboosting.com/hr/",
-    "og_title": "Pojačaj glasnoću – Pojačanje zvuka",
-    "og_description": "Zvuk i video na iPhoneu do ~10× glasnije — Increase Volume – Pojačanje zvuka. Čist zvuk, bas; tihi klipovi i podcasti. Obrada na uređaju.",
+    "og_title": "Pojačaj zvuk videa i snimki na iPhoneu – do 10× glasnije",
+    "og_description": "Video, MP3 ili snimka iz Diktafona pretihi? Pojačaj Glasnoću Zvuka pojačava samu datoteku do 10×, usporediš Izvorno/Obrađeno i spremiš glasniju kopiju.",
     "og_image": "https://volumeboosting.com/hr/site_preview.png",
     "og_image_alt": "Ikona aplikacije Increase Volume – Pojačanje zvuka",
     "og_url": "https://volumeboosting.com/hr/",
     "og_locale": "hr_HR",
     "twitter_url": "https://volumeboosting.com/hr/",
-    "twitter_title": "Pojačaj glasnoću – Pojačanje zvuka",
-    "twitter_description": "Zvuk i video na iPhoneu do ~10× glasnije — Increase Volume – Pojačanje zvuka. Čist zvuk, bas; tihi klipovi i podcasti. Obrada na uređaju.",
+    "twitter_title": "Pojačaj zvuk videa i snimki na iPhoneu – do 10× glasnije",
+    "twitter_description": "Video, MP3 ili snimka iz Diktafona pretihi? Pojačaj Glasnoću Zvuka pojačava samu datoteku do 10×, usporediš Izvorno/Obrađeno i spremiš glasniju kopiju.",
     "twitter_image": "https://volumeboosting.com/hr/site_preview.png",
     "twitter_image_alt": "Ikona aplikacije Increase Volume – Pojačanje zvuka"
   },
@@ -188,44 +188,61 @@
     "breadcrumb_home": "Početna",
     "faq": [
       {
-        "question": "Što je Increase Volume – Pojačanje zvuka?",
-        "answer": "To je aplikacija za iPhone u kategoriji Glazba u App Storeu koja čini uvezene audio i video datoteke glasnijima — do oko ~10× — i omogućuje spremanje nove datoteke. Obrađuje medije na uređaju; namijenjena je tihim snimkama, podcastima i klipovima — ne zaobilasku hardverskih ograničenja iOS-a za sav sustavski zvuk."
+        "question": "Kako pojačati zvuk videa na iPhoneu?",
+        "answer": "Otvori Pojačaj Glasnoću Zvuka, uvezi video iz Fotografija (ili ga podijeli s aplikacijom), povuci „Množitelj glasnoće” do ×10, dodirni „Pojačaj glasnoću”, usporedi Izvorno i Obrađeno i dodirni „Preuzmi obrađeno”. Glasnija kopija sprema se u Fotografije ili Datoteke i glasno zvuči na svakom uređaju.",
+        "guide": "kako-pojacati-zvuk-videa-na-iphoneu"
       },
       {
-        "question": "Kako radi Increase Volume – Pojačanje zvuka?",
-        "answer": "Uvezeš video, pjesmu ili snimku (uključujući iz Fotografija), podesiš glasnoću klizačem pojačanja uz jasnoću i bas, slušaš pregled u stvarnom vremenu, zatim spremiš pojačanu datoteku natrag na iPhone ili je podijeliš."
+        "question": "Zašto su WhatsApp glasovne poruke tako tihe na mom iPhoneu?",
+        "answer": "Ako su sve tihe, iPhone ih reproducira kroz slušalicu za pozive jer si prekrio senzor blizine: odmakni telefon od lica i pojačaj glasnoću dok poruka svira. Ako je tiha jedna poruka, izvezi je (dugi pritisak → Proslijedi → Podijeli), pojačaj ×5–×10 u aplikaciji i spremi ili proslijedi glasniju kopiju.",
+        "guide": "whatsapp-glasovna-poruka-pretiha"
       },
       {
-        "question": "Je li Increase Volume bolji od samog podizanja glasnoće iPhonea?",
-        "answer": "Rješavaju različite probleme. Sustavska glasnoća privremeno pojačava reprodukciju. Ova aplikacija stvara trajno glasniju datoteku — korisno kad je sama snimka tiha ili trebaš poslati pojačanu verziju."
+        "question": "Zašto je moja snimka zaslona pretiha?",
+        "answer": "iOS hvata zvuk aplikacija na smanjenoj razini, još nižoj ako je glasnoća bila niska ili su bile spojene Bluetooth slušalice. Sljedeći put odspoji Bluetooth i pojačaj prije snimanja. Postojeću snimku pojačaj ×5–×10 uz Pojačaj Glasnoću Zvuka.",
+        "guide": "snimka-zaslona-pretiha-iphone"
       },
       {
-        "question": "Čime se Increase Volume razlikuje od VLC-a ili Audacityja za glasnoću?",
-        "answer": "VLC i Audacity su moćni desktop alati koji mogu normalizirati ili pojačati zvuk s mnogo opcija. Increase Volume je građen za iPhone: kratak tijek uvoz → klizač → spremanje bez desktop vremenske crte."
+        "question": "Kako pojačati snimku iz Diktafona?",
+        "answer": "„Poboljšaj snimku” u Diktafonu smanjuje šum pri reprodukciji, ali ne pojačava datoteku. Podijeli snimku s aplikacijom (⋯ → Podijeli → Increase Volume), uključi „Poboljšaj kvalitetu zvuka”, pojačaj ×5–×10 i spremi glasniji M4A.",
+        "guide": "pojacati-glasnocu-diktafon-snimke"
       },
       {
-        "question": "Radi li Increase Volume i za video i za audio?",
-        "answer": "Da. Možeš pojačati video sa zvučnim zapisom, glazbene zapise, podcaste, glasovne bilješke i snimke zaslona, zatim spremiti rezultat."
+        "question": "Mogu li pojačati MP3 na iPhoneu bez računala?",
+        "answer": "Da. Dodaj MP3, M4A ili WAV iz Datoteka, odaberi množitelj, poslušaj Izvorno/Obrađeno i dodirni „Preuzmi obrađeno”. Glasnija kopija sprema se u Datoteke; sve se događa na telefonu.",
+        "guide": "pojacati-glasnocu-mp3-iphone"
       },
       {
-        "question": "Je li pojačana datoteka spremljena na moj iPhone?",
-        "answer": "Da. Nakon obrade spremiš glasniju datoteku natrag na uređaj i možeš je podijeliti kao bilo koju medijsku datoteku."
+        "question": "Može li se glasnoća videa pojačati u aplikaciji Fotografije?",
+        "answer": "Uređivač Fotografija može samo utišati, ne i pojačati. Dodirni Podijeli → Increase Volume da pojačaš video do ×10; glasnija kopija vraća se u Fotografije pokraj izvornika.",
+        "guide": "pojacati-glasnocu-videa-iz-fotografija"
       },
       {
-        "question": "Koliko košta Increase Volume – Pojačanje zvuka?",
-        "answer": "Appleova stranica u App Storeu pokazuje trenutačnu cijenu i kupnje u aplikaciji. Strukturirani podaci stranice mogu navesti besplatnu ponudu; uvijek provjeri cijene kod Applea prije citiranja."
+        "question": "Hoće li pojačanje izobličiti zvuk?",
+        "answer": "Samo ako najglasniji vrhovi prijeđu digitalni strop. Tiha snimka ima puno prostora. Kreni od ×3, poslušaj najglasniji trenutak uz Izvorno/Obrađeno i pojačavaj dok zvuk ostaje čist. Slika se nikad ne mijenja.",
+        "guide": "pojacati-glasnocu-bez-gubitka-kvalitete"
       },
       {
-        "question": "Tko izdaje Increase Volume – Pojačanje zvuka?",
-        "answer": "Aplikaciju izdaje c-basso i distribuira Apple App Store (ID 6741472421). Stranica proizvoda je volumeboosting.com."
+        "question": "Po čemu se razlikuje od glasnoće u iMovieju?",
+        "answer": "iMovie na iPhoneu staje na oko 500 % (5×) i traži projekt i cijeli izvoz. Pojačaj Glasnoću Zvuka ide do ×10 (1000 %), otvara i audio datoteke i nudi Izvorno/Obrađeno prije spremanja.",
+        "guide": "imovie-glasnoca-vise-od-500"
       },
       {
-        "question": "Kako pojačati pretihi video na iPhoneu?",
-        "answer": "U Increase Volume – Pojačanje zvuka uvezeš video (npr. iz Fotografija), podesiš klizač pojačanja s pregledom u stvarnom vremenu i spremiš kopiju s glasnijim zvučnim zapisom. Ispravljaš razinu u datoteci — za razliku od samog podizanja sustavske glasnoće tijekom reprodukcije."
+        "question": "Čini li aplikacija zvučnik iPhonea glasnijim?",
+        "answer": "Ne. Nijedna aplikacija ne može prijeći fizičku granicu zvučnika ni promijeniti glasnoću cijelog sustava. Aplikacija pojačava datoteku, što pomaže kad je sama snimka tiha. Ako su svi videi tihi, najprije provjeri uzroke reprodukcije.",
+        "guide": "zasto-je-video-na-iphoneu-tih#reprodukcija"
       },
       {
-        "question": "Povećava li aplikacija maksimalnu glasnoću iPhonea za glazbu i pozive?",
-        "answer": "Ne. Obrađuje datoteke koje uvezeš i daje glasniju verziju za spremanje ili dijeljenje. Hardversko ograničenje i globalna glasnoća za Spotify, pozive itd. se ne mijenjaju."
+        "question": "Koliko košta Pojačaj Glasnoću Zvuka?",
+        "answer": "Preuzimanje je besplatno i uključuje besplatno probno razdoblje. Neograničeno pojačanje otključava se pretplatom; aktualne cijene u eurima nalaze se u App Storeu. Obrada se uvijek odvija na tvom iPhoneu.",
+        "guide": "",
+        "learn_more_url": "__APP_STORE_URL__",
+        "learn_more_title": "Pojačaj Glasnoću Zvuka: besplatno preuzimanje i aktualne cijene u App Storeu"
+      },
+      {
+        "question": "Šalju li se moje datoteke na poslužitelj?",
+        "answer": "Ne. Obrada se odvija na iPhoneu, bez računa i bez prijenosa. Rezultat se sprema iOS listom za dijeljenje u Fotografije, Datoteke ili aplikaciju po izboru.",
+        "guide": "pojacati-glasnocu-bez-gubitka-kvalitete#privatnost"
       }
     ],
     "structured_data": {
@@ -376,5 +393,35 @@
     "title": "Tvoja tiha datoteka, 10× glasnija, za manje od minute.",
     "text": "Preuzmi Increase Volume – Pojačanje zvuka, uvezi video ili zvuk koji nitko ne čuje, povuci klizač i podijeli glasnu verziju.",
     "note": "Besplatno preuzimanje · Zahtijeva iOS 18.6 ili noviji · 4,5★ u App Storeu"
+  },
+  "guides": {
+    "eyebrow": "Vodiči",
+    "title": "Kako popraviti tih zvuk na iPhoneu, slučaj po slučaj",
+    "intro": "Svaki vodič odgovara na pitanje koje ljudi stvarno traže, iskreno objašnjava što iOS alati mogu, a što ne, i zatim pokazuje točne korake u aplikaciji Pojačaj Glasnoću Zvuka.",
+    "hub_link_text": "Svi vodiči",
+    "read_more": "Pročitaj vodič",
+    "hub": {
+      "title": "Vodiči za pojačanje zvuka na iPhoneu: video, MP3 i poruke",
+      "description": "Vodiči korak po korak za pojačanje zvuka videa, snimki iz Diktafona, MP3 datoteka, snimki zaslona i WhatsApp glasovnih poruka na iPhoneu, uz iOS i aplikaciju.",
+      "h1": "Vodiči: pojačaj zvuk videa i snimki na iPhoneu",
+      "intro": "Svaki vodič počinje izravnim odgovorom, iskreno prolazi kroz besplatne mogućnosti sustava (Fotografije, iMovie, Diktafon) i pokazuje kako dobiti do 10× veću glasnoću uz Pojačaj Glasnoću Zvuka.",
+      "keywords": "vodiči pojačanje zvuka iPhone, pojačati zvuk videa, pojačati MP3, WhatsApp glasovna poruka pretiha, snimka zaslona pretiha"
+    },
+    "labels": {
+      "home": "Početna",
+      "guides": "Vodiči",
+      "breadcrumb_aria": "Navigacijski put",
+      "updated": "Ažurirano",
+      "reading_time": "Čitanje 3–4 min",
+      "quick_answer": "Brzi odgovor",
+      "faq_heading": "Ostala česta pitanja",
+      "related": "Povezani vodiči",
+      "all_guides": "Svi vodiči",
+      "disclaimer": "Pojačaj Glasnoću Zvuka pojačava zvuk unutar datoteke i sprema novu kopiju. Ne može prijeći fizičku granicu zvučnika iPhonea niti promijeniti glasnoću cijelog sustava."
+    },
+    "default_cta": {
+      "title": "Napravi to uz Pojačaj Glasnoću Zvuka",
+      "text": "Besplatno u App Storeu. Uvezi, povuci klizač do ×10 i dodirni „Preuzmi obrađeno”."
+    }
   }
 }

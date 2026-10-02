@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "grabación de pantalla se escucha bajo",
+  "priority": 3,
+  "keywords": "grabación de pantalla se escucha bajo, grabación de pantalla sin sonido iPhone, subir volumen grabación de pantalla, grabar pantalla con audio iPhone, grabación de pantalla poco volumen",
+  "title": "¿Grabación de pantalla se escucha bajo en iPhone? Solución",
+  "description": "Las grabaciones de pantalla del iPhone suelen sonar bajo. Mira por qué, cómo grabar más alto y cómo subir una grabación hecha hasta 10× con Aumentar Volumen.",
+  "h1": "Grabación de pantalla que se escucha bajo en iPhone: cómo subirla",
+  "eyebrow": "Grabación de pantalla",
+  "card_title": "Subir el volumen de una grabación de pantalla",
+  "card_summary": "iOS graba el audio de las apps bajo. Arregla una grabación en un minuto y graba más alto la próxima vez.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Una grabación de pantalla ya hecha no se sube con los ajustes del sistema, pero sí puedes potenciar el archivo: ábrelo en Aumentar Volumen, pon «Multiplicación del volumen» en ×5–×10, toca «Potenciar volumen», escucha el Procesado y toca «Descargar procesado». Para grabar más alto la próxima vez: sube el volumen multimedia antes de empezar, desconecta los auriculares Bluetooth y, para narrar, mantén pulsado Grabación de pantalla en el Centro de control y activa el micrófono.",
+  "intro": [
+    "Las grabaciones de pantalla son los vídeos más bajos que hace casi cualquier iPhone. iOS captura el audio de las apps a un nivel prudente para evitar distorsión, y si tenías auriculares conectados o la app estaba baja, la pista grabada puede quedar casi muda. Si además narras por el micrófono, la mezcla queda aún más desigual.",
+    "Aquí tienes por qué tu grabación suena bajo, qué cambiar antes de la siguiente y cómo rescatar la que ya tienes."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/es/4.webp",
+    "alt": "Captura «Seleccione la cantidad de aumento»: deslizador de multiplicación del volumen ×10 y botón para potenciar en Aumentar Volumen",
+    "caption": "Las grabaciones de pantalla suelen necesitar un aumento fuerte; ×5 a ×10 es normal."
+  },
+  "sections": [
+    {
+      "heading": "Por qué las grabaciones de pantalla del iPhone suenan tan bajo",
+      "paragraphs": [
+        "Casi siempre es una de estas cuatro causas:"
+      ],
+      "list": [
+        "Nivel de captura: iOS graba el audio interno de las apps a un nivel reducido para que los juegos y vídeos fuertes no se saturen.",
+        "Bluetooth: con AirPods o un altavoz Bluetooth conectados, el audio grabado suele salir mucho más bajo o directamente no se graba.",
+        "Volumen de la app: la grabación captura el audio al volumen que tenías. Si el móvil estaba al 30 %, la grabación está al 30 %.",
+        "Mezcla con micrófono: si activas el micrófono, tu voz se mezcla con el audio de la app e iOS baja el de la app para hacerle sitio."
+      ]
+    },
+    {
+      "heading": "Graba más alto la próxima vez",
+      "paragraphs": [
+        "Antes de grabar: desconecta el audio Bluetooth, sube el volumen multimedia al máximo y silencia las notificaciones con un modo de concentración. Si quieres narrar, mantén pulsado Grabación de pantalla en el Centro de control y toca Micrófono para que se ponga en rojo; un toque normal solo graba el audio de la app. Una prueba de cinco segundos te dice al momento si el nivel es el correcto."
+      ]
+    },
+    {
+      "heading": "Arregla la grabación que ya tienes",
+      "paragraphs": [
+        "Los ajustes del sistema no cambian un archivo ya guardado. iMovie puede subirlo hasta un 500 % aproximadamente, que a veces basta, pero exige proyecto y nueva exportación. Aumentar Volumen llega a ×10, trabaja directamente con el archivo de Fotos y tiene el selector Original/Procesado para que oigas el nivel potenciado antes de guardar. En tutoriales con voz, activa «Mejorar calidad de audio» para que se entienda mejor."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Paso a paso: subir el volumen de una grabación de pantalla",
+    "intro": "Necesitas la app gratuita Aumentar Volumen y la grabación en Fotos.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Comparte la grabación con la app",
+        "text": "Abre la grabación de pantalla en Fotos, toca Compartir y elige Increase Volume. O abre la app y añade el archivo desde Fotos."
+      },
+      {
+        "name": "Si narraste, Mejorar calidad de audio",
+        "text": "Si hablaste durante la grabación, activa «Mejorar calidad de audio» para que la voz siga clara tras el aumento."
+      },
+      {
+        "name": "Elige el multiplicador",
+        "text": "Pon «Multiplicación del volumen» en ×5 para empezar. Las grabaciones de pantalla suelen estar muy por debajo de lo normal, así que ×8–×10 es habitual. Toca «Potenciar volumen»."
+      },
+      {
+        "name": "Escucha el Procesado",
+        "text": "Cambia a Procesado y reproduce la parte más fuerte. Si suena áspera, baja el multiplicador."
+      },
+      {
+        "name": "Descargar procesado",
+        "text": "Toca «Descargar procesado» y elige Guardar vídeo para añadir la grabación más alta a Fotos, o envíala directamente a YouTube, Slack, Mensajes o tu editor."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consejos",
+    "items": [
+      "Potencia antes de recortar o añadir subtítulos en otro editor; una fuente más alta da más margen a todas las herramientas siguientes.",
+      "En partidas grabadas con música, un aumento moderado (×3–×4) evita que la música se sature y sube el nivel general.",
+      "Si la grabación está muda y no solo baja, el audio nunca se grabó (normalmente una app silenciada o un vídeo con DRM). Ningún amplificador añade sonido que no se grabó."
+    ]
+  },
+  "faq": [
+    {
+      "question": "¿Por qué mi grabación de pantalla no tiene sonido?",
+      "answer": "O la app que grabaste pausa su audio al detectar la grabación de pantalla (lo hacen apps de streaming y videollamadas), o el vídeo tenía DRM, o el volumen multimedia estaba a cero. Una pista muda no se puede potenciar; vuelve a grabar con el audio de la app sonando y el volumen alto."
+    },
+    {
+      "question": "¿Puedo subir solo mi voz y no el sonido del juego?",
+      "answer": "Aumentar Volumen potencia la pista mezclada en conjunto. Con «Mejorar calidad de audio» se prioriza la inteligibilidad de la voz, así que la narración suele destacar más después del aumento."
+    },
+    {
+      "question": "¿Cambia la resolución del vídeo al subir el volumen?",
+      "answer": "No. Solo se procesa la pista de audio; la imagen pasa sin cambios."
+    }
+  ],
+  "related": [
+    "como-subir-el-volumen-de-un-video-en-iphone",
+    "por-que-mi-video-de-iphone-se-escucha-bajo",
+    "subir-volumen-sin-perder-calidad"
+  ]
+}

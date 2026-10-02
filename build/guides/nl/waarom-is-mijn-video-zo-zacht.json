@@ -1,0 +1,115 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "waarom is mijn video zo zacht",
+  "priority": 7,
+  "keywords": "waarom is mijn video zo zacht, iPhone video geluid zacht, opgenomen video niet te horen, iPhone microfoon zacht, video te weinig geluid",
+  "title": "Waarom is mijn iPhone-video zo zacht? 7 oorzaken + oplossing",
+  "description": "Zacht geluid in iPhone-video's komt meestal door afstand, een afgedekte microfoon, wind, Bluetooth of de koptelefoonlimiet. Vind de oorzaak en los het op.",
+  "h1": "Waarom is mijn iPhone-video zo zacht? Oorzaken en oplossing",
+  "eyebrow": "Probleemoplossing",
+  "card_title": "Waarom is mijn video zo zacht?",
+  "card_summary": "Zeven oorzaken, van afgedekte microfoon tot koptelefoonlimiet, en hoe je de video die je al hebt redt.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Een iPhone-video is zacht omdat hij zacht is *opgenomen* (spreker ver van de microfoon, microfoon afgedekt door hoesje of vinger, wind, app zacht tijdens een schermopname) of omdat hij zacht wordt *afgespeeld* (Bluetooth-apparaat verbonden, 'Reduceer harde audio' aan, vuile luidspreker). Test eerst het afspelen met een andere video. Is de opname zelf zacht, dan lost geen instelling het op; maak hem tot 10× harder met Audioversterker en bewaar een luidere kopie.",
+  "intro": [
+    "Zoek eerst uit welk soort 'zacht' je hebt. Speel een andere video af waarvan je weet dat hij goed is. Klinkt die hard, dan is je telefoon in orde en zit het probleem in de opname. Klinkt alles zacht, dan is het een afspeelprobleem van de telefoon. Oorzaken en oplossingen zijn totaal verschillend, dus deze test van dertig seconden scheelt veel tijd.",
+    "Hieronder de zeven oorzaken die we het vaakst zien, gesorteerd op hoe vaak ze de boosdoener zijn."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/1.webp",
+    "alt": "Promotieafbeelding 'Volume Booster Sound Amplifier ×10 Louder' van Audioversterker voor iPhone",
+    "caption": "Is de opname zelf zacht, dan is het bestand versterken de oplossing."
+  },
+  "sections": [
+    {
+      "heading": "Oorzaken bij het opnemen (de video is overal zacht)",
+      "paragraphs": [
+        "Deze zitten in het bestand. Ze verklaren waarom de video zacht is op elke telefoon waarnaar je hem stuurt."
+      ],
+      "list": [
+        "Afstand: telefoonmicrofoons zijn gemaakt voor een spreker op ongeveer een meter. Iemand aan de andere kant van de kamer klinkt zacht en galmend.",
+        "Afgedekte microfoon: de hoofdmicrofoon voor video zit naast de camera's achterop; een dik hoesje, een vinger of een houder kan hem afdekken. De opname wordt zacht en dof.",
+        "Wind en achtergrondgeluid: in herrie verlaagt iPhone de gevoeligheid en klinkt de spreker zachter.",
+        "Niveau van schermopnames: iOS neemt app-geluid op een verlaagd niveau op, nog lager als de app zacht stond of er Bluetooth-oortjes verbonden waren.",
+        "Ontvangen clips: een video die via WhatsApp of Messenger is verstuurd, wordt opnieuw gecodeerd en komt soms zachter aan dan het origineel."
+      ]
+    },
+    {
+      "id": "afspelen",
+      "heading": "Oorzaken bij het afspelen (alle video's zijn zacht op deze telefoon)",
+      "paragraphs": [
+        "Deze laten je telefoon zacht klinken; het bestand is in orde en klinkt elders normaal."
+      ],
+      "list": [
+        "Bluetooth nog verbonden: het geluid gaat naar AirPods in een la of naar de auto. Open het bedieningspaneel en controleer de audio-uitvoer.",
+        "Reduceer harde audio: Instellingen › Geluid en voelbare feedback › Koptelefoonveiligheid begrenst het koptelefoonvolume. Een goede bescherming, maar zachte video's klinken daardoor nog zachter in je oortjes.",
+        "Aandachtsfuncties (iPhone met Face ID): Instellingen › Face ID en toegangscode verlaagt het meldingsvolume als je naar het scherm kijkt; sommige mensen vinden dat ook video's zachter klinken.",
+        "Vuil luidsprekerrooster of waterresten: een zacht, droog borsteltje haalt verrassend veel volume terug.",
+        "Balans: Instellingen › Toegankelijkheid › Audio en visueel › Balans moet in het midden staan."
+      ]
+    },
+    {
+      "heading": "De oplossing voor een zacht opgenomen video",
+      "paragraphs": [
+        "Je kunt het moment niet overdoen, en iPhone-instellingen veranderen een bewaard bestand niet. Foto's heeft geen volumeregeling; iMovie maakt een clip tot ongeveer 500% harder nadat je een project hebt gemaakt. Audioversterker opent de video direct vanuit Foto's, vermenigvuldigt het geluid tot ×10, laat je Origineel en Verwerkt vergelijken en bewaart een nieuwe kopie. Die luidere kopie klinkt hard op elk apparaat en in elke app.",
+        "Was een afgedekte microfoon de oorzaak, dan herstelt versterken het niveau maar niet het doffe geluid; zet 'Audiokwaliteit verbeteren' aan om spraak te helpen."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Stap voor stap: een zachte video redden",
+    "intro": "Een minuut met de gratis app Audioversterker.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Controleer dat het de opname is",
+        "text": "Speel een andere video af. Klinkt die hard, ga dan verder; zo niet, los dan eerst de afspeeloorzaken hierboven op."
+      },
+      {
+        "name": "Deel de video met de app",
+        "text": "Open hem in Foto's, tik op Deel en kies Increase Volume."
+      },
+      {
+        "name": "Versterk",
+        "text": "Zet 'Volumevermenigvuldiging' eerst op ×4 (hoger voor heel zachte clips), zet 'Audiokwaliteit verbeteren' aan voor spraak en tik op 'Volume versterken'."
+      },
+      {
+        "name": "Vergelijk",
+        "text": "Wissel tussen Origineel/Verwerkt op het hardste moment en pas de vermenigvuldiging aan als dat nodig is."
+      },
+      {
+        "name": "Bewaar",
+        "text": "Tik op 'Verwerkt bestand downloaden' → Bewaar video. Deel de nieuwe kopie in plaats van het origineel."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "De volgende keer harder opnemen",
+    "items": [
+      "Ga op een armlengte van de spreker staan of gebruik een dasspeldmicrofoon, met of zonder draad.",
+      "Haal het hoesje eraf of controleer dat niets de microfoons achterop afdekt.",
+      "Koppel voor schermopnames Bluetooth los en zet het mediavolume op maximaal voordat je begint.",
+      "Scherm de telefoon met je lichaam of hand af tegen wind."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Waarom is mijn video alleen zacht als ik hem verstuur?",
+      "answer": "Berichtenapps coderen de video opnieuw en kunnen het niveau iets verlagen, maar het grootste effect is dat de telefoon van de ontvanger hem afspeelt op het oorspronkelijke zachte niveau, niet met jouw luidspreker op maximaal. Versterk het bestand voordat je het verstuurt."
+    },
+    {
+      "question": "Kan een volume-app de luidspreker van mijn iPhone harder maken?",
+      "answer": "Geen enkele app gaat voorbij de fysieke grens van de luidspreker of verandert het volume van het hele systeem; Apple staat dat niet toe. Versterkers maken het bestand harder, en dat is precies wat je nodig hebt als de opname zacht is."
+    },
+    {
+      "question": "Heeft de stilschakelaar invloed op het volume van video's?",
+      "answer": "Nee. De belsignaal/stil-schakelaar (of de actieknop) dempt alleen beltonen en meldingen. Het mediavolume regel je met de volumeknoppen terwijl de video speelt."
+    }
+  ],
+  "related": [
+    "video-geluid-harder-maken-iphone",
+    "schermopname-geluid-te-zacht-iphone",
+    "harder-maken-zonder-kwaliteitsverlies"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "tichá hlasová správa WhatsApp",
+  "priority": 2,
+  "keywords": "tichá hlasová správa WhatsApp, hlasové správy WhatsApp potichu iPhone, ako zosilniť hlasovú správu, nepočuť hlasovú správu WhatsApp, hlasitosť hlasovej správy",
+  "title": "Tichá hlasová správa z WhatsAppu na iPhone? Ako ju zosilniť",
+  "description": "Nepočuješ hlasové správy z WhatsAppu na iPhone? Skontroluj slúchadlo a senzor priblíženia a jednu tichú správu zosilni až 10× vo Volume Boost za pár sekúnd.",
+  "h1": "Tichá hlasová správa z WhatsAppu na iPhone: príčiny a riešenie",
+  "eyebrow": "Hlasové správy",
+  "card_title": "Tichá správa z WhatsAppu",
+  "card_summary": "Všetky tiché? Je to senzor priblíženia. Jedna tichá? Exportuj ju, zosilni ×5–×10 a pošli hlasnejšiu kópiu.",
+  "quick_answer": "Ak sú všetky hlasové správy z WhatsAppu tiché, iPhone ich prehráva cez slúchadlo, lebo zakrývaš senzor priblíženia: drž telefón ďalej od tváre a počas prehrávania pridaj hlasitosť. Ak je tichá jedna konkrétna správa, podrž na nej prst → Preposlať → ikona Zdieľať → Uložiť do Súborov, otvor súbor vo Volume Boost, zosilni ×5–×10 a ulož alebo pošli hlasnejšiu kópiu.",
+  "intro": [
+    "Hlasové správy sa nahrávajú rýchlo, ale ťažko sa počúvajú, keď odosielateľ hovoril potichu, držal telefón ďaleko alebo nahrával na rušnej ulici. WhatsApp nemá posúvač hlasitosti pre jednu správu.",
+    "Tento návod oddelí dva prípady, všetky správy tiché (nastavenie prehrávania) a jedna tichá (samotná nahrávka), a ukáže, ako natrvalo zosilniť jednu hlasovú správu."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Panel zdieľania iOS s voľbami Kopírovať, Pridať tagy a Uložiť do Súborov pre zosilnený zvuk vo Volume Boost",
+    "caption": "Po zosilnení pošli hlasnejšiu kópiu späť do WhatsAppu alebo ju ulož do Súborov."
+  },
+  "sections": [
+    {
+      "heading": "Sú tiché všetky správy? Skontroluj prehrávanie",
+      "paragraphs": [
+        "Keď priložíš iPhone k uchu alebo zakryješ hornú časť rukou, WhatsApp prepne z reproduktora na malé slúchadlo. Znie to oveľa tichšie. Drž telefón rovno pred sebou a počas prehrávania stlač tlačidlo hlasitosti nahor; hlasitosť médií je oddelená od hlasitosti zvonenia.",
+        "Ak používaš AirPods alebo iné Bluetooth zariadenie, zvuk môže ísť tam. Otvor Ovládacie centrum a skontroluj zvukový výstup. Ak je úroveň v slúchadlách obmedzená, pozri Nastavenia › Zvuky a haptika › Bezpečnosť slúchadiel."
+      ]
+    },
+    {
+      "heading": "Tichá je len jedna správa? Chyba je v nahrávke",
+      "paragraphs": [
+        "Ak ostatné správy znejú normálne, problém je v súbore: odosielateľ nahral s nízkou úrovňou. Tlačidlá hlasitosti to neopravia. Riešením je exportovať zvukový súbor, zvýšiť úroveň v samotnom súbore a použiť novú verziu."
+      ]
+    },
+    {
+      "heading": "Ako exportovať hlasovú správu z WhatsAppu",
+      "paragraphs": [
+        "WhatsApp ukladá hlasové správy ako zvukové súbory Opus. Dostaneš ich von cez panel zdieľania:"
+      ],
+      "list": [
+        "Podrž prst na hlasovej správe v chate.",
+        "Ťukni na Preposlať a potom na ikonu Zdieľať vpravo dole.",
+        "Vyber Uložiť do Súborov, alebo rovno Increase Volume, ak sa aplikácia v paneli zobrazí."
+      ],
+      "ordered": true,
+      "note": "Názvy ponúk sa môžu v rôznych verziách WhatsAppu mierne líšiť."
+    }
+  ],
+  "steps": {
+    "heading": "Zosilni hlasovú správu z WhatsAppu vo Volume Boost",
+    "intro": "Asi 30 sekúnd na správu, keď je súbor v Súboroch.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Importuj správu",
+        "text": "Otvor Volume Boost a pridaj súbor zo Súborov, alebo ho zdieľaj z WhatsAppu priamo do Increase Volume."
+      },
+      {
+        "name": "Zapni „Vylepšiť kvalitu zvuku“",
+        "text": "Reči je s vylepšením lepšie rozumieť; vytiahne hlas nad pozadie."
+      },
+      {
+        "name": "Zosilni ×5–×10",
+        "text": "Posuň „Násobok hlasitosti“. Tiché nahrávky z telefónu často znesú ×6–×10. Ťukni na „Zosilniť hlasitosť na ×N“."
+      },
+      {
+        "name": "Vypočuj a ulož",
+        "text": "Prepínaj Pôvodné a Spracované, ťukni na „Stiahnuť spracované“ a ulož do Súborov alebo pošli hlasnejšiu kópiu späť do WhatsAppu."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "V práci alebo v aute je niekedy rýchlejšie poprosiť o novú správu; pri dôležitých veciach (adresy, čísla) je istejšie ju zosilniť.",
+      "Vietor a hluk auta sa zosilnia tiež. Skús ×4 pred ×10 a počúvaj, či nepribudne šum.",
+      "Zosilnený súbor môžeš poslať ako zvuk v akejkoľvek chatovacej aplikácii, aj v Messengeri či Signali."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Prečo sú hlasové správy z WhatsAppu na iPhone také tiché?",
+      "answer": "Najčastejšie preto, že senzor priblíženia prepne na slúchadlo, keď je telefón pri tvári. Odtiahni ho a počas prehrávania pridaj hlasitosť médií."
+    },
+    {
+      "question": "Dá sa zvýšiť hlasitosť jednej hlasovej správy vo WhatsAppe?",
+      "answer": "Vo WhatsAppe nie. Exportuj správu cez Preposlať → Zdieľať, zosilni ju vo Volume Boost a použi hlasnejšiu kópiu."
+    },
+    {
+      "question": "Stratí sa kvalita, keď správu zosilním?",
+      "answer": "Hlas bude hlasnejší bez nových artefaktov, ale existujúci šum v pozadí tiež stúpne. Začni mierne a zvyšuj, kým porovnávaš Pôvodné a Spracované."
+    }
+  ],
+  "related": [
+    "ako-zosilnit-nahravku-z-diktafonu",
+    "ako-zosilnit-mp3-na-iphone",
+    "tichy-podcast-audiokniha-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

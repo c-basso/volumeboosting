@@ -1,0 +1,137 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie volume",
+  "priority": 11,
+  "keywords": "iMovie volume, iMovie hindi sapat ang lakas, lakasan ang video higit sa iMovie, lampas 500 percent, iMovie max volume iPhone",
+  "title": "iMovie volume: paano lumampas sa 500% na limit (iPhone)",
+  "description": "Hanggang mga 500% lang ang volume sa iMovie sa iPhone. Kapag kulang, dadalhin ng Increase Volume ang video sa 10× gamit ang isang slider, walang project.",
+  "h1": "Ang volume limit ng iMovie (mga 500%) at paano ito lampasan",
+  "eyebrow": "vs. iMovie",
+  "card_title": "Mas malakas sa 500% ng iMovie",
+  "card_summary": "Paano lakasan sa iMovie, bakit humihinto ang slider sa 5×, at ang daan papuntang 10× gamit ang isang slider.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Kaya ng iMovie sa iPhone na itaas ang volume ng clip hanggang mga 500% (5×): i-tap ang clip, i-tap ang speaker icon, i-drag pakanan, at i-export. Kung mahina pa rin sa max, buksan ang parehong file sa Increase Volume, na nagmu-multiply ng audio hanggang ×10 (1000%), nagpapakumpara ng Orihinal at Na-process, at nagse-save ng bagong kopya nang walang project. Binubuksan din ng Increase Volume ang audio-only files na hindi kaya ng iMovie.",
+  "intro": [
+    "Ang iMovie ang libreng sagot ng Apple sa «paano lakasan ang video ko», at para sa medyo mahinang clip, gumagana ito. Pero may ceiling ang slider, at kadalasang mas marami ang kailangan ng mga recording mula sa malayo o screen recording. Kaya nag-e-export ang mga tao sa 500%, hindi pa rin marinig, at naghahanap ng «mas malakas pa sa iMovie».",
+    "Narito kung hanggang saan talaga ang iMovie, paano ito gamitin, at ano ang gagawin kapag kulang."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Increase Volume na may Volume multiplication ×10 slider, doble ng maximum ng iMovie sa iPhone",
+    "caption": "Ang ×10 ng Increase Volume ay halos doble ng maximum ng iMovie."
+  },
+  "sections": [
+    {
+      "heading": "Paano lakasan ang volume sa iMovie sa iPhone",
+      "paragraphs": [
+        "Kung hindi mo pa nasusubukan, magandang malaman ang libreng paraan:"
+      ],
+      "list": [
+        "Buksan ang iMovie → Start New Project → Movie, at piliin ang video.",
+        "I-tap ang clip sa timeline para ma-highlight.",
+        "I-tap ang speaker icon sa toolbar at i-drag pakanan ang volume slider. Humihinto ito sa mga 500%.",
+        "I-tap ang Done, tapos Share → Save Video, at hintaying ma-re-encode ng iMovie ang buong clip."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Kung saan kulang ang iMovie",
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Increase Volume"
+        ],
+        "rows": [
+          [
+            "Pinakamataas na boost",
+            "Mga 500% (5×)",
+            "×10 (1000%)"
+          ],
+          [
+            "Audio-only files (MP3, voice memo)",
+            "Hindi suportado",
+            "Suportado"
+          ],
+          [
+            "Workflow",
+            "Project → idagdag ang clip → ayusin → export",
+            "Share mula Photos → i-slide → Download Processed"
+          ],
+          [
+            "Pakinggan bago/pagkatapos",
+            "I-play ang timeline",
+            "Orihinal / Na-process toggle"
+          ],
+          [
+            "Nire-re-encode ang picture",
+            "Oo, buong export",
+            "Audio lang ang pinoproseso, walang galaw sa picture"
+          ],
+          [
+            "Speech enhancement",
+            "Wala",
+            "Improve Audio Quality toggle"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Kailan sapat ang 500% at kailan hindi",
+      "paragraphs": [
+        "Mga +14 dB ang 5×. Sapat iyon sa clip na medyo matamlay lang. Hindi sapat sa lecture na ni-record mula sa likod, phone na naiwan sa mesa habang may usapan, o karamihan ng screen recording na kadalasang 15–25 dB sa ilalim ng normal. Para doon, kailangan mo ng ×8–×10, at kailangan mong marinig kung magki-clip ang pinakamalakas na moment — iyon mismo ang trabaho ng Orihinal/Na-process toggle sa Increase Volume."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: lampasan ang limit ng iMovie",
+    "intro": "Gamitin ang orihinal na video, hindi ang export ng iMovie, para isang beses lang mag-boost mula sa pinakamalinis na source.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "I-share ang orihinal na video sa Increase Volume",
+        "text": "Sa Photos, buksan ang clip, i-tap ang Share at piliin ang Increase Volume."
+      },
+      {
+        "name": "Multiplier na lampas 5",
+        "text": "I-drag ang «Volume multiplication» sa ×6–×10 depende sa hina ng clip. Para sa boses, i-on ang «Improve Audio Quality». I-tap ang «Boost Volume»."
+      },
+      {
+        "name": "Ikumpara",
+        "text": "Magpalit sa Orihinal at Na-process sa pinakamalakas na parte. Kung magaspang, bumaba ng isang level at i-boost ulit."
+      },
+      {
+        "name": "Download Processed",
+        "text": "I-save sa Photos ang mas malakas na kopya o i-share diretso. Hindi nagagalaw ang orihinal."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Kung gusto mo pa ring gamitin ang iMovie sa pag-cut o titles, i-boost muna sa Increase Volume, tapos i-edit sa iMovie ang boosted na file.",
+      "Huwag patungin ang boost (iMovie 500% tapos ×10 sa export); diretso mula orihinal papunta sa level na kailangan mo.",
+      "Sa audio files, laktawan na ang iMovie; hindi nito binubuksan ang MP3 o M4A."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bakit 500% lang ang limit ng iMovie?",
+      "answer": "Nililimitahan ng Apple ang slider para hindi masyadong mag-clip ang karaniwang edit. Makatwiran ito para sa normal na footage, pero kulang para sa sobrang hinang recording."
+    },
+    {
+      "question": "Libre ba ang Increase Volume tulad ng iMovie?",
+      "answer": "Libreng i-download ang Increase Volume at may libreng trial; nabubuksan ang unlimited na boost gamit ang subscription o one-time na lifetime plan. Nasa App Store ang kasalukuyang presyo."
+    },
+    {
+      "question": "Kaya ba ng iMovie sa Mac na lumampas sa 500%?",
+      "answer": "Mga 400–500% din ang limit ng iMovie sa Mac. Mas mataas ang kaya ng Final Cut Pro o Audacity, pero kailangan ng computer at paglipat ng file. Sa iPhone mismo ito ginagawa ng Increase Volume."
+    }
+  ],
+  "related": [
+    "paano-lakasan-ang-volume-ng-video-sa-iphone",
+    "lakasan-ang-tunog-nang-hindi-nasisira-ang-quality",
+    "lakasan-ang-video-mula-sa-photos"
+  ]
+}

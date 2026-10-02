@@ -1,0 +1,101 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "video kovemmaksi Kuvat",
+  "priority": 9,
+  "keywords": "video kovemmaksi Kuvat iPhone, Kuvat-appi äänenvoimakkuus, Kuvien video hiljainen, videon ääni kovemmaksi Kuvista, jaa Increase Volumeen",
+  "title": "Näin saat videon kovemmaksi suoraan Kuvat-apista (iPhone)",
+  "description": "Kuvissa ei ole äänenvoimakkuussäädintä, mutta voit silti tehostaa videon: Jaa, valitse Increase Volume, vedä 10×:ään ja tallenna kovempi kopio Kuviin.",
+  "h1": "Näin saat videon kovemmaksi suoraan Kuvat-apista",
+  "eyebrow": "Kuvat-työnkulku",
+  "card_title": "Tehosta video Kuvien jakoarkista",
+  "card_summary": "Kuvat osaa vain mykistää. Jaa → Increase Volume tehostaa leikkeen ja tallentaa kovan kopion alkuperäisen viereen.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Kuvat-appi ei nosta videon äänenvoimakkuutta; sen muokkain vain mykistää (ja iPhone 16:ssa ja uudemmissa tasapainottaa tilaäänivideoita Audio Mixillä). Näin tehostat videon Kuvista: avaa se, napauta Jaa, valitse Increase Volume, vedä ”Äänenvoimakkuuden kertoja” ×10:een asti, napauta ”Tehosta äänenvoimakkuutta” ja sitten ”Lataa käsitelty” → Tallenna video. Kovempi kopio ilmestyy Kuviin alkuperäisen viereen.",
+  "intro": [
+    "Useimmat etsivät äänenvoimakkuussäädintä Kuvien muokkaimesta eivätkä löydä sitä, koska sitä ei ole. Kuvat osaa rajata, suoristaa, korjata värejä ja mykistää videon, mutta ei koventaa sitä. Kuvissa *on* kuitenkin jakoarkki, ja siihen Increase Volume kytkeytyy, joten tehostus on kahden napautuksen päässä mistä tahansa kirjastosi videosta.",
+    "Tämä opas näyttää työnkulun ja sen, mitä Kuvien muokkain realistisesti osaa äänelle."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "iOS:n jakoarkki Increase Volumesta: vaihtoehdot tallentaa tehostettu video takaisin Kuviin tai Tiedostoihin",
+    "caption": "Tehostettu kopio palaa Kuviin jakoarkin kautta; alkuperäinen pysyy ennallaan."
+  },
+  "sections": [
+    {
+      "heading": "Mitä Kuvien muokkain osaa äänelle ja mitä ei",
+      "list": [
+        "Mykistä: napauta Muokkaa ja sitten kaiutinkuvaketta ylhäällä poistaaksesi ääniraidan kokonaan.",
+        "Audio Mix (iPhone 16 ja uudemmat, tilaäänellä kuvatut videot): eri miksaukset korostavat puhetta ja vähentävät taustamelua. Se muuttaa *tasapainoa*, ei kokonaisäänenvoimakkuutta.",
+        "Äänenvoimakkuuden tehostus: ei ole missään Kuvat-apin versiossa."
+      ]
+    },
+    {
+      "heading": "Jakoarkin käyttö Increase Volumen kanssa",
+      "paragraphs": [
+        "Versiosta 1.2.7 lähtien Increase Volume näkyy iOS:n jakoarkissa. Kun jaat videon sovellukseen, projekti luodaan heti ja näet tiedostonimen, koon ja keston, joten tiedät valinneesi oikean leikkeen. Tehostuksen jälkeen ”Lataa käsitelty” avaa jakoarkin uudelleen, ja Tallenna video vie kovemman kopion takaisin Kuviin. Koska se on uusi tiedosto, alkuperäistä ei koskaan korvata.",
+        "Jos Increase Volume ei näy jakoarkissa ensimmäisellä kerralla, vieritä sovellusrivi loppuun, napauta Lisää ja ota se käyttöön (voit myös vetää sen rivin alkuun)."
+      ]
+    },
+    {
+      "heading": "Usean videon tehostus",
+      "paragraphs": [
+        "Increase Volume pitää projektilistaa, joten voit lähettää Kuvista useita leikkeitä ja käsitellä ne yksi kerrallaan. Jokainen projekti muistaa tiedostonsa, kunnes poistat sen, joten voit palata myöhemmin kokeilemaan eri kerrointa."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Vaihe vaiheelta: Kuvista kovempaan videoon",
+    "intro": "Increase Volumea ei tarvitse avata ensin; aloita Kuvista.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Avaa video Kuvissa",
+        "text": "Etsi hiljainen video ja avaa se koko näytölle."
+      },
+      {
+        "name": "Jaa → Increase Volume",
+        "text": "Napauta Jaa, vieritä sovelluskuvakkeiden riviä ja napauta Increase Volume. Uusi projekti aukeaa."
+      },
+      {
+        "name": "Tehosta",
+        "text": "Vedä ”Äänenvoimakkuuden kertoja” tarvitsemallesi tasolle (×3–×10), laita ”Paranna äänenlaatua” päälle puheelle ja napauta ”Tehosta äänenvoimakkuutta”."
+      },
+      {
+        "name": "Vertaa",
+        "text": "Kuuntele ero Alkuperäinen/Käsitelty-kytkimellä."
+      },
+      {
+        "name": "Tallenna video",
+        "text": "Napauta ”Lataa käsitelty” ja sitten Tallenna video. Kuvissa kovempi kopio on heti alkuperäisen perässä."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Vinkit",
+    "items": [
+      "Lisää Increase Volume jakoarkin suosikkeihin (Lisää → Muokkaa), niin se on aina rivin ensimmäinen.",
+      "Voit jakaa videon sovellukseen myös Tiedostoista, Viesteistä tai Mailista; työnkulku on sama.",
+      "Vapauta tilaa poistamalla hiljainen alkuperäinen, kun olet varmistanut, että tehostettu kopio kuulostaa hyvältä."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Korvaako Kuvista tehostaminen alkuperäisen videoni?",
+      "answer": "Ei. Sovellus tekee aina uuden tiedoston. Tallenna video lisää Kuviin toisen kopion; alkuperäinen pysyy muuttumattomana."
+    },
+    {
+      "question": "Voinko tehostaa Live Photoja tai hidastettuja videoita?",
+      "answer": "Hidastetut ja ajastetut videot viedään tavallisina videotiedostoina ja niitä voi tehostaa. Live Photot ovat kuvia, joihin liittyy lyhyt leike, eikä niitä tueta videona."
+    },
+    {
+      "question": "Miksi Kuvat-apissa ei ole äänenvoimakkuussäädintä?",
+      "answer": "Apple pitää Kuvia nopeiden korjausten muokkaimena ja jättää tasomuutokset iMovielle. iMovie nostaa äänenvoimakkuuden noin 500 %:iin; Increase Volume yltää ×10:een ja toimii jakoarkista."
+    }
+  ],
+  "related": [
+    "nain-saat-videon-aanen-kovemmaksi-iphonella",
+    "imovie-aanenvoimakkuus-yli-500-prosenttia",
+    "tiktok-video-kovemmaksi"
+  ]
+}

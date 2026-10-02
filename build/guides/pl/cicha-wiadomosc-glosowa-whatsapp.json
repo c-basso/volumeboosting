@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "cicha wiadomość głosowa WhatsApp",
+  "priority": 2,
+  "keywords": "cicha wiadomość głosowa WhatsApp, WhatsApp nie słychać wiadomości głosowej, jak zgłośnić wiadomość głosową, cicha notatka głosowa iPhone, zwiększyć głośność wiadomości",
+  "title": "Cicha wiadomość głosowa WhatsApp na iPhonie? Jak to naprawić",
+  "description": "Nie słychać wiadomości głosowych WhatsApp na iPhonie? Sprawdź głośnik rozmów i czujnik zbliżeniowy, a jedną cichą wiadomość zgłośnij nawet 10× w Volume Boost.",
+  "h1": "Cicha wiadomość głosowa WhatsApp na iPhonie: przyczyny i rozwiązanie",
+  "eyebrow": "Wiadomości głosowe",
+  "card_title": "Cicha wiadomość WhatsApp",
+  "card_summary": "Wszystkie ciche? To czujnik zbliżeniowy. Jedna cicha? Wyeksportuj ją, wzmocnij ×5–×10 i wyślij głośniejszą kopię.",
+  "quick_answer": "Jeśli wszystkie wiadomości głosowe WhatsApp są ciche, iPhone odtwarza je przez głośnik rozmów, bo zasłaniasz czujnik zbliżeniowy: trzymaj telefon z dala od twarzy i podgłośnij podczas odtwarzania. Jeśli cicha jest jedna konkretna wiadomość, przytrzymaj ją → Przekaż → ikona Udostępnij → Zachowaj w Plikach, otwórz plik w Volume Boost, wzmocnij ×5–×10 i zapisz lub wyślij głośniejszą kopię.",
+  "intro": [
+    "Wiadomości głosowe szybko się nagrywa, ale trudno ich słuchać, gdy nadawca mówił cicho, trzymał telefon daleko albo nagrywał na ruchliwej ulicy. WhatsApp nie ma suwaka głośności dla pojedynczej wiadomości.",
+    "Ten poradnik rozdziela dwa przypadki, wszystkie wiadomości ciche (ustawienie odtwarzania) i jedna cicha (samo nagranie), i pokazuje, jak trwale zgłośnić pojedynczą wiadomość głosową."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Arkusz udostępniania iOS z opcjami Kopiuj, Dodaj tagi i Zachowaj w Plikach dla wzmocnionego pliku audio w Volume Boost",
+    "caption": "Po wzmocnieniu wyślij głośniejszą kopię z powrotem do WhatsApp albo zachowaj ją w Plikach."
+  },
+  "sections": [
+    {
+      "heading": "Wszystkie wiadomości są ciche? Sprawdź odtwarzanie",
+      "paragraphs": [
+        "Gdy przykładasz iPhone'a do ucha albo zakrywasz dłonią górę ekranu, WhatsApp przełącza dźwięk z głośnika na mały głośnik rozmów. Brzmi to dużo ciszej. Trzymaj telefon płasko przed sobą i naciśnij przycisk głośniej w trakcie odtwarzania; głośność multimediów jest regulowana osobno od dzwonka.",
+        "Jeśli używasz AirPods lub innego urządzenia Bluetooth, dźwięk może trafiać tam. Otwórz Centrum sterowania i sprawdź wyjście audio. Gdy poziom w słuchawkach jest ograniczony, sprawdź Ustawienia › Dźwięki i haptyka › Bezpieczeństwo słuchawek."
+      ]
+    },
+    {
+      "heading": "Cicha jest jedna wiadomość? Winne jest nagranie",
+      "paragraphs": [
+        "Jeśli inne wiadomości brzmią normalnie, problem jest w pliku: nadawca nagrał z niskim poziomem. Przyciski głośności tego nie naprawią. Rozwiązaniem jest wyeksportowanie pliku audio, podniesienie poziomu w samym pliku i użycie nowej wersji."
+      ]
+    },
+    {
+      "heading": "Jak wyeksportować wiadomość głosową z WhatsApp",
+      "paragraphs": [
+        "WhatsApp zapisuje wiadomości głosowe jako pliki audio Opus. Wyjmiesz je przez arkusz udostępniania:"
+      ],
+      "list": [
+        "Przytrzymaj wiadomość głosową w czacie.",
+        "Stuknij Przekaż, a potem ikonę Udostępnij w prawym dolnym rogu.",
+        "Wybierz Zachowaj w Plikach albo od razu Increase Volume, jeśli aplikacja jest widoczna w arkuszu."
+      ],
+      "ordered": true,
+      "note": "Nazwy menu mogą się nieco różnić między wersjami WhatsApp."
+    }
+  ],
+  "steps": {
+    "heading": "Zgłośnij wiadomość głosową WhatsApp w Volume Boost",
+    "intro": "Około 30 sekund na wiadomość, gdy plik jest w Plikach.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Zaimportuj wiadomość",
+        "text": "Otwórz Volume Boost i dodaj plik z Plików albo udostępnij go z WhatsApp bezpośrednio do Increase Volume."
+      },
+      {
+        "name": "Włącz „Popraw jakość dźwięku”",
+        "text": "Mowa jest łatwiejsza do zrozumienia z tą opcją; podnosi głos ponad tło."
+      },
+      {
+        "name": "Wzmocnij ×5–×10",
+        "text": "Przesuń „Mnożnik głośności”. Ciche nagrania z telefonu często znoszą ×6–×10. Stuknij „Wzmocnij głośność do ×N”."
+      },
+      {
+        "name": "Odsłuchaj i zapisz",
+        "text": "Przełączaj Oryginał i Przetworzony, stuknij „Pobierz przetworzony” i zachowaj w Plikach albo wyślij głośniejszą kopię z powrotem w WhatsApp."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Wskazówki",
+    "items": [
+      "W pracy lub w samochodzie czasem szybciej poprosić o nową wiadomość; przy ważnych treściach (adresy, liczby) bezpieczniej ją wzmocnić.",
+      "Wiatr i szum auta też zostaną wzmocnione. Spróbuj ×4 przed ×10 i posłuchaj, czy nie pojawia się szum.",
+      "Wzmocniony plik możesz wysłać jako plik audio w dowolnym komunikatorze, także w Messengerze czy Signalu."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dlaczego wiadomości głosowe WhatsApp są takie ciche na iPhonie?",
+      "answer": "Najczęściej dlatego, że czujnik zbliżeniowy przełącza dźwięk na głośnik rozmów, gdy telefon jest blisko twarzy. Odsuń go i podgłośnij multimedia w trakcie odtwarzania."
+    },
+    {
+      "question": "Czy mogę zwiększyć głośność jednej wiadomości w WhatsApp?",
+      "answer": "Nie w samym WhatsApp. Wyeksportuj wiadomość przez Przekaż → Udostępnij, wzmocnij ją w Volume Boost i użyj głośniejszej kopii."
+    },
+    {
+      "question": "Czy jakość spada po wzmocnieniu wiadomości?",
+      "answer": "Głos staje się głośniejszy bez nowych artefaktów, ale istniejący szum tła też rośnie. Zacznij umiarkowanie i zwiększaj, porównując Oryginał i Przetworzony."
+    }
+  ],
+  "related": [
+    "glosniejsze-nagranie-dyktafon",
+    "jak-zwiekszyc-glosnosc-mp3-iphone",
+    "cichy-podcast-audiobook-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

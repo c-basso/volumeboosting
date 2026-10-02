@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "halk képernyőfelvétel",
+  "priority": 3,
+  "keywords": "halk képernyőfelvétel, képernyőfelvétel hang nélkül iPhone, képernyőfelvétel hangosítása, képernyőfelvétel hanggal iPhone, halk képernyőrögzítés",
+  "title": "Halk képernyőfelvétel iPhone-on? Így hangosítsd fel",
+  "description": "Az iPhone képernyőfelvételei gyakran halkak. Megmutatjuk, miért, hogyan rögzíts hangosabban legközelebb, és hogyan hangosíts meg egy meglévőt akár 10×-re.",
+  "h1": "Halk képernyőfelvétel iPhone-on: így hangosítsd fel",
+  "eyebrow": "Képernyőfelvétel",
+  "card_title": "Képernyőfelvétel hangosítása",
+  "card_summary": "Az iOS halkan rögzíti az appok hangját. Javítsd ki egy perc alatt, és legközelebb vegyél fel hangosabban.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Egy már elmentett képernyőfelvételt a rendszerbeállításokkal nem lehet hangosítani, magát a fájlt viszont igen: nyisd meg a Hangerőnövelő Média appban, állítsd a „Hangerőszorzót” ×5–×10-re, koppints a „Hangerő kiemelése” gombra, hallgasd meg a Feldolgozottat, majd koppints a „Feldolgozott letöltése” gombra. Hogy legközelebb hangosabb legyen: kezdés előtt növeld a média hangerejét, válaszd le a Bluetooth-fülhallgatót, narrációhoz pedig nyomd hosszan a Képernyőfelvétel gombot a Vezérlőközpontban, és kapcsold be a mikrofont.",
+  "intro": [
+    "A képernyőfelvételek a leghalkabb videók, amelyeket szinte bármelyik iPhone készít. Az iOS óvatos szinten rögzíti az appok hangját, hogy elkerülje a torzítást, és ha fülhallgató volt csatlakoztatva vagy az app halkan szólt, a rögzített sáv szinte néma lehet. Ha közben a mikrofonba is beszélsz, a keverés még kiegyensúlyozatlanabb.",
+    "Íme, miért halk a felvételed, mit érdemes változtatni a következő előtt, és hogyan mentheted meg azt, ami már megvan."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "„Select the amount of boosting” képernyőkép: ×10-es hangerőszorzó csúszka és a hangosítás gomb a Hangerőnövelő Média appban",
+    "caption": "A képernyőfelvételeknek általában erős hangosítás kell; ×5–×10 teljesen szokásos."
+  },
+  "sections": [
+    {
+      "heading": "Miért ilyen halkak az iPhone képernyőfelvételei",
+      "paragraphs": [
+        "Szinte mindig a négy ok egyike áll a háttérben:"
+      ],
+      "list": [
+        "Rögzítési szint: az iOS csökkentett szinten rögzíti az appok belső hangját, hogy a hangos játékok és videók ne vágódjanak le.",
+        "Bluetooth: ha AirPods vagy Bluetooth-hangszóró csatlakozik, a rögzített hang gyakran sokkal halkabb, vagy egyáltalán nem kerül rögzítésre.",
+        "Az app hangereje: a felvétel azon a hangerőn rögzít, amin éppen szólt. Ha a telefon 30%-on volt, a felvétel is 30%-on van.",
+        "Mikrofonos keverés: ha bekapcsolod a mikrofont, a hangod összekeveredik az app hangjával, és az iOS lehalkítja az appot, hogy helyet adjon neki."
+      ]
+    },
+    {
+      "heading": "Rögzíts hangosabban legközelebb",
+      "paragraphs": [
+        "Felvétel előtt: válaszd le a Bluetooth-hangot, növeld a média hangerejét a maximumra, és némítsd az értesítéseket egy Fókusz móddal. Narrációhoz nyomd hosszan a Képernyőfelvétel gombot a Vezérlőközpontban, és koppints a Mikrofonra, hogy piros legyen; a sima koppintás csak az app hangját rögzíti. Egy ötmásodperces próba azonnal megmutatja, jó-e a szint."
+      ]
+    },
+    {
+      "heading": "Javítsd ki a meglévő felvételt",
+      "paragraphs": [
+        "A rendszerbeállítások nem változtatnak meg egy már elmentett fájlt. Az iMovie kb. 500%-ig tudja hangosítani, ami néha elég, de projektet és újraexportálást igényel. A Hangerőnövelő Média ×10-ig megy, közvetlenül a Fotókban lévő fájllal dolgozik, és Eredeti/Feldolgozott kapcsolóval mentés előtt meghallgathatod a hangosított szintet. Narrált oktatóvideóknál kapcsold be a „Hangminőség javítása” lehetőséget, hogy a beszéd érthetőbb legyen."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Lépésről lépésre: képernyőfelvétel hangosítása",
+    "intro": "Kell hozzá az ingyenes Hangerőnövelő Média app és a felvétel a Fotókban.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Oszd meg a felvételt az appal",
+        "text": "Nyisd meg a képernyőfelvételt a Fotókban, koppints a Megosztás gombra, és válaszd az Increase Volume lehetőséget. Vagy nyisd meg az appot, és add hozzá a fájlt a Fotókból."
+      },
+      {
+        "name": "Ha narráltál, Hangminőség javítása",
+        "text": "Ha beszéltél a felvétel közben, kapcsold be a „Hangminőség javítása” lehetőséget, hogy a hangod hangosítás után is tiszta maradjon."
+      },
+      {
+        "name": "Válaszd ki a szorzót",
+        "text": "Állítsd a „Hangerőszorzót” ×5-re kezdésnek. A képernyőfelvételek általában jóval a normál szint alatt vannak, így a ×8–×10 gyakori. Koppints a „Hangerő kiemelése” gombra."
+      },
+      {
+        "name": "Hallgasd meg a Feldolgozottat",
+        "text": "Válts a Feldolgozottra, és játszd le a leghangosabb részt. Ha recseg, vegyél vissza a szorzóból."
+      },
+      {
+        "name": "Feldolgozott letöltése",
+        "text": "Koppints a „Feldolgozott letöltése” gombra, és válaszd a Videó mentése lehetőséget, hogy a hangosabb felvétel a Fotókba kerüljön, vagy küldd közvetlenül YouTube-ra, Slackre, Üzenetekbe vagy a szerkesztődbe."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tippek",
+    "items": [
+      "Hangosíts, mielőtt egy másik szerkesztőben vágsz vagy feliratozol; a hangosabb forrás minden további eszköznek több teret ad.",
+      "Zenével rögzített játékoknál a mérsékelt hangosítás (×3–×4) megakadályozza, hogy a zene levágódjon, és közben emeli az összszintet.",
+      "Ha a felvétel nem halk, hanem néma, a hang sosem rögzült (általában némított app vagy DRM-védett videó). Egyetlen hangerőnövelő sem ad hozzá olyan hangot, amely nem lett felvéve."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Miért nincs hang a képernyőfelvételemen?",
+      "answer": "Vagy a rögzített app szünetelteti a hangját, ha képernyőfelvételt érzékel (ezt teszik a streaming- és videohívás-appok), vagy a videó DRM-védett volt, vagy a média hangereje nullán állt. Néma sávot nem lehet hangosítani; vedd fel újra úgy, hogy az app hangja szóljon és a hangerő magas legyen."
+    },
+    {
+      "question": "Hangosíthatom csak a saját hangomat, a játék hangját nem?",
+      "answer": "A Hangerőnövelő Média a teljes kevert sávot hangosítja. A „Hangminőség javítása” a beszéd érthetőségét helyezi előtérbe, így a narráció hangosítás után általában jobban kiemelkedik."
+    },
+    {
+      "question": "Változik a videó felbontása, ha hangosítok?",
+      "answer": "Nem. Csak a hangsáv kerül feldolgozásra; a kép változatlanul halad át."
+    }
+  ],
+  "related": [
+    "hogyan-noveld-a-video-hangerejet-iphone-on",
+    "miert-halk-a-videom",
+    "hangero-novelese-minosegromlas-nelkul"
+  ]
+}

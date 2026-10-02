@@ -1,0 +1,122 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "TikTok video hiljainen",
+  "priority": 8,
+  "keywords": "TikTok video hiljainen, TikTok video kovemmaksi, Reels hiljainen, ääni kovemmaksi ennen julkaisua, Instagram Reels ääni hiljainen",
+  "title": "Näin saat TikTok-videon kovemmaksi ennen julkaisua (iPhone)",
+  "description": "TikTok ja Reels litistävät hiljaista ääntä entisestään. Tehosta leike 2–5× iPhonella Increase Volumella ennen julkaisua, jotta äänesi kuuluu kaikkialla.",
+  "h1": "Näin saat TikTok-videon kovemmaksi ennen julkaisua",
+  "eyebrow": "TikTok ja Reels",
+  "card_title": "TikTok tai Reel kovemmaksi",
+  "card_summary": "Palvelut tasaavat latauksessa, mutta eivät pelasta hiljaista raitaa. Tehosta se 2–5× ensin.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Tehosta video ennen kuin lataat sen. Avaa leike Increase Volumessa iPhonella, aseta ”Äänenvoimakkuuden kertoja” ×2–×5:een (hyvin hiljaisille enemmän), napauta ”Tehosta äänenvoimakkuutta”, vertaa Alkuperäistä ja Käsiteltyä, napauta ”Lataa käsitelty” ja lataa tehostettu tiedosto TikTokiin tai Instagramiin. TikTokin oma äänenvoimakkuussäädin on rajallinen, eikä latauksen käsittely pelasta liian hiljaisena saapuvaa ääntä.",
+  "intro": [
+    "TikTok tai Reel, jota kukaan ei kuule, rullataan ohi. Ongelma alkaa yleensä kuvatessa: puhelimen mikrofoni haluaa sinut käsivarren mitan päähän, tuuli ja liikenne syövät hiljaisen puheen, ja näytöltä tallennettu pelikuva tallentuu matalalla tasolla. Sitten palvelu pakkaa latauksen, ja valmiiksi hiljainen raita jää ohueksi lisätyn musiikin alle.",
+    "Luotettava ratkaisu on nostaa itse videotiedoston tasoa ennen kuin se päätyy sovellukseen. Tässä näytetään miten ja kuinka paljon tehostusta käyttää."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "iOS:n jakoarkki Increase Volumessa: Tallenna Tiedostoihin ja jakovaihtoehdot tehostetulle videolle",
+    "caption": "Tehostuksen jälkeen jaa suoraan TikTokiin tai tallenna Kuviin ja lataa sieltä."
+  },
+  "sections": [
+    {
+      "heading": "Miksi TikTokin sisällä koventaminen ei riitä",
+      "paragraphs": [
+        "TikTokissa ja Instagramissa on alkuperäisen äänen äänenvoimakkuussäädin, mutta se on tarkoitettu tasapainottamaan lisättyä musiikkia, ei pelastamaan hiljaista tallennetta. Molemmat palvelut myös normalisoivat äänenvoimakkuuden latauksessa (TikTok tähtää noin −14 LUFSiin), mikä tasaa *keskimääräisen* voimakkuuden mutta ei nosta kuiskausta puheen tasolle nostamatta myös kohinaa. Jos lähde on hiljainen, julkaistu tulos on hiljainen."
+      ]
+    },
+    {
+      "heading": "Kuinka paljon tehostusta käyttää",
+      "paragraphs": [
+        "Leikkeisiin, joissa puhut kameralle ja ääni on vain vähän vaisu, ×2–×3 on yleensä oikea. Kaukaa, tuulessa tai näytöltä tallennettuihin ×4–×6. Säästä ×8–×10 tallenteille, joita tuskin kuulee. Liika tehostus leikkeessä, jossa on jo kovia kohtia, säröyttää ne, ja palvelun oma pakkaus korostaa räikeyttä entisestään."
+      ],
+      "table": {
+        "head": [
+          "Leikkeesi",
+          "Suositeltu kerroin"
+        ],
+        "rows": [
+          [
+            "Puhut kameralle, puhelin kädessä",
+            "×2 – ×3"
+          ],
+          [
+            "Kuvattu huoneen toiselta puolelta tai ulkona",
+            "×4 – ×6"
+          ],
+          [
+            "Näytön tallennus pelistä tai opastuksesta",
+            "×5 – ×10"
+          ],
+          [
+            "Musiikkivideo, jossa musiikki kunnossa mutta ääni hiljainen",
+            "×2 ja Paranna äänenlaatua päällä"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Miksi erillinen tehostin voittaa tässä CapCutin tai iMovien",
+      "paragraphs": [
+        "Editorit osaavat nostaa äänenvoimakkuutta, mutta iMovie pysähtyy noin 500 %:iin ja molemmat vaativat projektin, aikajanan ja uuden viennin. Increase Volume avaa leikkeen suoraan Kuvista, antaa yhden liukusäätimen ×10:een asti, Alkuperäinen/Käsitelty-vertailun ja jakoarkin, joka vie suoraan TikTokiin, Instagramiin tai takaisin Kuviin. Se on minuutin vaihe ennen tavallista editointiasi."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Vaihe vaiheelta: leikkeen tehostus TikTokiin tai Reelsiin",
+    "intro": "Tee tämä valmiille leikkeelle ennen latausta.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Lähetä leike Increase Volumeen",
+        "text": "Avaa video Kuvissa, napauta Jaa ja valitse Increase Volume. Projekti aukeaa tiedoston tietoineen."
+      },
+      {
+        "name": "Puheelle Paranna äänenlaatua",
+        "text": "Jos äänesi on leikkeen pääasia, laita kytkin päälle ennen tehostusta."
+      },
+      {
+        "name": "Valitse kerroin",
+        "text": "Aloita ×3:sta, napauta ”Tehosta äänenvoimakkuutta” ja vaihda Alkuperäisen ja Käsitellyn välillä kovimmassa kohdassa. Säädä, kunnes se on selvästi kova mutta ei räikeä."
+      },
+      {
+        "name": "Lataa käsitelty",
+        "text": "Napauta ”Lataa käsitelty”, sitten Tallenna video (tehostettu leike on Kuvissa alkuperäisen vieressä) tai jaa suoraan TikTokiin tai Instagramiin."
+      },
+      {
+        "name": "Lataa ja tarkista ääni",
+        "text": "Lataa tehostettu leike TikTokiin. Jos lisäät äänen, laske lisätyn musiikin voimakkuutta sen sijaan, että nostaisit omaa ääntäsi uudelleen."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Vinkit kovempiin ja puhtaampiin leikkeisiin",
+    "items": [
+      "Kuvaa aina kun voit alle 30 cm:n päästä puhelimesta; etäisyys on hiljaisen puheen syy numero yksi.",
+      "Julkaise ensin yksityinen testi: lataa tehostettu leike yksityisenä, kuuntele puhelimen kaiuttimesta ja säädä.",
+      "Säilytä alkuperäinen. Sovellus tekee aina uuden tiedoston, joten voit tehostaa uudelleen eri tasolla."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Voinko koventaa TikTokin julkaisun jälkeen?",
+      "answer": "Et. Latauksen jälkeen ääni on käsitelty ja lukittu. Etsi alkuperäinen leike, tehosta se Increase Volumella ja lataa uudelleen."
+    },
+    {
+      "question": "Toimiiko tämä myös Instagram Reelsissä ja YouTube Shortsissa?",
+      "answer": "Kyllä. Tehostus on kirjoitettu videotiedostoon, joten se pätee kaikkialla, minne tiedoston lataat: Reels, Shorts, Snapchat, WhatsApp-tila."
+    },
+    {
+      "question": "Merkitäänkö tehostettu leike tai heikkeneekö se?",
+      "answer": "Ei. Kuva pysyy koskemattomana ja ääni on tavallinen, vain kovempi raita. Palvelut koodaavat jokaisen latauksen joka tapauksessa uudelleen."
+    }
+  ],
+  "related": [
+    "nain-saat-videon-aanen-kovemmaksi-iphonella",
+    "aani-kovemmaksi-ilman-laadun-heikkenemista",
+    "video-kovemmaksi-kuvat-apista"
+  ]
+}

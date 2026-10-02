@@ -1,0 +1,130 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "MP3 kovemmaksi",
+  "priority": 6,
+  "keywords": "MP3 kovemmaksi, MP3 äänenvoimakkuus iPhone, MP3 liian hiljainen, äänitiedosto kovemmaksi, MP3 tehostin",
+  "title": "Näin saat MP3-tiedoston kovemmaksi iPhonella (ilman konetta)",
+  "description": "Hiljainen MP3, M4A tai WAV iPhonessa? Tehosta se jopa 10× ja tallenna kovempi kopio Increase Volumella kokonaan puhelimessa. Vaiheet, tasot ja kysymykset.",
+  "h1": "Näin saat MP3-tiedoston kovemmaksi iPhonella",
+  "eyebrow": "MP3 ja äänitiedostot",
+  "card_title": "MP3 kovemmaksi iPhonella",
+  "card_summary": "Useimmat tehostimet osaavat vain videon. Tämä tehostaa MP3:t, M4A:t ja WAV:t suoraan Tiedostoista.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Saat MP3:n kovemmaksi iPhonella avaamalla Increase Volumen, lisäämällä tiedoston Tiedostoista (tai jakamalla sen sovellukseen), vetämällä ”Äänenvoimakkuuden kertoja” jopa ×10:een, napauttamalla ”Tehosta äänenvoimakkuutta”, vertaamalla Alkuperäistä ja Käsiteltyä ja napauttamalla ”Lataa käsitelty”, jolloin kovempi MP3 tallentuu Tiedostoihin tai voit jakaa sen. Kaikki tapahtuu puhelimessa: ei tietokonetta, latausta palvelimelle eikä tiliä. Apple Musicin tai Spotifyn kappaleita ei voi tuoda, koska ne ovat kopiosuojattuja.",
+  "intro": [
+    "Latasit luennon, vanhan demon, podcast-jakson tai tulevan soittoäänen, ja se soi selvästi hiljempaa kuin kaikki muu. Tietokoneella avaisit Audacityn tai normalisoijan; iPhonella neuvotaan yleensä ”käytä verkkotehostinta”, eli lataat tiedoston palvelimelle ja saat takaisin uudelleenkoodatun version.",
+    "Increase Volume tekee saman paikallisesti. App Storessa se on merkitty Audio & Music Boosteriksi, koska toisin kuin useimmat videotehostimet se avaa tavallisia äänitiedostoja."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Increase Volume käsittelee MP3-tiedostoa iPhonella: tiedostonimi, koko ja kesto",
+    "caption": "Sovellus näyttää kappaleen nimen, koon ja keston ennen tehostusta."
+  },
+  "sections": [
+    {
+      "heading": "Mitä äänitiedostoja voit tehostaa",
+      "paragraphs": [
+        "Kaiken, mikä on iPhonessasi oikea tiedosto: MP3, M4A/AAC (myös Sanelimen viennit ja WhatsAppin ääniviestit), WAV ja muut yleiset muodot Tiedostoissa, iCloud Drivessa, Dropboxissa tai Viesteistä ja Mailista saatuina. Sovellus lukee metatiedot ja näyttää esittäjän ja kappaleen nimen, jos ne löytyvät."
+      ],
+      "note": "Ei onnistu: Apple Musicissa, Spotifyssa tai YouTube Musicissa suoratoistetut tai ladatut kappaleet. Ne ovat salattuja, eikä mikään muu sovellus avaa niitä. Suoratoistossa käytä palvelun omaa taajuuskorjainta tai äänenvoimakkuuden tasausta."
+    },
+    {
+      "heading": "Kuinka paljon tehostusta MP3 kestää",
+      "paragraphs": [
+        "CD:ltä ripatut tai ostetut MP3:t ovat yleensä jo lähellä täyttä tasoa ja säröytyvät kovassa tehostuksessa; ×1,5–×2 riittää. Podcastit, luennot, puhetallenteet ja vanhat demot ovat usein 10–20 dB maksimin alapuolella ja kestävät ×4–×10 hyvin. Alkuperäinen/Käsitelty-kytkimellä testaat kovimman kohdan ennen tallennusta."
+      ]
+    },
+    {
+      "heading": "Increase Volume vai verkossa toimiva MP3-tehostin",
+      "table": {
+        "head": [
+          "",
+          "Verkkotehostin",
+          "Increase Volume"
+        ],
+        "rows": [
+          [
+            "Mihin tiedosto menee",
+            "Ladataan palvelimelle",
+            "Pysyy iPhonessasi"
+          ],
+          [
+            "Uudelleenkoodaus",
+            "Yleensä kiinteään, pienempään bittinopeuteen",
+            "Käsitellään paikallisesti"
+          ],
+          [
+            "Kokoraja",
+            "Tavallinen (esim. 50–500 Mt)",
+            "Vain puhelimen tallennustila"
+          ],
+          [
+            "Kuuntelu ennen tallennusta",
+            "Harvoin",
+            "Alkuperäinen / Käsitelty -kytkin"
+          ],
+          [
+            "Puheen parannus",
+            "Joskus",
+            "Paranna äänenlaatua -kytkin"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Vaihe vaiheelta: MP3:n tehostus",
+    "intro": "Tarvitset MP3:n Tiedostoissa (tai sovelluksessa, josta sen voi jakaa) ja ilmaisen Increase Volume -sovelluksen.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Lisää MP3",
+        "text": "Avaa sovellus ja lisää tiedosto Tiedostoista. Tai paina Tiedostoissa MP3:a pitkään, napauta Jaa ja valitse Increase Volume."
+      },
+      {
+        "name": "Tarkista tiedot",
+        "text": "Varmista esittäjä, kappale, koko ja kesto. Puheelle laita ”Paranna äänenlaatua” päälle."
+      },
+      {
+        "name": "Aseta kerroin",
+        "text": "Vedä ”Äänenvoimakkuuden kertoja” ×2:een musiikille ja ×4–×10:een hiljaisille puhetallenteille. Napauta ”Tehosta äänenvoimakkuutta”."
+      },
+      {
+        "name": "Vertaa",
+        "text": "Vaihda Alkuperäinen/Käsitelty kovimmassa kohdassa. Säädä, jos tehostettu versio kuulostaa räikeältä."
+      },
+      {
+        "name": "Lataa käsitelty",
+        "text": "Napauta ”Lataa käsitelty” ja sitten Tallenna Tiedostoihin, tai jaa Mailiin, Viesteihin tai pilvipalveluun."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Vinkit",
+    "items": [
+      "Tehosta kokonainen sarja tiedostoja (äänikirjan luvut, luentosarja) samalla kertoimella, jotta ne soivat samalla tasolla.",
+      "Pidä tehostetut kopiot omassa Tiedostot-kansiossaan; sovellus säilyttää lisäksi jokaisen projektin listassaan.",
+      "Soittoäänissä: tehosta ensin ja rajaa sitten 30 sekuntiin; kovempi lähde antaa kovemman soittoäänen."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Voinko koventaa Apple Musicin tai Spotifyn kappaleen?",
+      "answer": "Mikään muu sovellus ei voi avata suoratoistopalvelujen latauksia; ne ovat salattuja. Increase Volume toimii omien tiedostojesi kanssa Tiedostoissa, iCloud Drivessa tai muussa tallennustilassa."
+    },
+    {
+      "question": "Heikkeneekö MP3:n laatu tehostuksessa?",
+      "answer": "Ääni käsitellään kerran ja tallennetaan uutena tiedostona. Laatu kärsii vain, jos tehostat niin paljon, että kovat huiput säröytyvät; Alkuperäinen/Käsitelty-kytkimellä kuulet sen ennen tallennusta."
+    },
+    {
+      "question": "Toimiiko myös WAV ja M4A?",
+      "answer": "Kyllä. Yleiset äänimuodot ovat tuettuja MP4- ja MOV-videon lisäksi."
+    }
+  ],
+  "related": [
+    "musiikki-kovemmalle-iphonella",
+    "podcast-tai-aanikirja-kovemmaksi-iphonella",
+    "sanelin-aanite-kovemmaksi-iphonella"
+  ]
+}

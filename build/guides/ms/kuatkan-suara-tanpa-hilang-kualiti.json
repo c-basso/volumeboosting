@@ -1,0 +1,140 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "kuatkan suara tanpa hilang kualiti",
+  "priority": 10,
+  "keywords": "kuatkan suara tanpa hilang kualiti, kuatkan suara tanpa herotan, suara pecah bila dikuatkan, naikkan volume tanpa clipping, kualiti turun bila volume dinaikkan",
+  "title": "Cara Kuatkan Suara Video Tanpa Hilang Kualiti (iPhone)",
+  "description": "Penguatan berlebihan menyebabkan suara pecah. Fahami apa yang berlaku semasa kelantangan dinaikkan, had selamatnya dan cara menyemak hasil dengan Asal/Diproses.",
+  "h1": "Cara kuatkan suara video tanpa hilang kualiti",
+  "eyebrow": "Kualiti",
+  "card_title": "Kuatkan tanpa herotan",
+  "card_summary": "Apa itu clipping, berapa ruang yang ada pada rakaman perlahan, dan cara menyemak sebelum menyimpan.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Menguatkan suara tidak menyentuh gambar dan tidak merosakkan audio selagi puncak paling kuat kekal di bawah had digital. Di iPhone, buka video dalam Penguat Volume Bunyi, mulakan dengan ×3, ketik «Boost kelantangan», dan dengar detik paling kuat dengan togol Asal/Diproses. Naikkan pengganda sehingga jelas kuat tetapi tidak kasar. Untuk suara bercakap, hidupkan «Tingkatkan Kualiti Audio», kemudian simpan dengan «Muat turun yang diproses». Fail asal tidak pernah diubah.",
+  "intro": [
+    "«Nanti suaranya pecah tak?» ialah soalan pertama semua orang tentang penguat volume, dan memang itu soalan yang tepat. Menguatkan bermaksud mendarab: setiap sampel audio menjadi lebih besar. Jika yang terbesar mencapai nilai maksimum yang dibenarkan format, sampel itu terpotong rata dan anda mendengar bunyi retak atau kasar pada bahagian kuat. Itulah clipping, dan itu satu-satunya risiko sebenar terhadap kualiti.",
+    "Berita baiknya: rakaman yang *perlahan*, mengikut takrifnya, ada banyak ruang sehingga had itu. Panduan ini menerangkan cara memanfaatkannya dan menyemak hasil sebelum menyimpan."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "Tangkapan skrin «Hear processed result»: skrin hasil Penguat Volume Bunyi dengan butang Muat turun yang diproses dan togol Asal/Diproses",
+    "caption": "Sentiasa bandingkan bahagian paling kuat dengan Asal/Diproses sebelum memuat turun."
+  },
+  "sections": [
+    {
+      "heading": "Apa yang sebenarnya berubah apabila suara dikuatkan",
+      "paragraphs": [
+        "Hanya trek audio yang diproses. Video melalui tanpa perubahan, jadi resolusi, kadar bingkai dan warna kekal sama sepenuhnya. Pada audio, pengganda ×2 menggandakan amplitud (kira-kira +6 dB), ×4 kira-kira +12 dB, dan ×10 ialah +20 dB. Hingar rakaman (dengung bilik, angin) turut didarab, jadi penguatan yang sangat besar pada rakaman bising boleh berbunyi berdesir walaupun tiada yang terpotong."
+      ]
+    },
+    {
+      "heading": "Berapa penguatan yang selamat?",
+      "paragraphs": [
+        "Bergantung pada sejauh mana detik paling kuat dari had, bukan sejauh mana *purata*nya perlahan. Rakaman yang berbunyi sangat perlahan tetapi ada hempasan pintu pada tahap maksimum tidak tahan banyak penguatan sebelum hempasan itu terpotong. Rakaman yang perlahan dan sekata, seperti kuliah dari barisan belakang, selalunya tahan ×8–×10 dengan bersih."
+      ],
+      "table": {
+        "head": [
+          "Rakaman",
+          "Julat selamat biasa",
+          "Nota"
+        ],
+        "rows": [
+          [
+            "Memo Suara atau kuliah dari jauh",
+            "×5 – ×10",
+            "Hidupkan Tingkatkan Kualiti Audio untuk suara bercakap."
+          ],
+          [
+            "Video telefon yang hanya sedikit perlahan",
+            "×2 – ×4",
+            "Semak gelak atau tepukan paling kuat."
+          ],
+          [
+            "Rakaman skrin",
+            "×5 – ×10",
+            "Selalunya jauh di bawah tahap normal."
+          ],
+          [
+            "Muzik dengan rangkap perlahan dan korus kuat",
+            "×1.5 – ×3",
+            "Korus yang menentukan hadnya."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Gunakan semakan Asal/Diproses",
+      "paragraphs": [
+        "Penguat Volume Bunyi memproses fail dan memaparkan togol Asal/Diproses sebelum menyimpan apa-apa. Cari detik paling kuat dan beralih antara kedua-duanya. Jika Diproses berbunyi kasar atau berderak di situ, turunkan pengganda satu tahap dan kuatkan semula. Kerana aplikasi mencipta fail baharu, anda bebas bereksperimen; fail asal tidak disentuh."
+      ]
+    },
+    {
+      "heading": "Tingkatkan Kualiti Audio: bila perlu dihidupkan",
+      "paragraphs": [
+        "Pilihan «Tingkatkan Kualiti Audio» menambah pemprosesan yang menumpukan kejelasan dan paling membantu untuk suara bercakap: temu bual, kuliah, voice note, tutorial rakaman skrin. Untuk muzik, cuba kedua-dua tetapan dan pilih yang paling semula jadi. Dalam versi semasa pilihan ini ditanda sebagai percubaan, jadi sentiasa dengar hasilnya."
+      ]
+    },
+    {
+      "id": "privasi",
+      "heading": "Privasi: semuanya kekal di telefon anda",
+      "paragraphs": [
+        "Penguat Volume Bunyi memproses fail di iPhone. Tiada apa-apa dimuat naik, tiada akaun, dan hasilnya disimpan melalui helaian kongsi iOS biasa ke Foto, Fail atau aplikasi pilihan anda. Penguat dalam talian memerlukan fail dihantar ke pelayan dan selalunya mengekod semula dengan kualiti lebih rendah; aplikasi setempat mengelakkan kedua-duanya."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: penguatan yang bersih",
+    "intro": "Aliran yang sama untuk video dan audio.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Buka fail dalam aplikasi",
+        "text": "Tambah dari Foto atau Fail, atau kongsi ke aplikasi dari mana-mana."
+      },
+      {
+        "name": "Tentukan Tingkatkan Kualiti Audio",
+        "text": "Hidupkan untuk suara bercakap; untuk muzik, cuba kedua-duanya."
+      },
+      {
+        "name": "Mulakan dengan sederhana",
+        "text": "Tetapkan «Pengganda kelantangan» ke ×3 dan ketik «Boost kelantangan»."
+      },
+      {
+        "name": "Semak detik paling kuat",
+        "text": "Beralih antara Asal/Diproses pada bahagian paling kuat. Bersih? Naikkan pengganda dan ulang. Kasar? Turunkan."
+      },
+      {
+        "name": "Simpan",
+        "text": "Ketik «Muat turun yang diproses» dan simpan ke Foto atau Fail. Fail asal kekal utuh."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tip",
+    "items": [
+      "Semak dengan fon kepala; pembesar suara telefon menyembunyikan clipping ringan.",
+      "Pada fail yang bising, pengganda sedikit lebih rendah dengan «Tingkatkan Kualiti Audio» selalunya berbunyi lebih baik daripada maksimum.",
+      "Kuatkan sekali, dari fail asal. Menguatkan semula eksport yang sudah dikuatkan mengumpul kecacatannya."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Adakah menguatkan suara menurunkan resolusi video?",
+      "answer": "Tidak. Hanya audio yang diproses. Video mengekalkan resolusi, kadar bingkai dan kadar bitnya."
+    },
+    {
+      "question": "Bagaimana bunyi herotan akibat penguatan berlebihan?",
+      "answer": "Seperti berderak, berdengung atau kasar hanya pada detik paling kuat, manakala bahagian perlahan berbunyi baik. Jika anda mendengarnya, turunkan pengganda."
+    },
+    {
+      "question": "Adakah ×10 terlalu tinggi?",
+      "answer": "Tidak untuk rakaman yang benar-benar perlahan, seperti Memo Suara dari jauh atau rakaman skrin. Untuk video telefon biasa, ×2–×4 selalunya sudah cukup. Biarkan semakan Asal/Diproses yang menentukan."
+    }
+  ],
+  "related": [
+    "cara-kuatkan-suara-video-iphone",
+    "kuatkan-memo-suara-iphone",
+    "kenapa-suara-video-perlahan"
+  ]
+}

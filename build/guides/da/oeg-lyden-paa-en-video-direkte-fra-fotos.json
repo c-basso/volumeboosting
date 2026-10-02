@@ -1,0 +1,101 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "øg lyd på video i Fotos",
+  "priority": 9,
+  "keywords": "øg lyd på video i fotos, fotos app lydstyrke video, video i fotos for lav, gør video højere fotos iPhone, del til increase volume",
+  "title": "Sådan øger du lyden på en video direkte fra Fotos (iPhone)",
+  "description": "Fotos har ingen lydstyrkeskyder, men du kan forstærke videoen alligevel: tryk på Del, vælg Increase Volume, træk til 10×, og gem den højere kopi i Fotos.",
+  "h1": "Sådan øger du lyden på en video direkte fra Fotos",
+  "eyebrow": "Arbejdsgang i Fotos",
+  "card_title": "Forstærk en video fra delingsarket i Fotos",
+  "card_summary": "Fotos kan kun slå lyden fra. Brug Del → Increase Volume til at forstærke et klip og gemme kopien ved siden af originalen.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Fotos-appen kan ikke øge lyden på en video; redigeringen kan kun slå lyden fra (og på iPhone 16 og nyere ændre balancen i videoer med rumlig lyd med Audio Mix). Sådan forstærker du en video fra Fotos: Åbn den, tryk på Del, vælg Increase Volume, træk „Lydstyrke-multiplikation“ op til ×10, tryk på „Boost lydstyrke“, og tryk derefter på „Download behandlet“ → Gem video. Den højere kopi dukker op i Fotos ved siden af originalen.",
+  "intro": [
+    "De fleste leder efter en lydstyrkeskyder i redigeringen i Fotos uden at finde den, for den findes ikke. Fotos kan beskære, rette op, farvekorrigere og slå lyden fra på en video, men ikke gøre den højere. Det, Fotos *har*, er et delingsark, og det kobler Increase Volume sig på, så forstærkningen er to tryk fra enhver video i dit bibliotek.",
+    "Denne guide viser den arbejdsgang, og hvad redigeringen i Fotos realistisk kan gøre for lyden."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Delingsark i iOS fra Increase Volume med muligheder for at gemme den forstærkede video i Fotos eller Filer",
+    "caption": "Den forstærkede kopi går tilbage til Fotos via delingsarket; din original forbliver som den var."
+  },
+  "sections": [
+    {
+      "heading": "Hvad redigeringen i Fotos kan og ikke kan med lyd",
+      "list": [
+        "Slå lyd fra: Tryk på Rediger og derefter højttalerikonet øverst for at fjerne lydsporet helt.",
+        "Audio Mix (iPhone 16 og nyere, videoer optaget med rumlig lyd): vælg mellem forskellige mix for at fremhæve stemmer og reducere baggrundsstøj. Det ændrer *balancen*, ikke den samlede lydstyrke.",
+        "Lydforstærkning: findes ikke i nogen version af Fotos."
+      ]
+    },
+    {
+      "heading": "Brug delingsarket med Increase Volume",
+      "paragraphs": [
+        "Siden version 1.2.7 vises Increase Volume i delingsarket i iOS. Deler du en video til appen, oprettes et projekt med det samme med filnavn, størrelse og varighed, så du ved, at du har valgt det rigtige klip. Efter forstærkningen åbner „Download behandlet“ delingsarket igen, hvor Gem video lægger den højere kopi tilbage i Fotos. Da det er en ny fil, overskrives originalen aldrig.",
+        "Vises Increase Volume ikke i delingsarket første gang, så rul rækken af apps til enden, tryk på Mere, og slå den til (du kan også trække den frem forrest i rækken)."
+      ]
+    },
+    {
+      "heading": "Forstærk flere videoer",
+      "paragraphs": [
+        "Increase Volume har en projektliste, så du kan sende flere klip over fra Fotos og behandle dem et ad gangen. Hvert projekt husker sin fil, indtil du sletter det, så det er nemt at vende tilbage senere og prøve en anden multiplikation."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Trin for trin: fra Fotos til en højere video",
+    "intro": "Du behøver ikke åbne Increase Volume først; start i Fotos.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Åbn videoen i Fotos",
+        "text": "Find den lave video, og åbn den i fuld skærm."
+      },
+      {
+        "name": "Tryk på Del → Increase Volume",
+        "text": "Tryk på Del, rul gennem rækken af app-ikoner, og tryk på Increase Volume. Et nyt projekt åbner."
+      },
+      {
+        "name": "Forstærk",
+        "text": "Træk „Lydstyrke-multiplikation“ til det niveau, du har brug for (×3–×10), slå „Forbedr lydkvalitet“ til ved tale, og tryk på „Boost lydstyrke“."
+      },
+      {
+        "name": "Sammenlign",
+        "text": "Brug kontakten Original/Behandlet til at høre forskellen."
+      },
+      {
+        "name": "Gem video",
+        "text": "Tryk på „Download behandlet“ og derefter Gem video. Tilbage i Fotos ligger den højere kopi lige efter originalen."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Føj Increase Volume til dine favoritter i delingsarket (Mere → Rediger), så den altid står først i rækken.",
+      "Du kan også dele en video fra Filer, Beskeder eller Mail direkte til appen; arbejdsgangen er den samme.",
+      "Frigør plads ved at slette den lave original, når du har tjekket, at den forstærkede kopi lyder rigtigt."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Erstatter forstærkning fra Fotos min originale video?",
+      "answer": "Nej. Increase Volume skriver altid en ny fil. Gemmer du den med Gem video, tilføjes en ekstra kopi i Fotos; originalen forbliver uændret."
+    },
+    {
+      "question": "Kan jeg forstærke Live Photos eller slowmotion-videoer?",
+      "answer": "Slowmotion- og timelapse-videoer eksporteres som almindelige videofiler og kan forstærkes. Live Photos er fotos med et kort klip tilknyttet og understøttes ikke som video."
+    },
+    {
+      "question": "Hvorfor har Fotos-appen ingen lydstyrkeskyder?",
+      "answer": "Apple placerer Fotos som et hurtigt redigeringsværktøj og overlader niveauændringer til iMovie. iMovie hæver lydstyrken til cirka 500 %; Increase Volume går til ×10 og virker fra delingsarket."
+    }
+  ],
+  "related": [
+    "goer-en-video-hoejere-paa-iphone",
+    "imovie-lydstyrke-over-500-procent",
+    "goer-lyden-paa-en-tiktok-video-hoejere"
+  ]
+}

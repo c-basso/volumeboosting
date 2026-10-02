@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "WhatsApp spraakbericht te zacht",
+  "priority": 2,
+  "keywords": "WhatsApp spraakbericht te zacht, WhatsApp spraakbericht harder maken, spraakberichten zacht iPhone, voicebericht niet te horen, Telegram spraakbericht zacht",
+  "title": "WhatsApp-spraakbericht te zacht? Zo maak je het harder",
+  "description": "Spraakberichten in WhatsApp te zacht op iPhone? Sluit eerst de oorspeaker via de nabijheidssensor uit, exporteer dan het bericht en maak het tot 10× harder.",
+  "h1": "WhatsApp-spraakbericht te zacht op iPhone: zo maak je het harder",
+  "eyebrow": "WhatsApp en Telegram",
+  "card_title": "WhatsApp-spraakbericht harder maken",
+  "card_summary": "Twee verschillende problemen: de oorspeaker of een opname die echt zacht is. Los ze allebei op.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Klinken alle spraakberichten in WhatsApp zacht, dan speelt je iPhone ze waarschijnlijk af via de oorspeaker omdat je de nabijheidssensor afdekt; houd de telefoon van je gezicht en druk op volume omhoog terwijl het bericht speelt. Is één bericht zacht, exporteer het dan (lang drukken → Stuur door → Deel → Bewaar in Bestanden of direct naar Increase Volume), versterk het ×5–×10 met 'Audiokwaliteit verbeteren' aan en bewaar of stuur de luidere kopie door.",
+  "intro": [
+    "Er zijn twee totaal verschillende redenen waarom een WhatsApp-spraakbericht zacht klinkt, elk met een eigen oplossing. Ten eerste: je iPhone schakelt ongemerkt over naar de oorspeaker. Ten tweede: de afzender nam op ver van de microfoon of in herrie, en de opname is echt zacht. Het eerste controleer je in tien seconden; het tweede los je in een minuut op.",
+    "Dezelfde stappen werken voor Telegram, Signal en audioberichten in iMessage."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Schermafbeelding 'Download and share anywhere': iOS-deelmenu met Bewaar in Bestanden voor een versterkte opname",
+    "caption": "Versterkte spraakberichten bewaar je in Bestanden of stuur je direct terug naar de chat."
+  },
+  "sections": [
+    {
+      "heading": "Oplossing 1: het speelt via de oorspeaker",
+      "paragraphs": [
+        "WhatsApp schakelt het afspelen over naar de oorspeaker (de kleine luidspreker voor bellen) als de nabijheidssensor naast de camera aan de voorkant wordt afgedekt. Een vinger, de rand van een hoesje of de telefoon richting je gezicht is genoeg, en het bericht klinkt ineens als gefluister. Laat de sensor vrij, houd de telefoon weg en druk op volume omhoog *terwijl het bericht speelt*; iOS heeft een apart volume voor de oorspeaker dat op minimum kan staan.",
+        "Controleer ook of Bluetooth het geluid niet naar oortjes in je zak stuurt, en of 'Reduceer harde audio' niet aanstaat in Instellingen › Geluid en voelbare feedback › Koptelefoonveiligheid."
+      ]
+    },
+    {
+      "heading": "Oplossing 2: het bericht zelf is zacht",
+      "paragraphs": [
+        "Klinken andere berichten normaal en dit ene niet, dan is de opname zacht. WhatsApp heeft geen volumeregeling voor ontvangen berichten en de volumeknoppen gaan niet boven 100%. Je moet het bestand zelf harder maken. WhatsApp laat je een spraakbericht als bestand exporteren, en Audioversterker vermenigvuldigt het tot ×10 en geeft je een nieuwe kopie om te bewaren of door te sturen."
+      ]
+    },
+    {
+      "heading": "Een spraakbericht exporteren uit WhatsApp, Telegram of Berichten",
+      "list": [
+        "WhatsApp: houd het bericht ingedrukt → Stuur door → deelsymbool (linksonder) → kies Increase Volume of Bewaar in Bestanden.",
+        "Telegram: houd het bericht ingedrukt → Stuur door of Deel → Bewaar in Bestanden of deel met Increase Volume.",
+        "Audioberichten in iMessage: houd ingedrukt → Bewaar (gaat naar Dictafoon) en deel vanuit daar.",
+        "Signal: houd ingedrukt → Bewaar → Bewaar in Bestanden."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Stap voor stap: een WhatsApp-spraakbericht harder maken",
+    "intro": "Een minuut met de gratis app Audioversterker.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Exporteer het bericht",
+        "text": "Houd in WhatsApp het spraakbericht ingedrukt → Stuur door → deelsymbool → Increase Volume. (Of Bewaar in Bestanden en voeg het toe vanuit de app.)"
+      },
+      {
+        "name": "Zet Audiokwaliteit verbeteren aan",
+        "text": "Spraakberichten zijn spraak; de schakelaar helpt woorden duidelijk te houden na het versterken."
+      },
+      {
+        "name": "Versterk",
+        "text": "Zet 'Volumevermenigvuldiging' eerst op ×5, op ×8–×10 als het heel zacht is, en tik op 'Volume versterken'."
+      },
+      {
+        "name": "Vergelijk",
+        "text": "Wissel tussen Origineel/Verwerkt. Kraakt het hardste woord, verlaag dan de vermenigvuldiging."
+      },
+      {
+        "name": "Bewaar of stuur door",
+        "text": "Tik op 'Verwerkt bestand downloaden'. Bewaar in Bestanden of deel de luidere kopie terug naar WhatsApp zodat de hele groep het hoort."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Vraag wie je vaak spraakberichten stuurt om dichter bij de telefoon te praten; niets werkt beter dan de bron verbeteren.",
+      "Bewaar je veel berichten, verzamel de versterkte kopieën dan in één map in Bestanden; de WhatsApp-map kun je niet doorbladeren.",
+      "Met je eigen berichten werkt het net zo: opnemen, delen met de app, versterken en het versterkte bestand als document of audio versturen."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Waarom worden spraakberichten zacht als ik de telefoon tegen mijn oor houd?",
+      "answer": "Dat is zo bedoeld: met de nabijheidssensor afgedekt speelt WhatsApp voor je privacy af via de oorspeaker. Zet het volume van de oorspeaker hoger met de knoppen terwijl het bericht speelt, of houd de telefoon weg om via de luidspreker af te spelen."
+    },
+    {
+      "question": "Kan ik een spraakbericht in WhatsApp zelf harder zetten?",
+      "answer": "Nee. WhatsApp heeft afspeelsnelheden (1×, 1,5×, 2×), maar geen volumeversterking. Exporteer het bericht en maak het harder met Audioversterker."
+    },
+    {
+      "question": "Werkt het ook voor Telegram en Messenger?",
+      "answer": "Het werkt met elke app waarmee je het audiobestand kunt delen of bewaren. Versterkte bestanden kun je via dezelfde app doorsturen."
+    }
+  ],
+  "related": [
+    "dictafoon-opname-harder-maken",
+    "mp3-harder-maken-iphone",
+    "waarom-is-mijn-video-zo-zacht"
+  ]
+}

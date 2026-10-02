@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "message vocal WhatsApp trop faible",
+  "priority": 3,
+  "keywords": "message vocal WhatsApp trop faible, augmenter le son d'un vocal WhatsApp, vocal WhatsApp inaudible iPhone, message vocal trop bas, vocal Telegram trop faible",
+  "title": "Message vocal WhatsApp trop faible sur iPhone ? La solution",
+  "description": "Vocaux WhatsApp trop faibles sur iPhone : écartez d'abord le passage à l'écouteur (capteur de proximité), puis exportez le message et amplifiez-le jusqu'à 10×.",
+  "h1": "Message vocal WhatsApp trop faible sur iPhone : comment le rendre plus fort",
+  "eyebrow": "WhatsApp et Telegram",
+  "card_title": "Rendre un vocal WhatsApp plus fort",
+  "card_summary": "Deux problèmes différents : l'écouteur ou un enregistrement vraiment faible. Réglez les deux.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Si tous les vocaux WhatsApp sont faibles, votre iPhone les joue sans doute dans l'écouteur parce que le capteur de proximité a été masqué ; éloignez le téléphone du visage et appuyez sur volume + pendant la lecture. Si un message précis est faible, exportez-le (appui long → Transférer → Partager → Enregistrer dans Fichiers ou directement vers Increase Volume), amplifiez-le ×5–×10 avec « Améliorer la qualité audio » activé, puis enregistrez ou transférez la copie plus forte.",
+  "intro": [
+    "Il y a deux raisons totalement différentes pour lesquelles un vocal WhatsApp est difficile à entendre, et chacune a sa solution. La première : votre iPhone bascule discrètement sur l'écouteur. La seconde : l'expéditeur a parlé loin du micro ou dans le bruit, et le message est réellement faible. La première se vérifie en dix secondes, la seconde se corrige en une minute.",
+    "Les mêmes étapes valent pour Telegram, Signal et les messages audio d'iMessage."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/fr/6.webp",
+    "alt": "Capture « Télécharger et partager où que vous soyez » : feuille de partage iOS avec Enregistrer dans Fichiers pour un vocal amplifié",
+    "caption": "Les vocaux amplifiés s'enregistrent dans Fichiers ou se renvoient directement dans la conversation."
+  },
+  "sections": [
+    {
+      "heading": "Solution 1 : le message passe par l'écouteur",
+      "paragraphs": [
+        "WhatsApp bascule la lecture sur l'écouteur (le petit haut-parleur des appels) quand le capteur de proximité près de la caméra avant est masqué. Un doigt, le bord d'une coque ou le geste de porter le téléphone au visage suffit, et le message ressemble soudain à un murmure. Dégagez le capteur, éloignez le téléphone et appuyez sur volume + *pendant la lecture* ; iOS garde un volume séparé pour l'écouteur, qui est peut-être au minimum.",
+        "Vérifiez aussi que le Bluetooth n'envoie pas le son vers des écouteurs dans votre poche, et que Réglages › Sons et vibrations › Sécurité des écouteurs › Réduire les sons forts ne limite pas le volume au casque."
+      ]
+    },
+    {
+      "heading": "Solution 2 : le message lui-même est faible",
+      "paragraphs": [
+        "Si les autres messages sont normaux et celui-ci non, c'est l'enregistrement qui est faible. WhatsApp n'a pas de réglage de volume pour les vocaux reçus et les boutons de volume ne dépassent pas 100 %. Il faut rendre le fichier lui-même plus fort. WhatsApp permet d'exporter un vocal en fichier audio, et l'Amplificateur de Volume Audio le multiplie jusqu'à ×10 et vous donne une nouvelle copie à garder ou transférer."
+      ]
+    },
+    {
+      "heading": "Exporter un vocal depuis WhatsApp, Telegram ou Messages",
+      "list": [
+        "WhatsApp : appui long sur le vocal → Transférer → icône Partager (en bas à gauche) → choisissez Increase Volume ou Enregistrer dans Fichiers.",
+        "Telegram : appui long → Transférer ou Partager → Enregistrer dans Fichiers, ou partagez vers Increase Volume.",
+        "Messages audio iMessage : appui long → Enregistrer (va dans Dictaphone), puis partagez depuis Dictaphone.",
+        "Signal : appui long → Enregistrer → Enregistrer dans Fichiers."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Étape par étape : amplifier un vocal WhatsApp",
+    "intro": "Environ une minute avec l'app gratuite.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Exportez le vocal",
+        "text": "Dans WhatsApp, appui long sur le message → Transférer → icône Partager → Increase Volume. (Ou Enregistrer dans Fichiers et ajoutez-le depuis l'app.)"
+      },
+      {
+        "name": "Activez Améliorer la qualité audio",
+        "text": "Un vocal, c'est de la parole ; l'option aide à garder les mots nets après l'amplification."
+      },
+      {
+        "name": "Amplifiez",
+        "text": "Réglez « Multiplication du volume » sur ×5 pour commencer, ×8–×10 pour un message très faible, puis touchez « Amplifier le volume »."
+      },
+      {
+        "name": "Comparez",
+        "text": "Basculez Original/Traité. Si le mot le plus fort grésille, baissez le multiplicateur."
+      },
+      {
+        "name": "Enregistrez ou transférez",
+        "text": "Touchez « Télécharger le fichier traité ». Enregistrez dans Fichiers ou repartagez la copie plus forte dans WhatsApp pour que tout le groupe l'entende."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Conseils",
+    "items": [
+      "Demandez à ceux qui envoient souvent des vocaux de parler plus près du téléphone ; rien ne vaut une correction à la source.",
+      "Si vous gardez beaucoup de vocaux, rangez les copies amplifiées dans un dossier de Fichiers ; le dossier multimédia de WhatsApp n'est pas consultable.",
+      "Pour vos propres vocaux, même astuce : enregistrez, partagez vers l'app, amplifiez et envoyez le fichier amplifié comme document ou audio."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Pourquoi les vocaux sont-ils faibles quand je mets le téléphone à l'oreille ?",
+      "answer": "C'est voulu : quand le capteur de proximité est masqué, WhatsApp joue le son dans l'écouteur par discrétion. Montez le volume de l'écouteur avec les boutons pendant la lecture, ou éloignez le téléphone pour utiliser le haut-parleur."
+    },
+    {
+      "question": "Peut-on augmenter le volume d'un vocal dans WhatsApp ?",
+      "answer": "Non. WhatsApp propose des vitesses de lecture (1×, 1,5×, 2×) mais pas d'amplification. Exportez le message et amplifiez-le avec l'app."
+    },
+    {
+      "question": "Ça marche aussi avec Telegram et Messenger ?",
+      "answer": "Avec toute app qui permet de partager ou d'enregistrer le fichier audio. Les fichiers amplifiés peuvent être renvoyés par la même app."
+    }
+  ],
+  "related": [
+    "augmenter-volume-memo-vocal-iphone",
+    "augmenter-volume-mp3-iphone",
+    "pourquoi-ma-video-iphone-a-un-son-faible"
+  ]
+}

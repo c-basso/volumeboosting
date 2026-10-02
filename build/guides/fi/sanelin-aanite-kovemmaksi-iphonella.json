@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "sanelin äänite hiljainen",
+  "priority": 4,
+  "keywords": "sanelin äänite hiljainen, äänimuistio kovemmaksi, äänitys hiljainen iPhone, paranna tallennetta sanelin, puhetallenne kovemmaksi",
+  "title": "Sanelin-äänite liian hiljainen? Näin saat sen kovemmaksi",
+  "description": "Sanelimen Paranna tallennetta vähentää kohinaa, mutta ei kovenna tiedostoa. Näin tehostat hiljaisen äänitteen jopa 10× ja tallennat sen Increase Volumella.",
+  "h1": "Näin saat Sanelin-äänitteen kovemmaksi iPhonella",
+  "eyebrow": "Sanelin",
+  "card_title": "Hiljainen Sanelin-äänite kovemmaksi",
+  "card_summary": "Paranna tallennetta muuttaa vain toistoa. Vie äänite ja tehosta itse tiedosto, jopa 10×.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Saat Sanelin-äänitteen kovemmaksi jakamalla sen Sanelimesta Increase Volumeen (napauta äänitettä → ⋯ → Jaa → Increase Volume), laittamalla ”Paranna äänenlaatua” päälle, vetämällä ”Äänenvoimakkuuden kertoja” ×5–×10:een, napauttamalla ”Tehosta äänenvoimakkuutta”, vertaamalla Alkuperäistä ja Käsiteltyä ja napauttamalla ”Lataa käsitelty”, jolloin kovempi M4A-tiedosto tallentuu. Sanelimen oma Paranna tallennetta vähentää taustakohinaa toistossa, mutta ei muuta tiedostoa eikä tee siitä kovempaa jaettaessa.",
+  "intro": [
+    "Äänite kokouspöydän toisesta päästä, luento takarivistä tai haastattelu hiljaa puhuvan kanssa: sanat ovat tallessa, mutta täysillä äänilläkin joudut keskittymään kuullaksesi ne. Sanelimessa on muutama toistoasetus, ja moni olettaa jonkin niistä koventavan äänitettä. Mikään ei kovenna.",
+    "Tämä opas kertoo, mitä Sanelin osaa, ja miten teet hiljaisesta äänitteestä kovan, jaettavan tiedoston noin minuutissa."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Increase Volume: äänitteen tiedot, Paranna äänenlaatua -kytkin ja Äänenvoimakkuuden kertoja ×10 -liukusäädin",
+    "caption": "Puheelle laita ”Paranna äänenlaatua” päälle ennen tehostusta."
+  },
+  "sections": [
+    {
+      "heading": "Mitä Sanelin osaa (ja mitä ei)",
+      "paragraphs": [
+        "Avaa äänite, napauta asetuskuvaketta (liukusäätimet), ja näet:"
+      ],
+      "list": [
+        "Paranna tallennetta: vähentää taustakohinaa ja kaikua. Hyödyllinen, mutta se on *toiston* asetus; Applen mukaan se ei muuta itse tallennetta.",
+        "Ohita hiljaisuus ja toistonopeus: käteviä, mutta eivät vaikuta äänenvoimakkuuteen.",
+        "Studioääni (tuetut mallit): vähentää huoneen kaikua, sekin vain toistossa.",
+        "Rajaa / Korvaa: muuttavat pituutta tai sisältöä, eivät tasoa."
+      ],
+      "note": "Mikään Sanelimessa ei nosta tallennetun tiedoston tasoa. Kun jaat äänitteen, vastaanottaja kuulee sen alkuperäisellä voimakkuudella."
+    },
+    {
+      "heading": "Miksi äänite on ylipäätään hiljainen",
+      "paragraphs": [
+        "iPhone säätää herkkyyttä automaattisesti äänityksen aikana, mutta se ei voi kompensoida usean metrin päässä olevaa puhujaa tai näyttö alaspäin pöydällä makaavaa puhelinta, jonka mikrofoni on peitossa. Tuloksena on tallenne, jonka huiput jäävät kauas digitaalisen katon alle. Juuri tämä väli on tehostimen pelivara: hiljaisen äänitteen voi yleensä kertoa ×5–×10 ilman säröä."
+      ]
+    },
+    {
+      "heading": "Tehosta tiedosto Increase Volumella",
+      "paragraphs": [
+        "Increase Volume avaa Sanelimen viemän M4A-tiedoston, näyttää keston ja koon ja kertoo äänenvoimakkuuden jopa ×10:llä. ”Paranna äänenlaatua” -kytkin tähtää puheen selkeyteen – juuri siihen, mitä äänite tarvitsee. Kuulet tuloksen Alkuperäinen/Käsitelty-kytkimellä ennen tallennusta, ja kovempi tiedosto tallentuu uutena kopiona Tiedostoihin, Viesteihin, Mailiin tai valitsemaasi sovellukseen."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Vaihe vaiheelta: Sanelin-äänite kovemmaksi",
+    "intro": "Toimii kaikilla Sanelimessa jo olevilla äänitteillä.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Jaa äänite Increase Volumeen",
+        "text": "Napauta Sanelimessa äänitettä, napauta ⋯, valitse Jaa ja valitse sovellusriviltä Increase Volume. (Voit myös ensin valita Tallenna Tiedostoihin ja lisätä sen sovelluksesta.)"
+      },
+      {
+        "name": "Laita Paranna äänenlaatua päälle",
+        "text": "Kytke päälle, jotta tehostus suosii puhetta."
+      },
+      {
+        "name": "Aseta kerroin",
+        "text": "Vedä ”Äänenvoimakkuuden kertoja” aluksi ×5:een; kaukaa äänitetyt tarvitsevat usein ×8–×10. Napauta ”Tehosta äänenvoimakkuutta”."
+      },
+      {
+        "name": "Vertaa",
+        "text": "Vaihda Alkuperäinen/Käsitelty äänitteen kovimmassa kohdassa (nauru, pöytään laskettu kuppi). Jos se rätisee, laske kerrointa."
+      },
+      {
+        "name": "Lataa käsitelty",
+        "text": "Napauta ”Lataa käsitelty” ja valitse Tallenna Tiedostoihin, tai lähetä kovempi äänite suoraan Viesteihin, Mailiin, WhatsAppiin tai Muistiinpanoihin."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Vinkit",
+    "items": [
+      "Äänitä puhelin selällään, mikrofonipää puhujaa kohti ja niin lähellä kuin kohteliaisuus sallii. Se vaikuttaa enemmän kuin mikään asetus.",
+      "Jos äänite litteroidaan, tehosta se ensin; puheentunnistus tekee vähemmän virheitä kovemmasta ja selkeämmästä tiedostosta.",
+      "Pidä alkuperäinen Sanelimessa. Tehostettu kopio on erillinen tiedosto."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Koventaako Paranna tallennetta Sanelin-äänitettä?",
+      "answer": "Ei. Se vähentää taustakohinaa ja kaikua toiston aikana. Applen mukaan nämä toistoasetukset eivät muuta itse tallennetta, joten jaettu äänite pysyy samana."
+    },
+    {
+      "question": "Missä muodossa tehostettu äänite tallentuu?",
+      "answer": "Samassa äänimuodossa, jonka jaoit (Sanelin vie M4A:ta). Sovellus tekee uuden tiedoston; alkuperäinen äänite pysyy koskemattomana."
+    },
+    {
+      "question": "Voinko tehostaa äänitteen, jonka joku lähetti minulle?",
+      "answer": "Kyllä. Tallenna ääni Viesteistä, Mailista tai WhatsAppista Tiedostoihin (tai jaa se suoraan Increase Volumeen) ja tehosta samalla tavalla."
+    }
+  ],
+  "related": [
+    "whatsapp-aaniviesti-hiljainen",
+    "mp3-tiedosto-kovemmaksi-iphonella",
+    "aani-kovemmaksi-ilman-laadun-heikkenemista"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "augmenter le volume d'une vidéo dans Photos",
+  "priority": 9,
+  "keywords": "augmenter volume vidéo Photos iPhone, app Photos monter le son, vidéo Photos son faible, augmenter son vidéo Photos, partager vers Increase Volume",
+  "title": "Augmenter le volume d'une vidéo depuis l'app Photos iPhone",
+  "description": "Photos n'a pas de réglage de volume, mais vous pouvez amplifier la vidéo : touchez Partager, choisissez l'amplificateur, montez jusqu'à 10× et gardez la copie.",
+  "h1": "Comment augmenter le volume d'une vidéo directement depuis Photos",
+  "eyebrow": "Depuis Photos",
+  "card_title": "Amplifier une vidéo depuis Partager dans Photos",
+  "card_summary": "Photos peut seulement couper le son. Avec Partager → Increase Volume, amplifiez le clip et gardez la copie forte à côté de l'original.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "L'app Photos ne peut pas augmenter le volume d'une vidéo ; son éditeur peut seulement couper le son (et, sur iPhone 16 ou ultérieur, rééquilibrer l'audio spatial avec Mix audio). Pour amplifier une vidéo depuis Photos : ouvrez-la, touchez Partager, choisissez Increase Volume, faites glisser « Multiplication du volume » jusqu'à ×10, touchez « Amplifier le volume » puis « Télécharger le fichier traité » → Enregistrer la vidéo. La copie plus forte apparaît dans Photos à côté de l'original.",
+  "intro": [
+    "Presque tout le monde cherche un réglage de volume dans l'éditeur de Photos et ne le trouve pas, parce qu'il n'existe pas. Photos recadre, redresse, corrige les couleurs et coupe le son d'une vidéo, mais ne le monte pas. Ce que Photos *a*, c'est la feuille de partage, et l'Amplificateur de Volume Audio s'y intègre : l'amplification est à deux touchers de n'importe quelle vidéo de votre photothèque.",
+    "Ce guide montre ce parcours et ce que l'éditeur de Photos sait vraiment faire avec le son."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/fr/6.webp",
+    "alt": "Capture « Téléchargez et partagez où vous voulez » : feuille de partage avec les options pour enregistrer la vidéo amplifiée dans Photos ou Fichiers",
+    "caption": "La copie amplifiée revient dans Photos via la feuille de partage ; votre original reste tel quel."
+  },
+  "sections": [
+    {
+      "heading": "Ce que l'éditeur de Photos peut et ne peut pas faire avec le son",
+      "list": [
+        "Couper le son : touchez Modifier puis l'icône du haut-parleur en haut pour retirer toute la piste audio.",
+        "Mix audio (iPhone 16 ou ultérieur, vidéos avec audio spatial) : différents mixages mettent les voix en avant et réduisent le bruit de fond. Cela change l'*équilibre*, pas le volume global.",
+        "Augmenter le volume : n'existe dans aucune version de Photos."
+      ]
+    },
+    {
+      "heading": "Utiliser Partager avec l'Amplificateur de Volume Audio",
+      "paragraphs": [
+        "Depuis la version 1.2.7, Increase Volume apparaît dans la feuille de partage d'iOS. Partager une vidéo vers l'app crée aussitôt un projet avec le nom, la taille et la durée, pour vérifier que c'est le bon clip. Après l'amplification, « Télécharger le fichier traité » rouvre la feuille de partage, où Enregistrer la vidéo place la copie plus forte dans Photos. Comme c'est un nouveau fichier, l'original n'est jamais écrasé.",
+        "Si Increase Volume n'apparaît pas la première fois dans la feuille de partage, faites défiler la rangée d'apps jusqu'au bout, touchez Plus et activez-la (vous pouvez aussi la faire glisser en tête)."
+      ]
+    },
+    {
+      "heading": "Amplifier plusieurs vidéos",
+      "paragraphs": [
+        "L'app conserve une liste de projets : vous pouvez envoyer plusieurs clips depuis Photos et les traiter l'un après l'autre. Chaque projet garde son fichier jusqu'à ce que vous le supprimiez, vous pouvez donc revenir plus tard essayer un autre multiplicateur."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Étape par étape : de Photos à une vidéo plus forte",
+    "intro": "Inutile d'ouvrir l'app d'abord ; commencez dans Photos.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Ouvrez la vidéo dans Photos",
+        "text": "Trouvez la vidéo faible et ouvrez-la en plein écran."
+      },
+      {
+        "name": "Touchez Partager → Increase Volume",
+        "text": "Touchez Partager, faites défiler la rangée d'icônes et touchez Increase Volume. Un nouveau projet s'ouvre."
+      },
+      {
+        "name": "Amplifiez",
+        "text": "Faites glisser « Multiplication du volume » au niveau voulu (×3–×10), activez « Améliorer la qualité audio » pour la voix et touchez « Amplifier le volume »."
+      },
+      {
+        "name": "Comparez",
+        "text": "Avec le sélecteur Original/Traité, écoutez la différence."
+      },
+      {
+        "name": "Enregistrer la vidéo",
+        "text": "Touchez « Télécharger le fichier traité » puis Enregistrer la vidéo. Dans Photos, la copie plus forte apparaît juste après l'original."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Conseils",
+    "items": [
+      "Ajoutez Increase Volume aux favoris de la feuille de partage (Plus → Modifier) pour qu'elle apparaisse toujours en premier.",
+      "Vous pouvez aussi partager une vidéo depuis Fichiers, Messages ou Mail directement vers l'app ; le parcours est identique.",
+      "Pour libérer de l'espace, supprimez l'original faible une fois la copie amplifiée vérifiée."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Amplifier depuis Photos remplace-t-il ma vidéo d'origine ?",
+      "answer": "Non. L'app crée toujours un nouveau fichier. Enregistrer la vidéo ajoute une deuxième copie dans Photos ; l'original ne change pas."
+    },
+    {
+      "question": "Puis-je amplifier des Live Photos ou des vidéos au ralenti ?",
+      "answer": "Les ralentis et les accélérés s'exportent comme des vidéos normales et peuvent être amplifiés. Les Live Photos sont des photos avec un court clip et ne sont pas prises en charge comme vidéos."
+    },
+    {
+      "question": "Pourquoi l'app Photos n'a-t-elle pas de réglage de volume ?",
+      "answer": "Apple conçoit Photos comme un éditeur de retouches rapides et laisse les changements de niveau à iMovie. iMovie monte le volume jusqu'à 500 % ; l'Amplificateur de Volume Audio va jusqu'à ×10 et fonctionne depuis la feuille de partage."
+    }
+  ],
+  "related": [
+    "comment-augmenter-le-son-d-une-video-sur-iphone",
+    "imovie-volume-plus-de-500",
+    "augmenter-son-video-tiktok"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "aumentare il volume di un video nell'app Foto",
+  "priority": 9,
+  "keywords": "aumentare volume video Foto iPhone, app Foto alzare volume, video in Foto audio basso, alzare volume video da Foto, condividi con Increase Volume",
+  "title": "Come aumentare il volume di un video direttamente da Foto",
+  "description": "Foto non ha un controllo del volume, ma puoi potenziare il video: tocca Condividi, scegli Aumenta Volume, arriva a 10× e salva la copia accanto all'originale.",
+  "h1": "Come aumentare il volume di un video direttamente da Foto",
+  "eyebrow": "Da Foto",
+  "card_title": "Potenziare un video da Condividi in Foto",
+  "card_summary": "Foto sa solo silenziare. Con Condividi → Increase Volume potenzi la clip e salvi una copia forte accanto all'originale.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "L'app Foto non può aumentare il volume di un video; il suo editor può solo silenziarlo (e su iPhone 16 o successivi bilanciare l'audio spaziale con Audio Mix). Per potenziare un video da Foto: aprilo, tocca Condividi, scegli Increase Volume, trascina «Moltiplicazione volume» fino a ×10, tocca «Potenzia volume» e poi «Scarica elaborato» → Salva video. La copia più forte compare in Foto accanto all'originale.",
+  "intro": [
+    "Quasi tutti cercano un controllo del volume nell'editor di Foto e non lo trovano, perché non esiste. Foto ritaglia, raddrizza, corregge i colori e silenzia un video, ma non lo alza. Quello che Foto *ha* è il foglio di condivisione, e Aumenta Volume si aggancia lì, quindi il potenziamento è a due tocchi da qualsiasi video della tua libreria.",
+    "Questa guida mostra quel flusso e cosa sa fare davvero l'editor di Foto con l'audio."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/it/6.webp",
+    "alt": "Foglio di condivisione con le opzioni per salvare il video potenziato in Foto o File",
+    "caption": "La copia potenziata torna in Foto tramite il foglio di condivisione; l'originale resta com'è."
+  },
+  "sections": [
+    {
+      "heading": "Cosa può e non può fare l'editor di Foto con l'audio",
+      "list": [
+        "Silenzia: tocca Modifica e poi l'icona dell'altoparlante in alto per togliere tutta la traccia audio.",
+        "Audio Mix (iPhone 16 o successivi, video con audio spaziale): mix diversi mettono in risalto le voci e riducono il rumore di fondo. Cambia l'*equilibrio*, non il volume complessivo.",
+        "Aumentare il volume: non esiste in nessuna versione di Foto."
+      ]
+    },
+    {
+      "heading": "Usare Condividi con Aumenta Volume",
+      "paragraphs": [
+        "Dalla versione 1.2.7, Increase Volume compare nel foglio di condivisione di iOS. Condividere un video con l'app crea subito un progetto con nome, dimensione e durata, così sai che è la clip giusta. Dopo il potenziamento, «Scarica elaborato» riapre il foglio di condivisione, dove Salva video mette la copia più forte in Foto. Essendo un nuovo file, l'originale non viene mai sovrascritto.",
+        "Se Increase Volume non compare nel foglio di condivisione la prima volta, scorri la riga delle app fino in fondo, tocca Altro e attivala (puoi anche trascinarla all'inizio)."
+      ]
+    },
+    {
+      "heading": "Potenziare più video",
+      "paragraphs": [
+        "L'app conserva un elenco di progetti, quindi puoi inviare più clip da Foto ed elaborarle una dopo l'altra. Ogni progetto ricorda il suo file finché non lo elimini, così puoi tornare più tardi e provare un altro moltiplicatore."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Passo dopo passo: da Foto a un video più forte",
+    "intro": "Non serve aprire prima l'app; parti da Foto.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Apri il video in Foto",
+        "text": "Trova il video basso e aprilo a schermo intero."
+      },
+      {
+        "name": "Tocca Condividi → Increase Volume",
+        "text": "Tocca Condividi, scorri la riga delle icone e tocca Increase Volume. Si apre un nuovo progetto."
+      },
+      {
+        "name": "Potenzia",
+        "text": "Trascina «Moltiplicazione volume» al livello che ti serve (×3–×10), attiva «Migliora qualità audio» per il parlato e tocca «Potenzia volume»."
+      },
+      {
+        "name": "Confronta",
+        "text": "Con il selettore Originale/Elaborato senti la differenza."
+      },
+      {
+        "name": "Salva video",
+        "text": "Tocca «Scarica elaborato» e poi Salva video. In Foto la copia più forte compare subito dopo l'originale."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consigli",
+    "items": [
+      "Aggiungi Increase Volume ai preferiti del foglio di condivisione (Altro → Modifica) così compare sempre per prima.",
+      "Puoi condividere un video anche da File, Messaggi o Mail direttamente con l'app; il flusso è lo stesso.",
+      "Per liberare spazio, elimina l'originale basso dopo aver verificato che la copia potenziata suoni bene."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Potenziare da Foto sostituisce il mio video originale?",
+      "answer": "No. L'app crea sempre un nuovo file. Salva video aggiunge una seconda copia in Foto; l'originale non cambia."
+    },
+    {
+      "question": "Posso potenziare Live Photo o video al rallentatore?",
+      "answer": "I video al rallentatore e time-lapse vengono esportati come video normali e si possono potenziare. Le Live Photo sono foto con una breve clip e non sono supportate come video."
+    },
+    {
+      "question": "Perché l'app Foto non ha un controllo del volume?",
+      "answer": "Apple pensa Foto come un editor per ritocchi veloci e lascia le modifiche di livello a iMovie. iMovie alza fino al 500%; Aumenta Volume arriva a ×10 e funziona dal foglio di condivisione."
+    }
+  ],
+  "related": [
+    "come-aumentare-il-volume-di-un-video-su-iphone",
+    "imovie-volume-oltre-500",
+    "aumentare-volume-video-tiktok"
+  ]
+}

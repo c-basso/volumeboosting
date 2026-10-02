@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "fil",
-    "title": "Palakasin ang tunog – Palakas | Mas malakas (~10×) sa iPhone",
-    "description": "Mas malakas ang audio o video sa iPhone. Boost hanggang ~10×: mas malinaw at may bass. Musika, video, podcast. Sa device. Libreng subukan sa App Store.",
-    "keywords": "lakas ng tunog iPhone, mas malakas na video, mahinang video, volume booster, app sa iPhone, palakasin ang audio, screen recording, palakas ng tunog, Increase Volume",
+    "title": "Paano lakasan ang volume ng video sa iPhone – hanggang 10×",
+    "description": "Lakasan ang mahinang video, MP3 o voice memo sa iPhone hanggang 10×. Pinapalakas ng Increase Volume ang file mismo at nagse-save ng malinaw na kopya nito.",
+    "keywords": "paano lakasan ang volume ng video sa iPhone, volume booster iPhone, palakas ng tunog app, mahina ang tunog ng video, mahina ang screen recording, mahina ang voice message, lakasan ang MP3, Increase Volume",
     "canonical": "https://volumeboosting.com/fil/",
-    "og_title": "Palakasin ang tunog – Palakas",
-    "og_description": "Audio at video sa iPhone hanggang ~10× na mas malakas — Increase Volume – Palakas ng tunog. Malinaw na tunog, bass; mahinang clip. Pinoproseso sa device.",
+    "og_title": "Lakasan ang video at audio sa iPhone – hanggang 10× mas malakas",
+    "og_description": "Mahinang video, MP3 o voice memo? Pinapalakas ng Increase Volume ang file hanggang 10×, ikumpara ang Orihinal/Na-process, at i-save ang mas malakas na kopya.",
     "og_image": "https://volumeboosting.com/fil/site_preview.png",
     "og_image_alt": "Icon ng app na Increase Volume – Palakas ng tunog",
     "og_url": "https://volumeboosting.com/fil/",
     "og_locale": "tl_PH",
     "twitter_url": "https://volumeboosting.com/fil/",
-    "twitter_title": "Palakasin ang tunog – Palakas",
-    "twitter_description": "Audio at video sa iPhone hanggang ~10× na mas malakas — Increase Volume – Palakas ng tunog. Malinaw na tunog, bass; mahinang clip. Pinoproseso sa device.",
+    "twitter_title": "Lakasan ang video at audio sa iPhone – hanggang 10× mas malakas",
+    "twitter_description": "Mahinang video, MP3 o voice memo? Pinapalakas ng Increase Volume ang file hanggang 10×, ikumpara ang Orihinal/Na-process, at i-save ang mas malakas na kopya.",
     "twitter_image": "https://volumeboosting.com/fil/site_preview.png",
     "twitter_image_alt": "Icon ng app na Increase Volume – Palakas ng tunog"
   },
@@ -188,44 +188,61 @@
     "breadcrumb_home": "Home",
     "faq": [
       {
-        "question": "Ano ang Increase Volume – Palakas ng tunog?",
-        "answer": "Ito ay iPhone app sa kategoryang Musika sa App Store na nagpapapalakas ng imported audio at video files — hanggang ~10× — at nagpapahintulot mag-save ng bagong file. Nagpo-proseso ito ng media sa device; para sa mahinang recording, podcast, at clip — hindi para lampasan ang hardware limits ng iOS para sa buong system audio."
+        "question": "Paano lakasan ang volume ng video sa iPhone?",
+        "answer": "Buksan ang Increase Volume, i-import ang video mula sa Photos (o i-share sa app), i-drag ang «Volume multiplication» hanggang ×10, i-tap ang «Boost Volume», ikumpara ang Orihinal at Na-process, at i-tap ang «Download Processed». Mase-save ang mas malakas na kopya sa Photos o Files at malakas ito sa kahit anong device.",
+        "guide": "paano-lakasan-ang-volume-ng-video-sa-iphone"
       },
       {
-        "question": "Paano gumagana ang Increase Volume – Palakas ng tunog?",
-        "answer": "Mag-import ng video, kanta, o recording (kasama mula sa Mga Larawan), ayusin ang lakas gamit ang boost slider kasama ang kalinawan at bass, mag-preview nang real time, pagkatapos i-save ang boosted na file pabalik sa iPhone mo o ibahagi ito."
+        "question": "Bakit mahina ang tunog ng screen recording ko?",
+        "answer": "Maingat ang level ng iOS sa pag-record ng tunog ng apps, at lalo pang humihina kapag may Bluetooth headphones o mahina ang volume ng app. Hindi naaayos ng settings ang tapos nang recording, pero kayang i-boost ng Increase Volume ang audio nito hanggang ×10 at mag-save ng bagong file.",
+        "guide": "mahina-ang-tunog-ng-screen-recording-sa-iphone"
       },
       {
-        "question": "Mas maganda ba ang Increase Volume kaysa sa pagtaas lang ng volume ng iPhone?",
-        "answer": "Iba ang problema nila. Ang system volume ay pansamantalang pinapalakas ang playback. Ang app na ito ay lumilikha ng permanenteng mas malakas na file — kapaki-pakinabang kapag ang mismong recording ay mahina o kailangan mong ipadala ang boosted na bersyon."
+        "question": "Paano lakasan ang mahinang voice message sa Messenger o WhatsApp?",
+        "answer": "I-check muna ang earpiece: ilayo ang phone sa mukha at lakasan habang tumutugtog. Kung mahina talaga ang message, i-export ito (sa WhatsApp: long press → Forward → Share; sa Messenger: i-screen record habang nagpe-play), i-boost ng ×5–×10 sa Increase Volume, at i-save o i-forward ang mas malakas na kopya.",
+        "guide": "mahina-ang-voice-message-sa-iphone"
       },
       {
-        "question": "Paano naiiba ang Increase Volume sa VLC o Audacity para sa lakas?",
-        "answer": "Ang VLC at Audacity ay malalakas na desktop tools na puwedeng mag-normalize o mag-amplify ng audio na may maraming kontrol. Ang Increase Volume ay ginawa para sa iPhone: maikling import → slider → save na walang desktop timeline editor."
+        "question": "Puwede bang lakasan ang voice memo pagkatapos i-record?",
+        "answer": "Oo. I-share ang memo mula sa Voice Memos papunta sa Increase Volume (o i-save muna sa Files), i-boost hanggang ×10, at i-save ang na-process na file. Ang Enhance Recording ng Voice Memos ay nagbabawas lang ng ingay habang nagpe-play; hindi ito gumagawa ng mas malakas na file.",
+        "guide": "paano-lakasan-ang-voice-memo-sa-iphone"
       },
       {
-        "question": "Gumagana ba ang Increase Volume para sa video at audio?",
-        "answer": "Oo. Puwede kang mag-boost ng video na may soundtrack, music track, podcast, mga voice memo, at screen recording, pagkatapos i-save ang resulta."
+        "question": "Gumagana ba ang Increase Volume sa MP3 at ibang audio files, hindi lang video?",
+        "answer": "Oo. Bino-boost nito ang MP3, M4A, WAV at iba pang karaniwang audio file, pati MP4 at MOV na video. Video lang ang kaya ng karamihan ng iPhone booster; nakalista ito sa App Store bilang Audio & Music Booster at ipinapakita ang pangalan, size at haba bago mag-boost.",
+        "guide": "paano-lakasan-ang-mp3-sa-iphone"
       },
       {
-        "question": "Nase-save ba ang boosted file sa iPhone ko?",
-        "answer": "Oo. Pagkatapos ng processing, ise-save mo ang mas malakas na file pabalik sa device at puwede mong ibahagi tulad ng anumang media file."
+        "question": "Puwede bang lakasan ang video diretso mula sa Photos?",
+        "answer": "Oo. Buksan ang video sa Photos, i-tap ang Share at piliin ang Increase Volume; gagawa agad ng project. I-boost, tapos i-save pabalik sa Photos gamit ang «Download Processed». Hindi kaya ng Photos mismo na lakasan ang volume.",
+        "guide": "lakasan-ang-video-mula-sa-photos"
       },
       {
-        "question": "Magkano ang Increase Volume – Palakas ng tunog?",
-        "answer": "Ipinapakita ng App Store listing ang kasalukuyang presyo at anumang in-app purchase. Posibleng may libreng tier ang structured data ng site; palaging i-verify ang presyo sa Apple bago i-quote."
+        "question": "Magdi-distort ba ang boosted na video?",
+        "answer": "Kapag lang sobra ang boost sa recording na malapit na sa max. Magsimula sa ×3 hanggang ×5, pakinggan gamit ang Orihinal/Na-process bago mag-save, at i-on ang «Improve Audio Quality» para sa boses. Karaniwang kaya ng mahinang recording ang ×5 hanggang ×10 nang malinis.",
+        "guide": "lakasan-ang-tunog-nang-hindi-nasisira-ang-quality"
       },
       {
-        "question": "Sino ang gumagawa ng Increase Volume – Palakas ng tunog?",
-        "answer": "Inilathala ng c-basso ang app at ipinapamahagi sa Apple App Store (App Store ID 6741472421). Ang product site ay volumeboosting.com."
+        "question": "Gaano kalakas kumpara sa iMovie?",
+        "answer": "Hanggang mga 500% ang volume ng clip sa iMovie sa iPhone. Umaabot ang Increase Volume ng ×10 (1000%), hindi kailangan ng project, at binubuksan din ang audio-only files na hindi kaya ng iMovie.",
+        "guide": "imovie-volume-lampas-500-percent"
       },
       {
-        "question": "Paano palakasin ang sobrang mahinang video sa iPhone?",
-        "answer": "Sa Increase Volume – Palakas ng tunog, mag-import ng video (hal. mula sa Mga Larawan), ayusin ang boost slider na may real-time preview, at mag-save ng kopya na may mas malakas na audio track. Inaayos mo ang antas sa file — hindi tulad ng pagtaas lang ng system volume habang nagpe-playback."
+        "question": "Napapalakas ba ng Increase Volume ang speaker ng iPhone ko?",
+        "answer": "Hindi. Pinapalakas nito ang audio sa loob ng file at nagse-save ng bagong kopya. Kung mahina ang recording kahit naka-max ang system volume, ito ang solusyon; hindi nagbabago ang hardware limit ng speaker at ang system-wide na volume (Spotify, tawag).",
+        "guide": "bakit-mahina-ang-tunog-ng-video-sa-iphone#playback"
       },
       {
-        "question": "Pinapataas ba ng app ang maximum volume ng iPhone para sa musika at tawag?",
-        "answer": "Hindi. Pinoproseso nito ang mga file na ini-import mo at nagbibigay ng mas malakas na bersyon para i-save o ibahagi. Hindi nagbabago ang hardware limit at global volume para sa Spotify, tawag, atbp."
+        "question": "Magkano ang Increase Volume?",
+        "answer": "Libre ang download at may libreng trial. Nabubuksan ang unlimited na boost gamit ang subscription o one-time na lifetime plan; makikita sa App Store ang kasalukuyang presyo sa piso. Laging sa iPhone mo ginagawa ang processing.",
+        "guide": "",
+        "learn_more_url": "__APP_STORE_URL__",
+        "learn_more_title": "Increase Volume Sound: libreng download at kasalukuyang presyo sa App Store"
+      },
+      {
+        "question": "Ina-upload ba kahit saan ang audio ko?",
+        "answer": "Hindi. Sa iPhone kinakalkula ang boost at sine-save nang lokal ang resulta gamit ang normal na share sheet ng iOS. Walang account at walang processing sa server.",
+        "guide": "lakasan-ang-tunog-nang-hindi-nasisira-ang-quality#privacy"
       }
     ],
     "structured_data": {
@@ -376,5 +393,35 @@
     "title": "Ang mahinang file mo, 10× na mas malakas, sa wala pang isang minuto.",
     "text": "I-download ang Increase Volume – Palakas ng tunog, i-import ang video o audio na walang nakakarinig, i-drag ang slider, at ibahagi ang malakas na bersyon.",
     "note": "Libreng download · Kailangan ng iOS 18.6 o mas bago · 4.5★ sa App Store"
+  },
+  "guides": {
+    "eyebrow": "Mga gabay",
+    "title": "Paano ayusin ang mahinang tunog sa iPhone, isa-isang kaso",
+    "intro": "Sinasagot ng bawat gabay ang isang tanong na talagang hinahanap ng mga tao, ipinapaliwanag nang tapat kung ano ang kaya at hindi kaya ng iOS, at ipinapakita ang eksaktong steps sa Increase Volume.",
+    "hub_link_text": "Lahat ng gabay",
+    "read_more": "Basahin ang gabay",
+    "hub": {
+      "title": "Mga gabay: paano lakasan ang video at audio sa iPhone",
+      "description": "Step-by-step na gabay para lakasan ang video, voice memo, MP3, screen recording at voice message sa iPhone, gamit ang iOS at ang libreng Increase Volume.",
+      "h1": "Mga gabay: lakasan ang mahinang video at audio sa iPhone",
+      "intro": "Bawat gabay ay nagsisimula sa diretsong sagot, tapat na tinatalakay ang libreng built-in na option (Photos, iMovie, Voice Memos), at ipinapakita kung paano makakuha ng hanggang 10× na lakas gamit ang Increase Volume.",
+      "keywords": "gabay lakasan ang video iPhone, lakasan ang MP3, mahina ang screen recording, mahina ang voice message, volume booster"
+    },
+    "labels": {
+      "home": "Home",
+      "guides": "Mga gabay",
+      "breadcrumb_aria": "Breadcrumb",
+      "updated": "Na-update",
+      "reading_time": "3–4 minutong basa",
+      "quick_answer": "Mabilis na sagot",
+      "faq_heading": "Iba pang tanong",
+      "related": "Kaugnay na mga gabay",
+      "all_guides": "Lahat ng gabay",
+      "disclaimer": "Pinapalakas ng Increase Volume ang audio sa loob ng file at nagse-save ng bagong kopya. Hindi nito kayang itaas ang hardware limit ng speaker ng iPhone o baguhin ang system-wide na volume."
+    },
+    "default_cta": {
+      "title": "Gawin ito sa Increase Volume",
+      "text": "Libre sa App Store. I-import, i-drag ang slider sa ×10, at i-tap ang «Download Processed»."
+    }
   }
 }

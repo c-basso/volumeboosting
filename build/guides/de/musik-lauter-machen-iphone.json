@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "Musik lauter machen iPhone",
+  "priority": 5,
+  "keywords": "Musik lauter machen iPhone, iPhone Musik zu leise, Lautstärke anpassen iPhone, Laute Töne reduzieren, Song lauter machen",
+  "title": "Musik auf dem iPhone lauter machen: Einstellungen + Datei",
+  "description": "Musik auf dem iPhone zu leise? Erst Lautstärke anpassen, EQ und Kopfhörerlimit prüfen, dann eigene MP3s und Aufnahmen mit Increase Volume 10× lauter machen.",
+  "h1": "Musik auf dem iPhone lauter machen",
+  "eyebrow": "Musik",
+  "card_title": "Musik auf dem iPhone lauter machen",
+  "card_summary": "Drei iOS-Einstellungen, die deine Musik heimlich bremsen, und wie du Songs verstärkst, die du als Datei hast.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Fang mit den Einstellungen an: Unter Einstellungen › Musik schaltest du „Lautstärke anpassen“ aus und stellst den EQ auf „Spät nachts“ (hebt leise Passagen an), unter Einstellungen › Töne & Haptik › Kopfhörersicherheit schaltest du „Laute Töne reduzieren“ aus. Das wirkt auf Streaming und Wiedergabe. Musikdateien, die dir gehören (MP3, M4A, WAV in Dateien, Demos, Proberaumaufnahmen), öffnest du in Increase Volume, verstärkst ×1,5–×4, vergleichst Original und Verarbeitet und sicherst mit „Verarbeitete Datei laden“ eine lautere Kopie.",
+  "intro": [
+    "„Meine Musik auf dem iPhone ist zu leise“ hat zwei sehr unterschiedliche Antworten. Wirkt Apple Music oder Spotify im Lautsprecher oder Kopfhörer leise, bremst sich das iPhone wahrscheinlich selbst – mit einer Einstellung, die du in einer Minute änderst. Ist ein *bestimmter* Song leise, etwa eine alte MP3, eine Proberaumaufnahme oder ein Demo von Freunden, braucht die Datei selbst mehr Pegel.",
+    "Diese Anleitung behandelt beides, in dieser Reihenfolge."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/de/3.webp",
+    "alt": "Increase Volume verarbeitet eine Musikdatei auf dem iPhone, Screenshot mit der Überschrift Lautstärke von Audio erhöhen",
+    "caption": "Musikdateien, die dir gehören, verstärkst du direkt aus Dateien."
+  },
+  "sections": [
+    {
+      "heading": "Einstellungen, die alle Musik leiser machen (zuerst prüfen)",
+      "list": [
+        "Laute Töne reduzieren: Einstellungen › Töne & Haptik › Kopfhörersicherheit. Wenn aktiv, begrenzt es die Kopfhörerlautstärke auf den eingestellten Pegel. Ausschalten oder Grenze anheben.",
+        "Lautstärke anpassen: Einstellungen › Musik › Lautstärke anpassen gleicht alle Titel auf dieselbe Lautheit an und zieht laute Songs damit herunter. Ausschalten, wenn alles kraftlos wirkt.",
+        "EQ: Einstellungen › Musik › EQ. „Spät nachts“ komprimiert die Dynamik, sodass leise Stellen lauter werden; „Loudness“ hebt Bässe und Höhen bei niedriger Lautstärke an. Probier beides.",
+        "Lautstärkebegrenzung in Bildschirmzeit: Einstellungen › Bildschirmzeit › Beschränkungen kann eine gesperrte Lautstärkegrenze von Eltern oder einer alten Einstellung enthalten.",
+        "Bluetooth: Manche Ohrhörer und Lautsprecher haben eine eigene Lautstärke; auch am Gerät hochdrehen."
+      ]
+    },
+    {
+      "heading": "Welche Musikdateien du verstärken kannst",
+      "paragraphs": [
+        "Increase Volume verstärkt Dateien, die du tatsächlich hast: MP3s und WAVs in Dateien oder iCloud Drive, M4A-Proberaumaufnahmen, Demos per Mail oder AirDrop, GarageBand-Exporte und die Tonspur von Musikvideos. Interpret und Titel werden angezeigt, wenn die Datei sie enthält. Downloads aus Apple Music, Spotify oder YouTube Music sind verschlüsselt und lassen sich von keiner anderen App öffnen; dafür nutzt du die Einstellungen oben."
+      ]
+    },
+    {
+      "heading": "Wie stark du einen Song verstärkst",
+      "paragraphs": [
+        "Veröffentlichte Musik ist schon nah an Vollpegel gemastert, ×1,5–×2 ist meist die Grenze, bevor der Refrain übersteuert. Heimaufnahmen, Demos und alte Rips haben oft 6–12 dB Luft und vertragen ×2–×4. Entscheide mit Original/Verarbeitet am lautesten Refrain."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Schritt für Schritt: Musikdatei lauter machen",
+    "intro": "Für einen Titel in Dateien, einen GarageBand-Export oder eine Aufnahme.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Titel hinzufügen",
+        "text": "Increase Volume öffnen und die Datei aus Dateien hinzufügen oder aus Dateien, Mail oder GarageBand an die App teilen."
+      },
+      {
+        "name": "Moderaten Faktor wählen",
+        "text": "„Lautstärke-Multiplikation“ auf ×1,5–×2 bei veröffentlichter Musik, ×2–×4 bei Demos und Aufnahmen. „Audioqualität verbessern“ an und aus testen und das natürlichere Ergebnis behalten. Auf „Lautstärke verstärken“ tippen."
+      },
+      {
+        "name": "Refrain prüfen",
+        "text": "Am lautesten Abschnitt zwischen Original und Verarbeitet wechseln. Knistern heißt: Faktor senken."
+      },
+      {
+        "name": "Verarbeitete Datei laden",
+        "text": "In Dateien sichern und den lauteren Titel zu deinem Player hinzufügen oder teilen."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipps",
+    "items": [
+      "Verstärke ein ganzes Album oder Set mit demselben Faktor, damit die Titel zueinander passen.",
+      "Bei Musikvideos bleibt das Bild unberührt; nur der Ton wird verarbeitet.",
+      "Masterst du selbst, verstärke lieber den Mix als das fertige Master; ein Limiter in deiner DAW arbeitet sauberer als reine Verstärkung."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kann ein Lautstärkeverstärker Apple Music oder Spotify lauter machen?",
+      "answer": "Nicht durch Bearbeiten der Titel, denn die sind verschlüsselt. Nutze Lautstärke anpassen, EQ und Kopfhörersicherheit oder die Normalisierung der Streaming-App. Increase Volume verstärkt Dateien, die dir gehören."
+    },
+    {
+      "question": "Warum sind manche Songs leiser als andere?",
+      "answer": "Unterschiedliche Mastering-Pegel. „Lautstärke anpassen“ gleicht sie an, senkt aber die lauten Titel; ausgeschaltet kommen die lauten zurück. Leise Dateien, die dir gehören, verstärkst du mit Increase Volume, damit sie zum Rest passen."
+    },
+    {
+      "question": "Ändert die Verstärkung das Format des Songs?",
+      "answer": "Increase Volume schreibt eine neue Datei in einem gängigen Audioformat neben dein Original. Das Original wird nicht verändert."
+    }
+  ],
+  "related": [
+    "mp3-lauter-machen-iphone",
+    "podcast-hoerbuch-lauter-machen-iphone",
+    "ton-lauter-machen-ohne-qualitaetsverlust"
+  ]
+}

@@ -1,21 +1,21 @@
 {
   "meta": {
     "lang": "sk",
-    "title": "Zvýšenie hlasitosti – Zosilnenie zvuku | ~10×: audio a video",
-    "description": "Hlasnejšie audio alebo video na iPhone: až ~10× s čistým zvukom a basmi. Hudba, videá, podcasty, hlasové poznámky. Na zariadení. Skúška zdarma v App Store.",
-    "keywords": "zvýšenie hlasitosti iPhone, hlasnejšie video, tiché video, zosilňovač hlasitosti, aplikácia iPhone, silnejší zvuk, tichá nahrávka obrazovky, zosilnenie zvuku, Increase Volume",
+    "title": "Ako zosilniť zvuk videa na iPhone – Zosilňovač hlasitosti",
+    "description": "Sprav videá, MP3 a nahrávky z Diktafónu na iPhone až 10× hlasnejšími. Zosilňovač hlasitosti a zvuku zosilní samotný súbor, zachová čistý zvuk a uloží kópiu.",
+    "keywords": "ako zosilniť zvuk videa na iPhone, zvýšiť hlasitosť, aplikácia na zvýšenie hlasitosti, zosilňovač hlasitosti, zosilňovač zvuku, zosilniť MP3, tichá hlasová správa WhatsApp, tichý záznam obrazovky, Diktafón hlasnejšie, Zosilňovač hlasitosti a zvuku",
     "canonical": "https://volumeboosting.com/sk/",
-    "og_title": "Zvýšenie hlasitosti – Zosilnenie zvuku",
-    "og_description": "Urob audio a video na iPhone hlasnejšie: približne 10× s čistým zvukom a silnými basmi. Hodí sa na tiché klipy a podcasty.",
+    "og_title": "Hlasnejšie videá a zvuk na iPhone – až 10× hlasnejšie",
+    "og_description": "Video, MP3 alebo nahrávka z Diktafónu príliš tichá? Zosilňovač hlasitosti a zvuku spraví súbor až 10× hlasnejším; porovnáš Pôvodné/Spracované a uložíš.",
     "og_image": "https://volumeboosting.com/sk/site_preview.png",
-    "og_image_alt": "Ikona aplikácie Increase Volume – Zosilnenie zvuku",
+    "og_image_alt": "Ikona aplikácie Zosilňovač hlasitosti a zvuku",
     "og_url": "https://volumeboosting.com/sk/",
     "og_locale": "sk_SK",
     "twitter_url": "https://volumeboosting.com/sk/",
-    "twitter_title": "Zvýšenie hlasitosti – Zosilnenie zvuku",
-    "twitter_description": "Urob audio a video na iPhone hlasnejšie: približne 10× s čistým zvukom a silnými basmi. Hodí sa na tiché klipy a podcasty.",
+    "twitter_title": "Hlasnejšie videá a zvuk na iPhone – až 10× hlasnejšie",
+    "twitter_description": "Video, MP3 alebo nahrávka z Diktafónu príliš tichá? Zosilňovač hlasitosti a zvuku spraví súbor až 10× hlasnejším; porovnáš Pôvodné/Spracované a uložíš.",
     "twitter_image": "https://volumeboosting.com/sk/site_preview.png",
-    "twitter_image_alt": "Ikona aplikácie Increase Volume – Zosilnenie zvuku"
+    "twitter_image_alt": "Ikona aplikácie Zosilňovač hlasitosti a zvuku"
   },
   "header": {
     "app_name_suffix": "Zosilnenie zvuku pre iPhone",
@@ -188,44 +188,61 @@
     "breadcrumb_home": "Domov",
     "faq": [
       {
-        "question": "Čo je Increase Volume – Zosilnenie zvuku?",
-        "answer": "Je to aplikácia pre iPhone v kategórii Hudba v App Store, ktorá zosilňuje importované audio a video súbory — približne 10× — a umožní uložiť nový súbor. Multimédia spracováva na zariadení; je určená pre tiché nahrávky, podcasty a klipy, nie na obchádzanie hardvérových limitov iOS u celého systémového zvuku."
+        "question": "Ako zosilniť zvuk videa na iPhone?",
+        "answer": "Otvor Volume Boost, importuj video z Fotiek (alebo ho zdieľaj do aplikácie), posuň „Násobok hlasitosti“ na ×10, ťukni na „Zosilniť hlasitosť“, porovnaj Pôvodné a Spracované a ťukni na „Stiahnuť spracované“. Hlasnejšia kópia sa uloží do Fotiek alebo Súborov a hrá nahlas na každom zariadení.",
+        "guide": "ako-zosilnit-zvuk-videa-na-iphone"
       },
       {
-        "question": "Ako Increase Volume – Zosilnenie zvuku funguje?",
-        "answer": "Importuješ video, skladbu alebo nahrávku (napr. z Fotiek), nastavíš hlasitosť posúvačom zosilnenia plus čistotu a basy, počúvaš náhľad v reálnom čase, potom uložíš zosilený súbor späť na iPhone alebo ho zdieľaš."
+        "question": "Prečo sú hlasové správy z WhatsAppu na iPhone také tiché?",
+        "answer": "Ak sú tiché všetky, iPhone ich prehráva cez slúchadlo, lebo zakrývaš senzor priblíženia: drž telefón ďalej od tváre a počas prehrávania pridaj hlasitosť. Ak je tichá jedna, exportuj ju (podrž → Preposlať → Zdieľať), zosilni ×5–×10 v aplikácii a ulož alebo pošli hlasnejšiu kópiu.",
+        "guide": "ticha-hlasova-sprava-whatsapp"
       },
       {
-        "question": "Je Increase Volume lepší než len zvýšiť hlasitosť iPhonu?",
-        "answer": "Rieši to iný problém. Systémová hlasitosť dočasne zosilní prehrávanie. Táto aplikácia vytvorí trvalo hlasnejší súbor — hodí sa, keď je samotná nahrávka tichá, alebo potrebuješ poslať zosilenú verziu."
+        "question": "Prečo má môj záznam obrazovky tichý zvuk?",
+        "answer": "iOS nahráva zvuk aplikácií na zníženej úrovni a pri nízkej hlasitosti či pripojených Bluetooth slúchadlách ešte tichšie. Pred ďalším záznamom odpoj Bluetooth a pridaj hlasitosť. Hotový záznam zosilníš ×5–×10 vo Volume Boost.",
+        "guide": "tichy-zaznam-obrazovky-iphone"
       },
       {
-        "question": "Čím sa Increase Volume líši od VLC alebo Audacity pri hlasitosti?",
-        "answer": "VLC a Audacity sú silné desktopové nástroje s normalizáciou, zosilnením a množstvom volieb. Increase Volume je postavená pre iPhone: krátky postup import → posúvač → uloženie, bez časovej osi na počítači."
+        "question": "Ako zosilniť nahrávku z Diktafónu?",
+        "answer": "„Vylepšiť nahrávku“ v Diktafóne potlačí šum, ale súbor hlasnejší nespraví. Zdieľaj nahrávku do aplikácie (⋯ → Zdieľať → Increase Volume), zapni „Vylepšiť kvalitu zvuku“, zosilni ×5–×10 a ulož hlasnejší M4A.",
+        "guide": "ako-zosilnit-nahravku-z-diktafonu"
       },
       {
-        "question": "Funguje Increase Volume pre video aj audio?",
-        "answer": "Áno. Môžeš zosilniť video so zvukovou stopou, hudbu, podcasty, hlasové poznámky a nahrávky obrazovky a potom výsledok uložiť."
+        "question": "Dá sa zosilniť MP3 na iPhone bez počítača?",
+        "answer": "Áno. Pridaj MP3, M4A alebo WAV zo Súborov, vyber násobok, vypočuj si Pôvodné/Spracované a ťukni na „Stiahnuť spracované“. Hlasnejšia kópia pôjde do Súborov; všetko prebieha v telefóne.",
+        "guide": "ako-zosilnit-mp3-na-iphone"
       },
       {
-        "question": "Je zosilený súbor uložený na mojom iPhone?",
-        "answer": "Áno. Po spracovaní uložíš hlasnejší súbor do zariadenia a môžeš ho zdieľať ako akýkoľvek iný mediálny súbor."
+        "question": "Dá sa zvýšiť hlasitosť videa v aplikácii Fotky?",
+        "answer": "Úpravy vo Fotkách vedia zvuk len stlmiť, nie zosilniť. Ťukni na Zdieľať → Increase Volume a zosilni video až na ×10; hlasnejšia kópia sa objaví vo Fotkách vedľa originálu.",
+        "guide": "zosilnit-video-v-aplikacii-fotky"
       },
       {
-        "question": "Koľko stojí Increase Volume – Zosilnenie zvuku?",
-        "answer": "Aktuálna cena a nákupy v aplikácii sú na stránke App Store. Štruktúrované údaje na webe môžu uvádzať bezplatnú ponuku; pred citovaním vždy over u Apple."
+        "question": "Bude zvuk po zosilnení skreslený?",
+        "answer": "Len ak najhlasnejšie špičky prekročia digitálny strop. Tichá nahrávka má veľkú rezervu. Začni na ×3, vypočuj si najhlasnejší moment s Pôvodné/Spracované a zvyšuj, kým to znie čisto. Obraz sa nikdy nezmení.",
+        "guide": "hlasnejsie-bez-straty-kvality"
       },
       {
-        "question": "Kto vydáva Increase Volume – Zosilnenie zvuku?",
-        "answer": "Aplikáciu vydáva c-basso a distribuuje Apple App Store (ID 6741472421). Produktová stránka je volumeboosting.com."
+        "question": "Aký je rozdiel oproti hlasitosti v iMovie?",
+        "answer": "iMovie na iPhone končí okolo 500 % (5×) a vyžaduje projekt a celý export. Volume Boost ide až na ×10 (1000 %), otvorí aj zvukové súbory a pred uložením ponúka Pôvodné/Spracované.",
+        "guide": "imovie-hlasitost-nad-500"
       },
       {
-        "question": "Ako na iPhone zosilniť príliš tiché video?",
-        "answer": "V Increase Volume – Zosilnenie zvuku importuj video (napr. z Fotiek), nastav posúvač zosilnenia s náhľadom v reálnom čase a ulož kópiu s hlasnejšou zvukovou stopou. Upravuješ úroveň v súbore — na rozdiel od len dočasného zosilnenia systému pri prehrávaní."
+        "question": "Spraví aplikácia reproduktor iPhonu hlasnejším?",
+        "answer": "Nie. Žiadna aplikácia neprekročí fyzický limit reproduktora ani nezmení hlasitosť celého systému. Aplikácia spraví hlasnejším súbor, čo pomôže, keď je tichá samotná nahrávka. Ak sú tiché všetky videá, najprv skontroluj príčiny pri prehrávaní.",
+        "guide": "preco-je-video-potichu#prehravanie"
       },
       {
-        "question": "Zvyšuje aplikácia maximálnu hlasitosť iPhonu pre hudbu a hovory?",
-        "answer": "Nie. Spracováva súbory, ktoré importuješ, a dá ti hlasnejšiu verziu na uloženie alebo zdieľanie. Hardvérový limit a globálna hlasitosť pre Spotify, hovory atď. sa nemení."
+        "question": "Koľko stojí Zosilňovač hlasitosti a zvuku?",
+        "answer": "Stiahnutie je zadarmo a zahŕňa skúšobné obdobie. Neobmedzené zosilňovanie odomkne predplatné; aktuálne ceny v eurách nájdeš v App Store. Spracovanie vždy prebieha na tvojom iPhone.",
+        "guide": "",
+        "learn_more_url": "__APP_STORE_URL__",
+        "learn_more_title": "Zosilňovač hlasitosti a zvuku: stiahnutie zadarmo a aktuálne ceny v App Store"
+      },
+      {
+        "question": "Nahrávajú sa moje súbory na server?",
+        "answer": "Nie. Spracovanie prebieha na tvojom iPhone, bez účtu a bez nahrávania. Výsledok uložíš cez panel zdieľania iOS do Fotiek, Súborov alebo vybranej aplikácie.",
+        "guide": "hlasnejsie-bez-straty-kvality#sukromie"
       }
     ],
     "structured_data": {
@@ -376,5 +393,35 @@
     "title": "Tvoj tichý súbor 10× hlasnejšie, do jednej minúty.",
     "text": "Stiahni si Increase Volume – Zosilnenie zvuku, importuj video alebo nahrávku, ktorú nikto nepočuje, potiahni posúvač a zdieľaj hlasnú verziu.",
     "note": "Stiahnutie zdarma · Vyžaduje iOS 18.6 alebo novší · 4,5★ v App Store"
+  },
+  "guides": {
+    "eyebrow": "Návody",
+    "title": "Oprav tichý zvuk na iPhone, situáciu po situácii",
+    "intro": "Každý návod odpovedá na otázku, ktorú ľudia naozaj hľadajú, úprimne vysvetlí, čo nástroje iOS zvládnu a čo nie, a ukáže presné kroky vo Volume Boost.",
+    "hub_link_text": "Všetky návody",
+    "read_more": "Prečítať návod",
+    "hub": {
+      "title": "Návody: ako zosilniť zvuk na iPhone – video, audio a MP3",
+      "description": "Návody krok za krokom, ako spraviť hlasnejšími videá, nahrávky z Diktafónu, MP3, záznamy obrazovky a hlasové správy z WhatsAppu na iPhone, v iOS aj v aplikácii.",
+      "h1": "Návody: ako spraviť video a zvuk na iPhone hlasnejším",
+      "intro": "Každý návod začína priamou odpoveďou, úprimne prejde bezplatné možnosti systému (Fotky, iMovie, Diktafón) a ukáže, ako získať až 10× viac hlasitosti vo Volume Boost.",
+      "keywords": "návody zosilniť zvuk iPhone, hlasnejšie video, zosilniť MP3, tichá hlasová správa, tichý záznam obrazovky"
+    },
+    "labels": {
+      "home": "Domov",
+      "guides": "Návody",
+      "breadcrumb_aria": "Navigačná cesta",
+      "updated": "Aktualizované",
+      "reading_time": "3–4 min čítania",
+      "quick_answer": "Stručná odpoveď",
+      "faq_heading": "Ďalšie časté otázky",
+      "related": "Súvisiace návody",
+      "all_guides": "Všetky návody",
+      "disclaimer": "Zosilňovač hlasitosti a zvuku zosilní zvuk v súbore a uloží novú kópiu. Neprekročí fyzický limit reproduktora iPhonu ani nezmení hlasitosť celého systému."
+    },
+    "default_cta": {
+      "title": "Urob to vo Volume Boost",
+      "text": "Zadarmo v App Store. Importuj, posuň posúvač na ×10 a ťukni na „Stiahnuť spracované“."
+    }
   }
 }

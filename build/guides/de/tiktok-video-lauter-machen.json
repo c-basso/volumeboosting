@@ -1,0 +1,122 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "TikTok Video lauter machen",
+  "priority": 8,
+  "keywords": "TikTok Video lauter machen, TikTok Ton zu leise, Reels zu leise, Video vor dem Hochladen lauter machen, Instagram Reel Ton leise",
+  "title": "TikTok-Video lauter machen vor dem Posten (iPhone-Anleitung)",
+  "description": "TikTok und Reels drücken leisen Ton weiter zusammen. Verstärke deinen Clip vor dem Upload 2–5× mit Increase Volume, damit deine Stimme überall hörbar ist.",
+  "h1": "TikTok-Video lauter machen, bevor du es postest",
+  "eyebrow": "TikTok & Reels",
+  "card_title": "TikTok oder Reel lauter machen",
+  "card_summary": "Plattformen gleichen beim Upload an, retten aber keine leise Spur. Verstärke sie vorher 2–5×.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Verstärke das Video, bevor du es hochlädst. Öffne den Clip auf dem iPhone in Increase Volume, stell „Lautstärke-Multiplikation“ auf ×2–×5 (mehr bei sehr leisen Aufnahmen), tippe auf „Lautstärke verstärken“, vergleiche Original und Verarbeitet, tippe auf „Verarbeitete Datei laden“ und lade die verstärkte Datei auf TikTok oder Instagram hoch. Der Lautstärkeregler in TikTok ist begrenzt, und die Upload-Verarbeitung kann zu leise ankommenden Ton nicht retten.",
+  "intro": [
+    "Ein TikTok oder Reel, das niemand hört, wird weggescrollt. Das Problem beginnt meist bei der Aufnahme: Handymikrofone brauchen dich auf Armlänge, Wind und Verkehr schlucken leise Sprache, und Gameplay per Bildschirmaufnahme wird mit niedrigem Pegel aufgenommen. Dann komprimiert die Plattform den Upload, und eine ohnehin leise Spur wird dünn und unter der hinzugefügten Musik begraben.",
+    "Die sichere Lösung: den Pegel der Videodatei anheben, bevor sie die App überhaupt erreicht. Hier siehst du, wie das geht und wie viel Verstärkung sinnvoll ist."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/de/6.webp",
+    "alt": "Screenshot mit der Überschrift Überall herunterladen und teilen: iOS-Teilen-Menü für das verstärkte Video",
+    "caption": "Nach dem Verstärken direkt an TikTok teilen oder in Fotos sichern und von dort hochladen."
+  },
+  "sections": [
+    {
+      "heading": "Warum lauter stellen in TikTok nicht reicht",
+      "paragraphs": [
+        "TikTok und Instagram haben einen Lautstärkeregler für den Originalton, aber der dient zum Ausbalancieren gegen hinzugefügte Musik, nicht zum Retten einer leisen Aufnahme. Beide Plattformen normalisieren außerdem die Lautheit beim Upload (TikTok zielt auf etwa −14 LUFS); das gleicht die *durchschnittliche* Lautheit an, kann aber ein Flüstern nicht auf Sprechpegel heben, ohne auch das Rauschen anzuheben. Ist die Quelle leise, ist auch das veröffentlichte Ergebnis leise."
+      ]
+    },
+    {
+      "heading": "Wie viel Verstärkung du brauchst",
+      "paragraphs": [
+        "Bei Clips, in denen du in die Kamera sprichst und es nur etwas leise ist, passt meist ×2–×3. Bei Clips aus der Entfernung, im Wind oder per Bildschirmaufnahme ×4–×6. ×8–×10 hebst du dir für Aufnahmen auf, die du kaum hörst. Zu viel Verstärkung bei einem Clip mit lauten Momenten lässt diese übersteuern, und die Kompression der Plattform macht die Härte noch deutlicher."
+      ],
+      "table": {
+        "head": [
+          "Dein Clip",
+          "Empfohlener Faktor"
+        ],
+        "rows": [
+          [
+            "Du sprichst in die Kamera, Handy in der Hand",
+            "×2 – ×3"
+          ],
+          [
+            "Quer durch den Raum oder draußen aufgenommen",
+            "×4 – ×6"
+          ],
+          [
+            "Bildschirmaufnahme von Gameplay oder Tutorial",
+            "×5 – ×10"
+          ],
+          [
+            "Musikvideo, Musik passt, Stimme zu leise",
+            "×2 mit „Audioqualität verbessern“"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Warum ein spezieller Verstärker hier besser ist als CapCut oder iMovie",
+      "paragraphs": [
+        "Editoren können die Lautstärke auch anheben, aber iMovie stoppt bei etwa 500 %, und beide brauchen Projekt, Timeline und neuen Export. Increase Volume öffnet den Clip direkt aus Fotos, gibt dir einen Regler bis ×10, einen Vergleich Original/Verarbeitet und ein Teilen-Menü, das direkt zu TikTok, Instagram oder zurück zu Fotos führt. Ein Schritt von einer Minute vor deinem normalen Schnitt."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Schritt für Schritt: Clip für TikTok oder Reels verstärken",
+    "intro": "Mit dem fertigen Clip, vor dem Upload.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Clip an Increase Volume schicken",
+        "text": "In Fotos das Video öffnen, auf Teilen tippen, Increase Volume wählen. Das Projekt öffnet sich mit den Dateidetails."
+      },
+      {
+        "name": "Bei Sprache Audioqualität verbessern",
+        "text": "Geht es im Clip um deine Stimme, den Schalter vor dem Verstärken einschalten."
+      },
+      {
+        "name": "Faktor wählen",
+        "text": "Mit ×3 starten, auf „Lautstärke verstärken“ tippen und an der lautesten Stelle zwischen Original und Verarbeitet wechseln. Anpassen, bis es klar laut, aber nicht hart klingt."
+      },
+      {
+        "name": "Verarbeitete Datei laden",
+        "text": "Auf „Verarbeitete Datei laden“ tippen, dann Video sichern (der verstärkte Clip liegt neben dem Original in Fotos) oder direkt an TikTok oder Instagram teilen."
+      },
+      {
+        "name": "Hochladen und Ton prüfen",
+        "text": "In TikTok den verstärkten Clip hochladen. Fügst du einen Sound hinzu, senke lieber die Musik, statt deine Stimme erneut anzuheben."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipps für lautere, sauberere Clips",
+    "items": [
+      "Nimm, wann immer es geht, innerhalb von 30 cm zum Handy auf; Abstand ist die Hauptursache für leise Sprache.",
+      "Erst privat testen: verstärkten Clip privat hochladen, über den Handylautsprecher abspielen, bei Bedarf anpassen.",
+      "Behalte das Original. Increase Volume schreibt immer eine neue Datei, du kannst also mit anderem Faktor neu verstärken."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kann ich ein TikTok nach dem Posten lauter machen?",
+      "answer": "Nein. Nach dem Upload ist der Ton verarbeitet und fest. Such deinen Originalclip, verstärke ihn mit Increase Volume und lade ihn neu hoch."
+    },
+    {
+      "question": "Funktioniert das auch für Instagram Reels und YouTube Shorts?",
+      "answer": "Ja. Die Verstärkung steckt in der Videodatei und gilt überall, wo du die Datei hochlädst: Reels, Shorts, Snapchat, WhatsApp-Status."
+    },
+    {
+      "question": "Wird der verstärkte Clip markiert oder schlechter?",
+      "answer": "Nein. Das Bild bleibt unberührt, der Ton ist eine normale, nur lautere Spur. Plattformen kodieren jeden Upload ohnehin neu."
+    }
+  ],
+  "related": [
+    "video-lauter-machen-iphone",
+    "ton-lauter-machen-ohne-qualitaetsverlust",
+    "video-in-fotos-lauter-machen"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "cichy podcast na iPhonie",
+  "priority": 12,
+  "keywords": "cichy podcast na iPhonie, cichy audiobook, jak zgłośnić podcast, zwiększyć głośność audiobooka iPhone, Podcasty cichy dźwięk",
+  "title": "Podcast lub audiobook za cichy na iPhonie? Jak to naprawić",
+  "description": "Podcast lub audiobook za cichy? Sprawdź ustawienia aplikacji Podcasty i słuchawek, a pobrane odcinki MP3 i M4A zgłośnij nawet 10× w aplikacji Volume Boost.",
+  "h1": "Podcast lub audiobook za cichy na iPhonie: rozwiązania",
+  "eyebrow": "Podcasty",
+  "card_title": "Cichy podcast",
+  "card_summary": "Ustawienia aplikacji Podcasty i jak wzmocnić pobrane odcinki MP3 i audiobooki bez DRM.",
+  "quick_answer": "Jeśli podcast w aplikacji Podcasty jest za cichy, sprawdź opcję wzmacniania głosu przy prędkości odtwarzania oraz Bezpieczeństwo słuchawek w Dźwiękach i haptyce. Jeśli masz odcinek lub audiobook jako plik MP3 lub M4A bez DRM, otwórz go w Volume Boost, włącz „Popraw jakość dźwięku”, wzmocnij ×3–×8 i zachowaj głośniejszą kopię w Plikach.",
+  "intro": [
+    "Wywiady nagrane przez telefon, goście ze słabym mikrofonem i starsze audiobooki są często cichsze niż reszta tego, czego słuchasz. W autobusie czy samochodzie głos ginie w hałasie.",
+    "Są dwa rozwiązania: ustawienia odtwarzania dla treści ze streamingu i wzmocnienie pliku, gdy go masz."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Lista projektów w Volume Boost z plikami MP3 i MP4, ich rozmiarem i czasem trwania",
+    "caption": "Zapisuj wiele odcinków jako projekty i wracaj do nich później."
+  },
+  "sections": [
+    {
+      "heading": "W aplikacji Podcasty",
+      "paragraphs": [
+        "Podczas odtwarzania stuknij przycisk prędkości i włącz opcję wzmacniania głosu. Wycisza ona tło i podnosi mowę. Sprawdź też, czy ograniczanie głośnych dźwięków w Bezpieczeństwie słuchawek nie obniża poziomu."
+      ],
+      "note": "Nazwy mogą się różnić między wersjami iOS; sprawdź na swoim iPhonie."
+    },
+    {
+      "heading": "Audiobooki i pobrane pliki",
+      "paragraphs": [
+        "Audiobooki z Audioteki, Storytel, Empik Go czy Apple Books są zabezpieczone i nie da się ich otworzyć jako plików. Własne audiobooki MP3, odcinki z kanałów RSS i nagrania bez DRM można wzmocnić."
+      ]
+    },
+    {
+      "heading": "Co do czego pasuje",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "Źródło",
+          "Rozwiązanie"
+        ],
+        "rows": [
+          [
+            "Aplikacja Podcasty (streaming)",
+            "Wzmacnianie głosu, ustawienia słuchawek"
+          ],
+          [
+            "Spotify / Storytel / Audioteka",
+            "Ustawienia danej aplikacji"
+          ],
+          [
+            "MP3/M4A bez DRM",
+            "Volume Boost, do 10×"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Wzmocnij odcinek lub audiobook",
+    "intro": "Dla plików w Plikach.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Zaimportuj plik",
+        "text": "Otwórz aplikację i wybierz plik MP3 lub M4A w Plikach."
+      },
+      {
+        "name": "Włącz „Popraw jakość dźwięku”",
+        "text": "Głosy będą wyraźniejsze."
+      },
+      {
+        "name": "Wzmocnij",
+        "text": "Przesuń „Mnożnik głośności” do ×3–×8 i stuknij „Wzmocnij głośność do ×N”."
+      },
+      {
+        "name": "Zachowaj",
+        "text": "„Pobierz przetworzony” → Zachowaj w Plikach i odtwarzaj w aplikacji, która otwiera pliki."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Wskazówki",
+    "items": [
+      "Długie pliki przetwarzają się dłużej; nie zamykaj aplikacji do końca.",
+      "Mowa znosi wyższy mnożnik niż muzyka.",
+      "Jeśli w wywiadzie jest jeden głośny i jeden cichy głos, wybierz poziom, przy którym głośny nie charczy."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dlaczego niektóre podcasty są cichsze od innych?",
+      "answer": "Twórcy miksują na różne poziomy, a wywiady telefoniczne są często ciche."
+    },
+    {
+      "question": "Czy zgłośnię audiobook ze Storytel tą aplikacją?",
+      "answer": "Nie. Zabezpieczonych audiobooków nie da się otworzyć jako plików."
+    },
+    {
+      "question": "Jakie pliki działają?",
+      "answer": "MP3, M4A i WAV bez DRM z Plików."
+    }
+  ],
+  "related": [
+    "jak-zwiekszyc-glosnosc-mp3-iphone",
+    "glosniejsze-nagranie-dyktafon",
+    "cicha-muzyka-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

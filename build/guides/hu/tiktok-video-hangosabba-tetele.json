@@ -1,0 +1,122 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "TikTok videó hangosítása",
+  "priority": 8,
+  "keywords": "TikTok videó hangosítása, halk TikTok videó, halk Reels, hangerő növelése feltöltés előtt, Instagram Reels halk hang",
+  "title": "Hogyan tedd hangosabbá a TikTok-videót feltöltés előtt",
+  "description": "A TikTok és a Reels még jobban tömöríti a halk hangot. Hangosítsd a klipet ×2–×5-re iPhone-on feltöltés előtt, hogy a hangod minden telefonon jól hallatsszon.",
+  "h1": "Hogyan tedd hangosabbá a TikTok- vagy Reels-videót feltöltés előtt",
+  "eyebrow": "TikTok és Reels",
+  "card_title": "TikTok vagy Reels hangosítása",
+  "card_summary": "A platformok feltöltéskor normalizálnak, de egy halk sávot nem mentenek meg. Hangosítsd ×2–×5-re előtte.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Hangosítsd a videót, mielőtt feltöltöd. Nyisd meg a klipet a Hangerőnövelő Média appban iPhone-on, állítsd a „Hangerőszorzót” ×2–×5-re (nagyon halk klipnél többre), koppints a „Hangerő kiemelése” gombra, hasonlítsd össze az Eredetit és a Feldolgozottat, koppints a „Feldolgozott letöltése” gombra, és a hangosított fájlt töltsd fel TikTokra vagy Instagramra. A TikTok hangerő-szabályzója korlátozott, és a feltöltéskori feldolgozás nem menti meg a túl halkan érkező hangot.",
+  "intro": [
+    "Egy TikTokot vagy Reelst, ami nem hallatszik, továbbgörgetnek. A gond általában a felvételnél kezdődik: a telefon mikrofonja karnyújtásnyi távolságot szeretne, a szél és a forgalom elnyeli a halk hangot, a képernyőfelvételen rögzített játékhang pedig alacsony szinten kerül rögzítésre. Aztán a platform tömöríti a videót, és a már amúgy is halk sáv laposan, a hozzáadott zene alá temetve végzi.",
+    "A megbízható megoldás az, hogy magának a fájlnak a szintjét emeled, mielőtt az appba kerül. Mutatjuk, hogyan és mennyire."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "„Download and share anywhere” képernyőkép: iOS megosztási lap a hangosított videóhoz",
+    "caption": "Hangosítás után oszd meg közvetlenül TikTokra, vagy mentsd a Fotókba, és onnan töltsd fel."
+  },
+  "sections": [
+    {
+      "heading": "Miért nem elég a TikTokon belüli hangosítás",
+      "paragraphs": [
+        "A TikTokban és az Instagramban van hangerő-szabályzó az eredeti hanghoz, de ez a hozzáadott zenével való egyensúlyra való, nem egy halk felvétel megmentésére. Mindkét platform feltöltéskor normalizálja is a hangerőt (a TikTok kb. −14 LUFS-t céloz), ami az *átlagos* hangerőt egyenlíti ki, de egy suttogást nem tud beszédszintre emelni anélkül, hogy a zajt is ne emelné. Ha a forrás halk, a poszt is halk lesz."
+      ]
+    },
+    {
+      "heading": "Mennyi hangosítást használj",
+      "paragraphs": [
+        "Olyan klipeknél, ahol a kamerába beszélsz, és a hang csak kicsit halk, általában ×2–×3 elég. Távolról, szélben vagy képernyőről rögzített klipeknél ×4–×6. A ×8–×10-et hagyd az alig hallható felvételeknek. Ha túlhajtasz egy klipet, amelyben már vannak hangos pillanatok, levágódnak, és a platform tömörítése még tovább erősíti a recsegést."
+      ],
+      "table": {
+        "head": [
+          "A klipped",
+          "Ajánlott szorzó"
+        ],
+        "rows": [
+          [
+            "Kamerába beszélés, telefon a kézben",
+            "×2 – ×3"
+          ],
+          [
+            "A terem túloldaláról vagy kint rögzítve",
+            "×4 – ×6"
+          ],
+          [
+            "Játék vagy oktatóanyag képernyőfelvétele",
+            "×5 – ×10"
+          ],
+          [
+            "Zenei klip, a zene rendben, a hang halk",
+            "×2 Hangminőség javítása mellett"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Miért jobb itt egy célzott hangerőnövelő a CapCutnál vagy az iMovie-nál",
+      "paragraphs": [
+        "A videószerkesztők is hangosítanak, de az iMovie 500%-nál megáll, és mindkettő projektet, idővonalat és új exportot kér. A Hangerőnövelő Média közvetlenül a Fotókból nyitja meg a klipet, ×10-ig menő csúszkát, Eredeti/Feldolgozott összehasonlítást és olyan megosztási lapot ad, amely egyenesen TikTokra, Instagramra vagy vissza a Fotókba visz. Ez egyperces lépés a szokásos szerkesztésed előtt."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Lépésről lépésre: klip hangosítása TikTokra vagy Reelsre",
+    "intro": "A kész klipen csináld, közvetlenül feltöltés előtt.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Küldd a klipet az appba",
+        "text": "A Fotókban nyisd meg a videót, koppints a Megosztás gombra, és válaszd az Increase Volume lehetőséget. A projekt a fájl adataival nyílik meg."
+      },
+      {
+        "name": "Beszédnél Hangminőség javítása",
+        "text": "Ha a hangod a klip lényege, kapcsold be a kapcsolót hangosítás előtt."
+      },
+      {
+        "name": "Válaszd ki a szorzót",
+        "text": "Kezdd ×3-mal, koppints a „Hangerő kiemelése” gombra, és válts az Eredeti/Feldolgozott között a leghangosabb résznél. Igazíts, amíg tisztán hangos, de nem recseg."
+      },
+      {
+        "name": "Feldolgozott letöltése",
+        "text": "Koppints a „Feldolgozott letöltése” gombra, majd a Videó mentése lehetőségre (a hangosított klip az eredeti mellé kerül a Fotókban), vagy oszd meg közvetlenül TikTokra vagy Instagramra."
+      },
+      {
+        "name": "Posztolj, és ellenőrizd a hangot",
+        "text": "TikTokon töltsd fel a hangosított klipet. Ha hangot adsz hozzá, inkább a hozzáadott zenét halkítsd, ne a hangodat hangosítsd újra."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tippek hangosabb, tisztább klipekhez",
+    "items": [
+      "Amikor csak lehet, 30 cm-en belül rögzíts a telefontól; a távolság a halk hang első számú oka.",
+      "Előbb posztolj egy privát tesztet: töltsd fel a hangosított klipet privátként, hallgasd meg a telefon hangszóróján, és igazíts.",
+      "Tartsd meg az eredetit. Az app mindig új fájlt hoz létre, így más szinten is újra hangosíthatsz."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Hangosíthatok egy már közzétett TikTokot?",
+      "answer": "Nem. Feltöltés után a hang feldolgozott és rögzített. Keresd meg az eredeti klipet, hangosítsd a Hangerőnövelő Média appal, és tedd közzé újra."
+    },
+    {
+      "question": "Instagram Reelsszel és YouTube Shortsszal is működik?",
+      "answer": "Igen. A hangosítás bekerül a videófájlba, így bárhová töltöd fel, érvényes: Reels, Shorts, Snapchat, WhatsApp-állapot."
+    },
+    {
+      "question": "Romlik a hangosított klip minősége, vagy megjelölik?",
+      "answer": "Nem. A kép nem változik, a hang pedig egy normál sáv, csak hangosabb. A platformok amúgy is mindent újrakódolnak, amit feltöltesz."
+    }
+  ],
+  "related": [
+    "hogyan-noveld-a-video-hangerejet-iphone-on",
+    "hangero-novelese-minosegromlas-nelkul",
+    "video-hangerejenek-novelese-fotokbol"
+  ]
+}

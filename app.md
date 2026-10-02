@@ -188,3 +188,780 @@ speaker with sound waves and an upward arrow on a coral-to-pink gradient (#f0506
   keeps projects.
 - Most common negative review theme is confusion with system volume. Every page should state
   plainly: the app makes the *file* louder; it does not change the iPhone's speaker limit.
+
+## CZ storefront (Czech locale) — checked 2026-10-01
+
+Source: `https://itunes.apple.com/lookup?id=6741472421&country=cz` and
+`https://apps.apple.com/cz/app/increase-volume-sound/id6741472421`.
+
+| Field | CZ value |
+|---|---|
+| Title / subtitle / description | Same English text as the US listing (no Czech App Store localization yet) |
+| Version | 1.3.6 |
+| Price | Free (CZK storefront), in-app purchases |
+| Ratings in CZ storefront | 0 (site quotes the US figure, 4.5★ / 121) |
+| Screenshots | Same 7 English screenshots as the US listing (already in `img/screenshots/`) |
+| Icon | Same as US listing |
+| App UI language | Czech is one of the 31 in-app languages |
+
+Czech UI labels used on the Czech site (from `build/cs.json`; verify against the app's strings):
+„Násobek hlasitosti“, „Zesílit hlasitost na ×10“, „Vylepšit kvalitu zvuku“,
+Původní / Zpracované, „Stáhnout zpracované“.
+
+Czech keyword map and page plan: `keywords.cs.md`.
+
+## DK storefront (Danish locale) — checked 2026-10-01
+
+Source: `https://itunes.apple.com/lookup?id=6741472421&country=dk`.
+
+| Field | DK value |
+|---|---|
+| Title / subtitle / description | Same English text as the US listing (no Danish App Store localization yet) |
+| Version | 1.3.6 |
+| Price | Free (DKK storefront), in-app purchases |
+| Ratings in DK storefront | **1 rating, 1★** (site quotes the US figure, 4.5★ / 121) |
+| Screenshots / icon | Same as the US listing (already in `img/`) |
+| App UI language | Danish is one of the 31 in-app languages |
+
+Danish UI labels used on the Danish site (from `build/da.json`; verify against the app's strings):
+„Lydstyrke-multiplikation“, „Boost lydstyrke til ×10“, „Forbedr lydkvalitet“,
+Original / Behandlet, „Download behandlet“.
+
+Danish keyword map and page plan: `keywords.da.md`.
+
+## DE storefront (German locale) — checked 2026-10-01
+
+Source: `https://itunes.apple.com/lookup?id=6741472421&country=de` and
+`https://apps.apple.com/de/app/id6741472421`. **This storefront is localized** (unlike CZ/DK).
+
+| Field | DE value |
+|---|---|
+| Title | Audioverstärker – Volume Boost |
+| Subtitle | Videos und Musik lauter machen |
+| Version | 1.3.6 |
+| Price | Gratis (EUR), in-app purchases |
+| Ratings in DE storefront | 2.3★ from 3 ratings (site quotes the US figure, 4.5★ / 121) |
+| Size | 26.9 MB |
+
+In-app purchases (DE): Lautstärke-Booster wöchentlich €8,49 · Maximaler Lautstärke-Booster
+€20,90 · Lauterer Lautstärke-Booster €40,90 · Lautstärke- und Sound-Verstärker €34,90.
+
+German description (verbatim, abridged to the structure): "Volume Boost ist ein Audioverstärker,
+der Videos, Musik und Audio auf dem iPhone lauter macht, wenn die Systemlautstärke nicht
+ausreicht. … Importiere aus Fotos oder Dateien, erhöhe die Lautstärke bis zu 10x, höre Original
+und Ergebnis und speichere oder teile die lautere Datei." Bullets: Verstärke Lautstärke bis zu
+10x · Klarerer Klang · Mehr Bass · Übliche Formate · Direkt aus Fotos · Einfach. Uses: Musik
+lauter machen in Playlists und MP3s · Videos aus Fotos verstärken, bevor du teilst · Leise
+Aufnahmen, Interviews und Notizen anheben · Podcasts mehr Lautstärke und Deutlichkeit geben ·
+Extra Lautstärke, wenn das iPhone-Maximum nicht reicht. "Die Verarbeitung läuft auf dem Gerät."
+
+Keywords visible in the DE listing: Audioverstärker, Volume Boost, Videos lauter machen,
+Musik lauter machen, Lautstärke erhöhen, Lautstärke verstärken, Systemlautstärke, leise
+Aufnahmen, Podcasts, Sprachnotizen, Bass.
+
+### German screenshots (downloaded 2026-10-01 via the Claude browser)
+
+Saved as 460×995 WebP in `img/screenshots/de/1–7.webp` (German headlines over the English UI):
+
+| # | Headline on the screenshot |
+|---|---|
+| 1 | "Volumen erhöhen – bis zu 1000 % – ×10 lauter" |
+| 2 | "Video louder machen" (**typo in the listing: mixes English "louder" into German; should be "Video lauter machen"**) |
+| 3 | "Lautstärke von Audio erhöhen" |
+| 4 | "Wählen Sie die Menge des Boosting" (uses "Sie"; site uses "du") |
+| 5 | "Hören Sie verarbeitetes Ergebnis" |
+| 6 | "Überall herunterladen und teilen" |
+| 7 | "Mehrere Projekte speichern" |
+
+Source URLs (replace the size segment, e.g. `1290x2796bb.png`):
+1. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/b8/c1/64b8c12b-27f2-7063-404f-ee9a7e68ada6/1_boost_12_framed.png/
+2. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/8c/01/878c01b9-1a4d-05fd-aa9a-d246c4648d62/2_video_12_framed.png/
+3. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/4a/59/194a59a9-7a9d-6491-1f22-f9d100cf2537/3_audio_12_framed.png/
+4. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/bf/34/ffbf3457-8a7f-b1b0-3d2f-6ac93cd53a10/4_process_12_framed.png/
+5. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/23/70/762370bd-c127-fa2c-ac3b-3726a74a1097/5_preview_12_framed.png/
+6. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/b7/aa/5eb7aaeb-9b80-ba36-63cf-94d9babcda2c/6_share_12_framed.png/
+7. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/29/0d/64290de3-0e24-a3a3-b5cd-e36518b6bda7/7_main_12_framed.png/
+
+German UI labels used on the German site (from `build/de.json`; verify against the app's strings):
+„Lautstärke-Multiplikation“, „Lautstärke auf ×10 verstärken“, „Audioqualität verbessern“,
+Original / Verarbeitet, „Verarbeitete Datei laden“.
+
+German keyword map and page plan: `keywords.de.md`.
+
+## GR storefront (Greek locale) — checked 2026-10-01
+
+Source: `https://itunes.apple.com/lookup?id=6741472421&country=gr`.
+
+| Field | GR value |
+|---|---|
+| Title / subtitle / description | Same English text as the US listing (no Greek App Store localization yet) |
+| Version | 1.3.6 |
+| Price | Free (EUR storefront), in-app purchases |
+| Ratings in GR storefront | 0 (site quotes the US figure, 4.5★ / 121) |
+| Screenshots / icon | Same as the US listing (already in `img/`) |
+| App UI language | Greek is one of the 31 in-app languages |
+
+Greek UI labels used on the Greek site (from `build/el.json`; verify against the app's strings):
+«Πολλαπλασιασμός έντασης», «Ενίσχυση έντασης στο ×10», «Βελτίωση ποιότητας ήχου»,
+Αρχικό / Επεξεργασμένο, «Λήψη επεξεργασμένου».
+
+Greek keyword map and page plan: `keywords.el.md`.
+
+## ES storefront (Spanish locale) — checked 2026-10-02
+
+Source: `https://itunes.apple.com/lookup?id=6741472421&country=es` and
+`https://apps.apple.com/es/app/id6741472421`. **This storefront is localized.**
+
+| Field | ES value |
+|---|---|
+| Title | Aumentar Volumen Audio |
+| Subtitle | Subir Volumen Video & MP3 |
+| Version | 1.3.6 |
+| Price | Gratis (EUR), in-app purchases |
+| Ratings in ES storefront | **5.0★ from 6 ratings** |
+| MX storefront (es-MX) | Same title, 4.28★ from 29 ratings, its own screenshot set (es-MX) |
+
+In-app purchases (ES): Amplificador de volumen semanal 8,49 € (with free trial) · Booster de
+volumen máximo 20,90 € · Amplificador de volumen y sonido 34,90 € · Volumen y sonido más
+fuertes 40,90 €.
+
+Spanish description opens: "Aumentar Volumen: Haz que Vídeos, Música y Audio Suenen Más Alto …
+hasta 10x sin perder claridad, mejorando la profundidad y los graves." Keyword phrases in the
+listing: aumentar volumen, subir volumen, amplificador de volumen, aumentar volumen MP3, subir
+volumen video, subir volumen de música, subir volumen de audio, potenciador de audio.
+
+### Spanish screenshots (es-ES, downloaded 2026-10-02 via the Claude browser)
+
+Saved as 460×995 WebP in `img/screenshots/es/1–7.webp` (Spanish headlines over the English UI):
+
+| # | Headline |
+|---|---|
+| 1 | "Aumentar volumen – hasta 1000 % – ×10 más alto" |
+| 2 | "Aumenta el volumen de un vídeo" |
+| 3 | "Aumenta el volumen del audio" |
+| 4 | "Seleccione la cantidad de aumento" (uses "usted"; site uses "tú") |
+| 5 | "Escuche procesado resultado" (**word order is wrong; should be "Escucha el resultado procesado"**) |
+| 6 | "Descargue y comparta dondequiera" |
+| 7 | "Almacenar múltiples proyectos" |
+
+Source URLs (replace the size segment):
+1. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/08/19/f1081965-1c5e-732f-2dc3-542fe83e26af/1_boost_12_framed.png/
+2. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/b7/50/fab750c3-8dd2-4bd1-3d97-0c11400ead1f/2_video_12_framed.png/
+3. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/b2/fc/f7b2fc2b-f2fc-52ab-3ddf-dc34459f2163/3_audio_12_framed.png/
+4. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/c1/40/7ec1404f-20f8-b5c7-2b9a-0568094c58f6/4_process_12_framed.png/
+5. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/f0/70/5ef070e2-69f2-7015-9a9c-ef9fe4df0cd8/5_preview_12_framed.png/
+6. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/d9/12/afd9122f-1190-69d4-decc-1254e8d1c4d9/6_share_12_framed.png/
+7. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/c2/5d/71c25d98-84fb-938b-f55b-c63384546af7/7_main_12_framed.png/
+
+Spanish UI labels used on the Spanish site (from `build/es.json`; verify against the app's strings):
+«Multiplicación del volumen», «Potenciar volumen a ×10», «Mejorar calidad de audio»,
+Original / Procesado, «Descargar procesado».
+
+Spanish keyword map and page plan: `keywords.es.md`.
+
+## FI storefront (Finnish locale) — checked 2026-10-02
+
+Source: `https://itunes.apple.com/lookup?id=6741472421&country=fi`.
+
+| Field | FI value |
+|---|---|
+| Title / subtitle / description | Same English text as the US listing (no Finnish App Store localization yet) |
+| Version | 1.3.6 |
+| Price | Free (EUR storefront), in-app purchases |
+| Ratings in FI storefront | 0 (site quotes the US figure, 4.5★ / 121) |
+| Screenshots / icon | Same as the US listing (already in `img/`) |
+| App UI language | Finnish is one of the 31 in-app languages |
+
+Finnish UI labels used on the Finnish site (from `build/fi.json`; verify against the app's strings):
+Äänenvoimakkuuden kertoja (slider), Tehosta äänenvoimakkuutta (button), Paranna äänenlaatua
+(toggle), Alkuperäinen / Käsitelty, Lataa käsitelty.
+
+Finnish keyword map and page plan: `keywords.fi.md`.
+
+## PH storefront (Filipino locale) — checked 2026-10-02
+
+Source: `https://itunes.apple.com/lookup?id=6741472421&country=ph`.
+
+| Field | PH value |
+|---|---|
+| Title / subtitle / description | Same English text as the US listing (Filipino is not an App Store metadata language) |
+| Price | Free (PHP storefront), in-app purchases |
+| Ratings in PH storefront | 4.75★ from 4 ratings |
+| Screenshots / icon | Same as the US listing (already in `img/`) |
+| App UI language | Filipino is one of the 31 in-app languages |
+
+iOS itself has no Filipino system language, so Filipino users see Apple's app and settings names
+in English (Photos, Files, Voice Memos, Settings › Sounds & Haptics …). The Filipino pages keep
+those names in English on purpose. App labels used on the Filipino site (from `build/fil.json`):
+«Volume multiplication», «Boost Volume», «Improve Audio Quality», Orihinal / Na-process,
+«Download Processed» — verify against the app's Filipino strings.
+
+Filipino keyword map and page plan: `keywords.fil.md`.
+
+## FR storefront (French locale) — checked 2026-10-02
+
+Source: `https://itunes.apple.com/lookup?id=6741472421&country=fr` and
+`https://apps.apple.com/fr/app/id6741472421`. **This storefront is localized.**
+
+| Field | FR value |
+|---|---|
+| Title | Amplificateur de Volume Audio |
+| Subtitle | Volume Boost – Son plus fort |
+| Price | Gratuit (EUR), in-app purchases |
+| Ratings in FR storefront | 4.5★ from 8 ratings |
+
+In-app purchases (FR): Booster de volume hebdomadaire 8,49 € · Booster de volume max 20,90 € ·
+Booster et amplificateur de volume 34,90 € · Volume et son plus forts 40,90 €.
+
+French description opens: "Amplificateur de Volume Audio – Volume Boost rend vos vidéos,
+musiques et fichiers audio plus forts sur iPhone lorsque le volume système ne suffit pas." Keyword
+phrases in the listing: amplificateur de volume, augmenter le volume, son plus fort, booster de
+volume, rendre la musique plus forte, notes vocales, podcasts.
+
+### French screenshots (downloaded 2026-10-02 via the Claude browser)
+
+Saved as 460×995 WebP in `img/screenshots/fr/1–7.webp` (French headlines over the English UI):
+
+| # | Headline |
+|---|---|
+| 1 | "Augmenter volume – jusqu'à 1000 % – ×10 plus fort" |
+| 2 | "Augmenter la vidéo plus fort" (**ungrammatical; should be "Rendez la vidéo plus forte"**) |
+| 3 | "Augmenter le volume de l'audio" |
+| 4 | "Sélectionnez la quantité de l'augmentation" |
+| 5 | "Écoutez traité résultat" (**wrong word order; should be "Écoutez le résultat traité"**) |
+| 6 | "Télécharger et partager où que vous soyez" |
+| 7 | "Stocker multiples projets" (**should be "Stockez plusieurs projets"**) |
+
+Source URLs (replace the size segment):
+1. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/b6/26/07b62646-a87d-b464-da93-6fd96405225b/1_boost_12_framed.png/
+2. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/60/a9/c160a9c3-a1ad-447c-6742-36993caf8d02/2_video_12_framed.png/
+3. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/c8/4b/0cc84bf6-201d-170d-6c3e-730c85ffaaf3/3_audio_12_framed.png/
+4. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/e3/1c/2ee31c45-3b85-0bb6-6fbb-e268a6a09e94/4_process_12_framed.png/
+5. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/93/c7/0293c737-ea67-582a-304a-e5bf39be3bca/5_preview_12_framed.png/
+6. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/94/8d/41948d87-a3df-a4e8-c462-b574cc350624/6_share_12_framed.png/
+7. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/c3/86/b0c386fb-e9ff-3696-4cd8-8dd77f1ab085/7_main_12_framed.png/
+
+French UI labels used on the French site (from `build/fr.json`; verify against the app's strings):
+« Multiplication du volume », « Amplifier le volume à ×10 », « Améliorer la qualité audio »,
+Original / Traité, « Télécharger le fichier traité ».
+
+French keyword map and page plan: `keywords.fr.md`.
+
+## IL storefront (Hebrew locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/il/app/id6741472421?l=he` (the IL store defaults to English
+without `?l=he`). **This storefront is localized.**
+
+| Field | HE value |
+|---|---|
+| Title | מגביר עוצמת קול |
+| Subtitle | לשמע חלש ושקט |
+| Price | ללא תשלום, in-app purchases |
+| Ratings in IL storefront | 3.3★ from 3 ratings |
+| Version | 1.3.6 (20 Sept) |
+
+In-app purchases (IL): מגבר ווליום וסאונד שבועי (weekly, free trial) · מגבר ווליום וסאונד (annual,
+‏63.90 ₪).
+
+Hebrew description opens: "מגביר עוצמת קול הופך סרטונים, מוזיקה והקלטות שקטות לעוצמתיות וברורות
+יותר. הגדל את הווליום עד פי 10, שמור ושתף ישירות מ״תמונות״ בכמה שניות." Keyword phrases in the
+listing: מגבר ווליום, מגבר מוזיקה, מגבר וידאו, הגברת עוצמת קול, הגברת הקלטות.
+
+### Hebrew screenshots
+
+Not localized: the Hebrew listing shows the English set (6 images: boost, video, audio, process,
+preview, share — no "projects" screen). The site uses the shared `img/screenshots/1–7.webp`.
+Consider uploading Hebrew screenshots in App Store Connect.
+
+Hebrew UI labels used on the site (from `build/he.json`; verify against the app's strings):
+«הכפלת עוצמה», «הגברת עוצמה ל‑×10», «שיפור איכות השמע», מקור / מעובד, «הורדת הקובץ המעובד».
+
+Hebrew keyword map and page plan: `keywords.he.md`.
+
+## HR storefront (Croatian locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/hr/app/id6741472421?l=hr` (first load sometimes errors; reload).
+**This storefront is localized.**
+
+| Field | HR value |
+|---|---|
+| Title | Pojačaj Glasnoću Zvuka |
+| Subtitle | Za video, glazbu i snimke |
+| Price | Besplatno, in-app purchases |
+| Ratings in HR storefront | not enough ratings to display |
+| Version | 1.3.6 (20. ruj) |
+
+In-app purchases (HR): Pojačavanje glasnoće tjedno (weekly, trial) · Pojačalo glasnoće i zvuka
+(annual, 29,90 €).
+
+Croatian description opens: "Pojačaj Glasnoću Zvuka pojačava tihe videozapise, glazbu i snimke do
+10x. Uvezi, pojačaj i izvezi u nekoliko sekundi za jasniji, glasniji zvuk." Keyword phrases in the
+listing: pojačivač zvuka i glasnoće, pojačati glasnoću videa, glazbu, snimke, glasovne bilješke.
+
+### Croatian screenshots
+
+Not localized: the listing shows the English set (6 images). The site uses the shared
+`img/screenshots/1–7.webp`.
+
+Croatian UI labels used on the site (from `build/hr.json`; verify against the app's strings):
+„Množitelj glasnoće”, „Pojačaj glasnoću na ×10”, „Poboljšaj kvalitetu zvuka”, Izvorno / Obrađeno,
+„Preuzmi obrađeno”.
+
+Croatian keyword map and page plan: `keywords.hr.md`.
+
+## HU storefront (Hungarian locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/hu/app/id6741472421?l=hu`. **This storefront is localized.**
+
+| Field | HU value |
+|---|---|
+| Title | Hangerőnövelő Média |
+| Subtitle | Hangosabb felvételek gyorsan |
+| Price | Ingyenes, in-app purchases |
+| Ratings in HU storefront | 5,0★ from 2 ratings |
+| Version | 1.3.6 (szept. 20.) |
+
+In-app purchases (HU): Hangerőnövelő heti előfizetés (weekly, free trial) · Hangerőnövelő
+hangfelerősítő (annual, 7 590 Ft).
+
+Hungarian description opens: "A Hangerőnövelő Média azonnal hangosabbá teszi videókat, zenét és
+hangot. Növeld a hangerőt akár 10x, majd exportálj és oszd meg fájljaidat gyorsan." Keyword phrases
+in the listing: hangerőnövelő, hangfelerősítő, zene hangerő növelés, video hangerő növelés.
+Note: one heading in the description says "Hangerőnövelő Zene és Videó" (inconsistent app name), and
+"Az Hangerőnövelő Média" in What's New should be "A Hangerőnövelő Média".
+
+### Hungarian screenshots
+
+Not localized: the listing shows the English set (6 images). The site uses the shared
+`img/screenshots/1–7.webp`.
+
+Hungarian UI labels used on the site (from `build/hu.json`; verify against the app's strings):
+„Hangerőszorzó”, „Hangerő kiemelése ×10-re”, „Hangminőség javítása”, Eredeti / Feldolgozott,
+„Feldolgozott letöltése”.
+
+Hungarian keyword map and page plan: `keywords.hu.md`.
+
+## ID storefront (Indonesian locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/id/app/id6741472421?l=id` (first load may error; reload).
+**This storefront is localized.**
+
+| Field | ID value |
+|---|---|
+| Title | Penguat Volume – Volume Boost |
+| Subtitle | Musik dan video lebih keras |
+| Price | Gratis, in-app purchases |
+| Ratings in ID storefront | not enough ratings to display |
+| Version | 1.3.6 (20 Sep) |
+
+In-app purchases (ID): Penguat volume mingguan (weekly, free trial) · Penguat volume & penguat suara
+(annual, Rp 167ribu).
+
+Indonesian description opens: "Penguat Volume – Volume Boost membuat video, musik, dan rekaman lebih
+keras saat volume sistem tidak cukup. Tingkatkan hingga 10x, simpan atau bagikan." Keyword phrases
+in the listing: penguat volume, penguat suara, penguat musik, volume lebih keras, catatan suara.
+
+### Indonesian screenshots
+
+Not localized: the listing shows the English set (6 images). The site uses the shared
+`img/screenshots/1–7.webp`.
+
+Indonesian UI labels used on the site (from `build/id.json`; verify against the app's strings):
+«Pengali volume», «Boost volume ke ×10», «Tingkatkan Kualitas Audio», Asli / Diproses,
+«Unduh yang diproses».
+
+Indonesian keyword map and page plan: `keywords.id.md`.
+
+## IT storefront (Italian locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/it/app/id6741472421?l=it`. **This storefront is localized.**
+
+| Field | IT value |
+|---|---|
+| Title | Aumenta Volume |
+| Subtitle | Amplificatore Musica e Video |
+| Price | Gratis, in-app purchases |
+| Ratings in IT storefront | 4,5★ from 4 ratings |
+| Version | 1.3.6 (20 set) |
+
+In-app purchases (IT): Potenziatore di volume settimanale (weekly, free trial) · Amplificatore di
+volume e suono (annual, 29,90 €).
+
+Italian description opens: "Aumenta Volume rende video, musica e audio più forti. Aumenta il volume
+fino a 10x, esporta in secondi da Foto. Perfetto per clip silenziose e MP3." Keyword phrases in the
+listing: aumenta volume, aumentare il volume, amplificatore di volume, amplificatore di volume audio,
+potenziatore di volume.
+
+### Italian screenshots (downloaded 2026-10-02 via the Claude browser)
+
+Saved as 460×995 WebP in `img/screenshots/it/1–6.webp` (Italian headlines over the English UI).
+`it/7.webp` is a copy of the shared English projects screenshot (the IT listing has only 6).
+
+| # | Headline |
+|---|---|
+| 1 | "Aumenta volume – fino al 1000% – ×10 più alto" |
+| 2 | "Aumenta il volume dei video" |
+| 3 | "Aumenta il volume Audio" |
+| 4 | "Seleziona la quantità di aumento" |
+| 5 | "Ascolta processato risultato" (**word order; should be "Ascolta il risultato elaborato"**) |
+| 6 | "Scarica e comparti Dovevuoi" (**typos; should be "Scarica e condividi ovunque"**) |
+
+Source URLs (replace the size segment):
+1. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/4a/9d/a14a9de7-ca33-0c6f-c966-bc5773463823/1_boost_12_framed.png/
+2. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/6d/e1/726de17c-b07b-c158-d70e-fa2bab853fbb/2_video_12_framed.png/
+3. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/2d/c3/d22dc3a3-cb11-ffe6-cad1-bd3678f52318/3_audio_12_framed.png/
+4. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/c9/45/68c94592-b560-0867-fef9-411f5af69ffa/4_process_12_framed.png/
+5. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/9b/47/7d9b472b-bcae-09ca-5c86-73418a4a1d2c/5_preview_12_framed.png/
+6. https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/57/4b/b5574b18-4aea-ad58-2f0c-c1132dc86e0c/6_share_12_framed.png/
+
+Italian UI labels used on the site (from `build/it.json`; verify against the app's strings):
+«Moltiplicazione volume», «Potenzia volume a ×10», «Migliora qualità audio», Originale / Elaborato,
+«Scarica elaborato».
+
+Italian keyword map and page plan: `keywords.it.md`.
+
+## JP storefront (Japanese locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/jp/app/id6741472421`. **This storefront is localized.**
+
+| Field | JP value |
+|---|---|
+| Title | 音量ブースター - 音楽も動画も |
+| Subtitle | サウンド・オーディオを最大10倍に |
+| Price | 無料, in-app purchases |
+| Ratings in JP storefront | 4.3★ from 6 ratings |
+| Version | 1.3.6 (9月20日) |
+
+In-app purchases (JP): 音量・サウンドブースター週額 (weekly, free trial) · 音量ブースター・サウンドアンプ
+(annual, ¥3,080).
+
+Japanese description opens: "「音量ブースター - 音楽も動画も」で、動画・音楽・録音を瞬時に大音量に。最大10倍まで増幅し、
+数秒で書き出してフォトから直接共有。" Note: the description says 「フォト」 while iOS calls the app 「写真」.
+Keyword phrases in the listing: 音量アップ, サウンドブースター, オーディオブースター, 音楽ブースター, 動画の音量アップ.
+
+Review to act on (4月7日, 三田区ロース): gallery picker → コレクション shows "アルバムがありません" (albums not
+synced); requests a cache-clear feature and an in-app contact form. Developer replied.
+
+### Japanese screenshots
+
+Not localized: the listing shows the English set (6 images). The site uses the shared
+`img/screenshots/1–7.webp`.
+
+Japanese UI labels used on the site (from `build/ja.json`; verify against the app's strings):
+「音量倍率」, 「音量を ×10 にブースト」, 「音質を改善」, オリジナル／処理後, 「処理後をダウンロード」.
+
+Japanese keyword map and page plan: `keywords.ja.md`.
+
+## KR storefront (Korean locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/kr/app/id6741472421`. **This storefront is localized.**
+
+| Field | KR value |
+|---|---|
+| Title | 볼륨 부스터 - 음악·영상 음량 |
+| Subtitle | 오디오·사운드 최대 10배 증폭 |
+| Price | 무료, in-app purchases |
+| Ratings in KR storefront | 5.0★ from 2 ratings |
+| Version | 1.3.6 (9월 20일) |
+
+In-app purchases (KR): 볼륨·사운드 부스터 주간 (weekly, free trial) · 볼륨 부스터 사운드 앰프 (annual,
+￦43,500).
+
+Korean description opens: "볼륨 부스터 - 음악·영상 음량으로 영상·음악·녹음을 즉시 더 크게. 최대 10배까지 증폭하고,
+몇 초 만에 내보내서 사진 앱에서 바로 공유하세요." Keyword phrases in the listing: 볼륨 부스터, 사운드 부스터,
+오디오 부스터, 음악 부스터, 영상 음량 부스터.
+Wording fix: «가독성을 높입니다» (text legibility) → «명료도를 높입니다» / «더 알아듣기 쉽게».
+
+### Korean screenshots
+
+Not localized: the listing shows the English set (6 images). The site uses the shared
+`img/screenshots/1–7.webp`.
+
+Korean UI labels used on the site (from `build/ko.json`; verify against the app's strings):
+«볼륨 배율», «볼륨 ×10으로 부스트», «오디오 품질 개선», 원본 / 처리본, «처리본 다운로드».
+
+Korean keyword map and page plan: `keywords.ko.md`.
+
+## MY storefront (Malay locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/my/app/id6741472421?l=ms`. **This storefront is localized.**
+
+| Field | MS value |
+|---|---|
+| Title | Penguat Volume Bunyi |
+| Subtitle | Muzik & Video Lebih Kuat |
+| Price | Percuma, in-app purchases |
+| Ratings in MY storefront | not enough ratings to display |
+| Version | 1.3.6 (20 Sep) |
+
+In-app purchases (MY): Penguat bunyi mingguan (weekly, free trial) · Penguat bunyi & penguat audio
+(annual, RM50.90).
+
+Malay description opens: "Penguat Volume Bunyi menjadikan video, muzik dan rakaman lebih kuat. Volume
+hingga 10x, eksport cepat, kongsi dari Photos." Keyword phrases in the listing: penguat volume, penguat
+bunyi, penguat audio, penguat muzik, penguat volume video.
+Fixes: «Photos» → «Foto»; "Terms of Use" / "Privacy Policy" → «Terma Penggunaan» / «Dasar Privasi».
+
+### Malay screenshots
+
+Not localized: the listing shows the English set (6 images). The site uses the shared
+`img/screenshots/1–7.webp`.
+
+Malay UI labels used on the site (from `build/ms.json`; verify against the app's strings):
+«Pengganda kelantangan», «Boost kelantangan ke ×10», «Tingkatkan Kualiti Audio», Asal / Diproses,
+«Muat turun yang diproses».
+
+Malay keyword map and page plan: `keywords.ms.md`.
+
+## NL storefront (Dutch locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/nl/app/id6741472421`. **This storefront is localized.**
+
+| Field | NL value |
+|---|---|
+| Title | Audioversterker – Volume Boost |
+| Subtitle | Geluid harder maken |
+| Price | Gratis, in-app purchases |
+| Ratings in NL storefront | 4,0★ from 4 ratings |
+| Version | 1.3.6 (20 sep) |
+
+In-app purchases (NL): Volumeversterker wekelijks (weekly, free trial) · Volume- en geluidsversterker
+(annual, € 34,90).
+
+Dutch description opens: "Volume Boost is je audioversterker voor video, muziek en audio op iPhone. Maak
+stil geluid tot 10× harder, luister vooraf en exporteer." Keyword phrases in the listing:
+audioversterker, volume versterken, geluid harder maken, muziek luider maken.
+Grammar fix: «sla het luider bestand op» → «sla het luidere bestand op».
+
+### Dutch screenshots
+
+Not localized: the listing shows the English set (6 images). The site uses the shared
+`img/screenshots/1–7.webp`.
+
+Dutch UI labels used on the site (from `build/nl.json`; verify against the app's strings):
+'Volumevermenigvuldiging', 'Volume versterken tot ×10', 'Audiokwaliteit verbeteren', Origineel /
+Verwerkt, 'Verwerkt bestand downloaden'.
+
+Dutch keyword map and page plan: `keywords.nl.md`.
+
+## NO storefront (Norwegian Bokmål locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/no/app/id6741472421?l=nb` (without `?l=nb` the page shows English).
+**This storefront is localized.**
+
+| Field | NO value |
+|---|---|
+| Title | Volumforsterker – Volume Boost |
+| Subtitle | Gjør musikk og video høyere |
+| Price | Gratis, kjøp i app |
+| Ratings in NO storefront | not enough ratings to display |
+| Version | 1.3.6 (20. sep.) |
+
+In-app purchases (NO): Volumforsterker ukentlig (weekly, free trial) · Volum- og lydforsterker
+(annual, 379,00 kr).
+
+Norwegian description opens: "Volumforsterker – Volume Boost gjør videoer, musikk og opptak høyere når
+iPhone-volumet ikke er nok. Øk lyden opptil 10x og del resultatet fra Bilder." Keyword phrases in the
+listing: volumforsterker, øke volumet, lydforsterker, musikkforsterker, gjøre musikk høyere.
+
+### Norwegian screenshots
+
+Not localized: the listing shows the English set (6 images). The site uses the shared
+`img/screenshots/1–7.webp`.
+
+Norwegian UI labels used on the site (from `build/no.json`; verify against the app's strings):
+«Volummultiplikasjon», «Boost lydstyrken til ×10», «Forbedre lydkvalitet», Original / Behandlet,
+«Last ned behandlet».
+
+Norwegian keyword map and page plan: `keywords.no.md`.
+
+## PL storefront (Polish locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/pl/app/id6741472421?l=pl`. **This storefront is localized.**
+
+| Field | PL value |
+|---|---|
+| Title | Wzmacniacz – Volume Boost |
+| Subtitle | Głośniejsza muzyka i wideo |
+| Price | Darmowe, zakupy w aplikacji |
+| Ratings in PL storefront | not enough ratings to display |
+| Version | 1.3.6 (20 wrz) |
+
+In-app purchases (PL): Wzmacniacz głośności na tydzień (weekly, free trial) · Wzmacniacz głośności i
+dźwięku (annual, 69,90 zł).
+
+Polish description opens: "Wzmacniacz Volume Boost podbija ciche filmy, muzykę i nagrania, gdy systemowa
+głośność nie wystarcza. Wzmocnij nawet 10× i zapisz." Keyword phrases in the listing: wzmacniacz
+głośności, wzmacniacz dźwięku, wzmacniacz muzyki, zwiększ głośność, podbij dźwięk.
+Note: «Dostawca» shows the developer name in Cyrillic (Владимир Ивахненко).
+
+### Polish screenshots
+
+Not localized: the listing shows the English set (6 images). The site uses the shared
+`img/screenshots/1–7.webp`.
+
+Polish UI labels used on the site (from `build/pl.json`; verify against the app's strings):
+«Mnożnik głośności», «Wzmocnij głośność do ×10», «Popraw jakość dźwięku», Oryginał / Przetworzony,
+«Pobierz przetworzony».
+
+Polish keyword map and page plan: `keywords.pl.md`.
+
+## BR storefront (Portuguese locale, pt-BR) — checked 2026-10-02
+
+Source: `https://apps.apple.com/br/app/id6741472421?l=pt-BR`. **This storefront is localized.**
+
+| Field | BR value |
+|---|---|
+| Title | Aumentar Volume Áudio |
+| Subtitle | Amplificador Som & Música |
+| Price | Grátis, compras dentro do app |
+| Rating | 4,6★ from 31 ratings |
+| Version | 1.3.6 (20 de set.) |
+
+In-app purchases (BR): Amplificador de volume semanal (weekly, free trial) · Amplificador de volume e som
+(annual, R$ 96,90).
+
+Portuguese description opens: "Deixe seus vídeos, músicas e gravações mais altos. Aumente o volume até
+10x, exporte em segundos e compartilhe do Fotos." Keyword phrases in the listing: aumentar volume,
+amplificador de volume, aumentador de volume, booster de volume, aumentar som, amplificador de som,
+aumentar volume de vídeo / de música / de áudio / MP3.
+Fix: "Terms of Use" / "Privacy Policy" at the end of the description → «Termos de uso» / «Política de
+privacidade».
+
+### Portuguese screenshots
+
+Localized (Portuguese headlines over the English app UI): 6 images downloaded to
+`img/screenshots/pt/1–6.webp` (460×995 WebP); `pt/7.webp` is a copy of the shared `7.webp`.
+Headlines: «Aumentar volume até 1000% ×10 mais alto», «Aumente o volume de vídeos», «Aumente o volume do
+áudio», «Selecione a quantidade de aumento», «Ouvir processado resultado» (suggest «Ouça o resultado
+processado»), «Baixe e compartilhe onde quiser».
+
+Portuguese UI labels used on the site (from `build/pt.json`; verify against the app's strings):
+«Multiplicação do volume», «Amplificar volume para ×10», «Melhorar qualidade do áudio», Original /
+Processado, «Baixar processado».
+
+Portuguese keyword map and page plan: `keywords.pt.md`.
+
+## RO storefront (Romanian locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/ro/app/id6741472421?l=ro`. **This storefront is localized.**
+
+| Field | RO value |
+|---|---|
+| Title | Amplificator – Volume Boost |
+| Subtitle | Volum și sunet mai tare |
+| Price | Gratis, achiziții din aplicație |
+| Rating | 5,0★ from 3 ratings |
+| Version | 1.3.6 (20 sept.) |
+
+In-app purchases (RO): Amplificator volum săptămânal (weekly, free trial) · Amplificator de volum și
+sunet (annual, 61,99 lei).
+
+Romanian description opens: "Amplificator de volum Volume Boost: fă videoclipurile, muzica și
+înregistrările mai tari când volumul iPhone nu ajunge. Crește sunetul până la 10x." Keyword phrases in
+the listing: amplificator de volum, amplificator de sunet, amplificator muzică, crește volumul, mai tare.
+Note: «Furnizor» shows the developer name in Cyrillic (Владимир Ивахненко).
+
+### Romanian screenshots
+
+Not localized: the listing shows the English set (6 images). The site uses the shared
+`img/screenshots/1–7.webp`.
+
+Romanian UI labels used on the site (from `build/ro.json`; verify against the app's strings):
+«Multiplicare volum», «Amplifică volumul la ×10», «Îmbunătățește calitatea audio», Original / Procesat,
+«Descarcă procesat».
+
+Romanian keyword map and page plan: `keywords.ro.md`.
+
+## RU storefront (Russian locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/ru/app/id6741472421?l=ru`. **This storefront is localized.**
+
+| Field | RU value |
+|---|---|
+| Title | Увеличить Громкость |
+| Subtitle | Усилитель Видео & Аудио |
+| Price | Бесплатно, встроенные покупки |
+| Rating | 4,4★ from 32 ratings |
+| Version | 1.3.6 (20 сент.) |
+
+In-app purchases (RU): Усилитель громкости недельный (weekly, trial) · Усилитель громкости и звука
+(annual, 899,00 ₽).
+
+Russian description opens: "Сделайте видео, музыку и записи громче. Увеличьте громкость до 10x,
+экспортируйте за секунды и делитесь из Фото." Keyword phrases in the listing: увеличить громкость, как
+увеличить громкость, усилитель громкости, увеличить громкость видео / аудио / MP3 / песни.
+
+### Russian screenshots
+
+Localized (Russian headlines over the English app UI): 6 images downloaded to
+`img/screenshots/ru/1–6.webp` (460×995 WebP); `ru/7.webp` is a copy of the shared `7.webp`.
+
+Russian UI labels used on the site (from `build/ru.json`; verify against the app's strings):
+«Умножение громкости», «Усилить громкость до ×10», «Улучшить качество звука», «Оригинал» / «Обработано»,
+«Скачать обработанный».
+
+Russian keyword map and page plan: `keywords.ru.md`.
+
+## SK storefront (Slovak locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/sk/app/id6741472421?l=sk`. **This storefront is localized.**
+
+| Field | SK value |
+|---|---|
+| Title | Zosilňovač hlasitosti a zvuku |
+| Subtitle | Volume Boost – 10× hlasnejšie |
+| Price | Zdarma, nákupy v apke |
+| Rating | 5,0★ from 1 rating |
+| Version | 1.3.6 (20. 9.) |
+
+In-app purchases (SK): Zosilňovač hlasitosti týždenný (weekly, free trial) · Zosilňovač hlasitosti a zvuku
+(annual, 29,90 €).
+
+Slovak description opens: "Zosilňovač hlasitosti a zvuku Volume Boost spraví videá, hudbu a nahrávky
+hlasnejšími, keď systémová hlasitosť nestačí. Zosilnite až 10× a uložte." Keyword phrases in the listing:
+zosilňovač hlasitosti, zosilňovač zvuku, zvýšiť hlasitosť, hlasnejšie, zosilniť zvuk.
+Notes: the description uses the formal «vy» form (the site uses «ty»); «Poskytovateľ» shows the developer
+name in Cyrillic (Владимир Ивахненко).
+
+### Slovak screenshots
+
+Not localized: the listing shows the English set (6 images). The site uses the shared
+`img/screenshots/1–7.webp`.
+
+Slovak UI labels used on the site (from `build/sk.json`; verify against the app's strings):
+«Násobok hlasitosti», «Zosilniť hlasitosť na ×10», «Vylepšiť kvalitu zvuku», Pôvodné / Spracované,
+«Stiahnuť spracované».
+
+Slovak keyword map and page plan: `keywords.sk.md`.
+
+## SE storefront (Swedish locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/se/app/id6741472421?l=sv`. **This storefront is localized.**
+
+| Field | SE value |
+|---|---|
+| Title | Volymförstärkare Ljud & Video |
+| Subtitle | Gör musik, klipp, poddar högre |
+| Price | Gratis, köp i appar |
+| Rating | 5,0★ from 1 rating |
+| Version | 1.3.6 (20 sep.) |
+
+In-app purchases (SE): Volymbooster veckovis (weekly, free trial) · Volymbooster ljudförstärkare
+(annual, 319,00 kr).
+
+Swedish description opens: "Volymförstärkare Ljud & Video gör dina videor, låtar och inspelningar mycket
+högre. Förstärk upp till 10x, spara snabbt och dela direkt från Bilder." Keyword phrases in the listing:
+volymförstärkare, ljudförstärkare, volymbooster, musikförstärkare, göra … högre.
+Note: «Leverantör» shows the developer name in Cyrillic (Владимир Ивахненко).
+
+### Swedish screenshots
+
+Not localized: the listing shows the English set (6 images). The site uses the shared
+`img/screenshots/1–7.webp`.
+
+Swedish UI labels used on the site (from `build/sv.json`; verify against the app's strings):
+«Volymmultiplikation», «Boosta volymen till ×10», «Förbättra ljudkvalitet», Original / Bearbetad,
+«Hämta bearbetad».
+
+Swedish keyword map and page plan: `keywords.sv.md`.

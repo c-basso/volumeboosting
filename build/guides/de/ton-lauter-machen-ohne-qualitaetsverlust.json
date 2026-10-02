@@ -1,0 +1,140 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "Ton lauter machen ohne Qualitätsverlust",
+  "priority": 10,
+  "keywords": "Ton lauter machen ohne Qualitätsverlust, Video lauter ohne Verzerrung, Lautstärke erhöhen ohne Übersteuern, Clipping vermeiden, verschlechtert Verstärken die Qualität",
+  "title": "Ton lauter machen ohne Qualitätsverlust (iPhone-Anleitung)",
+  "description": "Zu viel Verstärkung lässt den Ton übersteuern. So funktioniert Verstärkung, so viel ist sicher, und so prüfst du das Ergebnis vorher in Increase Volume.",
+  "h1": "Video-Ton lauter machen ohne Qualitätsverlust",
+  "eyebrow": "Qualität",
+  "card_title": "Lauter ohne Verzerrung",
+  "card_summary": "Was Übersteuern ist, wie viel Luft eine leise Aufnahme hat und wie du vor dem Speichern prüfst.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Verstärken berührt das Bild nicht und verschlechtert den Ton nicht, solange die lautesten Spitzen unter der digitalen Obergrenze bleiben. Öffne das Video auf dem iPhone in Increase Volume, starte bei ×3, tippe auf „Lautstärke verstärken“ und hör dir mit Original/Verarbeitet den lautesten Moment an. Erhöhe den Faktor, bis es klar laut, aber nicht hart klingt. Bei Sprache „Audioqualität verbessern“ einschalten, mit „Verarbeitete Datei laden“ sichern. Deine Originaldatei wird nie verändert.",
+  "intro": [
+    "„Klingt das dann nicht verzerrt?“ ist die erste Frage zu jedem Lautstärkeverstärker, und es ist die richtige Frage. Verstärken ist Multiplizieren: Jeder Abtastwert wird größer. Erreichen die größten den Maximalwert des Formats, werden sie flach abgeschnitten, und du hörst an lauten Stellen ein Knistern oder Härte. Das nennt man Übersteuern (Clipping), und es ist das einzige echte Qualitätsrisiko.",
+    "Die gute Nachricht: Eine *leise* Aufnahme hat per Definition viel Platz bis zur Obergrenze. Diese Anleitung zeigt, wie du diesen Platz nutzt und das Ergebnis vor dem Speichern prüfst."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/de/5.webp",
+    "alt": "Screenshot mit der Überschrift Hören Sie verarbeitetes Ergebnis: Ergebnisbildschirm mit Umschalter Original und Verarbeitet",
+    "caption": "Vergleiche die lauteste Stelle immer mit Original/Verarbeitet, bevor du lädst."
+  },
+  "sections": [
+    {
+      "heading": "Was sich beim Verstärken wirklich ändert",
+      "paragraphs": [
+        "Nur die Tonspur wird verarbeitet. Der Videostream wird durchgereicht, Auflösung, Bildrate und Farben bleiben exakt gleich. Im Ton verdoppelt ein Faktor ×2 die Amplitude (etwa +6 dB), ×4 sind etwa +12 dB und ×10 sind +20 dB. Rauschen in der Aufnahme (Raumrauschen, Wind) wird genauso verstärkt; deshalb kann sehr starke Verstärkung bei einer verrauschten Aufnahme zischelig klingen, auch wenn nichts übersteuert."
+      ]
+    },
+    {
+      "heading": "Wie viel Verstärkung ist sicher?",
+      "paragraphs": [
+        "Entscheidend ist, wie weit der lauteste Moment unter der Obergrenze liegt, nicht wie leise der *Durchschnitt* ist. Eine Aufnahme, die sehr leise klingt, aber einen Türknall auf Vollpegel enthält, verträgt kaum Verstärkung, bevor der Knall übersteuert. Eine gleichmäßig leise Aufnahme, etwa eine Vorlesung aus der letzten Reihe, verträgt oft sauber ×8–×10."
+      ],
+      "table": {
+        "head": [
+          "Aufnahme",
+          "Typischer sicherer Bereich",
+          "Hinweis"
+        ],
+        "rows": [
+          [
+            "Sprachmemo oder Vorlesung aus der Distanz",
+            "×5 – ×10",
+            "Bei Sprache Audioqualität verbessern einschalten."
+          ],
+          [
+            "Handyvideo, das nur etwas leise ist",
+            "×2 – ×4",
+            "Lautestes Lachen oder Klatschen prüfen."
+          ],
+          [
+            "Bildschirmaufnahme",
+            "×5 – ×10",
+            "Meist weit unter normalem Pegel."
+          ],
+          [
+            "Musik mit leisen Strophen und lautem Refrain",
+            "×1,5 – ×3",
+            "Der Refrain setzt die Grenze."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Den Vergleich Original/Verarbeitet nutzen",
+      "paragraphs": [
+        "Increase Volume verarbeitet die Datei und zeigt dann den Umschalter Original/Verarbeitet, bevor etwas gespeichert wird. Such dir den lautesten Moment und wechsle zwischen beiden. Klingt Verarbeitet dort hart oder knisternd, senke den Faktor um eine Stufe und verstärke neu. Weil die App eine neue Datei schreibt, kannst du frei probieren; das Original wird nie angerührt."
+      ]
+    },
+    {
+      "heading": "Audioqualität verbessern: wann einschalten",
+      "paragraphs": [
+        "Der Schalter „Audioqualität verbessern“ fügt eine Verarbeitung für mehr Verständlichkeit hinzu, die vor allem bei Sprache hilft: Interviews, Vorlesungen, Sprachnachrichten, Tutorials per Bildschirmaufnahme. Bei Musik probierst du beide Einstellungen und behältst die natürlichere. In der aktuellen Version ist die Option als experimentell markiert, hör dir das Ergebnis also immer an."
+      ]
+    },
+    {
+      "id": "datenschutz",
+      "heading": "Datenschutz: alles bleibt auf deinem Handy",
+      "paragraphs": [
+        "Increase Volume verarbeitet Dateien auf dem iPhone. Kein Upload, kein Konto, und das Ergebnis wird über das normale Teilen-Menü von iOS in Fotos, Dateien oder einer App deiner Wahl gesichert. Online-Verstärker verlangen, dass du die Datei an einen Server schickst, und kodieren sie meist in schlechterer Qualität neu; eine lokale App vermeidet beides."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Schritt für Schritt: saubere Verstärkung",
+    "intro": "Gleicher Ablauf für Video- und Audiodateien.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Datei in Increase Volume öffnen",
+        "text": "Aus Fotos oder Dateien hinzufügen oder von überall an die App teilen."
+      },
+      {
+        "name": "Über Audioqualität verbessern entscheiden",
+        "text": "Bei Sprache an; bei Musik beides testen."
+      },
+      {
+        "name": "Moderat starten",
+        "text": "„Lautstärke-Multiplikation“ auf ×3 stellen und „Lautstärke verstärken“ tippen."
+      },
+      {
+        "name": "Lautesten Moment prüfen",
+        "text": "An der lautesten Stelle zwischen Original und Verarbeitet wechseln. Sauber? Faktor erhöhen und wiederholen. Hart? Senken."
+      },
+      {
+        "name": "Sichern",
+        "text": "Auf „Verarbeitete Datei laden“ tippen und in Fotos oder Dateien sichern. Das Original bleibt unberührt."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipps",
+    "items": [
+      "Prüf mit Kopfhörern; Handylautsprecher verbergen leichtes Übersteuern.",
+      "Bei verrauschten Dateien klingt ein etwas niedrigerer Faktor mit „Audioqualität verbessern“ oft besser als die maximale Verstärkung.",
+      "Einmal verstärken, an der Quelle. Ein schon verstärkter Export erneut verstärkt stapelt alle Artefakte."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Senkt das Erhöhen der Lautstärke die Videoauflösung?",
+      "answer": "Nein. Nur der Ton wird verarbeitet. Der Videostream behält Auflösung, Bildrate und Bitrate."
+    },
+    {
+      "question": "Wie klingt Verzerrung durch zu viel Verstärkung?",
+      "answer": "Wie Knistern, Brummen oder Härte nur an den lautesten Stellen, während leise Passagen gut klingen. Hörst du das, senke den Faktor."
+    },
+    {
+      "question": "Ist ×10 zu viel?",
+      "answer": "Nicht bei wirklich leisen Aufnahmen wie entfernten Sprachmemos oder Bildschirmaufnahmen. Für ein normales Handyvideo reichen meist ×2–×4. Der Vergleich Original/Verarbeitet entscheidet."
+    }
+  ],
+  "related": [
+    "video-lauter-machen-iphone",
+    "sprachmemo-lauter-machen-iphone",
+    "warum-ist-mein-iphone-video-so-leise"
+  ]
+}

@@ -54,35 +54,146 @@ const URLS = LANGUAGES.map((code) => ({
     url: code === DEFAULT_LANGUAGE ? SITE_URL : `${SITE_URL}${code}/`
 }));
 
-/** English-only SEO guide pages: one JSON per target keyword in `build/guides/`. */
+/**
+ * SEO guide pages: one JSON per target keyword.
+ * English guides live in `build/guides/*.json` and are published under `/guides/<slug>/`.
+ * Localized guide sets live in `build/guides/<lang>/*.json`; each file names its English twin in
+ * `en_slug` so the pages are linked with hreflang. Slugs are written in the target language.
+ */
 const GUIDES_DIR = path.join(__dirname, 'guides');
 const GUIDES_PATH_SEGMENT = 'guides';
 const GUIDES_HUB_URL = `${SITE_URL}${GUIDES_PATH_SEGMENT}/`;
+const PROJECT_ROOT_DIR = path.join(__dirname, '..');
 
-function getGuideSlugs() {
-    if (!fs.existsSync(GUIDES_DIR)) {
+const GUIDE_LOCALE_CONFIG = {
+    en: { dir: GUIDES_DIR, segment: GUIDES_PATH_SEGMENT },
+    cs: { dir: path.join(GUIDES_DIR, 'cs'), segment: 'cs/navody' },
+    da: { dir: path.join(GUIDES_DIR, 'da'), segment: 'da/guides' },
+    de: { dir: path.join(GUIDES_DIR, 'de'), segment: 'de/anleitungen' },
+    el: { dir: path.join(GUIDES_DIR, 'el'), segment: 'el/odigoi' },
+    es: { dir: path.join(GUIDES_DIR, 'es'), segment: 'es/guias' },
+    fi: { dir: path.join(GUIDES_DIR, 'fi'), segment: 'fi/oppaat' },
+    fil: { dir: path.join(GUIDES_DIR, 'fil'), segment: 'fil/mga-gabay' },
+    fr: { dir: path.join(GUIDES_DIR, 'fr'), segment: 'fr/guides' },
+  he: { dir: path.join(GUIDES_DIR, 'he'), segment: 'he/madrichim' },
+  hr: { dir: path.join(GUIDES_DIR, 'hr'), segment: 'hr/vodici' },
+  hu: { dir: path.join(GUIDES_DIR, 'hu'), segment: 'hu/utmutatok' },
+  id: { dir: path.join(GUIDES_DIR, 'id'), segment: 'id/panduan' },
+  it: { dir: path.join(GUIDES_DIR, 'it'), segment: 'it/guide' },
+  ja: { dir: path.join(GUIDES_DIR, 'ja'), segment: 'ja/guide' },
+  ko: { dir: path.join(GUIDES_DIR, 'ko'), segment: 'ko/guide' },
+  ms: { dir: path.join(GUIDES_DIR, 'ms'), segment: 'ms/panduan' },
+  nl: { dir: path.join(GUIDES_DIR, 'nl'), segment: 'nl/handleidingen' },
+  no: { dir: path.join(GUIDES_DIR, 'no'), segment: 'no/guider' },
+  pl: { dir: path.join(GUIDES_DIR, 'pl'), segment: 'pl/poradniki' },
+  pt: { dir: path.join(GUIDES_DIR, 'pt'), segment: 'pt/guias' },
+  ro: { dir: path.join(GUIDES_DIR, 'ro'), segment: 'ro/ghiduri' },
+  ru: { dir: path.join(GUIDES_DIR, 'ru'), segment: 'ru/instrukcii' },
+  sk: { dir: path.join(GUIDES_DIR, 'sk'), segment: 'sk/navody' },
+  sv: { dir: path.join(GUIDES_DIR, 'sv'), segment: 'sv/guider' }
+};
+
+function listJsonSlugs(dir) {
+    if (!fs.existsSync(dir)) {
         return [];
     }
     return fs
-        .readdirSync(GUIDES_DIR)
+        .readdirSync(dir)
         .filter((file) => file.endsWith('.json'))
         .map((file) => file.replace(/\.json$/, ''))
         .sort();
 }
 
-function guideUrlForSlug(slug) {
-    return `${GUIDES_HUB_URL}${slug}/`;
+/** Languages that have at least one guide. English first. */
+const GUIDE_LANGUAGES = Object.keys(GUIDE_LOCALE_CONFIG).filter(
+    (lang) => listJsonSlugs(GUIDE_LOCALE_CONFIG[lang].dir).length > 0
+);
+
+function guideConfig(lang = DEFAULT_LANGUAGE) {
+    const config = GUIDE_LOCALE_CONFIG[lang];
+    if (!config) {
+        throw new Error(`No guide configuration for language "${lang}"`);
+    }
+    return config;
 }
 
-const GUIDE_URLS = getGuideSlugs().map((slug) => ({
-    slug,
-    url: guideUrlForSlug(slug),
-    outputPath: path.join(__dirname, '..', GUIDES_PATH_SEGMENT, slug, 'index.html')
+function getGuideSlugs(lang = DEFAULT_LANGUAGE) {
+    return listJsonSlugs(guideConfig(lang).dir);
+}
+
+function guideHubUrl(lang = DEFAULT_LANGUAGE) {
+    return `${SITE_URL}${guideConfig(lang).segment}/`;
+}
+
+function guideUrlForSlug(slug, lang = DEFAULT_LANGUAGE) {
+    return `${guideHubUrl(lang)}${slug}/`;
+}
+
+function guideOutputPathFor(slug, lang = DEFAULT_LANGUAGE) {
+    return path.join(PROJECT_ROOT_DIR, ...guideConfig(lang).segment.split('/'), slug, 'index.html');
+}
+
+function guideHubOutputPath(lang = DEFAULT_LANGUAGE) {
+    return path.join(PROJECT_ROOT_DIR, ...guideConfig(lang).segment.split('/'), 'index.html');
+}
+
+const guideJsonCache = new Map();
+function readGuideJson(slug, lang = DEFAULT_LANGUAGE) {
+    const key = `${lang}:${slug}`;
+    if (!guideJsonCache.has(key)) {
+        guideJsonCache.set(key, JSON.parse(fs.readFileSync(path.join(guideConfig(lang).dir, `${slug}.json`), 'utf8')));
+    }
+    return guideJsonCache.get(key);
+}
+
+/** English slug a guide belongs to (its own slug for English guides). */
+function guideEnglishSlug(slug, lang = DEFAULT_LANGUAGE) {
+    return lang === DEFAULT_LANGUAGE ? slug : readGuideJson(slug, lang).en_slug || null;
+}
+
+/** BCP 47 code for hreflang/lang: Norwegian pages live under /no/ but are Bokmål (nb). */
+function toHreflang(lang) {
+    return lang === 'no' ? 'nb' : lang;
+}
+
+/** hreflang alternates for one guide: every language that has a version of the same English guide. */
+function getGuideAlternates(slug, lang = DEFAULT_LANGUAGE) {
+    const enSlug = guideEnglishSlug(slug, lang);
+    if (!enSlug) {
+        return [{ lang, hreflang: toHreflang(lang), url: guideUrlForSlug(slug, lang) }];
+    }
+    const list = [];
+    for (const altLang of GUIDE_LANGUAGES) {
+        const match = getGuideSlugs(altLang).find((candidate) => guideEnglishSlug(candidate, altLang) === enSlug);
+        if (match) {
+            list.push({ lang: altLang, hreflang: toHreflang(altLang), url: guideUrlForSlug(match, altLang) });
+        }
+    }
+    return list;
+}
+
+function getGuideHubAlternates() {
+    return GUIDE_LANGUAGES.map((lang) => ({ lang, hreflang: toHreflang(lang), url: guideHubUrl(lang) }));
+}
+
+const GUIDE_URLS = GUIDE_LANGUAGES.flatMap((lang) =>
+    getGuideSlugs(lang).map((slug) => ({
+        slug,
+        lang,
+        url: guideUrlForSlug(slug, lang),
+        outputPath: guideOutputPathFor(slug, lang)
+    }))
+);
+
+const GUIDE_HUBS = GUIDE_LANGUAGES.map((lang) => ({
+    lang,
+    url: guideHubUrl(lang),
+    outputPath: guideHubOutputPath(lang)
 }));
 
 const ADDITIONAL_URLS = [
     `${SITE_URL}llms.txt`,
-    GUIDES_HUB_URL,
+    ...GUIDE_HUBS.map(({ url }) => url),
     ...GUIDE_URLS.map(({ url }) => url)
 ];
 
@@ -173,6 +284,13 @@ module.exports = {
     GUIDES_PATH_SEGMENT,
     GUIDES_HUB_URL,
     GUIDE_URLS,
+    GUIDE_HUBS,
+    GUIDE_LANGUAGES,
+    guideHubUrl,
+    guideOutputPathFor,
+    guideHubOutputPath,
+    getGuideAlternates,
+    getGuideHubAlternates,
     getGuideSlugs,
     guideUrlForSlug,
     INDEX_NOW_KEY,

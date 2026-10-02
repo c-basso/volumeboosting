@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "rakaman skrin suara perlahan",
+  "priority": 3,
+  "keywords": "rakaman skrin suara perlahan, rakaman skrin iPhone tiada suara, cara kuatkan rakaman skrin, rakam skrin dengan suara iPhone, screen record suara perlahan",
+  "title": "Rakaman Skrin iPhone Suara Perlahan? Ini Cara Kuatkannya",
+  "description": "Rakaman skrin iPhone selalunya bersuara perlahan. Ketahui puncanya, cara merakam lebih kuat lain kali dan cara menguatkan rakaman sedia ada hingga 10× terus.",
+  "h1": "Rakaman skrin iPhone suara perlahan: cara menguatkannya",
+  "eyebrow": "Rakaman skrin",
+  "card_title": "Kuatkan rakaman skrin",
+  "card_summary": "iOS merakam audio aplikasi dengan perlahan. Betulkan rakaman dalam seminit dan rakam lebih kuat lain kali.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Rakaman skrin yang sudah disimpan tidak boleh dikuatkan melalui tetapan sistem, tetapi failnya boleh: buka dalam Penguat Volume Bunyi, tetapkan «Pengganda kelantangan» ke ×5–×10, ketik «Boost kelantangan», dengar versi Diproses, kemudian ketik «Muat turun yang diproses». Supaya lebih kuat lain kali: naikkan kelantangan media sebelum mula, putuskan fon telinga Bluetooth, dan untuk naratif tekan lama Rakaman Skrin di Pusat Kawalan lalu hidupkan mikrofon.",
+  "intro": [
+    "Rakaman skrin ialah video paling perlahan yang dibuat oleh hampir semua iPhone. iOS menangkap audio aplikasi pada tahap berhati-hati untuk mengelakkan herotan, dan jika fon telinga bersambung atau kelantangan aplikasi rendah, trek yang dirakam boleh hampir senyap. Jika anda juga bercakap melalui mikrofon, campurannya lebih tidak seimbang.",
+    "Inilah sebab rakaman anda perlahan, apa yang perlu diubah sebelum merakam lagi, dan cara menyelamatkan rakaman yang sudah ada."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Tangkapan skrin «Select the amount of boosting»: peluncur pengganda kelantangan ×10 dan butang boost dalam Penguat Volume Bunyi",
+    "caption": "Rakaman skrin biasanya perlukan penguatan besar; ×5 hingga ×10 adalah biasa."
+  },
+  "sections": [
+    {
+      "heading": "Kenapa rakaman skrin iPhone begitu perlahan",
+      "paragraphs": [
+        "Hampir selalu disebabkan salah satu daripada empat perkara ini:"
+      ],
+      "list": [
+        "Tahap tangkapan: iOS merakam audio dalaman aplikasi pada tahap yang dikurangkan supaya permainan dan video yang kuat tidak terpotong.",
+        "Bluetooth: apabila AirPods atau pembesar suara Bluetooth bersambung, audio yang dirakam selalunya jauh lebih perlahan atau tidak dirakam langsung.",
+        "Kelantangan aplikasi: rakaman menangkap audio pada kelantangan ketika itu. Jika telefon pada 30%, rakaman juga 30%.",
+        "Campuran mikrofon: jika mikrofon dihidupkan, suara anda bercampur dengan audio aplikasi, dan iOS memperlahankan aplikasi untuk memberi ruang."
+      ]
+    },
+    {
+      "heading": "Rakam lebih kuat lain kali",
+      "paragraphs": [
+        "Sebelum merakam: putuskan audio Bluetooth, naikkan kelantangan media ke maksimum dan senyapkan pemberitahuan dengan mod Fokus. Untuk naratif, tekan lama Rakaman Skrin di Pusat Kawalan dan ketik Mikrofon hingga merah; ketikan biasa hanya merakam audio aplikasi. Ujian lima saat terus memberitahu sama ada tahapnya sesuai."
+      ]
+    },
+    {
+      "heading": "Betulkan rakaman yang sudah ada",
+      "paragraphs": [
+        "Tetapan sistem tidak mengubah fail yang sudah disimpan. iMovie boleh menguatkannya hingga sekitar 500%, kadangkala cukup, tetapi memerlukan projek dan eksport semula. Penguat Volume Bunyi mencapai ×10, berfungsi terus dengan fail dari Foto, dan ada togol Asal/Diproses supaya anda boleh dengar tahap yang dikuatkan sebelum menyimpan. Untuk tutorial dengan naratif, hidupkan «Tingkatkan Kualiti Audio» supaya suara bercakap lebih jelas."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: kuatkan rakaman skrin",
+    "intro": "Anda perlukan aplikasi percuma Penguat Volume Bunyi dan rakaman dalam Foto.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Kongsi rakaman ke aplikasi",
+        "text": "Buka rakaman skrin dalam Foto, ketik Kongsi dan pilih Increase Volume. Atau buka aplikasi dan tambah fail dari Foto."
+      },
+      {
+        "name": "Jika ada naratif, Tingkatkan Kualiti Audio",
+        "text": "Jika anda bercakap semasa merakam, hidupkan «Tingkatkan Kualiti Audio» supaya suara kekal jelas selepas dikuatkan."
+      },
+      {
+        "name": "Pilih pengganda",
+        "text": "Tetapkan «Pengganda kelantangan» ke ×5 sebagai permulaan. Rakaman skrin biasanya jauh di bawah tahap normal, jadi ×8–×10 adalah biasa. Ketik «Boost kelantangan»."
+      },
+      {
+        "name": "Dengar versi Diproses",
+        "text": "Beralih ke Diproses dan mainkan bahagian paling kuat. Jika berbunyi kasar, turunkan pengganda."
+      },
+      {
+        "name": "Muat turun yang diproses",
+        "text": "Ketik «Muat turun yang diproses» dan pilih Simpan Video supaya rakaman lebih kuat masuk ke Foto, atau hantar terus ke YouTube, Slack, Mesej atau editor anda."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tip",
+    "items": [
+      "Kuatkan sebelum memotong atau menambah sari kata dalam editor lain; sumber yang lebih kuat memberi lebih ruang kepada semua alat seterusnya.",
+      "Untuk rakaman permainan dengan muzik, penguatan sederhana (×3–×4) mengelakkan muzik terpotong sambil menaikkan tahap keseluruhan.",
+      "Jika rakaman benar-benar senyap, bukan sekadar perlahan, audionya memang tidak pernah dirakam (biasanya aplikasi dibisukan atau video ber-DRM). Tiada penguat boleh menambah bunyi yang tidak dirakam."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kenapa rakaman skrin saya tiada suara?",
+      "answer": "Sama ada aplikasi yang dirakam menjeda audionya apabila mengesan rakaman skrin (aplikasi penstriman dan panggilan video berbuat demikian), video itu ber-DRM, atau kelantangan media pada sifar. Trek senyap tidak boleh dikuatkan; rakam semula dengan audio aplikasi berbunyi dan kelantangan tinggi."
+    },
+    {
+      "question": "Bolehkah hanya suara saya dikuatkan, bukan bunyi permainan?",
+      "answer": "Penguat Volume Bunyi menguatkan seluruh trek campuran. Dengan «Tingkatkan Kualiti Audio», kejelasan suara bercakap diutamakan, jadi naratif biasanya lebih menonjol selepas dikuatkan."
+    },
+    {
+      "question": "Adakah resolusi video berubah apabila suaranya dikuatkan?",
+      "answer": "Tidak. Hanya trek audio diproses; gambar tidak berubah."
+    }
+  ],
+  "related": [
+    "cara-kuatkan-suara-video-iphone",
+    "kenapa-suara-video-perlahan",
+    "kuatkan-suara-tanpa-hilang-kualiti"
+  ]
+}

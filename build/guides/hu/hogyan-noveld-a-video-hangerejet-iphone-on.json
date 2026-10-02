@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "videó hangerejének növelése iPhone-on",
+  "priority": 1,
+  "keywords": "videó hangerő növelése iPhone, videó hangosítása, halk videó, video hangerő növelés, hangerőnövelő videóhoz",
+  "title": "Hogyan növeld a videó hangerejét iPhone-on (akár 10×)",
+  "description": "Halk videó iPhone-on? Mit tud a Fotók és az iMovie, hol állnak meg, és hogyan érsz el 10×-es hangerőt a Hangerőnövelő Médiával, egyetlen csúszkával, gyorsan.",
+  "h1": "Hogyan növeld a videó hangerejét iPhone-on",
+  "eyebrow": "Videó",
+  "card_title": "Videó hangerejének növelése",
+  "card_summary": "A Fotók nem hangosít, az iMovie kb. 500%-nál megáll. Így jutsz el 10×-ig egy csúszkával.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "A videó hangerejének növeléséhez iPhone-on nyisd meg a videót a Hangerőnövelő Média appban (Increase Volume, ingyenes az App Store-ban), húzd a „Hangerőszorzó” csúszkát ×10-ig, koppints a „Hangerő kiemelése” gombra, hasonlítsd össze az Eredeti és a Feldolgozott változatot, majd koppints a „Feldolgozott letöltése” gombra. A hangosabb másolat a Fotókba vagy a Fájlokba kerül, és minden eszközön, minden appban hangosan szól. A Fotók appban nincs mód a hangerő növelésére, az iMovie pedig nagyjából 500%-nál megáll.",
+  "intro": [
+    "Felveszel egy pillanatot, elküldöd egy barátodnak, és ezt a választ kapod: „Semmit sem hallok.” A halk videó az iPhone egyik leggyakoribb gondja, mert a megoldás nem ott van, ahol keresik. A hangerőgombok csak azt szabályozzák, milyen hangosan szól a telefonod, a Fotók szerkesztőjében pedig nincs hangerő-szabályzó.",
+    "Ez az útmutató végigveszi a három valódi lehetőséget iPhone-on, hogy melyik mire képes és mire nem, majd a leggyorsabb módszert: a videó hangjának megszorzását akár 10×-re a Hangerőnövelő Média appal, és egy tartósan hangosabb fájl mentését."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/2.webp",
+    "alt": "„Make video louder” képernyőkép: egy ujj húzza a rózsaszín csúszkát egy videó fölött a Hangerőnövelő Média appban",
+    "caption": "A csúszka a videó előnézete fölött van. Húzd, hallgasd meg, mentsd."
+  },
+  "sections": [
+    {
+      "heading": "Miért nem javítja meg a videót a telefon hangerejének növelése",
+      "paragraphs": [
+        "Az iPhone hangerőgombjai azt változtatják meg, milyen hangosan szól a *te* hangszóród. A videófájlban lévő hangot nem. Amikor megosztod a fájlt, a címzett telefonja az eredeti, halk szinten játssza le. A valódi javításhoz magát a hangsávot kell felemelni, és új fájlt menteni. Pontosan ezt csinálja egy videó-hangerőnövelő."
+      ]
+    },
+    {
+      "heading": "1. lehetőség: a Fotók app (nem hangosít)",
+      "paragraphs": [
+        "Nyisd meg a videót a Fotókban, és koppints a Szerkesztés gombra. Látsz egy hangszóró ikont, amely csak elnémítja a klipet, iPhone 16-on vagy újabbon, térhanggal rögzített videóknál pedig az Audio Mix funkciót, amely a beszéd és a háttérzaj egyensúlyát módosítja. Egyik sem növeli az összhangerőt. Ha az egész felvétel halk, a Fotók nem segít."
+      ]
+    },
+    {
+      "heading": "2. lehetőség: iMovie (ingyenes, kb. 500%-os korlát)",
+      "paragraphs": [
+        "Az iMovie tud hangosítani egy klipet: hozz létre filmprojektet, add hozzá a videót, koppints a klipre, a hangszóró ikonra, és húzd jobbra a csúszkát. Két korlát van. A csúszka nagyjából 500%-nál (5×) megáll, ami a terem másik végéből rögzített felvételhez gyakran kevés. És projektet kell létrehozni, majd újra exportálni a teljes videót, ami hosszabb klipnél perceket vesz igénybe."
+      ],
+      "list": [
+        "Nyisd meg az iMovie-t → Új projekt → Film, és válaszd ki a videót.",
+        "Koppints a klipre az idővonalon, koppints a hangszóró ikonra, és húzd jobbra a hangerő-csúszkát (legfeljebb kb. 500%).",
+        "Koppints a Kész → Megosztás → Videó mentése lehetőségre, és várd meg az exportálás végét."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "3. lehetőség: Hangerőnövelő Média (akár 10×, egy csúszka, egy percen belül)",
+      "paragraphs": [
+        "A Hangerőnövelő Média pontosan erre készült. Bármilyen videót megnyit a Fotókból vagy a Fájlokból, egyetlen „Hangerőszorzó” csúszkát mutat, amely ×10-ig (1000%) megy, mentés előtt összehasonlíthatod az Eredeti és a Feldolgozott változatot, az eredményt pedig a megszokott iOS megosztási lapon mented. Csak hangot tartalmazó fájlokat is megnyit, például MP3-at és hangjegyzeteket, amelyeket az iMovie nem.",
+        "A feldolgozás az iPhone-on történik. Semmi nem töltődik fel, nem kell fiók, és az exportált videón nincs vízjel."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Lépésről lépésre: videó hangosítása a Hangerőnövelő Média appal",
+    "intro": "Egy átlagos klipnél kb. egy perc. Kell hozzá az ingyenes app az App Store-ból és a videó a Fotókban vagy a Fájlokban.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Nyisd meg a videót az appban",
+        "text": "Nyisd meg az appot, és add hozzá a videót a Fotókból vagy a Fájlokból. Gyorsabb: nyisd meg a videót a Fotókban, koppints a Megosztás gombra, és válaszd az Increase Volume lehetőséget; a projekt azonnal létrejön."
+      },
+      {
+        "name": "Ellenőrizd a részleteket",
+        "text": "Az app megmutatja a fájl nevét, méretét és hosszát, hogy biztos legyél benne, ez a jó klip. Ha főleg beszédről van szó, kapcsold be a „Hangminőség javítása” lehetőséget."
+      },
+      {
+        "name": "Válaszd ki a hangosítás mértékét",
+        "text": "Húzd a „Hangerőszorzó” csúszkát. Kezdd ×3–×5-tel, ha a videó csak kicsit halk; menj ×10-ig, ha alig hallható. Koppints a „Hangerő kiemelése ×N-re” gombra."
+      },
+      {
+        "name": "Hasonlítsd össze az Eredetit és a Feldolgozottat",
+        "text": "A gomb alatti kapcsolóval válts az eredeti és a hangosított változat között. Ha a hangos részek recsegnek, menj vissza, és vegyél vissza egy fokozatot."
+      },
+      {
+        "name": "Töltsd le és oszd meg",
+        "text": "Koppints a „Feldolgozott letöltése” gombra. A megosztási lapon válaszd a Videó mentése lehetőséget, hogy a hangosabb másolat a Fotókba kerüljön, a Mentés a Fájlokba lehetőséget, vagy küldd el közvetlenül Üzenetekben, WhatsAppon, AirDroppal vagy TikTokra."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tippek a legjobb eredményhez",
+    "items": [
+      "Hangosíts *mielőtt* feltöltesz TikTokra, Instagramra vagy YouTube-ra. A platformok feltöltéskor kiegyenlítik a hangerőt, de egy túl halkan érkező sávot nem mentenek meg.",
+      "Ha a klipben van egy hangos pillanat (nevetés, ajtócsapódás) és körülötte halk beszéd, használj mérsékelt szorzót (×3–×5), és kapcsold be a „Hangminőség javítása” lehetőséget ahelyett, hogy ×10-re mennél.",
+      "Az eredeti érintetlen marad. Az app mindig új fájlt hoz létre, így több szintet is kipróbálhatsz.",
+      "A letakart mikrofonnal (tok, ujj) rögzített videó halk *és* tompa; a hangosítás a szintet javítja, a tompaságot nem."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Lehet app nélkül növelni egy videó hangerejét iPhone-on?",
+      "answer": "Csak az iMovie-val, amelyet az Apple ingyen kínál, és amely kb. 500%-ig hangosít egy klipet. A Fotók nem tud hangosítani. 5×-nél nagyobb vagy gyorsabb hangosításhoz használd a Hangerőnövelő Média appot."
+    },
+    {
+      "question": "Romlik a videó minősége, ha hangosítom?",
+      "answer": "A kép egyáltalán nem változik. A hang megszorzódik; ha túlhajtasz egy olyan felvételt, amelyben már vannak hangos csúcsok, levágódhat és recseghet. Ezért van az appban Eredeti/Feldolgozott kapcsoló, hogy mentés előtt meghallgasd."
+    },
+    {
+      "question": "Hangos marad a videó, amikor elküldöm?",
+      "answer": "Igen. A hangosítás bekerül a fájl hangsávjába, így minden telefonon, számítógépen és közösségi oldalon az új szinten szól."
+    },
+    {
+      "question": "Működik letöltött videókkal is?",
+      "answer": "Igen, amíg a fájl a Fotókban vagy a Fájlokban van, és nincs rajta másolásvédelem. Az app bármilyen forrásból megnyitja az MP4 és MOV fájlokat."
+    }
+  ],
+  "related": [
+    "hangero-novelese-minosegromlas-nelkul",
+    "halk-kepernyofelvetel-iphone",
+    "imovie-hangero-500-folott"
+  ],
+  "cta": {
+    "title": "Hangosítsd fel a videódat most",
+    "text": "A Hangerőnövelő Média ingyenes az App Store-ban. Oszd meg a videót az appal, húzd ×10-ig, és koppints a „Feldolgozott letöltése” gombra."
+  }
+}

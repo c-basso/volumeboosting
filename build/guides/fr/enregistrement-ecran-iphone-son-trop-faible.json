@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "enregistrement d'écran son trop faible",
+  "priority": 2,
+  "keywords": "enregistrement d'écran iPhone son trop faible, son très bas enregistrement écran, enregistrement écran sans son, augmenter le son d'un enregistrement d'écran, enregistrer l'écran avec le son",
+  "title": "Enregistrement d'écran iPhone au son trop faible : solution",
+  "description": "Enregistrement d'écran iPhone au son trop faible ? Pourquoi, comment enregistrer plus fort la prochaine fois et comment amplifier un fichier existant 10×.",
+  "h1": "Enregistrement d'écran iPhone au son trop faible : comment le rendre plus fort",
+  "eyebrow": "Enregistrement d'écran",
+  "card_title": "Monter le son d'un enregistrement d'écran",
+  "card_summary": "iOS capte le son des apps à bas niveau. Corrigez un enregistrement en une minute et enregistrez plus fort la prochaine fois.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Un enregistrement d'écran déjà fait ne se corrige pas avec les réglages, mais vous pouvez amplifier le fichier : ouvrez-le dans l'Amplificateur de Volume Audio, réglez « Multiplication du volume » entre ×5 et ×10, touchez « Amplifier le volume », écoutez la version Traité et touchez « Télécharger le fichier traité ». Pour enregistrer plus fort la prochaine fois : montez le volume multimédia avant de commencer, déconnectez les écouteurs Bluetooth et, pour commenter, maintenez le bouton Enregistrement de l'écran dans le Centre de contrôle et activez le micro.",
+  "intro": [
+    "Les enregistrements d'écran sont les vidéos les plus faibles que produisent la plupart des iPhone. iOS capte le son des apps à un niveau prudent pour éviter la distorsion, et si des écouteurs étaient connectés ou si le volume de l'app était bas, la piste enregistrée peut être presque muette. Ajoutez un commentaire au micro et le mélange devient encore plus inégal.",
+    "Ci-dessous : pourquoi votre enregistrement est faible, quoi changer avant le suivant et comment sauver celui que vous avez déjà."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/fr/4.webp",
+    "alt": "Capture « Sélectionnez la quantité de l'augmentation » : curseur de multiplication du volume ×10 et bouton d'amplification",
+    "caption": "Les enregistrements d'écran demandent souvent une forte amplification ; ×5 à ×10 est normal."
+  },
+  "sections": [
+    {
+      "heading": "Pourquoi les enregistrements d'écran iPhone sont si faibles",
+      "paragraphs": [
+        "Quatre causes expliquent presque tous les cas :"
+      ],
+      "list": [
+        "Niveau de capture : iOS enregistre le son interne des apps à un niveau réduit pour que les jeux et vidéos forts ne saturent pas.",
+        "Bluetooth : avec des AirPods ou une enceinte Bluetooth connectés, le son capté est souvent beaucoup plus faible, voire absent.",
+        "Volume de l'app : l'enregistrement capte le son au volume réglé. Si le téléphone était à 30 %, l'enregistrement l'est aussi.",
+        "Mixage avec le micro : si le micro est activé, votre voix est mélangée au son de l'app et iOS baisse ce dernier pour lui laisser de la place."
+      ]
+    },
+    {
+      "heading": "Enregistrez plus fort la prochaine fois",
+      "paragraphs": [
+        "Avant de lancer l'enregistrement : déconnectez l'audio Bluetooth, montez le volume multimédia au maximum et coupez les notifications avec un mode de concentration. Pour commenter, maintenez le bouton Enregistrement de l'écran dans le Centre de contrôle et touchez Micro pour qu'il passe au rouge ; un simple toucher n'enregistre que le son de l'app. Un essai de cinq secondes vous dit aussitôt si le niveau est bon."
+      ]
+    },
+    {
+      "heading": "Corrigez l'enregistrement que vous avez déjà",
+      "paragraphs": [
+        "Les réglages système ne modifient pas un fichier déjà enregistré. iMovie peut le monter jusqu'à environ 500 %, parfois suffisant, mais il faut un projet et un nouvel export. L'Amplificateur de Volume Audio va jusqu'à ×10, travaille directement sur le fichier depuis Photos et propose le sélecteur Original/Traité pour entendre le niveau amplifié avant d'enregistrer. Pour les tutoriels commentés, activez « Améliorer la qualité audio » afin que la voix soit plus intelligible."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Étape par étape : amplifier un enregistrement d'écran",
+    "intro": "Il vous faut l'app gratuite et l'enregistrement d'écran dans Photos.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Partagez l'enregistrement vers l'app",
+        "text": "Ouvrez l'enregistrement d'écran dans Photos, touchez Partager et choisissez Increase Volume. Ou ouvrez l'app et ajoutez le fichier depuis Photos."
+      },
+      {
+        "name": "Commentaire ? Améliorer la qualité audio",
+        "text": "Si vous avez parlé pendant l'enregistrement, activez « Améliorer la qualité audio » pour garder une voix claire après l'amplification."
+      },
+      {
+        "name": "Réglez le multiplicateur",
+        "text": "Placez « Multiplication du volume » sur ×5 pour commencer. Les enregistrements d'écran sont souvent bien en dessous du niveau normal, ×8–×10 est courant. Touchez « Amplifier le volume »."
+      },
+      {
+        "name": "Écoutez la version Traité",
+        "text": "Passez sur Traité et lisez le passage le plus fort. S'il sonne dur, baissez le multiplicateur."
+      },
+      {
+        "name": "Télécharger le fichier traité",
+        "text": "Touchez « Télécharger le fichier traité » et choisissez Enregistrer la vidéo pour ajouter l'enregistrement plus fort à Photos, ou envoyez-le directement sur YouTube, Slack, Messages ou dans votre éditeur."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Conseils",
+    "items": [
+      "Amplifiez avant de couper ou d'ajouter des sous-titres dans un autre éditeur ; une source plus forte laisse plus de marge à tous les outils suivants.",
+      "Pour des parties de jeu avec musique, une amplification modérée (×3–×4) évite la saturation de la musique tout en montant le niveau global.",
+      "Si l'enregistrement est totalement muet et pas seulement faible, le son n'a jamais été capté (app en sourdine ou vidéo protégée par DRM). Aucun amplificateur ne peut ajouter un son qui n'a pas été enregistré."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Pourquoi mon enregistrement d'écran iPhone n'a-t-il aucun son ?",
+      "answer": "Soit l'app enregistrée coupe son audio quand elle détecte l'enregistrement d'écran (c'est le cas des apps de streaming et d'appel vidéo), soit la vidéo était protégée par DRM, soit le volume multimédia était à zéro. Une piste muette ne peut pas être amplifiée ; réenregistrez avec le son de l'app actif et le volume haut."
+    },
+    {
+      "question": "Puis-je monter seulement mon commentaire et pas le son du jeu ?",
+      "answer": "L'app amplifie la piste mixée dans son ensemble. Avec « Améliorer la qualité audio », l'intelligibilité de la voix est privilégiée, donc votre commentaire ressort généralement mieux après l'amplification."
+    },
+    {
+      "question": "L'amplification change-t-elle la résolution de la vidéo ?",
+      "answer": "Non. Seule la piste audio est traitée ; l'image passe sans modification."
+    }
+  ],
+  "related": [
+    "comment-augmenter-le-son-d-une-video-sur-iphone",
+    "pourquoi-ma-video-iphone-a-un-son-faible",
+    "augmenter-volume-sans-perte-de-qualite"
+  ]
+}

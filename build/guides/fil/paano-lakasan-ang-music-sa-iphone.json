@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "mahina ang music sa iPhone",
+  "priority": 5,
+  "keywords": "mahina ang music sa iPhone, paano lakasan ang music sa iPhone, Sound Check iPhone, Reduce Loud Audio, mahina ang kanta",
+  "title": "Mahina ang music sa iPhone? Paano ito lakasan (2026)",
+  "description": "Mahina ang kanta sa iPhone? I-check muna ang Sound Check, EQ at headphone limit, tapos lakasan ang sarili mong MP3 at recording ng 10× sa Increase Volume.",
+  "h1": "Paano lakasan ang music sa iPhone",
+  "eyebrow": "Music",
+  "card_title": "Lakasan ang music sa iPhone",
+  "card_summary": "Tatlong iOS setting na tahimik na naglilimita sa music mo, at paano i-boost ang mga kanta na file mo.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Magsimula sa settings: sa Settings › Music, i-off ang Sound Check at subukan ang EQ na Late Night (pinapalakas ang mahihinang parte); sa Settings › Sounds & Haptics › Headphone Safety, i-off ang Reduce Loud Audio. Para ito sa streaming at playback. Sa music files na sa iyo (MP3, M4A, WAV sa Files, demo, recording ng practice), buksan sa Increase Volume, i-boost ng ×1.5–×4, ikumpara ang Orihinal at Na-process, at i-tap ang «Download Processed».",
+  "intro": [
+    "Dalawang magkaibang sagot ang «mahina ang music sa iPhone ko». Kung mahina ang Apple Music o Spotify sa speaker o headphones, malamang nililimitahan ng phone ang sarili nito gamit ang setting na mababago mo sa isang minuto. Kung *isang partikular* na kanta ang mahina — lumang MP3, recording ng practice, demo ng kaibigan — ang file mismo ang kailangang palakasin.",
+    "Parehong sakop ng gabay na ito, sa ganitong pagkakasunod."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Increase Volume na nagpo-process ng music file sa iPhone na may pangalan ng track, size at haba",
+    "caption": "Ang music files na sa iyo ay puwedeng i-boost diretso mula sa Files."
+  },
+  "sections": [
+    {
+      "heading": "Settings na nagpapahina sa lahat ng music (i-check muna)",
+      "list": [
+        "Reduce Loud Audio: Settings › Sounds & Haptics › Headphone Safety. Kapag naka-on, nililimitahan nito ang headphone volume sa level na pinili mo. I-off o itaas ang limit.",
+        "Sound Check: Settings › Music › Sound Check ay pinapantay ang lahat ng kanta sa iisang lakas kaya hinihinaan ang malalakas. I-off kung parang matamlay lahat.",
+        "EQ: Settings › Music › EQ. Kino-compress ng Late Night ang dynamics para lumakas ang mahihinang parte; pinapalakas naman ng Loudness ang bass at treble sa mababang volume. Subukan pareho.",
+        "Volume limit sa Screen Time: maaaring may naka-lock na limit sa Settings › Screen Time › Content & Privacy Restrictions mula sa magulang o lumang setting.",
+        "Bluetooth: may sariling volume ang ilang earbuds at speaker; lakasan din sa mismong device."
+      ]
+    },
+    {
+      "heading": "Anong music files ang puwedeng i-boost",
+      "paragraphs": [
+        "Bino-boost ng Increase Volume ang mga file na talagang meron ka: MP3 at WAV sa Files o iCloud Drive, M4A na practice recording, demos mula sa Mail o AirDrop, export ng GarageBand at audio ng music video. Ipinapakita nito ang artist at title kung nasa file. Encrypted ang downloads ng Apple Music, Spotify o YouTube Music at walang ibang app na makakabukas; para sa mga iyon, gamitin ang settings sa itaas."
+      ]
+    },
+    {
+      "heading": "Gaano kalakas dapat i-boost ang kanta",
+      "paragraphs": [
+        "Malapit na sa full level ang naka-release na music, kaya ×1.5–×2 ang karaniwang limit bago mag-clip ang chorus. Ang home recordings, demos at lumang rips ay madalas may 6–12 dB na espasyo at kaya ang ×2–×4. Gamitin ang Orihinal/Na-process sa pinakamalakas na chorus para magdesisyon."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: lakasan ang music file",
+    "intro": "Para sa kanta sa Files, GarageBand export o recording.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Idagdag ang kanta",
+        "text": "Buksan ang Increase Volume at idagdag ang file mula sa Files, o i-share ito sa app mula sa Files, Mail o GarageBand."
+      },
+      {
+        "name": "Pumili ng katamtamang multiplier",
+        "text": "I-set ang «Volume multiplication» sa ×1.5–×2 para sa released music at ×2–×4 para sa demos at recordings. Subukan ang «Improve Audio Quality» na naka-on at naka-off at piliin ang mas natural. I-tap ang «Boost Volume»."
+      },
+      {
+        "name": "I-check ang chorus",
+        "text": "Magpalit sa Orihinal at Na-process sa pinakamalakas na parte. Kapag may lagutok, bawasan."
+      },
+      {
+        "name": "Download Processed",
+        "text": "I-save sa Files at idagdag ang mas malakas na kanta sa player mo, o i-share."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "I-boost ang buong album o set sa parehong multiplier para pare-pareho ang lakas ng mga kanta.",
+      "Sa music videos, hindi nagagalaw ang picture; audio lang ang pinoproseso.",
+      "Kung ikaw mismo ang nagma-master, i-boost ang mix imbes na ang final master; mas malinis ang limiter sa DAW mo kaysa basta gain."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kaya bang lakasan ng volume booster ang Apple Music o Spotify?",
+      "answer": "Hindi sa pag-edit ng mga kanta, dahil encrypted ang mga iyon. Gamitin ang Sound Check, EQ at Headphone Safety, o ang normalization ng streaming app. Ang Increase Volume ay para sa mga file na sa iyo."
+    },
+    {
+      "question": "Bakit mas mahina ang ilang kanta kaysa sa iba?",
+      "answer": "Magkakaiba ang mastering level. Pinapantay sila ng Sound Check pero hinihinaan ang malalakas; kapag in-off mo, babalik ang malalakas. Ang mahihinang file na sa iyo ay puwedeng i-boost sa Increase Volume para tumugma."
+    },
+    {
+      "question": "Nagbabago ba ang format ng kanta pag bino-boost?",
+      "answer": "Gumagawa ang app ng bagong file sa karaniwang audio format katabi ng orihinal. Hindi nababago ang orihinal."
+    }
+  ],
+  "related": [
+    "paano-lakasan-ang-mp3-sa-iphone",
+    "paano-lakasan-ang-podcast-o-audiobook",
+    "lakasan-ang-tunog-nang-hindi-nasisira-ang-quality"
+  ]
+}

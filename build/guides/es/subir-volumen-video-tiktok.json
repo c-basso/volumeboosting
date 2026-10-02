@@ -1,0 +1,122 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "subir volumen vídeo TikTok",
+  "priority": 8,
+  "keywords": "subir volumen video TikTok, TikTok se escucha bajo, Reels se escucha bajo, subir volumen antes de publicar, Instagram Reels poco volumen",
+  "title": "Cómo subir el volumen de un TikTok antes de publicarlo",
+  "description": "TikTok y Reels comprimen aún más el audio bajo. Sube tu clip 2–5× en iPhone con Aumentar Volumen antes de publicarlo para que tu voz se oiga en cualquier móvil.",
+  "h1": "Cómo subir el volumen de un vídeo de TikTok o Reels antes de publicarlo",
+  "eyebrow": "TikTok y Reels",
+  "card_title": "Subir el volumen de un TikTok o Reel",
+  "card_summary": "Las plataformas igualan al subir, pero no rescatan una pista baja. Súbela 2–5× antes.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Sube el volumen del vídeo antes de publicarlo. Abre el clip en Aumentar Volumen en el iPhone, pon «Multiplicación del volumen» en ×2–×5 (más si está muy bajo), toca «Potenciar volumen», compara Original y Procesado, toca «Descargar procesado» y sube el archivo potenciado a TikTok o Instagram. El control de volumen de TikTok es limitado y el procesado al subir no rescata audio que llega demasiado bajo.",
+  "intro": [
+    "Un TikTok o un Reel que no se oye, se pasa de largo. El problema suele empezar al grabar: el micrófono del móvil necesita que estés a un brazo, el viento y el tráfico se comen la voz baja, y el gameplay de una grabación de pantalla se captura a poco nivel. Luego la plataforma comprime el vídeo y una pista que ya era baja acaba floja y enterrada bajo la música añadida.",
+    "La solución fiable es subir el nivel del propio archivo antes de que llegue a la app. Aquí ves cómo y cuánto aumento usar."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/es/6.webp",
+    "alt": "Captura «Descargue y comparta dondequiera»: hoja de compartir de iOS para el vídeo potenciado",
+    "caption": "Después de potenciar, comparte directamente en TikTok o guarda en Fotos y súbelo desde ahí."
+  },
+  "sections": [
+    {
+      "heading": "Por qué no basta con subir el volumen dentro de TikTok",
+      "paragraphs": [
+        "TikTok e Instagram tienen un control de volumen para el sonido original, pero sirve para equilibrarlo con la música añadida, no para rescatar una grabación baja. Las dos plataformas además normalizan el volumen al subir (TikTok apunta a unos −14 LUFS), lo que iguala el volumen *medio*, pero no puede llevar un susurro a nivel de voz sin subir también el ruido. Si la fuente está baja, el resultado publicado también."
+      ]
+    },
+    {
+      "heading": "Cuánto aumento usar",
+      "paragraphs": [
+        "Para clips en los que hablas a cámara y el sonido solo está algo flojo, ×2–×3 suele ir bien. Para clips grabados de lejos, con viento o desde la pantalla, ×4–×6. Deja ×8–×10 para grabaciones que casi no se oyen. Pasarse con un clip que ya tiene momentos fuertes hace que se saturen, y la compresión de la plataforma exagera aún más la aspereza."
+      ],
+      "table": {
+        "head": [
+          "Tu clip",
+          "Multiplicador recomendado"
+        ],
+        "rows": [
+          [
+            "Hablas a cámara, móvil en la mano",
+            "×2 – ×3"
+          ],
+          [
+            "Grabado desde el otro lado de la sala o en exterior",
+            "×4 – ×6"
+          ],
+          [
+            "Grabación de pantalla de partida o tutorial",
+            "×5 – ×10"
+          ],
+          [
+            "Videoclip con la música bien y la voz baja",
+            "×2 con Mejorar calidad de audio"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Por qué un amplificador dedicado gana aquí a CapCut o iMovie",
+      "paragraphs": [
+        "Los editores también suben el volumen, pero iMovie se queda en un 500 % y los dos piden proyecto, línea de tiempo y nueva exportación. Aumentar Volumen abre el clip directamente desde Fotos, te da un deslizador hasta ×10, la comparación Original/Procesado y una hoja de compartir que va directa a TikTok, Instagram o de vuelta a Fotos. Es un paso de un minuto antes de tu edición habitual."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Paso a paso: potenciar un clip para TikTok o Reels",
+    "intro": "Hazlo con el clip terminado, antes de publicar.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Envía el clip a Aumentar Volumen",
+        "text": "En Fotos abre el vídeo, toca Compartir y elige Increase Volume. El proyecto se abre con los datos del archivo."
+      },
+      {
+        "name": "Con voz, Mejorar calidad de audio",
+        "text": "Si tu voz es lo importante del clip, activa el interruptor antes de potenciar."
+      },
+      {
+        "name": "Elige el multiplicador",
+        "text": "Empieza en ×3, toca «Potenciar volumen» y alterna Original y Procesado en la parte más fuerte. Ajusta hasta que suene claramente alto sin aspereza."
+      },
+      {
+        "name": "Descargar procesado",
+        "text": "Toca «Descargar procesado» y después Guardar vídeo (el clip potenciado queda junto al original en Fotos), o compártelo directamente en TikTok o Instagram."
+      },
+      {
+        "name": "Publica y revisa el sonido",
+        "text": "En TikTok, sube el clip potenciado. Si añades un sonido, baja la música añadida en lugar de volver a subir tu voz."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consejos para clips más altos y limpios",
+    "items": [
+      "Graba a menos de 30 cm del móvil siempre que puedas; la distancia es la causa número uno de voz baja.",
+      "Publica primero una prueba privada: sube el clip potenciado como privado, escúchalo por el altavoz del móvil y ajusta.",
+      "Guarda el original. La app siempre crea un archivo nuevo, así que puedes volver a potenciar a otro nivel."
+    ]
+  },
+  "faq": [
+    {
+      "question": "¿Puedo subir el volumen de un TikTok ya publicado?",
+      "answer": "No. Una vez subido, el audio queda procesado y fijo. Busca el clip original, poténcialo con Aumentar Volumen y vuelve a publicarlo."
+    },
+    {
+      "question": "¿Sirve también para Instagram Reels y YouTube Shorts?",
+      "answer": "Sí. El aumento queda escrito en el archivo de vídeo, así que vale en cualquier sitio donde lo subas: Reels, Shorts, Snapchat, estados de WhatsApp."
+    },
+    {
+      "question": "¿El clip potenciado pierde calidad o lo marcan?",
+      "answer": "No. La imagen no se toca y el audio es una pista normal, solo más alta. Las plataformas recodifican igualmente todo lo que subes."
+    }
+  ],
+  "related": [
+    "como-subir-el-volumen-de-un-video-en-iphone",
+    "subir-volumen-sin-perder-calidad",
+    "aumentar-volumen-video-desde-fotos"
+  ]
+}

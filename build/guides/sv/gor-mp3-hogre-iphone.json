@@ -1,0 +1,121 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "göra MP3 högre iPhone",
+  "priority": 6,
+  "keywords": "göra MP3 högre iPhone, höja volymen på MP3, förstärka ljudfil iPhone, MP3 för låg, göra ljudfil högre utan dator",
+  "title": "Gör en MP3 högre på iPhone utan dator (upp till 10×)",
+  "description": "Gör MP3, M4A eller WAV högre direkt på iPhone utan dator: importera från Filer, välj multiplikation, lyssna på Original/Bearbetad och spara en högre kopia.",
+  "h1": "Så gör du en MP3 högre på iPhone",
+  "eyebrow": "MP3",
+  "card_title": "Gör MP3 högre",
+  "card_summary": "Ingen Audacity, ingen dator. Importera från Filer, dra reglaget och spara en högre MP3-kopia.",
+  "quick_answer": "För att göra en MP3 högre på iPhone öppnar du Volymförstärkare, lägger till filen från Filer, drar «Volymmultiplikation» (×2–×10), trycker på «Boosta volymen», jämför Original och Bearbetad och trycker på «Hämta bearbetad» → Spara i Filer. Allt sker på telefonen, utan dator och utan uppladdning.",
+  "intro": [
+    "Det klassiska sättet att förstärka en MP3 är Audacity på en dator. På iPhone finns ingen inbyggd funktion: Filer kan spela upp men inte ändra volymen, och iMovie öppnar inte rena ljudfiler.",
+    "Volymförstärkare fyller den luckan: ett reglage, förhandslyssning och en ny fil i Filer."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Volymförstärkare bearbetar en MP3-fil och visar filnamn, storlek och längd",
+    "caption": "MP3-filen importerad från Filer, redo att förstärkas."
+  },
+  "sections": [
+    {
+      "heading": "Varför iPhone inte kan göra en MP3 högre på egen hand",
+      "paragraphs": [
+        "Filer och Musik spelar upp ljud men redigerar det inte. Röstmemon redigerar bara egna inspelningar. iMovie arbetar med video. För att ändra nivån i en MP3 behöver du en ljudredigerare eller en volymförstärkare."
+      ]
+    },
+    {
+      "heading": "Vilka filer fungerar",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "Format",
+          "Stöds",
+          "Anmärkning"
+        ],
+        "rows": [
+          [
+            "MP3",
+            "Ja",
+            "Vanligaste formatet för nedladdningar och poddar"
+          ],
+          [
+            "M4A / AAC",
+            "Ja",
+            "Röstmemon och iTunes-köp utan DRM"
+          ],
+          [
+            "WAV",
+            "Ja",
+            "Okomprimerat, mycket marginal"
+          ],
+          [
+            "Apple Music / Spotify",
+            "Nej",
+            "DRM-skyddad strömning"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Hur mycket ska du förstärka?",
+      "paragraphs": [
+        "En tyst podd eller inspelning tål ofta ×4–×10. En färdigmastrad låt har lite marginal; börja med ×2. Lyssna på de starkaste partierna med Original/Bearbetad innan du sparar."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Steg för steg: förstärk en MP3",
+    "intro": "Ungefär en minut.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Lägg till filen",
+        "text": "Öppna appen och välj MP3-filen i Filer, eller dela den till Increase Volume från en annan app."
+      },
+      {
+        "name": "Välj multiplikation",
+        "text": "Dra «Volymmultiplikation». Slå på «Förbättra ljudkvalitet» för tal."
+      },
+      {
+        "name": "Boosta",
+        "text": "Tryck på «Boosta volymen till ×N» och växla mellan Original och Bearbetad."
+      },
+      {
+        "name": "Spara i Filer",
+        "text": "Tryck på «Hämta bearbetad» och välj Spara i Filer."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Ge den nya filen ett tydligt namn i Filer, t.ex. «lat_hogre».",
+      "Projektlistan i appen låter dig gå tillbaka och prova en annan nivå.",
+      "Stora WAV-filer tar lite längre tid, men bearbetas fortfarande på enheten."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan jag göra en MP3 högre utan dator?",
+      "answer": "Ja. Volymförstärkare gör det direkt på iPhone och sparar den högre kopian i Filer."
+    },
+    {
+      "question": "Laddas filen upp till en server?",
+      "answer": "Nej. Bearbetningen sker på iPhone, utan konto och utan uppladdning."
+    },
+    {
+      "question": "Kan jag göra en låt från Apple Music högre?",
+      "answer": "Nej, strömmad musik är DRM-skyddad. Appen fungerar med filer du äger."
+    }
+  ],
+  "related": [
+    "musiken-for-lag-iphone",
+    "podd-ljudbok-for-lag-iphone",
+    "hogre-utan-kvalitetsforlust"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

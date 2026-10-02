@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "WhatsApp glasovna poruka pretiha",
+  "priority": 2,
+  "keywords": "WhatsApp glasovna poruka pretiha, pojačati glasovnu poruku WhatsApp, glasovne poruke se ne čuju iPhone, tiha glasovna poruka, Telegram glasovna poruka tiha",
+  "title": "WhatsApp glasovna poruka pretiha na iPhoneu? Rješenje",
+  "description": "Glasovne poruke na WhatsAppu pretihe na iPhoneu? Prvo isključi prebacivanje na slušalicu za pozive, zatim izvezi poruku i pojačaj je do 10× u nekoliko dodira.",
+  "h1": "Pretiha WhatsApp glasovna poruka na iPhoneu: kako je pojačati",
+  "eyebrow": "WhatsApp i Telegram",
+  "card_title": "Pojačaj WhatsApp glasovnu poruku",
+  "card_summary": "Dva različita problema: slušalica za pozive ili stvarno tiha snimka. Riješi oba.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Ako su sve glasovne poruke na WhatsAppu tihe, iPhone ih najvjerojatnije reproducira kroz slušalicu za pozive jer si prekrio senzor blizine; odmakni telefon od lica i pritisni pojačavanje glasnoće dok poruka svira. Ako je tiha samo jedna poruka, izvezi je (dugi pritisak → Proslijedi → Podijeli → Spremi u Datoteke ili izravno u Increase Volume), pojačaj ×5–×10 s uključenim „Poboljšaj kvalitetu zvuka” i spremi ili proslijedi glasniju kopiju.",
+  "intro": [
+    "Postoje dva potpuno različita razloga zašto je WhatsApp glasovna poruka tiha i svaki ima svoje rješenje. Prvi: iPhone se tiho prebacuje na slušalicu za pozive. Drugi: pošiljatelj je snimao daleko od mikrofona ili u buci, pa je snimka stvarno tiha. Prvo se provjeri za deset sekundi, drugo se popravi za minutu.",
+    "Isti koraci vrijede za Telegram, Signal i zvučne poruke u iMessageu."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Snimka zaslona „Download and share anywhere”: iOS list za dijeljenje sa Spremi u Datoteke za pojačanu snimku",
+    "caption": "Pojačane glasovne poruke spremaju se u Datoteke ili se izravno prosljeđuju u razgovor."
+  },
+  "sections": [
+    {
+      "heading": "Rješenje 1: reproducira se kroz slušalicu za pozive",
+      "paragraphs": [
+        "WhatsApp prebacuje reprodukciju na slušalicu za pozive (mali zvučnik za razgovore) kad je senzor blizine kraj prednje kamere prekriven. Dovoljan je prst, rub maske ili približavanje telefona licu i poruka odjednom zvuči kao šapat. Otkrij senzor, odmakni telefon i pritisni pojačavanje glasnoće *dok poruka svira*; iOS ima zasebnu glasnoću za slušalicu i ona može biti na minimumu.",
+        "Provjeri i da Bluetooth ne šalje zvuk u slušalice u džepu te da u Postavkama › Zvukovi i dodir › Sigurnost slušalica nije uključeno Smanji glasan zvuk."
+      ]
+    },
+    {
+      "heading": "Rješenje 2: sama poruka je tiha",
+      "paragraphs": [
+        "Ako se ostale poruke čuju dobro, a ova ne, snimka je tiha. WhatsApp nema kontrolu glasnoće za primljene poruke, a tipke za glasnoću ne idu preko 100 %. Treba pojačati samu datoteku. WhatsApp ti omogućuje izvoz glasovne poruke kao datoteke, a Pojačaj Glasnoću Zvuka je množi do ×10 i daje novu kopiju za spremanje ili prosljeđivanje."
+      ]
+    },
+    {
+      "heading": "Kako izvesti glasovnu poruku iz WhatsAppa, Telegrama ili Poruka",
+      "list": [
+        "WhatsApp: dugi pritisak na poruku → Proslijedi → ikona Podijeli (dolje) → odaberi Increase Volume ili Spremi u Datoteke.",
+        "Telegram: dugi pritisak na poruku → Proslijedi ili Podijeli → Spremi u Datoteke ili podijeli s Increase Volume.",
+        "Zvučne poruke u iMessageu: dugi pritisak → Spremi (sprema se u Diktafon) i podijeli odande.",
+        "Signal: dugi pritisak → Spremi → Spremi u Datoteke."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Korak po korak: pojačaj WhatsApp glasovnu poruku",
+    "intro": "Jedna minuta uz besplatnu aplikaciju Pojačaj Glasnoću Zvuka.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Izvezi poruku",
+        "text": "U WhatsAppu dugo pritisni poruku → Proslijedi → ikona Podijeli → Increase Volume. (Ili Spremi u Datoteke pa je dodaj iz aplikacije.)"
+      },
+      {
+        "name": "Uključi Poboljšaj kvalitetu zvuka",
+        "text": "Glasovne poruke su govor; prekidač pomaže da riječi ostanu jasne nakon pojačanja."
+      },
+      {
+        "name": "Pojačaj",
+        "text": "Postavi „Množitelj glasnoće” na ×5 za početak, ×8–×10 ako je jako tiha, i dodirni „Pojačaj glasnoću”."
+      },
+      {
+        "name": "Usporedi",
+        "text": "Prebacuj Izvorno/Obrađeno. Ako najglasnija riječ krči, smanji množitelj."
+      },
+      {
+        "name": "Spremi ili proslijedi",
+        "text": "Dodirni „Preuzmi obrađeno”. Spremi u Datoteke ili podijeli glasniju kopiju natrag u WhatsApp da je cijela grupa čuje."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Savjeti",
+    "items": [
+      "Zamoli one koji često šalju glasovne poruke da govore bliže telefonu; ništa ne pobjeđuje popravak na izvoru.",
+      "Ako spremaš puno poruka, skupi pojačane kopije u jednu mapu u Datotekama; mapu WhatsAppa ne možeš pregledavati.",
+      "S tvojim porukama radi isto: snimi, podijeli s aplikacijom, pojačaj i pošalji pojačanu datoteku kao dokument ili zvuk."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Zašto su poruke tihe kad prislonim telefon na uho?",
+      "answer": "To je namjerno: kad je senzor blizine prekriven, WhatsApp zbog privatnosti reproducira kroz slušalicu za pozive. Pojačaj glasnoću slušalice tipkama dok poruka svira ili odmakni telefon za zvučnik."
+    },
+    {
+      "question": "Mogu li pojačati poruku unutar WhatsAppa?",
+      "answer": "Ne. WhatsApp ima brzine reprodukcije (1×, 1,5×, 2×), ali ne i pojačanje glasnoće. Izvezi poruku i pojačaj je uz Pojačaj Glasnoću Zvuka."
+    },
+    {
+      "question": "Radi li to i za Telegram i Messenger?",
+      "answer": "Radi sa svakom aplikacijom koja ti dopušta dijeljenje ili spremanje audio datoteke. Pojačane datoteke možeš proslijediti kroz istu aplikaciju."
+    }
+  ],
+  "related": [
+    "pojacati-glasnocu-diktafon-snimke",
+    "pojacati-glasnocu-mp3-iphone",
+    "zasto-je-video-na-iphoneu-tih"
+  ]
+}

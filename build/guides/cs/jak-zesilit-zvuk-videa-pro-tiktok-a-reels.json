@@ -1,0 +1,122 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "TikTok video potichu",
+  "priority": 7,
+  "keywords": "tiktok video potichu, zesílit zvuk na tiktoku, reels potichu, zesílit video před nahráním, instagram reels tichý zvuk",
+  "title": "TikTok video je potichu? Jak ho zesílit před zveřejněním",
+  "description": "TikTok i Reels tichý zvuk ještě víc utlumí. Zesil klip na iPhonu 2–5× ještě před nahráním v Increase Volume, aby tvůj hlas byl slyšet na každém telefonu.",
+  "h1": "Jak zesílit zvuk videa pro TikTok a Reels před zveřejněním",
+  "eyebrow": "TikTok a Reels",
+  "card_title": "Zesílit video pro TikTok a Reels",
+  "card_summary": "Platformy při nahrání hlasitost vyrovnávají, ale tichou stopu nezachrání. Zesil ji předem 2–5×.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Zesil video ještě před nahráním. Otevři klip v Increase Volume na iPhonu, nastav „Násobek hlasitosti“ na ×2–×5 (u hodně tichých nahrávek víc), klepni na „Zesílit hlasitost“, porovnej Původní a Zpracované, pak „Stáhnout zpracované“ a na TikTok nebo Instagram nahraj zesílený soubor. Jezdec hlasitosti přímo v TikToku je omezený a zpracování při nahrání nedokáže zachránit zvuk, který přijde příliš tichý.",
+  "intro": [
+    "TikTok nebo Reel, který nikdo neslyší, lidé přescrollují. Problém obvykle začíná už při natáčení: mikrofon telefonu potřebuje, abys byl na délku paže, vítr a provoz tichou řeč spolknou a záznam hry z obrazovky se nahrává potichu. Pak platforma nahrané video zkomprimuje a stopa, která byla tichá už předtím, skončí slabá a schovaná pod přidanou hudbou.",
+    "Spolehlivé řešení je zesílit samotný soubor ještě předtím, než se do aplikace vůbec dostane. Tady je, jak na to a kolik zesílení použít."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Panel sdílení iOS v Increase Volume s volbou Uložit do Souborů a možnostmi sdílení zesíleného videa",
+    "caption": "Po zesílení sdílej rovnou na TikTok, nebo ulož do Fotek a nahraj odtud."
+  },
+  "sections": [
+    {
+      "heading": "Proč nestačí zesílit zvuk přímo v TikToku",
+      "paragraphs": [
+        "TikTok i Instagram nabízejí jezdec hlasitosti původního zvuku, ale ten slouží k vyvážení s přidanou hudbou, ne k záchraně tiché nahrávky. Obě platformy navíc při nahrání vyrovnávají hlasitost (TikTok cílí zhruba na −14 LUFS), což srovná *průměrnou* hlasitost, ale šepot nezvedne na úroveň řeči, aniž by zesílil i šum. Když je zdroj tichý, je tichý i zveřejněný výsledek."
+      ]
+    },
+    {
+      "heading": "Kolik zesílení použít",
+      "paragraphs": [
+        "U klipů, kde mluvíš do kamery a je to jen trochu potichu, obvykle stačí ×2–×3. U klipů natočených z dálky, ve větru nebo jako záznam obrazovky ×4–×6. Násobek ×8–×10 si nech na nahrávky, které skoro neslyšíš. Přehnané zesílení klipu, který už má hlasité momenty, způsobí, že tyto momenty začnou praskat, a komprese platformy to ještě zdůrazní."
+      ],
+      "table": {
+        "head": [
+          "Tvůj klip",
+          "Doporučený násobek"
+        ],
+        "rows": [
+          [
+            "Mluvíš do kamery, telefon v ruce",
+            "×2 – ×3"
+          ],
+          [
+            "Natočeno přes místnost nebo venku",
+            "×4 – ×6"
+          ],
+          [
+            "Záznam obrazovky hry nebo návodu",
+            "×5 – ×10"
+          ],
+          [
+            "Hudební video, kde je hudba v pořádku, ale hlas potichu",
+            "×2 se zapnutým Vylepšit kvalitu zvuku"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Proč tady vyhraje specializovaný zesilovač nad CapCutem nebo iMovie",
+      "paragraphs": [
+        "Hlasitost umí zvednout i editory, ale iMovie skončí zhruba na 500 % a oba potřebují projekt, časovou osu a nový export. Increase Volume otevře klip rovnou z Fotek, dá ti jeden jezdec až do ×10, porovnání Původní/Zpracované a panel sdílení, který vede přímo na TikTok, Instagram nebo zpátky do Fotek. Je to minutový krok, který zařadíš před svůj běžný střih."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Postup: zesílení klipu pro TikTok nebo Reels",
+    "intro": "Udělej to s hotovým klipem, ještě před nahráním.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Pošli klip do Increase Volume",
+        "text": "Ve Fotkách otevři video, klepni na Sdílet a vyber Increase Volume. Projekt se otevře s údaji o souboru."
+      },
+      {
+        "name": "U řeči zapni Vylepšit kvalitu zvuku",
+        "text": "Pokud je v klipu hlavní tvůj hlas, zapni přepínač ještě před zesílením."
+      },
+      {
+        "name": "Zvol násobek",
+        "text": "Začni na ×3, klepni na „Zesílit hlasitost“ a na nejhlasitějším místě přepínej Původní a Zpracované. Uprav, dokud není klip jasně hlasitý bez ostrosti."
+      },
+      {
+        "name": "Stáhni zpracované",
+        "text": "Klepni na „Stáhnout zpracované“ a pak Uložit video (zesílený klip bude ve Fotkách vedle originálu), nebo sdílej rovnou na TikTok či Instagram."
+      },
+      {
+        "name": "Nahraj a zkontroluj zvuk",
+        "text": "Na TikTok nahraj zesílený klip. Pokud přidáváš zvuk, raději ztlum přidanou hudbu, než abys znovu zesiloval hlas."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy pro hlasitější a čistší klipy",
+    "items": [
+      "Kdykoli to jde, natáčej do 30 cm od telefonu; vzdálenost je příčina tiché řeči číslo jedna.",
+      "Nejdřív zveřejni soukromý test: nahraj zesílený klip jako soukromý, pusť ho z reproduktoru telefonu a případně uprav.",
+      "Originál si nech. Increase Volume vždy vytvoří nový soubor, takže můžeš zesílit znovu s jiným násobkem."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Jde TikTok zesílit až po zveřejnění?",
+      "answer": "Ne. Po nahrání je zvuk zpracovaný a pevný. Stáhni nebo najdi původní klip, zesil ho v Increase Volume a nahraj znovu."
+    },
+    {
+      "question": "Funguje to i pro Instagram Reels a YouTube Shorts?",
+      "answer": "Ano. Zesílení je zapsané přímo v souboru videa, takže platí všude, kam soubor nahraješ: Reels, Shorts, Snapchat i status na WhatsAppu."
+    },
+    {
+      "question": "Nebude zesílený klip označený nebo horší kvality?",
+      "answer": "Ne. Obraz zůstává netknutý a zvuk je běžná, jen hlasitější stopa. Platformy každé nahrané video stejně znovu překódují."
+    }
+  ],
+  "related": [
+    "jak-zesilit-zvuk-videa-na-iphonu",
+    "jak-zesilit-zvuk-videa-bez-ztraty-kvality",
+    "jak-zesilit-video-primo-z-aplikace-fotky"
+  ]
+}

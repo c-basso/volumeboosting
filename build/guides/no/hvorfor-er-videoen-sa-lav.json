@@ -1,0 +1,105 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "hvorfor er videoen så lav iPhone",
+  "priority": 7,
+  "keywords": "hvorfor er videoen så lav iPhone, lav lyd på video iPhone, iPhone video ingen lyd, lav lyd iPhone høyttaler, video for lav lyd",
+  "title": "Hvorfor er videoen min så lav på iPhone? 7 årsaker",
+  "description": "Lav lyd på iPhone-video? Finn ut om det er avspillingen (lydløs, Bluetooth, hodetelefonsikkerhet) eller selve opptaket, og hvordan du løser hvert tilfelle.",
+  "h1": "Hvorfor er videoen min så lav på iPhone?",
+  "eyebrow": "Feilsøking",
+  "card_title": "Hvorfor er videoen så lav?",
+  "card_summary": "Sju årsaker til lav videolyd: fire ved avspilling, tre i selve opptaket, og løsningen for hver.",
+  "quick_answer": "Er alle videoer lave, ligger feilen i avspillingen: sjekk at lyden ikke er dempet i videoen, at Bluetooth ikke er tilkoblet, Hodetelefonsikkerhet under Lyder og haptikk og at høyttaleren er ren. Er bare én video lav, ligger det i opptaket: personen var langt unna, mikrofonen var tildekket eller lyden ble tatt opp lavt. Da gjør du filen høyere med Volumforsterker, opptil 10×.",
+  "intro": [
+    "«Hvorfor er videoen så lav?» har to svar, og det er nyttig å vite hvilket det er før du endrer noe. Test: spill en annen video. Er den også lav, er det telefonen. Er den normal, er det filen.",
+    "Her er de sju vanligste årsakene, delt i de to gruppene."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/1.webp",
+    "alt": "Markedsføringsbilde for Volumforsterker: volumforsterker og lydforsterker, opptil ti ganger høyere",
+    "caption": "Når opptaket selv er lavt, gjør appen filen opptil 10× høyere."
+  },
+  "sections": [
+    {
+      "id": "avspilling",
+      "heading": "Årsaker ved avspilling (alle videoer lave)",
+      "paragraphs": [],
+      "list": [
+        "Lyden er dempet i videoen: trykk på høyttalersymbolet i avspilleren i Bilder.",
+        "Lyden går til Bluetooth: AirPods eller en bilhøyttaler kan være tilkoblet; sjekk lydutgangen i Kontrollsenter.",
+        "Hodetelefonsikkerhet: Innstillinger › Lyder og haptikk › Hodetelefonsikkerhet › Reduser høye lyder begrenser nivået.",
+        "Tilstoppet høyttaler: støv eller lo i høyttalergitteret demper lyden; rengjør med en myk, tørr børste."
+      ],
+      "ordered": true,
+      "note": "Ingen app kan gå forbi høyttalerens fysiske grense eller endre volumet for hele systemet."
+    },
+    {
+      "heading": "Årsaker i opptaket (én video lav)",
+      "paragraphs": [],
+      "list": [
+        "Avstand: den som snakket var langt fra mikrofonen.",
+        "Tildekket mikrofon: et deksel, en finger eller en lomme dempet lyden.",
+        "Skjermopptak eller nedlasting: iOS eller kildeappen leverte lyden på lavt nivå."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Løsningen når opptaket er lavt",
+      "paragraphs": [
+        "Du kan ikke skru opp noe som ikke ble tatt opp høyt nok, men du kan øke nivået i filen. Volumforsterker multipliserer lydsporet opptil 10× og lagrer en ny video. Den spilles høyt av overalt, også hos dem du sender den til."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Gjør en lav video høyere",
+    "intro": "Når testen viser at filen er problemet.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Del videoen til appen",
+        "text": "Åpne videoen i Bilder → Del → Increase Volume."
+      },
+      {
+        "name": "Forsterk",
+        "text": "Dra «Volummultiplikasjon» (×3–×10) og trykk «Boost lydstyrken til ×N»."
+      },
+      {
+        "name": "Sammenlign",
+        "text": "Lytt med Original/Behandlet; senk ved skurring."
+      },
+      {
+        "name": "Lagre",
+        "text": "Trykk «Last ned behandlet» → Arkiver video."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Unngå lave videoer neste gang",
+    "items": [
+      "Hold fingrene unna mikrofonhullene nederst og ved kameraet.",
+      "Kom nærmere den som snakker; avstand halverer nivået raskt.",
+      "Ta et prøveopptak på fem sekunder før det viktige øyeblikket."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Hvorfor har videoen min ingen lyd i det hele tatt?",
+      "answer": "Sjekk at lyden ikke er dempet i redigeringen i Bilder, og at ingen Bluetooth-enhet tar lyden. Har opptaket ingen lydspor, kan den ikke forsterkes."
+    },
+    {
+      "question": "Gjør appen iPhone-høyttaleren høyere?",
+      "answer": "Nei. Den gjør filen høyere. Høyttalerens maksimum er fysisk og kan ikke overskrides av noen app."
+    },
+    {
+      "question": "Hvorfor er videoer fra andre lave?",
+      "answer": "De ble tatt opp eller eksportert lavt. Forsterk filen, så spilles den høyt av."
+    }
+  ],
+  "related": [
+    "gjor-video-hoyere-iphone",
+    "skjermopptak-lyd-for-lav-iphone",
+    "gjor-video-hoyere-fra-bilder"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

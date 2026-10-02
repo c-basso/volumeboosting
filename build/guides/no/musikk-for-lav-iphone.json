@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "musikk for lav iPhone",
+  "priority": 5,
+  "keywords": "musikk for lav iPhone, gjøre musikk høyere iPhone, øke volumet på iPhone musikk, iPhone lav lyd musikk, volumforsterker musikk",
+  "title": "Musikken for lav på iPhone? 6 løsninger og en 10× boost",
+  "description": "Musikk for lav på iPhone? Sjekk hodetelefonsikkerhet, EQ, lydsjekk og balanse, og gjør MP3- og M4A-filer du eier opptil 10× høyere med Volumforsterker.",
+  "h1": "Musikk for lav på iPhone: innstillinger og løsning",
+  "eyebrow": "Musikk",
+  "card_title": "Musikk for lav",
+  "card_summary": "Seks innstillinger som demper musikk, og hvordan du gjør egne lydfiler opptil 10× høyere.",
+  "quick_answer": "Er all musikk lav på iPhone, sjekk Innstillinger › Lyder og haptikk › Hodetelefonsikkerhet (Reduser høye lyder), EQ-innstillingen i Musikk, lydsjekk og balansen under Tilgjengelighet › Lyd og visuelt. Er én bestemt fil lav (en MP3, et opptak, en demo), åpne den i Volumforsterker, forsterk ×2–×5 og lagre den høyere kopien i Filer. Strømmet musikk fra Apple Music eller Spotify er kopibeskyttet og kan ikke forsterkes som fil.",
+  "intro": [
+    "Det er to ulike problemer bak «musikken er for lav»: en innstilling som begrenser all lyd, eller en fil som er mikset eller tatt opp lavt. Det første fikser du i Innstillinger; det andre krever at selve filen blir høyere.",
+    "Her er begge, i rekkefølgen du bør sjekke dem."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Volumforsterker behandler en MP3-fil og viser filnavn, størrelse og varighet",
+    "caption": "Egne lydfiler (MP3, M4A, WAV) behandles på enheten."
+  },
+  "sections": [
+    {
+      "heading": "Seks innstillinger som gjør musikken lavere",
+      "paragraphs": [],
+      "list": [
+        "Hodetelefonsikkerhet: Innstillinger › Lyder og haptikk › Hodetelefonsikkerhet › Reduser høye lyder kan begrense nivået i hodetelefoner.",
+        "EQ: Innstillinger › Musikk › EQ. «Sen kveld» løfter lave partier og kan gjøre at musikken føles høyere i støyende omgivelser.",
+        "Lydsjekk: Innstillinger › Musikk. Slått på jevner den ut nivåene mellom sanger, noe som kan dempe høye spor.",
+        "Balanse: Innstillinger › Tilgjengelighet › Lyd og visuelt › Balanse bør stå i midten.",
+        "Bluetooth: noen hodetelefoner har eget volum; sjekk appen til hodetelefonene.",
+        "Smuss i høyttaler- eller lydutgangen demper lyden; rengjør forsiktig."
+      ],
+      "ordered": true,
+      "note": "Menynavnene er beskrevet etter iOS 18 og kan variere litt mellom versjoner."
+    },
+    {
+      "heading": "Når én fil er lav: forsterk filen",
+      "paragraphs": [
+        "Demoer, liveopptak, gamle MP3-filer og nedlastinger kan være mikset lavt. Volumforsterker åpner filen fra Filer, multipliserer nivået og lagrer en ny fil. «Mer bass» gir fylde når du forsterker musikk."
+      ]
+    },
+    {
+      "heading": "Hva som ikke kan forsterkes",
+      "paragraphs": [
+        "Sanger fra Apple Music, Spotify og andre strømmetjenester er DRM-beskyttet og kan ikke åpnes som filer. For dem gjelder innstillingene over. For filer du eier, fungerer forsterkning."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Gjør en lydfil høyere med Volumforsterker",
+    "intro": "Fungerer med MP3, M4A og WAV fra Filer.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Importer fra Filer",
+        "text": "Åpne appen og velg sangen i Filer."
+      },
+      {
+        "name": "Velg nivå",
+        "text": "Musikk er ofte mikset nær toppen; start på ×2–×3 og øk forsiktig."
+      },
+      {
+        "name": "Sammenlign",
+        "text": "Trykk «Boost lydstyrken til ×N» og lytt etter skurring i refrenget med bryteren Original/Behandlet."
+      },
+      {
+        "name": "Lagre",
+        "text": "Trykk «Last ned behandlet» → Arkiver i Filer."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Kommersielt mastret musikk har lite takhøyde; ×2 er ofte nok.",
+      "Liveopptak fra telefon har mye takhøyde og tåler ×5 eller mer.",
+      "Behold originalen; appen lager alltid en ny fil."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Hvorfor er musikken lavere i hodetelefoner enn før?",
+      "answer": "Ofte fordi Reduser høye lyder er slått på under Hodetelefonsikkerhet, eller fordi iPhone har senket nivået etter mye lytting på høyt volum."
+    },
+    {
+      "question": "Kan jeg gjøre Spotify-musikk høyere med appen?",
+      "answer": "Nei. Strømmet musikk er beskyttet og kan ikke åpnes som fil. Bruk innstillingene i Spotify og iOS."
+    },
+    {
+      "question": "Blir sangen forvrengt?",
+      "answer": "Bare hvis toppene presses over taket. Lytt med Original/Behandlet og senk multiplikasjonen ved skurring."
+    }
+  ],
+  "related": [
+    "gjor-mp3-hoyere-iphone",
+    "hoyere-uten-kvalitetstap",
+    "podkast-lydbok-hoyere-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

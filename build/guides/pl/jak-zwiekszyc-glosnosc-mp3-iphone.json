@@ -1,0 +1,121 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "jak zwiększyć głośność MP3 na iPhonie",
+  "priority": 6,
+  "keywords": "jak zwiększyć głośność MP3 na iPhonie, zgłośnić MP3, wzmocnić plik audio iPhone, MP3 za cicho, zgłośnić plik audio bez komputera",
+  "title": "Jak zwiększyć głośność MP3 na iPhonie bez komputera (10×)",
+  "description": "Zgłośnij MP3, M4A lub WAV na iPhonie bez komputera: zaimportuj z Plików, wybierz mnożnik, odsłuchaj Oryginał/Przetworzony i zapisz głośniejszą kopię pliku.",
+  "h1": "Jak zwiększyć głośność MP3 na iPhonie",
+  "eyebrow": "MP3",
+  "card_title": "Głośniejsze MP3",
+  "card_summary": "Bez Audacity, bez komputera. Zaimportuj z Plików, przesuń suwak i zapisz głośniejszą kopię MP3.",
+  "quick_answer": "Aby zwiększyć głośność MP3 na iPhonie, otwórz Volume Boost, dodaj plik z Plików, przesuń „Mnożnik głośności” (×2–×10), stuknij „Wzmocnij głośność”, porównaj Oryginał i Przetworzony, a potem stuknij „Pobierz przetworzony” → Zachowaj w Plikach. Wszystko dzieje się na telefonie, bez komputera i bez wysyłania plików.",
+  "intro": [
+    "Klasyczny sposób na wzmocnienie MP3 to Audacity na komputerze. Na iPhonie nie ma wbudowanej funkcji: Pliki odtwarzają, ale nie zmieniają głośności, a iMovie nie otwiera samych plików audio.",
+    "Volume Boost wypełnia tę lukę: jeden suwak, odsłuch przed zapisem i nowy plik w Plikach."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Volume Boost przetwarza plik MP3, widoczna nazwa, rozmiar i czas trwania",
+    "caption": "Plik MP3 zaimportowany z Plików, gotowy do wzmocnienia."
+  },
+  "sections": [
+    {
+      "heading": "Dlaczego iPhone sam nie zgłośni MP3",
+      "paragraphs": [
+        "Pliki i Muzyka odtwarzają dźwięk, ale go nie edytują. Dyktafon edytuje tylko własne nagrania. iMovie pracuje z wideo. Aby zmienić poziom w MP3, potrzebujesz edytora audio albo wzmacniacza głośności."
+      ]
+    },
+    {
+      "heading": "Jakie pliki działają",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "Format",
+          "Obsługa",
+          "Uwagi"
+        ],
+        "rows": [
+          [
+            "MP3",
+            "Tak",
+            "Najpopularniejszy format pobrań i podcastów"
+          ],
+          [
+            "M4A / AAC",
+            "Tak",
+            "Dyktafon i zakupy iTunes bez DRM"
+          ],
+          [
+            "WAV",
+            "Tak",
+            "Bez kompresji, duży zapas"
+          ],
+          [
+            "Apple Music / Spotify",
+            "Nie",
+            "Streaming zabezpieczony DRM"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "O ile wzmacniać?",
+      "paragraphs": [
+        "Cichy podcast lub nagranie często znosi ×4–×10. Gotowy, zmasterowany utwór ma mało zapasu; zacznij od ×2. Przed zapisem posłuchaj najgłośniejszych fragmentów z Oryginał/Przetworzony."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Krok po kroku: wzmocnij MP3",
+    "intro": "Około minuty.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Dodaj plik",
+        "text": "Otwórz aplikację i wybierz MP3 w Plikach albo udostępnij go do Increase Volume z innej aplikacji."
+      },
+      {
+        "name": "Wybierz mnożnik",
+        "text": "Przesuń „Mnożnik głośności”. Dla mowy włącz „Popraw jakość dźwięku”."
+      },
+      {
+        "name": "Wzmocnij",
+        "text": "Stuknij „Wzmocnij głośność do ×N” i przełączaj Oryginał i Przetworzony."
+      },
+      {
+        "name": "Zachowaj w Plikach",
+        "text": "Stuknij „Pobierz przetworzony” i wybierz Zachowaj w Plikach."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Wskazówki",
+    "items": [
+      "Nadaj nowemu plikowi czytelną nazwę w Plikach, np. „utwór_głośniej”.",
+      "Lista projektów w aplikacji pozwala wrócić i spróbować innego poziomu.",
+      "Duże pliki WAV przetwarzają się dłużej, ale nadal na urządzeniu."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Czy mogę zgłośnić MP3 bez komputera?",
+      "answer": "Tak. Volume Boost robi to bezpośrednio na iPhonie i zapisuje głośniejszą kopię w Plikach."
+    },
+    {
+      "question": "Czy plik jest wysyłany na serwer?",
+      "answer": "Nie. Przetwarzanie odbywa się na iPhonie, bez konta i bez wysyłania."
+    },
+    {
+      "question": "Czy zgłośnię utwór z Apple Music?",
+      "answer": "Nie, muzyka ze streamingu jest zabezpieczona DRM. Aplikacja działa z plikami, które masz na własność."
+    }
+  ],
+  "related": [
+    "cicha-muzyka-iphone",
+    "cichy-podcast-audiobook-iphone",
+    "glosniej-bez-utraty-jakosci"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

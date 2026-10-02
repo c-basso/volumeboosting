@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "aumentar volume de vídeo no app Fotos",
+  "priority": 9,
+  "keywords": "aumentar volume de vídeo no app Fotos, Fotos iPhone volume do vídeo, aumentar som de vídeo da galeria, áudio de vídeo no Fotos, Compartilhar Increase Volume",
+  "title": "Como aumentar o volume de um vídeo pelo app Fotos do iPhone",
+  "description": "A edição do Fotos só silencia o som. Veja como usar Compartilhar → Increase Volume para deixar um vídeo até 10× mais alto e salvar a cópia de volta no Fotos.",
+  "h1": "Como aumentar o volume de um vídeo pelo app Fotos",
+  "eyebrow": "Fotos",
+  "card_title": "Volume pelo Fotos",
+  "card_summary": "O Fotos só silencia. Com Compartilhar → Increase Volume você deixa o vídeo mais alto e salva de volta no Fotos.",
+  "quick_answer": "O app Fotos só consegue silenciar o som de um vídeo, não aumentar. Abra o vídeo no Fotos, toque em Compartilhar e escolha Increase Volume. O projeto abre no app Aumentar Volume; arraste «Multiplicação do volume» até ×10, toque em «Amplificar volume» e depois em «Baixar processado» → Salvar Vídeo. A cópia mais alta aparece no Fotos ao lado do original.",
+  "intro": [
+    "A maioria dos vídeos do iPhone fica no Fotos, e é ali que as pessoas tentam resolver o som baixo primeiro. Em Editar existe um ícone de alto-falante, mas ele só liga e desliga o som.",
+    "Pela planilha de compartilhamento você manda o vídeo direto para o app Aumentar Volume e recebe a cópia mais alta de volta no Fotos, sem passar pelo Arquivos."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/pt/6.webp",
+    "alt": "Planilha de compartilhamento do iOS com opções para o arquivo amplificado no app Aumentar Volume",
+    "caption": "A planilha de compartilhamento do iOS leva o vídeo do Fotos para o app e de volta."
+  },
+  "sections": [
+    {
+      "heading": "O que a edição do Fotos faz com o som",
+      "paragraphs": [
+        "Toque em Editar num vídeo: o ícone de alto-falante no topo silencia ou ativa o som. Em iPhones mais novos com áudio espacial também existe o Mix de Áudio, que muda o equilíbrio entre vozes e fundo, mas não o volume total."
+      ]
+    },
+    {
+      "heading": "Não acha o Increase Volume na planilha de compartilhamento?",
+      "paragraphs": [],
+      "list": [
+        "Role a fileira de apps para a direita e toque em Mais.",
+        "Encontre Increase Volume e adicione aos Favoritos.",
+        "Agora ele aparece na planilha para todos os vídeos."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Onde fica a cópia?",
+      "paragraphs": [
+        "Quando você escolhe Salvar Vídeo, o vídeo amplificado entra no Fotos como um novo item, o mais recente da biblioteca. O original continua intacto."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Do Fotos a um vídeo mais alto",
+    "intro": "Cerca de um minuto.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Abra o vídeo no Fotos",
+        "text": "Toque no vídeo e depois em Compartilhar."
+      },
+      {
+        "name": "Escolha Increase Volume",
+        "text": "O projeto abre direto no app Aumentar Volume."
+      },
+      {
+        "name": "Amplifique",
+        "text": "Arraste «Multiplicação do volume», toque em «Amplificar volume para ×N» e compare Original/Processado."
+      },
+      {
+        "name": "Salve de volta no Fotos",
+        "text": "Toque em «Baixar processado» → Salvar Vídeo."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Dicas",
+    "items": [
+      "Amplifique vários vídeos, um por vez, pela lista de projetos.",
+      "Marque a nova cópia como favorita para achar rápido.",
+      "Apague o original só quando estiver satisfeito com a versão mais alta."
+    ]
+  },
+  "faq": [
+    {
+      "question": "O app Fotos consegue deixar um vídeo mais alto?",
+      "answer": "Não. O Fotos só silencia o som ou ajusta o Mix de Áudio nos modelos compatíveis."
+    },
+    {
+      "question": "O app substitui o vídeo original?",
+      "answer": "Não. Ele sempre salva uma nova cópia; o original fica sem alterações."
+    },
+    {
+      "question": "Funciona com Live Photos?",
+      "answer": "O app trabalha com arquivos de vídeo. Salve a Live Photo como vídeo no Fotos primeiro."
+    }
+  ],
+  "related": [
+    "como-aumentar-volume-de-video-no-iphone",
+    "por-que-meu-video-esta-baixo",
+    "aumentar-volume-de-video-do-tiktok"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

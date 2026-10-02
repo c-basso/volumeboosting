@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "aumentar volume sem perder qualidade",
+  "priority": 10,
+  "keywords": "aumentar volume sem perder qualidade, aumentar volume sem distorcer, amplificar vídeo sem estourar, som estourado depois de amplificar, amplificação de áudio limpa",
+  "title": "Como aumentar o volume sem perder qualidade nem distorcer",
+  "description": "Quando o som estoura e quando não? Veja como escolher a multiplicação, ouvir Original/Processado e deixar um vídeo mais alto sem que a imagem mude em nada.",
+  "h1": "Como deixar vídeo e áudio mais altos sem perder qualidade",
+  "eyebrow": "Qualidade",
+  "card_title": "Mais alto sem perder qualidade",
+  "card_summary": "Folga, picos e distorção explicados, e como achar o nível mais alto que continua limpo.",
+  "quick_answer": "O som só distorce quando os picos mais altos passam do teto digital. Uma gravação baixa tem muita folga e aguenta ×5–×10. Comece com ×3 no app Aumentar Volume, ache o momento mais alto do clipe, alterne Original e Processado e vá aumentando enquanto soar limpo. Para fala, ative «Melhorar qualidade do áudio». A imagem do vídeo nunca muda.",
+  "intro": [
+    "O medo de «estragar» uma gravação impede muita gente de deixá-la mais alta. Mas amplificar não é perder: enquanto os picos ficam abaixo do teto, o som só fica mais alto.",
+    "Este guia explica o que acontece e como achar o melhor nível sem chute."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/pt/5.webp",
+    "alt": "Tela de resultado do app Aumentar Volume com o botão «Baixar processado» e o seletor Original/Processado",
+    "caption": "Alterne Original e Processado antes de salvar."
+  },
+  "sections": [
+    {
+      "heading": "Folga: por que gravações baixas aguentam muito",
+      "paragraphs": [
+        "O áudio digital tem um teto (0 dBFS). Uma gravação baixa talvez fique 20 dB abaixo dele; isso dá espaço para cerca de 10× antes de os picos baterem no teto. Um clipe com uma pancada alta perto do teto tem pouca folga, mesmo que o resto esteja baixo."
+      ]
+    },
+    {
+      "heading": "Como ouvir a distorção",
+      "paragraphs": [],
+      "list": [
+        "Ache o trecho mais alto: risada, grito, refrão.",
+        "Ouça alternando Original/Processado.",
+        "Se soar estourado ou chapado, reduza a multiplicação um nível."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "A qualidade do vídeo muda?",
+      "paragraphs": [
+        "Não. O app Aumentar Volume só muda a trilha de áudio. A imagem mantém a mesma resolução e não ganha marca d'água."
+      ]
+    },
+    {
+      "id": "privacidade",
+      "heading": "Privacidade: tudo acontece no iPhone",
+      "paragraphs": [
+        "Seus arquivos não saem do celular. O processamento é feito no aparelho, sem conta e sem upload. O resultado é salvo pela planilha de compartilhamento do iOS no Fotos, no Arquivos ou no app que você escolher."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Ache o nível mais alto e limpo",
+    "intro": "Um teste rápido de menos de um minuto.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Comece com ×3",
+        "text": "Arraste «Multiplicação do volume» para ×3 e toque em «Amplificar volume para ×3»."
+      },
+      {
+        "name": "Confira os picos",
+        "text": "Toque o trecho mais alto com Original/Processado."
+      },
+      {
+        "name": "Aumente ou reduza",
+        "text": "Limpo: vá para ×5, depois ×8 ou ×10. Estourou: desça um nível."
+      },
+      {
+        "name": "Salve",
+        "text": "Toque em «Baixar processado» quando o nível estiver certo."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Dicas",
+    "items": [
+      "Fala aguenta mais do que música.",
+      "«Melhorar qualidade do áudio» deixa as vozes mais claras com amplificação alta.",
+      "Teste vários níveis; o original sempre fica guardado."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dá para deixar um vídeo mais alto sem piorar a qualidade?",
+      "answer": "Sim, desde que os picos não passem do teto. Ouça com Original/Processado antes de salvar."
+    },
+    {
+      "question": "Por que o som estourou depois de amplificar?",
+      "answer": "Os picos mais altos foram cortados. Reduza a multiplicação até soar limpo."
+    },
+    {
+      "question": "Meus vídeos são enviados para algum lugar?",
+      "answer": "Não. Tudo é processado no iPhone."
+    }
+  ],
+  "related": [
+    "como-aumentar-volume-de-video-no-iphone",
+    "imovie-volume-acima-de-500",
+    "musica-baixa-no-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

@@ -1,0 +1,120 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie volum over 500 %",
+  "priority": 11,
+  "keywords": "iMovie volum over 500 %, iMovie høyere lyd, iMovie volumgrense, øke lyd i iMovie iPhone, iMovie for lav lyd",
+  "title": "iMovie stopper på 500 %? Slik får du videoen enda høyere",
+  "description": "Volumglidebryteren i iMovie på iPhone stopper rundt 500 %. Slik gjør du klippet opptil 1000 % (10×) høyere med Volumforsterker før eller etter iMovie.",
+  "h1": "iMovie-volum over 500 %: slik går du forbi grensen",
+  "eyebrow": "iMovie",
+  "card_title": "iMovie over 500 %",
+  "card_summary": "iMovie stopper rundt 5×. Forsterk klippet til 10× før det går inn i prosjektet.",
+  "quick_answer": "I iMovie på iPhone stopper volumglidebryteren rundt 500 % (5×). For mer: forsterk klippet i Volumforsterker først (Del → Increase Volume, opptil ×10), arkiver det i Bilder og importer den høyere kopien i iMovie. Eller hopp over iMovie helt: appen åpner også rene lydfiler og lagrer uten prosjekt eller eksport.",
+  "intro": [
+    "iMovie er gratis og bra til å klippe, men volumet har et tak. Når 500 % ikke er nok, er den vanligste løsningen å duplisere lydsporet, noe iMovie på iPhone ikke gjør enkelt.",
+    "Her er en raskere vei."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Glidebryteren «Volummultiplikasjon ×10» og knappen «Boost lydstyrken til ×10» i Volumforsterker",
+    "caption": "Volumforsterker går til ×10, dobbelt så høyt som iMovies grense."
+  },
+  "sections": [
+    {
+      "heading": "iMovie mot Volumforsterker",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Volumforsterker"
+        ],
+        "rows": [
+          [
+            "Maks volum",
+            "rundt 500 % (5×)",
+            "1000 % (10×)"
+          ],
+          [
+            "Lydfiler (MP3, M4A)",
+            "Nei",
+            "Ja"
+          ],
+          [
+            "Prosjekt og eksport",
+            "Nødvendig",
+            "Nei, én glidebryter"
+          ],
+          [
+            "Forhåndslytting før lagring",
+            "I tidslinjen",
+            "Original/Behandlet"
+          ],
+          [
+            "Pris",
+            "Gratis",
+            "Gratis nedlasting, abonnement"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Kombiner dem",
+      "paragraphs": [
+        "Bruk Volumforsterker til nivået og iMovie til klippingen. Forsterk råklippet til for eksempel ×8, importer det i iMovie og fortsett redigeringen. Da trenger du ikke dra iMovies glidebryter til maks."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Gå forbi 500 %",
+    "intro": "Før du legger klippet i iMovie.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Del klippet til appen",
+        "text": "I Bilder: Del → Increase Volume."
+      },
+      {
+        "name": "Forsterk",
+        "text": "Dra «Volummultiplikasjon» til ×6–×10 og trykk «Boost lydstyrken til ×N»."
+      },
+      {
+        "name": "Arkiver",
+        "text": "«Last ned behandlet» → Arkiver video."
+      },
+      {
+        "name": "Importer i iMovie",
+        "text": "Legg den høyere kopien i iMovie-prosjektet og fortsett."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Forsterk før klipping; eksport på nytt fra iMovie tar tid.",
+      "Har du allerede eksportert fra iMovie, forsterk den eksporterte filen.",
+      "Er det tale, slå på «Forbedre lydkvalitet»."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Hva er maksimalt volum i iMovie på iPhone?",
+      "answer": "Rundt 500 % (5×) per klipp."
+    },
+    {
+      "question": "Kan jeg gjøre et klipp høyere enn 500 % i iMovie?",
+      "answer": "Ikke direkte. Forsterk klippet i Volumforsterker først og importer det høyere klippet."
+    },
+    {
+      "question": "Åpner Volumforsterker iMovie-prosjekter?",
+      "answer": "Nei, men den åpner videoene du eksporterer fra iMovie."
+    }
+  ],
+  "related": [
+    "gjor-video-hoyere-iphone",
+    "hoyere-uten-kvalitetstap",
+    "gjor-video-hoyere-fra-bilder"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

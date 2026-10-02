@@ -1,0 +1,137 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie hlasitost",
+  "priority": 11,
+  "keywords": "imovie hlasitost, imovie zesílit zvuk, imovie nejde víc nahlas, zesílit video víc než imovie, imovie maximální hlasitost iPhone",
+  "title": "Hlasitost v iMovie: jak zesílit video nad limit 500 %",
+  "description": "iMovie na iPhonu zvýší hlasitost klipu zhruba na 500 %. Když to nestačí, Increase Volume zesílí stejné video až 10× jedním jezdcem, bez projektu a exportu.",
+  "h1": "Limit hlasitosti v iMovie (zhruba 500 %) a jak ho překonat",
+  "eyebrow": "vs. iMovie",
+  "card_title": "Hlasitěji než limit 500 % v iMovie",
+  "card_summary": "Jak zvýšit hlasitost v iMovie, proč se jezdec zastaví na 5× a jak se jedním jezdcem dostat na 10×.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "iMovie na iPhonu dovolí zvýšit hlasitost klipu zhruba na 500 % (5×): klepni na klip, pak na ikonu reproduktoru, posuň doprava a exportuj. Pokud je video i na maximu pořád potichu, otevři stejný soubor v Increase Volume, která zesílí zvuk až ×10 (1000 %), dovolí porovnat Původní a Zpracované a uloží novou kopii bez vytváření projektu. Increase Volume navíc otevře i čistě zvukové soubory, které iMovie neotevře.",
+  "intro": [
+    "iMovie je bezplatná odpověď Apple na otázku „jak zesílit video“ a u trochu tichého klipu funguje. Jezdec má ale strop a nahrávky z druhého konce místnosti nebo záznamy obrazovky často potřebují víc. Lidé pak exportují na 500 %, výsledek pořád neslyší a hledají „hlasitěji než iMovie“.",
+    "Tady je přesně, kam až iMovie sahá, jak ho použít a co dělat, když nestačí."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Increase Volume s jezdcem Násobek hlasitosti ×10, dvojnásobkem maxima iMovie na iPhonu",
+    "caption": "×10 v Increase Volume je zhruba dvojnásobek maxima iMovie."
+  },
+  "sections": [
+    {
+      "heading": "Jak zvýšit hlasitost v iMovie na iPhonu",
+      "paragraphs": [
+        "Pokud jsi to ještě nezkoušel, bezplatnou cestu je dobré znát:"
+      ],
+      "list": [
+        "Otevři iMovie → Začít nový projekt → Film a vyber video.",
+        "Klepni na klip na časové ose, aby se zvýraznil.",
+        "Klepni na ikonu reproduktoru v liště a posuň jezdec hlasitosti doprava. Zastaví se zhruba na 500 %.",
+        "Klepni na Hotovo, pak na ikonu Sdílet → Uložit video a počkej, než iMovie celý klip znovu překóduje."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Kde iMovie nestačí",
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Increase Volume"
+        ],
+        "rows": [
+          [
+            "Maximální zesílení",
+            "Zhruba 500 % (5×)",
+            "×10 (1000 %)"
+          ],
+          [
+            "Čistě zvukové soubory (MP3, Diktafon)",
+            "Nepodporuje",
+            "Podporuje"
+          ],
+          [
+            "Postup",
+            "Projekt → přidat klip → upravit → export",
+            "Sdílet z Fotek → posunout → Stáhnout zpracované"
+          ],
+          [
+            "Poslech před/po",
+            "Přehrát časovou osu",
+            "Přepínač Původní / Zpracované"
+          ],
+          [
+            "Překódování obrazu",
+            "Ano, celý export",
+            "Zpracuje se zvuk, obraz projde beze změny"
+          ],
+          [
+            "Vylepšení řeči",
+            "Žádné",
+            "Přepínač Vylepšit kvalitu zvuku"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Kdy 500 % stačí a kdy ne",
+      "paragraphs": [
+        "5× je zhruba +14 dB. To stačí na klip, který zní jen trochu slabě. Nestačí to na přednášku nahranou ze zadní řady, telefon položený na stole během rozhovoru ani na většinu záznamů obrazovky, které bývají 15–25 dB pod běžnou úrovní. Tam potřebuješ ×8–×10 a potřebuješ slyšet, jestli nejhlasitější moment na té úrovni nepraská, a k tomu slouží přepínač Původní/Zpracované v Increase Volume."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Postup: zesílení nad limit iMovie",
+    "intro": "Použij původní video, ne export z iMovie, ať zesiluješ jen jednou a z nejčistšího zdroje.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Pošli původní video do Increase Volume",
+        "text": "Ve Fotkách otevři klip, klepni na Sdílet a vyber Increase Volume."
+      },
+      {
+        "name": "Nastav násobek nad 5",
+        "text": "Posuň „Násobek hlasitosti“ na ×6–×10 podle toho, jak je klip tichý. U řeči zapni „Vylepšit kvalitu zvuku“. Klepni na „Zesílit hlasitost“."
+      },
+      {
+        "name": "Porovnej",
+        "text": "Na nejhlasitějším místě přepni Původní/Zpracované. Pokud to zní ostře, sniž o stupeň a zesil znovu."
+      },
+      {
+        "name": "Stáhni zpracované",
+        "text": "Ulož hlasitější kopii do Fotek nebo ji rovnou sdílej. Originál zůstane netknutý."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Pokud chceš iMovie dál používat na stříhání nebo titulky, nejdřív zesil v Increase Volume a pak v iMovie upravuj už zesílený soubor.",
+      "Nesčítej zesílení (iMovie 500 % a pak ×10 na export); jdi rovnou z originálu na úroveň, kterou potřebuješ.",
+      "U zvukových souborů iMovie úplně přeskoč; MP3 ani M4A neotevře."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Proč má iMovie limit hlasitosti 500 %?",
+      "answer": "Apple omezuje jezdec zesílení klipu, aby běžné úpravy výrazně nepraskaly. Pro normální záběry je to rozumné nastavení, pro hodně tiché nahrávky ale nízké."
+    },
+    {
+      "question": "Je Increase Volume zdarma jako iMovie?",
+      "answer": "Increase Volume se stahuje zdarma a nabízí zkušební verzi; neomezené zesilování odemkne předplatné nebo jednorázová doživotní licence. Aktuální ceny najdeš v App Store."
+    },
+    {
+      "question": "Zvládne iMovie na Macu víc než 500 %?",
+      "answer": "iMovie pro Mac má také strop kolem 400–500 %. Desktopové editory jako Final Cut Pro nebo Audacity zvládnou víc, ale potřebuješ počítač a přenos souboru. Increase Volume to udělá přímo v iPhonu."
+    }
+  ],
+  "related": [
+    "jak-zesilit-zvuk-videa-na-iphonu",
+    "jak-zesilit-zvuk-videa-bez-ztraty-kvality",
+    "jak-zesilit-video-primo-z-aplikace-fotky"
+  ]
+}

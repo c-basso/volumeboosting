@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "paano lakasan ang voice memo",
+  "priority": 4,
+  "keywords": "paano lakasan ang voice memo, mahina ang voice memo iPhone, lakasan ang recording, Enhance Recording Voice Memos, palakasin ang voice recording",
+  "title": "Paano lakasan ang voice memo sa iPhone (hanggang 10×)",
+  "description": "Inaalis ng Enhance Recording ang ingay pero hindi nito nilalakasan ang file. Ganito i-boost ang mahinang voice memo hanggang 10× gamit ang Increase Volume.",
+  "h1": "Paano lakasan ang voice memo sa iPhone",
+  "eyebrow": "Voice Memos",
+  "card_title": "Lakasan ang mahinang voice memo",
+  "card_summary": "Playback lang ang binabago ng Enhance Recording. I-export ang memo at i-boost ang file mismo, hanggang 10×.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Para lakasan ang voice memo sa iPhone, i-share ito mula sa Voice Memos papunta sa Increase Volume (i-tap ang memo → ⋯ → Share → Increase Volume), i-on ang «Improve Audio Quality», i-set ang «Volume multiplication» sa ×5–×10, i-tap ang «Boost Volume», ikumpara ang Orihinal at Na-process, at i-tap ang «Download Processed» para i-save ang mas malakas na M4A. Ang Enhance Recording ng Voice Memos ay nagbabawas lang ng ingay habang nagpe-play; hindi nito binabago ang file at hindi ito lumalakas pag ini-share.",
+  "intro": [
+    "Recording mula sa dulo ng meeting table, lecture mula sa likod ng classroom, o interview sa taong mahina magsalita: nandoon ang mga salita, pero kahit naka-max, kailangan mo pang mag-focus para marinig. May ilang playback option ang Voice Memos at akala ng marami na may isa doon na nagpapalakas ng recording. Wala.",
+    "Ipapaliwanag ng gabay na ito kung ano ang kaya ng Voice Memos at paano gawing malakas at madaling i-share na file ang mahinang memo sa loob ng isang minuto."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Increase Volume na may detalye ng recording, Improve Audio Quality toggle at Volume multiplication ×10 slider",
+    "caption": "Para sa boses, i-on ang «Improve Audio Quality» bago mag-boost."
+  },
+  "sections": [
+    {
+      "heading": "Ano ang kaya ng Voice Memos (at ano ang hindi)",
+      "paragraphs": [
+        "Buksan ang memo, i-tap ang Options icon (mga slider) at makikita mo:"
+      ],
+      "list": [
+        "Enhance Recording: nagbabawas ng background noise at echo. Kapaki-pakinabang, pero *playback* setting ito; ayon sa Apple, hindi nito binabago ang recording mismo.",
+        "Skip Silence at Playback Speed: convenient, pero walang epekto sa lakas.",
+        "Studio Voice (sa mga suportadong model): nagbabawas ng echo ng kwarto, playback lang din.",
+        "Trim / Replace: haba o laman ang binabago, hindi ang level."
+      ],
+      "note": "Walang setting sa Voice Memos na nagpapalakas ng naka-save na file. Pag ini-share mo ang memo, maririnig ito ng tatanggap sa orihinal na lakas."
+    },
+    {
+      "heading": "Bakit mahina ang memo",
+      "paragraphs": [
+        "Awtomatikong ina-adjust ng iPhone ang sensitivity habang nagre-record, pero hindi nito kayang bawiin ang nagsasalitang ilang metro ang layo o phone na nakataob na may takip na mic. Ang resulta ay recording na malayo sa digital ceiling ang mga peak. Ang layong iyon mismo ang espasyong ginagamit ng booster: karaniwang kaya ng mahinang memo ang ×5–×10 nang hindi nagki-clip."
+      ]
+    },
+    {
+      "heading": "I-boost ang file gamit ang Increase Volume",
+      "paragraphs": [
+        "Binubuksan ng Increase Volume ang M4A file na ine-export ng Voice Memos, ipinapakita ang haba at size nito, at mina-multiply ang volume hanggang ×10. Para sa linaw ng boses ang «Improve Audio Quality» toggle, na eksaktong kailangan ng voice memo. Maririnig mo ang resulta gamit ang Orihinal/Na-process bago mag-save, at mase-save ang mas malakas na file bilang bagong kopya sa Files, Messages, Mail o kahit anong app."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: lakasan ang voice memo",
+    "intro": "Gumagana sa kahit anong memo na nasa Voice Memos na.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "I-share ang memo sa Increase Volume",
+        "text": "Sa Voice Memos, i-tap ang memo, i-tap ang ⋯, piliin ang Share, at piliin ang Increase Volume. (O Save to Files muna at idagdag mula sa app.)"
+      },
+      {
+        "name": "I-on ang Improve Audio Quality",
+        "text": "I-on ang toggle para boses ang unahin ng boost."
+      },
+      {
+        "name": "I-set ang multiplier",
+        "text": "I-drag ang «Volume multiplication» sa ×5 bilang simula; kadalasang ×8–×10 ang kailangan ng malalayong recording. I-tap ang «Boost Volume»."
+      },
+      {
+        "name": "Ikumpara",
+        "text": "Magpalit sa Orihinal at Na-process sa pinakamalakas na parte ng memo (tawa, kalabog ng tasa). Kung may lagutok, bawasan ang multiplier."
+      },
+      {
+        "name": "Download Processed",
+        "text": "I-tap ang «Download Processed» at piliin ang Save to Files, o ipadala diretso ang mas malakas na memo sa Messages, Mail, Messenger o Notes."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Mag-record na nakatihaya ang phone, nakaharap ang mic sa nagsasalita, at kasing-lapit ng puwede. Mas malaki ang epekto nito kaysa kahit anong setting.",
+      "Kung ita-transcribe mo ang memo, i-boost muna; mas kaunti ang mali ng speech recognition sa mas malakas at mas malinaw na file.",
+      "Iwan ang orihinal sa Voice Memos. Hiwalay na file ang boosted na kopya."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Napapalakas ba ng Enhance Recording ang voice memo?",
+      "answer": "Hindi. Nagbabawas ito ng background noise at echo habang nagpe-play. Sabi ng Apple, hindi binabago ng mga playback setting na ito ang recording mismo, kaya pareho pa rin ang ini-share na memo."
+    },
+    {
+      "question": "Anong format ang lalabas na boosted memo?",
+      "answer": "Parehong audio format ng ini-share mo (M4A ang export ng Voice Memos). Gumagawa ng bagong file ang app; hindi nagagalaw ang orihinal mong memo."
+    },
+    {
+      "question": "Puwede ko bang lakasan ang memo na pinadala sa akin?",
+      "answer": "Oo. I-save ang audio mula sa Messages, Mail o WhatsApp sa Files (o i-share diretso sa Increase Volume) at i-boost sa parehong paraan."
+    }
+  ],
+  "related": [
+    "mahina-ang-voice-message-sa-iphone",
+    "paano-lakasan-ang-mp3-sa-iphone",
+    "lakasan-ang-tunog-nang-hindi-nasisira-ang-quality"
+  ]
+}

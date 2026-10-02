@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "ako zosilniť zvuk videa na iPhone",
+  "priority": 1,
+  "keywords": "ako zosilniť zvuk videa na iPhone, zvýšiť hlasitosť videa, tiché video, aplikácia na zvýšenie hlasitosti, zosilňovač hlasitosti videa",
+  "title": "Ako zosilniť zvuk videa na iPhone (až 10× hlasnejšie)",
+  "description": "Sprav tiché video na iPhone hlasnejším za menej ako minútu: čo zvládnu Fotky a iMovie, kde končia a ako dosiahnuť 10× so Zosilňovačom hlasitosti a zvuku.",
+  "h1": "Ako zosilniť zvuk videa na iPhone",
+  "eyebrow": "Video",
+  "card_title": "Hlasnejšie video",
+  "card_summary": "Fotky hlasitosť nezvýšia a iMovie končí okolo 500 %. Takto sa dostaneš na 10× jedným posúvačom.",
+  "quick_answer": "Ak chceš zosilniť zvuk videa na iPhone, otvor ho v aplikácii Zosilňovač hlasitosti a zvuku (Increase Volume, zadarmo v App Store), posuň „Násobok hlasitosti“ na ×10, ťukni na „Zosilniť hlasitosť“, porovnaj Pôvodné a Spracované a ťukni na „Stiahnuť spracované“. Hlasnejšia kópia sa uloží do Fotiek alebo Súborov a znie nahlas na každom zariadení a v každej aplikácii. Fotky hlasitosť zvýšiť nevedia a iMovie končí okolo 500 %.",
+  "intro": [
+    "Natočíš chvíľu, pošleš ju kamarátovi a dostaneš odpoveď: „Nič nepočujem.“ Video s tichým zvukom je jeden z najčastejších problémov na iPhone, pretože riešenie nie je tam, kde ho ľudia hľadajú. Tlačidlá hlasitosti menia len to, ako nahlas hrá telefón, a editor vo Fotkách nemá ovládanie hlasitosti.",
+    "Tento návod prejde tri skutočné možnosti na iPhone, čo každá zvládne a čo nie, a potom najrýchlejší spôsob: vynásobiť zvuk videa až 10× vo Volume Boost a uložiť natrvalo hlasnejší súbor."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/2.webp",
+    "alt": "Obrazovka „Make video louder“: prst posúva ružový posúvač nad videom vo Volume Boost",
+    "caption": "Posúvač je nad náhľadom videa. Posunieš, vypočuješ, uložíš."
+  },
+  "sections": [
+    {
+      "heading": "Prečo hlasitosť telefónu video neopraví",
+      "paragraphs": [
+        "Tlačidlá hlasitosti na iPhone menia, ako nahlas hrá *tvoj* reproduktor. Zvuk v samotnom súbore nemenia. Keď súbor zdieľaš, telefón príjemcu ho prehrá na pôvodnej, tichej úrovni. Aby si to naozaj vyriešil, treba zvýšiť úroveň zvukovej stopy a uložiť nový súbor. Presne to robí zosilňovač hlasitosti videa."
+      ]
+    },
+    {
+      "heading": "Možnosť 1: aplikácia Fotky (hlasitosť nezvýši)",
+      "paragraphs": [
+        "Otvor video vo Fotkách a ťukni na Upraviť. Uvidíš ikonu reproduktora, ktorá klip iba stlmí, a na iPhone 16 a novších pri videách s priestorovým zvukom aj Mix zvuku, ktorý mení pomer medzi hlasmi a pozadím. Ani jedno nezvýši celkovú hlasitosť. Ak je celá nahrávka tichá, Fotky nepomôžu."
+      ]
+    },
+    {
+      "heading": "Možnosť 2: iMovie (zadarmo, limit okolo 500 %)",
+      "paragraphs": [
+        "iMovie vie klip zosilniť: vytvor filmový projekt, pridaj video, ťukni na klip, ťukni na ikonu reproduktora a posuň posúvač doprava. Má to dve obmedzenia. Posúvač končí okolo 500 % (5×), čo pri nahrávke z druhého konca miestnosti často nestačí. A musíš vytvoriť projekt a celé video znova exportovať, čo pri dlhom klipe trvá niekoľko minút."
+      ],
+      "list": [
+        "Otvor iMovie → Vytvoriť nový projekt → Film a vyber video.",
+        "Ťukni na klip na časovej osi, ťukni na ikonu reproduktora a posuň posúvač hlasitosti doprava (maximum okolo 500 %).",
+        "Ťukni na Hotovo → Zdieľať → Uložiť video a počkaj na koniec exportu."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Možnosť 3: Volume Boost (až 10×, jeden posúvač, pod minútu)",
+      "paragraphs": [
+        "Zosilňovač hlasitosti a zvuku je urobený presne na toto. Otvorí akékoľvek video z Fotiek alebo Súborov, ukáže jeden posúvač „Násobok hlasitosti“ až do ×10 (1000 %), nechá ťa pred uložením porovnať Pôvodné a Spracované a výsledok uloží cez bežný panel zdieľania iOS. Otvorí aj čisto zvukové súbory ako MP3 a nahrávky z Diktafónu, ktoré iMovie neotvorí.",
+        "Spracovanie prebieha na iPhone. Nič sa nenahráva, nepotrebuješ účet a exportované video nemá vodoznak."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Krok za krokom: zosilni video vo Volume Boost",
+    "intro": "Pri bežnom klipe to trvá asi minútu. Potrebuješ bezplatnú aplikáciu z App Store a video vo Fotkách alebo Súboroch.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Otvor video v aplikácii",
+        "text": "Otvor aplikáciu a pridaj video z Fotiek alebo Súborov. Rýchlejšie: otvor video vo Fotkách, ťukni na Zdieľať a vyber Increase Volume; projekt sa vytvorí hneď."
+      },
+      {
+        "name": "Skontroluj podrobnosti",
+        "text": "Aplikácia ukáže názov súboru, veľkosť a dĺžku, aby si vedel, že je to správny klip. Ak ide hlavne o reč, zapni „Vylepšiť kvalitu zvuku“."
+      },
+      {
+        "name": "Vyber zosilnenie",
+        "text": "Posuň „Násobok hlasitosti“. Začni na ×3 až ×5, ak je video len trochu tiché; choď na ×10, ak ho takmer nepočuť. Ťukni na „Zosilniť hlasitosť na ×N“."
+      },
+      {
+        "name": "Porovnaj Pôvodné a Spracované",
+        "text": "Prepínačom pod tlačidlom prepínaj medzi originálom a zosilnenou verziou. Ak hlasné miesta chrčia, vráť sa a zníž násobok o stupeň."
+      },
+      {
+        "name": "Stiahni a zdieľaj",
+        "text": "Ťukni na „Stiahnuť spracované“. V paneli zdieľania vyber Uložiť video, aby hlasnejšia kópia išla do Fotiek, Uložiť do Súborov, alebo ju rovno pošli cez Správy, WhatsApp, AirDrop či TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy pre najlepší výsledok",
+    "items": [
+      "Zosilňuj *pred* zverejnením na TikToku, Instagrame či YouTube. Platformy pri nahrávaní vyrovnávajú hlasitosť, ale príliš tichú stopu nezachránia.",
+      "Ak má klip jeden hlasný moment (smiech, buchnutie dverí) uprostred tichej reči, použi mierny násobok (×3–×5) a zapni „Vylepšiť kvalitu zvuku“ namiesto ×10.",
+      "Originál zostane nedotknutý. Aplikácia vždy vytvorí nový súbor, takže môžeš skúsiť viac úrovní.",
+      "Video nahrané so zakrytým mikrofónom (obal, prst) znie ticho *aj* dutý; zosilnenie opraví úroveň, nie dutý zvuk."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dá sa zosilniť zvuk videa na iPhone bez aplikácie?",
+      "answer": "Len v iMovie, ktoré Apple ponúka zadarmo a ktoré zosilní klip asi do 500 %. Fotky hlasitosť nezvýšia. Ak potrebuješ viac ako 5× alebo rýchlejší postup, použi Volume Boost."
+    },
+    {
+      "question": "Zhorší sa kvalita videa, keď zosilním zvuk?",
+      "answer": "Obraz sa vôbec nezmení. Zvuk sa násobí; ak prepáliš nahrávku, ktorá už má hlasné špičky, môže skresľovať a chrčať. Preto má aplikácia prepínač Pôvodné/Spracované, aby si si to vypočul pred uložením."
+    },
+    {
+      "question": "Zostane video hlasné aj po odoslaní?",
+      "answer": "Áno. Zosilnenie je vo zvukovej stope súboru, takže hrá na novej úrovni na každom telefóne, počítači aj sociálnej sieti."
+    },
+    {
+      "question": "Funguje to aj so stiahnutými videami?",
+      "answer": "Áno, ak je súbor vo Fotkách alebo Súboroch a nie je chránený proti kopírovaniu. Aplikácia otvára súbory MP4 a MOV z akéhokoľvek zdroja."
+    }
+  ],
+  "related": [
+    "hlasnejsie-bez-straty-kvality",
+    "tichy-zaznam-obrazovky-iphone",
+    "imovie-hlasitost-nad-500"
+  ],
+  "cta": {
+    "title": "Sprav svoje video hlasnejším hneď teraz",
+    "text": "Zosilňovač hlasitosti a zvuku je zadarmo v App Store. Zdieľaj video do aplikácie, posuň na ×10 a ťukni na „Stiahnuť spracované“."
+  },
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

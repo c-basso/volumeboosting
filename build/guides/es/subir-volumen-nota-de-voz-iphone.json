@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "subir volumen nota de voz",
+  "priority": 4,
+  "keywords": "subir volumen nota de voz iPhone, nota de voz se escucha bajo, grabación de voz baja, mejorar grabación notas de voz, amplificar grabación de voz",
+  "title": "Cómo subir el volumen de una nota de voz en iPhone",
+  "description": "«Mejorar grabación» en Notas de Voz quita ruido, pero no sube el archivo. Así potencias una nota de voz baja hasta 10× y la guardas con Aumentar Volumen.",
+  "h1": "Cómo subir el volumen de una nota de voz en iPhone",
+  "eyebrow": "Notas de Voz",
+  "card_title": "Subir una nota de voz que se oye bajo",
+  "card_summary": "«Mejorar grabación» solo cambia la reproducción. Exporta la nota y potencia el propio archivo, hasta 10×.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Para subir el volumen de una nota de voz en iPhone, compártela desde Notas de Voz con Aumentar Volumen (toca la nota → ⋯ → Compartir → Increase Volume), activa «Mejorar calidad de audio», pon «Multiplicación del volumen» en ×5–×10, toca «Potenciar volumen», compara Original y Procesado y toca «Descargar procesado» para guardar el M4A más alto. La opción «Mejorar grabación» de Notas de Voz reduce el ruido al reproducir, pero no cambia el archivo ni lo hace más alto al compartirlo.",
+  "intro": [
+    "Una nota grabada desde la otra punta de la mesa de reuniones, una clase desde la última fila o una entrevista con alguien que habla bajito: las palabras están ahí, pero incluso al máximo te cuesta oírlas. Notas de Voz tiene algunas opciones de reproducción y mucha gente cree que alguna sube la grabación. Ninguna lo hace.",
+    "Esta guía explica qué puede hacer Notas de Voz y cómo convertir una nota baja en un archivo alto y fácil de compartir en un minuto."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/es/4.webp",
+    "alt": "Captura de Aumentar Volumen con los detalles de la grabación, el interruptor Mejorar calidad de audio y el deslizador de multiplicación ×10",
+    "caption": "Con voz, activa «Mejorar calidad de audio» antes de potenciar."
+  },
+  "sections": [
+    {
+      "heading": "Qué hace Notas de Voz (y qué no)",
+      "paragraphs": [
+        "Abre una nota, toca el icono de opciones (los deslizadores) y verás:"
+      ],
+      "list": [
+        "Mejorar grabación: reduce el ruido de fondo y la reverberación. Útil, pero es un ajuste de *reproducción*; según Apple no cambia la grabación en sí.",
+        "Omitir silencios y velocidad de reproducción: cómodos, pero no influyen en el volumen.",
+        "Voz de estudio (modelos compatibles): reduce el eco de la sala, también solo al reproducir.",
+        "Recortar / Sustituir: cambian la duración o el contenido, no el nivel."
+      ],
+      "note": "Nada en Notas de Voz sube el nivel del archivo guardado. Cuando compartes la nota, quien la recibe la oye al volumen original."
+    },
+    {
+      "heading": "Por qué la nota está baja",
+      "paragraphs": [
+        "El iPhone ajusta automáticamente la sensibilidad al grabar, pero no puede compensar a alguien a varios metros o un móvil boca abajo con el micrófono tapado. El resultado es una grabación cuyos picos quedan muy por debajo del techo digital. Esa distancia es justo el margen que usa un amplificador: una nota baja suele aguantar ×5–×10 sin saturarse."
+      ]
+    },
+    {
+      "heading": "Potencia el archivo con Aumentar Volumen",
+      "paragraphs": [
+        "Aumentar Volumen abre el M4A que exporta Notas de Voz, muestra su duración y tamaño y multiplica el volumen hasta ×10. El interruptor «Mejorar calidad de audio» está pensado para la inteligibilidad de la voz, justo lo que necesita una nota de voz. Escuchas el resultado con Original/Procesado antes de guardar y el archivo más alto se guarda como copia nueva en Archivos, Mensajes, Mail o la app que quieras."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Paso a paso: subir el volumen de una nota de voz",
+    "intro": "Funciona con cualquier nota que ya tengas en Notas de Voz.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Comparte la nota con Aumentar Volumen",
+        "text": "En Notas de Voz toca la nota, toca ⋯, elige Compartir y selecciona Increase Volume en la fila de apps. (También puedes Guardar en Archivos primero y añadirla desde la app.)"
+      },
+      {
+        "name": "Activa Mejorar calidad de audio",
+        "text": "Actívalo para que el aumento favorezca la voz."
+      },
+      {
+        "name": "Elige el multiplicador",
+        "text": "Pon «Multiplicación del volumen» en ×5 para empezar; las grabaciones lejanas suelen necesitar ×8–×10. Toca «Potenciar volumen»."
+      },
+      {
+        "name": "Compara",
+        "text": "Alterna Original/Procesado en el punto más fuerte de la nota (una risa, una taza que se apoya). Si cruje, baja el multiplicador."
+      },
+      {
+        "name": "Descargar procesado",
+        "text": "Toca «Descargar procesado» y elige Guardar en Archivos, o envía la nota más alta directamente a Mensajes, Mail, WhatsApp o Notas."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consejos",
+    "items": [
+      "Graba con el móvil boca arriba, el extremo del micrófono hacia quien habla y tan cerca como sea educado. Eso cuenta más que cualquier ajuste.",
+      "Si vas a transcribir la nota, poténciala antes; el reconocimiento de voz falla menos con un archivo más alto y claro.",
+      "Conserva el original en Notas de Voz. La copia potenciada es un archivo aparte."
+    ]
+  },
+  "faq": [
+    {
+      "question": "¿«Mejorar grabación» sube el volumen de una nota de voz?",
+      "answer": "No. Reduce el ruido de fondo y el eco mientras se reproduce. Apple indica que estos ajustes de reproducción no cambian la grabación, así que la nota compartida sigue igual."
+    },
+    {
+      "question": "¿En qué formato sale la nota potenciada?",
+      "answer": "En el mismo formato de audio que compartiste (Notas de Voz exporta M4A). La app crea un archivo nuevo; tu nota original no se toca."
+    },
+    {
+      "question": "¿Puedo subir una nota de voz que me enviaron?",
+      "answer": "Sí. Guarda el audio de Mensajes, Mail o WhatsApp en Archivos (o compártelo directamente con la app) y potencia igual."
+    }
+  ],
+  "related": [
+    "audios-de-whatsapp-se-escuchan-bajo-iphone",
+    "subir-volumen-mp3-iphone",
+    "subir-volumen-sin-perder-calidad"
+  ]
+}

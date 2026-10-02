@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "jak zwiększyć głośność filmu na iPhonie",
+  "priority": 1,
+  "keywords": "jak zwiększyć głośność filmu na iPhonie, zwiększyć głośność wideo, cichy dźwięk w filmie, aplikacja do zwiększania głośności, wzmacniacz głośności wideo",
+  "title": "Jak zwiększyć głośność filmu na iPhonie (nawet 10×)",
+  "description": "Zrób cichy film głośniejszym na iPhonie w mniej niż minutę: co potrafią Zdjęcia i iMovie, gdzie się kończą i jak dojść do 10× w aplikacji Volume Boost.",
+  "h1": "Jak zwiększyć głośność filmu na iPhonie",
+  "eyebrow": "Wideo",
+  "card_title": "Głośniejszy film",
+  "card_summary": "Zdjęcia nie zwiększą głośności, a iMovie kończy się na ok. 500%. Tak dojdziesz do 10× jednym suwakiem.",
+  "quick_answer": "Aby zwiększyć głośność filmu na iPhonie, otwórz go w aplikacji Wzmacniacz – Volume Boost (Increase Volume, bezpłatnie w App Store), przesuń suwak „Mnożnik głośności” do ×10, stuknij „Wzmocnij głośność”, porównaj Oryginał i Przetworzony, a potem stuknij „Pobierz przetworzony”. Głośniejsza kopia trafia do Zdjęć lub Plików i brzmi głośno na każdym urządzeniu i w każdej aplikacji. Aplikacja Zdjęcia nie zwiększa głośności, a iMovie zatrzymuje się na ok. 500%.",
+  "intro": [
+    "Nagrywasz chwilę, wysyłasz ją znajomemu i dostajesz odpowiedź: „Nic nie słychać”. Zbyt cichy film to jeden z najczęstszych problemów na iPhonie, bo rozwiązanie nie leży tam, gdzie ludzie go szukają. Przyciski głośności zmieniają tylko to, jak głośno gra telefon, a edytor w Zdjęciach nie ma regulacji głośności.",
+    "Ten poradnik omawia trzy realne opcje na iPhonie, co każda potrafi, a czego nie, a następnie najszybszą metodę: pomnożenie dźwięku filmu nawet 10× w Volume Boost i zapisanie trwale głośniejszego pliku."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/2.webp",
+    "alt": "Ekran „Make video louder”: palec przesuwa różowy suwak nad filmem w aplikacji Volume Boost",
+    "caption": "Suwak jest nad podglądem filmu. Przesuń, odsłuchaj, zapisz."
+  },
+  "sections": [
+    {
+      "heading": "Dlaczego głośność telefonu nie naprawi filmu",
+      "paragraphs": [
+        "Przyciski głośności iPhone'a zmieniają to, jak głośno gra *Twój* głośnik. Nie zmieniają dźwięku w samym pliku. Gdy udostępnisz plik, telefon odbiorcy odtworzy go na pierwotnym, cichym poziomie. Żeby naprawić to naprawdę, trzeba podnieść poziom ścieżki dźwiękowej i zapisać nowy plik. Dokładnie to robi wzmacniacz głośności wideo."
+      ]
+    },
+    {
+      "heading": "Opcja 1: aplikacja Zdjęcia (nie zwiększa głośności)",
+      "paragraphs": [
+        "Otwórz film w Zdjęciach i stuknij Edycja. Zobaczysz ikonę głośnika, która tylko wycisza klip, a na iPhonie 16 lub nowszym przy filmach z dźwiękiem przestrzennym także Miks audio, który zmienia proporcje między głosami a tłem. Żadna z tych opcji nie podnosi ogólnej głośności. Jeśli całe nagranie jest ciche, Zdjęcia nie pomogą."
+      ]
+    },
+    {
+      "heading": "Opcja 2: iMovie (bezpłatne, limit ok. 500%)",
+      "paragraphs": [
+        "iMovie potrafi zgłośnić klip: utwórz projekt filmu, dodaj nagranie, stuknij klip, stuknij ikonę głośnika i przesuń suwak w prawo. Są dwa ograniczenia. Suwak zatrzymuje się na ok. 500% (5×), co często nie wystarcza przy nagraniu z drugiego końca pokoju. Do tego musisz utworzyć projekt i ponownie wyeksportować cały film, co przy długim klipie trwa kilka minut."
+      ],
+      "list": [
+        "Otwórz iMovie → Rozpocznij nowy projekt → Film i wybierz nagranie.",
+        "Stuknij klip na osi czasu, stuknij ikonę głośnika i przesuń suwak głośności w prawo (maks. ok. 500%).",
+        "Stuknij Gotowe → Udostępnij → Zachowaj wideo i poczekaj na koniec eksportu."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Opcja 3: Volume Boost (do 10×, jeden suwak, poniżej minuty)",
+      "paragraphs": [
+        "Wzmacniacz – Volume Boost powstał właśnie do tego. Otwiera dowolny film ze Zdjęć lub Plików, pokazuje jeden suwak „Mnożnik głośności” do ×10 (1000%), pozwala porównać Oryginał i Przetworzony przed zapisem i zapisuje wynik przez zwykły arkusz udostępniania iOS. Otwiera też same pliki audio, takie jak MP3 i nagrania z Dyktafonu, których iMovie nie otwiera.",
+        "Przetwarzanie odbywa się na iPhonie. Nic nie jest wysyłane, nie potrzebujesz konta, a wyeksportowany film nie ma znaku wodnego."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Krok po kroku: zwiększ głośność filmu w Volume Boost",
+    "intro": "Przy zwykłym klipie zajmuje to około minuty. Potrzebujesz bezpłatnej aplikacji z App Store i filmu w Zdjęciach lub Plikach.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Otwórz film w aplikacji",
+        "text": "Otwórz aplikację i dodaj film ze Zdjęć lub Plików. Szybciej: otwórz film w Zdjęciach, stuknij Udostępnij i wybierz Increase Volume; projekt utworzy się od razu."
+      },
+      {
+        "name": "Sprawdź szczegóły",
+        "text": "Aplikacja pokazuje nazwę pliku, rozmiar i czas trwania, więc wiesz, że to właściwy klip. Jeśli to głównie mowa, włącz „Popraw jakość dźwięku”."
+      },
+      {
+        "name": "Wybierz wzmocnienie",
+        "text": "Przesuń „Mnożnik głośności”. Zacznij od ×3–×5, jeśli film jest tylko trochę cichy; idź do ×10, jeśli ledwo go słychać. Stuknij „Wzmocnij głośność do ×N”."
+      },
+      {
+        "name": "Porównaj Oryginał i Przetworzony",
+        "text": "Przełącznikiem pod przyciskiem przechodź między oryginałem a wersją wzmocnioną. Jeśli głośne fragmenty brzmią chrapliwie, cofnij się i zmniejsz mnożnik o stopień."
+      },
+      {
+        "name": "Pobierz i udostępnij",
+        "text": "Stuknij „Pobierz przetworzony”. W arkuszu udostępniania wybierz Zachowaj wideo, aby głośniejsza kopia trafiła do Zdjęć, Zachowaj w Plikach albo wyślij ją od razu przez Wiadomości, WhatsApp, AirDrop lub TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Wskazówki dla najlepszego efektu",
+    "items": [
+      "Wzmacniaj *przed* publikacją na TikToku, Instagramie czy YouTube. Platformy wyrównują głośność przy przesyłaniu, ale nie uratują ścieżki, która jest za cicha.",
+      "Jeśli klip ma jeden głośny moment (śmiech, trzaśnięcie drzwiami) wśród cichej mowy, użyj umiarkowanego mnożnika (×3–×5) i włącz „Popraw jakość dźwięku” zamiast iść do ×10.",
+      "Oryginał pozostaje nietknięty. Aplikacja zawsze tworzy nowy plik, więc możesz wypróbować kilka poziomów.",
+      "Film nagrany z zasłoniętym mikrofonem (etui, palec) brzmi cicho *i* głucho; wzmocnienie naprawia poziom, nie stłumienie."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Czy da się zwiększyć głośność filmu na iPhonie bez aplikacji?",
+      "answer": "Tylko w iMovie, które Apple udostępnia bezpłatnie i które zgłaśnia klip do ok. 500%. Zdjęcia nie zwiększają głośności. Jeśli potrzebujesz więcej niż 5× albo szybszej metody, użyj Volume Boost."
+    },
+    {
+      "question": "Czy jakość filmu spadnie po zwiększeniu głośności?",
+      "answer": "Obraz w ogóle się nie zmienia. Dźwięk jest mnożony; jeśli nagranie z już głośnymi szczytami podbijesz za mocno, może się przesterować. Dlatego aplikacja ma przełącznik Oryginał/Przetworzony, żebyś odsłuchał przed zapisem."
+    },
+    {
+      "question": "Czy film zostanie głośny po wysłaniu?",
+      "answer": "Tak. Wzmocnienie jest w ścieżce dźwiękowej pliku, więc film gra na nowym poziomie na każdym telefonie, komputerze i w mediach społecznościowych."
+    },
+    {
+      "question": "Czy działa to z pobranymi filmami?",
+      "answer": "Tak, jeśli plik jest w Zdjęciach lub Plikach i nie jest zabezpieczony przed kopiowaniem. Aplikacja otwiera pliki MP4 i MOV z dowolnego źródła."
+    }
+  ],
+  "related": [
+    "glosniej-bez-utraty-jakosci",
+    "nagrywanie-ekranu-cichy-dzwiek-iphone",
+    "imovie-glosnosc-powyzej-500"
+  ],
+  "cta": {
+    "title": "Zrób swój film głośniejszym już teraz",
+    "text": "Wzmacniacz – Volume Boost jest bezpłatny w App Store. Udostępnij film aplikacji, przesuń do ×10 i stuknij „Pobierz przetworzony”."
+  },
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

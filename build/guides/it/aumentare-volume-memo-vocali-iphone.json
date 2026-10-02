@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "aumentare il volume di un memo vocale",
+  "priority": 4,
+  "keywords": "aumentare volume memo vocali iPhone, memo vocale troppo basso, registrazione vocale bassa, migliora registrazione Memo Vocali, amplificare registrazione vocale",
+  "title": "Come aumentare il volume di un Memo Vocale su iPhone",
+  "description": "«Migliora registrazione» in Memo Vocali riduce il rumore ma non alza il file. Ecco come portare un memo basso fino a 10× e salvarne una copia più forte.",
+  "h1": "Come aumentare il volume di un Memo Vocale su iPhone",
+  "eyebrow": "Memo Vocali",
+  "card_title": "Alzare un Memo Vocale troppo basso",
+  "card_summary": "«Migliora registrazione» cambia solo la riproduzione. Esporta il memo e potenzia il file stesso, fino a 10×.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Per alzare un memo vocale su iPhone, condividilo da Memo Vocali con Aumenta Volume (tocca la registrazione → ⋯ → Condividi → Increase Volume), attiva «Migliora qualità audio», imposta «Moltiplicazione volume» a ×5–×10, tocca «Potenzia volume», confronta Originale ed Elaborato e tocca «Scarica elaborato» per salvare l'M4A più forte. L'opzione «Migliora registrazione» di Memo Vocali riduce il rumore in riproduzione, ma non modifica il file e non lo rende più forte quando lo condividi.",
+  "intro": [
+    "Una registrazione dall'altro capo del tavolo riunioni, una lezione dall'ultima fila, un'intervista con qualcuno che parla piano: le parole ci sono, ma anche a tutto volume devi sforzarti. Memo Vocali ha alcune opzioni di riproduzione e molti pensano che una di queste alzi la registrazione. Nessuna lo fa.",
+    "Questa guida spiega cosa sa fare Memo Vocali e come trasformare un memo basso in un file forte e facile da condividere in un minuto."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/it/4.webp",
+    "alt": "Schermata di Aumenta Volume con i dettagli della registrazione, l'opzione Migliora qualità audio e il cursore di moltiplicazione ×10",
+    "caption": "Per il parlato, attiva «Migliora qualità audio» prima di potenziare."
+  },
+  "sections": [
+    {
+      "heading": "Cosa fa Memo Vocali (e cosa no)",
+      "paragraphs": [
+        "Apri una registrazione, tocca l'icona delle opzioni (i cursori) e vedrai:"
+      ],
+      "list": [
+        "Migliora registrazione: riduce il rumore di fondo e il riverbero. Utile, ma è un'impostazione di *riproduzione*; secondo Apple non modifica la registrazione stessa.",
+        "Salta silenzi e velocità di riproduzione: comodi, ma non influiscono sul volume.",
+        "Voce da studio (modelli supportati): riduce l'eco della stanza, anche questo solo in riproduzione.",
+        "Abbrevia / Sostituisci: cambiano la durata o il contenuto, non il livello."
+      ],
+      "note": "Niente in Memo Vocali alza il livello del file salvato. Quando condividi la registrazione, chi la riceve la sente al volume originale."
+    },
+    {
+      "heading": "Perché il memo è basso",
+      "paragraphs": [
+        "L'iPhone regola in automatico la sensibilità durante la registrazione, ma non può compensare chi parla a qualche metro di distanza o un telefono a faccia in giù con il microfono coperto. Il risultato è una registrazione con i picchi molto sotto il limite digitale. Quella distanza è proprio il margine che usa un amplificatore: un memo basso di solito regge ×5–×10 senza distorcere."
+      ]
+    },
+    {
+      "heading": "Potenzia il file con Aumenta Volume",
+      "paragraphs": [
+        "Aumenta Volume apre il file M4A esportato da Memo Vocali, ne mostra durata e dimensione e moltiplica il volume fino a ×10. L'opzione «Migliora qualità audio» punta sulla comprensibilità del parlato, proprio ciò che serve a un memo vocale. Ascolti il risultato con Originale/Elaborato prima di salvare, e il file più forte viene salvato come nuova copia in File, Messaggi, Mail o qualsiasi app."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Passo dopo passo: alzare un Memo Vocale",
+    "intro": "Funziona con qualsiasi registrazione già presente in Memo Vocali.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Condividi il memo con l'app",
+        "text": "In Memo Vocali tocca la registrazione, tocca ⋯, scegli Condividi e seleziona Increase Volume nella riga delle app. (Puoi anche salvarla prima su File e aggiungerla dall'app.)"
+      },
+      {
+        "name": "Attiva Migliora qualità audio",
+        "text": "Attivala perché il potenziamento privilegi il parlato."
+      },
+      {
+        "name": "Scegli il moltiplicatore",
+        "text": "Imposta «Moltiplicazione volume» a ×5 per iniziare; le registrazioni da lontano spesso richiedono ×8–×10. Tocca «Potenzia volume»."
+      },
+      {
+        "name": "Confronta",
+        "text": "Passa da Originale a Elaborato nel punto più forte del memo (una risata, una tazza appoggiata). Se gracchia, abbassa il moltiplicatore."
+      },
+      {
+        "name": "Scarica elaborato",
+        "text": "Tocca «Scarica elaborato» e scegli Salva su File, oppure invia il memo più forte direttamente a Messaggi, Mail, WhatsApp o Note."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consigli",
+    "items": [
+      "Registra con il telefono appoggiato sul dorso, il lato del microfono verso chi parla e il più vicino possibile senza essere invadente. Conta più di qualsiasi impostazione.",
+      "Se devi trascrivere il memo, potenzialo prima; il riconoscimento vocale sbaglia meno su un file più forte e chiaro.",
+      "Tieni l'originale in Memo Vocali. La copia potenziata è un file separato."
+    ]
+  },
+  "faq": [
+    {
+      "question": "«Migliora registrazione» alza il volume di un memo vocale?",
+      "answer": "No. Riduce rumore di fondo e riverbero durante la riproduzione. Apple indica che queste impostazioni di riproduzione non modificano la registrazione, quindi il memo condiviso resta uguale."
+    },
+    {
+      "question": "In che formato esce il memo potenziato?",
+      "answer": "Nello stesso formato audio che hai condiviso (Memo Vocali esporta M4A). L'app crea un nuovo file; la registrazione originale non viene toccata."
+    },
+    {
+      "question": "Posso alzare una registrazione che mi hanno mandato?",
+      "answer": "Sì. Salva l'audio da Messaggi, Mail o WhatsApp su File (o condividilo direttamente con l'app) e potenzialo allo stesso modo."
+    }
+  ],
+  "related": [
+    "vocali-whatsapp-bassi",
+    "aumentare-volume-mp3-iphone",
+    "aumentare-volume-senza-perdere-qualita"
+  ]
+}

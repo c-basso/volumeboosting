@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "muzik perlahan di iPhone",
+  "priority": 5,
+  "keywords": "muzik perlahan iPhone, cara kuatkan muzik di iPhone, semak bunyi iPhone, kurangkan audio kuat, lagu berbunyi perlahan",
+  "title": "Muzik di iPhone Berbunyi Perlahan? Ini Cara Kuatkannya",
+  "description": "Lagu berbunyi perlahan di iPhone? Semak Semak Bunyi, EQ dan had fon kepala, kemudian kuatkan MP3 dan rakaman milik anda hingga 10× dengan Penguat Volume Bunyi.",
+  "h1": "Cara kuatkan muzik di iPhone",
+  "eyebrow": "Muzik",
+  "card_title": "Kuatkan muzik",
+  "card_summary": "Tiga tetapan iOS yang diam-diam mengehadkan muzik, dan cara menguatkan lagu yang anda miliki sebagai fail.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Mulakan dengan tetapan: di Tetapan › Muzik matikan Semak Bunyi dan cuba praset EQ «Lewat Malam» (Late Night), yang menaikkan bahagian perlahan; di Tetapan › Bunyi & Haptik › Keselamatan Fon Kepala matikan Kurangkan Audio Kuat. Ini terpakai untuk penstriman dan main balik. Fail muzik milik anda (MP3, M4A, WAV dalam Fail, demo, rakaman latihan) buka dalam Penguat Volume Bunyi, kuatkan ×1.5–×4, bandingkan Asal dan Diproses, kemudian ketik «Muat turun yang diproses».",
+  "intro": [
+    "«Muzik di iPhone saya perlahan» ada dua jawapan yang sangat berbeza. Jika Apple Music atau Spotify berbunyi perlahan pada pembesar suara atau fon kepala, kemungkinan besar telefon mengehadkan dirinya melalui tetapan yang boleh diubah dalam seminit. Jika lagu *tertentu* yang perlahan — MP3 lama, rakaman latihan, demo kawan — fail itulah yang perlukan tahap lebih tinggi.",
+    "Panduan ini merangkumi kedua-duanya, mengikut urutan."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Tangkapan skrin «Make music louder»: Penguat Volume Bunyi memproses fail muzik dengan nama, saiz dan tempoh",
+    "caption": "Fail muzik milik anda dikuatkan terus dari Fail."
+  },
+  "sections": [
+    {
+      "heading": "Tetapan yang memperlahankan semua muzik (semak dahulu)",
+      "list": [
+        "Kurangkan Audio Kuat: Tetapan › Bunyi & Haptik › Keselamatan Fon Kepala. Jika dihidupkan, kelantangan fon kepala dihadkan ke tahap pilihan anda. Matikan atau naikkan hadnya.",
+        "Semak Bunyi: Tetapan › Muzik › Semak Bunyi menyamakan semua lagu ke kelantangan yang sama, jadi lagu kuat menjadi lebih perlahan. Matikan jika semuanya terasa perlahan.",
+        "EQ: Tetapan › Muzik › EQ. «Lewat Malam» memampatkan dinamik supaya bahagian perlahan naik; «Kenyaringan» (Loudness) menonjolkan bes dan trebel pada kelantangan rendah. Cuba kedua-duanya.",
+        "Had kelantangan dalam Masa Skrin: Tetapan › Masa Skrin › Sekatan Kandungan & Privasi mungkin ada had yang dikunci ibu bapa atau tetapan lama.",
+        "Bluetooth: sesetengah fon kepala dan pembesar suara ada kelantangan sendiri; naikkan juga pada peranti itu."
+      ]
+    },
+    {
+      "heading": "Fail muzik apa yang boleh dikuatkan",
+      "paragraphs": [
+        "Penguat Volume Bunyi menguatkan fail yang benar-benar milik anda: MP3 dan WAV dalam Fail atau iCloud Drive, rakaman latihan M4A, demo yang diterima melalui Mail atau AirDrop, eksport GarageBand dan audio daripada video muzik. Artis dan tajuk dipaparkan jika ada dalam fail. Muat turun Apple Music, Spotify atau YouTube Music disulitkan dan tidak boleh dibuka aplikasi lain; untuk itu gunakan tetapan di atas."
+      ]
+    },
+    {
+      "heading": "Berapa kuat sesebuah lagu boleh dinaikkan",
+      "paragraphs": [
+        "Muzik terbitan rasmi sudah di-master hampir ke tahap maksimum, jadi ×1.5–×2 biasanya hadnya sebelum korus terpotong. Rakaman rumah, demo dan rip lama selalunya ada ruang 6–12 dB dan tahan ×2–×4. Putuskan dengan Asal/Diproses pada korus paling kuat."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: kuatkan fail muzik",
+    "intro": "Untuk lagu dalam Fail, eksport GarageBand atau rakaman.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Tambah lagu",
+        "text": "Buka Penguat Volume Bunyi dan tambah fail dari Fail, atau kongsi ke aplikasi dari Fail, Mail atau GarageBand."
+      },
+      {
+        "name": "Pilih pengganda sederhana",
+        "text": "Tetapkan «Pengganda kelantangan» ke ×1.5–×2 untuk muzik terbitan dan ×2–×4 untuk demo dan rakaman. Cuba «Tingkatkan Kualiti Audio» hidup dan mati, pilih yang paling semula jadi. Ketik «Boost kelantangan»."
+      },
+      {
+        "name": "Semak korus",
+        "text": "Beralih antara Asal/Diproses pada bahagian paling kuat. Jika pecah, turunkan."
+      },
+      {
+        "name": "Muat turun yang diproses",
+        "text": "Simpan ke Fail dan tambah lagu yang lebih kuat ke pemain anda, atau kongsi."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tip",
+    "items": [
+      "Kuatkan satu album atau set dengan pengganda yang sama supaya lagu-lagunya kekal seimbang.",
+      "Pada video muzik, gambar tidak diubah; hanya audio yang diproses.",
+      "Jika anda me-master muzik sendiri, kuatkan mix, bukan master akhir; limiter dalam DAW memberi hasil lebih bersih daripada penguatan biasa."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bolehkah penguat volume menguatkan Apple Music atau Spotify?",
+      "answer": "Tidak dengan mengedit lagu, kerana ia disulitkan. Gunakan Semak Bunyi, EQ dan Keselamatan Fon Kepala, atau normalisasi dalam aplikasi penstriman. Penguat Volume Bunyi menguatkan fail milik anda sendiri."
+    },
+    {
+      "question": "Kenapa sesetengah lagu lebih perlahan daripada yang lain?",
+      "answer": "Kerana tahap mastering yang berbeza. Semak Bunyi menyamakannya tetapi memperlahankan yang kuat; jika dimatikan, lagu kuat kembali kuat. Fail perlahan milik anda boleh dikuatkan dengan Penguat Volume Bunyi supaya seimbang."
+    },
+    {
+      "question": "Adakah format lagu berubah apabila dikuatkan?",
+      "answer": "Aplikasi mencipta fail baharu dalam format audio biasa di sebelah fail asal. Fail asal tidak berubah."
+    }
+  ],
+  "related": [
+    "kuatkan-mp3-iphone",
+    "kuatkan-podcast-buku-audio-iphone",
+    "kuatkan-suara-tanpa-hilang-kualiti"
+  ]
+}

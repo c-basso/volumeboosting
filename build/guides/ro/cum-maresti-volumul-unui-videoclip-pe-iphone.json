@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "cum măresc volumul la un videoclip pe iPhone",
+  "priority": 1,
+  "keywords": "cum măresc volumul la un videoclip pe iPhone, crește volumul video, video cu sunet încet, aplicație pentru mărirea volumului, amplificator volum video",
+  "title": "Cum mărești volumul unui videoclip pe iPhone (până la 10×)",
+  "description": "Fă mai tare un videoclip cu sunet încet pe iPhone în sub un minut: ce pot Poze și iMovie, unde se opresc și cum ajungi la 10× cu Amplificator – Volume Boost.",
+  "h1": "Cum mărești volumul unui videoclip pe iPhone",
+  "eyebrow": "Video",
+  "card_title": "Videoclip mai tare",
+  "card_summary": "Poze nu crește volumul, iar iMovie se oprește la circa 500%. Uite cum ajungi la 10× cu un singur cursor.",
+  "quick_answer": "Ca să mărești volumul unui videoclip pe iPhone, deschide-l în Amplificator – Volume Boost (Increase Volume, gratuit în App Store), trage cursorul „Multiplicare volum” până la ×10, atinge „Amplifică volumul”, compară Original și Procesat și atinge „Descarcă procesat”. Copia mai tare se salvează în Poze sau Fișiere și se aude tare pe orice dispozitiv și în orice aplicație. Aplicația Poze nu poate crește volumul, iar iMovie se oprește la circa 500%.",
+  "intro": [
+    "Filmezi un moment, îl trimiți unui prieten și primești înapoi: „Nu se aude nimic.” Un videoclip cu sunet prea încet e una dintre cele mai frecvente probleme pe iPhone, pentru că soluția nu e acolo unde o caută lumea. Butoanele de volum schimbă doar cât de tare redă telefonul, iar editorul din Poze nu are control de volum.",
+    "Ghidul acesta trece prin cele trei opțiuni reale de pe iPhone, ce poate și ce nu poate fiecare, apoi prin metoda cea mai rapidă: înmulțești sunetul videoclipului de până la 10× cu Volume Boost și salvezi un fișier mai tare definitiv."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/2.webp",
+    "alt": "Ecranul „Make video louder”: un deget trage cursorul roz peste un videoclip în Volume Boost",
+    "caption": "Cursorul stă deasupra previzualizării video. Tragi, asculți, salvezi."
+  },
+  "sections": [
+    {
+      "heading": "De ce volumul telefonului nu repară videoclipul",
+      "paragraphs": [
+        "Butoanele de volum ale iPhone-ului schimbă cât de tare cântă difuzorul *tău*. Nu schimbă sunetul din fișierul video. Când partajezi fișierul, telefonul celui care îl primește îl redă la nivelul original, încet. Ca să rezolvi cu adevărat, trebuie crescut nivelul pistei audio și salvat un fișier nou. Exact asta face un amplificator de volum pentru video."
+      ]
+    },
+    {
+      "heading": "Opțiunea 1: aplicația Poze (nu crește volumul)",
+      "paragraphs": [
+        "Deschide videoclipul în Poze și atinge Editați. Vezi o pictogramă de difuzor care doar dezactivează sunetul clipului și, pe iPhone 16 sau mai nou, la videoclipurile cu audio spațial, Mixaj audio, care schimbă echilibrul dintre voci și fundal. Niciuna nu crește volumul total. Dacă toată înregistrarea e încet, Poze nu te ajută."
+      ]
+    },
+    {
+      "heading": "Opțiunea 2: iMovie (gratuit, limită de circa 500%)",
+      "paragraphs": [
+        "iMovie poate face un clip mai tare: creezi un proiect de film, adaugi videoclipul, atingi clipul, atingi pictograma difuzorului și tragi cursorul spre dreapta. Există două limite. Cursorul se oprește la circa 500% (5×), ceea ce adesea nu ajunge pentru ceva filmat din cealaltă parte a camerei. Și trebuie să creezi un proiect și să exporți din nou tot videoclipul, ceea ce durează câteva minute la un clip lung."
+      ],
+      "list": [
+        "Deschide iMovie → Începeți un proiect nou → Film și alege videoclipul.",
+        "Atinge clipul în cronologie, atinge pictograma difuzorului și trage cursorul de volum spre dreapta (maximum circa 500%).",
+        "Atinge OK → Partajați → Salvați video și așteaptă să se termine exportul."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Opțiunea 3: Volume Boost (până la 10×, un cursor, sub un minut)",
+      "paragraphs": [
+        "Amplificator – Volume Boost e făcut exact pentru asta. Deschide orice videoclip din Poze sau Fișiere, îți arată un singur cursor „Multiplicare volum” până la ×10 (1000%), te lasă să compari Original și Procesat înainte să salvezi și salvează rezultatul prin fila obișnuită de partajare iOS. Deschide și fișiere doar audio, cum ar fi MP3 și înregistrări din Reportofon, pe care iMovie nu le deschide.",
+        "Procesarea se face pe iPhone. Nu se încarcă nimic, nu ai nevoie de cont, iar videoclipul exportat nu are filigran."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Pas cu pas: mărește volumul unui videoclip cu Volume Boost",
+    "intro": "Pentru un clip obișnuit durează cam un minut. Ai nevoie de aplicația gratuită din App Store și de videoclip în Poze sau Fișiere.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Deschide videoclipul în aplicație",
+        "text": "Deschide aplicația și adaugă videoclipul din Poze sau Fișiere. Mai rapid: deschide videoclipul în Poze, atinge Partajați și alege Increase Volume; proiectul se creează imediat."
+      },
+      {
+        "name": "Verifică detaliile",
+        "text": "Aplicația arată numele fișierului, dimensiunea și durata, ca să știi sigur că e clipul potrivit. Dacă e mai ales vorbire, activează „Îmbunătățește calitatea audio”."
+      },
+      {
+        "name": "Alege amplificarea",
+        "text": "Trage „Multiplicare volum”. Începe cu ×3–×5 dacă videoclipul e doar puțin încet; mergi la ×10 dacă abia îl auzi. Atinge „Amplifică volumul la ×N”."
+      },
+      {
+        "name": "Compară Original și Procesat",
+        "text": "Folosește comutatorul de sub buton ca să treci între original și versiunea amplificată. Dacă părțile tari sună spart, întoarce-te și scade multiplicarea cu o treaptă."
+      },
+      {
+        "name": "Descarcă și partajează",
+        "text": "Atinge „Descarcă procesat”. În fila de partajare alege Salvați video ca să pui copia mai tare în Poze, Salvați în Fișiere, sau trimite-o direct prin Mesaje, WhatsApp, AirDrop sau TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Sfaturi pentru cel mai bun rezultat",
+    "items": [
+      "Amplifică *înainte* să postezi pe TikTok, Instagram sau YouTube. Platformele egalizează volumul la încărcare, dar nu salvează o pistă care ajunge prea încet.",
+      "Dacă clipul are un moment tare (râs, o ușă trântită) cu vorbire încet în jur, folosește o multiplicare moderată (×3–×5) și activează „Îmbunătățește calitatea audio” în loc să mergi la ×10.",
+      "Originalul rămâne neatins. Aplicația creează mereu un fișier nou, așa că poți încerca mai multe niveluri.",
+      "Un videoclip filmat cu microfonul acoperit (husă, deget) sună încet *și* înfundat; amplificarea repară nivelul, nu sunetul înfundat."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Pot mări volumul unui videoclip pe iPhone fără aplicație?",
+      "answer": "Doar cu iMovie, pe care Apple îl oferă gratuit și care face un clip de până la circa 500% mai tare. Poze nu poate crește volumul. Pentru mai mult de 5× sau un flux mai rapid, folosește Volume Boost."
+    },
+    {
+      "question": "Scade calitatea videoclipului când măresc volumul?",
+      "answer": "Imaginea nu se schimbă deloc. Sunetul se înmulțește; dacă împingi prea tare o înregistrare care are deja vârfuri puternice, poate distorsiona și suna spart. De aceea aplicația are comutatorul Original/Procesat, ca să asculți înainte să salvezi."
+    },
+    {
+      "question": "Rămâne videoclipul tare când îl trimit?",
+      "answer": "Da. Amplificarea e în pista audio a fișierului, deci se redă la noul nivel pe orice telefon, calculator sau rețea socială."
+    },
+    {
+      "question": "Funcționează cu videoclipuri descărcate?",
+      "answer": "Da, atâta timp cât fișierul e în Poze sau Fișiere și nu e protejat la copiere. Aplicația deschide fișiere MP4 și MOV din orice sursă."
+    }
+  ],
+  "related": [
+    "volum-mai-tare-fara-pierderea-calitatii",
+    "inregistrare-ecran-sunet-incet-iphone",
+    "imovie-volum-peste-500"
+  ],
+  "cta": {
+    "title": "Fă-ți videoclipul mai tare acum",
+    "text": "Amplificator – Volume Boost e gratuit în App Store. Partajează videoclipul cu aplicația, trage până la ×10 și atinge „Descarcă procesat”."
+  },
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

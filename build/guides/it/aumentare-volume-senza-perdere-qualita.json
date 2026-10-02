@@ -1,0 +1,140 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "aumentare il volume senza perdere qualità",
+  "priority": 10,
+  "keywords": "aumentare volume senza perdere qualità, alzare volume senza distorsione, audio gracchia quando alzo il volume, potenziare senza clipping, perdita di qualità alzando il volume",
+  "title": "Come aumentare il volume di un video senza perdere qualità",
+  "description": "Esagerare con il volume fa distorcere l'audio. Scopri cosa succede quando potenzi, quanto margine è sicuro e come verificare con Originale/Elaborato prima.",
+  "h1": "Come aumentare il volume di un video senza perdere qualità",
+  "eyebrow": "Qualità",
+  "card_title": "Alzare il volume senza distorsione",
+  "card_summary": "Cos'è il clipping, quanto margine ha una registrazione bassa e come verificare prima di salvare.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Alzare il volume non tocca l'immagine e non rovina l'audio finché i picchi più forti restano sotto il limite digitale. Su iPhone apri il video in Aumenta Volume, parti da ×3, tocca «Potenzia volume» e ascolta il momento più forte con il selettore Originale/Elaborato. Alza il moltiplicatore finché suona chiaramente forte ma non duro. Per il parlato attiva «Migliora qualità audio» e salva con «Scarica elaborato». Il file originale non viene mai modificato.",
+  "intro": [
+    "«Non distorce?» è la prima domanda che tutti fanno su un amplificatore di volume, ed è la domanda giusta. Alzare il volume è una moltiplicazione: ogni campione audio diventa più grande. Se i più grandi raggiungono il valore massimo consentito dal formato, vengono tagliati piatti e senti un crepitio o una durezza nelle parti forti. Si chiama clipping, ed è l'unico vero rischio per la qualità.",
+    "La buona notizia: una registrazione *bassa*, per definizione, ha molto margine prima di quel limite. Questa guida spiega come sfruttarlo e come verificare il risultato prima di salvare."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/it/5.webp",
+    "alt": "Schermata «Ascolta il risultato» di Aumenta Volume con il pulsante Scarica elaborato e il selettore Originale/Elaborato",
+    "caption": "Confronta sempre il passaggio più forte con Originale/Elaborato prima di scaricare."
+  },
+  "sections": [
+    {
+      "heading": "Cosa cambia davvero quando alzi il volume",
+      "paragraphs": [
+        "Viene elaborata solo la traccia audio. Il video passa invariato, quindi risoluzione, frame rate e colori restano identici. Nell'audio, un moltiplicatore ×2 raddoppia l'ampiezza (circa +6 dB), ×4 dà circa +12 dB e ×10 dà +20 dB. Il rumore della registrazione (ronzio della stanza, vento) viene moltiplicato allo stesso modo, quindi un potenziamento molto forte su una registrazione rumorosa può fruscare anche se nulla va in clipping."
+      ]
+    },
+    {
+      "heading": "Quanto potenziamento è sicuro?",
+      "paragraphs": [
+        "Dipende da quanto il momento più forte è lontano dal limite, non da quanto è basso il livello *medio*. Una registrazione che sembra bassissima ma ha una porta che sbatte al livello massimo non regge molto potenziamento prima che la porta distorca. Una registrazione bassa e uniforme, come una lezione dall'ultima fila, spesso regge ×8–×10 in modo pulito."
+      ],
+      "table": {
+        "head": [
+          "Registrazione",
+          "Intervallo sicuro tipico",
+          "Note"
+        ],
+        "rows": [
+          [
+            "Memo vocale o lezione registrata da lontano",
+            "×5 – ×10",
+            "Per il parlato attiva Migliora qualità audio."
+          ],
+          [
+            "Video del telefono solo un po' basso",
+            "×2 – ×4",
+            "Controlla la risata o l'applauso più forte."
+          ],
+          [
+            "Registrazione dello schermo",
+            "×5 – ×10",
+            "Spesso molto sotto il livello normale."
+          ],
+          [
+            "Musica con strofe piano e ritornello forte",
+            "×1,5 – ×3",
+            "È il ritornello a fissare il limite."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Usa il controllo Originale/Elaborato",
+      "paragraphs": [
+        "Aumenta Volume elabora il file e mostra il selettore Originale/Elaborato prima di salvare qualsiasi cosa. Trova il momento più forte e passa da uno all'altro. Se l'Elaborato lì suona duro o crepita, abbassa il moltiplicatore di un passo e potenzia di nuovo. Siccome l'app crea un nuovo file, puoi sperimentare liberamente; l'originale non si tocca."
+      ]
+    },
+    {
+      "heading": "Migliora qualità audio: quando attivarlo",
+      "paragraphs": [
+        "L'opzione «Migliora qualità audio» aggiunge un'elaborazione orientata alla comprensibilità che aiuta soprattutto il parlato: interviste, lezioni, vocali, tutorial registrati dallo schermo. Per la musica prova entrambe le impostazioni e tieni la più naturale. Nella versione attuale l'opzione è indicata come sperimentale, quindi ascolta sempre il risultato."
+      ]
+    },
+    {
+      "id": "privacy",
+      "heading": "Privacy: tutto resta sul tuo telefono",
+      "paragraphs": [
+        "Aumenta Volume elabora i file sull'iPhone. Non viene caricato nulla, non c'è un account e il risultato si salva con il normale foglio di condivisione di iOS in Foto, File o nell'app che preferisci. Gli amplificatori online ti obbligano a inviare il file a un server e spesso lo ricodificano a qualità inferiore; un'app locale evita entrambe le cose."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Passo dopo passo: un potenziamento pulito",
+    "intro": "Stesso flusso per video e audio.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Apri il file nell'app",
+        "text": "Aggiungilo da Foto o File, oppure condividilo con l'app da qualsiasi posto."
+      },
+      {
+        "name": "Decidi su Migliora qualità audio",
+        "text": "Attivo per il parlato; per la musica prova entrambe le opzioni."
+      },
+      {
+        "name": "Parti con moderazione",
+        "text": "Imposta «Moltiplicazione volume» a ×3 e tocca «Potenzia volume»."
+      },
+      {
+        "name": "Controlla il momento più forte",
+        "text": "Passa da Originale a Elaborato nella parte più forte. Pulito? Alza il moltiplicatore e ripeti. Duro? Abbassalo."
+      },
+      {
+        "name": "Salva",
+        "text": "Tocca «Scarica elaborato» e salva in Foto o File. L'originale resta intatto."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consigli",
+    "items": [
+      "Controlla in cuffia; l'altoparlante del telefono nasconde un leggero clipping.",
+      "Sui file rumorosi, un moltiplicatore un po' più basso con «Migliora qualità audio» suona spesso meglio del massimo.",
+      "Potenzia una volta sola, dall'originale. Ripotenziare un'esportazione già potenziata accumula i difetti."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Alzare il volume riduce la risoluzione del video?",
+      "answer": "No. Viene elaborato solo l'audio. Il video mantiene risoluzione, frame rate e bitrate."
+    },
+    {
+      "question": "Che suono ha la distorsione da volume eccessivo?",
+      "answer": "Un crepitio, un ronzio o una durezza solo nei momenti più forti, mentre le parti piano suonano bene. Se la senti, abbassa il moltiplicatore."
+    },
+    {
+      "question": "×10 è troppo?",
+      "answer": "Non per registrazioni davvero basse, come memo vocali lontani o registrazioni dello schermo. Per un normale video del telefono spesso bastano ×2–×4. Lascia decidere il controllo Originale/Elaborato."
+    }
+  ],
+  "related": [
+    "come-aumentare-il-volume-di-un-video-su-iphone",
+    "aumentare-volume-memo-vocali-iphone",
+    "perche-il-video-ha-audio-basso"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "subir volumen sin perder calidad",
+  "priority": 10,
+  "keywords": "subir volumen sin perder calidad, subir volumen sin distorsión, el audio se satura al subir volumen, aumentar volumen sin saturar, pierde calidad al subir volumen",
+  "title": "Subir el volumen de un vídeo sin perder calidad (iPhone)",
+  "description": "Si te pasas, el audio se satura. Aprende cómo funciona el aumento, cuánto es seguro y cómo comprobarlo con Original/Procesado en Aumentar Volumen. Paso a paso.",
+  "h1": "Cómo subir el volumen de un vídeo sin perder calidad",
+  "eyebrow": "Calidad",
+  "card_title": "Subir volumen sin distorsión",
+  "card_summary": "Qué es la saturación, cuánto margen tiene una grabación baja y cómo comprobarlo antes de guardar.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Subir el volumen no toca la imagen ni empeora el audio mientras los picos más fuertes queden por debajo del techo digital. En el iPhone, abre el vídeo en Aumentar Volumen, empieza en ×3, toca «Potenciar volumen» y escucha el momento más fuerte con el selector Original/Procesado. Sube el multiplicador hasta que suene claramente alto pero no áspero. Con voz, activa «Mejorar calidad de audio», y guarda con «Descargar procesado». El archivo original nunca se modifica.",
+  "intro": [
+    "«¿No se va a distorsionar?» es la primera pregunta que todo el mundo hace sobre un amplificador de volumen, y es la pregunta correcta. Subir el volumen es multiplicar: cada muestra de audio se hace más grande. Si las más grandes llegan al valor máximo que permite el formato, se cortan en plano y oyes un crujido o aspereza en las partes fuertes. Eso es la saturación (clipping) y es el único riesgo real para la calidad.",
+    "La buena noticia: una grabación *baja*, por definición, tiene mucho espacio hasta ese techo. Esta guía explica cómo aprovecharlo y cómo comprobar el resultado antes de guardar."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/es/5.webp",
+    "alt": "Captura de la pantalla de resultado de Aumentar Volumen con el botón Descargar procesado y el selector Original/Procesado",
+    "caption": "Compara siempre la parte más fuerte con Original/Procesado antes de descargar."
+  },
+  "sections": [
+    {
+      "heading": "Qué cambia de verdad al subir el volumen",
+      "paragraphs": [
+        "Solo se procesa la pista de audio. El vídeo pasa sin tocar, así que la resolución, la frecuencia de imagen y los colores quedan exactamente igual. En el audio, un multiplicador ×2 duplica la amplitud (unos +6 dB), ×4 son unos +12 dB y ×10 son +20 dB. El ruido de la grabación (zumbido de la sala, viento) se multiplica igual, por eso un aumento muy grande en una grabación ruidosa puede sonar con soplido aunque nada se sature."
+      ]
+    },
+    {
+      "heading": "¿Cuánto aumento es seguro?",
+      "paragraphs": [
+        "Depende de lo lejos que esté del techo el momento más fuerte, no de lo bajo que sea el *promedio*. Una grabación que suena muy baja pero tiene un portazo a nivel máximo no aguanta mucho aumento antes de que el portazo se sature. Una grabación baja y uniforme, como una clase grabada desde la última fila, suele aguantar ×8–×10 limpia."
+      ],
+      "table": {
+        "head": [
+          "Grabación",
+          "Rango seguro habitual",
+          "Notas"
+        ],
+        "rows": [
+          [
+            "Nota de voz o clase grabada de lejos",
+            "×5 – ×10",
+            "Activa Mejorar calidad de audio con voz."
+          ],
+          [
+            "Vídeo del móvil que solo está algo bajo",
+            "×2 – ×4",
+            "Revisa la risa o el aplauso más fuerte."
+          ],
+          [
+            "Grabación de pantalla",
+            "×5 – ×10",
+            "Suele estar muy por debajo de lo normal."
+          ],
+          [
+            "Música con estrofas suaves y estribillo fuerte",
+            "×1,5 – ×3",
+            "El estribillo marca el límite."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Usa la comprobación Original/Procesado",
+      "paragraphs": [
+        "Aumentar Volumen procesa el archivo y muestra el selector Original/Procesado antes de guardar nada. Busca el momento más fuerte y alterna entre los dos. Si el Procesado suena áspero o cruje ahí, baja un paso el multiplicador y vuelve a potenciar. Como la app crea un archivo nuevo, puedes probar libremente; el original no se toca."
+      ]
+    },
+    {
+      "heading": "Mejorar calidad de audio: cuándo activarlo",
+      "paragraphs": [
+        "El interruptor «Mejorar calidad de audio» añade un procesado orientado a la inteligibilidad, que ayuda sobre todo con la voz: entrevistas, clases, audios, tutoriales grabados en pantalla. Con música, prueba los dos ajustes y quédate con el más natural. En la versión actual la opción figura como experimental, así que escucha siempre el resultado."
+      ]
+    },
+    {
+      "id": "privacidad",
+      "heading": "Privacidad: todo se queda en tu móvil",
+      "paragraphs": [
+        "Aumentar Volumen procesa los archivos en el iPhone. No se sube nada, no hay cuenta y el resultado se guarda con la hoja de compartir normal de iOS en Fotos, Archivos o la app que elijas. Los amplificadores online obligan a enviar el archivo a un servidor y suelen recodificarlo con menos calidad; una app local evita las dos cosas."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Paso a paso: un aumento limpio",
+    "intro": "Mismo flujo para vídeo y audio.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Abre el archivo en Aumentar Volumen",
+        "text": "Añádelo desde Fotos o Archivos, o compártelo con la app desde cualquier sitio."
+      },
+      {
+        "name": "Decide sobre Mejorar calidad de audio",
+        "text": "Activado para voz; con música, prueba las dos opciones."
+      },
+      {
+        "name": "Empieza moderado",
+        "text": "Pon «Multiplicación del volumen» en ×3 y toca «Potenciar volumen»."
+      },
+      {
+        "name": "Revisa el momento más fuerte",
+        "text": "Alterna Original/Procesado en la parte más fuerte. ¿Limpio? Sube el multiplicador y repite. ¿Áspero? Bájalo."
+      },
+      {
+        "name": "Guarda",
+        "text": "Toca «Descargar procesado» y guarda en Fotos o Archivos. El original queda intacto."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consejos",
+    "items": [
+      "Comprueba con auriculares; el altavoz del móvil esconde la saturación ligera.",
+      "En archivos con ruido, un multiplicador algo menor con «Mejorar calidad de audio» suele sonar mejor que el máximo.",
+      "Potencia una vez, desde el original. Volver a potenciar una exportación ya potenciada acumula los defectos."
+    ]
+  },
+  "faq": [
+    {
+      "question": "¿Subir el volumen baja la resolución del vídeo?",
+      "answer": "No. Solo se procesa el audio. El vídeo conserva resolución, frecuencia de imagen y tasa de bits."
+    },
+    {
+      "question": "¿Cómo suena la distorsión por pasarse con el volumen?",
+      "answer": "Como un crujido, zumbido o aspereza solo en los momentos más fuertes, mientras las partes suaves suenan bien. Si lo oyes, baja el multiplicador."
+    },
+    {
+      "question": "¿×10 es demasiado?",
+      "answer": "No para grabaciones realmente bajas, como notas de voz lejanas o grabaciones de pantalla. Para un vídeo normal del móvil suele bastar con ×2–×4. Que decida la comprobación Original/Procesado."
+    }
+  ],
+  "related": [
+    "como-subir-el-volumen-de-un-video-en-iphone",
+    "subir-volumen-nota-de-voz-iphone",
+    "por-que-mi-video-de-iphone-se-escucha-bajo"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie volym över 500 %",
+  "priority": 11,
+  "keywords": "iMovie volym över 500 %, iMovie högre ljud, iMovie volymgräns, höja ljudet i iMovie iPhone, iMovie för lågt ljud",
+  "title": "iMovie stannar på 500 %? Så får du videon ännu högre",
+  "description": "Volymreglaget i iMovie på iPhone stannar runt 500 %. Så gör du klippet upp till 1000 % (10×) högre med Volymförstärkare, före iMovie eller efter exporten.",
+  "h1": "iMovie-volym över 500 %: så går du förbi gränsen",
+  "eyebrow": "iMovie",
+  "card_title": "iMovie över 500 %",
+  "card_summary": "iMovie stannar runt 5×. Förstärk klippet till 10× innan det hamnar i projektet.",
+  "quick_answer": "I iMovie på iPhone stannar volymreglaget runt 500 % (5×). För mer: förstärk klippet i Volymförstärkare först (Dela → Increase Volume, upp till ×10), spara det i Bilder och importera den högre kopian i iMovie. Eller hoppa över iMovie helt: appen öppnar även rena ljudfiler och sparar utan projekt eller export.",
+  "intro": [
+    "iMovie är gratis och bra för att klippa, men volymen har ett tak. När 500 % inte räcker är den vanliga lösningen att duplicera ljudspåret, vilket iMovie på iPhone inte gör enkelt.",
+    "Här är en snabbare väg."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Reglaget «Volymmultiplikation ×10» och knappen «Boosta volymen till ×10» i Volymförstärkare",
+    "caption": "Volymförstärkare går till ×10, dubbelt så högt som iMovies gräns."
+  },
+  "sections": [
+    {
+      "heading": "iMovie mot Volymförstärkare",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Volymförstärkare"
+        ],
+        "rows": [
+          [
+            "Max volym",
+            "runt 500 % (5×)",
+            "1000 % (10×)"
+          ],
+          [
+            "Ljudfiler (MP3, M4A)",
+            "Nej",
+            "Ja"
+          ],
+          [
+            "Projekt och export",
+            "Krävs",
+            "Nej, ett reglage"
+          ],
+          [
+            "Förhandslyssning före sparande",
+            "I tidslinjen",
+            "Original/Bearbetad"
+          ],
+          [
+            "Pris",
+            "Gratis",
+            "Gratis nedladdning, prenumeration"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Kombinera dem",
+      "paragraphs": [
+        "Använd Volymförstärkare för nivån och iMovie för klippningen. Förstärk råklippet till exempelvis ×8, importera det i iMovie och fortsätt redigera. Då behöver du inte dra iMovies reglage till max."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Gå förbi 500 %",
+    "intro": "Innan du lägger klippet i iMovie.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Dela klippet till appen",
+        "text": "I Bilder: Dela → Increase Volume."
+      },
+      {
+        "name": "Förstärk",
+        "text": "Dra «Volymmultiplikation» till ×6–×10 och tryck på «Boosta volymen till ×N»."
+      },
+      {
+        "name": "Spara",
+        "text": "«Hämta bearbetad» → Spara video."
+      },
+      {
+        "name": "Importera i iMovie",
+        "text": "Lägg den högre kopian i iMovie-projektet och fortsätt."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Förstärk före klippning; ny export från iMovie tar tid.",
+      "Har du redan exporterat från iMovie, förstärk den exporterade filen.",
+      "Är det tal, slå på «Förbättra ljudkvalitet»."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Vad är maxvolymen i iMovie på iPhone?",
+      "answer": "Runt 500 % (5×) per klipp."
+    },
+    {
+      "question": "Kan jag göra ett klipp högre än 500 % i iMovie?",
+      "answer": "Inte direkt. Förstärk klippet i Volymförstärkare först och importera det högre klippet."
+    },
+    {
+      "question": "Öppnar Volymförstärkare iMovie-projekt?",
+      "answer": "Nej, men den öppnar videorna du exporterar från iMovie."
+    }
+  ],
+  "related": [
+    "gor-ljudet-pa-en-video-hogre-iphone",
+    "hogre-utan-kvalitetsforlust",
+    "hoj-volymen-pa-video-i-bilder"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

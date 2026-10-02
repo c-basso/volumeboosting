@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "kako pojačati zvuk videa na iPhoneu",
+  "priority": 1,
+  "keywords": "kako pojačati zvuk videa na iPhoneu, pojačati glasnoću videa, video pretih, tihi video iPhone, pojačivač glasnoće za video",
+  "title": "Kako pojačati zvuk videa na iPhoneu (do 10× glasnije)",
+  "description": "Pojačaj tihi video na iPhoneu za manje od minute: što mogu Fotografije i iMovie, gdje staju i kako doći do 10× uz Pojačaj Glasnoću Zvuka i jedan klizač.",
+  "h1": "Kako pojačati zvuk videa na iPhoneu",
+  "eyebrow": "Video",
+  "card_title": "Pojačaj zvuk videa",
+  "card_summary": "Fotografije ne pojačavaju zvuk, a iMovie staje na oko 500 %. Ovako dolaziš do 10× jednim klizačem.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Da bi pojačao zvuk videa na iPhoneu, otvori ga u aplikaciji Pojačaj Glasnoću Zvuka (Increase Volume, besplatno u App Storeu), povuci klizač „Množitelj glasnoće” do ×10, dodirni „Pojačaj glasnoću”, usporedi Izvorno i Obrađeno i dodirni „Preuzmi obrađeno”. Glasnija kopija sprema se u Fotografije ili Datoteke i glasno zvuči na svakom uređaju i u svakoj aplikaciji. Aplikacija Fotografije nema način za pojačavanje zvuka, a iMovie staje na otprilike 500 %.",
+  "intro": [
+    "Snimiš trenutak, pošalješ ga prijatelju i dobiješ odgovor: „Ništa se ne čuje.” Video s tihim zvukom jedan je od najčešćih problema na iPhoneu jer rješenje nije tamo gdje ga ljudi traže. Tipke za glasnoću mijenjaju samo koliko glasno svira tvoj telefon, a uređivač u Fotografijama nema nikakvu kontrolu glasnoće.",
+    "Ovaj vodič prolazi kroz tri stvarne mogućnosti na iPhoneu, što svaka može, a što ne, i zatim najbrži način: pomnožiti zvuk videa do 10× uz Pojačaj Glasnoću Zvuka i trajno spremiti glasniju datoteku."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/2.webp",
+    "alt": "Snimka zaslona „Make video louder”: prst povlači ružičasti klizač preko videa u aplikaciji Pojačaj Glasnoću Zvuka",
+    "caption": "Klizač je iznad pretpregleda videa. Povuci, poslušaj i spremi."
+  },
+  "sections": [
+    {
+      "heading": "Zašto pojačavanje glasnoće telefona ne popravlja video",
+      "paragraphs": [
+        "Tipke za glasnoću na iPhoneu mijenjaju koliko glasno svira *tvoj* zvučnik. Ne mijenjaju zvuk unutar video datoteke. Kad podijeliš datoteku, telefon primatelja reproducira je na izvornoj, tihoj razini. Da bi se problem stvarno riješio, treba podići razinu samog audiozapisa i spremiti novu datoteku. Upravo to radi pojačivač glasnoće za video."
+      ]
+    },
+    {
+      "heading": "Mogućnost 1: aplikacija Fotografije (ne pojačava zvuk)",
+      "paragraphs": [
+        "Otvori video u Fotografijama i dodirni Uredi. Vidjet ćeš ikonu zvučnika koja samo utišava isječak, a na iPhoneu 16 ili novijem, za videe snimljene s prostornim zvukom, i Audio Mix koji mijenja ravnotežu između glasova i pozadinske buke. Nijedno od toga ne pojačava ukupnu glasnoću. Ako je cijela snimka tiha, Fotografije neće pomoći."
+      ]
+    },
+    {
+      "heading": "Mogućnost 2: iMovie (besplatno, granica oko 500 %)",
+      "paragraphs": [
+        "iMovie može pojačati isječak: napravi filmski projekt, dodaj video, dodirni isječak, dodirni ikonu zvučnika i povuci klizač udesno. Postoje dva ograničenja. Klizač staje na otprilike 500 % (5×), što često nije dovoljno za nešto snimljeno s drugog kraja prostorije. I moraš napraviti projekt te ponovno izvesti cijeli video, što kod dužeg isječka traje nekoliko minuta."
+      ],
+      "list": [
+        "Otvori iMovie → Novi projekt → Film i odaberi video.",
+        "Dodirni isječak na vremenskoj crti, dodirni ikonu zvučnika i povuci klizač glasnoće udesno (najviše oko 500 %).",
+        "Dodirni Gotovo → Podijeli → Spremi video i pričekaj kraj izvoza."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Mogućnost 3: Pojačaj Glasnoću Zvuka (do 10×, jedan klizač, manje od minute)",
+      "paragraphs": [
+        "Pojačaj Glasnoću Zvuka napravljena je upravo za ovo. Otvara bilo koji video iz Fotografija ili Datoteka, prikazuje jedan klizač „Množitelj glasnoće” koji ide do ×10 (1000 %), omogućuje usporedbu Izvorno/Obrađeno prije spremanja i sprema rezultat uobičajenim iOS listom za dijeljenje. Otvara i čiste audio datoteke, poput MP3-a i snimki iz Diktafona, koje iMovie ne otvara.",
+        "Obrada se odvija na iPhoneu. Ništa se ne prenosi, ne treba račun, a izvezeni video nema vodeni žig."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Korak po korak: pojačaj zvuk videa uz Pojačaj Glasnoću Zvuka",
+    "intro": "Za običan isječak treba otprilike minuta. Trebaš besplatnu aplikaciju iz App Storea i video u Fotografijama ili Datotekama.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Otvori video u aplikaciji",
+        "text": "Otvori aplikaciju i dodaj video iz Fotografija ili Datoteka. Brže: otvori video u Fotografijama, dodirni Podijeli i odaberi Increase Volume; projekt se odmah stvara."
+      },
+      {
+        "name": "Provjeri pojedinosti",
+        "text": "Aplikacija prikazuje naziv datoteke, veličinu i trajanje da potvrdiš da je to pravi isječak. Ako je riječ uglavnom o govoru, uključi „Poboljšaj kvalitetu zvuka”."
+      },
+      {
+        "name": "Odaberi pojačanje",
+        "text": "Povuci „Množitelj glasnoće”. Kreni s ×3 do ×5 ako je video samo malo tih; idi do ×10 ako se jedva čuje. Dodirni „Pojačaj glasnoću na ×N”."
+      },
+      {
+        "name": "Usporedi Izvorno i Obrađeno",
+        "text": "Prekidačem ispod tipke prebacuj između izvornika i pojačane verzije. Ako glasni dijelovi zvuče grubo, vrati se i smanji množitelj za korak."
+      },
+      {
+        "name": "Preuzmi i podijeli",
+        "text": "Dodirni „Preuzmi obrađeno”. Na listu za dijeljenje odaberi Spremi video da glasnija kopija ode u Fotografije, Spremi u Datoteke ili je pošalji izravno u Poruke, WhatsApp, AirDrop ili TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Savjeti za najbolji rezultat",
+    "items": [
+      "Pojačaj *prije* objave na TikToku, Instagramu ili YouTubeu. Platforme izjednačavaju glasnoću pri prijenosu, ali ne spašavaju zapis koji stigne pretih.",
+      "Ako isječak ima glasan trenutak (smijeh, lupanje vrata) i tih govor oko njega, koristi umjeren množitelj (×3–×5) i uključi „Poboljšaj kvalitetu zvuka” umjesto da ideš na ×10.",
+      "Izvornik ostaje netaknut. Aplikacija uvijek stvara novu datoteku, pa možeš isprobati više razina.",
+      "Video snimljen s pokrivenim mikrofonom (maska, prst) zvuči tiho *i* prigušeno; pojačanje popravlja razinu, ne prigušenost."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Može li se pojačati zvuk videa na iPhoneu bez aplikacije?",
+      "answer": "Samo uz iMovie, koji Apple nudi besplatno i koji pojačava isječak do oko 500 %. Fotografije ne mogu pojačati zvuk. Za više od 5× ili brži postupak koristi Pojačaj Glasnoću Zvuka."
+    },
+    {
+      "question": "Gubi li video kvalitetu kad ga pojačaš?",
+      "answer": "Slika se uopće ne mijenja. Zvuk se množi; ako previše forsiraš snimku koja već ima glasne vrhove, može se odrezati i zvučati grubo. Zato aplikacija ima prekidač Izvorno/Obrađeno, da poslušaš prije spremanja."
+    },
+    {
+      "question": "Ostaje li video glasan kad ga pošaljem?",
+      "answer": "Da. Pojačanje je upisano u audiozapis datoteke, pa zvuči na novoj razini na svakom telefonu, računalu ili društvenoj mreži."
+    },
+    {
+      "question": "Radi li to s preuzetim videima?",
+      "answer": "Da, sve dok je datoteka u Fotografijama ili Datotekama i nema zaštitu od kopiranja. Aplikacija otvara MP4 i MOV datoteke iz bilo kojeg izvora."
+    }
+  ],
+  "related": [
+    "pojacati-glasnocu-bez-gubitka-kvalitete",
+    "snimka-zaslona-pretiha-iphone",
+    "imovie-glasnoca-vise-od-500"
+  ],
+  "cta": {
+    "title": "Pojačaj svoj video odmah",
+    "text": "Pojačaj Glasnoću Zvuka je besplatna u App Storeu. Podijeli video s aplikacijom, povuci do ×10 i dodirni „Preuzmi obrađeno”."
+  }
+}

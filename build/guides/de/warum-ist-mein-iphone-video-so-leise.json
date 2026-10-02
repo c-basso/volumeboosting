@@ -1,0 +1,115 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "iPhone Video zu leise",
+  "priority": 7,
+  "keywords": "iPhone Video zu leise, warum ist mein Video so leise, Video Ton leise iPhone, aufgenommenes Video zu leise, iPhone Mikrofon leise Video",
+  "title": "Warum ist mein iPhone-Video so leise? 7 Ursachen und Lösung",
+  "description": "Leise iPhone-Videos entstehen durch Abstand, verdecktes Mikrofon, Wind, Bluetooth oder ein Kopfhörerlimit. Ursache finden, Datei mit Increase Volume verstärken.",
+  "h1": "Warum ist mein iPhone-Video so leise? Ursachen und Lösung",
+  "eyebrow": "Fehlersuche",
+  "card_title": "Warum ist mein iPhone-Video so leise?",
+  "card_summary": "Sieben Ursachen, vom verdeckten Mikrofon bis zum Kopfhörerlimit, und wie du das schon gedrehte Video rettest.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Ein iPhone-Video ist entweder leise *aufgenommen* (Sprecher zu weit vom Mikrofon, Mikrofon durch Hülle oder Finger verdeckt, Wind, niedrige App-Lautstärke bei der Bildschirmaufnahme) oder es wird leise *abgespielt* (Bluetooth-Gerät verbunden, „Laute Töne reduzieren“, verschmutzter Lautsprecher). Prüfe die Wiedergabe-Ursachen zuerst mit einem anderen Video. Ist die Aufnahme selbst leise, hilft keine Einstellung; verstärke die Datei mit Increase Volume bis 10× und sichere eine lautere Kopie.",
+  "intro": [
+    "Finde zuerst heraus, welche Art von leise du hast. Spiel ein anderes Video ab, von dem du weißt, dass es in Ordnung ist. Ist es laut, ist dein Handy okay und das Problem steckt in der Aufnahme. Ist alles leise, liegt es an der Wiedergabe. Ursachen und Lösungen sind völlig verschieden, dieser Test von dreißig Sekunden spart viel Zeit.",
+    "Unten findest du die sieben häufigsten Ursachen, sortiert danach, wie oft sie der Grund sind."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/de/1.webp",
+    "alt": "Marketing-Screenshot von Increase Volume: Volumen erhöhen bis zu 1000 %, ×10 lauter",
+    "caption": "Ist die Aufnahme selbst leise, ist die Lösung, die Datei zu verstärken."
+  },
+  "sections": [
+    {
+      "heading": "Ursachen bei der Aufnahme (das Video ist überall leise)",
+      "paragraphs": [
+        "Diese stecken in der Datei. Sie erklären, warum das Video auf jedem Handy leise ist, an das du es schickst."
+      ],
+      "list": [
+        "Abstand: Handymikrofone sind auf einen Sprecher in etwa einem Meter Entfernung ausgelegt. Jemand am anderen Ende des Raums klingt schwach und hallig.",
+        "Verdecktes Mikrofon: Das Hauptmikrofon für Video sitzt bei den Rückkameras; eine dicke Hülle, ein Finger oder ein Griff kann es dämpfen. Die Aufnahme wird leise und dumpf.",
+        "Wind und Hintergrundlärm: In lauter Umgebung senkt das iPhone die Empfindlichkeit, die sprechende Person wird leiser.",
+        "Pegel bei der Bildschirmaufnahme: iOS nimmt App-Ton reduziert auf, noch leiser, wenn die App-Lautstärke niedrig war oder Bluetooth-Kopfhörer verbunden waren.",
+        "Empfangene Clips: Ein per WhatsApp oder Messenger verschicktes Video wird vom Dienst neu kodiert und kommt manchmal leiser an als das Original."
+      ]
+    },
+    {
+      "id": "wiedergabe",
+      "heading": "Ursachen bei der Wiedergabe (jedes Video ist auf diesem Handy leise)",
+      "paragraphs": [
+        "Diese lassen dein Handy leise spielen; die Datei ist in Ordnung und klingt anderswo normal."
+      ],
+      "list": [
+        "Bluetooth noch verbunden: Der Ton geht an AirPods in der Schublade oder ans Autoradio. Kontrollzentrum öffnen und die Audioausgabe prüfen.",
+        "Laute Töne reduzieren: Einstellungen › Töne & Haptik › Kopfhörersicherheit begrenzt die Kopfhörerlautstärke. Guter Schutz, macht leise Videos im Kopfhörer aber noch leiser.",
+        "Aufmerksamkeitsprüfung (iPhones mit Face ID): Einstellungen › Face ID & Code senkt die Lautstärke von Hinweisen, wenn du aufs Display schaust; manche empfinden auch Medien als leiser.",
+        "Verschmutztes Lautsprechergitter oder Wasserreste: Mit einem trockenen, weichen Pinsel kommt erstaunlich viel Pegel zurück.",
+        "Balance: Einstellungen › Bedienungshilfen › Audio & Visuelles › Balance sollte in der Mitte stehen."
+      ]
+    },
+    {
+      "heading": "Die Lösung für ein leise aufgenommenes Video",
+      "paragraphs": [
+        "Den Moment kannst du nicht neu filmen, und iPhone-Einstellungen ändern keine gespeicherte Datei. Fotos hat keinen Lautstärkeregler; iMovie hebt die Clip-Lautstärke auf etwa 500 %, nachdem du ein Projekt angelegt hast. Increase Volume öffnet das Video direkt aus Fotos, verstärkt den Ton bis ×10, lässt dich Original und Verarbeitet vergleichen und sichert eine neue Kopie. Die lautere Kopie spielt auf jedem Gerät und in jeder App laut.",
+        "War ein verdecktes Mikrofon die Ursache, behebt die Verstärkung den Pegel, aber nicht den dumpfen Klang; schalte „Audioqualität verbessern“ ein, um die Sprache verständlicher zu machen."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Schritt für Schritt: leises Video retten",
+    "intro": "Eine Minute mit der kostenlosen App Increase Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Prüfen, ob es an der Aufnahme liegt",
+        "text": "Ein anderes Video abspielen. Ist es laut, weitermachen; sonst zuerst die Wiedergabe-Ursachen oben lösen."
+      },
+      {
+        "name": "Leises Video an Increase Volume teilen",
+        "text": "In Fotos öffnen, auf Teilen tippen, Increase Volume wählen."
+      },
+      {
+        "name": "Verstärken",
+        "text": "„Lautstärke-Multiplikation“ zum Start auf ×4 (höher bei sehr leisen Clips), bei Sprache „Audioqualität verbessern“ einschalten, auf „Lautstärke verstärken“ tippen."
+      },
+      {
+        "name": "Vergleichen",
+        "text": "An der lautesten Stelle zwischen Original und Verarbeitet wechseln und den Faktor bei Bedarf anpassen."
+      },
+      {
+        "name": "Sichern",
+        "text": "Auf „Verarbeitete Datei laden“ → Video sichern tippen. Teile ab jetzt die neue Kopie statt des Originals."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Beim nächsten Mal lauter aufnehmen",
+    "items": [
+      "Geh auf Armlänge an die sprechende Person heran oder nutze ein kabelgebundenes oder kabelloses Ansteckmikrofon.",
+      "Hülle abnehmen oder prüfen, dass nichts die hinteren Mikrofone verdeckt.",
+      "Vor einer Bildschirmaufnahme Bluetooth trennen und die Medienlautstärke auf Maximum stellen.",
+      "Schirme das Handy mit dem Körper oder der hohlen Hand gegen Wind ab."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Warum ist mein iPhone-Video nur leise, wenn ich es verschicke?",
+      "answer": "Messenger kodieren Videos neu und können den Pegel leicht senken, aber der größere Effekt ist, dass das Handy des Empfängers es im ursprünglichen leisen Pegel abspielt, nicht mit deinem voll aufgedrehten Lautsprecher. Verstärke die Datei vor dem Senden."
+    },
+    {
+      "question": "Kann eine Volume-Booster-App meinen iPhone-Lautsprecher lauter machen?",
+      "answer": "Keine App kann das Hardwarelimit des Lautsprechers überschreiten oder die Systemlautstärke ändern; Apple lässt das nicht zu. Verstärker machen die Datei lauter, und genau das brauchst du, wenn die Aufnahme selbst leise ist."
+    },
+    {
+      "question": "Beeinflusst der Stummschalter die Videolautstärke?",
+      "answer": "Nein. Der Klingeln/Lautlos-Schalter (oder die Aktionstaste) schaltet nur Klingeltöne und Hinweise stumm. Die Medienlautstärke regeln die Lautstärketasten, während ein Video läuft."
+    }
+  ],
+  "related": [
+    "video-lauter-machen-iphone",
+    "bildschirmaufnahme-zu-leise-iphone",
+    "ton-lauter-machen-ohne-qualitaetsverlust"
+  ]
+}

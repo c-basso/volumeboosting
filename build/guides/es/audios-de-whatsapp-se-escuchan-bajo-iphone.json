@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "audios de WhatsApp se escuchan bajo",
+  "priority": 2,
+  "keywords": "audios de WhatsApp se escuchan bajo, subir volumen audio WhatsApp, nota de voz WhatsApp bajita, audios WhatsApp bajo iPhone, audio de Telegram bajo",
+  "title": "¿Audios de WhatsApp se escuchan bajo en iPhone? Solución",
+  "description": "¿Audios de WhatsApp muy bajitos en iPhone? Descarta primero el auricular por el sensor de proximidad; luego exporta el audio y súbelo 10× con Aumentar Volumen.",
+  "h1": "Audios de WhatsApp que se escuchan bajo en iPhone: cómo subirlos",
+  "eyebrow": "WhatsApp y Telegram",
+  "card_title": "Subir el volumen de un audio de WhatsApp",
+  "card_summary": "Dos problemas distintos: el auricular o una grabación realmente baja. Resuelve los dos.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Si todos los audios de WhatsApp se oyen bajo, lo más probable es que el iPhone los esté reproduciendo por el auricular porque tapaste el sensor de proximidad; aleja el móvil de la cara y pulsa subir volumen mientras suena. Si es un audio concreto el que está bajo, expórtalo (mantener pulsado → Reenviar → Compartir → Guardar en Archivos o directamente a Increase Volume), súbelo ×5–×10 con «Mejorar calidad de audio» activado y guarda o reenvía la copia más alta.",
+  "intro": [
+    "Hay dos motivos totalmente distintos por los que un audio de WhatsApp se escucha bajo, y cada uno tiene su solución. El primero: tu iPhone pasa sin avisar al auricular. El segundo: quien lo envió grabó lejos del micrófono o con ruido, y el audio está realmente bajo. Lo primero se comprueba en diez segundos; lo segundo se arregla en un minuto.",
+    "Los mismos pasos valen para Telegram, Signal y los mensajes de audio de iMessage."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/es/6.webp",
+    "alt": "Captura «Descargue y comparta dondequiera»: hoja de compartir de iOS con Guardar en Archivos para un audio potenciado",
+    "caption": "Los audios potenciados se guardan en Archivos o se reenvían directamente al chat."
+  },
+  "sections": [
+    {
+      "heading": "Solución 1: suena por el auricular",
+      "paragraphs": [
+        "WhatsApp pasa la reproducción al auricular (el altavoz pequeño de las llamadas) cuando se tapa el sensor de proximidad junto a la cámara frontal. Basta un dedo, el borde de una funda o acercar el móvil a la cara, y el audio de repente suena como un susurro. Destapa el sensor, aleja el teléfono y pulsa subir volumen *mientras suena el audio*; iOS tiene un volumen aparte para el auricular y puede estar al mínimo.",
+        "Comprueba también que el Bluetooth no esté mandando el sonido a unos auriculares en el bolsillo y que en Ajustes › Sonidos y vibraciones › Seguridad de los auriculares no esté activado Reducir sonidos fuertes."
+      ]
+    },
+    {
+      "heading": "Solución 2: el audio en sí está bajo",
+      "paragraphs": [
+        "Si los demás audios se oyen bien y este no, la grabación está baja. WhatsApp no tiene control de volumen para los audios recibidos y los botones de volumen no pasan del 100 %. Tienes que subir el volumen del propio archivo. WhatsApp te deja exportar un audio como archivo y Aumentar Volumen lo multiplica hasta ×10 y te da una copia nueva para guardar o reenviar."
+      ]
+    },
+    {
+      "heading": "Cómo exportar un audio de WhatsApp, Telegram o Mensajes",
+      "list": [
+        "WhatsApp: mantén pulsado el audio → Reenviar → icono de Compartir (abajo a la izquierda) → elige Increase Volume o Guardar en Archivos.",
+        "Telegram: mantén pulsado el audio → Reenviar o Compartir → Guardar en Archivos o comparte con Increase Volume.",
+        "Mensajes de audio de iMessage: mantén pulsado → Guardar (se va a Notas de Voz) y compártelo desde ahí.",
+        "Signal: mantén pulsado → Guardar → Guardar en Archivos."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Paso a paso: subir el volumen de un audio de WhatsApp",
+    "intro": "Un minuto con la app gratuita Aumentar Volumen.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Exporta el audio",
+        "text": "En WhatsApp, mantén pulsado el audio → Reenviar → icono de Compartir → Increase Volume. (O Guardar en Archivos y añádelo desde la app.)"
+      },
+      {
+        "name": "Activa Mejorar calidad de audio",
+        "text": "Los audios son voz; el interruptor ayuda a que las palabras sigan claras tras el aumento."
+      },
+      {
+        "name": "Potencia",
+        "text": "Pon «Multiplicación del volumen» en ×5 para empezar, ×8–×10 si está muy bajo, y toca «Potenciar volumen»."
+      },
+      {
+        "name": "Compara",
+        "text": "Alterna Original/Procesado. Si la palabra más fuerte cruje, baja el multiplicador."
+      },
+      {
+        "name": "Guarda o reenvía",
+        "text": "Toca «Descargar procesado». Guarda en Archivos o comparte la copia más alta de vuelta en WhatsApp para que todo el grupo la oiga."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consejos",
+    "items": [
+      "Pide a quien te manda audios a menudo que hable más cerca del móvil; nada supera arreglarlo en el origen.",
+      "Si guardas muchos audios, junta las copias potenciadas en una carpeta de Archivos; la carpeta de WhatsApp no se puede explorar.",
+      "Con tus propios audios funciona igual: graba, comparte con la app, potencia y envía el archivo potenciado como documento o audio."
+    ]
+  },
+  "faq": [
+    {
+      "question": "¿Por qué los audios se oyen bajo cuando me pongo el móvil en la oreja?",
+      "answer": "Es a propósito: con el sensor de proximidad tapado, WhatsApp reproduce por el auricular por privacidad. Sube el volumen del auricular con los botones mientras suena, o aleja el móvil para usar el altavoz."
+    },
+    {
+      "question": "¿Puedo subir el volumen de un audio dentro de WhatsApp?",
+      "answer": "No. WhatsApp tiene velocidades de reproducción (1×, 1,5×, 2×), pero no aumento de volumen. Exporta el audio y súbelo con Aumentar Volumen."
+    },
+    {
+      "question": "¿Sirve también para Telegram y Messenger?",
+      "answer": "Sirve con cualquier app que te deje compartir o guardar el archivo de audio. Los archivos potenciados se pueden reenviar por la misma app."
+    }
+  ],
+  "related": [
+    "subir-volumen-nota-de-voz-iphone",
+    "subir-volumen-mp3-iphone",
+    "por-que-mi-video-de-iphone-se-escucha-bajo"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "Bildschirmaufnahme Ton zu leise",
+  "priority": 2,
+  "keywords": "Bildschirmaufnahme Ton zu leise, Bildschirmaufnahme iPhone leise, Bildschirmaufnahme lauter machen, Bildschirmaufnahme mit Ton iPhone, Bildschirmaufnahme kein Ton",
+  "title": "Bildschirmaufnahme zu leise? So wird sie am iPhone lauter",
+  "description": "iPhone-Bildschirmaufnahme zu leise? Warum das passiert, wie du künftig lauter aufnimmst und wie du die fertige Aufnahme mit Increase Volume 10× verstärkst.",
+  "h1": "Bildschirmaufnahme auf dem iPhone zu leise: so machst du sie lauter",
+  "eyebrow": "Bildschirmaufnahme",
+  "card_title": "Bildschirmaufnahme lauter machen",
+  "card_summary": "iOS nimmt App-Ton mit niedrigem Pegel auf. Fertige Aufnahme in einer Minute reparieren und künftig lauter aufnehmen.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Eine fertige Bildschirmaufnahme lässt sich über die Systemeinstellungen nicht lauter machen, aber du kannst die Datei verstärken: Öffne sie in Increase Volume, zieh „Lautstärke-Multiplikation“ auf ×5–×10, tippe auf „Lautstärke verstärken“, hör dir die Version Verarbeitet an und tippe auf „Verarbeitete Datei laden“. Damit die nächste Aufnahme lauter wird: Medienlautstärke vor dem Start hochdrehen, Bluetooth-Kopfhörer trennen und für Kommentar die Taste Bildschirmaufnahme im Kontrollzentrum gedrückt halten und das Mikrofon einschalten.",
+  "intro": [
+    "Bildschirmaufnahmen sind die leisesten Videos, die die meisten iPhones überhaupt erzeugen. iOS nimmt App-Ton mit vorsichtigem Pegel auf, um Verzerrungen zu vermeiden, und wenn Kopfhörer verbunden waren oder die App selbst leise eingestellt war, ist die aufgenommene Spur fast stumm. Sprichst du zusätzlich über das Mikrofon, wird der Mix noch ungleichmäßiger.",
+    "Hier liest du, warum deine Aufnahme leise ist, was du vor der nächsten änderst und wie du die vorhandene Aufnahme rettest."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/de/4.webp",
+    "alt": "Increase Volume auf dem iPhone mit dem Regler für die Lautstärke-Multiplikation ×10 und dem Button zum Verstärken",
+    "caption": "Bildschirmaufnahmen brauchen meist eine kräftige Verstärkung; ×5 bis ×10 ist normal."
+  },
+  "sections": [
+    {
+      "heading": "Warum iPhone-Bildschirmaufnahmen so leise sind",
+      "paragraphs": [
+        "Vier Ursachen stecken hinter fast jedem Fall:"
+      ],
+      "list": [
+        "Aufnahmepegel: iOS nimmt internen App-Ton mit reduziertem Pegel auf, damit laute Spiele und Videos nicht übersteuern.",
+        "Bluetooth: Sind AirPods oder ein Bluetooth-Lautsprecher verbunden, ist der aufgenommene Ton oft viel leiser oder fehlt ganz.",
+        "Lautstärke in der App: Die Aufnahme übernimmt den Ton in der eingestellten Lautstärke. Stand das Handy auf 30 %, ist die Aufnahme bei 30 %.",
+        "Mix mit Mikrofon: Schaltest du das Mikrofon ein, werden deine Stimme und der App-Ton gemischt, und iOS senkt den App-Ton ab."
+      ]
+    },
+    {
+      "heading": "Beim nächsten Mal lauter aufnehmen",
+      "paragraphs": [
+        "Bevor du auf Aufnahme tippst: Bluetooth-Audio trennen, Medienlautstärke auf Maximum stellen und Mitteilungen mit einem Fokus stummschalten. Willst du kommentieren, halte im Kontrollzentrum die Taste Bildschirmaufnahme gedrückt und tippe auf Mikrofon, bis es rot ist; ein normales Tippen nimmt nur App-Ton auf. Eine Testaufnahme von fünf Sekunden zeigt dir sofort, ob der Pegel stimmt."
+      ]
+    },
+    {
+      "heading": "Die vorhandene Aufnahme reparieren",
+      "paragraphs": [
+        "Systemeinstellungen ändern keine bereits gespeicherte Datei. iMovie kann sie auf etwa 500 % anheben, was manchmal reicht, aber ein Projekt und einen neuen Export erfordert. Increase Volume geht bis ×10, arbeitet direkt mit der Datei aus Fotos und zeigt einen Umschalter Original/Verarbeitet, damit du den verstärkten Pegel vor dem Speichern hörst. Bei Tutorials mit Sprache schaltest du „Audioqualität verbessern“ ein, damit die Stimme verständlicher wird."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Schritt für Schritt: Bildschirmaufnahme verstärken",
+    "intro": "Du brauchst die kostenlose App Increase Volume und die Bildschirmaufnahme in Fotos.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Aufnahme an die App teilen",
+        "text": "Öffne die Bildschirmaufnahme in Fotos, tippe auf Teilen und wähle Increase Volume. Oder öffne die App und füge die Datei aus Fotos hinzu."
+      },
+      {
+        "name": "Bei Kommentar Audioqualität verbessern",
+        "text": "Hast du über die Aufnahme gesprochen, schalte „Audioqualität verbessern“ ein, damit die Sprache nach der Verstärkung klar bleibt."
+      },
+      {
+        "name": "Faktor einstellen",
+        "text": "Zieh „Lautstärke-Multiplikation“ zum Start auf ×5. Bildschirmaufnahmen liegen meist weit unter normalem Pegel, ×8–×10 ist üblich. Tippe auf „Lautstärke verstärken“."
+      },
+      {
+        "name": "Verarbeitet anhören",
+        "text": "Wechsle auf Verarbeitet und spiel die lauteste Stelle ab. Klingt sie hart, senke den Faktor."
+      },
+      {
+        "name": "Verarbeitete Datei laden",
+        "text": "Tippe auf „Verarbeitete Datei laden“ und wähle Video sichern, um die lautere Aufnahme in Fotos abzulegen, oder schick sie direkt an YouTube, Slack, Nachrichten oder deinen Editor."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipps",
+    "items": [
+      "Verstärke, bevor du in einem anderen Editor schneidest oder Untertitel hinzufügst; eine lautere Quelle gibt allen weiteren Werkzeugen mehr Spielraum.",
+      "Bei Gameplay mit Musik hält eine mittlere Verstärkung (×3–×4) die Musik sauber und hebt trotzdem den Gesamtpegel.",
+      "Ist die Aufnahme ganz stumm statt nur leise, wurde gar kein Ton aufgenommen (meist eine stummgeschaltete App oder DRM-geschütztes Video). Kein Verstärker kann Ton hinzufügen, der nie aufgenommen wurde."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Warum hat meine iPhone-Bildschirmaufnahme gar keinen Ton?",
+      "answer": "Entweder pausiert die aufgenommene App ihren Ton, sobald sie eine Bildschirmaufnahme erkennt (Streaming- und Videocall-Apps machen das), oder das Video war DRM-geschützt, oder die Medienlautstärke stand auf null. Eine stumme Spur lässt sich nicht verstärken; nimm mit laufendem App-Ton und hoher Lautstärke neu auf."
+    },
+    {
+      "question": "Kann ich nur meinen Kommentar lauter machen und nicht den Spielton?",
+      "answer": "Increase Volume verstärkt die gemischte Spur als Ganzes. Mit „Audioqualität verbessern“ wird aber die Sprachverständlichkeit bevorzugt, sodass dein Kommentar nach der Verstärkung meist deutlicher hervortritt."
+    },
+    {
+      "question": "Ändert die Verstärkung die Auflösung des Videos?",
+      "answer": "Nein. Nur die Tonspur wird verarbeitet; das Bild wird unverändert übernommen."
+    }
+  ],
+  "related": [
+    "video-lauter-machen-iphone",
+    "warum-ist-mein-iphone-video-so-leise",
+    "ton-lauter-machen-ohne-qualitaetsverlust"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "mengeraskan suara video di aplikasi Foto",
+  "priority": 9,
+  "keywords": "mengeraskan suara video di Foto iPhone, aplikasi Foto menaikkan volume, video di Foto suaranya pelan, menaikkan volume video dari Foto, bagikan ke Increase Volume",
+  "title": "Cara Mengeraskan Suara Video Langsung dari Aplikasi Foto",
+  "description": "Foto tidak punya kontrol volume, tetapi video tetap bisa dikeraskan: ketuk Bagikan, pilih Penguat Volume, geser hingga 10×, dan simpan salinan di samping asli.",
+  "h1": "Cara mengeraskan suara video langsung dari Foto",
+  "eyebrow": "Dari Foto",
+  "card_title": "Mengeraskan video lewat Bagikan di Foto",
+  "card_summary": "Foto hanya bisa membisukan. Dengan Bagikan → Increase Volume, klip diperkuat dan salinan keras disimpan di samping aslinya.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Aplikasi Foto tidak bisa mengeraskan suara video; editornya hanya bisa membisukan (dan di iPhone 16 atau lebih baru menyeimbangkan audio spasial dengan Audio Mix). Untuk mengeraskan video dari Foto: buka video, ketuk Bagikan, pilih Increase Volume, geser «Pengali volume» hingga ×10, ketuk «Boost volume», lalu «Unduh yang diproses» → Simpan Video. Salinan yang lebih keras muncul di Foto di samping aslinya.",
+  "intro": [
+    "Hampir semua orang mencari kontrol volume di editor Foto dan tidak menemukannya, karena memang tidak ada. Foto bisa memotong, meluruskan, memperbaiki warna, dan membisukan video, tetapi tidak bisa mengeraskannya. Yang *ada* di Foto adalah lembar berbagi, dan Penguat Volume terhubung di sana, sehingga penguatan hanya berjarak dua ketukan dari video mana pun di galeri Anda.",
+    "Panduan ini menunjukkan alur tersebut dan apa yang benar-benar bisa dilakukan editor Foto terhadap audio."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Tangkapan layar „Download and share anywhere”: lembar berbagi dengan opsi menyimpan video yang diperkuat ke Foto atau File",
+    "caption": "Salinan yang diperkuat kembali ke Foto lewat lembar berbagi; file asli tetap seperti semula."
+  },
+  "sections": [
+    {
+      "heading": "Yang bisa dan tidak bisa dilakukan editor Foto terhadap audio",
+      "list": [
+        "Bisukan: ketuk Edit lalu ikon speaker di atas untuk menghapus seluruh trek audio.",
+        "Audio Mix (iPhone 16 atau lebih baru, video dengan audio spasial): berbagai mix menonjolkan suara bicara dan mengurangi bising latar. Ini mengubah *keseimbangan*, bukan volume keseluruhan.",
+        "Mengeraskan volume: tidak ada di versi Foto mana pun."
+      ]
+    },
+    {
+      "heading": "Menggunakan Bagikan dengan Penguat Volume",
+      "paragraphs": [
+        "Sejak versi 1.2.7, Increase Volume muncul di lembar berbagi iOS. Membagikan video ke aplikasi langsung membuat proyek dengan nama, ukuran, dan durasi, agar Anda tahu itu klip yang benar. Setelah diperkuat, «Unduh yang diproses» membuka lembar berbagi lagi, dan Simpan Video menaruh salinan yang lebih keras di Foto. Karena ini file baru, file asli tidak pernah tertimpa.",
+        "Jika Increase Volume tidak muncul di lembar berbagi pertama kali, geser baris aplikasi sampai ujung, ketuk Lainnya, lalu aktifkan (Anda juga bisa menyeretnya ke depan)."
+      ]
+    },
+    {
+      "heading": "Mengeraskan beberapa video",
+      "paragraphs": [
+        "Aplikasi menyimpan daftar proyek, jadi Anda bisa mengirim beberapa klip dari Foto dan memprosesnya satu per satu. Setiap proyek mengingat file-nya sampai dihapus, sehingga Anda bisa kembali nanti dan mencoba pengali lain."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: dari Foto ke video yang lebih keras",
+    "intro": "Tidak perlu membuka aplikasi dulu; mulai dari Foto.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Buka video di Foto",
+        "text": "Cari video yang pelan dan buka dalam layar penuh."
+      },
+      {
+        "name": "Ketuk Bagikan → Increase Volume",
+        "text": "Ketuk Bagikan, geser baris ikon, dan ketuk Increase Volume. Proyek baru terbuka."
+      },
+      {
+        "name": "Perkuat",
+        "text": "Geser «Pengali volume» ke level yang dibutuhkan (×3–×10), aktifkan «Tingkatkan Kualitas Audio» untuk suara bicara, dan ketuk «Boost volume»."
+      },
+      {
+        "name": "Bandingkan",
+        "text": "Dengan pengalih Asli/Diproses Anda bisa mendengar perbedaannya."
+      },
+      {
+        "name": "Simpan Video",
+        "text": "Ketuk «Unduh yang diproses» lalu Simpan Video. Di Foto, salinan yang lebih keras muncul tepat setelah file asli."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Tambahkan Increase Volume ke favorit lembar berbagi (Lainnya → Edit) agar selalu muncul paling depan.",
+      "Anda juga bisa membagikan video dari File, Pesan, atau Mail langsung ke aplikasi; alurnya sama.",
+      "Untuk menghemat ruang, hapus file asli yang pelan setelah memastikan salinan yang diperkuat terdengar baik."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Apakah mengeraskan dari Foto mengganti video asli saya?",
+      "answer": "Tidak. Aplikasi selalu membuat file baru. Simpan Video menambahkan salinan kedua ke Foto; file asli tidak berubah."
+    },
+    {
+      "question": "Bisakah mengeraskan Live Photo atau video slo-mo?",
+      "answer": "Video slo-mo dan time-lapse diekspor sebagai video biasa dan bisa dikeraskan. Live Photo adalah foto dengan klip pendek dan tidak didukung sebagai video."
+    },
+    {
+      "question": "Kenapa aplikasi Foto tidak punya kontrol volume?",
+      "answer": "Apple merancang Foto sebagai editor untuk perbaikan cepat dan menyerahkan perubahan level ke iMovie. iMovie mengeraskan hingga 500%; Penguat Volume mencapai ×10 dan bekerja dari lembar berbagi."
+    }
+  ],
+  "related": [
+    "cara-mengeraskan-suara-video-di-iphone",
+    "imovie-volume-lebih-dari-500",
+    "mengeraskan-suara-video-tiktok"
+  ]
+}

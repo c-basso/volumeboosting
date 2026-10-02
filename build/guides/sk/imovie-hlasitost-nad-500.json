@@ -1,0 +1,120 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie hlasitosť nad 500 %",
+  "priority": 11,
+  "keywords": "iMovie hlasitosť nad 500 %, iMovie hlasnejší zvuk, limit hlasitosti iMovie, zvýšiť hlasitosť v iMovie iPhone, iMovie tichý zvuk",
+  "title": "iMovie končí na 500 %? Ako spraviť video ešte hlasnejším",
+  "description": "Posúvač hlasitosti v iMovie na iPhone končí okolo 500 %. Ako zosilniť klip až na 1000 % (10×) vo Volume Boost, ešte pred iMovie alebo po exporte z neho.",
+  "h1": "Hlasitosť v iMovie nad 500 %: ako obísť limit",
+  "eyebrow": "iMovie",
+  "card_title": "iMovie nad 500 %",
+  "card_summary": "iMovie končí okolo 5×. Zosilni klip na 10× skôr, než ho vložíš do projektu.",
+  "quick_answer": "V iMovie na iPhone končí posúvač hlasitosti okolo 500 % (5×). Ak chceš viac, najprv zosilni klip vo Volume Boost (Zdieľať → Increase Volume, až ×10), ulož ho do Fotiek a do iMovie importuj hlasnejšiu kópiu. Alebo iMovie vynechaj: aplikácia otvorí aj čisto zvukové súbory a ukladá bez projektu a exportu.",
+  "intro": [
+    "iMovie je zadarmo a skvelé na strih, ale hlasitosť má strop. Keď 500 % nestačí, bežný trik je zdvojiť zvukovú stopu, čo iMovie na iPhone veľmi neuľahčuje.",
+    "Tu je rýchlejšia cesta."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Posúvač „Násobok hlasitosti ×10“ a tlačidlo „Zosilniť hlasitosť na ×10“ vo Volume Boost",
+    "caption": "Volume Boost ide až na ×10, dvakrát viac ako limit iMovie."
+  },
+  "sections": [
+    {
+      "heading": "iMovie verzus Volume Boost",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Volume Boost"
+        ],
+        "rows": [
+          [
+            "Maximálna hlasitosť",
+            "okolo 500 % (5×)",
+            "1000 % (10×)"
+          ],
+          [
+            "Zvukové súbory (MP3, M4A)",
+            "Nie",
+            "Áno"
+          ],
+          [
+            "Projekt a export",
+            "Povinné",
+            "Nie, jeden posúvač"
+          ],
+          [
+            "Vypočutie pred uložením",
+            "Na časovej osi",
+            "Pôvodné/Spracované"
+          ],
+          [
+            "Cena",
+            "Zadarmo",
+            "Stiahnutie zadarmo, predplatné"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Použi ich spolu",
+      "paragraphs": [
+        "Volume Boost použi na úroveň a iMovie na strih. Zosilni surový klip napríklad na ×8, importuj ho do iMovie a pokračuj v strihu. Potom nemusíš ťahať posúvač iMovie na maximum."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Prekroč 500 %",
+    "intro": "Skôr, než klip vložíš do iMovie.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Zdieľaj klip do aplikácie",
+        "text": "Vo Fotkách: Zdieľať → Increase Volume."
+      },
+      {
+        "name": "Zosilni",
+        "text": "Posuň „Násobok hlasitosti“ na ×6–×10 a ťukni na „Zosilniť hlasitosť na ×N“."
+      },
+      {
+        "name": "Ulož",
+        "text": "„Stiahnuť spracované“ → Uložiť video."
+      },
+      {
+        "name": "Importuj do iMovie",
+        "text": "Pridaj hlasnejšiu kópiu do projektu v iMovie a pokračuj."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Zosilňuj pred strihom; opätovný export z iMovie trvá.",
+      "Ak si už z iMovie exportoval, zosilni exportovaný súbor.",
+      "Pri reči zapni „Vylepšiť kvalitu zvuku“."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Aká je maximálna hlasitosť v iMovie na iPhone?",
+      "answer": "Okolo 500 % (5×) na klip."
+    },
+    {
+      "question": "Dá sa v iMovie zosilniť klip nad 500 %?",
+      "answer": "Priamo nie. Najprv zosilni klip vo Volume Boost a importuj hlasnejšiu kópiu."
+    },
+    {
+      "question": "Otvára Volume Boost projekty z iMovie?",
+      "answer": "Nie, ale otvorí videá, ktoré z iMovie exportuješ."
+    }
+  ],
+  "related": [
+    "ako-zosilnit-zvuk-videa-na-iphone",
+    "hlasnejsie-bez-straty-kvality",
+    "zosilnit-video-v-aplikacii-fotky"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

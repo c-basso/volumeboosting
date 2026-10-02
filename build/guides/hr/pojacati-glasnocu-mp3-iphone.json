@@ -1,0 +1,130 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "pojačati glasnoću MP3 datoteke",
+  "priority": 6,
+  "keywords": "pojačati glasnoću MP3, pojačati MP3 na iPhoneu, MP3 pretih, pojačati audio datoteku, pojačati zvuk datoteke",
+  "title": "Kako pojačati glasnoću MP3 datoteke na iPhoneu, bez računala",
+  "description": "MP3, M4A ili WAV pretih na iPhoneu? Pojačaj ga do 10× i spremi glasniju kopiju uz Pojačaj Glasnoću Zvuka, sve na telefonu. Koraci, sigurne razine i pitanja.",
+  "h1": "Kako pojačati glasnoću MP3 datoteke na iPhoneu",
+  "eyebrow": "MP3 i zvuk",
+  "card_title": "Pojačaj MP3",
+  "card_summary": "Većina pojačivača radi samo s videom. Ovaj pojačava MP3, M4A i WAV izravno iz Datoteka.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Da bi pojačao MP3 na iPhoneu, otvori Pojačaj Glasnoću Zvuka, dodaj datoteku iz Datoteka (ili je podijeli s aplikacijom), povuci „Množitelj glasnoće” do ×10, dodirni „Pojačaj glasnoću”, usporedi Izvorno i Obrađeno i dodirni „Preuzmi obrađeno” da spremiš glasniji MP3 u Datoteke ili ga podijeliš. Sve se događa na telefonu: bez računala, bez prijenosa datoteke i bez računa. Pjesme iz Apple Musica ili Spotifyja ne mogu se uvesti jer su zaštićene od kopiranja.",
+  "intro": [
+    "Preuzeo si predavanje, stari demo, epizodu podcasta ili budući zvuk zvona i zvuči puno tiše od svega ostalog. Na računalu bi otvorio Audacity ili alat za normalizaciju; na iPhoneu je uobičajeni savjet „koristi online pojačivač”, odnosno prenesi datoteku i dobij ponovno kodiranu verziju.",
+    "Pojačaj Glasnoću Zvuka radi isto lokalno. U App Storeu je opisana kao aplikacija za video, glazbu i snimke jer, za razliku od većine pojačivača za video, otvara obične audio datoteke."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Snimka zaslona „Make music louder”: MP3 datoteka u obradi u aplikaciji Pojačaj Glasnoću Zvuka s nazivom, veličinom i trajanjem",
+    "caption": "Aplikacija prikazuje naziv, veličinu i trajanje prije pojačanja."
+  },
+  "sections": [
+    {
+      "heading": "Koje audio datoteke možeš pojačati",
+      "paragraphs": [
+        "Sve što je stvarna datoteka na iPhoneu: MP3, M4A/AAC (uključujući izvoze iz Diktafona i WhatsApp glasovne poruke), WAV i druge uobičajene formate spremljene u Datotekama, na iCloud Driveu ili Dropboxu, ili primljene u Porukama i Mailu. Aplikacija čita metapodatke i prikazuje izvođača i naslov kad postoje."
+      ],
+      "note": "Ne može: pjesme u streamingu ili preuzete unutar Apple Musica, Spotifyja ili YouTube Musica. Šifrirane su i nijedna ih druga aplikacija ne otvara. Za streaming koristi ekvilizator ili normalizaciju same usluge."
+    },
+    {
+      "heading": "Koliko pojačanja MP3 podnosi",
+      "paragraphs": [
+        "MP3 s CD-a ili kupljen obično je već blizu najveće razine i odreže se ako ga forsiraš; ×1,5–×2 je dovoljno. Podcasti, predavanja, glasovne snimke i stari demoi često su 10–20 dB niže i bez problema podnose ×4–×10. Uz Izvorno/Obrađeno provjeriš najglasniji dio prije spremanja."
+      ]
+    },
+    {
+      "heading": "Pojačaj Glasnoću Zvuka naspram online MP3 pojačivača",
+      "table": {
+        "head": [
+          "",
+          "Online pojačivač",
+          "Pojačaj Glasnoću Zvuka"
+        ],
+        "rows": [
+          [
+            "Kamo ide datoteka",
+            "Prenosi se na poslužitelj",
+            "Ostaje na iPhoneu"
+          ],
+          [
+            "Ponovno kodiranje",
+            "Obično na fiksnu, nižu brzinu",
+            "Lokalna obrada"
+          ],
+          [
+            "Ograničenje veličine",
+            "Često (npr. 50–500 MB)",
+            "Samo prostor na telefonu"
+          ],
+          [
+            "Slušanje prije spremanja",
+            "Rijetko",
+            "Prekidač Izvorno / Obrađeno"
+          ],
+          [
+            "Poboljšanje govora",
+            "Ponekad",
+            "Prekidač Poboljšaj kvalitetu zvuka"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Korak po korak: pojačaj MP3",
+    "intro": "Trebaš MP3 u Datotekama (ili u aplikaciji koja ga dijeli) i besplatnu aplikaciju Pojačaj Glasnoću Zvuka.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Dodaj MP3",
+        "text": "Otvori aplikaciju i dodaj datoteku iz Datoteka. Ili u Datotekama dugo pritisni MP3, dodirni Podijeli i odaberi Increase Volume."
+      },
+      {
+        "name": "Provjeri pojedinosti",
+        "text": "Potvrdi izvođača, naslov, veličinu i trajanje. Ako je govor, uključi „Poboljšaj kvalitetu zvuka”."
+      },
+      {
+        "name": "Odaberi množitelj",
+        "text": "Postavi „Množitelj glasnoće” na ×2 za glazbu i ×4–×10 za tihe glasovne snimke. Dodirni „Pojačaj glasnoću”."
+      },
+      {
+        "name": "Usporedi",
+        "text": "Prebacuj Izvorno/Obrađeno na najglasnijem dijelu. Prilagodi ako pojačana verzija zvuči grubo."
+      },
+      {
+        "name": "Preuzmi obrađeno",
+        "text": "Dodirni „Preuzmi obrađeno” pa Spremi u Datoteke ili podijeli Mailom, Porukama ili u oblak."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Savjeti",
+    "items": [
+      "Cijeli niz datoteka (poglavlja audioknjige, serija predavanja) pojačaj istim množiteljem da zvuče ujednačeno.",
+      "Pojačane kopije spremi u zasebnu mapu u Datotekama; aplikacija usto čuva svaki projekt na svom popisu.",
+      "Za zvukove zvona: prvo pojačaj, pa skrati na 30 sekundi; glasniji izvor daje glasnije zvono."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Mogu li pojačati pjesmu iz Apple Musica ili Spotifyja?",
+      "answer": "Nijedna druga aplikacija ne može otvoriti preuzimanja iz streaminga; šifrirana su. Pojačaj Glasnoću Zvuka radi s datotekama koje su tvoje u Datotekama, na iCloud Driveu ili drugoj pohrani."
+    },
+    {
+      "question": "Gubi li MP3 kvalitetu kad ga pojačaš?",
+      "answer": "Zvuk se obrađuje jednom i sprema kao nova datoteka. Kvaliteta pati samo ako pojačaš toliko da se vrhovi odrežu; uz Izvorno/Obrađeno to čuješ prije spremanja."
+    },
+    {
+      "question": "Radi li i s WAV i M4A?",
+      "answer": "Da. Podržani su uobičajeni audioformati, uz MP4 i MOV video."
+    }
+  ],
+  "related": [
+    "glazba-pretiha-iphone",
+    "pojacati-podcast-audioknjigu-iphone",
+    "pojacati-glasnocu-diktafon-snimke"
+  ]
+}

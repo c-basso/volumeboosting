@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "jak zgłośnić nagranie z Dyktafonu iPhone",
+  "priority": 4,
+  "keywords": "jak zgłośnić nagranie z Dyktafonu iPhone, ciche nagranie Dyktafon, zwiększyć głośność nagrania audio, ciche nagranie wykładu, wzmocnić nagranie głosu",
+  "title": "Jak zgłośnić nagranie z Dyktafonu na iPhonie (do 10×)",
+  "description": "„Ulepsz nagranie” w Dyktafonie nie zgłaśnia pliku. Jak wyeksportować nagranie, wzmocnić je nawet 10× w Volume Boost i zapisać głośniejszy plik M4A na iPhonie.",
+  "h1": "Jak zgłośnić nagranie z Dyktafonu na iPhonie",
+  "eyebrow": "Dyktafon",
+  "card_title": "Głośniejszy Dyktafon",
+  "card_summary": "„Ulepsz nagranie” usuwa szum, ale nie podnosi głośności. Tak zgłośnisz sam plik.",
+  "quick_answer": "Dyktafon nie ma suwaka głośności dla pliku; „Ulepsz nagranie” tylko redukuje szum przy odtwarzaniu. Aby zgłośnić nagranie: stuknij ⋯ przy nagraniu → Udostępnij → Increase Volume, włącz „Popraw jakość dźwięku”, wzmocnij ×5–×10, porównaj Oryginał i Przetworzony i stuknij „Pobierz przetworzony”. Głośniejszy plik M4A zachowasz w Plikach lub udostępnisz.",
+  "intro": [
+    "Wykłady, spotkania, wywiady i pomysły często nagrywa się Dyktafonem z telefonu leżącego na stole. Wynik bywa za cichy, zwłaszcza gdy mówca siedzi daleko.",
+    "Ten poradnik wyjaśnia, co naprawdę robią opcje Dyktafonu i jak utworzyć trwale głośniejszą kopię nagrania."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Szczegóły utworu w Volume Boost z włączonym „Popraw jakość dźwięku” i suwakiem „Mnożnik głośności ×10”",
+    "caption": "Dla mowy: włącz „Popraw jakość dźwięku” i wybierz mnożnik."
+  },
+  "sections": [
+    {
+      "heading": "Co robi „Ulepsz nagranie”, a czego nie",
+      "paragraphs": [
+        "W Dyktafonie znajdziesz w edycji opcję „Ulepsz nagranie” (ikona różdżki). Redukuje ona szum tła i pogłos, ale nie podnosi zauważalnie poziomu pliku. Po udostępnieniu nagranie jest tak samo ciche jak wcześniej."
+      ]
+    },
+    {
+      "heading": "Głośność odtwarzania a głośność pliku",
+      "paragraphs": [
+        "Przyciski głośności wpływają tylko na Twój głośnik. Jeśli współpracownik, usługa transkrypcji czy program do montażu mają dostać wyraźny sygnał, głośniejszy musi być sam plik. To właśnie robi Volume Boost: mnoży poziom dźwięku i zapisuje nowy M4A."
+      ]
+    },
+    {
+      "heading": "Jak udostępnić nagranie z Dyktafonu",
+      "paragraphs": [],
+      "list": [
+        "Otwórz Dyktafon i stuknij nagranie.",
+        "Stuknij ⋯ (Więcej) i wybierz Udostępnij.",
+        "Wybierz Increase Volume w arkuszu albo Zachowaj w Plikach, by otworzyć je później."
+      ],
+      "ordered": true
+    }
+  ],
+  "steps": {
+    "heading": "Krok po kroku: wzmocnij nagranie z Dyktafonu",
+    "intro": "Poniżej minuty dla kilkuminutowego nagrania.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Udostępnij nagranie",
+        "text": "W Dyktafonie: ⋯ → Udostępnij → Increase Volume. Aplikacja pokaże nazwę pliku, rozmiar i czas trwania."
+      },
+      {
+        "name": "Włącz „Popraw jakość dźwięku”",
+        "text": "Głos stanie się wyraźniejszy razem ze wzmocnieniem."
+      },
+      {
+        "name": "Wzmocnij",
+        "text": "Przesuń „Mnożnik głośności” do ×5–×10 i stuknij „Wzmocnij głośność do ×N”."
+      },
+      {
+        "name": "Porównaj i zapisz",
+        "text": "Odsłuchaj Oryginał i Przetworzony, stuknij „Pobierz przetworzony” i wybierz Zachowaj w Plikach."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Wskazówki dla mowy",
+    "items": [
+      "Następnym razem połóż telefon mikrofonem (dół obudowy) w stronę mówcy; to da więcej niż jakiekolwiek wzmocnienie.",
+      "Klaskanie czy śmiech blisko telefonu tworzą szczyty. Użyj ×4–×6 i sprawdź najgłośniejsze fragmenty.",
+      "Głośniejszy plik często daje lepsze wyniki w narzędziach do transkrypcji."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Czy mogę zwiększyć głośność w Dyktafonie bez innej aplikacji?",
+      "answer": "Nie. Dyktafon potrafi przycinać, zastępować i ulepszać, ale nie ma wzmocnienia głośności pliku."
+    },
+    {
+      "question": "W jakim formacie zapisze się wzmocniony plik?",
+      "answer": "Pliki audio są zapisywane jako nowy plik dźwiękowy (M4A dla nagrań z Dyktafonu), który zachowasz w Plikach lub udostępnisz."
+    },
+    {
+      "question": "Czy szum tła też będzie głośniejszy?",
+      "answer": "Tak, wzmacniane jest wszystko w nagraniu. „Popraw jakość dźwięku” pomaga wyróżnić głos."
+    }
+  ],
+  "related": [
+    "cicha-wiadomosc-glosowa-whatsapp",
+    "cichy-podcast-audiobook-iphone",
+    "jak-zwiekszyc-glosnosc-mp3-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

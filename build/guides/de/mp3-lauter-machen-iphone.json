@@ -1,0 +1,130 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "MP3 lauter machen",
+  "priority": 6,
+  "keywords": "MP3 lauter machen, MP3 Lautstärke erhöhen iPhone, Audiodatei lauter machen, MP3 zu leise, MP3 Verstärker App",
+  "title": "MP3 lauter machen auf dem iPhone (ohne Computer) – Anleitung",
+  "description": "Leise MP3, M4A oder WAV auf dem iPhone? Mit Increase Volume bis 10× verstärken und eine lautere Kopie sichern, ganz ohne Computer. Schritte, Pegel, FAQ.",
+  "h1": "MP3 auf dem iPhone lauter machen",
+  "eyebrow": "MP3 & Audiodateien",
+  "card_title": "MP3 auf dem iPhone lauter machen",
+  "card_summary": "Die meisten Verstärker-Apps können nur Video. Diese verstärkt MP3, M4A und WAV direkt aus Dateien.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Um eine MP3 auf dem iPhone lauter zu machen, öffnest du Increase Volume, fügst die Datei aus Dateien hinzu (oder teilst sie an die App), ziehst „Lautstärke-Multiplikation“ bis ×10, tippst auf „Lautstärke verstärken“, vergleichst Original und Verarbeitet und sicherst die lautere MP3 mit „Verarbeitete Datei laden“ in Dateien oder teilst sie. Alles passiert auf dem Handy, ohne Computer, Upload oder Konto. Titel aus Apple Music oder Spotify lassen sich nicht importieren, weil sie kopiergeschützt sind.",
+  "intro": [
+    "Du hast eine Vorlesung, ein altes Demo, eine Podcastfolge oder einen künftigen Klingelton heruntergeladen, und er spielt deutlich leiser als alles andere. Am Computer würdest du Audacity oder einen Normalisierer öffnen; auf dem iPhone lautet der Rat meist „nimm einen Online-Verstärker“ – also Datei hochladen und eine neu kodierte Version zurückbekommen.",
+    "Increase Volume macht dasselbe lokal. Im App Store ist die App als Audioverstärker gelistet, weil sie – anders als die meisten Video-Booster – auch reine Audiodateien öffnet."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/de/3.webp",
+    "alt": "Increase Volume verarbeitet eine MP3-Datei auf dem iPhone mit Dateiname, Größe und Dauer",
+    "caption": "Die App zeigt Titel, Größe und Dauer, bevor du verstärkst."
+  },
+  "sections": [
+    {
+      "heading": "Welche Audiodateien du verstärken kannst",
+      "paragraphs": [
+        "Alles, was als echte Datei auf deinem iPhone liegt: MP3, M4A/AAC (auch Exporte aus Sprachmemos und WhatsApp-Sprachnachrichten), WAV und andere gängige Formate in Dateien, iCloud Drive, Dropbox oder per Nachrichten und Mail empfangen. Die App liest die Metadaten und zeigt Interpret und Titel, wenn vorhanden."
+      ],
+      "note": "Nicht möglich: Titel, die in Apple Music, Spotify oder YouTube Music gestreamt oder heruntergeladen wurden. Sie sind verschlüsselt, keine andere App kann sie öffnen. Für Streaming nutzt du den EQ oder die Lautstärkeanpassung des Dienstes."
+    },
+    {
+      "heading": "Wie viel Verstärkung eine MP3 verträgt",
+      "paragraphs": [
+        "Von CD gerippte oder gekaufte MP3s sind meist schon nah am Vollpegel und übersteuern bei starker Verstärkung; ×1,5–×2 reicht. Podcasts, Vorlesungen, Sprachaufnahmen und alte Demos liegen oft 10–20 dB unter Vollaussteuerung und vertragen ×4–×10 problemlos. Mit Original/Verarbeitet testest du die lauteste Passage vor dem Speichern."
+      ]
+    },
+    {
+      "heading": "Increase Volume vs. Online-MP3-Verstärker",
+      "table": {
+        "head": [
+          "",
+          "Online-Verstärker",
+          "Increase Volume"
+        ],
+        "rows": [
+          [
+            "Wo die Datei landet",
+            "Wird auf einen Server hochgeladen",
+            "Bleibt auf deinem iPhone"
+          ],
+          [
+            "Neukodierung",
+            "Meist auf feste, niedrigere Bitrate",
+            "Lokal verarbeitet"
+          ],
+          [
+            "Dateigrößenlimit",
+            "Üblich (z. B. 50–500 MB)",
+            "Nur Speicherplatz des Handys"
+          ],
+          [
+            "Vorhören vor dem Speichern",
+            "Selten",
+            "Umschalter Original / Verarbeitet"
+          ],
+          [
+            "Sprachverbesserung",
+            "Manchmal",
+            "Schalter Audioqualität verbessern"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Schritt für Schritt: MP3 verstärken",
+    "intro": "Du brauchst die MP3 in Dateien (oder in einer App, die sie teilen kann) und die kostenlose App Increase Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "MP3 hinzufügen",
+        "text": "Increase Volume öffnen und die Datei aus Dateien hinzufügen. Oder in Dateien die MP3 gedrückt halten, Teilen tippen und Increase Volume wählen."
+      },
+      {
+        "name": "Details prüfen",
+        "text": "Interpret, Titel, Größe und Dauer kontrollieren. Bei Sprache „Audioqualität verbessern“ einschalten."
+      },
+      {
+        "name": "Faktor einstellen",
+        "text": "„Lautstärke-Multiplikation“ auf ×2 bei Musik, ×4–×10 bei leisen Sprachaufnahmen. Auf „Lautstärke verstärken“ tippen."
+      },
+      {
+        "name": "Vergleichen",
+        "text": "An der lautesten Stelle zwischen Original und Verarbeitet wechseln. Klingt die verstärkte Version hart, anpassen."
+      },
+      {
+        "name": "Verarbeitete Datei laden",
+        "text": "Auf „Verarbeitete Datei laden“ tippen, dann In Dateien sichern oder an Mail, Nachrichten oder einen Cloud-Speicher teilen."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipps",
+    "items": [
+      "Verstärke eine ganze Reihe Dateien (Hörbuchkapitel, Vorlesungsreihe) mit demselben Faktor, damit sie gleich laut spielen.",
+      "Sammle die verstärkten Kopien in einem eigenen Ordner in Dateien; die App behält außerdem jedes Projekt in ihrer Liste.",
+      "Für Klingeltöne: erst verstärken, dann auf 30 Sekunden kürzen; eine lautere Quelle ergibt einen lauteren Klingelton."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kann ich einen Song aus Apple Music oder Spotify lauter machen?",
+      "answer": "Keine andere App kann Streaming-Downloads öffnen, sie sind verschlüsselt. Increase Volume arbeitet mit Dateien, die dir gehören, in Dateien, iCloud Drive oder anderem Speicher."
+    },
+    {
+      "question": "Verliert eine MP3 beim Verstärken an Qualität?",
+      "answer": "Der Ton wird einmal verarbeitet und als neue Datei gesichert. Die Qualität leidet nur, wenn du so stark verstärkst, dass laute Spitzen übersteuern; mit Original/Verarbeitet hörst du das vor dem Speichern."
+    },
+    {
+      "question": "Funktioniert das auch mit WAV und M4A?",
+      "answer": "Ja. Gängige Audioformate werden neben MP4- und MOV-Video unterstützt."
+    }
+  ],
+  "related": [
+    "musik-lauter-machen-iphone",
+    "podcast-hoerbuch-lauter-machen-iphone",
+    "sprachmemo-lauter-machen-iphone"
+  ]
+}

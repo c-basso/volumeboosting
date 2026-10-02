@@ -1,0 +1,99 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "aumentar volume de vídeo do TikTok",
+  "priority": 8,
+  "keywords": "aumentar volume de vídeo do TikTok, TikTok com som baixo, como deixar o som do TikTok mais alto, vídeo do TikTok baixo, som mais alto no Reels",
+  "title": "Como aumentar o volume de um vídeo do TikTok antes de postar",
+  "description": "O editor do TikTok não sobe o som original acima de 100%. Veja como amplificar o vídeo até 10× no app Aumentar Volume antes do upload e equilibrar com a música.",
+  "h1": "Como aumentar o volume de um vídeo do TikTok",
+  "eyebrow": "TikTok e Reels",
+  "card_title": "TikTok mais alto",
+  "card_summary": "O TikTok para em 100% do som original. Amplifique o clipe antes do upload para a voz aparecer sobre a música.",
+  "quick_answer": "O TikTok deixa você abaixar o som original, mas não subir acima de 100%. Para um TikTok mais alto, amplifique o clipe antes: compartilhe o vídeo do Fotos para Increase Volume, amplifique ×3–×6, toque em «Baixar processado» → Salvar Vídeo e envie a cópia mais alta no TikTok. Depois equilibre som original e música em Volume.",
+  "intro": [
+    "Ninguém passa para o próximo vídeo mais rápido do que quando não ouve o que você diz. TikTok e Instagram Reels nivelam o som, mas não levantam um clipe que chega baixo demais, e no editor do TikTok 100% de som original é o teto.",
+    "A solução é deixar o clipe mais alto antes de enviar."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/pt/6.webp",
+    "alt": "Tela «Baixe e compartilhe onde quiser»: planilha de compartilhamento do iOS com Copiar, Adicionar etiquetas e Salvar em Arquivos",
+    "caption": "Salve a cópia mais alta no Fotos e envie no TikTok."
+  },
+  "sections": [
+    {
+      "heading": "Por que o vídeo do TikTok fica baixo",
+      "paragraphs": [
+        "O microfone do celular capta a fala baixa quando você grava com o braço esticado ou ao ar livre. Quando você coloca música, a voz some. O controle de volume do TikTok só abaixa: o som original vai de 0 a 100%."
+      ]
+    },
+    {
+      "heading": "Fluxo: amplifique primeiro, edite depois",
+      "paragraphs": [],
+      "list": [
+        "Grave normalmente com a câmera do iPhone.",
+        "Amplifique o clipe no app Aumentar Volume (×3–×6 para fala).",
+        "Envie a cópia mais alta no TikTok ou Instagram.",
+        "Adicione a música e deixe ela em cerca de 20–40% em Volume."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Funciona com Reels e Shorts?",
+      "paragraphs": [
+        "Sim. O arquivo amplificado é um vídeo comum, então funciona no Instagram Reels, YouTube Shorts, Kwai, Snapchat e CapCut."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Passo a passo: amplifique um clipe do TikTok",
+    "intro": "Faça antes do upload.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Compartilhe o clipe com o app",
+        "text": "No Fotos: Compartilhar → Increase Volume."
+      },
+      {
+        "name": "Escolha o nível",
+        "text": "Fala: ×3–×6 com «Melhorar qualidade do áudio». Muito baixo: até ×10."
+      },
+      {
+        "name": "Amplifique e compare",
+        "text": "Toque em «Amplificar volume para ×N» e ouça com Original/Processado."
+      },
+      {
+        "name": "Salve e envie",
+        "text": "«Baixar processado» → Salvar Vídeo, depois escolha a nova cópia no TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Dicas para TikTok",
+    "items": [
+      "Legendas ajudam quem assiste sem som, mas som audível segura quem assiste.",
+      "Não passe de ×6 se o clipe tem gritos ou risadas.",
+      "Vídeos salvos do TikTok com marca d'água também podem ser amplificados, mas o arquivo original dá a melhor qualidade."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dá para subir o volume acima de 100% no TikTok?",
+      "answer": "Não. O editor do TikTok só consegue abaixar o som original. Amplifique o clipe antes de enviar."
+    },
+    {
+      "question": "A qualidade do vídeo piora?",
+      "answer": "Não, a imagem não muda. O TikTok comprime no upload de qualquer jeito."
+    },
+    {
+      "question": "Funciona com o Instagram Reels?",
+      "answer": "Sim, o arquivo amplificado funciona em qualquer app."
+    }
+  ],
+  "related": [
+    "como-aumentar-volume-de-video-no-iphone",
+    "gravacao-de-tela-com-som-baixo-iphone",
+    "aumentar-volume-de-video-no-app-fotos"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

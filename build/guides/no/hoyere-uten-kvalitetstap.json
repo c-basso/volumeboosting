@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "gjøre lyd høyere uten kvalitetstap",
+  "priority": 10,
+  "keywords": "gjøre lyd høyere uten kvalitetstap, øke volum uten forvrengning, forsterke video uten skurring, lyd skurrer etter forsterkning, ren lydforsterkning",
+  "title": "Gjør lyden høyere uten kvalitetstap eller forvrengning",
+  "description": "Når skurrer lyden, og når gjør den ikke? Slik velger du riktig multiplikasjon, lytter til Original/Behandlet og gjør video høyere uten at bildet endres.",
+  "h1": "Slik gjør du video og lyd høyere uten kvalitetstap",
+  "eyebrow": "Kvalitet",
+  "card_title": "Høyere uten kvalitetstap",
+  "card_summary": "Takhøyde, topper og skurring forklart, og hvordan du finner det høyeste rene nivået.",
+  "quick_answer": "Lyd forvrenges bare når de høyeste toppene presses over det digitale taket. Et lavt opptak har mye takhøyde og tåler ×5–×10. Start med ×3 i Volumforsterker, finn det høyeste øyeblikket i klippet, bytt mellom Original og Behandlet og øk så lenge det låter rent. Slå på «Forbedre lydkvalitet» for tale. Bildet i videoen endres aldri.",
+  "intro": [
+    "Frykten for å «ødelegge» et opptak hindrer mange i å gjøre det høyere. Men forsterkning er ikke det samme som tap: så lenge toppene holder seg under taket, blir lyden bare høyere.",
+    "Denne guiden forklarer hva som skjer, og hvordan du finner det beste nivået uten gjetting."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "Resultatskjerm i Volumforsterker med knappen «Last ned behandlet» og bryteren Original/Behandlet",
+    "caption": "Bytt mellom Original og Behandlet før du lagrer."
+  },
+  "sections": [
+    {
+      "heading": "Takhøyde: hvorfor lave opptak tåler mye",
+      "paragraphs": [
+        "Digital lyd har et tak (0 dBFS). Et lavt opptak ligger kanskje 20 dB under; det gir plass til omtrent 10× før toppene når taket. Et klipp med et høyt smell nær taket har lite takhøyde, selv om resten er lavt."
+      ]
+    },
+    {
+      "heading": "Slik hører du skurring",
+      "paragraphs": [],
+      "list": [
+        "Finn det høyeste partiet: latter, rop, musikkrefreng.",
+        "Lytt med bryteren Original/Behandlet.",
+        "Høres det knasende eller flatt ut, senk multiplikasjonen ett hakk."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Endres videokvaliteten?",
+      "paragraphs": [
+        "Nei. Volumforsterker endrer bare lydsporet. Bildet beholder samme oppløsning og blir ikke vannmerket."
+      ]
+    },
+    {
+      "id": "personvern",
+      "heading": "Personvern: alt skjer på iPhone",
+      "paragraphs": [
+        "Filene dine forlater ikke telefonen. Behandlingen skjer på enheten, uten konto og uten opplasting. Resultatet lagres via delingsarket i iOS i Bilder, Filer eller appen du velger."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Finn det høyeste rene nivået",
+    "intro": "En rask test som tar under ett minutt.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Start på ×3",
+        "text": "Dra «Volummultiplikasjon» til ×3 og trykk «Boost lydstyrken til ×3»."
+      },
+      {
+        "name": "Sjekk toppene",
+        "text": "Spill det høyeste partiet med Original/Behandlet."
+      },
+      {
+        "name": "Øk eller senk",
+        "text": "Rent: gå til ×5, deretter ×8 eller ×10. Skurrer det: gå ett hakk ned."
+      },
+      {
+        "name": "Lagre",
+        "text": "Trykk «Last ned behandlet» når nivået er riktig."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Tale tåler mer enn musikk.",
+      "«Forbedre lydkvalitet» gjør stemmer klarere ved høy forsterkning.",
+      "Prøv flere nivåer; originalen beholdes alltid."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan jeg gjøre en video høyere uten at kvaliteten blir dårligere?",
+      "answer": "Ja, så lenge toppene ikke presses over taket. Lytt med Original/Behandlet før du lagrer."
+    },
+    {
+      "question": "Hvorfor skurrer lyden etter forsterkning?",
+      "answer": "De høyeste toppene ble klippet. Senk multiplikasjonen til det låter rent."
+    },
+    {
+      "question": "Lastes videoene mine opp?",
+      "answer": "Nei. Alt behandles på iPhone."
+    }
+  ],
+  "related": [
+    "gjor-video-hoyere-iphone",
+    "imovie-volum-over-500",
+    "musikk-for-lav-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

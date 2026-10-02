@@ -1,0 +1,101 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "zesílit video v aplikaci Fotky",
+  "priority": 6,
+  "keywords": "zesílit video fotky iPhone, hlasitost videa ve fotkách, fotky video potichu, zvýšit hlasitost videa ve fotkách, sdílet do increase volume",
+  "title": "Jak zesílit video přímo z aplikace Fotky na iPhonu",
+  "description": "Fotky nemají jezdec hlasitosti, ale video zesílíš i tak: klepni na Sdílet, vyber Increase Volume, posuň až na 10× a hlasitější kopii ulož zpět do Fotek.",
+  "h1": "Jak zesílit video přímo z aplikace Fotky",
+  "eyebrow": "Postup z Fotek",
+  "card_title": "Zesílit video přes Sdílet ve Fotkách",
+  "card_summary": "Fotky umí zvuk jen ztlumit. Přes Sdílet → Increase Volume video zesílíš a hlasitou kopii uložíš vedle originálu.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Aplikace Fotky hlasitost videa zvýšit neumí; její editor zvuk jen ztlumí (a na iPhonu 16 a novějším u videí s prostorovým zvukem mění jeho mix funkcí Audio Mix). Jak zesílit video z Fotek: otevři ho, klepni na Sdílet, vyber Increase Volume, posuň „Násobek hlasitosti“ až na ×10, klepni na „Zesílit hlasitost“ a pak „Stáhnout zpracované“ → Uložit video. Hlasitější kopie se objeví ve Fotkách vedle originálu.",
+  "intro": [
+    "Většina lidí hledá jezdec hlasitosti v editoru Fotek a nenajde ho, protože tam není. Fotky umí video oříznout, otočit, upravit barvy a ztlumit, ale ne zesílit. Co Fotky *mají*, je panel sdílení, a do něj se Increase Volume zapojí, takže zesílení máš na dvě klepnutí od kteréhokoli videa v knihovně.",
+    "Tenhle návod ukazuje, jak na to, a co editor Fotek se zvukem reálně zvládne."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Panel sdílení iOS z Increase Volume s volbami uložit zesílené video zpět do Fotek nebo do Souborů",
+    "caption": "Zesílená kopie se přes panel sdílení vrátí do Fotek; originál zůstane, jak byl."
+  },
+  "sections": [
+    {
+      "heading": "Co editor Fotek se zvukem umí a co ne",
+      "list": [
+        "Ztlumit: klepni na Upravit a pak na ikonu reproduktoru nahoře; zvuková stopa se úplně odstraní.",
+        "Audio Mix (iPhone 16 a novější, videa nahraná s prostorovým zvukem): volby jako Standardní, V záběru, Studio nebo Filmový zvýrazní hlasy a potlačí okolí. Mění *poměr*, ne celkovou hlasitost.",
+        "Zesílení hlasitosti: v žádné verzi aplikace Fotky není."
+      ]
+    },
+    {
+      "heading": "Jak použít Sdílet s Increase Volume",
+      "paragraphs": [
+        "Od verze 1.2.7 se Increase Volume objevuje v panelu sdílení iOS. Když do ní video pošleš, rovnou se vytvoří projekt a uvidíš název souboru, velikost a délku, takže víš, že máš správný klip. Po zesílení „Stáhnout zpracované“ znovu otevře panel sdílení a volba Uložit video vrátí hlasitější kopii do Fotek. Protože jde o nový soubor, originál se nikdy nepřepíše.",
+        "Pokud se Increase Volume v panelu sdílení napoprvé neukáže, posuň řadu aplikací až na konec, klepni na Další a aplikaci zapni (můžeš ji také přetáhnout na začátek řady)."
+      ]
+    },
+    {
+      "heading": "Zesílení více videí",
+      "paragraphs": [
+        "Increase Volume si vede seznam projektů, takže můžeš z Fotek poslat několik klipů a zpracovat je jeden po druhém. Každý projekt si soubor pamatuje, dokud ho nesmažeš, takže se k němu snadno vrátíš a zkusíš jiný násobek."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Postup: z Fotek k hlasitějšímu videu",
+    "intro": "Increase Volume nemusíš otevírat napřed; začni ve Fotkách.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Otevři video ve Fotkách",
+        "text": "Najdi tiché video a otevři ho na celou obrazovku."
+      },
+      {
+        "name": "Klepni na Sdílet → Increase Volume",
+        "text": "Klepni na tlačítko Sdílet, projdi řadu ikon aplikací a klepni na Increase Volume. Otevře se nový projekt."
+      },
+      {
+        "name": "Zesil",
+        "text": "Posuň „Násobek hlasitosti“ na potřebnou úroveň (×3–×10), u řeči zapni „Vylepšit kvalitu zvuku“ a klepni na „Zesílit hlasitost“."
+      },
+      {
+        "name": "Porovnej",
+        "text": "Přepínačem Původní/Zpracované si poslechni rozdíl."
+      },
+      {
+        "name": "Ulož video",
+        "text": "Klepni na „Stáhnout zpracované“ a pak na Uložit video. Ve Fotkách bude hlasitější kopie hned za originálem."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Přidej si Increase Volume do oblíbených v panelu sdílení (Další → Upravit), ať je v řadě vždy první.",
+      "Video můžeš do aplikace poslat i ze Souborů, Zpráv nebo Mailu; postup je stejný.",
+      "Pro uvolnění místa smaž tichý originál, až si ověříš, že zesílená kopie zní dobře."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Nahradí zesílení z Fotek moje původní video?",
+      "answer": "Ne. Increase Volume vždy vytvoří nový soubor. Uložením přes Uložit video přibude ve Fotkách druhá kopie; originál zůstane beze změny."
+    },
+    {
+      "question": "Jde zesílit Live Photo nebo zpomalené video?",
+      "answer": "Zpomalená a časosběrná videa se exportují jako běžné video a zesílit je jde. Live Photo je fotka s krátkým klipem a jako video podporovaná není."
+    },
+    {
+      "question": "Proč aplikace Fotky nemá jezdec hlasitosti?",
+      "answer": "Apple má Fotky jako editor pro rychlé úpravy a změny hlasitosti nechává iMovie. iMovie zvýší hlasitost zhruba na 500 %; Increase Volume jde až na ×10 a funguje přímo z panelu sdílení."
+    }
+  ],
+  "related": [
+    "jak-zesilit-zvuk-videa-na-iphonu",
+    "imovie-hlasitost-jak-zesilit-video-nad-500-procent",
+    "jak-zesilit-zvuk-videa-pro-tiktok-a-reels"
+  ]
+}

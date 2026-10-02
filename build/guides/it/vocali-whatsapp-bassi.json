@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "vocali WhatsApp bassi",
+  "priority": 2,
+  "keywords": "vocali WhatsApp bassi, aumentare volume vocale WhatsApp, vocali non si sentono iPhone, messaggio vocale basso, vocale Telegram basso",
+  "title": "Vocali WhatsApp bassi su iPhone? Ecco come alzarli subito",
+  "description": "Vocali WhatsApp troppo bassi su iPhone? Escludi la capsula auricolare attivata dal sensore di prossimità, poi esporta il vocale e alzalo fino a 10× in poco.",
+  "h1": "Vocali WhatsApp bassi su iPhone: come alzarli",
+  "eyebrow": "WhatsApp e Telegram",
+  "card_title": "Alzare un vocale WhatsApp",
+  "card_summary": "Due problemi diversi: la capsula auricolare o una registrazione davvero bassa. Risolvili entrambi.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Se tutti i vocali WhatsApp si sentono bassi, probabilmente l'iPhone li riproduce dalla capsula auricolare perché hai coperto il sensore di prossimità; allontana il telefono dal viso e premi il tasto volume su mentre il vocale suona. Se è basso un solo vocale, esportalo (pressione prolungata → Inoltra → Condividi → Salva su File o direttamente su Increase Volume), alzalo ×5–×10 con «Migliora qualità audio» attivo e salva o inoltra la copia più forte.",
+  "intro": [
+    "Un vocale WhatsApp può sentirsi basso per due motivi completamente diversi, e ognuno ha la sua soluzione. Il primo: l'iPhone passa senza dirtelo alla capsula auricolare. Il secondo: chi l'ha inviato ha registrato lontano dal microfono o nel rumore, e il vocale è davvero basso. Il primo si verifica in dieci secondi; il secondo si risolve in un minuto.",
+    "Gli stessi passaggi valgono per Telegram, Signal e i messaggi audio di iMessage."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/it/6.webp",
+    "alt": "Schermata di condivisione di iOS con Salva su File per l'audio potenziato",
+    "caption": "I vocali potenziati si salvano in File o si reinoltrano direttamente nella chat."
+  },
+  "sections": [
+    {
+      "heading": "Soluzione 1: suona dalla capsula auricolare",
+      "paragraphs": [
+        "WhatsApp sposta la riproduzione sulla capsula auricolare (il piccolo altoparlante delle chiamate) quando il sensore di prossimità vicino alla fotocamera frontale è coperto. Basta un dito, il bordo di una cover o avvicinare il telefono al viso, e il vocale all'improvviso sembra un sussurro. Scopri il sensore, allontana il telefono e premi volume su *mentre il vocale suona*; iOS ha un volume separato per la capsula auricolare, che potrebbe essere al minimo.",
+        "Controlla anche che il Bluetooth non stia mandando il suono a delle cuffie in tasca e che in Impostazioni › Suoni e feedback aptico › Sicurezza cuffie non sia attivo Riduci audio forte."
+      ]
+    },
+    {
+      "heading": "Soluzione 2: il vocale stesso è basso",
+      "paragraphs": [
+        "Se gli altri vocali si sentono bene e questo no, la registrazione è bassa. WhatsApp non ha un controllo del volume per i vocali ricevuti e i tasti del volume non vanno oltre il 100%. Bisogna alzare il file stesso. WhatsApp ti permette di esportare un vocale come file, e Aumenta Volume lo moltiplica fino a ×10 dandoti una nuova copia da salvare o inoltrare."
+      ]
+    },
+    {
+      "heading": "Come esportare un vocale da WhatsApp, Telegram o Messaggi",
+      "list": [
+        "WhatsApp: tieni premuto il vocale → Inoltra → icona Condividi (in basso) → scegli Increase Volume o Salva su File.",
+        "Telegram: tieni premuto il vocale → Inoltra o Condividi → Salva su File o condividi con Increase Volume.",
+        "Messaggi audio di iMessage: tieni premuto → Salva (finisce in Memo Vocali) e condividi da lì.",
+        "Signal: tieni premuto → Salva → Salva su File."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Passo dopo passo: alzare un vocale WhatsApp",
+    "intro": "Un minuto con l'app gratuita Aumenta Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Esporta il vocale",
+        "text": "In WhatsApp tieni premuto il vocale → Inoltra → icona Condividi → Increase Volume. (Oppure Salva su File e aggiungilo dall'app.)"
+      },
+      {
+        "name": "Attiva Migliora qualità audio",
+        "text": "I vocali sono parlato; l'opzione aiuta le parole a restare chiare dopo il potenziamento."
+      },
+      {
+        "name": "Potenzia",
+        "text": "Imposta «Moltiplicazione volume» a ×5 per iniziare, ×8–×10 se è molto basso, e tocca «Potenzia volume»."
+      },
+      {
+        "name": "Confronta",
+        "text": "Passa da Originale a Elaborato. Se la parola più forte gracchia, abbassa il moltiplicatore."
+      },
+      {
+        "name": "Salva o inoltra",
+        "text": "Tocca «Scarica elaborato». Salva su File o condividi la copia più forte di nuovo su WhatsApp, così la sente tutto il gruppo."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consigli",
+    "items": [
+      "Chiedi a chi ti manda spesso vocali di parlare più vicino al telefono; niente batte la correzione alla fonte.",
+      "Se salvi molti vocali, raccogli le copie potenziate in una cartella di File; la cartella di WhatsApp non si può sfogliare.",
+      "Con i tuoi vocali funziona allo stesso modo: registra, condividi con l'app, potenzia e invia il file potenziato come documento o audio."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Perché i vocali si sentono bassi quando avvicino il telefono all'orecchio?",
+      "answer": "È voluto: con il sensore di prossimità coperto, WhatsApp riproduce dalla capsula auricolare per privacy. Alza il volume della capsula con i tasti mentre il vocale suona, oppure allontana il telefono per usare l'altoparlante."
+    },
+    {
+      "question": "Posso alzare un vocale dentro WhatsApp?",
+      "answer": "No. WhatsApp ha le velocità di riproduzione (1×, 1,5×, 2×), ma non un amplificatore di volume. Esporta il vocale e alzalo con Aumenta Volume."
+    },
+    {
+      "question": "Funziona anche con Telegram e Messenger?",
+      "answer": "Funziona con qualsiasi app che ti permetta di condividere o salvare il file audio. I file potenziati si possono reinoltrare dalla stessa app."
+    }
+  ],
+  "related": [
+    "aumentare-volume-memo-vocali-iphone",
+    "aumentare-volume-mp3-iphone",
+    "perche-il-video-ha-audio-basso"
+  ]
+}

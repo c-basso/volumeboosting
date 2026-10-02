@@ -1,0 +1,120 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie volume acima de 500%",
+  "priority": 11,
+  "keywords": "iMovie volume acima de 500%, iMovie aumentar volume, limite de volume do iMovie, aumentar som no iMovie iPhone, iMovie som baixo",
+  "title": "iMovie para em 500%? Como deixar o vídeo ainda mais alto",
+  "description": "O volume do iMovie no iPhone para em cerca de 500%. Veja como deixar o clipe até 1000% (10×) mais alto com o app Aumentar Volume, antes ou depois do iMovie.",
+  "h1": "Volume do iMovie acima de 500%: como passar do limite",
+  "eyebrow": "iMovie",
+  "card_title": "iMovie acima de 500%",
+  "card_summary": "O iMovie para em cerca de 5×. Amplifique o clipe até 10× antes de colocá-lo no projeto.",
+  "quick_answer": "No iMovie do iPhone, o controle de volume para em cerca de 500% (5×). Para ir além, amplifique o clipe primeiro no app Aumentar Volume (Compartilhar → Increase Volume, até ×10), salve no Fotos e importe a cópia mais alta no iMovie. Ou pule o iMovie: o app também abre arquivos só de áudio e salva sem projeto nem exportação.",
+  "intro": [
+    "O iMovie é grátis e ótimo para cortar, mas o volume tem teto. Quando 500% não basta, o truque comum é duplicar a trilha de áudio, o que o iMovie no iPhone não facilita.",
+    "Aqui vai um caminho mais rápido."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/pt/4.webp",
+    "alt": "Tela «Selecione a quantidade de aumento»: controle «Multiplicação do volume ×10» e botão «Amplificar volume para ×10»",
+    "caption": "O app Aumentar Volume chega a ×10, o dobro do limite do iMovie."
+  },
+  "sections": [
+    {
+      "heading": "iMovie versus app Aumentar Volume",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Aumentar Volume"
+        ],
+        "rows": [
+          [
+            "Volume máximo",
+            "cerca de 500% (5×)",
+            "1000% (10×)"
+          ],
+          [
+            "Arquivos de áudio (MP3, M4A)",
+            "Não",
+            "Sim"
+          ],
+          [
+            "Projeto e exportação",
+            "Obrigatórios",
+            "Não, um controle"
+          ],
+          [
+            "Ouvir antes de salvar",
+            "Na linha do tempo",
+            "Original/Processado"
+          ],
+          [
+            "Preço",
+            "Grátis",
+            "Download grátis, assinatura"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Use os dois juntos",
+      "paragraphs": [
+        "Use o app Aumentar Volume para o nível e o iMovie para a edição. Amplifique o clipe bruto para, por exemplo, ×8, importe no iMovie e continue editando. Assim você não precisa levar o controle do iMovie ao máximo."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Passe dos 500%",
+    "intro": "Antes de colocar o clipe no iMovie.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Compartilhe o clipe com o app",
+        "text": "No Fotos: Compartilhar → Increase Volume."
+      },
+      {
+        "name": "Amplifique",
+        "text": "Arraste «Multiplicação do volume» para ×6–×10 e toque em «Amplificar volume para ×N»."
+      },
+      {
+        "name": "Salve",
+        "text": "«Baixar processado» → Salvar Vídeo."
+      },
+      {
+        "name": "Importe no iMovie",
+        "text": "Adicione a cópia mais alta ao projeto do iMovie e continue."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Dicas",
+    "items": [
+      "Amplifique antes de editar; exportar de novo no iMovie leva tempo.",
+      "Se você já exportou do iMovie, amplifique o arquivo exportado.",
+      "Para fala, ative «Melhorar qualidade do áudio»."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Qual é o volume máximo no iMovie do iPhone?",
+      "answer": "Cerca de 500% (5×) por clipe."
+    },
+    {
+      "question": "Dá para deixar um clipe acima de 500% no iMovie?",
+      "answer": "Não diretamente. Amplifique o clipe no app Aumentar Volume primeiro e importe a cópia mais alta."
+    },
+    {
+      "question": "O app abre projetos do iMovie?",
+      "answer": "Não, mas abre os vídeos que você exporta do iMovie."
+    }
+  ],
+  "related": [
+    "como-aumentar-volume-de-video-no-iphone",
+    "aumentar-volume-sem-perder-qualidade",
+    "aumentar-volume-de-video-no-app-fotos"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

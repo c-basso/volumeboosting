@@ -1,0 +1,130 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "MP3 hangerejének növelése",
+  "priority": 6,
+  "keywords": "MP3 hangerő növelése, MP3 hangosítása iPhone, halk MP3, hangfájl hangosítása, hangfájl hangerő növelés",
+  "title": "Így növeld egy MP3 hangerejét iPhone-on, számítógép nélkül",
+  "description": "Halk MP3, M4A vagy WAV az iPhone-on? Hangosítsd akár 10×-re, és ments hangosabb másolatot a telefonon, feltöltés nélkül. Lépések, biztonságos szintek és GYIK.",
+  "h1": "Hogyan növeld egy MP3 hangerejét iPhone-on",
+  "eyebrow": "MP3 és hang",
+  "card_title": "MP3 hangosítása",
+  "card_summary": "A legtöbb hangerőnövelő csak videóval működik. Ez közvetlenül a Fájlokból hangosít MP3-at, M4A-t és WAV-ot.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Egy MP3 hangosításához iPhone-on nyisd meg a Hangerőnövelő Média appot, add hozzá a fájlt a Fájlokból (vagy oszd meg az appal), húzd a „Hangerőszorzót” ×10-ig, koppints a „Hangerő kiemelése” gombra, hasonlítsd össze az Eredetit és a Feldolgozottat, majd koppints a „Feldolgozott letöltése” gombra, hogy a hangosabb MP3-at a Fájlokba mentsd vagy megoszd. Minden a telefonon történik: számítógép, feltöltés és fiók nélkül. Az Apple Music vagy a Spotify dalai nem importálhatók, mert másolásvédettek.",
+  "intro": [
+    "Letöltöttél egy előadást, egy régi demót, egy podcastepizódot vagy egy leendő csengőhangot, és sokkal halkabban szól, mint minden más. Számítógépen megnyitnád az Audacityt vagy egy normalizáló eszközt; iPhone-on a szokásos tanács az „online hangerőnövelő”, vagyis feltöltöd a fájlt, és egy újrakódolt változatot kapsz vissza.",
+    "A Hangerőnövelő Média ugyanezt helyben csinálja. Az App Store-ban videókhoz, zenéhez és hanghoz készült appként szerepel, mert a legtöbb videó-hangerőnövelővel ellentétben sima hangfájlokat is megnyit."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "„Make music louder” képernyőkép: egy MP3 fájl feldolgozása a Hangerőnövelő Média appban névvel, mérettel és hosszal",
+    "caption": "Az app hangosítás előtt megmutatja a nevet, a méretet és a hosszt."
+  },
+  "sections": [
+    {
+      "heading": "Milyen hangfájlokat hangosíthatsz",
+      "paragraphs": [
+        "Bármit, ami valódi fájl az iPhone-on: MP3, M4A/AAC (a Hangjegyzetek-exportokat és a WhatsApp-hangüzeneteket is beleértve), WAV és más elterjedt formátumok a Fájlokban, az iCloud Drive-on vagy a Dropboxban, illetve az Üzenetekben és a Mailben kapott fájlok. Az app beolvassa a metaadatokat, és ha vannak, megmutatja az előadót és a címet."
+      ],
+      "note": "Nem megy: a streamelt vagy az Apple Musicban, a Spotifyban vagy a YouTube Musicban letöltött dalok. Titkosítottak, más app nem nyitja meg őket. Streaminghez a szolgáltatás saját hangszínszabályzóját vagy normalizálását használd."
+    },
+    {
+      "heading": "Mennyi hangosítást bír egy MP3",
+      "paragraphs": [
+        "A CD-ről rippelt vagy vásárolt MP3 általában már a maximális szint közelében van, és túlhajtva levágódik; ×1,5–×2 elég. A podcastok, előadások, hangfelvételek és régi demók gyakran 10–20 dB-lel lejjebb vannak, és gond nélkül bírják a ×4–×10-et. Az Eredeti/Feldolgozott kapcsolóval mentés előtt ellenőrzöd a leghangosabb részt."
+      ]
+    },
+    {
+      "heading": "Hangerőnövelő Média kontra online MP3-hangerőnövelők",
+      "table": {
+        "head": [
+          "",
+          "Online hangerőnövelő",
+          "Hangerőnövelő Média"
+        ],
+        "rows": [
+          [
+            "Hová kerül a fájl",
+            "Feltöltöd egy szerverre",
+            "Az iPhone-on marad"
+          ],
+          [
+            "Újrakódolás",
+            "Általában fix, alacsonyabb bitrátára",
+            "Helyi feldolgozás"
+          ],
+          [
+            "Méretkorlát",
+            "Gyakori (pl. 50–500 MB)",
+            "Csak a telefon tárhelye"
+          ],
+          [
+            "Meghallgatás mentés előtt",
+            "Ritkán",
+            "Eredeti / Feldolgozott kapcsoló"
+          ],
+          [
+            "Beszédjavítás",
+            "Néha",
+            "Hangminőség javítása kapcsoló"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Lépésről lépésre: MP3 hangosítása",
+    "intro": "Kell hozzá az MP3 a Fájlokban (vagy egy appban, amely megosztja) és az ingyenes Hangerőnövelő Média app.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Add hozzá az MP3-at",
+        "text": "Nyisd meg az appot, és add hozzá a fájlt a Fájlokból. Vagy a Fájlokban nyomd hosszan az MP3-at, koppints a Megosztás gombra, és válaszd az Increase Volume lehetőséget."
+      },
+      {
+        "name": "Ellenőrizd a részleteket",
+        "text": "Ellenőrizd az előadót, a címet, a méretet és a hosszt. Ha beszédről van szó, kapcsold be a „Hangminőség javítása” lehetőséget."
+      },
+      {
+        "name": "Válaszd ki a szorzót",
+        "text": "Állítsd a „Hangerőszorzót” ×2-re zenéhez, és ×4–×10-re halk beszédfelvételekhez. Koppints a „Hangerő kiemelése” gombra."
+      },
+      {
+        "name": "Hasonlítsd össze",
+        "text": "Válts az Eredeti/Feldolgozott között a leghangosabb résznél. Igazíts, ha a hangosított változat recseg."
+      },
+      {
+        "name": "Feldolgozott letöltése",
+        "text": "Koppints a „Feldolgozott letöltése” gombra, majd a Mentés a Fájlokba lehetőségre, vagy oszd meg Mailben, Üzenetekben vagy felhőben."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tippek",
+    "items": [
+      "Egy egész fájlsorozatot (hangoskönyv-fejezetek, előadássorozat) ugyanazzal a szorzóval hangosíts, hogy egyformán szóljanak.",
+      "A hangosított másolatokat tartsd külön mappában a Fájlokban; az app emellett minden projektet megőriz a listájában.",
+      "Csengőhangnál előbb hangosíts, aztán vágd 30 másodpercre; a hangosabb forrásból hangosabb csengőhang lesz."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Hangosíthatok egy dalt az Apple Musicból vagy a Spotifyból?",
+      "answer": "A streaming-letöltéseket más app nem nyithatja meg; titkosítottak. A Hangerőnövelő Média a Fájlokban, az iCloud Drive-on vagy más tárhelyen lévő saját fájljaiddal működik."
+    },
+    {
+      "question": "Romlik egy MP3 minősége hangosításkor?",
+      "answer": "A hang egyszer kerül feldolgozásra, és új fájlként mentődik. Minősége csak akkor romlik, ha annyira hangosítod, hogy a csúcsok levágódnak; az Eredeti/Feldolgozott kapcsolóval ezt mentés előtt hallod."
+    },
+    {
+      "question": "WAV-val és M4A-val is működik?",
+      "answer": "Igen. Az elterjedt hangformátumok támogatottak, az MP4 és MOV videó mellett."
+    }
+  ],
+  "related": [
+    "halk-zene-iphone-on",
+    "podcast-hangoskonyv-hangosabban",
+    "hangjegyzet-hangerejenek-novelese"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "gjøre TikTok-video høyere",
+  "priority": 8,
+  "keywords": "gjøre TikTok-video høyere, TikTok lav lyd, øke lyd på TikTok-video, lyd for lav TikTok, Reels lyd høyere",
+  "title": "Gjør en TikTok-video høyere før du legger den ut (10×)",
+  "description": "TikTok-redigereren kan ikke heve originallyden over 100 %. Slik forsterker du videoen opptil 10× i Volumforsterker før opplasting, og balanserer med musikken.",
+  "h1": "Slik gjør du en TikTok-video høyere",
+  "eyebrow": "TikTok og Reels",
+  "card_title": "TikTok-video høyere",
+  "card_summary": "TikTok stopper ved 100 % originallyd. Forsterk klippet før opplasting, så stemmen høres over musikken.",
+  "quick_answer": "TikTok lar deg senke originallyden, men ikke heve den over 100 %. For en høyere TikTok: forsterk klippet først. Del videoen fra Bilder til Increase Volume, forsterk ×3–×6, trykk «Last ned behandlet» → Arkiver video, og last opp den høyere kopien i TikTok. Juster deretter balansen mellom originallyd og musikk under Volum.",
+  "intro": [
+    "Ingen sveiper videre raskere enn når de ikke hører hva du sier. TikTok og Instagram Reels jevner ut lydnivået, men løfter ikke et klipp som kommer inn for lavt, og i TikTok-redigereren er 100 % originallyd taket.",
+    "Løsningen er å gjøre klippet høyere før det lastes opp."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Delingsarket i iOS med Kopier, Legg til etiketter og Arkiver i Filer for den forsterkede filen",
+    "caption": "Lagre den høyere kopien i Bilder, og last den opp i TikTok."
+  },
+  "sections": [
+    {
+      "heading": "Hvorfor TikTok-videoen blir lav",
+      "paragraphs": [
+        "Telefonmikrofonen fanger tale lavt når du filmer på armlengdes avstand eller utendørs. Legger du på musikk, drukner stemmen. TikToks volumglidebryter kan bare senke: originallyden går fra 0 til 100 %."
+      ]
+    },
+    {
+      "heading": "Arbeidsflyt: forsterk først, rediger etterpå",
+      "paragraphs": [],
+      "list": [
+        "Film som vanlig med iPhone-kameraet.",
+        "Forsterk klippet i Volumforsterker (×3–×6 for tale).",
+        "Last opp den høyere kopien i TikTok eller Instagram.",
+        "Legg til musikk og senk musikken til rundt 20–40 % under Volum."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Fungerer det med Reels og Shorts?",
+      "paragraphs": [
+        "Ja. Den forsterkede filen er en vanlig video, så den fungerer i Instagram Reels, YouTube Shorts, Snapchat og CapCut."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Steg for steg: forsterk et TikTok-klipp",
+    "intro": "Gjør dette før opplasting.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Del klippet til appen",
+        "text": "I Bilder: Del → Increase Volume."
+      },
+      {
+        "name": "Velg nivå",
+        "text": "Tale: ×3–×6 med «Forbedre lydkvalitet». Svært lavt: opptil ×10."
+      },
+      {
+        "name": "Boost og sammenlign",
+        "text": "Trykk «Boost lydstyrken til ×N» og lytt med Original/Behandlet."
+      },
+      {
+        "name": "Lagre og last opp",
+        "text": "«Last ned behandlet» → Arkiver video, og velg den nye kopien i TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips for TikTok",
+    "items": [
+      "Teksting hjelper dem som ser uten lyd, men lyd som høres, holder seerne.",
+      "Ikke press over ×6 hvis klippet har rop eller latter.",
+      "Lagrede TikTok-videoer med vannmerke kan også forsterkes, men original-filen gir best kvalitet."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan jeg øke volumet over 100 % i TikTok?",
+      "answer": "Nei. TikTok-redigereren kan bare senke originallyden. Forsterk klippet før opplasting."
+    },
+    {
+      "question": "Blir videokvaliteten dårligere?",
+      "answer": "Nei, bildet endres ikke. TikTok komprimerer ved opplasting uansett."
+    },
+    {
+      "question": "Fungerer det med Instagram Reels?",
+      "answer": "Ja, den forsterkede filen fungerer i alle apper."
+    }
+  ],
+  "related": [
+    "gjor-video-hoyere-iphone",
+    "skjermopptak-lyd-for-lav-iphone",
+    "gjor-video-hoyere-fra-bilder"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

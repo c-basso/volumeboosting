@@ -1,0 +1,130 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "aumentare il volume di un MP3",
+  "priority": 6,
+  "keywords": "aumentare volume MP3, alzare volume MP3 iPhone, MP3 troppo basso, amplificare file audio, aumentare volume file audio",
+  "title": "Come aumentare il volume di un MP3 su iPhone, senza computer",
+  "description": "MP3, M4A o WAV troppo basso su iPhone? Alzalo fino a 10× e salva una copia più forte con Aumenta Volume, tutto sul telefono. Passaggi, livelli sicuri e domande.",
+  "h1": "Come aumentare il volume di un MP3 su iPhone",
+  "eyebrow": "MP3 e audio",
+  "card_title": "Aumentare il volume di un MP3",
+  "card_summary": "La maggior parte degli amplificatori funziona solo con i video. Questo alza MP3, M4A e WAV direttamente da File.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Per alzare un MP3 su iPhone, apri Aumenta Volume, aggiungi il file da File (o condividilo con l'app), trascina «Moltiplicazione volume» fino a ×10, tocca «Potenzia volume», confronta Originale ed Elaborato e tocca «Scarica elaborato» per salvare l'MP3 più forte in File o condividerlo. Tutto avviene sul telefono: niente computer, niente caricamenti, niente account. I brani di Apple Music o Spotify non si possono importare perché sono protetti da copia.",
+  "intro": [
+    "Hai scaricato una lezione, un vecchio demo, una puntata di podcast o una futura suoneria, e suona molto più basso di tutto il resto. Sul computer apriresti Audacity o uno strumento di normalizzazione; su iPhone il consiglio tipico è «usa un amplificatore online», cioè caricare il file e riceverne una versione ricodificata.",
+    "Aumenta Volume fa la stessa cosa in locale. Su App Store compare come amplificatore per musica e video perché, a differenza della maggior parte degli amplificatori video, apre normali file audio."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/it/3.webp",
+    "alt": "Schermata «Aumenta il volume Audio»: un file MP3 in elaborazione in Aumenta Volume con nome, dimensione e durata",
+    "caption": "L'app mostra nome, dimensione e durata prima di potenziare."
+  },
+  "sections": [
+    {
+      "heading": "Quali file audio puoi potenziare",
+      "paragraphs": [
+        "Tutto ciò che è un file vero sul tuo iPhone: MP3, M4A/AAC (comprese le esportazioni di Memo Vocali e i vocali WhatsApp), WAV e altri formati comuni salvati in File, iCloud Drive o Dropbox, o ricevuti in Messaggi e Mail. L'app legge i metadati e mostra artista e titolo quando ci sono."
+      ],
+      "note": "Non si può: brani in streaming o scaricati dentro Apple Music, Spotify o YouTube Music. Sono cifrati e nessun'altra app li apre. Per lo streaming usa l'equalizzatore o la normalizzazione del servizio stesso."
+    },
+    {
+      "heading": "Quanto potenziamento regge un MP3",
+      "paragraphs": [
+        "Gli MP3 da CD o acquistati sono di solito già vicini al livello massimo e distorcono se li spingi; ×1,5–×2 basta. Podcast, lezioni, registrazioni vocali e vecchi demo sono spesso 10–20 dB più bassi e reggono ×4–×10 senza problemi. Con Originale/Elaborato controlli il passaggio più forte prima di salvare."
+      ]
+    },
+    {
+      "heading": "Aumenta Volume e gli amplificatori MP3 online a confronto",
+      "table": {
+        "head": [
+          "",
+          "Amplificatore online",
+          "Aumenta Volume"
+        ],
+        "rows": [
+          [
+            "Dove va il file",
+            "Caricato su un server",
+            "Resta sull'iPhone"
+          ],
+          [
+            "Ricodifica",
+            "Di solito a un bitrate fisso più basso",
+            "Elaborazione locale"
+          ],
+          [
+            "Limite di dimensione",
+            "Comune (es. 50–500 MB)",
+            "Solo lo spazio del telefono"
+          ],
+          [
+            "Ascolto prima di salvare",
+            "Raramente",
+            "Selettore Originale / Elaborato"
+          ],
+          [
+            "Miglioramento del parlato",
+            "A volte",
+            "Opzione Migliora qualità audio"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Passo dopo passo: alzare un MP3",
+    "intro": "Ti servono l'MP3 in File (o in un'app che lo condivida) e l'app gratuita Aumenta Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Aggiungi l'MP3",
+        "text": "Apri l'app e aggiungi il file da File. Oppure in File tieni premuto l'MP3, tocca Condividi e scegli Increase Volume."
+      },
+      {
+        "name": "Controlla i dettagli",
+        "text": "Verifica artista, titolo, dimensione e durata. Se è parlato, attiva «Migliora qualità audio»."
+      },
+      {
+        "name": "Scegli il moltiplicatore",
+        "text": "Imposta «Moltiplicazione volume» a ×2 per la musica e ×4–×10 per registrazioni vocali basse. Tocca «Potenzia volume»."
+      },
+      {
+        "name": "Confronta",
+        "text": "Passa da Originale a Elaborato nella parte più forte. Regola se la versione potenziata gracchia."
+      },
+      {
+        "name": "Scarica elaborato",
+        "text": "Tocca «Scarica elaborato» e poi Salva su File, oppure condividi via Mail, Messaggi o cloud."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consigli",
+    "items": [
+      "Potenzia un'intera serie di file (capitoli di un audiolibro, un ciclo di lezioni) con lo stesso moltiplicatore così suonano uguali.",
+      "Tieni le copie potenziate in una cartella a parte in File; l'app inoltre conserva ogni progetto nel suo elenco.",
+      "Per le suonerie: prima potenzia, poi taglia a 30 secondi; una sorgente più forte dà una suoneria più forte."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Posso alzare un brano di Apple Music o Spotify?",
+      "answer": "Nessun'altra app può aprire i download dello streaming; sono cifrati. Aumenta Volume funziona con i file tuoi in File, iCloud Drive o altro archivio."
+    },
+    {
+      "question": "Un MP3 perde qualità se lo alzo?",
+      "answer": "L'audio viene elaborato una volta e salvato come nuovo file. La qualità ne risente solo se lo alzi tanto da far distorcere i picchi; con Originale/Elaborato lo senti prima di salvare."
+    },
+    {
+      "question": "Funziona anche con WAV e M4A?",
+      "answer": "Sì. Sono supportati i formati audio comuni, oltre ai video MP4 e MOV."
+    }
+  ],
+  "related": [
+    "musica-bassa-iphone",
+    "aumentare-volume-podcast-audiolibro-iphone",
+    "aumentare-volume-memo-vocali-iphone"
+  ]
+}

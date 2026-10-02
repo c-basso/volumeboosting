@@ -1,0 +1,99 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "jak zgłośnić film na TikToka",
+  "priority": 8,
+  "keywords": "jak zgłośnić film na TikToka, cichy dźwięk TikTok, zwiększyć głośność filmu TikTok, za cichy TikTok, głośniejszy dźwięk Reels",
+  "title": "Jak zgłośnić film na TikToka przed publikacją (do 10×)",
+  "description": "Edytor TikToka nie podniesie oryginalnego dźwięku powyżej 100%. Jak wzmocnić film nawet 10× w Volume Boost przed przesłaniem i wyważyć go z muzyką w tle.",
+  "h1": "Jak zgłośnić film na TikToka",
+  "eyebrow": "TikTok i Reels",
+  "card_title": "Głośniejszy TikTok",
+  "card_summary": "TikTok kończy się na 100% oryginalnego dźwięku. Wzmocnij klip przed przesłaniem, żeby głos był słyszalny nad muzyką.",
+  "quick_answer": "TikTok pozwala ściszyć oryginalny dźwięk, ale nie podnieść go powyżej 100%. Aby TikTok był głośniejszy, najpierw wzmocnij klip: udostępnij film ze Zdjęć do Increase Volume, wzmocnij ×3–×6, stuknij „Pobierz przetworzony” → Zachowaj wideo i prześlij głośniejszą kopię do TikToka. Następnie wyważ oryginalny dźwięk i muzykę w opcji Głośność.",
+  "intro": [
+    "Nikt nie przewija dalej szybciej niż wtedy, gdy nie słyszy, co mówisz. TikTok i Instagram Reels wyrównują poziom dźwięku, ale nie podniosą klipu, który trafia do nich za cichy, a w edytorze TikToka 100% oryginalnego dźwięku to sufit.",
+    "Rozwiązanie: zgłośnij klip, zanim go prześlesz."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Arkusz udostępniania iOS z opcjami Kopiuj, Dodaj tagi i Zachowaj w Plikach dla wzmocnionego pliku",
+    "caption": "Zachowaj głośniejszą kopię w Zdjęciach i prześlij ją do TikToka."
+  },
+  "sections": [
+    {
+      "heading": "Dlaczego film na TikToka wychodzi cichy",
+      "paragraphs": [
+        "Mikrofon telefonu łapie mowę cicho, gdy nagrywasz z odległości ręki lub na zewnątrz. Gdy dodasz muzykę, głos w niej ginie. Suwak głośności TikToka może tylko ściszać: oryginalny dźwięk ma zakres od 0 do 100%."
+      ]
+    },
+    {
+      "heading": "Kolejność: najpierw wzmocnij, potem montuj",
+      "paragraphs": [],
+      "list": [
+        "Nagraj jak zwykle aparatem iPhone'a.",
+        "Wzmocnij klip w Volume Boost (×3–×6 dla mowy).",
+        "Prześlij głośniejszą kopię do TikToka lub Instagrama.",
+        "Dodaj muzykę i ścisz ją do ok. 20–40% w opcji Głośność."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Czy to działa z Reels i Shorts?",
+      "paragraphs": [
+        "Tak. Wzmocniony plik to zwykły film, więc działa w Instagram Reels, YouTube Shorts, Snapchacie i CapCut."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Krok po kroku: wzmocnij klip na TikToka",
+    "intro": "Zrób to przed przesłaniem.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Udostępnij klip aplikacji",
+        "text": "W Zdjęciach: Udostępnij → Increase Volume."
+      },
+      {
+        "name": "Wybierz poziom",
+        "text": "Mowa: ×3–×6 z „Popraw jakość dźwięku”. Bardzo cicho: do ×10."
+      },
+      {
+        "name": "Wzmocnij i porównaj",
+        "text": "Stuknij „Wzmocnij głośność do ×N” i odsłuchaj z Oryginał/Przetworzony."
+      },
+      {
+        "name": "Zapisz i prześlij",
+        "text": "„Pobierz przetworzony” → Zachowaj wideo, a potem wybierz nową kopię w TikToku."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Wskazówki dla TikToka",
+    "items": [
+      "Napisy pomagają oglądającym bez dźwięku, ale słyszalny dźwięk zatrzymuje widzów.",
+      "Nie idź powyżej ×6, jeśli w klipie są krzyki lub śmiech.",
+      "Zapisane filmy z TikToka ze znakiem wodnym też da się wzmocnić, ale oryginalny plik daje najlepszą jakość."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Czy mogę podnieść głośność powyżej 100% w TikToku?",
+      "answer": "Nie. Edytor TikToka potrafi tylko ściszyć oryginalny dźwięk. Wzmocnij klip przed przesłaniem."
+    },
+    {
+      "question": "Czy jakość filmu spadnie?",
+      "answer": "Nie, obraz się nie zmienia. TikTok i tak kompresuje film przy przesyłaniu."
+    },
+    {
+      "question": "Czy to działa z Instagram Reels?",
+      "answer": "Tak, wzmocniony plik działa w każdej aplikacji."
+    }
+  ],
+  "related": [
+    "jak-zwiekszyc-glosnosc-filmu-iphone",
+    "nagrywanie-ekranu-cichy-dzwiek-iphone",
+    "glosnosc-filmu-w-aplikacji-zdjecia"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

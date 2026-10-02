@@ -1,0 +1,101 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "video harder maken in Foto's-app",
+  "priority": 9,
+  "keywords": "video harder maken Foto's iPhone, Foto's-app volume verhogen, video in Foto's te zacht, volume video vanuit Foto's, delen met Increase Volume",
+  "title": "Een video harder maken direct vanuit de Foto's-app op iPhone",
+  "description": "Foto's heeft geen volumeregeling, maar je kunt de video toch versterken: tik op Deel, kies Audioversterker, sleep tot 10× en bewaar een kopie bij het origineel.",
+  "h1": "Een video harder maken direct vanuit Foto's",
+  "eyebrow": "Vanuit Foto's",
+  "card_title": "Video versterken via Deel in Foto's",
+  "card_summary": "Foto's kan alleen dempen. Met Deel → Increase Volume versterk je de clip en bewaar je een harde kopie naast het origineel.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "De Foto's-app kan het volume van een video niet verhogen; de bewerker kan alleen dempen (en op iPhone 16 of nieuwer ruimtelijke audio afstemmen met Audiomix). Om een video vanuit Foto's harder te maken: open hem, tik op Deel, kies Increase Volume, sleep 'Volumevermenigvuldiging' tot ×10, tik op 'Volume versterken' en daarna op 'Verwerkt bestand downloaden' → Bewaar video. De luidere kopie verschijnt in Foto's naast het origineel.",
+  "intro": [
+    "Bijna iedereen zoekt een volumeregeling in de bewerker van Foto's en vindt er geen, omdat die er niet is. Foto's knipt bij, recht uit, corrigeert kleuren en dempt een video, maar maakt hem niet harder. Wat Foto's *wel* heeft, is het deelmenu, en Audioversterker haakt daarop in, zodat versterken twee tikken verwijderd is van elke video in je bibliotheek.",
+    "Deze handleiding laat die werkwijze zien en wat de bewerker van Foto's echt met geluid kan."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Schermafbeelding 'Download and share anywhere': deelmenu met opties om de versterkte video in Foto's of Bestanden te bewaren",
+    "caption": "De versterkte kopie gaat via het deelmenu terug naar Foto's; je origineel blijft zoals het was."
+  },
+  "sections": [
+    {
+      "heading": "Wat de bewerker van Foto's wel en niet met geluid kan",
+      "list": [
+        "Dempen: tik op Wijzig en daarna op het luidsprekersymbool bovenaan om de hele audiotrack te verwijderen.",
+        "Audiomix (iPhone 16 of nieuwer, video's met ruimtelijke audio): verschillende mixen laten stemmen naar voren komen en verminderen achtergrondgeluid. Dat verandert de *balans*, niet het totale volume.",
+        "Het volume verhogen: bestaat in geen enkele versie van Foto's."
+      ]
+    },
+    {
+      "heading": "Deel gebruiken met Audioversterker",
+      "paragraphs": [
+        "Sinds versie 1.2.7 verschijnt Increase Volume in het deelmenu van iOS. Een video delen met de app maakt meteen een project met naam, grootte en duur, zodat je weet dat het de juiste clip is. Na het versterken opent 'Verwerkt bestand downloaden' het deelmenu opnieuw, waar Bewaar video de luidere kopie in Foto's zet. Omdat het een nieuw bestand is, wordt het origineel nooit overschreven.",
+        "Verschijnt Increase Volume de eerste keer niet in het deelmenu, scrol dan de rij apps tot het einde, tik op Meer en zet hem aan (je kunt hem ook naar voren slepen)."
+      ]
+    },
+    {
+      "heading": "Meerdere video's versterken",
+      "paragraphs": [
+        "De app houdt een lijst met projecten bij, dus je kunt meerdere clips vanuit Foto's sturen en ze een voor een verwerken. Elk project onthoudt zijn bestand tot je het verwijdert, zodat je later terug kunt komen en een andere vermenigvuldiging kunt proberen."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Stap voor stap: van Foto's naar een luidere video",
+    "intro": "Je hoeft de app niet eerst te openen; begin in Foto's.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Open de video in Foto's",
+        "text": "Zoek de zachte video en open hem schermvullend."
+      },
+      {
+        "name": "Tik op Deel → Increase Volume",
+        "text": "Tik op Deel, scrol door de rij symbolen en tik op Increase Volume. Er opent een nieuw project."
+      },
+      {
+        "name": "Versterk",
+        "text": "Sleep 'Volumevermenigvuldiging' naar het niveau dat je nodig hebt (×3–×10), zet 'Audiokwaliteit verbeteren' aan voor spraak en tik op 'Volume versterken'."
+      },
+      {
+        "name": "Vergelijk",
+        "text": "Met de schakelaar Origineel/Verwerkt hoor je het verschil."
+      },
+      {
+        "name": "Bewaar video",
+        "text": "Tik op 'Verwerkt bestand downloaden' en daarna op Bewaar video. In Foto's staat de luidere kopie direct na het origineel."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Voeg Increase Volume toe aan je favorieten in het deelmenu (Meer → Wijzig) zodat hij altijd vooraan staat.",
+      "Je kunt ook een video uit Bestanden, Berichten of Mail direct met de app delen; de werkwijze is hetzelfde.",
+      "Wil je ruimte vrijmaken, verwijder dan het zachte origineel nadat je hebt gecontroleerd dat de versterkte kopie goed klinkt."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Vervangt versterken vanuit Foto's mijn originele video?",
+      "answer": "Nee. De app maakt altijd een nieuw bestand. Bewaar video voegt een tweede kopie toe aan Foto's; het origineel verandert niet."
+    },
+    {
+      "question": "Kan ik Live Photos of slow-motionvideo's versterken?",
+      "answer": "Slow-motion- en timelapsevideo's worden als gewone video geëxporteerd en kun je versterken. Live Photos zijn foto's met een kort clipje en worden niet als video ondersteund."
+    },
+    {
+      "question": "Waarom heeft de Foto's-app geen volumeregeling?",
+      "answer": "Apple bedoelt Foto's als bewerker voor snelle correcties en laat niveauwijzigingen aan iMovie over. iMovie gaat tot 500%; Audioversterker gaat tot ×10 en werkt vanuit het deelmenu."
+    }
+  ],
+  "related": [
+    "video-geluid-harder-maken-iphone",
+    "imovie-volume-boven-500",
+    "tiktok-video-harder-maken"
+  ]
+}

@@ -8,7 +8,7 @@ const {
   EXPECTED_GUIDE_JSON_LD_TYPES,
   EXPECTED_GUIDES_HUB_JSON_LD_TYPES,
   GUIDE_URLS,
-  GUIDES_PATH_SEGMENT
+  GUIDE_HUBS
 } = require('../constants');
 
 const PROJECT_ROOT = path.join(__dirname, '..', '..');
@@ -26,26 +26,25 @@ function listPages() {
     expectedJsonLdTypes: EXPECTED_JSON_LD_TYPES
   }));
 
-  if (GUIDE_URLS.length > 0) {
-    const hubFile = path.join(PROJECT_ROOT, GUIDES_PATH_SEGMENT, 'index.html');
-    if (fs.existsSync(hubFile)) {
+  for (const { lang, outputPath } of GUIDE_HUBS) {
+    if (fs.existsSync(outputPath)) {
       pages.push({
-        id: 'guides-hub',
-        lang: DEFAULT_LANGUAGE,
+        id: lang === DEFAULT_LANGUAGE ? 'guides-hub' : `guides-hub:${lang}`,
+        lang,
         kind: 'hub',
-        file: hubFile,
+        file: outputPath,
         expectedJsonLdTypes: EXPECTED_GUIDES_HUB_JSON_LD_TYPES
       });
     }
-    for (const { slug, outputPath } of GUIDE_URLS) {
-      pages.push({
-        id: `guide:${slug}`,
-        lang: DEFAULT_LANGUAGE,
-        kind: 'guide',
-        file: outputPath,
-        expectedJsonLdTypes: EXPECTED_GUIDE_JSON_LD_TYPES
-      });
-    }
+  }
+  for (const { slug, lang, outputPath } of GUIDE_URLS) {
+    pages.push({
+      id: lang === DEFAULT_LANGUAGE ? `guide:${slug}` : `guide:${lang}:${slug}`,
+      lang,
+      kind: 'guide',
+      file: outputPath,
+      expectedJsonLdTypes: EXPECTED_GUIDE_JSON_LD_TYPES
+    });
   }
 
   return pages;

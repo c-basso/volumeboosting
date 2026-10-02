@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "zwiększyć głośność filmu w aplikacji Zdjęcia",
+  "priority": 9,
+  "keywords": "zwiększyć głośność filmu w aplikacji Zdjęcia, Zdjęcia iPhone głośność filmu, zgłośnić film ze Zdjęć, dźwięk filmu Zdjęcia iPhone, Udostępnij Increase Volume",
+  "title": "Jak zwiększyć głośność filmu z aplikacji Zdjęcia na iPhonie",
+  "description": "Edycja w Zdjęciach potrafi tylko wyciszyć dźwięk. Jak użyć Udostępnij → Increase Volume, by zgłośnić film nawet 10× i zapisać kopię z powrotem w Zdjęciach.",
+  "h1": "Jak zwiększyć głośność filmu z aplikacji Zdjęcia",
+  "eyebrow": "Zdjęcia",
+  "card_title": "Głośność ze Zdjęć",
+  "card_summary": "Zdjęcia potrafią tylko wyciszać. Przez Udostępnij → Increase Volume zgłośnisz film i zapiszesz go z powrotem w Zdjęciach.",
+  "quick_answer": "Aplikacja Zdjęcia potrafi tylko wyciszyć dźwięk filmu, nie zgłośnić go. Otwórz film w Zdjęciach, stuknij Udostępnij i wybierz Increase Volume. Projekt otworzy się w Volume Boost; przesuń „Mnożnik głośności” do ×10, stuknij „Wzmocnij głośność”, a potem „Pobierz przetworzony” → Zachowaj wideo. Głośniejsza kopia trafi do Zdjęć obok oryginału.",
+  "intro": [
+    "Większość filmów na iPhonie leży w Zdjęciach i tam ludzie najpierw próbują naprawić cichy dźwięk. W Edycji jest ikona głośnika, ale tylko włącza i wyłącza dźwięk.",
+    "Przez arkusz udostępniania wyślesz film prosto do Volume Boost i dostaniesz głośniejszą kopię z powrotem w Zdjęciach, bez przechodzenia przez Pliki."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Arkusz udostępniania iOS z opcjami dla wzmocnionego pliku z Volume Boost",
+    "caption": "Arkusz udostępniania iOS przesyła film między Zdjęciami a aplikacją."
+  },
+  "sections": [
+    {
+      "heading": "Co edycja w Zdjęciach potrafi z dźwiękiem",
+      "paragraphs": [
+        "Stuknij Edycja przy filmie: ikona głośnika u góry wycisza lub włącza dźwięk. Na nowszych iPhone'ach z dźwiękiem przestrzennym jest też Miks audio, który zmienia proporcje głosów i tła, ale nie ogólną głośność."
+      ]
+    },
+    {
+      "heading": "Nie widzisz Increase Volume w arkuszu udostępniania?",
+      "paragraphs": [],
+      "list": [
+        "Przewiń rząd aplikacji w prawo i stuknij Więcej.",
+        "Znajdź Increase Volume i dodaj do Ulubionych.",
+        "Od teraz pojawi się w arkuszu dla każdego filmu."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Gdzie trafi kopia?",
+      "paragraphs": [
+        "Gdy wybierzesz Zachowaj wideo, wzmocniony film trafi do Zdjęć jako nowy element, najnowszy w bibliotece. Oryginał pozostaje bez zmian."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Ze Zdjęć do głośniejszego filmu",
+    "intro": "Około minuty.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Otwórz film w Zdjęciach",
+        "text": "Stuknij film, a potem Udostępnij."
+      },
+      {
+        "name": "Wybierz Increase Volume",
+        "text": "Projekt otworzy się od razu w Volume Boost."
+      },
+      {
+        "name": "Wzmocnij",
+        "text": "Przesuń „Mnożnik głośności”, stuknij „Wzmocnij głośność do ×N” i porównaj Oryginał/Przetworzony."
+      },
+      {
+        "name": "Zachowaj z powrotem w Zdjęciach",
+        "text": "Stuknij „Pobierz przetworzony” → Zachowaj wideo."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Wskazówki",
+    "items": [
+      "Kilka filmów wzmocnisz po kolei z listy projektów.",
+      "Oznacz nową kopię jako ulubioną, żeby szybko ją znaleźć.",
+      "Usuń oryginał dopiero wtedy, gdy głośniejsza wersja Ci odpowiada."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Czy aplikacja Zdjęcia może zgłośnić film?",
+      "answer": "Nie. Zdjęcia potrafią tylko wyciszyć dźwięk albo zmienić Miks audio na obsługiwanych modelach."
+    },
+    {
+      "question": "Czy aplikacja zastąpi oryginalny film?",
+      "answer": "Nie. Zawsze zapisuje nową kopię; oryginał zostaje bez zmian."
+    },
+    {
+      "question": "Czy działa to z Live Photos?",
+      "answer": "Aplikacja pracuje z plikami wideo. Najpierw zapisz Live Photo jako wideo w Zdjęciach."
+    }
+  ],
+  "related": [
+    "jak-zwiekszyc-glosnosc-filmu-iphone",
+    "dlaczego-film-jest-cichy",
+    "glosniejszy-film-tiktok"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "cum fac o înregistrare din Reportofon mai tare",
+  "priority": 4,
+  "keywords": "cum fac o înregistrare din Reportofon mai tare, înregistrare vocală încet iPhone, mărire volum înregistrare audio, înregistrare curs încet, amplificare înregistrare voce",
+  "title": "Cum faci o înregistrare din Reportofon mai tare pe iPhone",
+  "description": "„Îmbunătățire înregistrare” din Reportofon nu face fișierul mai tare. Cum exporți înregistrarea, o amplifici de până la 10× și salvezi un M4A mai tare.",
+  "h1": "Cum faci o înregistrare din Reportofon mai tare pe iPhone",
+  "eyebrow": "Reportofon",
+  "card_title": "Reportofon mai tare",
+  "card_summary": "„Îmbunătățire înregistrare” scoate zgomotul, dar nu crește volumul. Uite cum faci fișierul în sine mai tare.",
+  "quick_answer": "Aplicația Reportofon nu are cursor de volum pentru fișier; „Îmbunătățire înregistrare” doar reduce zgomotul la redare. Ca să faci înregistrarea mai tare: atinge ⋯ la înregistrare → Partajați → Increase Volume, activează „Îmbunătățește calitatea audio”, amplifică ×5–×10, compară Original și Procesat și atinge „Descarcă procesat”. Fișierul M4A mai tare îl salvezi în Fișiere sau îl partajezi.",
+  "intro": [
+    "Cursuri, ședințe, interviuri și idei se înregistrează des cu Reportofon de pe un telefon lăsat pe masă. Rezultatul e adesea prea încet, mai ales când vorbitorul stă departe.",
+    "Ghidul acesta explică ce fac de fapt opțiunile din Reportofon și cum creezi o copie mai tare definitiv a înregistrării."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Detalii piesă în Volume Boost cu „Îmbunătățește calitatea audio” activat și cursorul „Multiplicare volum ×10”",
+    "caption": "Pentru vorbire: activează „Îmbunătățește calitatea audio” și alege multiplicarea."
+  },
+  "sections": [
+    {
+      "heading": "Ce face „Îmbunătățire înregistrare”, și ce nu face",
+      "paragraphs": [
+        "În Reportofon găsești la editare opțiunea „Îmbunătățire înregistrare” (pictograma baghetă). Reduce zgomotul de fundal și ecoul, dar nu crește vizibil nivelul fișierului. Când partajezi înregistrarea, e la fel de încet ca înainte."
+      ]
+    },
+    {
+      "heading": "Volumul de redare față de volumul fișierului",
+      "paragraphs": [
+        "Butoanele de volum afectează doar difuzorul tău. Dacă un coleg, un serviciu de transcriere sau un program de montaj trebuie să primească un semnal clar, fișierul în sine trebuie să fie mai tare. Asta face Volume Boost: înmulțește nivelul sunetului și salvează un M4A nou."
+      ]
+    },
+    {
+      "heading": "Cum partajezi o înregistrare din Reportofon",
+      "paragraphs": [],
+      "list": [
+        "Deschide Reportofon și atinge înregistrarea.",
+        "Atinge ⋯ (Mai multe) și alege Partajați.",
+        "Alege Increase Volume în filă, sau Salvați în Fișiere ca s-o deschizi mai târziu."
+      ],
+      "ordered": true
+    }
+  ],
+  "steps": {
+    "heading": "Pas cu pas: amplifică o înregistrare din Reportofon",
+    "intro": "Sub un minut pentru o înregistrare de câteva minute.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Partajează înregistrarea",
+        "text": "În Reportofon: ⋯ → Partajați → Increase Volume. Aplicația arată numele fișierului, dimensiunea și durata."
+      },
+      {
+        "name": "Activează „Îmbunătățește calitatea audio”",
+        "text": "Vocea devine mai clară odată cu amplificarea."
+      },
+      {
+        "name": "Amplifică",
+        "text": "Trage „Multiplicare volum” la ×5–×10 și atinge „Amplifică volumul la ×N”."
+      },
+      {
+        "name": "Compară și salvează",
+        "text": "Ascultă Original și Procesat, atinge „Descarcă procesat” și alege Salvați în Fișiere."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Sfaturi pentru vorbire",
+    "items": [
+      "Data viitoare pune telefonul cu microfonul (partea de jos) spre vorbitor; ajută mai mult decât orice amplificare.",
+      "Aplauzele sau râsetele lângă telefon creează vârfuri. Folosește ×4–×6 și verifică pasajele cele mai tari.",
+      "Un fișier mai tare dă adesea rezultate mai bune în instrumentele de transcriere."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Pot crește volumul în Reportofon fără altă aplicație?",
+      "answer": "Nu. Reportofon poate tăia, înlocui și îmbunătăți, dar nu are amplificare de volum pentru fișier."
+    },
+    {
+      "question": "În ce format se salvează fișierul amplificat?",
+      "answer": "Fișierele audio se salvează ca fișier de sunet nou (M4A pentru înregistrările din Reportofon), pe care îl salvezi în Fișiere sau îl partajezi."
+    },
+    {
+      "question": "Crește și zgomotul de fundal?",
+      "answer": "Da, tot ce e în înregistrare se amplifică. „Îmbunătățește calitatea audio” ajută vocea să iasă în evidență."
+    }
+  ],
+  "related": [
+    "mesaj-vocal-whatsapp-se-aude-incet",
+    "podcast-audiobook-incet-iphone",
+    "cum-maresti-volumul-mp3-pe-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

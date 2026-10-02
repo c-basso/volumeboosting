@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "aumentar volume de gravação do Gravador iPhone",
+  "priority": 4,
+  "keywords": "aumentar volume de gravação do Gravador iPhone, gravação de voz baixa iPhone, como aumentar o volume de um áudio gravado, gravação de aula baixa, amplificar gravação de voz",
+  "title": "Como aumentar o volume de uma gravação do Gravador no iPhone",
+  "description": "O «Melhorar Gravação» do Gravador não deixa o arquivo mais alto. Veja como exportar a gravação, amplificar até 10× com o app e salvar um M4A mais alto.",
+  "h1": "Como aumentar o volume de uma gravação do Gravador no iPhone",
+  "eyebrow": "Gravador",
+  "card_title": "Gravador mais alto",
+  "card_summary": "«Melhorar Gravação» tira ruído, mas não aumenta o volume. Veja como deixar o próprio arquivo mais alto.",
+  "quick_answer": "O app Gravador não tem controle de volume para o arquivo; o «Melhorar Gravação» só reduz ruído na reprodução. Para deixar a gravação mais alta: toque em ⋯ na gravação → Compartilhar → Increase Volume, ative «Melhorar qualidade do áudio», amplifique ×5–×10, compare Original e Processado e toque em «Baixar processado». O M4A mais alto pode ser salvo no Arquivos ou compartilhado.",
+  "intro": [
+    "Aulas, reuniões, entrevistas e ideias costumam ser gravadas com o Gravador num celular apoiado na mesa. O resultado muitas vezes fica baixo demais, principalmente quando quem fala está longe.",
+    "Este guia explica o que as opções do Gravador realmente fazem e como criar uma cópia permanentemente mais alta da gravação."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/pt/4.webp",
+    "alt": "Detalhes da faixa no app Aumentar Volume com «Melhorar qualidade do áudio» ativado e o controle «Multiplicação do volume ×10»",
+    "caption": "Para fala: ative «Melhorar qualidade do áudio» e escolha a multiplicação."
+  },
+  "sections": [
+    {
+      "heading": "O que o «Melhorar Gravação» faz, e o que não faz",
+      "paragraphs": [
+        "No Gravador, a edição tem a opção «Melhorar Gravação» (ícone de varinha). Ela reduz o ruído de fundo e o eco, mas não aumenta de forma perceptível o nível do arquivo. Quando você compartilha a gravação, ela continua tão baixa quanto antes."
+      ]
+    },
+    {
+      "heading": "Volume de reprodução versus volume do arquivo",
+      "paragraphs": [
+        "Os botões de volume afetam só o seu alto-falante. Se um colega, um serviço de transcrição ou um programa de edição precisa receber um sinal claro, o próprio arquivo tem que ficar mais alto. É isso que o app Aumentar Volume faz: multiplica o nível do som e salva um novo M4A."
+      ]
+    },
+    {
+      "heading": "Como compartilhar uma gravação do Gravador",
+      "paragraphs": [],
+      "list": [
+        "Abra o Gravador e toque na gravação.",
+        "Toque em ⋯ (Mais) e escolha Compartilhar.",
+        "Escolha Increase Volume na planilha, ou Salvar em Arquivos para abrir depois."
+      ],
+      "ordered": true
+    }
+  ],
+  "steps": {
+    "heading": "Passo a passo: amplifique uma gravação do Gravador",
+    "intro": "Menos de um minuto para uma gravação de alguns minutos.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Compartilhe a gravação",
+        "text": "No Gravador: ⋯ → Compartilhar → Increase Volume. O app mostra nome do arquivo, tamanho e duração."
+      },
+      {
+        "name": "Ative «Melhorar qualidade do áudio»",
+        "text": "A voz fica mais clara junto com a amplificação."
+      },
+      {
+        "name": "Amplifique",
+        "text": "Arraste «Multiplicação do volume» para ×5–×10 e toque em «Amplificar volume para ×N»."
+      },
+      {
+        "name": "Compare e salve",
+        "text": "Ouça Original e Processado, toque em «Baixar processado» e escolha Salvar em Arquivos."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Dicas para fala",
+    "items": [
+      "Na próxima vez, deixe o microfone do celular (parte de baixo) virado para quem fala; isso rende mais do que qualquer amplificação.",
+      "Palmas ou risadas perto do celular criam picos. Use ×4–×6 e confira os trechos mais altos.",
+      "Um arquivo mais alto costuma dar resultados melhores em ferramentas de transcrição."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dá para aumentar o volume no Gravador sem outro app?",
+      "answer": "Não. O Gravador corta, substitui e melhora, mas não tem amplificação de volume do arquivo."
+    },
+    {
+      "question": "Em que formato o arquivo amplificado é salvo?",
+      "answer": "Arquivos de áudio são salvos como um novo arquivo de som (M4A para gravações do Gravador), que você pode salvar no Arquivos ou compartilhar."
+    },
+    {
+      "question": "O ruído de fundo também fica mais alto?",
+      "answer": "Sim, tudo na gravação é amplificado. O «Melhorar qualidade do áudio» ajuda a voz a se destacar."
+    }
+  ],
+  "related": [
+    "audio-do-whatsapp-baixo",
+    "podcast-audiolivro-baixo-iphone",
+    "aumentar-volume-de-mp3-no-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

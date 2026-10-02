@@ -1,0 +1,137 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie pojačati glasnoću",
+  "priority": 11,
+  "keywords": "iMovie pojačati glasnoću, iMovie ne pojačava više, glasnije od iMovieja, iMovie više od 500 %, najveća glasnoća iMovie iPhone",
+  "title": "Glasnoća u iMovieju: kako prijeći granicu od 500 % (iPhone)",
+  "description": "iMovie na iPhoneu staje na oko 500 % po isječku. Ako to nije dovoljno, Pojačaj Glasnoću Zvuka isti video vodi do 10× jednim klizačem, bez projekta i izvoza.",
+  "h1": "Granica glasnoće u iMovieju (500 %) i kako je prijeći",
+  "eyebrow": "Usporedba s iMoviejem",
+  "card_title": "Glasnije od 500 % u iMovieju",
+  "card_summary": "Kako pojačati u iMovieju, zašto klizač staje na 5× i put do 10× jednim klizačem.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "iMovie na iPhoneu omogućuje pojačanje isječka do otprilike 500 % (5×): dodirni isječak, ikonu zvučnika, povuci udesno i izvezi. Ako je video i dalje tih na maksimumu, otvori istu datoteku u aplikaciji Pojačaj Glasnoću Zvuka, koja množi zvuk do ×10 (1000 %), omogućuje usporedbu Izvorno/Obrađeno i sprema novu kopiju bez stvaranja projekta. Otvara i čiste audio datoteke, koje iMovie ne otvara.",
+  "intro": [
+    "iMovie je Appleov besplatni odgovor na pitanje „kako pojačati zvuk videa” i za isječak koji je samo malo tih radi. Ali klizač ima strop, a snimke s drugog kraja prostorije ili sa zaslona često trebaju više. Tada ljudi izvezu na 500 %, i dalje ne čuju dobro i traže nešto „glasnije od iMovieja”.",
+    "Evo točno dokle iMovie ide, kako ga koristiti i što učiniti kad nije dovoljno."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Snimka zaslona „Select the amount of boosting”: klizač množitelja glasnoće ×10, dvostruko više od maksimuma iMovieja",
+    "caption": "×10 u aplikaciji Pojačaj Glasnoću Zvuka otprilike je dvostruko više od maksimuma iMovieja."
+  },
+  "sections": [
+    {
+      "heading": "Kako pojačati glasnoću u iMovieju na iPhoneu",
+      "paragraphs": [
+        "Ako ga još nisi isprobao, besplatni put vrijedi znati:"
+      ],
+      "list": [
+        "Otvori iMovie → Novi projekt → Film i odaberi video.",
+        "Dodirni isječak na vremenskoj crti da ga odabereš.",
+        "Dodirni ikonu zvučnika na alatnoj traci i povuci klizač glasnoće udesno. Staje oko 500 %.",
+        "Dodirni Gotovo, zatim ikonu Podijeli → Spremi video i pričekaj dok iMovie ponovno kodira cijeli isječak."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Gdje iMovie ne može dalje",
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Pojačaj Glasnoću Zvuka"
+        ],
+        "rows": [
+          [
+            "Najveće pojačanje",
+            "Oko 500 % (5×)",
+            "×10 (1000 %)"
+          ],
+          [
+            "Čiste audio datoteke (MP3, Diktafon)",
+            "Nisu podržane",
+            "Podržane"
+          ],
+          [
+            "Tijek",
+            "Napravi projekt → dodaj isječak → prilagodi → izvezi",
+            "Podijeli iz Fotografija → klizač → Preuzmi obrađeno"
+          ],
+          [
+            "Slušanje prije/poslije",
+            "Reprodukcija vremenske crte",
+            "Prekidač Izvorno / Obrađeno"
+          ],
+          [
+            "Ponovno kodiranje slike",
+            "Da, cijeli izvoz",
+            "Obrađuje se samo zvuk, slika prolazi netaknuta"
+          ],
+          [
+            "Poboljšanje govora",
+            "Ne",
+            "Prekidač Poboljšaj kvalitetu zvuka"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Kada je 500 % dovoljno, a kada nije",
+      "paragraphs": [
+        "5× je oko +14 dB. To pokriva isječak koji zvuči malo tiho. Ne pokriva predavanje iz zadnjeg reda, telefon zaboravljen na stolu tijekom razgovora ni većinu snimki zaslona, koje su često 15–25 dB ispod normalne razine. Za njih trebaš ×8–×10 i mogućnost da čuješ reže li se najglasniji trenutak na toj razini, a upravo tome služi prekidač Izvorno/Obrađeno u aplikaciji Pojačaj Glasnoću Zvuka."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Korak po korak: prijeđi granicu iMovieja",
+    "intro": "Koristi izvorni video, a ne izvoz iz iMovieja, da pojačaš jednom iz najčišćeg izvora.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Podijeli izvorni video s aplikacijom",
+        "text": "U Fotografijama otvori isječak, dodirni Podijeli i odaberi Increase Volume."
+      },
+      {
+        "name": "Množitelj iznad 5",
+        "text": "Povuci „Množitelj glasnoće” na ×6–×10 ovisno o tome koliko je tih. Za govor uključi „Poboljšaj kvalitetu zvuka”. Dodirni „Pojačaj glasnoću”."
+      },
+      {
+        "name": "Usporedi",
+        "text": "Prebacuj Izvorno/Obrađeno na najglasnijem dijelu. Ako zvuči grubo, smanji za korak i ponovno pojačaj."
+      },
+      {
+        "name": "Preuzmi obrađeno",
+        "text": "Spremi glasniju kopiju u Fotografije ili je izravno podijeli. Izvornik ostaje netaknut."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Savjeti",
+    "items": [
+      "Ako želiš i dalje koristiti iMovie za rezanje ili naslove, najprije pojačaj u aplikaciji Pojačaj Glasnoću Zvuka, a zatim u iMovieju uredi pojačanu datoteku.",
+      "Ne slaži pojačanja (iMovie na 500 % pa ×10 na izvozu); idi izravno iz izvornika na potrebnu razinu.",
+      "Za audio datoteke zaboravi iMovie; ne otvara MP3 ni M4A."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Zašto iMovie ograničava glasnoću na 500 %?",
+      "answer": "Apple ograničava klizač kako se obična uređivanja ne bi previše rezala. To je razumna vrijednost za normalne videe, ali niska za vrlo tihe snimke."
+    },
+    {
+      "question": "Je li Pojačaj Glasnoću Zvuka besplatna kao iMovie?",
+      "answer": "Preuzimanje je besplatno i postoji besplatno probno razdoblje; neograničeno pojačanje otključava se pretplatom. Aktualne cijene su u App Storeu."
+    },
+    {
+      "question": "Prelazi li iMovie na Macu 500 %?",
+      "answer": "I iMovie za Mac staje oko 400–500 %. Programi poput Final Cut Pro ili Audacityja idu više, ali trebaš računalo i prijenos datoteke. Pojačaj Glasnoću Zvuka to radi na iPhoneu."
+    }
+  ],
+  "related": [
+    "kako-pojacati-zvuk-videa-na-iphoneu",
+    "pojacati-glasnocu-bez-gubitka-kvalitete",
+    "pojacati-glasnocu-videa-iz-fotografija"
+  ]
+}

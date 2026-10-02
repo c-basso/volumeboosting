@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "hudba na iPhonu je potichu",
+  "priority": 10,
+  "keywords": "hudba na iphonu je potichu, jak zesílit hudbu na iPhonu, zesilovač hudby iPhone, písničky potichu iPhone, kontrola hlasitosti iPhone",
+  "title": "Hudba na iPhonu je potichu? Jak zesílit hudbu (návod)",
+  "description": "Písničky na iPhonu hrají potichu? Zkontroluj Kontrolu hlasitosti, ekvalizér a limit sluchátek, pak vlastní MP3 a nahrávky zesil až 10× v Increase Volume.",
+  "h1": "Jak zesílit hudbu na iPhonu",
+  "eyebrow": "Hudba",
+  "card_title": "Zesílit hudbu na iPhonu",
+  "card_summary": "Tři nastavení iOS, která potichu omezují hudbu, a jak zesílit skladby, které máš jako soubory.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Začni nastavením: v Nastavení › Hudba vypni Kontrolu hlasitosti a v ekvalizéru zkus předvolbu pro noční poslech (Late Night), která zesílí tiché pasáže; v Nastavení › Zvuky a haptika › Bezpečnost sluchátek vypni Ztlumit hlasité zvuky. To ovlivní streamování a přehrávání. Hudební soubory, které vlastníš (MP3, M4A, WAV v Souborech, dema kapely, nahrávky ze zkoušky), otevři v Increase Volume, zesil ×1,5–×4, porovnej Původní a Zpracované a klepnutím na „Stáhnout zpracované“ ulož hlasitější kopii.",
+  "intro": [
+    "„Hudba na iPhonu hraje potichu“ má dvě úplně různé odpovědi. Pokud ti připadá tichá Apple Music nebo Spotify v reproduktoru či ve sluchátkách, telefon se nejspíš sám omezuje nastavením, které změníš za minutu. Pokud je potichu *jedna konkrétní* skladba, třeba staré MP3, nahrávka ze zkoušky nebo demo od kamaráda, potřebuje víc hlasitosti samotný soubor.",
+    "Tenhle návod pokrývá obojí, v tomhle pořadí."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Increase Volume zpracovává hudební soubor na iPhonu se zobrazeným názvem skladby, velikostí a délkou",
+    "caption": "Hudební soubory, které vlastníš, zesílíš přímo ze Souborů."
+  },
+  "sections": [
+    {
+      "heading": "Nastavení, která ztiší všechnu hudbu (oprav je jako první)",
+      "list": [
+        "Ztlumit hlasité zvuky: Nastavení › Zvuky a haptika › Bezpečnost sluchátek. Když je zapnuté, omezí hlasitost ve sluchátkách na nastavenou úroveň. Vypni ho nebo zvyš limit.",
+        "Kontrola hlasitosti: Nastavení › Hudba › Kontrola hlasitosti vyrovná všechny skladby na stejnou hlasitost, a tím stáhne ty hlasité. Pokud ti všechno připadá slabé, vypni ji.",
+        "Ekvalizér: Nastavení › Hudba › Ekvalizér. Předvolba pro noční poslech (Late Night) stlačí dynamiku, takže tiché části zesílí; předvolba Loudness zvedne basy a výšky při nízké hlasitosti. Zkus obě.",
+        "Limit hlasitosti v Čase u obrazovky: Nastavení › Čas u obrazovky › Omezení obsahu a soukromí může mít zamčený limit hlasitosti od rodiče nebo ze starého nastavení.",
+        "Bluetooth: některá sluchátka a reproduktory mají vlastní hlasitost; zvyš ji i na zařízení."
+      ]
+    },
+    {
+      "heading": "Které hudební soubory můžeš zesílit",
+      "paragraphs": [
+        "Increase Volume zesílí soubory, které opravdu máš: MP3 a WAV v Souborech nebo na iCloud Drive, nahrávky ze zkoušky v M4A, dema poslaná mailem nebo přes AirDrop, exporty z GarageBandu i zvukovou stopu hudebních videí. Pokud soubor nese interpreta a název skladby, aplikace je zobrazí. Stažené skladby z Apple Music, Spotify nebo YouTube Music jsou šifrované a žádná jiná aplikace je neotevře; u nich použij nastavení výše."
+      ]
+    },
+    {
+      "heading": "Jak moc skladbu zesílit",
+      "paragraphs": [
+        "Komerčně vydaná hudba je už masterovaná blízko plné úrovně, takže ×1,5–×2 bývá strop, než refrén začne praskat. Domácí nahrávky, dema a staré ripy mají často 6–12 dB rezervy a snesou ×2–×4. Rozhodni přepínačem Původní/Zpracované na nejhlasitějším refrénu."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Postup: jak zesílit hudební soubor",
+    "intro": "Pro skladbu v Souborech, export z GarageBandu nebo nahrávku.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Přidej skladbu",
+        "text": "Otevři Increase Volume a přidej soubor ze Souborů, nebo ho do aplikace sdílej ze Souborů, Mailu či GarageBandu."
+      },
+      {
+        "name": "Zvol mírný násobek",
+        "text": "Nastav „Násobek hlasitosti“ na ×1,5–×2 u vydané hudby a na ×2–×4 u dem a nahrávek. Vyzkoušej „Vylepšit kvalitu zvuku“ zapnuté i vypnuté a nech si to, co zní přirozeněji. Klepni na „Zesílit hlasitost“."
+      },
+      {
+        "name": "Zkontroluj refrén",
+        "text": "Na nejhlasitější části přepni Původní/Zpracované. Jakékoli praskání znamená snížit násobek."
+      },
+      {
+        "name": "Stáhni zpracované",
+        "text": "Ulož do Souborů a hlasitější skladbu přidej do přehrávače, nebo ji sdílej."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Celé album nebo sadu zesil stejným násobkem, aby skladby zůstaly vyrovnané.",
+      "U hudebních videí zůstane obraz netknutý; zpracuje se jen zvuk.",
+      "Pokud si hudbu sám masteruješ, zesil spíš mix než finální master; limiter v DAW to udělá čistěji než samotné zesílení."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Zesílí zesilovač zvuku Apple Music nebo Spotify?",
+      "answer": "Úpravou skladeb ne, protože jsou šifrované. Použij Kontrolu hlasitosti, ekvalizér a nastavení Bezpečnost sluchátek, případně normalizaci přímo ve streamovací aplikaci. Increase Volume zesiluje soubory, které vlastníš."
+    },
+    {
+      "question": "Proč některé písničky hrají tišeji než jiné?",
+      "answer": "Mají různou úroveň masteringu. Kontrola hlasitosti je vyrovná, ale ztiší ty hlasité; jejím vypnutím se hlasité skladby vrátí. Tiché soubory, které vlastníš, zesil v Increase Volume, aby seděly k ostatním."
+    },
+    {
+      "question": "Změní zesílení formát skladby?",
+      "answer": "Increase Volume vytvoří nový soubor v běžném zvukovém formátu vedle originálu. Originál se nemění."
+    }
+  ],
+  "related": [
+    "jak-zesilit-mp3-na-iphonu",
+    "jak-zesilit-podcast-nebo-audioknihu-na-iphonu",
+    "jak-zesilit-zvuk-videa-bez-ztraty-kvality"
+  ]
+}

@@ -1,21 +1,21 @@
 {
   "meta": {
     "lang": "ro",
-    "title": "Crește volumul – Amplificare sunet | Audio ~10× pe iPhone",
-    "description": "Audio sau video mai tare pe iPhone: până la ~10× cu claritate și bas. Muzică, videoclipuri, podcasturi, note vocale. Pe dispozitiv. Gratuit în App Store.",
-    "keywords": "crește volum iPhone, video mai tare, sunet mai tare, volum mic, booster volum, aplicație iPhone, audio mai tare, înregistrare ecran sunet, amplificare sunet, Increase Volume",
+    "title": "Cum mărești volumul unui videoclip pe iPhone – Volume Boost",
+    "description": "Fă videoclipurile, MP3-urile și înregistrările din Reportofon de până la 10× mai tari pe iPhone. Volume Boost amplifică fișierul și salvează o copie nouă.",
+    "keywords": "cum mărești volumul unui videoclip pe iPhone, crește volumul, aplicație pentru mărirea volumului, amplificator de volum, amplificator sunet, MP3 mai tare, mesaj vocal WhatsApp încet, înregistrare ecran sunet încet, Reportofon mai tare, Amplificator – Volume Boost",
     "canonical": "https://volumeboosting.com/ro/",
-    "og_title": "Crește volumul – Amplificare sunet",
-    "og_description": "Fă audio și video mai tari pe iPhone: până la circa 10× cu sunet clar și bas puternic. Ideal pentru clipuri liniștite și podcasturi.",
+    "og_title": "Videoclipuri și audio mai tari pe iPhone – până la 10× mai tare",
+    "og_description": "Videoclip, MP3 sau înregistrare din Reportofon prea încet? Volume Boost face fișierul de până la 10× mai tare; compari Original/Procesat și salvezi copia.",
     "og_image": "https://volumeboosting.com/ro/site_preview.png",
-    "og_image_alt": "Pictograma aplicației Increase Volume – Amplificare sunet",
+    "og_image_alt": "Pictograma aplicației Amplificator – Volume Boost",
     "og_url": "https://volumeboosting.com/ro/",
     "og_locale": "ro_RO",
     "twitter_url": "https://volumeboosting.com/ro/",
-    "twitter_title": "Crește volumul – Amplificare sunet",
-    "twitter_description": "Fă audio și video mai tari pe iPhone: până la circa 10× cu sunet clar și bas puternic. Ideal pentru clipuri liniștite și podcasturi.",
+    "twitter_title": "Videoclipuri și audio mai tari pe iPhone – până la 10× mai tare",
+    "twitter_description": "Videoclip, MP3 sau înregistrare din Reportofon prea încet? Volume Boost face fișierul de până la 10× mai tare; compari Original/Procesat și salvezi copia.",
     "twitter_image": "https://volumeboosting.com/ro/site_preview.png",
-    "twitter_image_alt": "Pictograma aplicației Increase Volume – Amplificare sunet"
+    "twitter_image_alt": "Pictograma aplicației Amplificator – Volume Boost"
   },
   "header": {
     "app_name_suffix": "Amplificare sunet pentru iPhone",
@@ -188,44 +188,61 @@
     "breadcrumb_home": "Acasă",
     "faq": [
       {
-        "question": "Ce este Increase Volume – Amplificare sunet?",
-        "answer": "Este o aplicație pentru iPhone în categoria „Muzică” din App Store care face fișierele audio și video importate mai tari — până la circa 10× — și permite salvarea unui fișier nou. Procesează media pe dispozitiv; este pentru înregistrări încete, podcasturi și clipuri, nu pentru ocolirea limitelor hardware iOS pentru tot sunetul de sistem."
+        "question": "Cum măresc volumul unui videoclip pe iPhone?",
+        "answer": "Deschide Volume Boost, importă videoclipul din Poze (sau partajează-l cu aplicația), trage „Multiplicare volum” la ×10, atinge „Amplifică volumul”, compară Original și Procesat și atinge „Descarcă procesat”. Copia mai tare se salvează în Poze sau Fișiere și se aude tare pe orice dispozitiv.",
+        "guide": "cum-maresti-volumul-unui-videoclip-pe-iphone"
       },
       {
-        "question": "Cum funcționează Increase Volume – Amplificare sunet?",
-        "answer": "Imporți un videoclip, o melodie sau o înregistrare (inclusiv din Poze), reglezi volumul cu cursorul de amplificare plus claritate și bas, asculți previzualizarea în timp real, apoi salvezi fișierul amplificat pe iPhone sau îl partajezi."
+        "question": "De ce se aud atât de încet mesajele vocale WhatsApp pe iPhone?",
+        "answer": "Dacă toate sunt încet, iPhone-ul le redă prin difuzorul pentru apeluri pentru că acoperi senzorul de proximitate: ține telefonul departe de față și dă volumul mai tare în timpul redării. Dacă unul singur e încet, exportă-l (ține apăsat → Redirecționează → Partajați), amplifică ×5–×10 în aplicație și salvează sau trimite copia mai tare.",
+        "guide": "mesaj-vocal-whatsapp-se-aude-incet"
       },
       {
-        "question": "Este Increase Volume mai bună decât simpla creștere a volumului iPhone-ului?",
-        "answer": "Sunt probleme diferite. Volumul de sistem face redarea temporar mai tare. Aplicația creează un fișier permanent mai tare — util când volumul înregistrării este prea mic sau trebuie să trimiți versiunea amplificată."
+        "question": "De ce are înregistrarea ecranului sunet atât de încet?",
+        "answer": "iOS înregistrează sunetul aplicațiilor la nivel redus, și mai încet la volum mic sau cu căști Bluetooth conectate. Deconectează Bluetooth-ul și dă volumul mai tare înainte de următoarea înregistrare. Una existentă o amplifici ×5–×10 cu Volume Boost.",
+        "guide": "inregistrare-ecran-sunet-incet-iphone"
       },
       {
-        "question": "Cum se deosebește Increase Volume de VLC sau Audacity la volum?",
-        "answer": "VLC și Audacity sunt instrumente desktop puternice cu normalizare, amplificare și multe opțiuni. Increase Volume este construită pentru iPhone: flux scurt import → cursor → salvare, fără cronologie pe computer."
+        "question": "Cum fac mai tare o înregistrare din Reportofon?",
+        "answer": "„Îmbunătățire înregistrare” din Reportofon reduce zgomotul, dar nu face fișierul mai tare. Partajează înregistrarea cu aplicația (⋯ → Partajați → Increase Volume), activează „Îmbunătățește calitatea audio”, amplifică ×5–×10 și salvează M4A-ul mai tare.",
+        "guide": "reportofon-inregistrare-mai-tare"
       },
       {
-        "question": "Increase Volume funcționează pentru video și audio?",
-        "answer": "Da. Poți amplifica video cu coloană sonoră, melodii, podcasturi, note vocale și înregistrări de ecran, apoi salva rezultatul."
+        "question": "Pot face un MP3 mai tare pe iPhone fără calculator?",
+        "answer": "Da. Adaugă MP3-ul, M4A-ul sau WAV-ul din Fișiere, alege multiplicarea, ascultă Original/Procesat și atinge „Descarcă procesat”. Copia mai tare ajunge în Fișiere; totul se face pe telefon.",
+        "guide": "cum-maresti-volumul-mp3-pe-iphone"
       },
       {
-        "question": "Fișierul amplificat se salvează pe iPhone-ul meu?",
-        "answer": "Da. După procesare salvezi fișierul mai tare pe dispozitiv și îl poți partaja ca orice alt fișier media."
+        "question": "Pot mări volumul unui videoclip în aplicația Poze?",
+        "answer": "Editarea din Poze poate doar să oprească sunetul, nu să-l facă mai tare. Atinge Partajați → Increase Volume ca să amplifici videoclipul până la ×10; copia mai tare apare în Poze lângă original.",
+        "guide": "volum-videoclip-din-aplicatia-poze"
       },
       {
-        "question": "Cât costă Increase Volume – Amplificare sunet?",
-        "answer": "Prețul actual și achizițiile în aplicație sunt pe pagina App Store. Datele structurate ale site-ului pot menționa o ofertă gratuită; verifică mereu la Apple înainte de a cita."
+        "question": "Va distorsiona sunetul dacă îl fac mai tare?",
+        "answer": "Doar dacă vârfurile cele mai tari trec de plafonul digital. O înregistrare încet are multă rezervă. Începe cu ×3, ascultă momentul cel mai tare cu Original/Procesat și crește cât timp sună curat. Imaginea nu se schimbă niciodată.",
+        "guide": "volum-mai-tare-fara-pierderea-calitatii"
       },
       {
-        "question": "Cine publică Increase Volume – Amplificare sunet?",
-        "answer": "Aplicația este publicată de c-basso și distribuită prin Apple App Store (ID 6741472421). Site-ul produsului este volumeboosting.com."
+        "question": "Care e diferența față de volumul din iMovie?",
+        "answer": "iMovie pe iPhone se oprește la circa 500% (5×) și cere un proiect și un export complet. Volume Boost ajunge la ×10 (1000%), deschide și fișiere audio și are Original/Procesat înainte de salvare.",
+        "guide": "imovie-volum-peste-500"
       },
       {
-        "question": "Cum fac un videoclip prea încet mai tare pe iPhone?",
-        "answer": "Cu Increase Volume – Amplificare sunet imporți videoclipul (ex. din Poze), reglezi cursorul de amplificare cu previzualizare live și salvezi o copie cu pistă audio mai tare. Astfel ajustezi nivelul în fișier — spre deosebire de simpla creștere a volumului de sistem la redare."
+        "question": "Face aplicația difuzorul iPhone-ului mai tare?",
+        "answer": "Nu. Nicio aplicație nu poate depăși limita fizică a difuzorului sau schimba volumul întregului sistem. Aplicația face fișierul mai tare, ceea ce ajută când înregistrarea în sine e încet. Dacă toate videoclipurile sunt încet, verifică întâi cauzele de la redare.",
+        "guide": "de-ce-se-aude-incet-videoclipul#redare"
       },
       {
-        "question": "Aplicația crește volumul maxim al iPhone-ului pentru muzică și apeluri?",
-        "answer": "Nu. Procesează fișierele pe care le imporți și produce o versiune mai tare de salvat sau partajat. Limita hardware și volumul global pentru Spotify, apeluri etc. nu se schimbă."
+        "question": "Cât costă Amplificator – Volume Boost?",
+        "answer": "Descărcarea e gratuită și include o perioadă de probă gratuită. Amplificarea nelimitată se deblochează cu un abonament; prețurile actuale în lei sunt în App Store. Procesarea se face mereu pe iPhone-ul tău.",
+        "guide": "",
+        "learn_more_url": "__APP_STORE_URL__",
+        "learn_more_title": "Amplificator – Volume Boost: descărcare gratuită și prețuri actuale în App Store"
+      },
+      {
+        "question": "Se încarcă fișierele mele pe un server?",
+        "answer": "Nu. Procesarea se face pe iPhone-ul tău, fără cont și fără încărcare. Rezultatul îl salvezi prin fila de partajare iOS în Poze, Fișiere sau în aplicația pe care o alegi.",
+        "guide": "volum-mai-tare-fara-pierderea-calitatii#confidentialitate"
       }
     ],
     "structured_data": {
@@ -376,5 +393,35 @@
     "title": "Fișierul tău încet, de 10× mai tare, în mai puțin de un minut.",
     "text": "Descarcă Increase Volume – Amplificare sunet, importă videoclipul sau audio-ul pe care nu-l aude nimeni, trage cursorul și partajează versiunea tare.",
     "note": "Descărcare gratuită · Necesită iOS 18.6 sau o versiune ulterioară · 4,5★ în App Store"
+  },
+  "guides": {
+    "eyebrow": "Ghiduri",
+    "title": "Repară sunetul încet pe iPhone, situație cu situație",
+    "intro": "Fiecare ghid răspunde la o întrebare pe care oamenii chiar o caută, explică cinstit ce pot și ce nu pot instrumentele iOS și arată pașii exacți în Volume Boost.",
+    "hub_link_text": "Toate ghidurile",
+    "read_more": "Citește ghidul",
+    "hub": {
+      "title": "Ghiduri: cum mărești volumul pe iPhone – video, audio și MP3",
+      "description": "Ghiduri pas cu pas ca să faci mai tari videoclipurile, înregistrările din Reportofon, MP3-urile, înregistrările ecranului și mesajele vocale WhatsApp pe iPhone.",
+      "h1": "Ghiduri: cum faci videoclipurile și audio mai tari pe iPhone",
+      "intro": "Fiecare ghid începe cu un răspuns direct, trece cinstit prin opțiunile gratuite ale sistemului (Poze, iMovie, Reportofon) și arată cum obții de până la 10× mai mult volum cu Volume Boost.",
+      "keywords": "ghiduri mărire volum iPhone, videoclip mai tare, MP3 mai tare, mesaj vocal încet, înregistrare ecran încet"
+    },
+    "labels": {
+      "home": "Acasă",
+      "guides": "Ghiduri",
+      "breadcrumb_aria": "Fir de navigare",
+      "updated": "Actualizat",
+      "reading_time": "3–4 min de citit",
+      "quick_answer": "Răspuns scurt",
+      "faq_heading": "Mai multe întrebări frecvente",
+      "related": "Ghiduri similare",
+      "all_guides": "Toate ghidurile",
+      "disclaimer": "Amplificator – Volume Boost amplifică sunetul dintr-un fișier și salvează o copie nouă. Nu poate depăși limita fizică a difuzorului iPhone și nici nu schimbă volumul întregului sistem."
+    },
+    "default_cta": {
+      "title": "Fă-o cu Volume Boost",
+      "text": "Gratuit în App Store. Importă, trage cursorul la ×10 și atinge „Descarcă procesat”."
+    }
   }
 }

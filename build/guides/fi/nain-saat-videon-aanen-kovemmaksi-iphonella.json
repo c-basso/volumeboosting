@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "videon ääni kovemmaksi iPhone",
+  "priority": 1,
+  "keywords": "videon ääni kovemmaksi iPhone, videon äänenvoimakkuus, hiljainen video, nosta videon ääntä, videon äänen tehostus",
+  "title": "Näin saat videon äänen kovemmaksi iPhonella (jopa 10×)",
+  "description": "Saat hiljaisen videon kovemmaksi iPhonella alle minuutissa. Mitä Kuvat ja iMovie osaavat, missä ne loppuvat ja miten pääset 10× tasolle Increase Volumella.",
+  "h1": "Näin saat videon äänen kovemmaksi iPhonella",
+  "eyebrow": "Video",
+  "card_title": "Videon ääni kovemmaksi",
+  "card_summary": "Kuvat ei nosta äänenvoimakkuutta ja iMovie pysähtyy noin 500 %:iin. Näin pääset 10×:ään yhdellä liukusäätimellä.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Saat videon äänen kovemmaksi iPhonella avaamalla videon Increase Volume -sovelluksessa (ilmainen App Storessa), vetämällä ”Äänenvoimakkuuden kertoja” -liukusäätimen ×10:een asti, napauttamalla ”Tehosta äänenvoimakkuutta”, vertaamalla Alkuperäinen- ja Käsitelty-versioita ja napauttamalla ”Lataa käsitelty”. Kovempi kopio tallentuu Kuviin tai Tiedostoihin ja kuuluu kovaa kaikilla laitteilla ja kaikissa sovelluksissa. Kuvat-apissa ei ole äänen tehostusta, ja iMovie pysähtyy noin 500 %:iin.",
+  "intro": [
+    "Kuvaat hetken, lähetät sen kaverille ja vastaus kuuluu: ”En kuule mitään.” Hiljainen video on yksi iPhonen yleisimmistä harmeista, koska ratkaisu ei ole siellä, mistä sitä etsitään. Äänenvoimakkuuspainikkeet muuttavat vain sitä, kuinka kovaa oma puhelimesi soittaa, eikä Kuvat-apin muokkaimessa ole äänenvoimakkuussäädintä lainkaan.",
+    "Tässä oppaassa käydään läpi iPhonen kolme todellista vaihtoehtoa, mitä kukin osaa ja mitä ei, ja sitten nopein tapa: kerrot videon äänen jopa 10× Increase Volumella ja tallennat pysyvästi kovemman tiedoston."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/2.webp",
+    "alt": "Increase Volume iPhonella: sormi vetää pinkkiä tehostusliukusäädintä videon päällä, jotta ääni kovenee",
+    "caption": "Tehostusliukusäädin on suoraan videon esikatselun päällä. Vedä, kuuntele, tallenna."
+  },
+  "sections": [
+    {
+      "heading": "Miksi äänenvoimakkuuden nostaminen ei korjaa videota",
+      "paragraphs": [
+        "iPhonen äänenvoimakkuuspainikkeet muuttavat sitä, kuinka kovaa *sinun* kaiuttimesi soittaa. Ne eivät muuta videotiedoston sisällä olevaa ääntä. Kun jaat tiedoston, vastaanottajan puhelin toistaa sen alkuperäisellä, hiljaisella tasolla. Pysyvä korjaus vaatii, että itse ääniraidan tasoa nostetaan ja tallennetaan uusi tiedosto. Juuri sen videon äänen tehostin tekee."
+      ]
+    },
+    {
+      "heading": "Vaihtoehto 1: Kuvat-appi (ei tehostusta)",
+      "paragraphs": [
+        "Avaa video Kuvissa ja napauta Muokkaa. Löydät kaiutinkuvakkeen, joka vain mykistää videon, ja iPhone 16:ssa ja uudemmissa tilaäänellä kuvatuissa videoissa Audio Mix -toiminnon, joka muuttaa puheen ja taustamelun suhdetta. Kumpikaan ei nosta kokonaisäänenvoimakkuutta. Jos koko tallenne on hiljainen, Kuvat ei auta."
+      ]
+    },
+    {
+      "heading": "Vaihtoehto 2: iMovie (ilmainen, raja noin 500 %)",
+      "paragraphs": [
+        "iMovie osaa nostaa leikkeen äänenvoimakkuutta: luo elokuvaprojekti, lisää video, napauta leikettä, napauta kaiutinkuvaketta ja vedä liukusäädintä oikealle. Kaksi rajoitusta on tärkeää. Liukusäädin pysähtyy noin 500 %:iin (5×), mikä ei usein riitä huoneen toiselta puolelta kuvattuun tallenteeseen. Ja sinun täytyy luoda projekti ja viedä koko video uudelleen, mikä vie pitkässä leikkeessä muutaman minuutin."
+      ],
+      "list": [
+        "Avaa iMovie → Aloita uusi projekti → Elokuva ja valitse video.",
+        "Napauta leikettä aikajanalla, napauta kaiutinkuvaketta ja vedä äänenvoimakkuuden liukusäädintä oikealle (enintään noin 500 %).",
+        "Napauta Valmis → Jaa → Tallenna video ja odota vientiä."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Vaihtoehto 3: Increase Volume (jopa 10×, yksi liukusäädin, alle minuutti)",
+      "paragraphs": [
+        "Increase Volume on tehty juuri tähän. Se avaa minkä tahansa videon Kuvista tai Tiedostoista, näyttää yhden ”Äänenvoimakkuuden kertoja” -liukusäätimen, joka nousee ×10:een (1000 %), antaa verrata Alkuperäinen- ja Käsitelty-versioita ennen tallennusta ja tallentaa tuloksen iOS:n tavallisen jakoarkin kautta. Se avaa myös pelkät äänitiedostot, kuten MP3:t ja Sanelin-äänitteet, joita iMovie ei avaa.",
+        "Käsittely tapahtuu iPhonessa. Mitään ei ladata palvelimelle, tiliä ei tarvita eikä viedyssä videossa ole vesileimaa."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Vaihe vaiheelta: videon ääni kovemmaksi Increase Volumella",
+    "intro": "Tavallisella leikkeellä tämä vie noin minuutin. Tarvitset ilmaisen sovelluksen App Storesta ja videon Kuvissa tai Tiedostoissa.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Avaa video Increase Volumessa",
+        "text": "Avaa sovellus ja lisää video Kuvista tai Tiedostoista. Nopeammin: avaa video Kuvissa, napauta Jaa ja valitse Increase Volume – projekti luodaan heti."
+      },
+      {
+        "name": "Tarkista tiedot",
+        "text": "Sovellus näyttää tiedostonimen, koon ja keston, joten näet, että valitsit oikean leikkeen. Jos videolla on lähinnä puhetta, laita ”Paranna äänenlaatua” päälle."
+      },
+      {
+        "name": "Aseta tehostus",
+        "text": "Vedä ”Äänenvoimakkuuden kertoja” -liukusäädintä. Aloita ×3–×5:stä, jos video on vain vähän hiljainen; mene ×10:een, jos ääntä tuskin kuulee. Napauta ”Tehosta äänenvoimakkuutta”."
+      },
+      {
+        "name": "Vertaa Alkuperäistä ja Käsiteltyä",
+        "text": "Vaihda painikkeen alla olevalla kytkimellä alkuperäisen ja tehostetun version välillä. Jos kovat kohdat kuulostavat räikeiltä, palaa ja laske kerrointa pykälän verran."
+      },
+      {
+        "name": "Lataa ja jaa",
+        "text": "Napauta ”Lataa käsitelty”. Valitse jakoarkista Tallenna video, jolloin kovempi kopio menee Kuviin, Tallenna Tiedostoihin tai lähetä se suoraan Viesteihin, WhatsAppiin, AirDropilla tai TikTokiin."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Vinkit parhaaseen tulokseen",
+    "items": [
+      "Tehosta video *ennen* kuin julkaiset sen TikTokissa, Instagramissa tai YouTubessa. Palvelut tasaavat äänenvoimakkuutta latauksessa, mutta ne eivät pelasta liian hiljaisena saapuvaa raitaa.",
+      "Jos leikkeessä on yksi kova kohta (nauru, paiskautuva ovi) ja hiljaista puhetta sen ympärillä, käytä maltillista kerrointa (×3–×5) ja laita ”Paranna äänenlaatua” päälle sen sijaan, että menisit ×10:een.",
+      "Alkuperäinen pysyy koskemattomana. Sovellus tekee aina uuden tiedoston, joten voit kokeilla useita tasoja.",
+      "Jos mikrofoni oli peitossa (kuori, sormi), video on hiljainen *ja* tukkoinen; tehostus korjaa tason mutta ei tukkoisuutta."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Saako videon äänen kovemmaksi iPhonella ilman sovellusta?",
+      "answer": "Vain iMoviella, jonka Apple tarjoaa ilmaiseksi ja joka nostaa leikkeen äänenvoimakkuuden noin 500 %:iin. Kuvat-appi itse ei nosta äänenvoimakkuutta. Jos tarvitset yli 5× tai nopeamman tavan, käytä Increase Volumea."
+    },
+    {
+      "question": "Heikkeneekö laatu, kun videon ääntä kovennetaan?",
+      "answer": "Kuva ei muutu lainkaan. Ääni kerrotaan; jos tehostat liikaa tallennetta, jossa on jo kovia huippuja, se voi säröytyä ja kuulostaa räikeältä. Siksi sovelluksessa on Alkuperäinen/Käsitelty-kytkin, jolla kuuntelet ennen tallennusta."
+    },
+    {
+      "question": "Pysyykö video kovana, kun lähetän sen?",
+      "answer": "Kyllä. Tehostus kirjoitetaan tiedoston ääniraitaan, joten se soi uudella tasolla millä tahansa puhelimella, tietokoneella tai somepalvelussa."
+    },
+    {
+      "question": "Toimiiko tämä myös ladatuilla videoilla?",
+      "answer": "Kyllä, kunhan tiedosto on Kuvissa tai Tiedostoissa eikä se ole kopiosuojattu. Sovellus avaa MP4- ja MOV-tiedostoja mistä lähteestä tahansa."
+    }
+  ],
+  "related": [
+    "aani-kovemmaksi-ilman-laadun-heikkenemista",
+    "nayton-tallennuksen-aani-hiljainen-iphone",
+    "imovie-aanenvoimakkuus-yli-500-prosenttia"
+  ],
+  "cta": {
+    "title": "Kovenna hiljainen videosi nyt",
+    "text": "Increase Volume on ilmainen App Storessa. Jaa video sovellukseen, vedä ×10:een ja napauta ”Lataa käsitelty”."
+  }
+}

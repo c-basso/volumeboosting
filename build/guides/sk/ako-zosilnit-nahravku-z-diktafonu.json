@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "ako zosilniť nahrávku z Diktafónu na iPhone",
+  "priority": 4,
+  "keywords": "ako zosilniť nahrávku z Diktafónu na iPhone, tichá nahrávka Diktafón, zvýšiť hlasitosť nahrávky, tichá nahrávka prednášky, zosilniť nahrávku hlasu",
+  "title": "Ako zosilniť nahrávku z Diktafónu na iPhone (až 10×)",
+  "description": "„Vylepšiť nahrávku“ v Diktafóne súbor hlasnejší nespraví. Ako nahrávku exportovať, zosilniť až 10× vo Volume Boost a uložiť hlasnejší súbor M4A do Súborov.",
+  "h1": "Ako zosilniť nahrávku z Diktafónu na iPhone",
+  "eyebrow": "Diktafón",
+  "card_title": "Hlasnejší Diktafón",
+  "card_summary": "„Vylepšiť nahrávku“ odstráni šum, ale hlasitosť nezvýši. Takto spravíš hlasnejším samotný súbor.",
+  "quick_answer": "Diktafón nemá posúvač hlasitosti pre súbor; „Vylepšiť nahrávku“ len potlačí šum pri prehrávaní. Ak chceš nahrávku zosilniť: ťukni na ⋯ pri nahrávke → Zdieľať → Increase Volume, zapni „Vylepšiť kvalitu zvuku“, zosilni ×5–×10, porovnaj Pôvodné a Spracované a ťukni na „Stiahnuť spracované“. Hlasnejší súbor M4A ulož do Súborov alebo zdieľaj.",
+  "intro": [
+    "Prednášky, porady, rozhovory a nápady sa často nahrávajú Diktafónom z telefónu položeného na stole. Výsledok býva príliš tichý, najmä keď rečník sedí ďaleko.",
+    "Tento návod vysvetľuje, čo funkcie Diktafónu naozaj robia a ako vytvoriť natrvalo hlasnejšiu kópiu nahrávky."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Detail skladby vo Volume Boost so zapnutým „Vylepšiť kvalitu zvuku“ a posúvačom „Násobok hlasitosti ×10“",
+    "caption": "Pre reč: zapni „Vylepšiť kvalitu zvuku“ a vyber násobok."
+  },
+  "sections": [
+    {
+      "heading": "Čo robí „Vylepšiť nahrávku“ a čo nie",
+      "paragraphs": [
+        "V Diktafóne nájdeš pri úpravách voľbu „Vylepšiť nahrávku“ (ikona čarovnej paličky). Potlačí šum v pozadí a ozvenu, ale úroveň súboru výrazne nezvýši. Keď nahrávku zdieľaš, je rovnako tichá ako predtým."
+      ]
+    },
+    {
+      "heading": "Hlasitosť prehrávania verzus hlasitosť súboru",
+      "paragraphs": [
+        "Tlačidlá hlasitosti ovplyvňujú len tvoj reproduktor. Ak má kolega, prepisovacia služba alebo strihový program dostať zreteľný signál, hlasnejší musí byť samotný súbor. To robí Volume Boost: vynásobí úroveň zvuku a uloží nový M4A."
+      ]
+    },
+    {
+      "heading": "Ako zdieľať nahrávku z Diktafónu",
+      "paragraphs": [],
+      "list": [
+        "Otvor Diktafón a ťukni na nahrávku.",
+        "Ťukni na ⋯ (Viac) a vyber Zdieľať.",
+        "V paneli vyber Increase Volume, alebo Uložiť do Súborov, ak ju chceš otvoriť neskôr."
+      ],
+      "ordered": true
+    }
+  ],
+  "steps": {
+    "heading": "Krok za krokom: zosilni nahrávku z Diktafónu",
+    "intro": "Menej ako minúta pri niekoľkominútovej nahrávke.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Zdieľaj nahrávku",
+        "text": "V Diktafóne: ⋯ → Zdieľať → Increase Volume. Aplikácia ukáže názov súboru, veľkosť a dĺžku."
+      },
+      {
+        "name": "Zapni „Vylepšiť kvalitu zvuku“",
+        "text": "Hlas bude spolu so zosilnením zreteľnejší."
+      },
+      {
+        "name": "Zosilni",
+        "text": "Posuň „Násobok hlasitosti“ na ×5–×10 a ťukni na „Zosilniť hlasitosť na ×N“."
+      },
+      {
+        "name": "Porovnaj a ulož",
+        "text": "Vypočuj si Pôvodné a Spracované, ťukni na „Stiahnuť spracované“ a vyber Uložiť do Súborov."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy pre reč",
+    "items": [
+      "Nabudúce polož telefón mikrofónom (spodná hrana) k rečníkovi; pomôže to viac ako akékoľvek zosilnenie.",
+      "Potlesk či smiech pri telefóne vytvárajú špičky. Použi ×4–×6 a skontroluj najhlasnejšie miesta.",
+      "Hlasnejší súbor často dáva lepšie výsledky v nástrojoch na prepis."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dá sa v Diktafóne zvýšiť hlasitosť bez inej aplikácie?",
+      "answer": "Nie. Diktafón vie strihať, nahrádzať a vylepšovať, ale nemá zosilnenie hlasitosti súboru."
+    },
+    {
+      "question": "V akom formáte sa zosilnený súbor uloží?",
+      "answer": "Zvukové súbory sa uložia ako nový zvukový súbor (M4A pri nahrávkach z Diktafónu), ktorý môžeš uložiť do Súborov alebo zdieľať."
+    },
+    {
+      "question": "Zosilní sa aj šum v pozadí?",
+      "answer": "Áno, zosilní sa všetko v nahrávke. „Vylepšiť kvalitu zvuku“ pomôže hlasu vyniknúť."
+    }
+  ],
+  "related": [
+    "ticha-hlasova-sprava-whatsapp",
+    "tichy-podcast-audiokniha-iphone",
+    "ako-zosilnit-mp3-na-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "WhatsApp röstmeddelande för lågt",
+  "priority": 2,
+  "keywords": "WhatsApp röstmeddelande för lågt, lågt ljud röstmeddelande iPhone, göra röstmeddelande högre, hör inte röstmeddelande WhatsApp, höja volymen på röstmeddelande",
+  "title": "WhatsApp-röstmeddelande för lågt på iPhone? Så fixar du det",
+  "description": "Hör du inte WhatsApp-röstmeddelanden på iPhone? Kolla luren och närhetssensorn, och gör ett tyst meddelande upp till 10× högre med Volymförstärkare på iPhone.",
+  "h1": "WhatsApp-röstmeddelande för lågt på iPhone: orsaker och lösning",
+  "eyebrow": "Röstmeddelanden",
+  "card_title": "WhatsApp-meddelande för lågt",
+  "card_summary": "Är alla låga är det närhetssensorn. Är ett lågt, exportera det, förstärk ×5–×10 och skicka vidare den högre kopian.",
+  "quick_answer": "Är alla WhatsApp-röstmeddelanden låga spelar iPhone dem genom luren eftersom du täcker närhetssensorn: håll telefonen bort från ansiktet och höj volymen medan meddelandet spelas. Är ett visst meddelande lågt, tryck och håll på det → Vidarebefordra → Dela-symbolen → Spara i Filer, öppna filen i Volymförstärkare, förstärk ×5–×10 och spara eller skicka den högre kopian.",
+  "intro": [
+    "Röstmeddelanden går snabbt att skicka men är frustrerande att lyssna på när avsändaren pratade tyst, höll telefonen långt bort eller spelade in på en livlig gata. WhatsApp har inget volymreglage för ett enskilt meddelande.",
+    "Den här guiden skiljer på de två fallen, alla meddelanden låga (en uppspelningsinställning) och ett meddelande lågt (själva inspelningen), och visar hur du gör ett enskilt röstmeddelande permanent högre."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Delningsbladet i iOS med Kopiera, Lägg till taggar och Spara i Filer för en förstärkt ljudfil i Volymförstärkare",
+    "caption": "Efter förstärkningen skickar du den högre kopian tillbaka till WhatsApp eller sparar den i Filer."
+  },
+  "sections": [
+    {
+      "heading": "Är alla röstmeddelanden låga? Kolla uppspelningen",
+      "paragraphs": [
+        "När du håller iPhone mot örat, eller täcker överkanten med handen, byter WhatsApp från högtalaren till den lilla luren. Det låter mycket lägre. Håll telefonen platt framför dig och tryck på volym upp medan meddelandet spelas; mediavolymen styrs separat från ringvolymen.",
+        "Använder du AirPods eller annat Bluetooth-ljud kan meddelandet gå dit. Öppna Kontrollcenter och kontrollera ljudutgången. Är nivån i hörlurarna begränsad, kolla Inställningar › Ljud och haptik › Hörlurssäkerhet."
+      ]
+    },
+    {
+      "heading": "Är ett meddelande lågt? Då är det inspelningen",
+      "paragraphs": [
+        "Om andra meddelanden låter normala ligger problemet i filen: avsändaren spelade in med låg nivå. Volymknapparna kan inte rätta till det. Lösningen är att exportera ljudfilen, höja nivån i själva filen och använda den nya versionen."
+      ]
+    },
+    {
+      "heading": "Så exporterar du ett röstmeddelande från WhatsApp",
+      "paragraphs": [
+        "WhatsApp sparar röstmeddelanden som Opus-ljudfiler. Du får ut dem via delningsbladet:"
+      ],
+      "list": [
+        "Tryck och håll på röstmeddelandet i chatten.",
+        "Tryck på Vidarebefordra och sedan på Dela-symbolen nere till höger.",
+        "Välj Spara i Filer, eller välj Increase Volume direkt om appen syns i delningsbladet."
+      ],
+      "ordered": true,
+      "note": "Menynamnen kan skilja sig något mellan WhatsApp-versioner."
+    }
+  ],
+  "steps": {
+    "heading": "Gör ett WhatsApp-röstmeddelande högre med Volymförstärkare",
+    "intro": "Ungefär 30 sekunder per meddelande när filen ligger i Filer.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Importera röstmeddelandet",
+        "text": "Öppna Volymförstärkare och lägg till filen från Filer, eller dela den direkt från WhatsApp till Increase Volume."
+      },
+      {
+        "name": "Slå på «Förbättra ljudkvalitet»",
+        "text": "Tal blir lättare att förstå med förbättringen påslagen; den lyfter rösten framför bakgrunden."
+      },
+      {
+        "name": "Förstärk ×5–×10",
+        "text": "Dra «Volymmultiplikation». Låga telefoninspelningar tål ofta ×6–×10. Tryck på «Boosta volymen till ×N»."
+      },
+      {
+        "name": "Lyssna och spara",
+        "text": "Växla mellan Original och Bearbetad, tryck på «Hämta bearbetad» och spara i Filer eller skicka den högre kopian tillbaka i WhatsApp."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "På jobbet eller i bilen är det ibland snabbare att be om ett nytt meddelande; för viktiga meddelanden (adresser, siffror) är förstärkning säkrare.",
+      "Vind och bilbuller förstärks också. Prova ×4 före ×10 och lyssna efter brus.",
+      "Den förstärkta filen kan skickas som ljudfil i vilken chatt som helst, även Messenger eller Signal."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Varför är WhatsApp-röstmeddelanden så låga på iPhone?",
+      "answer": "Oftast för att närhetssensorn byter till luren när telefonen är nära ansiktet. Håll den bort och höj mediavolymen medan meddelandet spelas."
+    },
+    {
+      "question": "Kan jag höja volymen på ett enskilt röstmeddelande i WhatsApp?",
+      "answer": "Inte inne i WhatsApp. Exportera meddelandet via Vidarebefordra → Dela, förstärk det i Volymförstärkare och använd den högre kopian."
+    },
+    {
+      "question": "Försämras kvaliteten när jag förstärker ett röstmeddelande?",
+      "answer": "Rösten blir högre utan nya artefakter, men befintligt bakgrundsbrus blir också högre. Börja måttligt och öka medan du jämför Original och Bearbetad."
+    }
+  ],
+  "related": [
+    "rostmemo-hogre-iphone",
+    "gor-mp3-hogre-iphone",
+    "podd-ljudbok-for-lag-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

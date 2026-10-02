@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "hu",
-    "title": "Hangerő növelése – Hang kiemelés | Videó és hang ~10×",
-    "description": "Hangosabb hang vagy videó iPhone-on: akár ~10× élesebb hanggal és basszal. Zene, videó, podcast, hangjegyzet. Az eszközön. Próbáld ingyen az App Store-ban.",
-    "keywords": "iPhone hangerő, hangosabb videó, halk videó, hangerő növelő, iPhone alkalmazás, hang erősítése, halk képernyőfelvétel, hang kiemelés, Increase Volume",
+    "title": "Videó hangerejének növelése iPhone-on – Hangerőnövelő 10×",
+    "description": "Hangosítsd a videókat, MP3-akat és hangjegyzeteket iPhone-on akár 10×-re. A Hangerőnövelő Média magát a fájlt hangosítja, tiszta hanggal, és új másolatot ment.",
+    "keywords": "videó hangerő növelése iPhone, hangerő növelése, hangerőnövelő app, hangerőnövelő, MP3 hangosítása, halk WhatsApp hangüzenet, halk képernyőfelvétel, hangjegyzet hangosítása, Hangerőnövelő Média",
     "canonical": "https://volumeboosting.com/hu/",
-    "og_title": "Hangerő növelése – Hang kiemelés",
-    "og_description": "Hang és videó iPhone-on akár ~10× hangosabban — Increase Volume – Hang kiemelés. Tiszta hang, mély hang; halk klippek és podcastok. Feldolgozás az eszközön.",
+    "og_title": "Videók és hangok hangosítása iPhone-on – akár 10× hangosabban",
+    "og_description": "Halk videó, MP3 vagy hangjegyzet? A Hangerőnövelő Média akár 10×-re hangosítja magát a fájlt; összeveted az Eredetit és a Feldolgozottat, és mented.",
     "og_image": "https://volumeboosting.com/hu/site_preview.png",
     "og_image_alt": "Increase Volume – Hang kiemelés alkalmazás ikonja",
     "og_url": "https://volumeboosting.com/hu/",
     "og_locale": "hu_HU",
     "twitter_url": "https://volumeboosting.com/hu/",
-    "twitter_title": "Hangerő növelése – Hang kiemelés",
-    "twitter_description": "Hang és videó iPhone-on akár ~10× hangosabban — Increase Volume – Hang kiemelés. Tiszta hang, mély hang; halk klippek és podcastok. Feldolgozás az eszközön.",
+    "twitter_title": "Videók és hangok hangosítása iPhone-on – akár 10× hangosabban",
+    "twitter_description": "Halk videó, MP3 vagy hangjegyzet? A Hangerőnövelő Média akár 10×-re hangosítja magát a fájlt; összeveted az Eredetit és a Feldolgozottat, és mented.",
     "twitter_image": "https://volumeboosting.com/hu/site_preview.png",
     "twitter_image_alt": "Increase Volume – Hang kiemelés alkalmazás ikonja"
   },
@@ -188,44 +188,61 @@
     "breadcrumb_home": "Kezdőlap",
     "faq": [
       {
-        "question": "Mi az Increase Volume – Hang kiemelés?",
-        "answer": "Egy iPhone alkalmazás az App Store Zene kategóriájában, amely az importált hang- és videófájlokat hangosabbá teszi — kb. ~10×-ig — és új fájl mentését teszi lehetővé. Az eszközön dolgozza fel a médiát; halk felvételekre, podcastokra és klippekre szól — nem az iOS hardverkorlátok megkerülésére az egész rendszerhangra."
+        "question": "Hogyan növelhetem egy videó hangerejét iPhone-on?",
+        "answer": "Nyisd meg a Hangerőnövelő Média appot, importáld a videót a Fotókból (vagy oszd meg az appal), húzd a „Hangerőszorzót” ×10-ig, koppints a „Hangerő kiemelése” gombra, hasonlítsd össze az Eredetit és a Feldolgozottat, és koppints a „Feldolgozott letöltése” gombra. A hangosabb másolat a Fotókba vagy a Fájlokba kerül, és minden eszközön hangosan szól.",
+        "guide": "hogyan-noveld-a-video-hangerejet-iphone-on"
       },
       {
-        "question": "Hogyan működik az Increase Volume – Hang kiemelés?",
-        "answer": "Importálsz videót, dalt vagy felvételt (a Fotók alkalmazásból is), beállítod a hangerőt a kiemelő csúszkával plusz élesség és mély hang, valós időben hallgatod az előnézetet, majd elmented a kiemelt fájlt az iPhone-ra vagy megosztod."
+        "question": "Miért ilyen halkak a WhatsApp hangüzenetek az iPhone-omon?",
+        "answer": "Ha mind halk, az iPhone a hívásfülhallgatón játssza le őket, mert eltakartad a közelségérzékelőt: tartsd távolabb a telefont, és lejátszás közben növeld a hangerőt. Ha csak egy üzenet halk, exportáld (hosszú nyomás → Továbbítás → Megosztás), hangosítsd ×5–×10-re az appban, és mentsd vagy továbbítsd a hangosabb másolatot.",
+        "guide": "halk-whatsapp-hangutenet"
       },
       {
-        "question": "Jobb az Increase Volume, mint csak feltekerni az iPhone hangerőjét?",
-        "answer": "Más problémát old meg. A rendszer hangerője átmenetileg hangosabbá teszi a lejátszást. Ez az alkalmazás tartósan hangosabb fájlt hoz létre — hasznos, ha maga a felvétel halk, vagy a kiemelt verziót kell elküldened."
+        "question": "Miért halk a képernyőfelvételem?",
+        "answer": "Az iOS csökkentett szinten rögzíti az appok hangját, még alacsonyabban, ha a hangerő kicsi volt, vagy Bluetooth-fülhallgató csatlakozott. Legközelebb válaszd le a Bluetootht, és felvétel előtt növeld a hangerőt. A meglévő felvételt hangosítsd ×5–×10-re a Hangerőnövelő Média appal.",
+        "guide": "halk-kepernyofelvetel-iphone"
       },
       {
-        "question": "Miben különbözik az Increase Volume a VLC-től vagy az Audacity-től hangerő szempontjából?",
-        "answer": "A VLC és az Audacity erős asztali eszközök, amelyek sok beállítással normalizálhatnak vagy erősíthetnek. Az Increase Volume iPhone-ra készült: rövid import → csúszka → mentés, asztali idővonal szerkesztő nélkül."
+        "question": "Hogyan hangosíthatok egy hangjegyzetet?",
+        "answer": "A Hangjegyzetek „Felvétel javítása” funkciója lejátszáskor csökkenti a zajt, de a fájlt nem hangosítja. Oszd meg a felvételt az appal (⋯ → Megosztás → Increase Volume), kapcsold be a „Hangminőség javítása” lehetőséget, hangosíts ×5–×10-re, és mentsd a hangosabb M4A-t.",
+        "guide": "hangjegyzet-hangerejenek-novelese"
       },
       {
-        "question": "Működik az Increase Volume videóra és hangra is?",
-        "answer": "Igen. Kiemelhetsz videót hangsávval, zenét, podcastot, hangjegyzetfelvételt és képernyőfelvételt, majd elmented az eredményt."
+        "question": "Hangosíthatok MP3-at iPhone-on számítógép nélkül?",
+        "answer": "Igen. Add hozzá az MP3, M4A vagy WAV fájlt a Fájlokból, válassz szorzót, hallgasd meg az Eredeti/Feldolgozottat, és koppints a „Feldolgozott letöltése” gombra. A hangosabb másolat a Fájlokba kerül; minden a telefonon történik.",
+        "guide": "mp3-hangerejenek-novelese-iphone"
       },
       {
-        "question": "Az iPhone-omra kerül a kiemelt fájl?",
-        "answer": "Igen. Feldolgozás után visszamented a hangosabb fájlt az eszközre, és bármilyen médiafájlhoz hasonlóan megoszthatod."
+        "question": "Lehet a Fotók appban növelni egy videó hangerejét?",
+        "answer": "A Fotók szerkesztője csak némítani tud, hangosítani nem. Koppints a Megosztás → Increase Volume lehetőségre, hogy ×10-ig hangosítsd a videót; a hangosabb másolat az eredeti mellé kerül vissza a Fotókba.",
+        "guide": "video-hangerejenek-novelese-fotokbol"
       },
       {
-        "question": "Mennyibe kerül az Increase Volume – Hang kiemelés?",
-        "answer": "Az App Store lista mutatja az aktuális árat és az alkalmazáson belüli vásárlásokat. A webhely strukturált adatai ingyenes ajánlatra utalhatnak; mindig ellenőrizd az árakat az Apple-nél idézés előtt."
+        "question": "Torzul a hang a hangosítástól?",
+        "answer": "Csak ha a leghangosabb csúcsok túllépik a digitális plafont. Egy halk felvételnek sok tartaléka van. Kezdd ×3-mal, hallgasd meg a leghangosabb pillanatot az Eredeti/Feldolgozott kapcsolóval, és addig növeld, amíg tiszta marad. A kép soha nem változik.",
+        "guide": "hangero-novelese-minosegromlas-nelkul"
       },
       {
-        "question": "Ki készíti az Increase Volume – Hang kiemelésot?",
-        "answer": "Az alkalmazást a c-basso adja ki, az Apple App Store terjeszti (App Store azonosító 6741472421). A termék oldala a volumeboosting.com."
+        "question": "Miben más, mint az iMovie hangereje?",
+        "answer": "Az iMovie iPhone-on kb. 500%-nál (5×) megáll, és projektet és teljes exportot kér. A Hangerőnövelő Média ×10-ig (1000%) megy, hangfájlokat is megnyit, és mentés előtt Eredeti/Feldolgozott összehasonlítást ad.",
+        "guide": "imovie-hangero-500-folott"
       },
       {
-        "question": "Hogyan lehet túl halk videót hangosabbá tenni iPhone-on?",
-        "answer": "Az Increase Volume – Hang kiemelésban importálod a videót (pl. a Fotók alkalmazásból), beállítod a kiemelő csúszkát valós idejű előnézettel, és elmentsz egy másolatot hangosabb hangsávval. A fájl szintjét javítod — nem csak a rendszer hangerőjét emeled lejátszás közben."
+        "question": "Hangosabbá teszi az app az iPhone hangszóróját?",
+        "answer": "Nem. Egyetlen app sem lépheti túl a hangszóró fizikai határát, és nem változtathatja meg a teljes rendszer hangerejét. Az app a fájlt hangosítja, ami akkor segít, ha maga a felvétel halk. Ha minden videó halk, előbb a lejátszási okokat nézd meg.",
+        "guide": "miert-halk-a-videom#lejatszas"
       },
       {
-        "question": "Növeli az alkalmazás az iPhone maximális hangerőjét zenéhez és hívásokhoz?",
-        "answer": "Nem. Az importált fájlokat dolgozza fel, és hangosabb verziót ad mentéshez vagy megosztáshoz. A hardverkorlát és a globális hangerő Spotify-hoz, hívásokhoz stb. nem változik."
+        "question": "Mennyibe kerül a Hangerőnövelő Média?",
+        "answer": "A letöltés ingyenes, és ingyenes próbaidőszakot tartalmaz. A korlátlan hangosítás előfizetéssel oldható fel; az aktuális forintárakat az App Store-ban találod. A feldolgozás mindig az iPhone-odon történik.",
+        "guide": "",
+        "learn_more_url": "__APP_STORE_URL__",
+        "learn_more_title": "Hangerőnövelő Média: ingyenes letöltés és aktuális árak az App Store-ban"
+      },
+      {
+        "question": "Feltöltődnek a fájljaim egy szerverre?",
+        "answer": "Nem. A feldolgozás az iPhone-on történik, fiók és feltöltés nélkül. Az eredmény az iOS megosztási lapján kerül a Fotókba, a Fájlokba vagy a választott appba.",
+        "guide": "hangero-novelese-minosegromlas-nelkul#adatvedelem"
       }
     ],
     "structured_data": {
@@ -376,5 +393,35 @@
     "title": "A halk fájlod 10× hangosabban, egy percen belül.",
     "text": "Töltsd le az Increase Volume – Hang kiemelés alkalmazást, importáld a videót vagy hangot, amit senki nem hall, húzd el a csúszkát, és oszd meg a hangos változatot.",
     "note": "Ingyenes letöltés · iOS 18.6 vagy újabb szükséges · 4,5★ az App Store-ban"
+  },
+  "guides": {
+    "eyebrow": "Útmutatók",
+    "title": "Halk hang iPhone-on: megoldás esetről esetre",
+    "intro": "Minden útmutató egy valóban keresett kérdésre válaszol, őszintén elmondja, mire képesek az iOS eszközei és mire nem, majd megmutatja a pontos lépéseket a Hangerőnövelő Média appban.",
+    "hub_link_text": "Összes útmutató",
+    "read_more": "Útmutató megnyitása",
+    "hub": {
+      "title": "Útmutatók hangosításhoz iPhone-on: videó, MP3, üzenetek",
+      "description": "Lépésről lépésre útmutatók videók, hangjegyzetek, MP3-ak, képernyőfelvételek és WhatsApp-hangüzenetek hangosításához iPhone-on, iOS-szel és a Hangerőnövelővel.",
+      "h1": "Útmutatók: hangosítsd a videókat és hangokat iPhone-on",
+      "intro": "Minden útmutató közvetlen válasszal kezdődik, őszintén végigveszi a rendszer ingyenes lehetőségeit (Fotók, iMovie, Hangjegyzetek), és megmutatja, hogyan érhetsz el akár 10×-es hangerőt a Hangerőnövelő Média appal.",
+      "keywords": "útmutatók hangerő iPhone, videó hangosítása, MP3 hangosítása, halk WhatsApp hangüzenet, halk képernyőfelvétel"
+    },
+    "labels": {
+      "home": "Kezdőlap",
+      "guides": "Útmutatók",
+      "breadcrumb_aria": "Navigációs útvonal",
+      "updated": "Frissítve",
+      "reading_time": "3–4 perc olvasás",
+      "quick_answer": "Gyors válasz",
+      "faq_heading": "További gyakori kérdések",
+      "related": "Kapcsolódó útmutatók",
+      "all_guides": "Összes útmutató",
+      "disclaimer": "A Hangerőnövelő Média a fájlon belüli hangot erősíti, és új másolatot ment. Nem lépheti túl az iPhone hangszórójának fizikai határát, és nem változtatja meg a teljes rendszer hangerejét."
+    },
+    "default_cta": {
+      "title": "Csináld a Hangerőnövelő Média appal",
+      "text": "Ingyenes az App Store-ban. Importálj, húzd a csúszkát ×10-ig, és koppints a „Feldolgozott letöltése” gombra."
+    }
   }
 }

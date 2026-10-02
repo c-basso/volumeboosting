@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "mesaj vocal WhatsApp se aude încet",
+  "priority": 2,
+  "keywords": "mesaj vocal WhatsApp se aude încet, mesaje vocale WhatsApp încet iPhone, cum măresc volumul la mesajul vocal, nu se aude mesajul vocal WhatsApp, volum mesaj vocal",
+  "title": "Mesajul vocal WhatsApp se aude încet pe iPhone? Soluția",
+  "description": "Nu auzi mesajele vocale WhatsApp pe iPhone? Verifică difuzorul pentru apeluri și senzorul de proximitate și fă un mesaj încet de până la 10× mai tare.",
+  "h1": "Mesaj vocal WhatsApp care se aude încet pe iPhone: cauze și soluție",
+  "eyebrow": "Mesaje vocale",
+  "card_title": "Mesaj vocal WhatsApp încet",
+  "card_summary": "Toate încet? E senzorul de proximitate. Unul singur? Exportă-l, amplifică ×5–×10 și trimite copia mai tare.",
+  "quick_answer": "Dacă toate mesajele vocale WhatsApp se aud încet, iPhone-ul le redă prin difuzorul pentru apeluri pentru că acoperi senzorul de proximitate: ține telefonul departe de față și dă volumul mai tare cât timp rulează mesajul. Dacă un anumit mesaj e încet, ține apăsat pe el → Redirecționează → pictograma Partajați → Salvați în Fișiere, deschide fișierul în Volume Boost, amplifică ×5–×10 și salvează sau trimite copia mai tare.",
+  "intro": [
+    "Mesajele vocale se trimit repede, dar sunt greu de ascultat când expeditorul a vorbit încet, a ținut telefonul departe sau a înregistrat pe o stradă aglomerată. WhatsApp nu are cursor de volum pentru un singur mesaj.",
+    "Ghidul acesta separă cele două cazuri, toate mesajele încet (o setare de redare) și un singur mesaj încet (înregistrarea în sine), și arată cum faci un mesaj vocal mai tare definitiv."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Fila de partajare iOS cu Copiază, Adaugă etichete și Salvează în Fișiere pentru un fișier audio amplificat în Volume Boost",
+    "caption": "După amplificare, trimite copia mai tare înapoi în WhatsApp sau salveaz-o în Fișiere."
+  },
+  "sections": [
+    {
+      "heading": "Toate mesajele se aud încet? Verifică redarea",
+      "paragraphs": [
+        "Când duci iPhone-ul la ureche sau acoperi partea de sus cu mâna, WhatsApp trece de la difuzor la micul difuzor pentru apeluri. Se aude mult mai încet. Ține telefonul drept în fața ta și apasă butonul de volum în sus cât timp rulează mesajul; volumul media e separat de volumul soneriei.",
+        "Dacă folosești AirPods sau alt dispozitiv Bluetooth, sunetul poate merge acolo. Deschide Centrul de control și verifică ieșirea audio. Dacă nivelul în căști e limitat, verifică Configurări › Sunete și haptică › Siguranța căștilor."
+      ]
+    },
+    {
+      "heading": "Un singur mesaj e încet? Problema e înregistrarea",
+      "paragraphs": [
+        "Dacă alte mesaje sună normal, problema e în fișier: expeditorul a înregistrat la nivel scăzut. Butoanele de volum nu pot repara asta. Soluția e să exporți fișierul audio, să crești nivelul în fișierul în sine și să folosești versiunea nouă."
+      ]
+    },
+    {
+      "heading": "Cum exporți un mesaj vocal din WhatsApp",
+      "paragraphs": [
+        "WhatsApp salvează mesajele vocale ca fișiere audio Opus. Le scoți prin fila de partajare:"
+      ],
+      "list": [
+        "Ține apăsat pe mesajul vocal în conversație.",
+        "Atinge Redirecționează, apoi pictograma Partajați din colțul din dreapta jos.",
+        "Alege Salvați în Fișiere, sau direct Increase Volume dacă aplicația apare în filă."
+      ],
+      "ordered": true,
+      "note": "Numele meniurilor pot varia puțin între versiunile WhatsApp."
+    }
+  ],
+  "steps": {
+    "heading": "Fă un mesaj vocal WhatsApp mai tare cu Volume Boost",
+    "intro": "Cam 30 de secunde per mesaj când fișierul e în Fișiere.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Importă mesajul",
+        "text": "Deschide Volume Boost și adaugă fișierul din Fișiere, sau partajează-l direct din WhatsApp către Increase Volume."
+      },
+      {
+        "name": "Activează „Îmbunătățește calitatea audio”",
+        "text": "Vorbirea se înțelege mai ușor cu îmbunătățirea activată; scoate vocea în față față de fundal."
+      },
+      {
+        "name": "Amplifică ×5–×10",
+        "text": "Trage „Multiplicare volum”. Înregistrările încet de pe telefon suportă adesea ×6–×10. Atinge „Amplifică volumul la ×N”."
+      },
+      {
+        "name": "Ascultă și salvează",
+        "text": "Comută între Original și Procesat, atinge „Descarcă procesat” și salvează în Fișiere sau trimite copia mai tare înapoi în WhatsApp."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Sfaturi",
+    "items": [
+      "La muncă sau în mașină e uneori mai rapid să ceri un mesaj nou; pentru mesaje importante (adrese, cifre), amplificarea e mai sigură.",
+      "Vântul și zgomotul mașinii se amplifică și ele. Încearcă ×4 înainte de ×10 și ascultă dacă apare fâșâit.",
+      "Fișierul amplificat poate fi trimis ca fișier audio în orice aplicație de chat, inclusiv Messenger sau Signal."
+    ]
+  },
+  "faq": [
+    {
+      "question": "De ce se aud atât de încet mesajele vocale WhatsApp pe iPhone?",
+      "answer": "De cele mai multe ori pentru că senzorul de proximitate trece pe difuzorul pentru apeluri când telefonul e lângă față. Ține-l departe și dă volumul media mai tare în timpul redării."
+    },
+    {
+      "question": "Pot mări volumul unui singur mesaj vocal în WhatsApp?",
+      "answer": "Nu în WhatsApp. Exportă mesajul prin Redirecționează → Partajați, amplifică-l în Volume Boost și folosește copia mai tare."
+    },
+    {
+      "question": "Scade calitatea când amplific un mesaj vocal?",
+      "answer": "Vocea devine mai tare fără artefacte noi, dar zgomotul de fundal existent crește și el. Începe moderat și urcă în timp ce compari Original și Procesat."
+    }
+  ],
+  "related": [
+    "reportofon-inregistrare-mai-tare",
+    "cum-maresti-volumul-mp3-pe-iphone",
+    "podcast-audiobook-incet-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

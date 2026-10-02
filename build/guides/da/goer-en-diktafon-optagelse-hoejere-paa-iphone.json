@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "diktafon optagelse for lav",
+  "priority": 3,
+  "keywords": "diktafon optagelse for lav, gør diktafon optagelse højere, stemmememo for lav lyd, forstærk lydoptagelse iPhone, forbedr optagelse diktafon",
+  "title": "Diktafon-optagelse for lav? Gør den højere på iPhone",
+  "description": "Forbedr optagelse i Diktafon fjerner støj, men gør aldrig filen højere. Se hvordan du forstærker en lav optagelse op til 10× og gemmer den med Increase Volume.",
+  "h1": "Sådan gør du en Diktafon-optagelse højere på iPhone",
+  "eyebrow": "Diktafon",
+  "card_title": "Gør en lav Diktafon-optagelse højere",
+  "card_summary": "Forbedr optagelse ændrer kun afspilningen. Eksportér optagelsen, og forstærk selve filen op til 10×.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Du gør en Diktafon-optagelse højere ved at dele den fra Diktafon til Increase Volume (tryk på optagelsen → ⋯ → Del → Increase Volume), slå „Forbedr lydkvalitet“ til, trække „Lydstyrke-multiplikation“ til ×5–×10, trykke på „Boost lydstyrke“, sammenligne Original og Behandlet og trykke på „Download behandlet“ for at gemme den højere M4A-fil. Diktafons egen Forbedr optagelse fjerner baggrundsstøj under afspilning, men ændrer ikke filen og gør den ikke højere, når du deler den.",
+  "intro": [
+    "En optagelse fra den anden ende af mødebordet, en forelæsning fra bageste række eller et interview med en, der taler lavt: Ordene er der, men selv på fuld lydstyrke skal du anstrenge dig for at høre dem. Diktafon har nogle afspilningsindstillinger, og mange tror, at en af dem gør optagelsen højere. Det gør ingen af dem.",
+    "Denne guide forklarer, hvad Diktafon kan, og hvordan du på et minut gør en lav optagelse til en høj fil, du kan dele."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Increase Volume med optagelsens detaljer, kontakten Forbedr lydkvalitet og skyderen Lydstyrke-multiplikation ×10",
+    "caption": "Ved tale skal du slå „Forbedr lydkvalitet“ til, før du forstærker."
+  },
+  "sections": [
+    {
+      "heading": "Hvad Diktafon kan (og ikke kan)",
+      "paragraphs": [
+        "Åbn en optagelse, tryk på ikonet for indstillinger (skyderne), og du ser:"
+      ],
+      "list": [
+        "Forbedr optagelse: reducerer baggrundsstøj og ekko. Nyttigt, men det er en *afspilnings*indstilling; ifølge Apples dokumentation ændrer den ikke selve optagelsen.",
+        "Spring stilhed over og afspilningshastighed: praktisk, men ingen effekt på lydstyrken.",
+        "Studiestemme (understøttede modeller): reducerer rumklang; også kun ved afspilning.",
+        "Beskær / Erstat: ændrer længde eller indhold, ikke niveau."
+      ],
+      "note": "Intet i Diktafon hæver niveauet i den gemte fil. Når du deler optagelsen, hører modtageren den på den oprindelige lydstyrke."
+    },
+    {
+      "heading": "Hvorfor optagelsen er lav i første omgang",
+      "paragraphs": [
+        "iPhone justerer automatisk følsomheden under optagelse, men kan ikke kompensere for en taler flere meter væk eller en telefon, der ligger med skærmen nedad og mikrofonen dækket. Resultatet er en optagelse, hvor toppene ligger langt under det digitale loft. Netop den afstand er det råderum, en forstærker bruger: En lav optagelse kan som regel ganges ×5–×10 uden at klippe."
+      ]
+    },
+    {
+      "heading": "Forstærk filen med Increase Volume",
+      "paragraphs": [
+        "Increase Volume åbner den M4A-fil, Diktafon eksporterer, viser varighed og størrelse og lader dig gange lydstyrken op til ×10. Kontakten „Forbedr lydkvalitet“ er rettet mod taletydelighed, hvilket er præcis, hvad en Diktafon-optagelse har brug for. Du hører resultatet med kontakten Original/Behandlet, før du gemmer, og den højere fil gemmes som en ny kopi i Filer, Beskeder, Mail eller den app, du vælger."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Trin for trin: gør en Diktafon-optagelse højere",
+    "intro": "Virker med enhver optagelse, der allerede ligger i Diktafon.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Del optagelsen til Increase Volume",
+        "text": "Tryk på optagelsen i Diktafon, tryk på ⋯, vælg Del, og vælg Increase Volume i rækken af apps. (Du kan også vælge Gem i Filer først og tilføje filen inde fra appen.)"
+      },
+      {
+        "name": "Slå Forbedr lydkvalitet til",
+        "text": "Slå kontakten til, så forstærkningen prioriterer stemmen."
+      },
+      {
+        "name": "Indstil multiplikationen",
+        "text": "Træk „Lydstyrke-multiplikation“ til ×5 til at starte med; fjerne optagelser kræver ofte ×8–×10. Tryk på „Boost lydstyrke“."
+      },
+      {
+        "name": "Sammenlign",
+        "text": "Skift Original/Behandlet ved det højeste sted i optagelsen (et grin, en kop der sættes ned). Knitrer det, så sænk multiplikationen."
+      },
+      {
+        "name": "Download behandlet",
+        "text": "Tryk på „Download behandlet“, og vælg Gem i Filer, eller send den højere optagelse direkte til Beskeder, Mail, WhatsApp eller Noter."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Optag med telefonen på ryggen, med mikrofonenden mod taleren og så tæt på, som det er høfligt. Det gør langt mere end nogen indstilling.",
+      "Skal optagelsen transskriberes, så forstærk den først; talegenkendelse laver færre fejl på en højere, tydeligere fil.",
+      "Behold originalen i Diktafon. Den forstærkede kopi er en separat fil."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Gør Forbedr optagelse en Diktafon-optagelse højere?",
+      "answer": "Nej. Den reducerer baggrundsstøj og ekko, mens optagelsen afspilles. Apple oplyser, at disse afspilningsindstillinger ikke påvirker selve optagelsen, så en delt optagelse er uændret."
+    },
+    {
+      "question": "Hvilket format får den forstærkede optagelse?",
+      "answer": "Det samme lydformat, som du delte (Diktafon eksporterer M4A). Increase Volume skriver en ny fil; din originale optagelse røres ikke."
+    },
+    {
+      "question": "Kan jeg forstærke en optagelse, som nogen har sendt mig?",
+      "answer": "Ja. Gem lyden fra Beskeder, Mail eller WhatsApp i Filer (eller del den direkte til Increase Volume), og forstærk den på samme måde."
+    }
+  ],
+  "related": [
+    "goer-en-lydbesked-fra-whatsapp-hoejere",
+    "goer-en-mp3-hoejere-paa-iphone",
+    "goer-lyden-hoejere-uden-at-miste-kvalitet"
+  ]
+}

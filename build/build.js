@@ -14,8 +14,15 @@ const {
     SOFTWARE_APPLICATION_AGGREGATE_RATING,
     SITE_CONTENT_UPDATED_ISO,
     GUIDES_DIR,
-    GUIDES_PATH_SEGMENT,
     GUIDES_HUB_URL,
+    GUIDE_LANGUAGES,
+    GUIDE_URLS,
+    GUIDE_HUBS,
+    guideHubUrl,
+    guideOutputPathFor,
+    guideHubOutputPath,
+    getGuideAlternates,
+    getGuideHubAlternates,
     getGuideSlugs,
     guideUrlForSlug
 } = require('./constants');
@@ -226,8 +233,9 @@ function syncWebManifest() {
 }
 
 function writeUrlsFile() {
-    const guideUrls = getGuideSlugs().map(guideUrlForSlug);
-    const all = URLS.map(({ url }) => url).concat(guideUrls.length ? [GUIDES_HUB_URL, ...guideUrls] : []);
+    const all = URLS.map(({ url }) => url)
+        .concat(GUIDE_HUBS.map(({ url }) => url))
+        .concat(GUIDE_URLS.map(({ url }) => url));
     fs.writeFileSync(URLS_PATH, all.join('\n'), 'utf8');
     console.log('✅ Successfully built urls.txt file');
     console.log(`📁 Output saved to: ${URLS_PATH}`);
@@ -245,7 +253,7 @@ function absoluteSiteUrl(maybe) {
     return `${SITE_URL.replace(/\/?$/, '/')}${value.replace(/^\//, '')}`;
 }
 
-function writeLlmsFile(defaultLocaleData, guides = []) {
+function writeLlmsFile(defaultLocaleData, guides = [], localizedGuides = {}) {
     const appName = defaultLocaleData.header?.app_name || DEFAULT_SITE_NAME;
     const description = stripHtml(defaultLocaleData.meta?.description) || 'iPhone app to boost audio and video volume.';
     const lastUpdated = BUILD_DATE_ISO;
@@ -262,6 +270,17 @@ function writeLlmsFile(defaultLocaleData, guides = []) {
             ''
         ]
         : [];
+
+    const localizedGuideLines = Object.entries(localizedGuides).flatMap(([lang, list]) =>
+        list.length
+            ? [
+                `## How-to guides (${LANGUAGE_NAMES[lang] || lang})`,
+                `- [${LANGUAGE_NAMES[lang] || lang} guides hub](${guideHubUrl(lang)})`,
+                ...list.map((guide) => `- [${stripHtml(guide.h1)}](${guideUrlForSlug(guide.slug, lang)}): ${stripHtml(guide.description)}`),
+                ''
+            ]
+            : []
+    );
 
     const lines = [
         `# ${appName}`,
@@ -297,6 +316,7 @@ function writeLlmsFile(defaultLocaleData, guides = []) {
         `- [Terms of service](${termsUrl}): Legal terms`,
         '',
         ...guideLines,
+        ...localizedGuideLines,
         '## Language pages',
         ...ALTERNATE_LANGUAGE_LINKS.map(({ hreflang, url }) => `- [${hreflang}](${url})`),
         '',
@@ -424,6 +444,11 @@ function normalizeMeta(data, lang) {
     data.meta.og_site_name = data.meta.og_site_name || data.header?.app_name || DEFAULT_SITE_NAME;
     data.meta.og_locale = data.meta.og_locale || OG_LOCALE_BY_LANGUAGE[lang] || OG_LOCALE_BY_LANGUAGE.en;
     data.meta.last_updated_iso = HOME_UPDATED_ISO;
+    // Localized App Store screenshots live in img/screenshots/<lang>/ when the store listing has them.
+    data.meta.screenshot_base =
+        lang !== DEFAULT_LANGUAGE && fs.existsSync(path.join(ROOT_DIR, 'img', 'screenshots', lang))
+            ? `/img/screenshots/${lang}/`
+            : '/img/screenshots/';
     data.meta.language_links = LANGUAGE_LINKS;
     Object.assign(data.meta, SHARED_SITE_META);
 
@@ -892,35 +917,45 @@ function applyEnglishFallback(data, lang, defaultRaw) {
 /* Homepage                                                            */
 /* ------------------------------------------------------------------ */
 
-function attachGuideCards(data, guides, lang) {
-    if (lang !== DEFAULT_LANGUAGE || !Array.isArray(guides) || guides.length === 0) {
-        return;
-    }
-    data.guides = data.guides || {};
-    data.guides.items = guides.map((guide) => ({
+function guideCardItems(guides, lang) {
+    return guides.map((guide) => ({
         slug: guide.slug,
-        url: guideUrlForSlug(guide.slug),
+        url: guideUrlForSlug(guide.slug, lang),
         title: guide.card_title || guide.h1,
         summary: guide.card_summary || guide.quick_answer,
         eyebrow: guide.eyebrow,
         screenshot_src: guide.screenshot?.src,
         screenshot_alt: guide.screenshot?.alt
     }));
-    data.guides.hub_url = GUIDES_HUB_URL;
+}
+
+/**
+ * Homepage guide cards and FAQ "Learn more" links. Only for languages that have their own guide set
+ * (`guidesByLang[lang]`); a locale JSON without a `guides` block keeps the section hidden.
+ */
+function attachGuideCards(data, guidesByLang, lang) {
+    const guides = guidesByLang?.[lang];
+    if (!Array.isArray(guides) || guides.length === 0 || !data.guides) {
+        return;
+    }
+    data.guides.items = guideCardItems(guides, lang);
+    data.guides.hub_url = guideHubUrl(lang);
 
     const bySlug = new Map(guides.map((guide) => [guide.slug, guide]));
     for (const faq of data.seo?.faq || []) {
         // `guide` may carry an anchor ("slug#section-id") to deep-link the matching section.
         const [slug, anchor] = String(faq.guide || '').split('#');
         if (slug && bySlug.has(slug)) {
-            faq.learn_more_url = guideUrlForSlug(slug) + (anchor ? `#${anchor}` : '');
+            faq.learn_more_url = guideUrlForSlug(slug, lang) + (anchor ? `#${anchor}` : '');
             faq.learn_more_title = bySlug.get(slug).h1;
+        } else if (slug) {
+            console.warn(`Warning [${lang}]: FAQ links to unknown guide "${slug}"`);
         }
         // Otherwise an explicit `learn_more_url` / `learn_more_title` in the locale JSON is kept as-is.
     }
 }
 
-function buildPage(template, lang, { defaultRaw, guides }) {
+function buildPage(template, lang, { defaultRaw, guidesByLang }) {
     const outputDir = getOutputDirectory(lang);
     const outputPath = getOutputPath(lang);
     const jsonPath = getJsonPath(lang);
@@ -928,7 +963,7 @@ function buildPage(template, lang, { defaultRaw, guides }) {
     ensureDirectoryExists(outputDir);
     const raw = applyEnglishFallback(readJsonFile(jsonPath), lang, defaultRaw);
     const data = preparePageData(raw, lang);
-    attachGuideCards(data, guides, lang);
+    attachGuideCards(data, guidesByLang, lang);
     fs.writeFileSync(outputPath, renderTemplate(template, data, lang), 'utf8');
 
     console.log(`✅ Successfully built index.html from template and ${lang}.json`);
@@ -942,11 +977,12 @@ function buildPage(template, lang, { defaultRaw, guides }) {
 const GUIDE_TEMPLATE_PATH = path.join(__dirname, 'guide-template.html');
 const GUIDES_HUB_TEMPLATE_PATH = path.join(__dirname, 'guides-hub-template.html');
 
-function readGuides() {
-    return getGuideSlugs().map((slug) => {
-        const guide = readJsonFile(path.join(GUIDES_DIR, `${slug}.json`));
+function readGuides(lang = DEFAULT_LANGUAGE) {
+    const dir = lang === DEFAULT_LANGUAGE ? GUIDES_DIR : path.join(GUIDES_DIR, lang);
+    return getGuideSlugs(lang).map((slug) => {
+        const guide = readJsonFile(path.join(dir, `${slug}.json`));
         if (guide.slug && guide.slug !== slug) {
-            throw new Error(`Guide file ${slug}.json declares slug "${guide.slug}"`);
+            throw new Error(`Guide file ${lang}/${slug}.json declares slug "${guide.slug}"`);
         }
         guide.slug = slug;
         return guide;
@@ -958,13 +994,24 @@ function readGuides() {
     });
 }
 
-function guideOutputPath(slug) {
-    return path.join(ROOT_DIR, GUIDES_PATH_SEGMENT, slug, 'index.html');
+function guidePageMeta(siteData, lang) {
+    return {
+        html_lang: HTML_LANG_BY_CODE[lang] || lang,
+        html_dir: lang === 'he' ? 'rtl' : 'ltr',
+        lang,
+        language_links: null
+    };
 }
 
-function buildGuideStructuredData(guide, siteData) {
-    const url = guideUrlForSlug(guide.slug);
+function guideLabels(siteData) {
+    return siteData.guides?.labels || {};
+}
+
+function buildGuideStructuredData(guide, siteData, lang) {
+    const url = guideUrlForSlug(guide.slug, lang);
+    const homeUrl = siteData.nav?.home_url || SITE_URL;
     const appName = siteData.header?.app_name || DEFAULT_SITE_NAME;
+    const labels = guideLabels(siteData);
     const publisher = {
         '@type': 'Organization',
         name: siteData.seo?.structured_data?.organization?.name || 'c-basso',
@@ -985,8 +1032,8 @@ function buildGuideStructuredData(guide, siteData) {
             datePublished: guide.published || guideUpdatedIso(guide),
             dateModified: guideUpdatedIso(guide),
             mainEntityOfPage: url,
-            inLanguage: 'en',
-            about: { '@type': 'MobileApplication', name: appName, url: SITE_URL, operatingSystem: 'iOS' }
+            inLanguage: lang,
+            about: { '@type': 'MobileApplication', name: appName, url: homeUrl, operatingSystem: 'iOS' }
         },
         howto: {
             '@context': 'https://schema.org',
@@ -995,6 +1042,7 @@ function buildGuideStructuredData(guide, siteData) {
             description: stripHtml(guide.steps?.intro || guide.quick_answer),
             image,
             totalTime: guide.steps?.total_time || 'PT2M',
+            inLanguage: lang,
             tool: [{ '@type': 'HowToTool', name: appName }],
             step: (guide.steps?.items || []).map((step, index) => ({
                 '@type': 'HowToStep',
@@ -1007,6 +1055,7 @@ function buildGuideStructuredData(guide, siteData) {
         faqpage: {
             '@context': 'https://schema.org',
             '@type': 'FAQPage',
+            inLanguage: lang,
             mainEntity: (guide.faq || []).map((faq) => ({
                 '@type': 'Question',
                 name: stripHtml(faq.question),
@@ -1020,32 +1069,36 @@ function buildGuideStructuredData(guide, siteData) {
             url,
             description: stripHtml(guide.description),
             dateModified: guideUpdatedIso(guide),
-            inLanguage: 'en',
-            isPartOf: { '@type': 'WebSite', name: appName, url: SITE_URL }
+            inLanguage: lang,
+            isPartOf: { '@type': 'WebSite', name: appName, url: homeUrl }
         },
         breadcrumb_list: {
             '@context': 'https://schema.org',
             '@type': 'BreadcrumbList',
             itemListElement: [
-                { '@type': 'ListItem', position: 1, name: 'Home', item: SITE_URL },
-                { '@type': 'ListItem', position: 2, name: 'Guides', item: GUIDES_HUB_URL },
+                { '@type': 'ListItem', position: 1, name: labels.home || 'Home', item: homeUrl },
+                { '@type': 'ListItem', position: 2, name: labels.guides || 'Guides', item: guideHubUrl(lang) },
                 { '@type': 'ListItem', position: 3, name: stripHtml(guide.h1), item: url }
             ]
         }
     };
 }
 
-function prepareGuideData(guide, guides, siteData) {
-    const url = guideUrlForSlug(guide.slug);
+function prepareGuideData(guide, guides, siteData, lang) {
+    const url = guideUrlForSlug(guide.slug, lang);
     const bySlug = new Map(guides.map((item) => [item.slug, item]));
     const related = (guide.related || [])
         .filter((slug) => bySlug.has(slug))
         .map((slug) => {
             const item = bySlug.get(slug);
-            return { slug, url: guideUrlForSlug(slug), title: item.card_title || item.h1, eyebrow: item.eyebrow };
+            return { slug, url: guideUrlForSlug(slug, lang), title: item.card_title || item.h1, eyebrow: item.eyebrow };
         });
+    const missingRelated = (guide.related || []).filter((slug) => !bySlug.has(slug));
+    if (missingRelated.length) {
+        console.warn(`Warning [guide:${lang}:${guide.slug}]: unknown related guide(s): ${missingRelated.join(', ')}`);
+    }
 
-    const previewImage = getPreviewImageUrl(DEFAULT_LANGUAGE);
+    const previewImage = getPreviewImageUrl(lang);
     const steps = guide.steps
         ? { ...guide.steps, items: (guide.steps.items || []).map((step, index) => ({ ...step, number: index + 1 })) }
         : null;
@@ -1056,8 +1109,10 @@ function prepareGuideData(guide, guides, siteData) {
         unordered: Boolean(section.list && !section.ordered)
     }));
     const cta = guide.cta || siteData.guides?.default_cta || {};
+    const alternates = getGuideAlternates(guide.slug, lang);
+    const xDefault = alternates.find((alt) => alt.lang === DEFAULT_LANGUAGE)?.url || url;
 
-    const data = {
+    return {
         ...siteData,
         page_type: 'guide',
         guide: {
@@ -1068,9 +1123,9 @@ function prepareGuideData(guide, guides, siteData) {
             related,
             cta,
             updated_iso: guideUpdatedIso(guide),
-            updated_label: formatIsoDate(guideUpdatedIso(guide))
+            updated_label: formatIsoDate(guideUpdatedIso(guide), localeTagForIntl(lang))
         },
-        guides: { ...(siteData.guides || {}), hub_url: GUIDES_HUB_URL },
+        guides: { ...(siteData.guides || {}), hub_url: guideHubUrl(lang) },
         meta: {
             ...siteData.meta,
             title: guide.title,
@@ -1088,77 +1143,66 @@ function prepareGuideData(guide, guides, siteData) {
             og_image_alt: guide.screenshot?.alt || siteData.meta.og_image_alt,
             twitter_image_alt: guide.screenshot?.alt || siteData.meta.twitter_image_alt,
             og_type: 'article',
-            alternate_languages: [{ code: 'en', hreflang: 'en', lang: 'en', url }],
-            alternate_default: url,
-            language_links: null,
-            html_lang: 'en',
-            html_dir: 'ltr',
-            lang: 'en'
+            alternate_languages: alternates.map((alt) => ({ ...alt, lang: alt.hreflang })),
+            alternate_default: xDefault,
+            ...guidePageMeta(siteData, lang)
         },
         seo: {
             ...siteData.seo,
-            structured_data: buildGuideStructuredData(guide, siteData)
+            structured_data: buildGuideStructuredData(guide, siteData, lang)
         }
     };
-    return data;
 }
 
-function buildGuides(guides, siteData) {
+function buildGuides(guides, siteData, lang = DEFAULT_LANGUAGE) {
     if (guides.length === 0) {
-        console.log('ℹ️  No guides found in build/guides — skipping guide pages');
         return;
     }
     const template = fs.readFileSync(GUIDE_TEMPLATE_PATH, 'utf8');
     for (const guide of guides) {
-        const outputPath = guideOutputPath(guide.slug);
+        const outputPath = guideOutputPathFor(guide.slug, lang);
         ensureDirectoryExists(path.dirname(outputPath));
-        const data = prepareGuideData(guide, guides, siteData);
-        fs.writeFileSync(outputPath, renderTemplate(template, data, `guide:${guide.slug}`), 'utf8');
-        console.log(`✅ Built guide ${guide.slug}`);
+        const data = prepareGuideData(guide, guides, siteData, lang);
+        fs.writeFileSync(outputPath, renderTemplate(template, data, `guide:${lang}:${guide.slug}`), 'utf8');
+        console.log(`✅ Built guide ${lang}/${guide.slug}`);
     }
     console.log();
 }
 
-function buildGuidesHub(guides, siteData) {
+function buildGuidesHub(guides, siteData, lang = DEFAULT_LANGUAGE) {
     if (guides.length === 0 || !fs.existsSync(GUIDES_HUB_TEMPLATE_PATH)) {
         return;
     }
     const template = fs.readFileSync(GUIDES_HUB_TEMPLATE_PATH, 'utf8');
     const hub = siteData.guides?.hub || {};
-    const previewImage = getPreviewImageUrl(DEFAULT_LANGUAGE);
-    const items = guides.map((guide) => ({
-        slug: guide.slug,
-        url: guideUrlForSlug(guide.slug),
-        title: guide.card_title || guide.h1,
-        summary: guide.card_summary || guide.quick_answer,
-        eyebrow: guide.eyebrow,
-        screenshot_src: guide.screenshot?.src,
-        screenshot_alt: guide.screenshot?.alt
-    }));
+    const labels = guideLabels(siteData);
+    const hubUrl = guideHubUrl(lang);
+    const homeUrl = siteData.nav?.home_url || SITE_URL;
+    const previewImage = getPreviewImageUrl(lang);
+    const items = guideCardItems(guides, lang);
+    const alternates = getGuideHubAlternates();
 
     const data = {
         ...siteData,
         page_type: 'hub',
-        guides: { ...siteData.guides, items, hub_url: GUIDES_HUB_URL, hub },
+        guides: { ...siteData.guides, items, hub_url: hubUrl, hub },
         meta: {
             ...siteData.meta,
             title: hub.title,
             description: hub.description,
-            canonical: GUIDES_HUB_URL,
-            og_url: GUIDES_HUB_URL,
-            twitter_url: GUIDES_HUB_URL,
+            keywords: hub.keywords || siteData.meta.keywords,
+            canonical: hubUrl,
+            og_url: hubUrl,
+            twitter_url: hubUrl,
             og_title: hub.h1,
             og_description: hub.description,
             twitter_title: hub.h1,
             twitter_description: hub.description,
             og_image: previewImage,
             twitter_image: previewImage,
-            alternate_languages: [{ code: 'en', hreflang: 'en', lang: 'en', url: GUIDES_HUB_URL }],
+            alternate_languages: alternates.map((alt) => ({ ...alt, lang: alt.hreflang })),
             alternate_default: GUIDES_HUB_URL,
-            language_links: null,
-            html_lang: 'en',
-            html_dir: 'ltr',
-            lang: 'en'
+            ...guidePageMeta(siteData, lang)
         },
         seo: {
             ...siteData.seo,
@@ -1168,10 +1212,10 @@ function buildGuidesHub(guides, siteData) {
                     '@type': 'CollectionPage',
                     name: hub.h1,
                     description: stripHtml(hub.description),
-                    url: GUIDES_HUB_URL,
+                    url: hubUrl,
                     dateModified: guides.map(guideUpdatedIso).sort().pop() || HOME_UPDATED_ISO,
-                    inLanguage: 'en',
-                    isPartOf: { '@type': 'WebSite', name: siteData.header?.app_name || DEFAULT_SITE_NAME, url: SITE_URL }
+                    inLanguage: lang,
+                    isPartOf: { '@type': 'WebSite', name: siteData.header?.app_name || DEFAULT_SITE_NAME, url: homeUrl }
                 },
                 item_list: {
                     '@context': 'https://schema.org',
@@ -1187,18 +1231,18 @@ function buildGuidesHub(guides, siteData) {
                     '@context': 'https://schema.org',
                     '@type': 'BreadcrumbList',
                     itemListElement: [
-                        { '@type': 'ListItem', position: 1, name: 'Home', item: SITE_URL },
-                        { '@type': 'ListItem', position: 2, name: 'Guides', item: GUIDES_HUB_URL }
+                        { '@type': 'ListItem', position: 1, name: labels.home || 'Home', item: homeUrl },
+                        { '@type': 'ListItem', position: 2, name: labels.guides || 'Guides', item: hubUrl }
                     ]
                 }
             }
         }
     };
 
-    const outputPath = path.join(ROOT_DIR, GUIDES_PATH_SEGMENT, 'index.html');
+    const outputPath = guideHubOutputPath(lang);
     ensureDirectoryExists(path.dirname(outputPath));
-    fs.writeFileSync(outputPath, renderTemplate(template, data, 'guides-hub'), 'utf8');
-    console.log(`✅ Built guides hub -> ${outputPath}`);
+    fs.writeFileSync(outputPath, renderTemplate(template, data, `guides-hub:${lang}`), 'utf8');
+    console.log(`✅ Built guides hub (${lang}) -> ${outputPath}`);
     console.log();
 }
 
@@ -1218,14 +1262,18 @@ function main() {
     writeUrlsFile();
 
     const template = fs.readFileSync(TEMPLATE_PATH, 'utf8');
-    const guides = readGuides();
+    const guidesByLang = Object.fromEntries(GUIDE_LANGUAGES.map((lang) => [lang, readGuides(lang)]));
+    const guides = guidesByLang[DEFAULT_LANGUAGE] || [];
     const defaultRaw = readJsonFile(getJsonPath(DEFAULT_LANGUAGE));
     const defaultData = preparePageData(JSON.parse(JSON.stringify(defaultRaw)), DEFAULT_LANGUAGE);
-    writeLlmsFile(defaultData, guides);
+    const localizedGuides = Object.fromEntries(
+        Object.entries(guidesByLang).filter(([lang]) => lang !== DEFAULT_LANGUAGE)
+    );
+    writeLlmsFile(defaultData, guides, localizedGuides);
 
     for (const lang of LANGUAGES) {
         try {
-            buildPage(template, lang, { defaultRaw, guides });
+            buildPage(template, lang, { defaultRaw, guidesByLang });
         } catch (error) {
             console.error(`❌ Error building ${lang}:`, error.message);
             process.exit(1);
@@ -1234,8 +1282,16 @@ function main() {
     console.log();
 
     try {
-        buildGuides(guides, defaultData);
-        buildGuidesHub(guides, defaultData);
+        for (const lang of GUIDE_LANGUAGES) {
+            const siteData = lang === DEFAULT_LANGUAGE
+                ? defaultData
+                : preparePageData(applyEnglishFallback(readJsonFile(getJsonPath(lang)), lang, defaultRaw), lang);
+            if (!siteData.guides?.labels) {
+                throw new Error(`build/${lang}.json has guides in build/guides/${lang}/ but no "guides" block`);
+            }
+            buildGuides(guidesByLang[lang], siteData, lang);
+            buildGuidesHub(guidesByLang[lang], siteData, lang);
+        }
     } catch (error) {
         console.error('❌ Error building guides:', error.message);
         process.exit(1);

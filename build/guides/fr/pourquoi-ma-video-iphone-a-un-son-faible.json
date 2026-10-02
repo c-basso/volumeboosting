@@ -1,0 +1,115 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "pourquoi ma vidéo a un son faible",
+  "priority": 7,
+  "keywords": "pourquoi ma vidéo a un son faible, vidéo iPhone son faible, vidéo enregistrée son trop bas, micro iPhone faible, vidéo iPhone pas assez forte",
+  "title": "Pourquoi ma vidéo iPhone a-t-elle un son faible ? 7 causes",
+  "description": "Son faible ? Souvent la distance, un micro masqué, le vent, le Bluetooth ou la limite des écouteurs. Trouvez la cause et rendez la vidéo jusqu'à 10× plus forte.",
+  "h1": "Pourquoi ma vidéo iPhone a-t-elle un son faible ? Causes et solution",
+  "eyebrow": "Dépannage",
+  "card_title": "Pourquoi ma vidéo a-t-elle un son faible ?",
+  "card_summary": "Sept causes, du micro masqué à la limite des écouteurs, et comment sauver la vidéo déjà enregistrée.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Une vidéo iPhone est faible parce qu'elle a été *enregistrée* faible (personne loin du micro, micro masqué par la coque ou un doigt, vent, app trop basse pendant un enregistrement d'écran) ou parce qu'elle est *lue* faible (appareil Bluetooth connecté, Réduire les sons forts activé, haut-parleur encrassé). Testez d'abord la lecture avec une autre vidéo. Si l'enregistrement lui-même est faible, aucun réglage ne le corrige : amplifiez-le jusqu'à 10× avec l'Amplificateur de Volume Audio et enregistrez une copie plus forte.",
+  "intro": [
+    "Commencez par identifier votre type de « faible ». Lisez une autre vidéo que vous savez correcte. Si elle sonne fort, votre téléphone va bien et le problème vient de l'enregistrement. Si tout sonne faible, c'est un problème de lecture sur le téléphone. Les causes et les solutions sont totalement différentes : ce test de trente secondes fait gagner beaucoup de temps.",
+    "Voici les sept causes que nous voyons le plus, classées selon leur fréquence."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/fr/1.webp",
+    "alt": "Capture promotionnelle « Augmenter le volume jusqu'à 1000 %, ×10 plus fort » de l'Amplificateur de Volume Audio pour iPhone",
+    "caption": "Si l'enregistrement lui-même est faible, la solution est d'amplifier le fichier."
+  },
+  "sections": [
+    {
+      "heading": "Causes à l'enregistrement (la vidéo est faible partout)",
+      "paragraphs": [
+        "Celles-ci sont inscrites dans le fichier. Elles expliquent pourquoi la vidéo est faible sur n'importe quel téléphone à qui vous l'envoyez."
+      ],
+      "list": [
+        "Distance : les micros du téléphone sont pensés pour quelqu'un à un mètre environ. Une personne à l'autre bout de la pièce sonne faible et réverbérée.",
+        "Micro masqué : le micro vidéo principal est près des caméras arrière ; une coque épaisse, un doigt ou un support peuvent le couvrir. L'enregistrement est faible et étouffé.",
+        "Vent et bruit de fond : dans le bruit, l'iPhone baisse la sensibilité et la personne qui parle paraît plus faible.",
+        "Niveau de l'enregistrement d'écran : iOS capture le son des apps à un niveau réduit, encore plus si l'app était basse ou si des écouteurs Bluetooth étaient connectés.",
+        "Clips reçus : une vidéo envoyée par WhatsApp ou Messenger est réencodée et arrive parfois plus faible que l'original."
+      ]
+    },
+    {
+      "id": "lecture",
+      "heading": "Causes à la lecture (toutes les vidéos sont faibles sur ce téléphone)",
+      "paragraphs": [
+        "Celles-ci rendent votre téléphone faible ; le fichier est correct et sonnera normalement ailleurs."
+      ],
+      "list": [
+        "Bluetooth encore connecté : le son part vers des AirPods dans un tiroir ou vers la voiture. Ouvrez le Centre de contrôle et vérifiez la sortie audio.",
+        "Réduire les sons forts : Réglages › Sons et vibrations › Sécurité des écouteurs limite le volume au casque. C'est une bonne protection, mais elle rend les vidéos faibles encore plus faibles aux écouteurs.",
+        "Fonctions d'attention (iPhone avec Face ID) : Réglages › Face ID et code baisse le volume des alertes quand vous regardez l'écran ; certains trouvent aussi les vidéos plus faibles.",
+        "Grille du haut-parleur encrassée ou trace d'eau : une brosse douce et sèche fait regagner étonnamment beaucoup de volume.",
+        "Équilibre : Réglages › Accessibilité › Audio et visuel › Équilibre doit être centré."
+      ]
+    },
+    {
+      "heading": "La solution pour une vidéo enregistrée faible",
+      "paragraphs": [
+        "Vous ne pouvez pas rejouer le moment et les réglages de l'iPhone ne modifient pas un fichier enregistré. Photos n'a pas de réglage de volume ; iMovie monte le volume d'un clip jusqu'à 500 % environ après création d'un projet. L'Amplificateur de Volume Audio ouvre la vidéo directement depuis Photos, multiplie le son jusqu'à ×10, vous laisse comparer Original et Traité et enregistre une nouvelle copie. Cette copie plus forte sonne fort sur tous les appareils et dans toutes les apps.",
+        "Si la cause était un micro masqué, l'amplification corrige le niveau mais pas le son étouffé ; activez « Améliorer la qualité audio » pour aider la voix."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Étape par étape : sauver une vidéo au son faible",
+    "intro": "Une minute avec l'app gratuite Amplificateur de Volume Audio.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Vérifiez que c'est l'enregistrement",
+        "text": "Lisez une autre vidéo. Si elle sonne fort, continuez ; sinon, réglez d'abord les causes de lecture ci-dessus."
+      },
+      {
+        "name": "Partagez la vidéo vers l'app",
+        "text": "Ouvrez-la dans Photos, touchez Partager et choisissez Increase Volume."
+      },
+      {
+        "name": "Amplifiez",
+        "text": "Réglez « Multiplication du volume » sur ×4 pour commencer (plus pour les clips très faibles), activez « Améliorer la qualité audio » pour la voix et touchez « Amplifier le volume »."
+      },
+      {
+        "name": "Comparez",
+        "text": "Basculez Original/Traité au moment le plus fort et ajustez le multiplicateur si besoin."
+      },
+      {
+        "name": "Enregistrez",
+        "text": "Touchez « Télécharger le fichier traité » → Enregistrer la vidéo. Partagez cette nouvelle copie plutôt que l'original."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Enregistrer plus fort la prochaine fois",
+    "items": [
+      "Rapprochez-vous à une longueur de bras de la personne qui parle ou utilisez un micro-cravate, filaire ou sans fil.",
+      "Retirez la coque ou vérifiez que rien ne couvre les micros arrière.",
+      "Pour un enregistrement d'écran, déconnectez le Bluetooth et montez le volume multimédia au maximum avant de commencer.",
+      "Protégez le téléphone du vent avec votre corps ou votre main."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Pourquoi ma vidéo n'est-elle faible que lorsque je l'envoie ?",
+      "answer": "Les messageries réencodent la vidéo et peuvent baisser légèrement le niveau, mais l'effet principal est que le téléphone du destinataire la lit à son niveau faible d'origine, pas avec votre haut-parleur à fond. Amplifiez le fichier avant de l'envoyer."
+    },
+    {
+      "question": "Une app d'amplification peut-elle rendre le haut-parleur de l'iPhone plus fort ?",
+      "answer": "Aucune app ne dépasse la limite physique du haut-parleur ni ne modifie le volume de tout le système ; Apple ne le permet pas. Les amplificateurs rendent le fichier plus fort, ce qui est exactement ce qu'il faut quand l'enregistrement est faible."
+    },
+    {
+      "question": "Le mode silencieux affecte-t-il le volume des vidéos ?",
+      "answer": "Non. Le bouton Sonnerie/Silence (ou le bouton Action) ne coupe que les sonneries et les alertes. Le volume multimédia se règle avec les boutons de volume pendant la lecture."
+    }
+  ],
+  "related": [
+    "comment-augmenter-le-son-d-une-video-sur-iphone",
+    "enregistrement-ecran-iphone-son-trop-faible",
+    "augmenter-volume-sans-perte-de-qualite"
+  ]
+}

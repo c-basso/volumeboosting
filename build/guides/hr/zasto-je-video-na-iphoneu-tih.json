@@ -1,0 +1,115 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "zašto je video tih",
+  "priority": 7,
+  "keywords": "zašto je video tih, video na iPhoneu tih, snimljeni video se ne čuje, mikrofon iPhone tih, video nema dovoljno zvuka",
+  "title": "Zašto je video na iPhoneu tako tih? 7 uzroka i rješenje",
+  "description": "Tih zvuk u videu najčešće dolazi od udaljenosti, pokrivenog mikrofona, vjetra, Bluetootha ili ograničenja slušalica. Pronađi uzrok i pojačaj video do 10×.",
+  "h1": "Zašto je video na mom iPhoneu tih? Uzroci i rješenje",
+  "eyebrow": "Rješavanje problema",
+  "card_title": "Zašto je moj video tih?",
+  "card_summary": "Sedam uzroka, od pokrivenog mikrofona do ograničenja slušalica, i kako spasiti video koji si već snimio.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Video na iPhoneu je tih jer je *snimljen* tiho (govornik daleko od mikrofona, mikrofon pokriven maskom ili prstom, vjetar, utišana aplikacija tijekom snimanja zaslona) ili jer se *reproducira* tiho (spojen Bluetooth uređaj, uključeno Smanji glasan zvuk, prljav zvučnik). Prvo provjeri reprodukciju drugim videom. Ako je sama snimka tiha, nijedna je postavka neće popraviti; pojačaj je do 10× uz Pojačaj Glasnoću Zvuka i spremi glasniju kopiju.",
+  "intro": [
+    "Najprije otkrij koju vrstu „tihog” imaš. Pusti neki drugi video za koji znaš da je u redu. Ako zvuči glasno, telefon je u redu, a problem je u snimci. Ako sve zvuči tiho, riječ je o problemu reprodukcije na telefonu. Uzroci i rješenja potpuno su različiti, pa ta provjera od trideset sekundi štedi puno vremena.",
+    "Ispod je sedam uzroka koje najčešće viđamo, poredanih po učestalosti."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/1.webp",
+    "alt": "Promotivna slika „Volume Booster Sound Amplifier ×10 Louder” aplikacije Pojačaj Glasnoću Zvuka za iPhone",
+    "caption": "Ako je sama snimka tiha, rješenje je pojačati datoteku."
+  },
+  "sections": [
+    {
+      "heading": "Uzroci pri snimanju (video je tih posvuda)",
+      "paragraphs": [
+        "Ovi su upisani u datoteku. Objašnjavaju zašto je video tih na svakom telefonu kojem ga pošalješ."
+      ],
+      "list": [
+        "Udaljenost: mikrofoni telefona prilagođeni su nekome na oko metar udaljenosti. Osoba na drugom kraju prostorije zvuči tiho i s jekom.",
+        "Pokriven mikrofon: glavni mikrofon za video nalazi se kraj stražnjih kamera; debela maska, prst ili držač mogu ga pokriti. Snimka je tiha i prigušena.",
+        "Vjetar i pozadinska buka: u buci iPhone smanjuje osjetljivost i govornik zvuči tiše.",
+        "Razina snimanja zaslona: iOS hvata zvuk aplikacija na smanjenoj razini, još više ako je aplikacija bila utišana ili su bile spojene Bluetooth slušalice.",
+        "Primljeni isječci: video poslan WhatsAppom ili Messengerom ponovno se kodira i ponekad stigne tiši od izvornika."
+      ]
+    },
+    {
+      "id": "reprodukcija",
+      "heading": "Uzroci pri reprodukciji (svi videi su tihi na ovom telefonu)",
+      "paragraphs": [
+        "Zbog ovih tvoj telefon zvuči tiho; datoteka je u redu i drugdje će zvučati normalno."
+      ],
+      "list": [
+        "Bluetooth još spojen: zvuk ide u AirPods u ladici ili u auto. Otvori Kontrolni centar i provjeri audioizlaz.",
+        "Smanji glasan zvuk: Postavke › Zvukovi i dodir › Sigurnost slušalica ograničava glasnoću slušalica. To je dobra zaštita, ali tihi videi u slušalicama zvuče još tiše.",
+        "Značajke pažnje (iPhone s Face ID-jem): Postavke › Face ID i šifra utišavaju upozorenja kad gledaš u zaslon; nekima se i videi čine tišima.",
+        "Prljava rešetka zvučnika ili ostaci vode: mekana suha četkica vrati iznenađujuće puno glasnoće.",
+        "Balans: Postavke › Pristupačnost › Zvuk i vizualno › Balans mora biti u sredini."
+      ]
+    },
+    {
+      "heading": "Rješenje za video snimljen tiho",
+      "paragraphs": [
+        "Trenutak ne možeš ponoviti, a postavke iPhonea ne mijenjaju spremljenu datoteku. Fotografije nemaju kontrolu glasnoće; iMovie pojačava isječak do oko 500 % nakon što napraviš projekt. Pojačaj Glasnoću Zvuka otvara video izravno iz Fotografija, množi zvuk do ×10, omogućuje usporedbu Izvorno/Obrađeno i sprema novu kopiju. Glasnija kopija glasno zvuči na svakom uređaju i u svakoj aplikaciji.",
+        "Ako je uzrok bio pokriven mikrofon, pojačanje popravlja razinu, ali ne i prigušenost; uključi „Poboljšaj kvalitetu zvuka” da pomogneš govoru."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Korak po korak: spasi tihi video",
+    "intro": "Jedna minuta uz besplatnu aplikaciju Pojačaj Glasnoću Zvuka.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Potvrdi da je problem u snimci",
+        "text": "Pusti drugi video. Ako zvuči glasno, nastavi; ako ne, najprije riješi uzroke reprodukcije iznad."
+      },
+      {
+        "name": "Podijeli video s aplikacijom",
+        "text": "Otvori ga u Fotografijama, dodirni Podijeli i odaberi Increase Volume."
+      },
+      {
+        "name": "Pojačaj",
+        "text": "Postavi „Množitelj glasnoće” na ×4 za početak (više za vrlo tihe isječke), uključi „Poboljšaj kvalitetu zvuka” za govor i dodirni „Pojačaj glasnoću”."
+      },
+      {
+        "name": "Usporedi",
+        "text": "Prebacuj Izvorno/Obrađeno na najglasnijem trenutku i prilagodi množitelj ako treba."
+      },
+      {
+        "name": "Spremi",
+        "text": "Dodirni „Preuzmi obrađeno” → Spremi video. Dijeli novu kopiju umjesto izvornika."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Sljedeći put snimi glasnije",
+    "items": [
+      "Približi se govorniku na dužinu ruke ili koristi bubica-mikrofon, žičani ili bežični.",
+      "Skini masku ili provjeri da ništa ne pokriva stražnje mikrofone.",
+      "Kod snimanja zaslona odspoji Bluetooth i prije početka pojačaj glasnoću medija do kraja.",
+      "Zaštiti telefon od vjetra tijelom ili rukom."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Zašto je moj video tih samo kad ga pošaljem?",
+      "answer": "Aplikacije za poruke ponovno kodiraju video i mogu malo spustiti razinu, ali glavni je učinak to što ga telefon primatelja reproducira na izvornoj tihoj razini, a ne s tvojim zvučnikom na maksimumu. Pojačaj datoteku prije slanja."
+    },
+    {
+      "question": "Može li aplikacija za pojačanje učiniti zvučnik iPhonea glasnijim?",
+      "answer": "Nijedna aplikacija ne prelazi fizičku granicu zvučnika niti mijenja glasnoću cijelog sustava; Apple to ne dopušta. Pojačivači pojačavaju datoteku, a upravo to trebaš kad je snimka tiha."
+    },
+    {
+      "question": "Utječe li prekidač za utišavanje na glasnoću videa?",
+      "answer": "Ne. Prekidač Zvono/Tiho (ili tipka Radnja) utišava samo zvona i upozorenja. Glasnoću medija mijenjaš tipkama za glasnoću dok video svira."
+    }
+  ],
+  "related": [
+    "kako-pojacati-zvuk-videa-na-iphoneu",
+    "snimka-zaslona-pretiha-iphone",
+    "pojacati-glasnocu-bez-gubitka-kvalitete"
+  ]
+}

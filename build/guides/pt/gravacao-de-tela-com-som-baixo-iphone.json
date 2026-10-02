@@ -1,0 +1,100 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "gravação de tela com som baixo iPhone",
+  "priority": 3,
+  "keywords": "gravação de tela com som baixo iPhone, gravação de tela sem som, como aumentar o som da gravação de tela, som baixo na gravação de tela, aumentar volume gravação de tela",
+  "title": "Gravação de tela com som baixo no iPhone? Veja como resolver",
+  "description": "Por que o iPhone grava o som dos apps tão baixo? Os ajustes para conferir antes da próxima gravação de tela e como deixar uma gravação pronta até 10× mais alta.",
+  "h1": "Gravação de tela com som baixo no iPhone: causa e solução",
+  "eyebrow": "Gravação de tela",
+  "card_title": "Gravação de tela baixa",
+  "card_summary": "O iOS grava o som dos apps mais baixo do que você ouve. Melhore a próxima gravação e amplifique a que você já tem ×5–×10.",
+  "quick_answer": "O iOS grava o som dos apps num nível reduzido, ainda mais baixo com volume baixo ou fones Bluetooth conectados. Na próxima vez, desconecte o Bluetooth e aumente o volume antes de tocar em Gravação de Tela na Central de Controle. Para uma gravação que você já tem: compartilhe o vídeo do Fotos para Increase Volume, amplifique ×5–×10 e toque em «Baixar processado».",
+  "intro": [
+    "A gravação de tela de um jogo, tutorial ou chamada de vídeo fica perfeita, mas o som mal aparece quando você assiste. Não é culpa sua: o iOS grava o som do sistema mais baixo do que você ouve enquanto grava.",
+    "Veja o que afeta o nível, como ter uma próxima gravação melhor e como salvar a que você já fez."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/pt/4.webp",
+    "alt": "Detalhes da faixa no app Aumentar Volume com o botão «Melhorar qualidade do áudio», o controle «Multiplicação do volume ×10» e o botão «Amplificar volume para ×10»",
+    "caption": "Escolha a multiplicação para a gravação de tela e toque em «Amplificar volume»."
+  },
+  "sections": [
+    {
+      "heading": "Por que as gravações de tela ficam com som baixo",
+      "paragraphs": [
+        "A gravação de tela do iOS captura o som do app internamente. O nível segue em parte o volume do sistema, então uma gravação feita com volume baixo sai baixa. Com fones Bluetooth conectados, o som do app pode ser gravado mais fraco ou nem ser gravado, e muitos apps (streaming, chamadas) bloqueiam ou silenciam o som na gravação de tela."
+      ]
+    },
+    {
+      "heading": "Como ter som melhor na próxima gravação",
+      "paragraphs": [],
+      "list": [
+        "Desconecte os fones Bluetooth antes de começar.",
+        "Aumente bem o volume de mídia antes de tocar em Gravação de Tela.",
+        "Quer gravar também a sua voz: toque e segure o botão de Gravação de Tela na Central de Controle e ative o Microfone.",
+        "Desative o Foco / Não Perturbe para que notificações não interrompam o som."
+      ],
+      "ordered": false,
+      "note": "Os nomes dos botões podem variar um pouco entre versões do iOS."
+    },
+    {
+      "heading": "Já tem uma gravação baixa? Amplifique o arquivo",
+      "paragraphs": [
+        "Uma gravação de tela pronta é um vídeo comum no Fotos. O app Aumentar Volume abre esse vídeo, multiplica a trilha de áudio até 10× e salva uma nova cópia ao lado do original. A imagem não muda."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Aumente o som de uma gravação de tela com o app",
+    "intro": "Cerca de um minuto numa gravação curta.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Compartilhe a gravação com o app",
+        "text": "Abra a gravação de tela no Fotos, toque em Compartilhar e escolha Increase Volume."
+      },
+      {
+        "name": "Escolha o nível",
+        "text": "Gravações de tela costumam precisar de ×5–×8. Se for fala (tutorial), ative «Melhorar qualidade do áudio»."
+      },
+      {
+        "name": "Amplifique e compare",
+        "text": "Toque em «Amplificar volume para ×N» e alterne entre Original e Processado."
+      },
+      {
+        "name": "Salve",
+        "text": "Toque em «Baixar processado» → Salvar Vídeo. A cópia mais alta vai para o Fotos."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Dicas",
+    "items": [
+      "Se a gravação tem som de jogo e voz, amplifique com moderação (×3–×5) para as explosões do jogo não estourarem.",
+      "Uma gravação de tela sem trilha de áudio não pode ser amplificada; é preciso gravar de novo com som.",
+      "Amplifique antes de editar no iMovie ou no CapCut; assim você trabalha com um sinal forte o tempo todo."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Por que minha gravação de tela ficou sem som?",
+      "answer": "O app pode bloquear a gravação de som (streaming, chamadas), ou o som foi para fones Bluetooth. Confira também se o microfone estava ativado, caso você quisesse gravar sua voz."
+    },
+    {
+      "question": "Dá para aumentar o som de uma gravação de tela depois?",
+      "answer": "Sim. Compartilhe o vídeo do Fotos para o app Aumentar Volume, amplifique ×5–×10 e salve a cópia mais alta."
+    },
+    {
+      "question": "A imagem perde qualidade?",
+      "answer": "Não. Só a trilha de áudio muda; a imagem é copiada como está."
+    }
+  ],
+  "related": [
+    "como-aumentar-volume-de-video-no-iphone",
+    "por-que-meu-video-esta-baixo",
+    "aumentar-volume-de-video-do-tiktok"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

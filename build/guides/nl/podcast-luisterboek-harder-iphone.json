@@ -1,0 +1,127 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "luisterboek te zacht",
+  "priority": 12,
+  "keywords": "luisterboek te zacht, podcast harder maken iPhone, podcast te zacht, luisterboek volume verhogen, college-opname te zacht",
+  "title": "Een podcast of luisterboek harder maken op je iPhone",
+  "description": "Podcast, luisterboek of college te zacht? Gebruik bij streamen de spraakversterking van je speler; eigen bestanden maak je tot 10× harder met Audioversterker.",
+  "h1": "Een podcast of luisterboek harder maken op iPhone",
+  "eyebrow": "Podcasts en luisterboeken",
+  "card_title": "Podcast of luisterboek harder maken",
+  "card_summary": "Spelerinstellingen voor streamen; echte bestandsversterking voor afleveringen en hoofdstukken in MP3 of M4A.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Voor afleveringen die je streamt in een podcastapp gebruik je de volumefunctie van die app (Voice Boost in Overcast, Volume Boost in Pocket Casts; Apple Podcasts heeft er geen). Afleveringen, luisterboekhoofdstukken of colleges die je als bestand hebt (MP3, M4A, MP4 in Bestanden of iCloud Drive) open je in Audioversterker, zet 'Audiokwaliteit verbeteren' aan, versterk je ×3–×10, vergelijk je Origineel en Verwerkt en tik je op 'Verwerkt bestand downloaden' om een luidere kopie te bewaren die in elke app speelt.",
+  "intro": [
+    "Opgenomen spraak heeft een volumeprobleem: podcasts horen rond −16 LUFS gemasterd te zijn, maar onafhankelijke shows, opgenomen colleges en oudere luisterboeken zijn vaak veel zachter, en een zacht pratende gast verdwijnt naast een luide presentator. In de trein of de auto betekent dat steeds aan het volume zitten.",
+    "De oplossing hangt af van waar het geluid zit: in een streamingapp of in een bestand dat je zelf beheert."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Schermafbeelding van de projectenlijst in Audioversterker met MP3-bestanden en video's",
+    "caption": "Versterk een hele reeks afleveringen of hoofdstukken; elk blijft in de projectenlijst staan."
+  },
+  "sections": [
+    {
+      "heading": "Streamen in een podcastapp",
+      "paragraphs": [
+        "Geluid in een streamingapp kun je niet bewerken, maar verschillende spelers verwerken het volume live:"
+      ],
+      "list": [
+        "Overcast: Voice Boost normaliseert en comprimeert spraak; aan te zetten per show of voor alles.",
+        "Pocket Casts: Volume Boost en Trim Silence in de afspeeleffecten.",
+        "Spotify: Volumeniveau normaliseren in de afspeelinstellingen.",
+        "Apple Podcasts: geen volumefunctie. Geluidscontrole in Instellingen › Muziek geldt alleen voor muziek, niet voor podcasts."
+      ],
+      "note": "Deze functies werken alleen tijdens het afspelen in die app. Ze veranderen het bestand niet, dus als je de aflevering ergens anders heen zet, verbetert er niets."
+    },
+    {
+      "heading": "Gedownloade bestanden",
+      "paragraphs": [
+        "Veel podcasts bieden een directe MP3-download op hun website, cursusplatforms exporteren MP3 of MP4, en luisterboeken zonder DRM (LibriVox, winkels die downloadbare MP3's verkopen of je eigen kopieën) komen als MP3 of M4B. Staat het bestand in Bestanden of iCloud Drive, dan opent Audioversterker het, vermenigvuldigt het niveau tot ×10 en bewaart een nieuwe kopie. 'Audiokwaliteit verbeteren' is gemaakt voor spraak, dus hier komt het het best tot zijn recht."
+      ],
+      "note": "Luisterboeken van Audible, Apple Books, Storytel of BookBeat en downloads binnen Apple Podcasts of Spotify zijn kopieerbeveiligd en kunnen door geen andere app worden geïmporteerd."
+    },
+    {
+      "heading": "Welke vermenigvuldiging voor spraak",
+      "table": {
+        "head": [
+          "Bron",
+          "Gebruikelijke vermenigvuldiging"
+        ],
+        "rows": [
+          [
+            "Professionele podcast die alleen wat zacht is",
+            "×1,5 – ×2"
+          ],
+          [
+            "Onafhankelijke show of interview met zachte gast",
+            "×3 – ×5"
+          ],
+          [
+            "College of vergadering op afstand opgenomen",
+            "×6 – ×10"
+          ],
+          [
+            "Oude kopie van een luisterboek",
+            "×2 – ×4"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Stap voor stap: een aflevering of hoofdstuk harder maken",
+    "intro": "Voor bestanden in Bestanden, iCloud Drive, Dropbox of ontvangen per e-mail.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Voeg het bestand toe",
+        "text": "Open Audioversterker en voeg de aflevering toe uit Bestanden, of houd in Bestanden het bestand ingedrukt → Deel → Increase Volume."
+      },
+      {
+        "name": "Zet Audiokwaliteit verbeteren aan",
+        "text": "Het is spraak; de schakelaar houdt medeklinkers helder na het versterken."
+      },
+      {
+        "name": "Kies de vermenigvuldiging",
+        "text": "Ga uit van de tabel hierboven en tik op 'Volume versterken'."
+      },
+      {
+        "name": "Vergelijk",
+        "text": "Wissel tussen Origineel/Verwerkt op het hardste stuk (tune, gelach)."
+      },
+      {
+        "name": "Verwerkt bestand downloaden",
+        "text": "Bewaar in Bestanden. Speel het versterkte bestand af vanuit Bestanden, Boeken (luisterboeken) of elke speler die lokale audio opent."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Versterk alle hoofdstukken van een luisterboek met dezelfde vermenigvuldiging zodat het volume niet springt tussen hoofdstukken.",
+      "Voor colleges als video (MP4) zijn de stappen hetzelfde; het beeld verandert niet.",
+      "Heeft een bestand een harde tune en zachte spraak, kies de vermenigvuldiging dan op de spraak en accepteer een iets gecomprimeerde tune met 'Audiokwaliteit verbeteren' aan."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan ik Apple Podcasts harder zetten?",
+      "answer": "Apple Podcasts heeft geen volume-instelling of spraakversterking. Stap over op een speler die dat wel heeft (Overcast, Pocket Casts) of download de MP3 van de aflevering van de website van de show en versterk het bestand met Audioversterker."
+    },
+    {
+      "question": "Kan ik een luisterboek van Audible of Storytel harder maken?",
+      "answer": "Nee. Die bestanden zijn versleuteld en openen niet in andere apps. Gebruik de geluidsinstellingen van hun eigen speler, als die er zijn."
+    },
+    {
+      "question": "Houdt de versterkte aflevering hoofdstukken en artwork?",
+      "answer": "Audioversterker verwerkt het geluid en maakt een nieuw bestand. Basismetadata zoals de titel blijft behouden als het formaat dat toelaat; hoofdstukmarkeringen kunnen verloren gaan."
+    }
+  ],
+  "related": [
+    "mp3-harder-maken-iphone",
+    "dictafoon-opname-harder-maken",
+    "harder-maken-zonder-kwaliteitsverlies"
+  ]
+}

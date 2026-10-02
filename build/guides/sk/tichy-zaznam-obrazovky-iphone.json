@@ -1,0 +1,100 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "tichý záznam obrazovky iPhone",
+  "priority": 3,
+  "keywords": "tichý záznam obrazovky iPhone, nahrávanie obrazovky bez zvuku, ako zosilniť záznam obrazovky, tichý zvuk pri nahrávaní obrazovky, hlasitosť záznamu obrazovky",
+  "title": "Tichý zvuk v zázname obrazovky na iPhone? Ako to opraviť",
+  "description": "Prečo iPhone nahráva zvuk aplikácií tak ticho? Čo skontrolovať pred ďalším nahrávaním obrazovky a ako spraviť hotový záznam až 10× hlasnejším za minútu.",
+  "h1": "Tichý zvuk v zázname obrazovky na iPhone: príčina a riešenie",
+  "eyebrow": "Nahrávanie obrazovky",
+  "card_title": "Tichý záznam obrazovky",
+  "card_summary": "iOS nahráva zvuk aplikácií tichšie, ako ho počuješ. Oprav ďalší záznam a ten, čo už máš, zosilni ×5–×10.",
+  "quick_answer": "iOS nahráva zvuk aplikácií na zníženej úrovni a pri nízkej hlasitosti alebo pripojených Bluetooth slúchadlách ešte tichšie. Nabudúce odpoj Bluetooth a pridaj hlasitosť skôr, než ťukneš na Nahrávanie obrazovky v Ovládacom centre. Pre záznam, ktorý už máš: zdieľaj video z Fotiek do Increase Volume, zosilni ×5–×10 a ťukni na „Stiahnuť spracované“.",
+  "intro": [
+    "Záznam obrazovky z hry, návodu alebo videohovoru vyzerá dokonale, ale zvuk pri prehrávaní takmer nepočuť. Nie je to tvoja chyba: iOS nahráva systémový zvuk tichšie, ako ho počuješ počas nahrávania.",
+    "Tu je, čo ovplyvňuje úroveň, ako dosiahnuť lepší ďalší záznam a ako zachrániť to, čo už máš nahraté."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Detail skladby vo Volume Boost s prepínačom „Vylepšiť kvalitu zvuku“, posúvačom „Násobok hlasitosti ×10“ a tlačidlom „Zosilniť hlasitosť na ×10“",
+    "caption": "Vyber násobok pre záznam obrazovky a ťukni na „Zosilniť hlasitosť“."
+  },
+  "sections": [
+    {
+      "heading": "Prečo majú záznamy obrazovky tichý zvuk",
+      "paragraphs": [
+        "Nahrávanie obrazovky v iOS zachytáva zvuk aplikácie interne. Úroveň čiastočne sleduje systémovú hlasitosť, takže záznam pri nízkej hlasitosti vyjde tichý. S pripojenými Bluetooth slúchadlami sa zvuk aplikácie môže nahrať slabšie alebo vôbec, a mnoho aplikácií (streamovanie, hovory) zvuk v zázname obrazovky blokuje či stlmí."
+      ]
+    },
+    {
+      "heading": "Ako dosiahnuť lepší zvuk v ďalšom zázname",
+      "paragraphs": [],
+      "list": [
+        "Pred začatím odpoj Bluetooth slúchadlá.",
+        "Pridaj hlasitosť médií skôr, než ťukneš na Nahrávanie obrazovky.",
+        "Ak chceš nahrať aj svoj hlas: podrž tlačidlo nahrávania obrazovky v Ovládacom centre a zapni Mikrofón.",
+        "Vypni Režim sústredenia / Nerušiť, aby notifikácie neprerušovali zvuk."
+      ],
+      "ordered": false,
+      "note": "Názvy tlačidiel sa môžu v rôznych verziách iOS mierne líšiť."
+    },
+    {
+      "heading": "Už máš tichý záznam? Zosilni súbor",
+      "paragraphs": [
+        "Hotový záznam obrazovky je bežné video vo Fotkách. Volume Boost ho otvorí, vynásobí zvukovú stopu až 10× a uloží novú kópiu vedľa originálu. Obraz sa nezmení."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Zosilni záznam obrazovky vo Volume Boost",
+    "intro": "Asi minúta pri krátkom zázname.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Zdieľaj záznam do aplikácie",
+        "text": "Otvor záznam obrazovky vo Fotkách, ťukni na Zdieľať a vyber Increase Volume."
+      },
+      {
+        "name": "Vyber úroveň",
+        "text": "Záznamy obrazovky často potrebujú ×5–×8. Ak ide o reč (návod), zapni „Vylepšiť kvalitu zvuku“."
+      },
+      {
+        "name": "Zosilni a porovnaj",
+        "text": "Ťukni na „Zosilniť hlasitosť na ×N“ a prepínaj Pôvodné a Spracované."
+      },
+      {
+        "name": "Ulož",
+        "text": "Ťukni na „Stiahnuť spracované“ → Uložiť video. Hlasnejšia kópia pôjde do Fotiek."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Ak má záznam zvuk hry aj hlas, zosilňuj mierne (×3–×5), aby výbuchy v hre nechrčali.",
+      "Záznam obrazovky úplne bez zvukovej stopy sa zosilniť nedá; treba ho nahrať znova so zvukom.",
+      "Zosilňuj pred strihom v iMovie či CapCut; tak celý čas pracuješ so silným signálom."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Prečo môj záznam obrazovky nemá zvuk?",
+      "answer": "Aplikácia môže nahrávanie zvuku blokovať (streamovanie, hovory) alebo zvuk išiel do Bluetooth slúchadiel. Skontroluj aj, či bol zapnutý mikrofón, ak si chcel nahrať svoj hlas."
+    },
+    {
+      "question": "Dá sa záznam obrazovky zosilniť dodatočne?",
+      "answer": "Áno. Zdieľaj video z Fotiek do Volume Boost, zosilni ×5–×10 a ulož hlasnejšiu kópiu."
+    },
+    {
+      "question": "Zhorší sa obraz?",
+      "answer": "Nie. Mení sa len zvuková stopa; obraz sa skopíruje tak, ako je."
+    }
+  ],
+  "related": [
+    "ako-zosilnit-zvuk-videa-na-iphone",
+    "preco-je-video-potichu",
+    "hlasnejsie-video-na-tiktok"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

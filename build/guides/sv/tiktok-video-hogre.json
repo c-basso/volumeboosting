@@ -1,0 +1,99 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "göra TikTok-video högre",
+  "priority": 8,
+  "keywords": "göra TikTok-video högre, TikTok lågt ljud, höja ljudet på TikTok-video, ljudet för lågt TikTok, Reels ljud högre",
+  "title": "Gör en TikTok-video högre innan du lägger upp den (10×)",
+  "description": "TikToks redigerare kan inte höja originalljudet över 100 %. Så förstärker du videon upp till 10× i Volymförstärkare före uppladdning och balanserar mot musiken.",
+  "h1": "Så gör du en TikTok-video högre",
+  "eyebrow": "TikTok och Reels",
+  "card_title": "TikTok-video högre",
+  "card_summary": "TikTok stannar vid 100 % originalljud. Förstärk klippet före uppladdning så att rösten hörs över musiken.",
+  "quick_answer": "TikTok låter dig sänka originalljudet men inte höja det över 100 %. För en högre TikTok: förstärk klippet först. Dela videon från Bilder till Increase Volume, förstärk ×3–×6, tryck på «Hämta bearbetad» → Spara video och ladda upp den högre kopian i TikTok. Balansera sedan originalljud och musik under Volym.",
+  "intro": [
+    "Ingen sveper vidare snabbare än när de inte hör vad du säger. TikTok och Instagram Reels jämnar ut ljudnivån men lyfter inte ett klipp som kommer in för tyst, och i TikToks redigerare är 100 % originalljud taket.",
+    "Lösningen är att göra klippet högre innan det laddas upp."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Delningsbladet i iOS med Kopiera, Lägg till taggar och Spara i Filer för den förstärkta filen",
+    "caption": "Spara den högre kopian i Bilder och ladda upp den i TikTok."
+  },
+  "sections": [
+    {
+      "heading": "Varför TikTok-videon blir tyst",
+      "paragraphs": [
+        "Telefonmikrofonen fångar tal lågt när du filmar på armlängds avstånd eller utomhus. Lägger du på musik drunknar rösten. TikToks volymreglage kan bara sänka: originalljudet går från 0 till 100 %."
+      ]
+    },
+    {
+      "heading": "Arbetsflöde: förstärk först, redigera sedan",
+      "paragraphs": [],
+      "list": [
+        "Filma som vanligt med iPhone-kameran.",
+        "Förstärk klippet i Volymförstärkare (×3–×6 för tal).",
+        "Ladda upp den högre kopian i TikTok eller Instagram.",
+        "Lägg till musik och sänk den till runt 20–40 % under Volym."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Fungerar det med Reels och Shorts?",
+      "paragraphs": [
+        "Ja. Den förstärkta filen är en vanlig video, så den fungerar i Instagram Reels, YouTube Shorts, Snapchat och CapCut."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Steg för steg: förstärk ett TikTok-klipp",
+    "intro": "Gör detta före uppladdning.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Dela klippet till appen",
+        "text": "I Bilder: Dela → Increase Volume."
+      },
+      {
+        "name": "Välj nivå",
+        "text": "Tal: ×3–×6 med «Förbättra ljudkvalitet». Mycket tyst: upp till ×10."
+      },
+      {
+        "name": "Boosta och jämför",
+        "text": "Tryck på «Boosta volymen till ×N» och lyssna med Original/Bearbetad."
+      },
+      {
+        "name": "Spara och ladda upp",
+        "text": "«Hämta bearbetad» → Spara video, och välj den nya kopian i TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips för TikTok",
+    "items": [
+      "Undertexter hjälper dem som tittar utan ljud, men ljud som hörs håller kvar tittarna.",
+      "Gå inte över ×6 om klippet har rop eller skratt.",
+      "Sparade TikTok-videor med vattenstämpel kan också förstärkas, men originalfilen ger bäst kvalitet."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan jag höja volymen över 100 % i TikTok?",
+      "answer": "Nej. TikToks redigerare kan bara sänka originalljudet. Förstärk klippet före uppladdning."
+    },
+    {
+      "question": "Blir videokvaliteten sämre?",
+      "answer": "Nej, bilden ändras inte. TikTok komprimerar vid uppladdning ändå."
+    },
+    {
+      "question": "Fungerar det med Instagram Reels?",
+      "answer": "Ja, den förstärkta filen fungerar i alla appar."
+    }
+  ],
+  "related": [
+    "gor-ljudet-pa-en-video-hogre-iphone",
+    "skarminspelning-for-lagt-ljud-iphone",
+    "hoj-volymen-pa-video-i-bilder"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

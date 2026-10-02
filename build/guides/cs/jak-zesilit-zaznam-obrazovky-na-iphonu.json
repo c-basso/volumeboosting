@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "záznam obrazovky iPhone potichu",
+  "priority": 3,
+  "keywords": "záznam obrazovky iPhone potichu, tichý zvuk záznamu obrazovky, zesílit záznam obrazovky, záznam obrazovky se zvukem iPhone, nahrávání obrazovky tichý zvuk",
+  "title": "Záznam obrazovky na iPhonu je potichu? Jak ho zesílit",
+  "description": "Záznamy obrazovky z iPhonu bývají moc tiché. Zjisti proč, jak příště nahrávat hlasitěji a jak hotový záznam zesílit až 10× v aplikaci Increase Volume.",
+  "h1": "Jak zesílit záznam obrazovky na iPhonu",
+  "eyebrow": "Záznam obrazovky",
+  "card_title": "Zesílit tichý záznam obrazovky",
+  "card_summary": "iOS nahrává zvuk aplikací potichu. Hotový záznam opravíš za minutu a příště nahraješ hlasitěji.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Hotový záznam obrazovky na iPhonu nastavením systému nezesílíš, ale můžeš zesílit soubor: otevři ho v Increase Volume, posuň jezdec „Násobek hlasitosti“ na ×5–×10, klepni na „Zesílit hlasitost“, zkontroluj verzi Zpracované a klepni na „Stáhnout zpracované“. Aby byl příští záznam hlasitější, zvyš před nahráváním hlasitost médií, odpoj Bluetooth sluchátka a pro komentář podrž tlačítko Záznam obrazovky v Ovládacím centru a zapni mikrofon.",
+  "intro": [
+    "Záznamy obrazovky jsou nejtišší videa, jaká iPhone vůbec vytvoří. iOS zachytává zvuk aplikací v opatrné úrovni, aby nedocházelo ke zkreslení, a když máš připojená sluchátka nebo stažený zvuk v aplikaci, může být zachycená stopa skoro neslyšná. Přidej k tomu komentář přes mikrofon a mix je ještě nevyrovnanější.",
+    "Níže najdeš důvody, proč je záznam tichý, co změnit před dalším nahráváním a jak zachránit záznam, který už máš."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Increase Volume na iPhonu s jezdcem Násobek hlasitosti ×10 a tlačítkem Zesílit hlasitost",
+    "caption": "Záznamy obrazovky obvykle potřebují silné zesílení; ×5 až ×10 je běžné."
+  },
+  "sections": [
+    {
+      "heading": "Proč jsou záznamy obrazovky na iPhonu tak tiché",
+      "paragraphs": [
+        "Skoro vždy jde o jednu z těchto čtyř příčin:"
+      ],
+      "list": [
+        "Úroveň zachycení: iOS nahrává interní zvuk aplikací sníženě, aby hlasité hry a videa nepraskaly.",
+        "Bluetooth: když jsou připojené AirPods nebo Bluetooth reproduktor, zachycený zvuk bývá mnohem tišší nebo úplně chybí.",
+        "Hlasitost v aplikaci: záznam zachytí zvuk v hlasitosti, kterou jsi měl nastavenou. Pokud byl telefon na 30 %, záznam je na 30 %.",
+        "Mix s mikrofonem: když zapneš mikrofon, smíchá se tvůj hlas se zvukem aplikace a iOS zvuk aplikace ztiší, aby hlas vynikl."
+      ]
+    },
+    {
+      "heading": "Jak příště nahrávat hlasitěji",
+      "paragraphs": [
+        "Než klepneš na nahrávání: odpoj Bluetooth zvuk, zvyš hlasitost médií na maximum a ztiš oznámení režimem soustředění. Pokud chceš komentář, podrž v Ovládacím centru tlačítko Záznam obrazovky a klepni na Mikrofon, aby zčervenal; obyčejné klepnutí nahrává jen zvuk aplikace. Pětivteřinový zkušební záznam ti hned řekne, jestli je úroveň v pořádku."
+      ]
+    },
+    {
+      "heading": "Jak opravit záznam, který už máš",
+      "paragraphs": [
+        "Nastavení systému uložený soubor nezmění. iMovie ho zesílí zhruba na 500 %, což někdy stačí, ale musíš vytvořit projekt a znovu exportovat. Increase Volume jde až na ×10, pracuje přímo se souborem z Fotek a přepínačem Původní/Zpracované ti dovolí poslechnout zesílenou úroveň před uložením. U návodů s komentářem zapni „Vylepšit kvalitu zvuku“, aby byl hlas srozumitelnější."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Postup: jak zesílit záznam obrazovky",
+    "intro": "Potřebuješ bezplatnou aplikaci Increase Volume a záznam obrazovky ve Fotkách.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Pošli záznam do aplikace",
+        "text": "Otevři záznam obrazovky ve Fotkách, klepni na Sdílet a vyber Increase Volume. Nebo otevři aplikaci a přidej soubor z Fotek."
+      },
+      {
+        "name": "U komentáře zapni Vylepšit kvalitu zvuku",
+        "text": "Pokud jsi do záznamu mluvil, zapni „Vylepšit kvalitu zvuku“, aby řeč zůstala po zesílení čistá."
+      },
+      {
+        "name": "Nastav násobek",
+        "text": "Začni s „Násobkem hlasitosti“ na ×5. Záznamy obrazovky bývají hluboko pod běžnou úrovní, takže ×8–×10 je normální. Klepni na „Zesílit hlasitost“."
+      },
+      {
+        "name": "Poslechni Zpracované",
+        "text": "Přepni na Zpracované a pusť nejhlasitější část záznamu. Pokud zní ostře, násobek sniž."
+      },
+      {
+        "name": "Stáhni zpracované",
+        "text": "Klepni na „Stáhnout zpracované“ a zvol Uložit video, aby se hlasitější záznam přidal do Fotek, nebo ho rovnou pošli na YouTube, do Slacku, Zpráv či editoru."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Zesil záznam dřív, než ho budeš stříhat nebo přidávat titulky v jiném editoru; hlasitější zdroj dá všem dalším nástrojům víc prostoru.",
+      "U herních záznamů s hudbou drž zesílení střední (×3–×4), aby hudba nepraskala a celek byl přesto hlasitější.",
+      "Pokud je záznam úplně bez zvuku, a ne jen tichý, zvuk se vůbec nezachytil (obvykle ztlumená aplikace nebo video chráněné DRM). Žádný zesilovač nepřidá zvuk, který se nenahrál."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Proč záznam obrazovky na iPhonu nemá vůbec zvuk?",
+      "answer": "Buď aplikace, kterou nahráváš, při záznamu obrazovky zvuk vypíná (dělají to streamovací a videohovorové aplikace), nebo bylo video chráněné DRM, případně byla hlasitost médií na nule. Tichou stopu bez zvuku zesílit nejde; nahraj znovu s puštěným zvukem a zvýšenou hlasitostí."
+    },
+    {
+      "question": "Jde zesílit jen komentář z mikrofonu a ne zvuk hry?",
+      "answer": "Increase Volume zesiluje smíchanou stopu jako celek. Zapnutím „Vylepšit kvalitu zvuku“ se ale upřednostní srozumitelnost řeči, takže komentář po zesílení obvykle vynikne víc."
+    },
+    {
+      "question": "Změní zesílení rozlišení videa?",
+      "answer": "Ne. Zpracovává se jen zvuková stopa, obraz zůstává beze změny."
+    }
+  ],
+  "related": [
+    "jak-zesilit-zvuk-videa-na-iphonu",
+    "proc-je-video-z-iphonu-potichu",
+    "jak-zesilit-zvuk-videa-bez-ztraty-kvality"
+  ]
+}

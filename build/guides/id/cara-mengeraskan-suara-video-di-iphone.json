@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "cara mengeraskan suara video di iPhone",
+  "priority": 1,
+  "keywords": "cara mengeraskan suara video di iPhone, cara memperbesar volume video, suara video pelan, video iPhone suaranya kecil, aplikasi penguat suara video",
+  "title": "Cara Mengeraskan Suara Video di iPhone (hingga 10×)",
+  "description": "Keraskan video yang pelan di iPhone dalam kurang dari semenit: apa yang bisa dilakukan Foto dan iMovie, batasnya, dan cara mencapai 10× dengan Penguat Volume.",
+  "h1": "Cara mengeraskan suara video di iPhone",
+  "eyebrow": "Video",
+  "card_title": "Mengeraskan suara video",
+  "card_summary": "Foto tidak bisa mengeraskan suara dan iMovie berhenti di sekitar 500%. Begini cara mencapai 10× dengan satu slider.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Untuk mengeraskan suara video di iPhone, buka video di Penguat Volume (Increase Volume, gratis di App Store), geser slider «Pengali volume» hingga ×10, ketuk «Boost volume», bandingkan Asli dan Diproses, lalu ketuk «Unduh yang diproses». Salinan yang lebih keras disimpan ke Foto atau File dan terdengar keras di perangkat dan aplikasi mana pun. Aplikasi Foto tidak punya cara untuk mengeraskan suara, dan iMovie berhenti di sekitar 500%.",
+  "intro": [
+    "Anda merekam sebuah momen, mengirimkannya ke teman, dan balasannya: „Nggak kedengaran apa-apa.” Video bersuara pelan adalah salah satu masalah iPhone yang paling umum, karena solusinya tidak berada di tempat yang dicari orang. Tombol volume hanya mengubah seberapa keras iPhone Anda berbunyi, dan editor di Foto tidak punya kontrol volume sama sekali.",
+    "Panduan ini membahas tiga pilihan nyata di iPhone, apa yang bisa dan tidak bisa dilakukan masing-masing, lalu cara tercepat: melipatgandakan audio video hingga 10× dengan Penguat Volume dan menyimpan file yang lebih keras secara permanen."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/2.webp",
+    "alt": "Tangkapan layar „Make video louder”: jari menggeser slider merah muda di atas video di aplikasi Penguat Volume",
+    "caption": "Slider ada di atas pratinjau video. Geser, dengarkan, simpan."
+  },
+  "sections": [
+    {
+      "heading": "Mengapa menaikkan volume iPhone tidak memperbaiki video",
+      "paragraphs": [
+        "Tombol volume iPhone mengubah seberapa keras speaker *Anda* berbunyi. Tombol itu tidak mengubah audio di dalam file video. Saat Anda membagikan file, iPhone penerima memutarnya di level asli yang pelan. Untuk benar-benar memperbaikinya, level trek audio itu sendiri harus dinaikkan dan disimpan sebagai file baru. Itulah yang dilakukan penguat volume untuk video."
+      ]
+    },
+    {
+      "heading": "Pilihan 1: aplikasi Foto (tidak bisa mengeraskan)",
+      "paragraphs": [
+        "Buka video di Foto dan ketuk Edit. Anda akan melihat ikon speaker yang hanya membisukan klip, dan di iPhone 16 atau lebih baru, untuk video yang direkam dengan audio spasial, fitur Audio Mix yang mengubah keseimbangan antara suara orang dan bising latar. Tidak ada yang menaikkan volume keseluruhan. Jika seluruh rekaman pelan, Foto tidak bisa membantu."
+      ]
+    },
+    {
+      "heading": "Pilihan 2: iMovie (gratis, batas sekitar 500%)",
+      "paragraphs": [
+        "iMovie bisa mengeraskan klip: buat proyek film, tambahkan video, ketuk klip, ketuk ikon speaker, dan geser slider ke kanan. Ada dua batas. Slider berhenti di sekitar 500% (5×), yang sering tidak cukup untuk rekaman dari ujung ruangan. Dan Anda harus membuat proyek lalu mengekspor ulang seluruh video, yang untuk klip panjang memakan beberapa menit."
+      ],
+      "list": [
+        "Buka iMovie → Mulai Proyek Baru → Film, lalu pilih video.",
+        "Ketuk klip di garis waktu, ketuk ikon speaker, dan geser slider volume ke kanan (maksimal sekitar 500%).",
+        "Ketuk Selesai → Bagikan → Simpan Video dan tunggu ekspor selesai."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Pilihan 3: Penguat Volume (hingga 10×, satu slider, kurang dari semenit)",
+      "paragraphs": [
+        "Penguat Volume dibuat khusus untuk ini. Aplikasi ini membuka video apa pun dari Foto atau File, menampilkan satu slider «Pengali volume» hingga ×10 (1000%), memungkinkan Anda membandingkan Asli dan Diproses sebelum menyimpan, dan menyimpan hasilnya lewat lembar berbagi iOS biasa. Aplikasi ini juga membuka file audio saja, seperti MP3 dan Memo Suara, yang tidak bisa dibuka iMovie.",
+        "Pemrosesan dilakukan di iPhone. Tidak ada yang diunggah, tidak perlu akun, dan video hasil ekspor tidak memiliki watermark."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: mengeraskan video dengan Penguat Volume",
+    "intro": "Untuk klip biasa butuh sekitar satu menit. Anda perlu aplikasi gratis dari App Store dan video di Foto atau File.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Buka video di aplikasi",
+        "text": "Buka aplikasi dan tambahkan video dari Foto atau File. Lebih cepat: buka video di Foto, ketuk Bagikan, dan pilih Increase Volume; proyek langsung dibuat."
+      },
+      {
+        "name": "Periksa detailnya",
+        "text": "Aplikasi menampilkan nama file, ukuran, dan durasi agar Anda yakin itu klip yang benar. Jika isinya sebagian besar suara orang bicara, aktifkan «Tingkatkan Kualitas Audio»."
+      },
+      {
+        "name": "Pilih seberapa keras",
+        "text": "Geser «Pengali volume». Mulai dari ×3 hingga ×5 jika video hanya sedikit pelan; naikkan ke ×10 jika hampir tidak terdengar. Ketuk «Boost volume ke ×N»."
+      },
+      {
+        "name": "Bandingkan Asli dan Diproses",
+        "text": "Gunakan pengalih di bawah tombol untuk berpindah antara versi asli dan yang diperkuat. Jika bagian yang keras terdengar kasar, kembali dan turunkan pengali satu tingkat."
+      },
+      {
+        "name": "Unduh dan bagikan",
+        "text": "Ketuk «Unduh yang diproses». Di lembar berbagi, pilih Simpan Video agar salinan yang lebih keras masuk ke Foto, Simpan ke File, atau kirim langsung lewat Pesan, WhatsApp, AirDrop, atau TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips untuk hasil terbaik",
+    "items": [
+      "Keraskan *sebelum* mengunggah ke TikTok, Instagram, atau YouTube. Platform menyamakan volume saat unggah, tetapi tidak menyelamatkan trek yang terlalu pelan.",
+      "Jika klip punya momen keras (tawa, pintu dibanting) dengan suara bicara yang pelan di sekitarnya, gunakan pengali sedang (×3–×5) dan aktifkan «Tingkatkan Kualitas Audio» daripada langsung ke ×10.",
+      "File asli tidak diubah. Aplikasi selalu membuat file baru, jadi Anda bisa mencoba beberapa level.",
+      "Video yang direkam dengan mikrofon tertutup (casing, jari) terdengar pelan *dan* teredam; penguatan memperbaiki level, bukan suara yang teredam."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bisakah mengeraskan suara video di iPhone tanpa aplikasi?",
+      "answer": "Hanya dengan iMovie, yang disediakan gratis oleh Apple dan bisa mengeraskan klip hingga sekitar 500%. Foto tidak bisa mengeraskan suara. Untuk lebih dari 5× atau proses yang lebih cepat, gunakan Penguat Volume."
+    },
+    {
+      "question": "Apakah kualitas video turun jika suaranya dikeraskan?",
+      "answer": "Gambar tidak berubah sama sekali. Audio dilipatgandakan; jika rekaman yang sudah punya puncak keras dipaksa terlalu tinggi, suaranya bisa terpotong dan terdengar kasar. Karena itu aplikasi punya pengalih Asli/Diproses agar Anda bisa mendengarkan sebelum menyimpan."
+    },
+    {
+      "question": "Apakah video tetap keras saat saya kirim?",
+      "answer": "Ya. Penguatan tertulis di trek audio file, jadi video berbunyi di level baru di ponsel, komputer, atau media sosial mana pun."
+    },
+    {
+      "question": "Apakah bisa untuk video yang diunduh?",
+      "answer": "Bisa, selama file ada di Foto atau File dan tidak dilindungi dari penyalinan. Aplikasi membuka file MP4 dan MOV dari sumber mana pun."
+    }
+  ],
+  "related": [
+    "mengeraskan-suara-tanpa-mengurangi-kualitas",
+    "rekaman-layar-suara-pelan-iphone",
+    "imovie-volume-lebih-dari-500"
+  ],
+  "cta": {
+    "title": "Keraskan video Anda sekarang",
+    "text": "Penguat Volume gratis di App Store. Bagikan video ke aplikasi, geser hingga ×10, dan ketuk «Unduh yang diproses»."
+  }
+}

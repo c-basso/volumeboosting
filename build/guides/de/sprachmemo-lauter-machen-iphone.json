@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "Sprachmemo lauter machen",
+  "priority": 4,
+  "keywords": "Sprachmemo lauter machen, Sprachmemo zu leise, Sprachaufnahme iPhone lauter, Aufnahme verbessern Sprachmemos, Sprachnotiz lauter machen",
+  "title": "Sprachmemo lauter machen auf dem iPhone – so geht’s",
+  "description": "„Aufnahme verbessern“ entfernt Rauschen, macht die Datei aber nicht lauter. So verstärkst du ein leises Sprachmemo bis 10× und sicherst es mit Increase Volume.",
+  "h1": "Sprachmemo auf dem iPhone lauter machen",
+  "eyebrow": "Sprachmemos",
+  "card_title": "Leises Sprachmemo lauter machen",
+  "card_summary": "„Aufnahme verbessern“ ändert nur die Wiedergabe. Exportiere das Memo und verstärke die Datei selbst, bis 10×.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Um ein Sprachmemo auf dem iPhone lauter zu machen, teilst du es aus der App Sprachmemos an Increase Volume (Memo antippen → ⋯ → Teilen → Increase Volume), schaltest „Audioqualität verbessern“ ein, ziehst „Lautstärke-Multiplikation“ auf ×5–×10, tippst auf „Lautstärke verstärken“, vergleichst Original und Verarbeitet und sicherst die lautere M4A-Datei mit „Verarbeitete Datei laden“. Die Funktion „Aufnahme verbessern“ in Sprachmemos reduziert Hintergrundgeräusche bei der Wiedergabe, ändert die Datei aber nicht und macht sie beim Teilen nicht lauter.",
+  "intro": [
+    "Ein Memo vom anderen Ende des Besprechungstischs, eine Vorlesung aus der letzten Reihe oder ein Interview mit jemandem, der leise spricht: Die Worte sind da, aber selbst bei voller Lautstärke musst du dich anstrengen. Die App Sprachmemos bietet ein paar Wiedergabeoptionen, und viele glauben, eine davon mache die Aufnahme lauter. Keine tut das.",
+    "Diese Anleitung erklärt, was Sprachmemos kann, und wie du ein leises Memo in etwa einer Minute in eine laute, teilbare Datei verwandelst."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/de/4.webp",
+    "alt": "Increase Volume mit Aufnahmedetails, Schalter Audioqualität verbessern und Regler Lautstärke-Multiplikation ×10",
+    "caption": "Für Sprache vor dem Verstärken „Audioqualität verbessern“ einschalten."
+  },
+  "sections": [
+    {
+      "heading": "Was Sprachmemos kann (und was nicht)",
+      "paragraphs": [
+        "Öffne ein Memo, tippe auf das Optionen-Symbol (Regler) und du siehst:"
+      ],
+      "list": [
+        "Aufnahme verbessern: reduziert Hintergrundgeräusche und Hall. Nützlich, aber eine *Wiedergabe*-Einstellung; laut Apple ändert sie die Aufnahme selbst nicht.",
+        "Stille überspringen und Wiedergabegeschwindigkeit: praktisch, aber ohne Einfluss auf die Lautstärke.",
+        "Studio-Stimme (unterstützte Modelle): reduziert Raumhall, ebenfalls nur bei der Wiedergabe.",
+        "Kürzen / Ersetzen: ändert Länge oder Inhalt, nicht den Pegel."
+      ],
+      "note": "Nichts in Sprachmemos hebt den Pegel der gespeicherten Datei an. Teilst du das Memo, hört der Empfänger es in der ursprünglichen Lautstärke."
+    },
+    {
+      "heading": "Warum das Memo überhaupt so leise ist",
+      "paragraphs": [
+        "Das iPhone regelt die Empfindlichkeit beim Aufnehmen automatisch, kann aber einen Sprecher mehrere Meter entfernt oder ein Handy, das mit dem Display nach unten und verdecktem Mikrofon liegt, nicht ausgleichen. Das Ergebnis ist eine Aufnahme, deren Spitzen weit unter der digitalen Obergrenze liegen. Genau dieser Abstand ist der Spielraum, den ein Verstärker nutzt: Ein leises Memo lässt sich meist ×5–×10 verstärken, ohne zu übersteuern."
+      ]
+    },
+    {
+      "heading": "Die Datei mit Increase Volume verstärken",
+      "paragraphs": [
+        "Increase Volume öffnet die M4A-Datei, die Sprachmemos exportiert, zeigt Dauer und Größe und lässt dich die Lautstärke bis ×10 multiplizieren. Der Schalter „Audioqualität verbessern“ zielt auf Sprachverständlichkeit, genau das, was ein Sprachmemo braucht. Mit Original/Verarbeitet hörst du das Ergebnis vor dem Speichern, und die lautere Datei wird als neue Kopie in Dateien, Nachrichten, Mail oder einer App deiner Wahl gesichert."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Schritt für Schritt: Sprachmemo lauter machen",
+    "intro": "Funktioniert mit jedem Memo, das schon in Sprachmemos liegt.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Memo an Increase Volume teilen",
+        "text": "In Sprachmemos das Memo antippen, auf ⋯ tippen, Teilen wählen und in der App-Reihe Increase Volume auswählen. (Alternativ erst In Dateien sichern und in der App hinzufügen.)"
+      },
+      {
+        "name": "Audioqualität verbessern einschalten",
+        "text": "Schalter aktivieren, damit die Verstärkung die Stimme bevorzugt."
+      },
+      {
+        "name": "Faktor einstellen",
+        "text": "„Lautstärke-Multiplikation“ zum Start auf ×5 ziehen; entfernte Aufnahmen brauchen oft ×8–×10. Auf „Lautstärke verstärken“ tippen."
+      },
+      {
+        "name": "Vergleichen",
+        "text": "An der lautesten Stelle (Lachen, abgestellte Tasse) zwischen Original und Verarbeitet wechseln. Knistert es, Faktor senken."
+      },
+      {
+        "name": "Verarbeitete Datei laden",
+        "text": "Auf „Verarbeitete Datei laden“ tippen und In Dateien sichern wählen oder das lautere Memo direkt an Nachrichten, Mail, WhatsApp oder Notizen senden."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipps",
+    "items": [
+      "Nimm mit dem Handy auf dem Rücken auf, das Mikrofon-Ende zum Sprecher und so nah, wie es höflich ist. Das bringt mehr als jede Einstellung.",
+      "Soll das Memo transkribiert werden, verstärke es zuerst; Spracherkennung macht bei einer lauteren, klareren Datei weniger Fehler.",
+      "Behalte das Original in Sprachmemos. Die verstärkte Kopie ist eine eigene Datei."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Macht „Aufnahme verbessern“ ein Sprachmemo lauter?",
+      "answer": "Nein. Es reduziert Hintergrundgeräusche und Hall während der Wiedergabe. Apple weist darauf hin, dass diese Wiedergabeeinstellungen die Aufnahme selbst nicht verändern; ein geteiltes Memo bleibt also gleich."
+    },
+    {
+      "question": "In welchem Format kommt das verstärkte Memo heraus?",
+      "answer": "Im selben Audioformat, das du geteilt hast (Sprachmemos exportiert M4A). Increase Volume schreibt eine neue Datei; dein Original bleibt unangetastet."
+    },
+    {
+      "question": "Kann ich ein Memo verstärken, das mir jemand geschickt hat?",
+      "answer": "Ja. Sichere das Audio aus Nachrichten, Mail oder WhatsApp in Dateien (oder teile es direkt an Increase Volume) und verstärke es genauso."
+    }
+  ],
+  "related": [
+    "whatsapp-sprachnachricht-zu-leise",
+    "mp3-lauter-machen-iphone",
+    "ton-lauter-machen-ohne-qualitaetsverlust"
+  ]
+}

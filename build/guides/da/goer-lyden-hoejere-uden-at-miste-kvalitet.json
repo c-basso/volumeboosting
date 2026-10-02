@@ -1,0 +1,140 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "gør lyd højere uden at miste kvalitet",
+  "priority": 10,
+  "keywords": "gør lyd højere uden at miste kvalitet, forstærk lyd uden forvrængning, lyden skratter efter forstærkning, øg lydstyrke uden at klippe, forringer forstærkning kvaliteten",
+  "title": "Gør lyden højere uden at miste kvalitet (iPhone-guide)",
+  "description": "For meget forstærkning får lyden til at klippe. Se hvordan forstærkning virker, hvor meget der er sikkert, og hvordan du tjekker resultatet i Increase Volume.",
+  "h1": "Sådan gør du lyden på en video højere uden at miste kvalitet",
+  "eyebrow": "Kvalitet",
+  "card_title": "Forstærk lyden uden forvrængning",
+  "card_summary": "Hvad klipning er, hvor meget luft en lav optagelse har, og hvordan du tjekker, før du gemmer.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Forstærkning rører ikke billedet, og den forringer ikke lyden, så længe de højeste toppe holder sig under det digitale loft. Åbn videoen i Increase Volume på iPhone, start ved ×3, tryk på „Boost lydstyrke“, og brug kontakten Original/Behandlet til at lytte til det højeste øjeblik. Hæv multiplikationen, til lyden er tydeligt høj, men ikke skarp. Slå „Forbedr lydkvalitet“ til ved tale, og gem med „Download behandlet“. Din originale fil ændres aldrig.",
+  "intro": [
+    "„Bliver det ikke forvrænget?“ er det første, folk spørger om en lydforstærker, og det er det rigtige spørgsmål. Forstærkning er multiplikation: Hver sample bliver større. Rammer de største det maksimum, formatet tillader, bliver de skåret flade, og du hører knitren eller skarphed på de høje steder. Det kaldes klipning, og det er den eneste reelle risiko for kvaliteten.",
+    "Den gode nyhed: En *lav* optagelse har per definition masser af plads under loftet. Denne guide forklarer, hvordan du bruger den plads, og hvordan du tjekker resultatet, før du gemmer."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "Resultatskærm i Increase Volume med knappen Download behandlet og kontakten Original/Behandlet",
+    "caption": "Sammenlign altid den højeste del med kontakten Original/Behandlet, før du downloader."
+  },
+  "sections": [
+    {
+      "heading": "Hvad der faktisk ændres, når du forstærker",
+      "paragraphs": [
+        "Kun lydsporet behandles. Videostrømmen sendes uændret igennem, så opløsning, billedhastighed og farver er nøjagtig de samme. I lyden fordobler en multiplikation på ×2 amplituden (cirka +6 dB), ×4 er cirka +12 dB, og ×10 er +20 dB. Støj i optagelsen (rumsus, vind) ganges op med samme faktor, og derfor kan meget kraftig forstærkning af en støjende optagelse lyde susende, selv når intet klipper."
+      ]
+    },
+    {
+      "heading": "Hvor meget forstærkning er sikkert?",
+      "paragraphs": [
+        "Det afhænger af, hvor langt under loftet det højeste øjeblik ligger, ikke af hvor lavt *gennemsnittet* er. En optagelse, der lyder meget lav, men indeholder ét dørsmæk på fuldt niveau, kan ikke ganges meget op, før smækket klipper. En jævnt lav optagelse, som en forelæsning fra bageste række, kan ofte tåle ×8–×10 rent."
+      ],
+      "table": {
+        "head": [
+          "Optagelse",
+          "Typisk sikkert interval",
+          "Noter"
+        ],
+        "rows": [
+          [
+            "Diktafon eller forelæsning optaget på afstand",
+            "×5 – ×10",
+            "Slå Forbedr lydkvalitet til ved tale."
+          ],
+          [
+            "Telefonvideo, der bare er lidt lav",
+            "×2 – ×4",
+            "Tjek det højeste grin eller klap."
+          ],
+          [
+            "Skærmoptagelse",
+            "×5 – ×10",
+            "Som regel langt under normalt niveau."
+          ],
+          [
+            "Musik med stille vers og højt omkvæd",
+            "×1,5 – ×3",
+            "Omkvædet sætter grænsen."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Brug tjekket Original/Behandlet",
+      "paragraphs": [
+        "Increase Volume behandler filen og viser derefter kontakten Original/Behandlet, før noget gemmes. Find det højeste øjeblik, og skift mellem de to. Lyder Behandlet skarp eller knitrende der, så sænk multiplikationen et trin, og forstærk igen. Da appen skriver en ny fil, kan du prøve frit; originalen røres aldrig."
+      ]
+    },
+    {
+      "heading": "Forbedr lydkvalitet: hvornår skal den slås til",
+      "paragraphs": [
+        "Kontakten „Forbedr lydkvalitet“ tilføjer ekstra behandling rettet mod tydelighed, som hjælper mest på tale: interviews, forelæsninger, lydbeskeder, skærmoptagede tutorials. Til musik kan du prøve begge indstillinger og beholde den, der lyder mest naturlig. Funktionen er markeret som eksperimentel i den nuværende version, så lyt altid til resultatet."
+      ]
+    },
+    {
+      "id": "privatliv",
+      "heading": "Privatliv: alt bliver på din telefon",
+      "paragraphs": [
+        "Increase Volume behandler filer på din iPhone. Intet uploades, der er ingen konto, og resultatet gemmes via det almindelige delingsark i iOS i Fotos, Filer eller den app, du vælger. Online forstærkere kræver, at filen sendes til en server, og genkoder den som regel i lavere kvalitet; en lokal app undgår begge dele."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Trin for trin: en ren forstærkning",
+    "intro": "Samme arbejdsgang for video- og lydfiler.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Åbn filen i Increase Volume",
+        "text": "Tilføj den fra Fotos eller Filer, eller del den til appen hvorfra som helst."
+      },
+      {
+        "name": "Beslut om Forbedr lydkvalitet",
+        "text": "Til ved tale; prøv begge ved musik."
+      },
+      {
+        "name": "Start moderat",
+        "text": "Sæt „Lydstyrke-multiplikation“ til ×3, og tryk på „Boost lydstyrke“."
+      },
+      {
+        "name": "Tjek det højeste øjeblik",
+        "text": "Skift Original/Behandlet ved den højeste del. Rent? Hæv multiplikationen, og gentag. Skarpt? Sænk den."
+      },
+      {
+        "name": "Gem",
+        "text": "Tryk på „Download behandlet“, og gem i Fotos eller Filer. Originalen er urørt."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Lyt med høretelefoner, når du tjekker; telefonens højttaler skjuler svag klipning.",
+      "Er en fil støjende, lyder en lidt lavere multiplikation med „Forbedr lydkvalitet“ slået til ofte bedre end maksimal forstærkning.",
+      "Forstærk én gang, ved kilden. At forstærke en allerede forstærket eksport igen lægger fejlene oven i hinanden."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Sænker øget lydstyrke videoens opløsning?",
+      "answer": "Nej. Kun lyden behandles. Videostrømmen beholder opløsning, billedhastighed og bitrate."
+    },
+    {
+      "question": "Hvordan lyder forvrængning fra for meget forstærkning?",
+      "answer": "Som knitren, summen eller skarphed kun på de højeste øjeblikke, mens de stille dele lyder fint. Hører du det, så sænk multiplikationen."
+    },
+    {
+      "question": "Er ×10 for meget?",
+      "answer": "Ikke for reelt lave optagelser som fjerne Diktafon-optagelser eller skærmoptagelser. Til en almindelig telefonvideo er ×2–×4 som regel rigeligt. Lad tjekket Original/Behandlet afgøre det."
+    }
+  ],
+  "related": [
+    "goer-en-video-hoejere-paa-iphone",
+    "goer-en-diktafon-optagelse-hoejere-paa-iphone",
+    "hvorfor-er-min-iphone-video-saa-lav"
+  ]
+}

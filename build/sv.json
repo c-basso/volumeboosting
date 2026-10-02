@@ -1,21 +1,21 @@
 {
   "meta": {
     "lang": "sv",
-    "title": "Höj volymen – Ljudboost | Gör ljud och video högre på iPhone",
-    "description": "Gör vilket ljud eller video som helst högre på iPhone. Höj volymen till cirka 10× med tydlighet, djup och bas för musik, videor, podcaster och röstanteckningar.",
-    "keywords": "höja volym iPhone, högre video, tyst video, volymförstärkare, iPhone-app, starkare ljud, tyst skärminspelning, ljudboost, Increase Volume",
+    "title": "Gör ljudet på video högre på iPhone – Volymförstärkare",
+    "description": "Gör videor, MP3-filer och inspelningar i Röstmemon upp till 10× högre på iPhone. Volymförstärkare förstärker själva filen och sparar en ny, högre kopia.",
+    "keywords": "höja volymen på video iPhone, göra ljudet högre, app för att höja volymen, volymförstärkare, ljudförstärkare, göra MP3 högre, WhatsApp röstmeddelande för lågt, skärminspelning för lågt ljud, Röstmemon högre, Volymförstärkare Ljud & Video",
     "canonical": "https://volumeboosting.com/sv/",
-    "og_title": "Höj volymen – Ljudboost",
-    "og_description": "Gör ljud och video högre på iPhone: cirka 10× med klart ljud och kraftfull bas. Passar tysta klipp och podcaster.",
+    "og_title": "Gör video och ljud högre på iPhone – upp till 10× högre",
+    "og_description": "Video, MP3 eller röstmemo för lågt? Volymförstärkare gör själva filen upp till 10× högre; du jämför Original/Bearbetad och sparar en högre kopia på iPhone.",
     "og_image": "https://volumeboosting.com/sv/site_preview.png",
-    "og_image_alt": "Ikon för Increase Volume – Ljudboost",
+    "og_image_alt": "Appikon för Volymförstärkare Ljud & Video",
     "og_url": "https://volumeboosting.com/sv/",
     "og_locale": "sv_SE",
     "twitter_url": "https://volumeboosting.com/sv/",
-    "twitter_title": "Höj volymen – Ljudboost",
-    "twitter_description": "Gör ljud och video högre på iPhone: cirka 10× med klart ljud och kraftfull bas. Passar tysta klipp och podcaster.",
+    "twitter_title": "Gör video och ljud högre på iPhone – upp till 10× högre",
+    "twitter_description": "Video, MP3 eller röstmemo för lågt? Volymförstärkare gör själva filen upp till 10× högre; du jämför Original/Bearbetad och sparar en högre kopia på iPhone.",
     "twitter_image": "https://volumeboosting.com/sv/site_preview.png",
-    "twitter_image_alt": "Ikon för Increase Volume – Ljudboost"
+    "twitter_image_alt": "Appikon för Volymförstärkare Ljud & Video"
   },
   "header": {
     "app_name_suffix": "Ljudboost för iPhone",
@@ -188,44 +188,61 @@
     "breadcrumb_home": "Hem",
     "faq": [
       {
-        "question": "Vad är Increase Volume – Ljudboost?",
-        "answer": "Det är en iPhone-app i kategorin Musik i App Store som gör importerat ljud och video högre — cirka 10× — och låter dig spara en ny fil. Den bearbetar media på enheten och är till för tysta inspelningar, podcaster och klipp — inte för att kringgå iOS-hårdvarugränser för allt systemljud."
+        "question": "Hur gör jag ljudet på en video högre på iPhone?",
+        "answer": "Öppna Volymförstärkare, importera videon från Bilder (eller dela den till appen), dra «Volymmultiplikation» till ×10, tryck på «Boosta volymen», jämför Original och Bearbetad och tryck på «Hämta bearbetad». Den högre kopian sparas i Bilder eller Filer och spelas upp högt på alla enheter.",
+        "guide": "gor-ljudet-pa-en-video-hogre-iphone"
       },
       {
-        "question": "Hur fungerar Increase Volume – Ljudboost?",
-        "answer": "Du importerar en video, låt eller inspelning (även från Bilder), justerar volymen med boost-reglaget plus tydlighet och bas, förhandsgranskar i realtid och sparar sedan den boostade filen tillbaka på iPhone eller delar den."
+        "question": "Varför är WhatsApp-röstmeddelanden så låga på iPhone?",
+        "answer": "Är alla låga spelar iPhone dem genom luren eftersom du täcker närhetssensorn: håll telefonen bort från ansiktet och höj volymen medan meddelandet spelas. Är ett lågt, exportera det (tryck och håll → Vidarebefordra → Dela), förstärk ×5–×10 i appen och spara eller skicka den högre kopian.",
+        "guide": "whatsapp-rostmeddelande-for-lagt"
       },
       {
-        "question": "Är Increase Volume bättre än att bara höja iPhone-volymen?",
-        "answer": "De löser olika problem. Systemvolymen gör bara uppspelningen tillfälligt högre. Den här appen skapar en permanent högre fil — användbart när själva inspelningen är tyst, eller när du behöver skicka den boostade versionen."
+        "question": "Varför är ljudet i min skärminspelning för lågt?",
+        "answer": "iOS spelar in appljud på reducerad nivå, ännu lägre med låg volym eller anslutna Bluetooth-hörlurar. Koppla från Bluetooth och höj volymen före nästa inspelning. En befintlig inspelning förstärker du ×5–×10 med Volymförstärkare.",
+        "guide": "skarminspelning-for-lagt-ljud-iphone"
       },
       {
-        "question": "Hur skiljer sig Increase Volume från VLC eller Audacity för volym?",
-        "answer": "VLC och Audacity är kraftfulla skrivbordsverktyg som kan normalisera eller förstärka ljud med många reglage. Increase Volume är byggd för iPhone: ett kort import → reglage → spara-flöde utan skrivbordstidslinje."
+        "question": "Hur gör jag en inspelning i Röstmemon högre?",
+        "answer": "«Förbättra inspelning» i Röstmemon minskar brus men gör inte filen högre. Dela inspelningen till appen (⋯ → Dela → Increase Volume), slå på «Förbättra ljudkvalitet», förstärk ×5–×10 och spara den högre M4A-filen.",
+        "guide": "rostmemo-hogre-iphone"
       },
       {
-        "question": "Fungerar Increase Volume för både video och ljud?",
-        "answer": "Ja. Du kan boosta video med ljudspår, musikspår, podcaster, röstanteckningar och skärminspelningar och sedan spara resultatet."
+        "question": "Kan jag göra en MP3 högre på iPhone utan dator?",
+        "answer": "Ja. Lägg till MP3-, M4A- eller WAV-filen från Filer, välj multiplikation, lyssna på Original/Bearbetad och tryck på «Hämta bearbetad». Den högre kopian sparas i Filer; allt sker på telefonen.",
+        "guide": "gor-mp3-hogre-iphone"
       },
       {
-        "question": "Sparas den boostade filen på min iPhone?",
-        "answer": "Ja. Efter bearbetning sparar du den högre filen tillbaka på enheten och kan dela den som vilken mediafil som helst."
+        "question": "Kan jag höja volymen på en video i Bilder-appen?",
+        "answer": "Redigeringen i Bilder kan bara stänga av ljudet, inte göra det högre. Tryck på Dela → Increase Volume för att förstärka videon upp till ×10; den högre kopian hamnar i Bilder bredvid originalet.",
+        "guide": "hoj-volymen-pa-video-i-bilder"
       },
       {
-        "question": "Vad kostar Increase Volume – Ljudboost?",
-        "answer": "App Store-listningen visar aktuellt pris och eventuella köp i appen. Webbplatsens strukturerade data kan nämna ett gratis erbjudande; verifiera alltid priser hos Apple innan du citerar dem."
+        "question": "Blir ljudet förvrängt när jag gör det högre?",
+        "answer": "Bara om de starkaste topparna går över det digitala taket. En tyst inspelning har mycket marginal. Börja på ×3, lyssna på det starkaste ögonblicket med Original/Bearbetad och öka så länge det låter rent. Bilden ändras aldrig.",
+        "guide": "hogre-utan-kvalitetsforlust"
       },
       {
-        "question": "Vem ger ut Increase Volume – Ljudboost?",
-        "answer": "Appen ges ut av c-basso och distribueras via Apple App Store (App Store-ID 6741472421). Produktsidan är volumeboosting.com."
+        "question": "Vad är skillnaden mot volymen i iMovie?",
+        "answer": "iMovie på iPhone stannar runt 500 % (5×) och kräver ett projekt och full export. Volymförstärkare går till ×10 (1000 %), öppnar även ljudfiler och har Original/Bearbetad innan du sparar.",
+        "guide": "imovie-volym-over-500"
       },
       {
-        "question": "Hur gör jag en för tyst video högre på iPhone?",
-        "answer": "I Increase Volume – Ljudboost importerar du videon (t.ex. från Bilder), ställer in boost-reglaget med förhandsgranskning i realtid och sparar en kopia med högre ljudspår. Du justerar nivån i filen — till skillnad från att bara höja systemljudet under uppspelning."
+        "question": "Gör appen iPhone-högtalaren högre?",
+        "answer": "Nej. Ingen app kan gå förbi högtalarens fysiska gräns eller ändra volymen för hela systemet. Appen gör filen högre, vilket hjälper när själva inspelningen är tyst. Är alla videor tysta, kolla orsakerna vid uppspelning först.",
+        "guide": "varfor-ar-videon-sa-tyst#uppspelning"
       },
       {
-        "question": "Ökar appen maximal iPhone-volym för musik och samtal?",
-        "answer": "Nej. Den bearbetar filer du importerar och ger en högre version att spara eller dela. Hårdvarugränsen och global volym för Spotify, samtal med mera ändras inte."
+        "question": "Vad kostar Volymförstärkare?",
+        "answer": "Nedladdningen är gratis och inkluderar en gratis provperiod. Obegränsad förstärkning låses upp med en prenumeration; aktuella priser i kronor finns i App Store. Bearbetningen sker alltid på din iPhone.",
+        "guide": "",
+        "learn_more_url": "__APP_STORE_URL__",
+        "learn_more_title": "Volymförstärkare Ljud & Video: gratis nedladdning och aktuella priser i App Store"
+      },
+      {
+        "question": "Laddas mina filer upp till en server?",
+        "answer": "Nej. Bearbetningen sker på din iPhone, utan konto och utan uppladdning. Resultatet sparas via delningsbladet i iOS i Bilder, Filer eller den app du väljer.",
+        "guide": "hogre-utan-kvalitetsforlust#integritet"
       }
     ],
     "structured_data": {
@@ -376,5 +393,35 @@
     "title": "Din tysta fil, 10× högre, på under en minut.",
     "text": "Hämta Increase Volume – Ljudboost, importera videon eller ljudet som ingen hör, dra reglaget och dela den höga versionen.",
     "note": "Gratis nedladdning · Kräver iOS 18.6 eller senare · 4,5★ i App Store"
+  },
+  "guides": {
+    "eyebrow": "Guider",
+    "title": "Fixa för lågt ljud på iPhone, situation för situation",
+    "intro": "Varje guide svarar på en fråga som folk faktiskt söker efter, förklarar ärligt vad verktygen i iOS kan och inte kan, och visar sedan de exakta stegen i Volymförstärkare.",
+    "hub_link_text": "Alla guider",
+    "read_more": "Läs guiden",
+    "hub": {
+      "title": "Guider: gör ljudet högre på iPhone – video, ljud och MP3",
+      "description": "Steg-för-steg-guider för att göra videor, inspelningar i Röstmemon, MP3-filer, skärminspelningar och WhatsApp-röstmeddelanden högre på iPhone, i iOS och appen.",
+      "h1": "Guider: gör video och ljud högre på iPhone",
+      "intro": "Varje guide börjar med ett direkt svar, går ärligt igenom systemets gratisalternativ (Bilder, iMovie, Röstmemon) och visar hur du får upp till 10× mer volym med Volymförstärkare.",
+      "keywords": "guider göra ljudet högre iPhone, göra video högre, göra MP3 högre, röstmeddelande för lågt, skärminspelning för låg"
+    },
+    "labels": {
+      "home": "Hem",
+      "guides": "Guider",
+      "breadcrumb_aria": "Brödsmulor",
+      "updated": "Uppdaterad",
+      "reading_time": "3–4 min läsning",
+      "quick_answer": "Kort svar",
+      "faq_heading": "Fler vanliga frågor",
+      "related": "Relaterade guider",
+      "all_guides": "Alla guider",
+      "disclaimer": "Volymförstärkare förstärker ljudet i en fil och sparar en ny kopia. Den kan inte gå förbi den fysiska gränsen för iPhones högtalare eller ändra volymen för hela systemet."
+    },
+    "default_cta": {
+      "title": "Gör det med Volymförstärkare",
+      "text": "Gratis i App Store. Importera, dra reglaget till ×10 och tryck på «Hämta bearbetad»."
+    }
   }
 }

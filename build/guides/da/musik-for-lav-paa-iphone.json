@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "musik for lav på iPhone",
+  "priority": 6,
+  "keywords": "musik for lav iPhone, gør musik højere iPhone, lyden er for lav iPhone, lydkontrol iPhone, reducer høj lyd",
+  "title": "Musik for lav på iPhone? Sådan gør du den højere (2026)",
+  "description": "Sange for lave på iPhone? Tjek Lydkontrol, EQ og grænsen for høretelefoner først, og gør så dine egne MP3'er og optagelser 10× højere med Increase Volume.",
+  "h1": "Sådan gør du musik højere på iPhone",
+  "eyebrow": "Musik",
+  "card_title": "Gør musik højere på iPhone",
+  "card_summary": "Tre iOS-indstillinger, der i det skjulte begrænser din musik, plus hvordan du forstærker numre, du har som filer.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Start med indstillingerne: I Indstillinger › Musik slår du Lydkontrol fra og vælger EQ-forindstillingen til sen aften (Late Night), som løfter stille passager, og i Indstillinger › Lyde og haptik › Høretelefonsikkerhed slår du Reducer høj lyd fra. Det påvirker streaming og afspilning. Musikfiler, du ejer (MP3, M4A, WAV i Filer, demoer, øvelokaleoptagelser), åbner du i Increase Volume, forstærker ×1,5–×4, sammenligner Original og Behandlet og trykker på „Download behandlet“ for at gemme en højere kopi.",
+  "intro": [
+    "„Min musik er for lav på iPhone“ har to meget forskellige svar. Føles Apple Music eller Spotify lav i højttaleren eller høretelefonerne, begrænser telefonen sig sandsynligvis selv med en indstilling, du kan ændre på et minut. Er et *bestemt* nummer lavt – en gammel MP3, en øvelokaleoptagelse, en demo fra en ven – skal selve filen have mere niveau.",
+    "Denne guide dækker begge dele i den rækkefølge."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Increase Volume behandler en musikfil på iPhone med nummerets navn, størrelse og varighed",
+    "caption": "Musikfiler, du ejer, kan forstærkes direkte fra Filer."
+  },
+  "sections": [
+    {
+      "heading": "Indstillinger, der gør al musik lavere (ret dem først)",
+      "list": [
+        "Reducer høj lyd: Indstillinger › Lyde og haptik › Høretelefonsikkerhed. Når den er slået til, begrænser den lyden i høretelefoner til det niveau, du har valgt. Slå den fra, eller hæv grænsen.",
+        "Lydkontrol: Indstillinger › Musik › Lydkontrol udjævner alle numre til samme lydstyrke og trækker derfor høje sange ned. Slå den fra, hvis alt føles svagt.",
+        "EQ: Indstillinger › Musik › EQ. Forindstillingen til sen aften (Late Night) komprimerer dynamikken, så stille passager løftes; Loudness løfter bas og diskant ved lav lydstyrke. Prøv begge.",
+        "Lydstyrkegrænse i Skærmtid: Indstillinger › Skærmtid › Indholds- og anonymitetsbegrænsninger kan have en låst lydstyrkegrænse fra en forælder eller en gammel indstilling.",
+        "Bluetooth: Nogle øretelefoner og højttalere har deres eget lydstyrkeniveau; skru også op på selve enheden."
+      ]
+    },
+    {
+      "heading": "Hvilke musikfiler du kan forstærke",
+      "paragraphs": [
+        "Increase Volume forstærker filer, du faktisk har: MP3'er og WAV'er i Filer eller iCloud Drive, M4A-optagelser fra øvelokalet, demoer modtaget via Mail eller AirDrop, eksporter fra GarageBand og lydsporet i musikvideoer. Den viser kunstner og nummer, hvor filen indeholder dem. Downloads fra Apple Music, Spotify eller YouTube Music er krypterede og kan ikke åbnes af nogen anden app; til dem bruger du indstillingerne ovenfor."
+      ]
+    },
+    {
+      "heading": "Hvor meget en sang skal forstærkes",
+      "paragraphs": [
+        "Udgivet musik er allerede mastereret tæt på fuldt niveau, så ×1,5–×2 er som regel loftet, før omkvædet klipper. Hjemmeoptagelser, demoer og gamle rips har ofte 6–12 dB luft og tåler ×2–×4. Brug kontakten Original/Behandlet på det højeste omkvæd til at beslutte."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Trin for trin: gør en musikfil højere",
+    "intro": "Til et nummer i Filer, en GarageBand-eksport eller en optagelse.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Tilføj nummeret",
+        "text": "Åbn Increase Volume, og tilføj filen fra Filer, eller del den til appen fra Filer, Mail eller GarageBand."
+      },
+      {
+        "name": "Vælg en moderat multiplikation",
+        "text": "Sæt „Lydstyrke-multiplikation“ til ×1,5–×2 for udgivet musik og ×2–×4 for demoer og optagelser. Prøv „Forbedr lydkvalitet“ både til og fra, og behold det, der lyder mest naturligt. Tryk på „Boost lydstyrke“."
+      },
+      {
+        "name": "Tjek omkvædet",
+        "text": "Skift Original/Behandlet ved den højeste del. Knitren betyder, at du skal sænke."
+      },
+      {
+        "name": "Download behandlet",
+        "text": "Gem i Filer, og læg det højere nummer i din afspiller-app, eller del det."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Forstærk et helt album eller sæt med samme multiplikation, så numrene passer sammen.",
+      "I musikvideoer røres billedet ikke; kun lyden behandles.",
+      "Mastererer du selv din musik, så forstærk mixet frem for den færdige master; en limiter i din DAW gør det renere end rå forstærkning."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan en lydforstærker gøre Apple Music eller Spotify højere?",
+      "answer": "Ikke ved at redigere numrene, for de er krypterede. Brug Lydkontrol, EQ og indstillingerne for Høretelefonsikkerhed, eller streamingappens egen normalisering. Increase Volume forstærker filer, du ejer."
+    },
+    {
+      "question": "Hvorfor spiller nogle sange lavere end andre?",
+      "answer": "Forskellige masteringniveauer. Lydkontrol udjævner dem, men sænker de høje numre; slår du den fra, kommer de høje tilbage. Lave filer, du ejer, kan du forstærke med Increase Volume, så de passer til resten."
+    },
+    {
+      "question": "Ændrer forstærkningen sangens format?",
+      "answer": "Increase Volume skriver en ny fil i et almindeligt lydformat ved siden af originalen. Originalen ændres ikke."
+    }
+  ],
+  "related": [
+    "goer-en-mp3-hoejere-paa-iphone",
+    "goer-en-podcast-eller-lydbog-hoejere-paa-iphone",
+    "goer-lyden-hoejere-uden-at-miste-kvalitet"
+  ]
+}

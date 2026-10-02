@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "música baixa no iPhone",
+  "priority": 5,
+  "keywords": "música baixa no iPhone, como aumentar o volume da música no iPhone, iPhone com som baixo, deixar a música mais alta, amplificador de música",
+  "title": "Música baixa no iPhone? 6 ajustes e uma amplificação de 10×",
+  "description": "Música baixa no iPhone? Confira a segurança dos fones, o equalizador, a verificação de som e o equilíbrio, e deixe seus MP3 e M4A até 10× mais altos com o app.",
+  "h1": "Música baixa no iPhone: ajustes e solução",
+  "eyebrow": "Música",
+  "card_title": "Música baixa",
+  "card_summary": "Seis ajustes que abaixam a música e como deixar seus próprios arquivos de áudio até 10× mais altos.",
+  "quick_answer": "Se toda a música está baixa no iPhone, confira Ajustes › Sons e Tátil › Segurança dos Fones de Ouvido (Reduzir Áudio Alto), o equalizador nos ajustes do Música, a Verificação de Som e o equilíbrio em Acessibilidade. Se um arquivo específico está baixo (um MP3, uma gravação, uma demo), abra-o no app Aumentar Volume, amplifique ×2–×5 e salve a cópia mais alta no Arquivos. Música do Apple Music ou do Spotify é protegida e não pode ser amplificada como arquivo.",
+  "intro": [
+    "Por trás de «a música está baixa» existem dois problemas diferentes: um ajuste que limita todo o som, ou um arquivo gravado ou mixado baixo. O primeiro você resolve nos Ajustes; o segundo exige deixar o próprio arquivo mais alto.",
+    "Veja os dois, na ordem em que vale a pena conferir."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/pt/3.webp",
+    "alt": "Tela «Aumente o volume do áudio»: o app Aumentar Volume processando um arquivo MP3",
+    "caption": "Seus arquivos de áudio (MP3, M4A, WAV) são processados no aparelho."
+  },
+  "sections": [
+    {
+      "heading": "Seis ajustes que abaixam a música",
+      "paragraphs": [],
+      "list": [
+        "Segurança dos fones: Ajustes › Sons e Tátil › Segurança dos Fones de Ouvido › Reduzir Áudio Alto pode limitar o nível nos fones.",
+        "Equalizador: Ajustes › Música › Equalizador. O ajuste «Noite» realça as partes baixas e pode fazer a música parecer mais alta em lugares barulhentos.",
+        "Verificação de Som: Ajustes › Música. Ativada, ela nivela o volume entre as músicas, o que pode abaixar faixas altas.",
+        "Equilíbrio: Ajustes › Acessibilidade › Áudio e Visual › Equilíbrio deve ficar no meio.",
+        "Bluetooth: alguns fones têm volume próprio; confira o app dos fones.",
+        "Sujeira no alto-falante ou na entrada abafa o som; limpe com cuidado."
+      ],
+      "ordered": true,
+      "note": "Os nomes dos menus seguem o iOS 18 e podem variar um pouco entre versões."
+    },
+    {
+      "heading": "Quando um arquivo está baixo: amplifique o arquivo",
+      "paragraphs": [
+        "Demos, gravações ao vivo, MP3 antigos e downloads podem estar mixados baixo. O app Aumentar Volume abre o arquivo do Arquivos, multiplica o nível e salva um novo arquivo. Os graves reforçados dão mais corpo quando você amplifica música."
+      ]
+    },
+    {
+      "heading": "O que não dá para amplificar",
+      "paragraphs": [
+        "Músicas do Apple Music, Spotify, Deezer e outros serviços de streaming são protegidas por DRM e não podem ser abertas como arquivos. Para elas, valem os ajustes acima. Para arquivos que são seus, a amplificação funciona."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Deixe um arquivo de áudio mais alto com o app",
+    "intro": "Funciona com MP3, M4A e WAV do Arquivos.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Importe do Arquivos",
+        "text": "Abra o app e escolha a música no Arquivos."
+      },
+      {
+        "name": "Escolha o nível",
+        "text": "Música costuma ser mixada perto do máximo; comece com ×2–×3 e aumente com cuidado."
+      },
+      {
+        "name": "Compare",
+        "text": "Toque em «Amplificar volume para ×N» e ouça o refrão alternando Original/Processado."
+      },
+      {
+        "name": "Salve",
+        "text": "Toque em «Baixar processado» → Salvar em Arquivos."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Dicas",
+    "items": [
+      "Música masterizada comercialmente tem pouca folga; ×2 muitas vezes basta.",
+      "Gravações ao vivo feitas no celular têm muita folga e aguentam ×5 ou mais.",
+      "Guarde o original; o app sempre cria um novo arquivo."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Por que a música está mais baixa nos fones do que antes?",
+      "answer": "Muitas vezes porque o Reduzir Áudio Alto está ativado em Segurança dos Fones de Ouvido, ou porque o iPhone baixou o nível depois de muito tempo ouvindo alto."
+    },
+    {
+      "question": "Dá para deixar música do Spotify mais alta com o app?",
+      "answer": "Não. Música de streaming é protegida e não pode ser aberta como arquivo. Use os ajustes do Spotify e do iOS."
+    },
+    {
+      "question": "A música vai distorcer?",
+      "answer": "Só se os picos passarem do teto. Ouça com Original/Processado e reduza a multiplicação se estourar."
+    }
+  ],
+  "related": [
+    "aumentar-volume-de-mp3-no-iphone",
+    "aumentar-volume-sem-perder-qualidade",
+    "podcast-audiolivro-baixo-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

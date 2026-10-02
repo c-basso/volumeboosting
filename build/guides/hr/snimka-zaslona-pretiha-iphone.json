@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "snimka zaslona pretiha",
+  "priority": 3,
+  "keywords": "snimka zaslona pretiha, snimanje zaslona bez zvuka iPhone, pojačati zvuk snimke zaslona, snimanje zaslona sa zvukom iPhone, tiha snimka zaslona",
+  "title": "Snimka zaslona na iPhoneu pretiha? Ovako je pojačaš",
+  "description": "Snimke zaslona na iPhoneu često su pretihe. Saznaj zašto, kako sljedeći put snimiti glasnije i kako postojeću snimku pojačati do 10× uz Pojačaj Glasnoću Zvuka.",
+  "h1": "Pretiha snimka zaslona na iPhoneu: kako je pojačati",
+  "eyebrow": "Snimanje zaslona",
+  "card_title": "Pojačaj snimku zaslona",
+  "card_summary": "iOS snima zvuk aplikacija tiho. Popravi snimku za minutu i sljedeći put snimi glasnije.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Već spremljenu snimku zaslona ne možeš pojačati postavkama sustava, ali možeš pojačati datoteku: otvori je u aplikaciji Pojačaj Glasnoću Zvuka, postavi „Množitelj glasnoće” na ×5–×10, dodirni „Pojačaj glasnoću”, poslušaj Obrađeno i dodirni „Preuzmi obrađeno”. Za glasnije snimanje sljedeći put: pojačaj glasnoću medija prije početka, odspoji Bluetooth slušalice, a za naraciju dugo pritisni Snimanje zaslona u Kontrolnom centru i uključi mikrofon.",
+  "intro": [
+    "Snimke zaslona najtiši su videi koje radi gotovo svaki iPhone. iOS hvata zvuk aplikacija na opreznoj razini da izbjegne izobličenje, a ako su bile spojene slušalice ili je aplikacija bila utišana, snimljeni zapis može biti gotovo nijem. Ako još pričaš kroz mikrofon, miks je još neujednačeniji.",
+    "Evo zašto je tvoja snimka tiha, što promijeniti prije sljedeće i kako spasiti onu koju već imaš."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Snimka zaslona „Select the amount of boosting”: klizač množitelja glasnoće ×10 i tipka za pojačanje u aplikaciji Pojačaj Glasnoću Zvuka",
+    "caption": "Snimke zaslona obično trebaju jako pojačanje; ×5 do ×10 je normalno."
+  },
+  "sections": [
+    {
+      "heading": "Zašto su snimke zaslona na iPhoneu tako tihe",
+      "paragraphs": [
+        "Gotovo uvijek je posrijedi jedan od četiri razloga:"
+      ],
+      "list": [
+        "Razina hvatanja: iOS snima unutarnji zvuk aplikacija na smanjenoj razini da se glasne igre i videi ne bi odrezali.",
+        "Bluetooth: kad su spojeni AirPods ili Bluetooth zvučnik, snimljeni zvuk često je puno tiši ili se uopće ne snima.",
+        "Glasnoća aplikacije: snimka hvata zvuk na glasnoći koja je bila postavljena. Ako je telefon bio na 30 %, i snimka je na 30 %.",
+        "Miks s mikrofonom: ako uključiš mikrofon, tvoj se glas miješa sa zvukom aplikacije, a iOS utišava aplikaciju da mu napravi mjesta."
+      ]
+    },
+    {
+      "heading": "Sljedeći put snimi glasnije",
+      "paragraphs": [
+        "Prije snimanja: odspoji Bluetooth zvuk, pojačaj glasnoću medija do kraja i utišaj obavijesti fokusom. Za naraciju dugo pritisni Snimanje zaslona u Kontrolnom centru i dodirni Mikrofon da postane crven; običan dodir snima samo zvuk aplikacije. Pet sekundi probe odmah ti kaže je li razina dobra."
+      ]
+    },
+    {
+      "heading": "Popravi snimku koju već imaš",
+      "paragraphs": [
+        "Postavke sustava ne mijenjaju već spremljenu datoteku. iMovie je može pojačati do oko 500 %, što ponekad bude dovoljno, ali traži projekt i novi izvoz. Pojačaj Glasnoću Zvuka ide do ×10, radi izravno s datotekom iz Fotografija i ima prekidač Izvorno/Obrađeno da čuješ pojačanu razinu prije spremanja. U vodičima s naracijom uključi „Poboljšaj kvalitetu zvuka” da se govor bolje razumije."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Korak po korak: pojačaj snimku zaslona",
+    "intro": "Trebaš besplatnu aplikaciju Pojačaj Glasnoću Zvuka i snimku u Fotografijama.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Podijeli snimku s aplikacijom",
+        "text": "Otvori snimku zaslona u Fotografijama, dodirni Podijeli i odaberi Increase Volume. Ili otvori aplikaciju i dodaj datoteku iz Fotografija."
+      },
+      {
+        "name": "Ako si pričao, Poboljšaj kvalitetu zvuka",
+        "text": "Ako si govorio tijekom snimanja, uključi „Poboljšaj kvalitetu zvuka” da glas ostane jasan nakon pojačanja."
+      },
+      {
+        "name": "Odaberi množitelj",
+        "text": "Postavi „Množitelj glasnoće” na ×5 za početak. Snimke zaslona obično su daleko ispod normalne razine, pa je ×8–×10 uobičajeno. Dodirni „Pojačaj glasnoću”."
+      },
+      {
+        "name": "Poslušaj Obrađeno",
+        "text": "Prebaci na Obrađeno i pusti najglasniji dio. Ako zvuči grubo, smanji množitelj."
+      },
+      {
+        "name": "Preuzmi obrađeno",
+        "text": "Dodirni „Preuzmi obrađeno” i odaberi Spremi video da glasnija snimka ode u Fotografije, ili je pošalji izravno na YouTube, Slack, Poruke ili u svoj uređivač."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Savjeti",
+    "items": [
+      "Pojačaj prije rezanja ili dodavanja titlova u drugom uređivaču; glasniji izvor daje više prostora svim sljedećim alatima.",
+      "Kod igara snimljenih s glazbom umjereno pojačanje (×3–×4) sprječava rezanje glazbe i podiže ukupnu razinu.",
+      "Ako je snimka nijema, a ne samo tiha, zvuk nikad nije snimljen (obično utišana aplikacija ili video s DRM-om). Nijedan pojačivač ne dodaje zvuk koji nije snimljen."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Zašto moja snimka zaslona nema zvuk?",
+      "answer": "Ili aplikacija koju si snimao pauzira svoj zvuk kad otkrije snimanje zaslona (to rade aplikacije za streaming i videopozive), ili je video imao DRM, ili je glasnoća medija bila na nuli. Nijemi zapis ne može se pojačati; snimi ponovno dok zvuk aplikacije svira i glasnoća je visoka."
+    },
+    {
+      "question": "Mogu li pojačati samo svoj glas, a ne zvuk igre?",
+      "answer": "Pojačaj Glasnoću Zvuka pojačava cijeli izmiješani zapis. Uz „Poboljšaj kvalitetu zvuka” prednost dobiva razumljivost govora, pa se naracija nakon pojačanja obično više ističe."
+    },
+    {
+      "question": "Mijenja li se rezolucija videa kad pojačam zvuk?",
+      "answer": "Ne. Obrađuje se samo audiozapis; slika prolazi nepromijenjena."
+    }
+  ],
+  "related": [
+    "kako-pojacati-zvuk-videa-na-iphoneu",
+    "zasto-je-video-na-iphoneu-tih",
+    "pojacati-glasnocu-bez-gubitka-kvalitete"
+  ]
+}

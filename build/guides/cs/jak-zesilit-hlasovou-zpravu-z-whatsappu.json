@@ -1,0 +1,103 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "hlasová zpráva WhatsApp potichu",
+  "priority": 4,
+  "keywords": "hlasová zpráva whatsapp potichu, zesílit hlasovou zprávu, hlasovka je potichu iPhone, hlasová zpráva messenger potichu, telegram hlasová zpráva tichá",
+  "title": "Hlasová zpráva z WhatsAppu je potichu? Jak ji zesílit",
+  "description": "Tichá hlasovka z WhatsAppu na iPhonu: nejdřív vyluč přepnutí do sluchátka přes senzor přiblížení, pak zprávu vyexportuj a zesil až 10× v Increase Volume.",
+  "h1": "Jak zesílit hlasovou zprávu z WhatsAppu na iPhonu",
+  "eyebrow": "WhatsApp a Messenger",
+  "card_title": "Zesílit tichou hlasovou zprávu",
+  "card_summary": "Dva různé problémy: přepnutí do sluchátka, nebo opravdu tichá nahrávka. Vyřešíš oba.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Pokud jsou potichu všechny hlasové zprávy z WhatsAppu, iPhone je nejspíš přehrává do sluchátka, protože jsi zakryl senzor přiblížení; drž telefon dál od obličeje a během přehrávání stiskni tlačítko pro zvýšení hlasitosti. Pokud je potichu jedna konkrétní zpráva, vyexportuj ji (podržet → Přeposlat → Sdílet → Uložit do Souborů nebo rovnou Increase Volume), v Increase Volume ji se zapnutým „Vylepšit kvalitu zvuku“ zesil ×5–×10 a hlasitější kopii ulož nebo přepošli.",
+  "intro": [
+    "Hlasovka z WhatsAppu může být špatně slyšet ze dvou úplně různých důvodů a každý se řeší jinak. Prvním je, že iPhone potichu přepne přehrávání do sluchátka. Druhým je, že odesílatel nahrával daleko od mikrofonu nebo v hluku a zpráva je opravdu tichá. To první zkontroluješ za deset vteřin, to druhé opravíš za minutu.",
+    "Stejný postup platí pro Messenger, Telegram, Signal i zvukové zprávy v iMessage."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Panel sdílení iOS v Increase Volume s volbou Uložit do Souborů a možnostmi sdílení zesílené hlasové zprávy",
+    "caption": "Zesílenou hlasovku uložíš do Souborů nebo ji rovnou přepošleš zpátky do chatu."
+  },
+  "sections": [
+    {
+      "heading": "Oprava 1: zpráva hraje do sluchátka",
+      "paragraphs": [
+        "WhatsApp přepne přehrávání do sluchátka (malého reproduktoru pro hovory), když zakryješ senzor přiblížení vedle přední kamery. Stačí prst, okraj obalu nebo zvednutí telefonu k obličeji a zpráva najednou zní jako šepot. Senzor odkryj, drž telefon dál od sebe a *během přehrávání zprávy* stiskni tlačítko pro zvýšení hlasitosti; iOS má pro sluchátko samostatnou hlasitost a ta mohla být stažená.",
+        "Zkontroluj také, že zvuk nejde přes Bluetooth do sluchátek v kapse a že v Nastavení › Zvuky a haptika › Bezpečnost sluchátek nemáš zapnuté Ztlumit hlasité zvuky, které omezuje hlasitost ve sluchátkách."
+      ]
+    },
+    {
+      "heading": "Oprava 2: samotná zpráva je tichá",
+      "paragraphs": [
+        "Pokud jsou ostatní zprávy v pořádku a tahle ne, je tichá samotná nahrávka. WhatsApp nemá u přijatých zpráv žádné ovládání hlasitosti a tlačítka hlasitosti nejdou přes 100 %. Musíš zesílit samotný soubor. WhatsApp umí hlasovou zprávu vyexportovat jako zvukový soubor a Increase Volume ji zesílí až ×10 a vytvoří novou kopii, kterou si necháš nebo přepošleš."
+      ]
+    },
+    {
+      "heading": "Jak vyexportovat hlasovou zprávu z WhatsAppu, Messengeru nebo Telegramu",
+      "list": [
+        "WhatsApp: podrž hlasovou zprávu → Přeposlat → ikona Sdílet (vlevo dole) → vyber Increase Volume, nebo Uložit do Souborů.",
+        "Telegram: podrž hlasovou zprávu → Přeposlat nebo Sdílet → Uložit do Souborů, nebo sdílej do Increase Volume.",
+        "Zvukové zprávy v iMessage: podrž → Uložit (přidá se do Diktafonu) a pak sdílej z Diktafonu.",
+        "Signal: podrž → Uložit → Uložit do Souborů.",
+        "Messenger: uložení hlasové zprávy do souboru obvykle nenabízí; pomůže záznam obrazovky během přehrání, který pak zesílíš jako video."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Postup: jak zesílit hlasovou zprávu z WhatsAppu",
+    "intro": "Asi minuta s bezplatnou aplikací Increase Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Vyexportuj hlasovku",
+        "text": "Ve WhatsAppu podrž zprávu → Přeposlat → ikona Sdílet → Increase Volume. (Nebo Uložit do Souborů a přidej ji z aplikace.)"
+      },
+      {
+        "name": "Zapni Vylepšit kvalitu zvuku",
+        "text": "Hlasovky jsou řeč; přepínač pomůže, aby slova zůstala po zesílení čistá."
+      },
+      {
+        "name": "Zesil",
+        "text": "Nastav „Násobek hlasitosti“ na začátek na ×5, u hodně tiché zprávy na ×8–×10, a klepni na „Zesílit hlasitost“."
+      },
+      {
+        "name": "Porovnej",
+        "text": "Přepni Původní/Zpracované. Pokud nejhlasitější slovo praská, sniž násobek."
+      },
+      {
+        "name": "Ulož nebo přepošli",
+        "text": "Klepni na „Stáhnout zpracované“. Ulož do Souborů, nebo hlasitější kopii rovnou pošli zpátky do WhatsAppu, aby ji slyšela celá skupina."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Požádej časté odesílatele, ať drží telefon blíž; oprava u zdroje je vždycky nejlepší.",
+      "Pokud si hlasovky ukládáš častěji, měj zesílené kopie ve složce v Souborech; vlastní složka médií WhatsAppu se procházet nedá.",
+      "U vlastních hlasovek funguje stejný trik: nahraj, pošli do Increase Volume, zesil a odešli zesílený soubor jako dokument nebo zvuk."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Proč jsou hlasové zprávy potichu, když dám telefon k uchu?",
+      "answer": "Je to záměr: když je senzor přiblížení zakrytý, WhatsApp kvůli soukromí přehrává do sluchátka. Během přehrávání zvyš hlasitost sluchátka tlačítky, nebo drž telefon dál a použij reproduktor."
+    },
+    {
+      "question": "Dá se hlasová zpráva zesílit přímo ve WhatsAppu?",
+      "answer": "Ne. WhatsApp umí měnit rychlost přehrávání (1×, 1,5×, 2×), ale hlasitost zesílit neumí. Zprávu vyexportuj a zesil v Increase Volume."
+    },
+    {
+      "question": "Funguje to i pro Telegram a Messenger?",
+      "answer": "Ano u každé aplikace, která umí zvukový soubor sdílet nebo uložit (Telegram, Signal, iMessage). Messenger uložení hlasovek do souboru obvykle nenabízí, tam pomůže záznam obrazovky. Zesílené soubory můžeš poslat zpátky stejnou aplikací."
+    }
+  ],
+  "related": [
+    "jak-zesilit-nahravku-z-diktafonu-na-iphonu",
+    "jak-zesilit-mp3-na-iphonu",
+    "proc-je-video-z-iphonu-potichu"
+  ]
+}

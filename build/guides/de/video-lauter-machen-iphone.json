@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "Video lauter machen iPhone",
+  "priority": 1,
+  "keywords": "Video lauter machen iPhone, Ton von Video lauter machen, Video Lautstärke erhöhen, Video zu leise iPhone, Audioverstärker Video",
+  "title": "Video lauter machen auf dem iPhone (bis 10×) – Anleitung",
+  "description": "Leises Video auf dem iPhone in unter einer Minute lauter machen: was Fotos und iMovie können, wo ihre Grenze liegt und wie du mit Increase Volume 10× schaffst.",
+  "h1": "Video auf dem iPhone lauter machen",
+  "eyebrow": "Video",
+  "card_title": "Video auf dem iPhone lauter machen",
+  "card_summary": "Fotos kann die Lautstärke nicht erhöhen, iMovie stoppt bei etwa 500 %. So kommst du mit einem Regler auf 10×.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "Um ein Video auf dem iPhone lauter zu machen, öffnest du es in Increase Volume (kostenlos im App Store), ziehst den Regler „Lautstärke-Multiplikation“ bis auf ×10, tippst auf „Lautstärke verstärken“, vergleichst Original und Verarbeitet und tippst auf „Verarbeitete Datei laden“. Die lautere Kopie landet in Fotos oder Dateien und spielt auf jedem Gerät und in jeder App laut. Die Fotos-App hat keine Lautstärkeverstärkung, und iMovie ist bei etwa 500 % am Ende.",
+  "intro": [
+    "Du filmst einen Moment, schickst ihn einem Freund, und die Antwort lautet: „Ich höre nichts.“ Leise Videos gehören zu den häufigsten Ärgernissen auf dem iPhone, weil die Lösung nicht dort ist, wo man sie sucht. Die Lautstärketasten ändern nur, wie laut dein Telefon abspielt, und der Fotos-Editor hat überhaupt keinen Lautstärkeregler.",
+    "Diese Anleitung zeigt die drei realistischen Möglichkeiten auf dem iPhone, was jede kann und was nicht – und dann die schnellste Methode: den Ton des Videos mit Increase Volume bis zu 10× verstärken und eine dauerhaft lautere Datei speichern."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/de/2.webp",
+    "alt": "Increase Volume auf dem iPhone: ein Finger zieht den pinken Boost-Regler über ein Video, um es lauter zu machen",
+    "caption": "Der Boost-Regler liegt direkt über der Videovorschau. Ziehen, anhören, speichern."
+  },
+  "sections": [
+    {
+      "heading": "Warum lauter stellen ein leises Video nicht repariert",
+      "paragraphs": [
+        "Die Lautstärketasten des iPhones ändern, wie laut *dein* Lautsprecher spielt. Die Tondaten in der Videodatei bleiben gleich. Wenn du die Datei teilst, spielt das Handy des Empfängers sie im ursprünglichen, leisen Pegel ab. Um das dauerhaft zu lösen, musst du den Pegel der Tonspur selbst anheben und eine neue Datei speichern. Genau das macht ein Audioverstärker für Videos."
+      ]
+    },
+    {
+      "heading": "Option 1: die Fotos-App (keine Verstärkung)",
+      "paragraphs": [
+        "Öffne das Video in Fotos und tippe auf Bearbeiten. Du findest ein Lautsprechersymbol, das den Ton nur stummschaltet, und auf dem iPhone 16 und neuer – bei Videos mit räumlichem Audio – die Funktion Audio-Mix, die das Verhältnis von Stimmen und Hintergrundgeräuschen ändert. Keins davon erhöht die Gesamtlautstärke. Ist die ganze Aufnahme zu leise, kann Fotos nicht helfen."
+      ]
+    },
+    {
+      "heading": "Option 2: iMovie (kostenlos, Grenze bei etwa 500 %)",
+      "paragraphs": [
+        "iMovie kann die Lautstärke eines Clips erhöhen: Erstelle ein Filmprojekt, füge das Video hinzu, tippe auf den Clip, dann auf das Lautsprechersymbol und ziehe den Regler nach rechts. Zwei Grenzen sind wichtig. Der Regler stoppt bei etwa 500 % (5×), was für eine Aufnahme quer durch den Raum oft nicht reicht. Und du musst ein Projekt anlegen und das ganze Video neu exportieren, was bei einem langen Clip einige Minuten dauert."
+      ],
+      "list": [
+        "iMovie öffnen → Neues Projekt starten → Film, Video auswählen.",
+        "Auf den Clip in der Timeline tippen, auf das Lautsprechersymbol tippen und den Lautstärkeregler nach rechts ziehen (maximal etwa 500 %).",
+        "Auf Fertig → Teilen → Video sichern tippen und den Export abwarten."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Option 3: Increase Volume (bis 10×, ein Regler, unter einer Minute)",
+      "paragraphs": [
+        "Increase Volume ist genau für diese Aufgabe gebaut. Die App öffnet jedes Video aus Fotos oder Dateien, zeigt einen einzigen Regler „Lautstärke-Multiplikation“ bis ×10 (1000 %), lässt dich Original und Verarbeitet vergleichen, bevor du speicherst, und sichert das Ergebnis über das normale Teilen-Menü von iOS. Sie verarbeitet auch reine Audiodateien wie MP3s und Sprachmemos, die iMovie nicht öffnen kann.",
+        "Die Verarbeitung läuft auf dem iPhone. Kein Upload, kein Konto und kein Wasserzeichen im exportierten Video."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Schritt für Schritt: Video mit Increase Volume lauter machen",
+    "intro": "Dauert bei einem normalen Clip etwa eine Minute. Du brauchst die kostenlose App aus dem App Store und das Video in Fotos oder Dateien.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Video in Increase Volume öffnen",
+        "text": "Starte Increase Volume und füge das Video aus Fotos oder Dateien hinzu. Schneller: Öffne das Video in Fotos, tippe auf Teilen und wähle Increase Volume – das Projekt wird sofort angelegt."
+      },
+      {
+        "name": "Details prüfen",
+        "text": "Die App zeigt Dateiname, Größe und Dauer, damit du siehst, dass du den richtigen Clip gewählt hast. Wird vor allem gesprochen, schalte „Audioqualität verbessern“ ein."
+      },
+      {
+        "name": "Verstärkung einstellen",
+        "text": "Ziehe den Regler „Lautstärke-Multiplikation“. Starte bei ×3 bis ×5 für ein Video, das nur etwas leise ist; geh auf ×10 für eine Aufnahme, die du kaum hörst. Tippe auf „Lautstärke auf ×N verstärken“."
+      },
+      {
+        "name": "Original und Verarbeitet vergleichen",
+        "text": "Wechsle mit dem Umschalter unter dem Button zwischen Original und verstärkter Version. Klingen laute Stellen hart, geh zurück und senke den Faktor um eine Stufe."
+      },
+      {
+        "name": "Laden und teilen",
+        "text": "Tippe auf „Verarbeitete Datei laden“. Wähle im Teilen-Menü Video sichern, um die lautere Kopie in Fotos abzulegen, In Dateien sichern, oder schick sie direkt an Nachrichten, WhatsApp, AirDrop oder TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipps für das beste Ergebnis",
+    "items": [
+      "Verstärke das Video, *bevor* du es auf TikTok, Instagram oder YouTube hochlädst. Die Plattformen gleichen die Lautheit beim Upload an, können aber eine zu leise Tonspur nicht retten.",
+      "Hat der Clip einen lauten Moment (Lachen, eine zuschlagende Tür) und leise Sprache drumherum, nimm einen mittleren Faktor (×3–×5) und schalte „Audioqualität verbessern“ ein, statt ×10 zu erzwingen.",
+      "Dein Original bleibt unverändert. Increase Volume schreibt immer eine neue Datei, du kannst also mehrere Stufen ausprobieren.",
+      "Videos mit verdecktem Mikrofon (Hülle, Finger) sind leise *und* dumpf; die Verstärkung behebt den Pegel, nicht den dumpfen Klang."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kann ich ein Video auf dem iPhone ohne App lauter machen?",
+      "answer": "Nur mit iMovie, das Apple kostenlos anbietet und das die Clip-Lautstärke auf etwa 500 % erhöht. Die Fotos-App selbst kann die Lautstärke nicht erhöhen. Für mehr als 5× oder einen schnelleren Ablauf nimm Increase Volume."
+    },
+    {
+      "question": "Wird die Qualität schlechter, wenn ich ein Video lauter mache?",
+      "answer": "Das Bild bleibt völlig unberührt. Der Ton wird multipliziert; treibst du eine Aufnahme mit lauten Spitzen zu weit, kann sie übersteuern und hart klingen. Deshalb hat Increase Volume den Umschalter Original/Verarbeitet, mit dem du vor dem Speichern reinhörst."
+    },
+    {
+      "question": "Bleibt das Video laut, wenn ich es verschicke?",
+      "answer": "Ja. Die Verstärkung steckt in der Tonspur der Datei, also spielt sie auf jedem Handy, Computer und in jeder Social-App im neuen Pegel."
+    },
+    {
+      "question": "Klappt das auch mit heruntergeladenen Videos?",
+      "answer": "Ja, solange die Datei in Fotos oder Dateien liegt und nicht kopiergeschützt ist. Increase Volume öffnet MP4- und MOV-Dateien aus jeder Quelle."
+    }
+  ],
+  "related": [
+    "ton-lauter-machen-ohne-qualitaetsverlust",
+    "bildschirmaufnahme-zu-leise-iphone",
+    "imovie-lautstaerke-ueber-500-prozent"
+  ],
+  "cta": {
+    "title": "Mach dein leises Video jetzt lauter",
+    "text": "Increase Volume ist kostenlos im App Store. Video an die App teilen, auf ×10 ziehen, „Verarbeitete Datei laden“ tippen."
+  }
+}

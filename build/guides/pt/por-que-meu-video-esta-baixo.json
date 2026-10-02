@@ -1,0 +1,105 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "por que meu vídeo está com som baixo no iPhone",
+  "priority": 7,
+  "keywords": "por que meu vídeo está com som baixo no iPhone, vídeo com som baixo iPhone, vídeo sem som iPhone, alto-falante do iPhone baixo, som do vídeo baixo",
+  "title": "Por que meu vídeo está com som baixo no iPhone? 7 causas",
+  "description": "Vídeo com som baixo no iPhone? Descubra se a culpa é da reprodução (silenciado, Bluetooth, segurança dos fones) ou da gravação, e como resolver cada caso.",
+  "h1": "Por que meu vídeo está com som baixo no iPhone?",
+  "eyebrow": "Solução de problemas",
+  "card_title": "Por que o vídeo está baixo?",
+  "card_summary": "Sete causas de som baixo: quatro na reprodução, três na gravação, e a solução para cada uma.",
+  "quick_answer": "Se todos os vídeos estão baixos, o problema é a reprodução: confira se o som do vídeo não está silenciado, se não há Bluetooth conectado, a Segurança dos Fones de Ouvido em Sons e Tátil e se o alto-falante está limpo. Se só um vídeo está baixo, o problema é a gravação: a pessoa estava longe, o microfone estava tapado ou o som foi gravado baixo. Aí você deixa o arquivo mais alto com o app Aumentar Volume, até 10×.",
+  "intro": [
+    "«Por que meu vídeo está baixo?» tem duas respostas, e vale saber qual é a sua antes de mudar qualquer coisa. Teste: toque outro vídeo. Se ele também está baixo, é o celular. Se soa normal, é o arquivo.",
+    "Estas são as sete causas mais comuns, divididas nesses dois grupos."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/pt/1.webp",
+    "alt": "Imagem promocional do app Aumentar Volume: aumentar volume até 1000%, 10× mais alto",
+    "caption": "Quando a própria gravação está baixa, o app deixa o arquivo até 10× mais alto."
+  },
+  "sections": [
+    {
+      "id": "reproducao",
+      "heading": "Causas na reprodução (todos os vídeos baixos)",
+      "paragraphs": [],
+      "list": [
+        "O som do vídeo está silenciado: toque no ícone de alto-falante no player do Fotos.",
+        "O som está indo para o Bluetooth: AirPods ou o som do carro podem estar conectados; confira a saída de áudio na Central de Controle.",
+        "Segurança dos fones: Ajustes › Sons e Tátil › Segurança dos Fones de Ouvido › Reduzir Áudio Alto limita o nível.",
+        "Alto-falante entupido: poeira ou fiapos na grade abafam o som; limpe com uma escova macia e seca."
+      ],
+      "ordered": true,
+      "note": "Nenhum app passa do limite físico do alto-falante nem muda o volume de todo o sistema."
+    },
+    {
+      "heading": "Causas na gravação (um vídeo baixo)",
+      "paragraphs": [],
+      "list": [
+        "Distância: quem falava estava longe do microfone.",
+        "Microfone tapado: capinha, dedo ou bolso abafaram o som.",
+        "Gravação de tela ou download: o iOS ou o app de origem entregou o som num nível baixo."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "A solução quando a gravação está baixa",
+      "paragraphs": [
+        "Não dá para aumentar o que não foi gravado alto o suficiente, mas dá para subir o nível do arquivo. O app Aumentar Volume multiplica a trilha de áudio até 10× e salva um novo vídeo. Ele toca alto em qualquer lugar, inclusive para quem você enviar."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Deixe um vídeo baixo mais alto",
+    "intro": "Quando o teste mostrou que o problema é o arquivo.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Compartilhe o vídeo com o app",
+        "text": "Abra o vídeo no Fotos → Compartilhar → Increase Volume."
+      },
+      {
+        "name": "Amplifique",
+        "text": "Arraste «Multiplicação do volume» (×3–×10) e toque em «Amplificar volume para ×N»."
+      },
+      {
+        "name": "Compare",
+        "text": "Ouça com Original/Processado; reduza se estourar."
+      },
+      {
+        "name": "Salve",
+        "text": "Toque em «Baixar processado» → Salvar Vídeo."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Como evitar vídeos baixos",
+    "items": [
+      "Mantenha os dedos longe dos furos do microfone embaixo e perto da câmera.",
+      "Chegue mais perto de quem fala; a distância derruba o nível rápido.",
+      "Faça uma gravação de teste de cinco segundos antes do momento importante."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Por que meu vídeo ficou sem som nenhum?",
+      "answer": "Confira se o som não foi desativado na edição do Fotos e se nenhum aparelho Bluetooth está pegando o som. Se a gravação não tem trilha de áudio, não dá para amplificar."
+    },
+    {
+      "question": "O app deixa o alto-falante do iPhone mais alto?",
+      "answer": "Não. Ele deixa o arquivo mais alto. O máximo do alto-falante é físico e nenhum app ultrapassa."
+    },
+    {
+      "question": "Por que os vídeos que recebo estão baixos?",
+      "answer": "Eles foram gravados ou exportados baixos. Amplifique o arquivo e ele vai tocar alto."
+    }
+  ],
+  "related": [
+    "como-aumentar-volume-de-video-no-iphone",
+    "gravacao-de-tela-com-som-baixo-iphone",
+    "aumentar-volume-de-video-no-app-fotos"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

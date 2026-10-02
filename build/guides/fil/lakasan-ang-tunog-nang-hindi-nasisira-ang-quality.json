@@ -1,0 +1,140 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "lakasan nang hindi nasisira ang quality",
+  "priority": 10,
+  "keywords": "lakasan ang tunog nang hindi nasisira ang quality, lakasan nang walang distortion, nagki-clip ang audio, boost volume without distortion, bumababa ba ang quality",
+  "title": "Paano lakasan ang video nang hindi nasisira ang quality",
+  "description": "Kapag sobra ang boost, nagki-clip ang tunog. Alamin kung paano gumagana ang boost, gaano kalaki ang ligtas, at paano i-check sa Increase Volume bago mag-save.",
+  "h1": "Paano lakasan ang tunog ng video nang hindi nasisira ang quality",
+  "eyebrow": "Quality",
+  "card_title": "Lakasan nang walang distortion",
+  "card_summary": "Ano ang clipping, gaano kalaki ang espasyo ng mahinang recording, at paano mag-check bago mag-save.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Hindi ginagalaw ng boost ang picture at hindi nito sinisira ang audio hangga't nasa ilalim ng digital ceiling ang pinakamalalakas na peak. Sa iPhone, buksan ang video sa Increase Volume, magsimula sa ×3, i-tap ang «Boost Volume», at pakinggan ang pinakamalakas na moment gamit ang Orihinal/Na-process toggle. Itaas ang multiplier hanggang malinaw na malakas pero hindi magaspang. I-on ang «Improve Audio Quality» para sa boses at i-save gamit ang «Download Processed». Hindi kailanman binabago ang orihinal na file.",
+  "intro": [
+    "«Hindi ba magdi-distort?» ang unang tanong ng lahat tungkol sa volume booster, at tamang tanong iyon. Ang pag-boost ay pag-multiply: lumalaki ang bawat sample ng audio. Kapag umabot ang pinakamalalaki sa maximum na kaya ng format, napuputol sila nang patag at may maririnig kang lagutok o gaspang sa malalakas na parte. Clipping ang tawag doon, at iyon lang ang totoong panganib sa quality.",
+    "Ang magandang balita: ang *mahinang* recording ay talagang maraming espasyo bago umabot sa ceiling. Ipapaliwanag dito kung paano gamitin ang espasyong iyon at i-check ang resulta bago mag-save."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "Result screen ng Increase Volume na may Download Processed button at Orihinal/Na-process toggle",
+    "caption": "Laging ikumpara ang pinakamalakas na parte gamit ang Orihinal/Na-process bago mag-download."
+  },
+  "sections": [
+    {
+      "heading": "Ano talaga ang nagbabago pag nag-boost",
+      "paragraphs": [
+        "Audio track lang ang pinoproseso. Dumadaan lang ang video stream, kaya pareho pa rin ang resolution, frame rate at kulay. Sa audio, dinodoble ng ×2 ang amplitude (mga +6 dB), mga +12 dB ang ×4, at +20 dB ang ×10. Pareho ring mina-multiply ang ingay sa recording (ugong ng kwarto, hangin), kaya puwedeng may sutsot ang sobrang laking boost sa maingay na recording kahit walang nagki-clip."
+      ]
+    },
+    {
+      "heading": "Gaano kalaking boost ang ligtas?",
+      "paragraphs": [
+        "Nakadepende ito sa layo ng pinakamalakas na moment mula sa ceiling, hindi sa kung gaano kahina ang *average*. Ang recording na mahinang-mahina pero may isang kalabog ng pinto sa full level ay hindi kaya ang malaking boost bago mag-clip ang kalabog. Ang pantay na mahinang recording, tulad ng lecture mula sa likod ng classroom, ay madalas kaya ang ×8–×10 nang malinis."
+      ],
+      "table": {
+        "head": [
+          "Recording",
+          "Karaniwang ligtas na range",
+          "Paalala"
+        ],
+        "rows": [
+          [
+            "Voice memo o lecture na malayo ang record",
+            "×5 – ×10",
+            "I-on ang Improve Audio Quality para sa boses."
+          ],
+          [
+            "Video sa phone na medyo mahina lang",
+            "×2 – ×4",
+            "I-check ang pinakamalakas na tawa o palakpak."
+          ],
+          [
+            "Screen recording",
+            "×5 – ×10",
+            "Kadalasang malayo sa normal na level."
+          ],
+          [
+            "Music na mahinang verse at malakas na chorus",
+            "×1.5 – ×3",
+            "Ang chorus ang limit."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Gamitin ang Orihinal/Na-process check",
+      "paragraphs": [
+        "Pinoproseso ng Increase Volume ang file at ipinapakita ang Orihinal/Na-process toggle bago mag-save ng kahit ano. Hanapin ang pinakamalakas na moment at magpalit sa dalawa. Kung magaspang o may lagutok ang Na-process doon, bawasan ng isang level ang multiplier at i-boost ulit. Dahil bagong file ang ginagawa ng app, malaya kang sumubok; hindi nagagalaw ang orihinal."
+      ]
+    },
+    {
+      "heading": "Improve Audio Quality: kailan i-on",
+      "paragraphs": [
+        "Nagdadagdag ang «Improve Audio Quality» ng processing para sa linaw, na pinakamakakatulong sa boses: interview, lecture, voice message, tutorial na naka-screen record. Sa music, subukan pareho at piliin ang mas natural. Naka-label itong experimental sa kasalukuyang version, kaya laging pakinggan ang resulta."
+      ]
+    },
+    {
+      "id": "privacy",
+      "heading": "Privacy: lahat ay nananatili sa phone mo",
+      "paragraphs": [
+        "Sa iPhone mismo pinoproseso ng Increase Volume ang files. Walang upload, walang account, at sine-save ang resulta gamit ang normal na share sheet ng iOS sa Photos, Files o kahit anong app. Kailangan ng online boosters na ipadala ang file sa server at kadalasang nire-re-encode ito sa mas mababang quality; naiiwasan pareho ng app na nasa phone."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: malinis na boost",
+    "intro": "Parehong workflow para sa video at audio.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Buksan ang file sa Increase Volume",
+        "text": "Idagdag mula sa Photos o Files, o i-share sa app mula kahit saan."
+      },
+      {
+        "name": "Pagpasyahan ang Improve Audio Quality",
+        "text": "Naka-on para sa boses; sa music, subukan pareho."
+      },
+      {
+        "name": "Magsimula nang katamtaman",
+        "text": "I-set ang «Volume multiplication» sa ×3 at i-tap ang «Boost Volume»."
+      },
+      {
+        "name": "I-check ang pinakamalakas na moment",
+        "text": "Magpalit sa Orihinal at Na-process sa pinakamalakas na parte. Malinis? Itaas at ulitin. Magaspang? Ibaba."
+      },
+      {
+        "name": "I-save",
+        "text": "I-tap ang «Download Processed» at i-save sa Photos o Files. Buo pa rin ang orihinal."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Gumamit ng headphones sa pag-check; tinatago ng speaker ng phone ang bahagyang clipping.",
+      "Sa maingay na file, kadalasang mas maganda ang medyo mas mababang multiplier na naka-on ang «Improve Audio Quality» kaysa sa pinakamataas na boost.",
+      "Mag-boost nang isang beses, mula sa orihinal. Ang pag-boost ulit ng na-boost nang export ay nagpapatong-patong ng sira."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bababa ba ang resolution ng video kapag nilakasan ang volume?",
+      "answer": "Hindi. Audio lang ang pinoproseso. Pareho ang resolution, frame rate at bitrate ng video stream."
+    },
+    {
+      "question": "Ano ang tunog ng distortion dahil sa sobrang boost?",
+      "answer": "Lagutok, ugong o gaspang sa pinakamalalakas na moment lang, habang ayos ang mahihinang parte. Kapag narinig mo iyon, bawasan ang multiplier."
+    },
+    {
+      "question": "Sobra ba ang ×10?",
+      "answer": "Hindi para sa talagang mahihinang recording tulad ng malalayong voice memo o screen recording. Sa normal na video sa phone, kadalasang sapat ang ×2–×4. Hayaan ang Orihinal/Na-process check ang magdesisyon."
+    }
+  ],
+  "related": [
+    "paano-lakasan-ang-volume-ng-video-sa-iphone",
+    "paano-lakasan-ang-voice-memo-sa-iphone",
+    "bakit-mahina-ang-tunog-ng-video-sa-iphone"
+  ]
+}

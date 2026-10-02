@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "schermopname geluid te zacht",
+  "priority": 3,
+  "keywords": "schermopname geluid te zacht, schermopname zonder geluid iPhone, schermopname harder maken, schermopname met geluid iPhone, schermopname volume",
+  "title": "Schermopname op iPhone te zacht? Zo maak je hem harder",
+  "description": "Schermopnames op iPhone hebben vaak te zacht geluid. Lees waarom, hoe je de volgende keer harder opneemt en hoe je een bestaande opname tot 10× harder maakt.",
+  "h1": "Schermopname met te zacht geluid op iPhone: zo maak je hem harder",
+  "eyebrow": "Schermopname",
+  "card_title": "Schermopname harder maken",
+  "card_summary": "iOS neemt app-geluid zacht op. Repareer een opname in een minuut en neem de volgende keer harder op.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Een bewaarde schermopname maak je niet harder via de systeeminstellingen, maar het bestand wel: open het in Audioversterker, zet 'Volumevermenigvuldiging' op ×5–×10, tik op 'Volume versterken', luister naar Verwerkt en tik op 'Verwerkt bestand downloaden'. Om de volgende keer harder op te nemen: zet het mediavolume omhoog voordat je begint, koppel Bluetooth-oortjes los en houd voor commentaar Schermopname in het bedieningspaneel ingedrukt en zet de microfoon aan.",
+  "intro": [
+    "Schermopnames zijn de zachtste video's die bijna elke iPhone maakt. iOS neemt app-geluid op een voorzichtig niveau op om vervorming te voorkomen, en als er oortjes verbonden waren of de app zacht stond, kan de opgenomen track bijna stil zijn. Praat je er ook nog doorheen via de microfoon, dan wordt de mix nog schever.",
+    "Hier lees je waarom je opname zacht is, wat je voor de volgende keer verandert en hoe je de opname die je al hebt redt."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Schermafbeelding 'Select the amount of boosting': schuifregelaar volumevermenigvuldiging ×10 en versterkknop in Audioversterker",
+    "caption": "Schermopnames hebben meestal flinke versterking nodig; ×5 tot ×10 is normaal."
+  },
+  "sections": [
+    {
+      "heading": "Waarom schermopnames op iPhone zo zacht zijn",
+      "paragraphs": [
+        "Bijna altijd is het een van deze vier oorzaken:"
+      ],
+      "list": [
+        "Opnameniveau: iOS neemt het interne geluid van apps op een verlaagd niveau op, zodat harde games en video's niet vervormen.",
+        "Bluetooth: met AirPods of een Bluetooth-speaker verbonden is het opgenomen geluid vaak veel zachter of wordt het helemaal niet opgenomen.",
+        "App-volume: de opname legt het geluid vast op het volume dat aanstond. Stond je telefoon op 30%, dan staat de opname op 30%.",
+        "Mix met microfoon: zet je de microfoon aan, dan mengt je stem met het app-geluid en zet iOS de app zachter om ruimte te maken."
+      ]
+    },
+    {
+      "heading": "Neem de volgende keer harder op",
+      "paragraphs": [
+        "Voor het opnemen: koppel Bluetooth-audio los, zet het mediavolume op maximaal en demp meldingen met een focusmodus. Voor commentaar houd je Schermopname in het bedieningspaneel ingedrukt en tik je op Microfoon zodat die rood wordt; een gewone tik neemt alleen het app-geluid op. Een testopname van vijf seconden laat meteen zien of het niveau goed is."
+      ]
+    },
+    {
+      "heading": "Repareer de opname die je al hebt",
+      "paragraphs": [
+        "Systeeminstellingen veranderen een bewaard bestand niet. iMovie kan hem tot ongeveer 500% harder maken, soms genoeg, maar dat vraagt een project en een nieuwe export. Audioversterker gaat tot ×10, werkt direct met het bestand uit Foto's en heeft de schakelaar Origineel/Verwerkt zodat je het versterkte niveau hoort voordat je bewaart. Bij tutorials met commentaar zet je 'Audiokwaliteit verbeteren' aan zodat de spraak beter verstaanbaar is."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Stap voor stap: een schermopname harder maken",
+    "intro": "Je hebt de gratis app Audioversterker en de opname in Foto's nodig.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Deel de opname met de app",
+        "text": "Open de schermopname in Foto's, tik op Deel en kies Increase Volume. Of open de app en voeg het bestand toe uit Foto's."
+      },
+      {
+        "name": "Commentaar ingesproken? Audiokwaliteit verbeteren",
+        "text": "Heb je tijdens het opnemen gepraat, zet dan 'Audiokwaliteit verbeteren' aan zodat je stem helder blijft na het versterken."
+      },
+      {
+        "name": "Kies de vermenigvuldiging",
+        "text": "Zet 'Volumevermenigvuldiging' eerst op ×5. Schermopnames liggen meestal ver onder het normale niveau, dus ×8–×10 is gewoon. Tik op 'Volume versterken'."
+      },
+      {
+        "name": "Luister naar Verwerkt",
+        "text": "Schakel naar Verwerkt en speel het hardste stuk af. Klinkt het rauw, verlaag dan de vermenigvuldiging."
+      },
+      {
+        "name": "Verwerkt bestand downloaden",
+        "text": "Tik op 'Verwerkt bestand downloaden' en kies Bewaar video om de luidere opname aan Foto's toe te voegen, of stuur hem direct naar YouTube, Slack, Berichten of je bewerkingsapp."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Versterk voordat je in een andere bewerker knipt of ondertitels toevoegt; een luidere bron geeft alle volgende tools meer ruimte.",
+      "Bij gameplay met muziek voorkomt een gematigde versterking (×3–×4) dat de muziek vervormt, terwijl het totaalniveau omhooggaat.",
+      "Is de opname stil in plaats van zacht, dan is het geluid nooit opgenomen (meestal een gedempte app of een video met DRM). Geen versterker voegt geluid toe dat niet is opgenomen."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Waarom heeft mijn schermopname geen geluid?",
+      "answer": "Of de opgenomen app pauzeert zijn geluid zodra hij een schermopname detecteert (streaming- en videobel-apps doen dat), of de video had DRM, of het mediavolume stond op nul. Een stille track kun je niet versterken; neem opnieuw op met het app-geluid aan en het volume hoog."
+    },
+    {
+      "question": "Kan ik alleen mijn stem harder maken en niet het gamegeluid?",
+      "answer": "Audioversterker versterkt de hele gemixte track. Met 'Audiokwaliteit verbeteren' krijgt verstaanbaarheid van spraak voorrang, zodat je commentaar na het versterken meestal beter opvalt."
+    },
+    {
+      "question": "Verandert de resolutie als ik het geluid harder maak?",
+      "answer": "Nee. Alleen de audiotrack wordt verwerkt; het beeld gaat ongewijzigd door."
+    }
+  ],
+  "related": [
+    "video-geluid-harder-maken-iphone",
+    "waarom-is-mijn-video-zo-zacht",
+    "harder-maken-zonder-kwaliteitsverlies"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "hvorfor er lyden på min video så lav",
+  "priority": 7,
+  "keywords": "hvorfor er lyden på min video så lav, iPhone video lav lyd, optaget video for lav, iPhone mikrofon lav lyd video, iPhone video svag lyd",
+  "title": "Hvorfor er lyden på min iPhone-video så lav? 7 årsager",
+  "description": "Lav lyd på iPhone-video skyldes ofte afstand, en dækket mikrofon, vind, Bluetooth eller en lydgrænse. Find årsagen, og forstærk filen 10× med Increase Volume.",
+  "h1": "Hvorfor er lyden på min iPhone-video så lav? Årsager og løsning",
+  "eyebrow": "Fejlfinding",
+  "card_title": "Hvorfor er min iPhone-video så lav?",
+  "card_summary": "Syv årsager, fra en dækket mikrofon til grænsen for høretelefoner, og hvordan du redder den video, du allerede har.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "En iPhone-video er lav, enten fordi den blev *optaget* lavt (personen for langt fra mikrofonen, mikrofonen dækket af cover eller finger, vind, lav app-lydstyrke under en skærmoptagelse), eller fordi den *afspilles* lavt (Bluetooth-enhed tilsluttet, Reducer høj lyd, snavset højttaler). Tjek afspilningsårsagerne først med en anden video. Er selve optagelsen lav, kan ingen indstilling rette den; forstærk filen op til 10× med Increase Volume, og gem en højere kopi.",
+  "intro": [
+    "Find først ud af, hvilken slags lav lyd du har. Afspil en anden video, du ved er i orden. Er den høj, er din telefon fin, og problemet ligger i optagelsen. Er alt lavt, er det et afspilningsproblem med telefonen. Årsagerne og løsningerne er helt forskellige, så den test på tredive sekunder sparer meget tid.",
+    "Herunder er de syv årsager, vi ser oftest, i rækkefølge efter hvor ofte de viser sig at være synderen."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/1.webp",
+    "alt": "Markedsføringsbillede for Increase Volume med ti gange højere lydforstærkning til iPhone",
+    "caption": "Er selve optagelsen lav, er løsningen at forstærke filen."
+  },
+  "sections": [
+    {
+      "heading": "Optagelsesårsager (videoen er lav overalt)",
+      "paragraphs": [
+        "Disse er bagt ind i filen. De forklarer, hvorfor videoen er lav på alle telefoner, du sender den til."
+      ],
+      "list": [
+        "Afstand: Telefonens mikrofoner er indstillet til en taler inden for cirka en meter. En person på den anden side af rummet lyder svag og rungende.",
+        "Dækket mikrofon: Hovedmikrofonen til video sidder ved de bageste kameraer; et tykt cover, en finger eller en holder kan dæmpe den. Optagelsen bliver lav og dump.",
+        "Vind og baggrundsstøj: iPhone sænker følsomheden, når omgivelserne er larmende, så den, der taler, bliver lavere.",
+        "Niveau ved skærmoptagelse: iOS optager app-lyd på et reduceret niveau og endnu lavere, hvis lydstyrken i appen var skruet ned, eller Bluetooth-høretelefoner var tilsluttet.",
+        "Modtagne klip: En video sendt via WhatsApp eller Messenger genkodes af tjenesten og ankommer nogle gange på et lavere niveau end originalen."
+      ]
+    },
+    {
+      "id": "afspilning",
+      "heading": "Afspilningsårsager (alle videoer er lave på denne telefon)",
+      "paragraphs": [
+        "Disse får din telefon til at spille lavt; filen er fin og lyder normalt andre steder."
+      ],
+      "list": [
+        "Bluetooth stadig tilsluttet: Lyden går til AirPods i en skuffe eller et bilanlæg. Åbn Kontrolcenter, og tjek lydudgangen.",
+        "Reducer høj lyd: Indstillinger › Lyde og haptik › Høretelefonsikkerhed begrænser lydstyrken i høretelefoner. Det er en god beskyttelse, men gør lave videoer endnu lavere i høretelefoner.",
+        "Opmærksomhedsfunktioner (iPhone med Face ID): Indstillinger › Face ID og adgangskode sænker lyden for advarsler, når du kigger på telefonen; nogle oplever, at medier også føles lavere.",
+        "Snavset højttalergitter eller rester af vand: En tør, blød børste giver overraskende meget lyd tilbage.",
+        "Højttalerbalance: Indstillinger › Tilgængelighed › Lyd/billede › Balance bør stå i midten."
+      ]
+    },
+    {
+      "heading": "Løsningen på en lavt optaget video",
+      "paragraphs": [
+        "Du kan ikke optage øjeblikket igen, og iPhone-indstillinger kan ikke ændre en gemt fil. Fotos har ingen lydstyrkeskyder; iMovie kan hæve klippets lydstyrke til cirka 500 %, når du har oprettet et projekt. Increase Volume åbner videoen direkte fra Fotos, ganger lyden op til ×10, lader dig sammenligne Original og Behandlet og gemmer en ny kopi. Den højere kopi spiller højt på alle enheder og i alle apps.",
+        "Var årsagen en dækket mikrofon, retter forstærkningen niveauet, men ikke den dumpe klang; slå „Forbedr lydkvalitet“ til for at hjælpe talen."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Trin for trin: red en lav video",
+    "intro": "Et minut med den gratis app Increase Volume.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Bekræft, at det er optagelsen",
+        "text": "Afspil en anden video. Er den høj, så fortsæt; ellers skal du først løse afspilningsårsagerne ovenfor."
+      },
+      {
+        "name": "Del den lave video til Increase Volume",
+        "text": "Åbn den i Fotos, tryk på Del, og vælg Increase Volume."
+      },
+      {
+        "name": "Forstærk",
+        "text": "Sæt „Lydstyrke-multiplikation“ til ×4 som udgangspunkt (højere for meget lave klip), slå „Forbedr lydkvalitet“ til, hvis det er tale, og tryk på „Boost lydstyrke“."
+      },
+      {
+        "name": "Sammenlign",
+        "text": "Skift Original/Behandlet ved det højeste øjeblik, og juster multiplikationen efter behov."
+      },
+      {
+        "name": "Gem",
+        "text": "Tryk på „Download behandlet“ → Gem video. Del den nye kopi i stedet for originalen."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Optag højere næste gang",
+    "items": [
+      "Kom inden for en armslængde af den, der taler, eller brug en mikrofon med eller uden ledning, der sættes på tøjet.",
+      "Tag coveret af, eller tjek at intet dækker de bageste mikrofoner.",
+      "Til skærmoptagelser: afbryd Bluetooth, og skru medielydstyrken helt op, før du optager.",
+      "Skærm telefonen mod vind med kroppen eller en kuperet hånd."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Hvorfor er min iPhone-video kun lav, når jeg sender den?",
+      "answer": "Beskedtjenester genkoder video og kan sænke niveauet en smule, men den største effekt er, at modtagerens telefon afspiller den på det oprindelige lave niveau og ikke med din højttaler skruet helt op. Forstærk filen, før du sender den."
+    },
+    {
+      "question": "Kan en lydforstærker-app gøre min iPhone-højttaler højere?",
+      "answer": "Ingen app kan overgå højttalerens hardwaregrænse eller ændre lydstyrken for hele systemet; Apple tillader det ikke. Forstærkere virker ved at gøre filen højere, og det er netop det, du har brug for, når selve optagelsen er lav."
+    },
+    {
+      "question": "Påvirker lydløs-knappen videoens lydstyrke?",
+      "answer": "Nej. Ring/lydløs-knappen (eller Handlingsknappen) slår kun ringetoner og advarsler fra. Medielydstyrken styres med lydstyrkeknapperne, mens en video spiller."
+    }
+  ],
+  "related": [
+    "goer-en-video-hoejere-paa-iphone",
+    "skaermoptagelse-med-for-lav-lyd-paa-iphone",
+    "goer-lyden-hoejere-uden-at-miste-kvalitet"
+  ]
+}

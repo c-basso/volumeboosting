@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "registrazione schermo audio basso",
+  "priority": 3,
+  "keywords": "registrazione schermo audio basso, registrazione schermo senza audio iPhone, alzare volume registrazione schermo, registrare schermo con audio iPhone, registrazione schermo volume basso",
+  "title": "Registrazione schermo iPhone con audio basso? La soluzione",
+  "description": "Le registrazioni dello schermo di iPhone hanno spesso l'audio basso. Scopri perché, come registrare più forte e come alzare una registrazione già fatta 10×.",
+  "h1": "Registrazione schermo con audio basso su iPhone: come alzarla",
+  "eyebrow": "Registrazione schermo",
+  "card_title": "Alzare una registrazione dello schermo",
+  "card_summary": "iOS registra l'audio delle app basso. Sistema una registrazione in un minuto e registra più forte la prossima volta.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Una registrazione dello schermo già salvata non si alza dalle impostazioni di sistema, ma il file sì: aprilo in Aumenta Volume, imposta «Moltiplicazione volume» a ×5–×10, tocca «Potenzia volume», ascolta l'Elaborato e tocca «Scarica elaborato». Per registrare più forte la prossima volta: alza il volume multimediale prima di iniziare, scollega le cuffie Bluetooth e, per commentare, tieni premuto Registrazione schermo nel Centro di Controllo e attiva il microfono.",
+  "intro": [
+    "Le registrazioni dello schermo sono i video più bassi che fa quasi ogni iPhone. iOS cattura l'audio delle app a un livello prudente per evitare distorsioni, e se avevi cuffie collegate o l'app era bassa, la traccia registrata può essere quasi muta. Se poi commenti al microfono, il mix è ancora più squilibrato.",
+    "Ecco perché la tua registrazione è bassa, cosa cambiare prima della prossima e come salvare quella che hai già."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/it/4.webp",
+    "alt": "Schermata «Seleziona la quantità di aumento»: cursore di moltiplicazione volume ×10 e pulsante di potenziamento in Aumenta Volume",
+    "caption": "Le registrazioni dello schermo di solito richiedono un potenziamento forte; ×5–×10 è normale."
+  },
+  "sections": [
+    {
+      "heading": "Perché le registrazioni dello schermo di iPhone sono così basse",
+      "paragraphs": [
+        "Quasi sempre è uno di questi quattro motivi:"
+      ],
+      "list": [
+        "Livello di cattura: iOS registra l'audio interno delle app a un livello ridotto, così giochi e video forti non distorcono.",
+        "Bluetooth: con AirPods o un altoparlante Bluetooth collegato, l'audio registrato spesso è molto più basso o non viene registrato affatto.",
+        "Volume dell'app: la registrazione cattura l'audio al volume impostato. Se il telefono era al 30%, la registrazione è al 30%.",
+        "Mix con il microfono: se attivi il microfono, la tua voce si mescola all'audio dell'app e iOS abbassa l'app per farle spazio."
+      ]
+    },
+    {
+      "heading": "La prossima volta registra più forte",
+      "paragraphs": [
+        "Prima di registrare: scollega l'audio Bluetooth, alza il volume multimediale al massimo e silenzia le notifiche con una modalità Full immersion. Per commentare, tieni premuto Registrazione schermo nel Centro di Controllo e tocca Microfono finché diventa rosso; un tocco normale registra solo l'audio dell'app. Una prova di cinque secondi ti dice subito se il livello va bene."
+      ]
+    },
+    {
+      "heading": "Sistema la registrazione che hai già",
+      "paragraphs": [
+        "Le impostazioni di sistema non cambiano un file già salvato. iMovie può alzarlo fino al 500% circa, a volte basta, ma richiede un progetto e una nuova esportazione. Aumenta Volume arriva a ×10, lavora direttamente sul file in Foto e ha il selettore Originale/Elaborato per sentire il livello potenziato prima di salvare. Nei tutorial commentati attiva «Migliora qualità audio» per rendere il parlato più comprensibile."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Passo dopo passo: alzare una registrazione dello schermo",
+    "intro": "Ti servono l'app gratuita Aumenta Volume e la registrazione in Foto.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Condividi la registrazione con l'app",
+        "text": "Apri la registrazione dello schermo in Foto, tocca Condividi e scegli Increase Volume. Oppure apri l'app e aggiungi il file da Foto."
+      },
+      {
+        "name": "Se hai commentato, Migliora qualità audio",
+        "text": "Se hai parlato durante la registrazione, attiva «Migliora qualità audio» perché la voce resti chiara dopo il potenziamento."
+      },
+      {
+        "name": "Scegli il moltiplicatore",
+        "text": "Imposta «Moltiplicazione volume» a ×5 per iniziare. Le registrazioni dello schermo sono di solito molto sotto il livello normale, quindi ×8–×10 è frequente. Tocca «Potenzia volume»."
+      },
+      {
+        "name": "Ascolta l'Elaborato",
+        "text": "Passa a Elaborato e riproduci la parte più forte. Se gracchia, abbassa il moltiplicatore."
+      },
+      {
+        "name": "Scarica elaborato",
+        "text": "Tocca «Scarica elaborato» e scegli Salva video per aggiungere la registrazione più forte a Foto, oppure inviala direttamente a YouTube, Slack, Messaggi o al tuo editor."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consigli",
+    "items": [
+      "Potenzia prima di tagliare o aggiungere sottotitoli in un altro editor; una sorgente più forte lascia più margine a tutti gli strumenti successivi.",
+      "Nel gameplay registrato con musica, un potenziamento moderato (×3–×4) evita che la musica distorca e alza il livello generale.",
+      "Se la registrazione è muta e non solo bassa, l'audio non è mai stato registrato (di solito un'app silenziata o un video con DRM). Nessun amplificatore aggiunge un suono che non è stato registrato."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Perché la mia registrazione dello schermo non ha audio?",
+      "answer": "O l'app registrata mette in pausa il suo audio quando rileva la registrazione dello schermo (lo fanno app di streaming e videochiamate), o il video aveva il DRM, o il volume multimediale era a zero. Una traccia muta non si può potenziare; registra di nuovo con l'audio dell'app attivo e il volume alto."
+    },
+    {
+      "question": "Posso alzare solo la mia voce e non il suono del gioco?",
+      "answer": "Aumenta Volume potenzia l'intera traccia mixata. Con «Migliora qualità audio» la priorità va alla comprensibilità del parlato, quindi di solito il commento risalta di più dopo il potenziamento."
+    },
+    {
+      "question": "La risoluzione del video cambia quando alzo il volume?",
+      "answer": "No. Viene elaborata solo la traccia audio; l'immagine passa invariata."
+    }
+  ],
+  "related": [
+    "come-aumentare-il-volume-di-un-video-su-iphone",
+    "perche-il-video-ha-audio-basso",
+    "aumentare-volume-senza-perdere-qualita"
+  ]
+}

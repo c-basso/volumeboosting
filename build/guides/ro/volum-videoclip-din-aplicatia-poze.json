@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "mărire volum videoclip în aplicația Poze",
+  "priority": 9,
+  "keywords": "mărire volum videoclip în aplicația Poze, Poze iPhone volum video, videoclip mai tare din Poze, sunet videoclip Poze iPhone, Partajați Increase Volume",
+  "title": "Cum mărești volumul unui videoclip din aplicația Poze",
+  "description": "Editarea din Poze poate doar să oprească sunetul. Cum folosești Partajați → Increase Volume ca să faci un videoclip mai tare și să-l salvezi înapoi în Poze.",
+  "h1": "Cum mărești volumul unui videoclip din aplicația Poze",
+  "eyebrow": "Poze",
+  "card_title": "Volum din Poze",
+  "card_summary": "Poze doar oprește sunetul. Cu Partajați → Increase Volume faci videoclipul mai tare și îl salvezi înapoi în Poze.",
+  "quick_answer": "Aplicația Poze poate doar să oprească sunetul unui videoclip, nu să-l facă mai tare. Deschide videoclipul în Poze, atinge Partajați și alege Increase Volume. Proiectul se deschide în Volume Boost; trage „Multiplicare volum” până la ×10, atinge „Amplifică volumul”, apoi „Descarcă procesat” → Salvați video. Copia mai tare apare în Poze lângă original.",
+  "intro": [
+    "Majoritatea videoclipurilor de pe iPhone stau în Poze și acolo încearcă lumea întâi să repare sunetul încet. La Editați există o pictogramă de difuzor, dar doar pornește și oprește sunetul.",
+    "Prin fila de partajare trimiți videoclipul direct în Volume Boost și primești copia mai tare înapoi în Poze, fără să treci prin Fișiere."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Fila de partajare iOS cu opțiuni pentru fișierul amplificat din Volume Boost",
+    "caption": "Fila de partajare iOS duce videoclipul din Poze în aplicație și înapoi."
+  },
+  "sections": [
+    {
+      "heading": "Ce poate editarea din Poze cu sunetul",
+      "paragraphs": [
+        "Atinge Editați la un videoclip: pictograma difuzorului de sus oprește sau pornește sunetul. Pe iPhone-urile mai noi cu audio spațial există și Mixaj audio, care schimbă echilibrul dintre voci și fundal, dar nu volumul total."
+      ]
+    },
+    {
+      "heading": "Nu găsești Increase Volume în fila de partajare?",
+      "paragraphs": [],
+      "list": [
+        "Derulează rândul de aplicații spre dreapta și atinge Mai multe.",
+        "Găsește Increase Volume și adaugă-l la Favorite.",
+        "De acum apare în filă pentru orice videoclip."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Unde ajunge copia?",
+      "paragraphs": [
+        "Când alegi Salvați video, videoclipul amplificat intră în Poze ca element nou, cel mai recent din bibliotecă. Originalul rămâne neschimbat."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Din Poze la un videoclip mai tare",
+    "intro": "Cam un minut.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Deschide videoclipul în Poze",
+        "text": "Atinge videoclipul, apoi Partajați."
+      },
+      {
+        "name": "Alege Increase Volume",
+        "text": "Proiectul se deschide direct în Volume Boost."
+      },
+      {
+        "name": "Amplifică",
+        "text": "Trage „Multiplicare volum”, atinge „Amplifică volumul la ×N” și compară Original/Procesat."
+      },
+      {
+        "name": "Salvează înapoi în Poze",
+        "text": "Atinge „Descarcă procesat” → Salvați video."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Sfaturi",
+    "items": [
+      "Amplifică mai multe videoclipuri pe rând din lista de proiecte.",
+      "Marchează copia nouă ca favorită ca s-o găsești repede.",
+      "Șterge originalul doar când ești mulțumit de versiunea mai tare."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Poate aplicația Poze să facă un videoclip mai tare?",
+      "answer": "Nu. Poze poate doar să oprească sunetul sau să ajusteze Mixaj audio pe modelele compatibile."
+    },
+    {
+      "question": "Înlocuiește aplicația videoclipul original?",
+      "answer": "Nu. Salvează mereu o copie nouă; originalul rămâne neschimbat."
+    },
+    {
+      "question": "Funcționează cu Live Photos?",
+      "answer": "Aplicația lucrează cu fișiere video. Salvează mai întâi Live Photo ca video în Poze."
+    }
+  ],
+  "related": [
+    "cum-maresti-volumul-unui-videoclip-pe-iphone",
+    "de-ce-se-aude-incet-videoclipul",
+    "videoclip-tiktok-mai-tare"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

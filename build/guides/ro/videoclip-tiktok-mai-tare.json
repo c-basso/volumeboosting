@@ -1,0 +1,99 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "cum fac un videoclip TikTok mai tare",
+  "priority": 8,
+  "keywords": "cum fac un videoclip TikTok mai tare, TikTok sunet încet, crește volumul la TikTok, videoclip TikTok încet, sunet mai tare Reels",
+  "title": "Cum faci un videoclip TikTok mai tare înainte să-l postezi",
+  "description": "Editorul TikTok nu poate ridica sunetul original peste 100%. Cum amplifici videoclipul de până la 10× înainte de încărcare și îl echilibrezi cu muzica.",
+  "h1": "Cum faci un videoclip TikTok mai tare",
+  "eyebrow": "TikTok și Reels",
+  "card_title": "TikTok mai tare",
+  "card_summary": "TikTok se oprește la 100% sunet original. Amplifică clipul înainte de încărcare, ca vocea să se audă peste muzică.",
+  "quick_answer": "TikTok te lasă să cobori sunetul original, dar nu să-l urci peste 100%. Pentru un TikTok mai tare, amplifică întâi clipul: partajează videoclipul din Poze către Increase Volume, amplifică ×3–×6, atinge „Descarcă procesat” → Salvați video și încarcă în TikTok copia mai tare. Apoi echilibrează sunetul original și muzica la Volum.",
+  "intro": [
+    "Nimeni nu derulează mai repede decât atunci când nu aude ce spui. TikTok și Instagram Reels egalizează nivelul sunetului, dar nu ridică un clip care ajunge prea încet, iar în editorul TikTok 100% sunet original e plafonul.",
+    "Soluția e să faci clipul mai tare înainte să-l încarci."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Fila de partajare iOS cu Copiază, Adaugă etichete și Salvează în Fișiere pentru fișierul amplificat",
+    "caption": "Salvează copia mai tare în Poze și încarc-o în TikTok."
+  },
+  "sections": [
+    {
+      "heading": "De ce iese încet videoclipul de TikTok",
+      "paragraphs": [
+        "Microfonul telefonului prinde vorbirea încet când filmezi cu brațul întins sau afară. Când pui muzică, vocea se pierde. Cursorul de volum din TikTok poate doar să coboare: sunetul original merge de la 0 la 100%."
+      ]
+    },
+    {
+      "heading": "Ordinea: întâi amplifici, apoi editezi",
+      "paragraphs": [],
+      "list": [
+        "Filmează ca de obicei cu camera iPhone-ului.",
+        "Amplifică clipul în Volume Boost (×3–×6 pentru vorbire).",
+        "Încarcă copia mai tare în TikTok sau Instagram.",
+        "Adaugă muzica și coboar-o la circa 20–40% la Volum."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Funcționează cu Reels și Shorts?",
+      "paragraphs": [
+        "Da. Fișierul amplificat e un videoclip obișnuit, deci merge în Instagram Reels, YouTube Shorts, Snapchat și CapCut."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Pas cu pas: amplifică un clip pentru TikTok",
+    "intro": "Fă asta înainte de încărcare.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Partajează clipul cu aplicația",
+        "text": "În Poze: Partajați → Increase Volume."
+      },
+      {
+        "name": "Alege nivelul",
+        "text": "Vorbire: ×3–×6 cu „Îmbunătățește calitatea audio”. Foarte încet: până la ×10."
+      },
+      {
+        "name": "Amplifică și compară",
+        "text": "Atinge „Amplifică volumul la ×N” și ascultă cu Original/Procesat."
+      },
+      {
+        "name": "Salvează și încarcă",
+        "text": "„Descarcă procesat” → Salvați video, apoi alege copia nouă în TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Sfaturi pentru TikTok",
+    "items": [
+      "Subtitrările ajută la vizionarea fără sunet, dar sunetul care se aude ține oamenii pe clip.",
+      "Nu trece de ×6 dacă clipul are țipete sau râsete.",
+      "Și videoclipurile TikTok salvate cu filigran pot fi amplificate, dar fișierul original dă cea mai bună calitate."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Pot crește volumul peste 100% în TikTok?",
+      "answer": "Nu. Editorul TikTok poate doar să coboare sunetul original. Amplifică clipul înainte de încărcare."
+    },
+    {
+      "question": "Scade calitatea videoclipului?",
+      "answer": "Nu, imaginea nu se schimbă. TikTok comprimă oricum la încărcare."
+    },
+    {
+      "question": "Funcționează cu Instagram Reels?",
+      "answer": "Da, fișierul amplificat merge în orice aplicație."
+    }
+  ],
+  "related": [
+    "cum-maresti-volumul-unui-videoclip-pe-iphone",
+    "inregistrare-ecran-sunet-incet-iphone",
+    "volum-videoclip-din-aplicatia-poze"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

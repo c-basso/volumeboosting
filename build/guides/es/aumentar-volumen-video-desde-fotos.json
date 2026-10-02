@@ -1,0 +1,101 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "aumentar volumen vídeo desde Fotos",
+  "priority": 9,
+  "keywords": "aumentar volumen video Fotos iPhone, app Fotos subir volumen, vídeo en Fotos se escucha bajo, subir volumen video Fotos, compartir con Increase Volume",
+  "title": "Cómo aumentar el volumen de un vídeo desde la app Fotos",
+  "description": "Fotos no tiene control de volumen, pero puedes potenciar el vídeo igual: toca Compartir, elige Aumentar Volumen, desliza hasta 10× y guarda la copia en Fotos.",
+  "h1": "Cómo aumentar el volumen de un vídeo directamente desde Fotos",
+  "eyebrow": "Desde Fotos",
+  "card_title": "Potenciar un vídeo desde Compartir en Fotos",
+  "card_summary": "Fotos solo puede silenciar. Con Compartir → Increase Volume potencias el clip y guardas la copia alta junto al original.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "La app Fotos no puede aumentar el volumen de un vídeo; su editor solo lo silencia (y en iPhone 16 o posterior reequilibra el audio espacial con Audio Mix). Para potenciar un vídeo desde Fotos: ábrelo, toca Compartir, elige Increase Volume, arrastra «Multiplicación del volumen» hasta ×10, toca «Potenciar volumen» y luego «Descargar procesado» → Guardar vídeo. La copia más alta aparece en Fotos junto al original.",
+  "intro": [
+    "Casi todo el mundo busca un control de volumen en el editor de Fotos y no lo encuentra, porque no existe. Fotos recorta, encuadra, corrige el color y silencia un vídeo, pero no lo sube. Lo que *sí* tiene Fotos es la hoja de compartir, y ahí se integra Aumentar Volumen, así que el aumento está a dos toques de cualquier vídeo de tu fototeca.",
+    "Esta guía muestra ese flujo y lo que el editor de Fotos puede hacer de verdad con el audio."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/es/6.webp",
+    "alt": "Captura «Descargue y comparta dondequiera»: hoja de compartir con opciones para guardar el vídeo potenciado en Fotos o Archivos",
+    "caption": "La copia potenciada vuelve a Fotos con la hoja de compartir; tu original queda como estaba."
+  },
+  "sections": [
+    {
+      "heading": "Qué puede y qué no puede hacer el editor de Fotos con el audio",
+      "list": [
+        "Silenciar: toca Editar y luego el icono del altavoz arriba para quitar la pista de audio entera.",
+        "Audio Mix (iPhone 16 o posterior, vídeos con audio espacial): distintas mezclas destacan las voces y reducen el ruido de fondo. Cambia el *equilibrio*, no el volumen general.",
+        "Subir el volumen: no existe en ninguna versión de Fotos."
+      ]
+    },
+    {
+      "heading": "Usar Compartir con Aumentar Volumen",
+      "paragraphs": [
+        "Desde la versión 1.2.7, Increase Volume aparece en la hoja de compartir de iOS. Al compartir un vídeo con la app se crea un proyecto al momento con nombre, tamaño y duración, para que sepas que es el clip correcto. Tras potenciar, «Descargar procesado» vuelve a abrir la hoja de compartir, donde Guardar vídeo deja la copia más alta en Fotos. Como es un archivo nuevo, el original nunca se sobrescribe.",
+        "Si Increase Volume no aparece en la hoja de compartir la primera vez, desliza la fila de apps hasta el final, toca Más y actívala (también puedes arrastrarla al principio)."
+      ]
+    },
+    {
+      "heading": "Potenciar varios vídeos",
+      "paragraphs": [
+        "La app guarda una lista de proyectos, así que puedes enviar varios clips desde Fotos y procesarlos uno tras otro. Cada proyecto recuerda su archivo hasta que lo borres, así que puedes volver más tarde y probar otro multiplicador."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Paso a paso: de Fotos a un vídeo más alto",
+    "intro": "No hace falta abrir antes Aumentar Volumen; empieza en Fotos.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Abre el vídeo en Fotos",
+        "text": "Busca el vídeo bajo y ábrelo a pantalla completa."
+      },
+      {
+        "name": "Toca Compartir → Increase Volume",
+        "text": "Toca Compartir, desliza la fila de iconos y toca Increase Volume. Se abre un proyecto nuevo."
+      },
+      {
+        "name": "Potencia",
+        "text": "Arrastra «Multiplicación del volumen» al nivel que necesites (×3–×10), activa «Mejorar calidad de audio» si es voz y toca «Potenciar volumen»."
+      },
+      {
+        "name": "Compara",
+        "text": "Con el selector Original/Procesado oye la diferencia."
+      },
+      {
+        "name": "Guardar vídeo",
+        "text": "Toca «Descargar procesado» y después Guardar vídeo. En Fotos, la copia más alta aparece justo detrás del original."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consejos",
+    "items": [
+      "Añade Increase Volume a tus favoritos de la hoja de compartir (Más → Editar) para que salga siempre la primera.",
+      "También puedes compartir un vídeo desde Archivos, Mensajes o Mail directamente con la app; el flujo es el mismo.",
+      "Para liberar espacio, borra el original bajo cuando compruebes que la copia potenciada suena bien."
+    ]
+  },
+  "faq": [
+    {
+      "question": "¿Potenciar desde Fotos sustituye mi vídeo original?",
+      "answer": "No. La app siempre crea un archivo nuevo. Al usar Guardar vídeo se añade una segunda copia a Fotos; el original no cambia."
+    },
+    {
+      "question": "¿Puedo potenciar Live Photos o vídeos a cámara lenta?",
+      "answer": "Los vídeos a cámara lenta y time-lapse se exportan como vídeo normal y se pueden potenciar. Las Live Photos son fotos con un clip corto y no se admiten como vídeo."
+    },
+    {
+      "question": "¿Por qué la app Fotos no tiene control de volumen?",
+      "answer": "Apple plantea Fotos como editor de retoques rápidos y deja los cambios de nivel a iMovie. iMovie sube el volumen hasta un 500 %; Aumentar Volumen llega a ×10 y funciona desde la hoja de compartir."
+    }
+  ],
+  "related": [
+    "como-subir-el-volumen-de-un-video-en-iphone",
+    "imovie-volumen-mas-de-500",
+    "subir-volumen-video-tiktok"
+  ]
+}

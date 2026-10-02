@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "muzica se aude încet pe iPhone",
+  "priority": 5,
+  "keywords": "muzica se aude încet pe iPhone, cum fac muzica mai tare pe iPhone, iPhone sunet încet, crește volumul muzicii, amplificator muzică",
+  "title": "Muzica se aude încet pe iPhone? 6 setări și amplificare 10×",
+  "description": "Muzica se aude încet pe iPhone? Verifică siguranța căștilor, egalizatorul, Verificare sunet și balansul, iar fișierele tale MP3 fă-le de până la 10× mai tari.",
+  "h1": "Muzica se aude încet pe iPhone: setări și soluție",
+  "eyebrow": "Muzică",
+  "card_title": "Muzică încet",
+  "card_summary": "Șase setări care dau muzica mai încet și cum faci propriile fișiere audio de până la 10× mai tari.",
+  "quick_answer": "Dacă toată muzica se aude încet pe iPhone, verifică Configurări › Sunete și haptică › Siguranța căștilor (Reduceți sunetele puternice), egalizatorul din configurările Muzică, Verificare sunet și balansul din Accesibilitate. Dacă un anumit fișier e încet (un MP3, o înregistrare, un demo), deschide-l în Volume Boost, amplifică ×2–×5 și salvează copia mai tare în Fișiere. Muzica din Apple Music sau Spotify e protejată și nu poate fi amplificată ca fișier.",
+  "intro": [
+    "În spatele lui „muzica e prea încet” sunt două probleme diferite: o setare care limitează tot sunetul, sau un fișier înregistrat ori mixat încet. Prima o rezolvi în Configurări; a doua cere ca fișierul în sine să devină mai tare.",
+    "Iată-le pe amândouă, în ordinea în care merită verificate."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Volume Boost procesează un fișier MP3 și afișează numele, dimensiunea și durata",
+    "caption": "Fișierele tale audio (MP3, M4A, WAV) sunt procesate pe dispozitiv."
+  },
+  "sections": [
+    {
+      "heading": "Șase setări care dau muzica mai încet",
+      "paragraphs": [],
+      "list": [
+        "Siguranța căștilor: Configurări › Sunete și haptică › Siguranța căștilor poate limita nivelul în căști.",
+        "Egalizator: Configurări › Muzică › Egalizator. Setarea „Noaptea târziu” ridică pasajele încete și poate face muzica să pară mai tare în zgomot.",
+        "Verificare sunet: Configurări › Muzică. Activată, egalizează volumul între piese, ceea ce poate coborî piesele tari.",
+        "Balans: Configurări › Accesibilitate › Audio și vizual › Balans trebuie să fie la mijloc.",
+        "Bluetooth: unele căști au volum propriu; verifică aplicația lor.",
+        "Murdăria din difuzor sau din port înăbușă sunetul; curăță cu grijă."
+      ],
+      "ordered": true,
+      "note": "Numele meniurilor urmează iOS 18 și pot varia puțin între versiuni."
+    },
+    {
+      "heading": "Când un fișier e încet: amplifică fișierul",
+      "paragraphs": [
+        "Demo-urile, înregistrările live, MP3-urile vechi și descărcările pot fi mixate încet. Volume Boost deschide fișierul din Fișiere, înmulțește nivelul și salvează un fișier nou. Basul întărit dă consistență când amplifici muzică."
+      ]
+    },
+    {
+      "heading": "Ce nu se poate amplifica",
+      "paragraphs": [
+        "Piesele din Apple Music, Spotify și alte servicii de streaming sunt protejate DRM și nu pot fi deschise ca fișiere. Pentru ele rămân setările de mai sus. Fișierele care îți aparțin pot fi amplificate."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Fă un fișier audio mai tare cu Volume Boost",
+    "intro": "Funcționează cu MP3, M4A și WAV din Fișiere.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Importă din Fișiere",
+        "text": "Deschide aplicația și alege piesa în Fișiere."
+      },
+      {
+        "name": "Alege nivelul",
+        "text": "Muzica e de obicei mixată aproape de maxim; începe cu ×2–×3 și crește cu grijă."
+      },
+      {
+        "name": "Compară",
+        "text": "Atinge „Amplifică volumul la ×N” și ascultă refrenul comutând Original/Procesat."
+      },
+      {
+        "name": "Salvează",
+        "text": "Atinge „Descarcă procesat” → Salvați în Fișiere."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Sfaturi",
+    "items": [
+      "Muzica masterizată comercial are puțină rezervă; ×2 ajunge adesea.",
+      "Înregistrările live de pe telefon au multă rezervă și suportă ×5 sau mai mult.",
+      "Păstrează originalul; aplicația creează mereu un fișier nou."
+    ]
+  },
+  "faq": [
+    {
+      "question": "De ce se aude muzica mai încet în căști decât înainte?",
+      "answer": "Adesea pentru că e activată reducerea sunetelor puternice din Siguranța căștilor, sau pentru că iPhone-ul a coborât nivelul după mult timp de ascultat tare."
+    },
+    {
+      "question": "Pot face muzica din Spotify mai tare cu aplicația?",
+      "answer": "Nu. Muzica din streaming e protejată și nu poate fi deschisă ca fișier. Folosește setările din Spotify și iOS."
+    },
+    {
+      "question": "Va distorsiona piesa?",
+      "answer": "Doar dacă vârfurile trec de plafon. Ascultă cu Original/Procesat și scade multiplicarea dacă sună spart."
+    }
+  ],
+  "related": [
+    "cum-maresti-volumul-mp3-pe-iphone",
+    "volum-mai-tare-fara-pierderea-calitatii",
+    "podcast-audiobook-incet-iphone"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "musica bassa su iPhone",
+  "priority": 5,
+  "keywords": "musica bassa iPhone, alzare volume musica iPhone, verifica suono iPhone, riduci audio forte, canzoni volume basso",
+  "title": "Musica bassa su iPhone? Ecco come renderla più forte subito",
+  "description": "Canzoni troppo basse su iPhone? Controlla Verifica suono, l'equalizzatore e il limite delle cuffie, poi alza i tuoi MP3 e le registrazioni fino a 10× con l'app.",
+  "h1": "Come alzare il volume della musica su iPhone",
+  "eyebrow": "Musica",
+  "card_title": "Alzare il volume della musica",
+  "card_summary": "Tre impostazioni di iOS che limitano la musica senza dirtelo, e come potenziare i brani che hai come file.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Parti dalle impostazioni: in Impostazioni › Musica disattiva Verifica suono e prova nell'equalizzatore il preset «Notte inoltrata» (Late Night), che alza le parti più piano; in Impostazioni › Suoni e feedback aptico › Sicurezza cuffie disattiva Riduci audio forte. Questo vale per streaming e riproduzione. I file musicali tuoi (MP3, M4A, WAV in File, demo, prove) aprili in Aumenta Volume, alzali ×1,5–×4, confronta Originale ed Elaborato e tocca «Scarica elaborato».",
+  "intro": [
+    "«La musica sul mio iPhone è bassa» ha due risposte molto diverse. Se Apple Music o Spotify suonano piano dall'altoparlante o in cuffia, probabilmente il telefono si sta limitando con un'impostazione che cambi in un minuto. Se è basso un brano *specifico* — un vecchio MP3, una prova, il demo di un amico — è il file ad avere bisogno di più livello.",
+    "Questa guida copre entrambi i casi, in quest'ordine."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/it/3.webp",
+    "alt": "Schermata «Aumenta il volume Audio»: Aumenta Volume elabora un file musicale mostrando nome, dimensione e durata",
+    "caption": "I file musicali tuoi si potenziano direttamente da File."
+  },
+  "sections": [
+    {
+      "heading": "Impostazioni che abbassano tutta la musica (controllale prima)",
+      "list": [
+        "Riduci audio forte: Impostazioni › Suoni e feedback aptico › Sicurezza cuffie. Se attivo, limita il volume delle cuffie al livello scelto. Disattivalo o alza la soglia.",
+        "Verifica suono: Impostazioni › Musica › Verifica suono porta tutti i brani allo stesso volume e quindi abbassa quelli forti. Disattivalo se tutto ti sembra basso.",
+        "Equalizzatore: Impostazioni › Musica › Equalizzatore. «Notte inoltrata» comprime la dinamica così le parti piano salgono; «Volume» (Loudness) esalta bassi e alti a basso volume. Provali entrambi.",
+        "Limite di volume in Tempo di utilizzo: Impostazioni › Tempo di utilizzo › Restrizioni contenuti e privacy può avere un limite bloccato da un genitore o da una vecchia impostazione.",
+        "Bluetooth: alcune cuffie e casse hanno un proprio volume; alzalo anche sul dispositivo."
+      ]
+    },
+    {
+      "heading": "Quali file musicali puoi potenziare",
+      "paragraphs": [
+        "Aumenta Volume potenzia file che sono davvero tuoi: MP3 e WAV in File o iCloud Drive, prove in M4A, demo ricevuti via Mail o AirDrop, esportazioni di GarageBand e l'audio dei videoclip. Mostra artista e titolo se il file li contiene. I download di Apple Music, Spotify o YouTube Music sono cifrati e nessun'altra app può aprirli; per quelli usa le impostazioni qui sopra."
+      ]
+    },
+    {
+      "heading": "Quanto alzare un brano",
+      "paragraphs": [
+        "La musica pubblicata è già masterizzata vicino al livello massimo, quindi ×1,5–×2 è di solito il limite prima che il ritornello distorca. Registrazioni casalinghe, demo e vecchi rip hanno spesso 6–12 dB di margine e reggono ×2–×4. Decidi con Originale/Elaborato sul ritornello più forte."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Passo dopo passo: alzare un file musicale",
+    "intro": "Per un brano in File, un'esportazione di GarageBand o una registrazione.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Aggiungi il brano",
+        "text": "Apri Aumenta Volume e aggiungi il file da File, oppure condividilo con l'app da File, Mail o GarageBand."
+      },
+      {
+        "name": "Scegli un moltiplicatore moderato",
+        "text": "Imposta «Moltiplicazione volume» a ×1,5–×2 per musica pubblicata e ×2–×4 per demo e registrazioni. Prova «Migliora qualità audio» attivo e disattivo e tieni il più naturale. Tocca «Potenzia volume»."
+      },
+      {
+        "name": "Controlla il ritornello",
+        "text": "Passa da Originale a Elaborato nella parte più forte. Se gracchia, abbassa."
+      },
+      {
+        "name": "Scarica elaborato",
+        "text": "Salva su File e aggiungi il brano più forte al tuo lettore, oppure condividilo."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consigli",
+    "items": [
+      "Potenzia un album o un set intero con lo stesso moltiplicatore così i brani restano omogenei.",
+      "Nei videoclip l'immagine non viene toccata; si elabora solo l'audio.",
+      "Se masterizzi la tua musica, potenzia il mix e non il master finale; un limiter nella DAW lo fa in modo più pulito del semplice guadagno."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Un amplificatore di volume può alzare Apple Music o Spotify?",
+      "answer": "Non modificando i brani, che sono cifrati. Usa Verifica suono, l'equalizzatore e Sicurezza cuffie, o la normalizzazione dell'app di streaming. Aumenta Volume potenzia i file tuoi."
+    },
+    {
+      "question": "Perché alcune canzoni sono più basse di altre?",
+      "answer": "Per livelli di mastering diversi. Verifica suono le livella ma abbassa quelle forti; se lo disattivi tornano forti. I file bassi tuoi alzali con Aumenta Volume perché si allineino."
+    },
+    {
+      "question": "Il formato del brano cambia quando lo potenzio?",
+      "answer": "L'app crea un nuovo file in un formato audio comune accanto all'originale. L'originale non cambia."
+    }
+  ],
+  "related": [
+    "aumentare-volume-mp3-iphone",
+    "aumentare-volume-podcast-audiolibro-iphone",
+    "aumentare-volume-senza-perdere-qualita"
+  ]
+}

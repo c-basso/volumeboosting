@@ -1,0 +1,120 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie volum peste 500%",
+  "priority": 11,
+  "keywords": "iMovie volum peste 500%, iMovie sunet mai tare, limită volum iMovie, mărire volum în iMovie iPhone, iMovie sunet încet",
+  "title": "iMovie se oprește la 500%? Cum faci videoclipul și mai tare",
+  "description": "Cursorul de volum din iMovie pe iPhone se oprește la circa 500%. Cum faci clipul de până la 1000% (10×) mai tare cu Volume Boost, înainte sau după iMovie.",
+  "h1": "Volum în iMovie peste 500%: cum treci de limită",
+  "eyebrow": "iMovie",
+  "card_title": "iMovie peste 500%",
+  "card_summary": "iMovie se oprește la circa 5×. Amplifică clipul până la 10× înainte să intre în proiect.",
+  "quick_answer": "În iMovie pe iPhone, cursorul de volum se oprește la circa 500% (5×). Ca să treci de asta, amplifică întâi clipul în Volume Boost (Partajați → Increase Volume, până la ×10), salvează-l în Poze și importă copia mai tare în iMovie. Sau sari peste iMovie: aplicația deschide și fișiere doar audio și salvează fără proiect și fără export.",
+  "intro": [
+    "iMovie e gratuit și foarte bun la tăiat, dar volumul are plafon. Când 500% nu ajunge, trucul obișnuit e să dublezi pista audio, ceea ce iMovie pe iPhone nu face ușor.",
+    "Iată o cale mai rapidă."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Cursorul „Multiplicare volum ×10” și butonul „Amplifică volumul la ×10” în Volume Boost",
+    "caption": "Volume Boost ajunge la ×10, de două ori limita din iMovie."
+  },
+  "sections": [
+    {
+      "heading": "iMovie față de Volume Boost",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Volume Boost"
+        ],
+        "rows": [
+          [
+            "Volum maxim",
+            "circa 500% (5×)",
+            "1000% (10×)"
+          ],
+          [
+            "Fișiere audio (MP3, M4A)",
+            "Nu",
+            "Da"
+          ],
+          [
+            "Proiect și export",
+            "Obligatorii",
+            "Nu, un singur cursor"
+          ],
+          [
+            "Ascultare înainte de salvare",
+            "În cronologie",
+            "Original/Procesat"
+          ],
+          [
+            "Preț",
+            "Gratuit",
+            "Descărcare gratuită, abonament"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Folosește-le împreună",
+      "paragraphs": [
+        "Folosește Volume Boost pentru nivel și iMovie pentru montaj. Amplifică clipul brut, de exemplu la ×8, importă-l în iMovie și continuă montajul. Așa nu mai trebuie să tragi cursorul din iMovie la maxim."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Treci de 500%",
+    "intro": "Înainte să pui clipul în iMovie.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Partajează clipul cu aplicația",
+        "text": "În Poze: Partajați → Increase Volume."
+      },
+      {
+        "name": "Amplifică",
+        "text": "Trage „Multiplicare volum” la ×6–×10 și atinge „Amplifică volumul la ×N”."
+      },
+      {
+        "name": "Salvează",
+        "text": "„Descarcă procesat” → Salvați video."
+      },
+      {
+        "name": "Importă în iMovie",
+        "text": "Adaugă copia mai tare în proiectul iMovie și continuă."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Sfaturi",
+    "items": [
+      "Amplifică înainte de montaj; reexportul din iMovie durează.",
+      "Dacă ai exportat deja din iMovie, amplifică fișierul exportat.",
+      "Pentru vorbire activează „Îmbunătățește calitatea audio”."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Care e volumul maxim în iMovie pe iPhone?",
+      "answer": "Circa 500% (5×) pe clip."
+    },
+    {
+      "question": "Pot face un clip mai tare de 500% în iMovie?",
+      "answer": "Nu direct. Amplifică întâi clipul în Volume Boost și importă copia mai tare."
+    },
+    {
+      "question": "Deschide Volume Boost proiecte iMovie?",
+      "answer": "Nu, dar deschide videoclipurile pe care le exporți din iMovie."
+    }
+  ],
+  "related": [
+    "cum-maresti-volumul-unui-videoclip-pe-iphone",
+    "volum-mai-tare-fara-pierderea-calitatii",
+    "volum-videoclip-din-aplicatia-poze"
+  ],
+  "published": "2026-10-02",
+  "updated": "2026-10-02"
+}

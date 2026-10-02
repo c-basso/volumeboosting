@@ -1,0 +1,127 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "audiobook suaranya pelan",
+  "priority": 12,
+  "keywords": "audiobook suaranya pelan, mengeraskan podcast di iPhone, podcast terdengar pelan, menaikkan volume audiobook, rekaman kuliah pelan",
+  "title": "Cara Mengeraskan Podcast atau Audiobook yang Pelan di iPhone",
+  "description": "Podcast, audiobook, atau rekaman kuliah terlalu pelan? Saat streaming pakai penguat suara di pemutar; file milik Anda keraskan hingga 10× dengan Penguat Volume.",
+  "h1": "Cara mengeraskan podcast atau audiobook di iPhone",
+  "eyebrow": "Podcast dan audiobook",
+  "card_title": "Mengeraskan podcast atau audiobook",
+  "card_summary": "Pengaturan pemutar untuk streaming; penguatan file sungguhan untuk episode dan bab dalam MP3 atau M4A.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Untuk episode yang Anda streaming di aplikasi podcast, gunakan fitur volumenya sendiri (Voice Boost di Overcast, Volume Boost di Pocket Casts; Apple Podcasts tidak punya). Episode, bab audiobook, atau kuliah yang Anda miliki sebagai file (MP3, M4A, MP4 di File atau iCloud Drive), buka di Penguat Volume, aktifkan «Tingkatkan Kualitas Audio», keraskan ×3–×10, bandingkan Asli dan Diproses, lalu ketuk «Unduh yang diproses» untuk menyimpan salinan yang lebih keras dan bisa diputar di aplikasi mana pun.",
+  "intro": [
+    "Suara bicara yang direkam punya masalah volume: podcast seharusnya di-master sekitar −16 LUFS, tetapi acara independen, rekaman kuliah, dan audiobook lama sering jauh lebih pelan, dan tamu yang bicara pelan tenggelam di samping host yang keras. Di KRL atau di mobil, itu berarti terus-menerus mengatur volume.",
+    "Solusinya tergantung di mana audionya berada: di dalam aplikasi streaming atau di file yang Anda kendalikan."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Tangkapan layar daftar proyek di Penguat Volume dengan file MP3 dan video",
+    "caption": "Perkuat satu seri episode atau bab; masing-masing tetap di daftar proyek."
+  },
+  "sections": [
+    {
+      "heading": "Streaming di aplikasi podcast",
+      "paragraphs": [
+        "Audio di dalam aplikasi streaming tidak bisa diedit, tetapi beberapa pemutar memproses volume secara langsung:"
+      ],
+      "list": [
+        "Overcast: Voice Boost menormalkan dan memampatkan suara bicara; bisa diaktifkan per acara atau untuk semua.",
+        "Pocket Casts: Volume Boost dan Trim Silence di efek pemutaran.",
+        "Spotify: Normalisasi volume di pengaturan pemutaran.",
+        "Apple Podcasts: tidak ada fitur volume. Periksa Suara di Pengaturan › Musik hanya berlaku untuk musik, bukan podcast."
+      ],
+      "note": "Fitur-fitur ini hanya bekerja saat diputar di aplikasi tersebut. File-nya tidak berubah, jadi jika episode dipindahkan ke tempat lain, tidak ada yang membaik."
+    },
+    {
+      "heading": "File yang diunduh",
+      "paragraphs": [
+        "Banyak podcast menyediakan unduhan MP3 langsung dari situsnya, platform kursus mengekspor MP3 atau MP4, dan audiobook tanpa DRM (LibriVox, toko yang menjual MP3 untuk diunduh, atau salinan Anda sendiri) berupa MP3 atau M4B. Jika file ada di File atau iCloud Drive, Penguat Volume membukanya, melipatgandakan levelnya hingga ×10, dan menyimpan salinan baru. «Tingkatkan Kualitas Audio» dirancang untuk suara bicara, jadi di sinilah paling berguna."
+      ],
+      "note": "Audiobook dari Audible, Apple Books, atau Storytel serta unduhan di dalam Apple Podcasts atau Spotify dilindungi dari penyalinan dan tidak bisa diimpor aplikasi lain."
+    },
+    {
+      "heading": "Pengali yang cocok untuk suara bicara",
+      "table": {
+        "head": [
+          "Sumber",
+          "Pengali umum"
+        ],
+        "rows": [
+          [
+            "Podcast profesional yang hanya sedikit pelan",
+            "×1,5 – ×2"
+          ],
+          [
+            "Acara independen atau wawancara dengan tamu yang pelan",
+            "×3 – ×5"
+          ],
+          [
+            "Kuliah atau rapat yang direkam dari jauh",
+            "×6 – ×10"
+          ],
+          [
+            "Salinan audiobook lama",
+            "×2 – ×4"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: mengeraskan episode atau bab",
+    "intro": "Untuk file di File, iCloud Drive, Dropbox, atau yang diterima lewat email.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Tambahkan file",
+        "text": "Buka Penguat Volume dan tambahkan episode dari File, atau di File tekan lama file → Bagikan → Increase Volume."
+      },
+      {
+        "name": "Aktifkan Tingkatkan Kualitas Audio",
+        "text": "Isinya suara bicara; opsi ini menjaga konsonan tetap jelas setelah diperkuat."
+      },
+      {
+        "name": "Pilih pengali",
+        "text": "Ikuti tabel di atas dan ketuk «Boost volume»."
+      },
+      {
+        "name": "Bandingkan",
+        "text": "Beralih antara Asli/Diproses di bagian paling keras (jingle pembuka, tawa)."
+      },
+      {
+        "name": "Unduh yang diproses",
+        "text": "Simpan ke File. Putar file yang diperkuat dari File, dari Buku (audiobook), atau di pemutar apa pun yang membuka audio lokal."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Keraskan semua bab audiobook dengan pengali yang sama agar volumenya tidak melompat antarbab.",
+      "Untuk kuliah berbentuk video (MP4), langkahnya sama; gambar tidak berubah.",
+      "Jika file punya jingle keras dan suara bicara pelan, pilih pengali berdasarkan suara bicara dan terima jingle yang sedikit terkompresi dengan «Tingkatkan Kualitas Audio» aktif."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bisakah mengeraskan Apple Podcasts?",
+      "answer": "Apple Podcasts tidak punya pengaturan volume atau penguat suara bicara. Pindah ke pemutar yang punya (Overcast, Pocket Casts) atau unduh MP3 episode dari situs acaranya lalu keraskan file-nya dengan Penguat Volume."
+    },
+    {
+      "question": "Bisakah mengeraskan audiobook dari Audible atau Storytel?",
+      "answer": "Tidak. File tersebut dienkripsi dan tidak bisa dibuka di aplikasi lain. Gunakan pengaturan suara di pemutarnya sendiri, jika ada."
+    },
+    {
+      "question": "Apakah episode yang diperkuat tetap punya bab dan sampul?",
+      "answer": "Penguat Volume memproses audio dan membuat file baru. Metadata dasar seperti judul dipertahankan jika formatnya memungkinkan; penanda bab bisa hilang."
+    }
+  ],
+  "related": [
+    "mengeraskan-mp3-di-iphone",
+    "mengeraskan-memo-suara-iphone",
+    "mengeraskan-suara-tanpa-mengurangi-kualitas"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie Lautstärke erhöhen",
+  "priority": 11,
+  "keywords": "iMovie Lautstärke erhöhen, iMovie zu leise, iMovie mehr als 500 Prozent, Video lauter als iMovie, iMovie maximale Lautstärke iPhone",
+  "title": "iMovie Lautstärke erhöhen: so geht’s über 500 % hinaus",
+  "description": "iMovie auf dem iPhone stoppt bei etwa 500 % Lautstärke. Reicht das nicht, bringt Increase Volume dasselbe Video mit einem Regler auf 10× – ohne Projekt.",
+  "h1": "Das Lautstärkelimit von iMovie (etwa 500 %) und wie du es übertriffst",
+  "eyebrow": "vs. iMovie",
+  "card_title": "Lauter als iMovies 500 %",
+  "card_summary": "So erhöhst du die Lautstärke in iMovie, warum der Regler bei 5× stoppt und wie du mit einem Regler auf 10× kommst.",
+  "published": "2026-10-01",
+  "updated": "2026-10-01",
+  "quick_answer": "iMovie auf dem iPhone erhöht die Lautstärke eines Clips auf etwa 500 % (5×): Clip antippen, Lautsprechersymbol antippen, nach rechts ziehen, exportieren. Ist das Video am Maximum immer noch zu leise, öffne dieselbe Datei in Increase Volume, das den Ton bis ×10 (1000 %) verstärkt, Original und Verarbeitet vergleichen lässt und eine neue Kopie ohne Projekt sichert. Increase Volume öffnet außerdem reine Audiodateien, die iMovie nicht kann.",
+  "intro": [
+    "iMovie ist Apples kostenlose Antwort auf „Wie mache ich mein Video lauter?“, und für einen etwas leisen Clip funktioniert das. Aber der Regler hat eine Grenze, und Aufnahmen quer durch den Raum oder per Bildschirmaufnahme brauchen oft mehr. Dann exportiert man mit 500 %, hört immer noch nichts und sucht nach „lauter als iMovie“.",
+    "Hier siehst du genau, wie weit iMovie geht, wie du es nutzt und was du tust, wenn es nicht reicht."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/de/4.webp",
+    "alt": "Increase Volume mit dem Regler Lautstärke-Multiplikation ×10, doppelt so viel wie das Maximum von iMovie auf dem iPhone",
+    "caption": "×10 in Increase Volume ist etwa das Doppelte des iMovie-Maximums."
+  },
+  "sections": [
+    {
+      "heading": "Lautstärke in iMovie auf dem iPhone erhöhen",
+      "paragraphs": [
+        "Wenn du es noch nicht probiert hast, lohnt sich der kostenlose Weg:"
+      ],
+      "list": [
+        "iMovie öffnen → Neues Projekt starten → Film, Video auswählen.",
+        "Den Clip in der Timeline antippen, damit er markiert ist.",
+        "In der Werkzeugleiste auf das Lautsprechersymbol tippen und den Lautstärkeregler nach rechts ziehen. Er stoppt bei etwa 500 %.",
+        "Auf Fertig tippen, dann Teilen → Video sichern und warten, bis iMovie den ganzen Clip neu kodiert hat."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Wo iMovie an Grenzen stößt",
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Increase Volume"
+        ],
+        "rows": [
+          [
+            "Maximale Verstärkung",
+            "Etwa 500 % (5×)",
+            "×10 (1000 %)"
+          ],
+          [
+            "Reine Audiodateien (MP3, Sprachmemos)",
+            "Nicht unterstützt",
+            "Unterstützt"
+          ],
+          [
+            "Ablauf",
+            "Projekt → Clip hinzufügen → anpassen → exportieren",
+            "Aus Fotos teilen → ziehen → Verarbeitete Datei laden"
+          ],
+          [
+            "Vorher/Nachher anhören",
+            "Timeline abspielen",
+            "Umschalter Original / Verarbeitet"
+          ],
+          [
+            "Bild neu kodieren",
+            "Ja, voller Export",
+            "Ton verarbeitet, Bild durchgereicht"
+          ],
+          [
+            "Sprachverbesserung",
+            "Keine",
+            "Schalter Audioqualität verbessern"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Wann 500 % reichen und wann nicht",
+      "paragraphs": [
+        "5× sind etwa +14 dB. Das reicht für einen Clip, der etwas schwach klingt. Es reicht nicht für eine Vorlesung aus der letzten Reihe, ein Handy, das während eines Gesprächs auf dem Tisch lag, oder die meisten Bildschirmaufnahmen, die typischerweise 15–25 dB unter normalem Pegel liegen. Dafür brauchst du ×8–×10 und musst hören können, ob der lauteste Moment dabei übersteuert – genau dafür ist der Umschalter Original/Verarbeitet in Increase Volume da."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Schritt für Schritt: über das iMovie-Limit hinaus",
+    "intro": "Nimm das Originalvideo, nicht den iMovie-Export, damit du nur einmal aus der saubersten Quelle verstärkst.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Originalvideo an Increase Volume teilen",
+        "text": "In Fotos den Clip öffnen, auf Teilen tippen und Increase Volume wählen."
+      },
+      {
+        "name": "Faktor über 5 wählen",
+        "text": "„Lautstärke-Multiplikation“ je nach Lautstärke des Clips auf ×6–×10 ziehen. Bei Sprache „Audioqualität verbessern“ einschalten. Auf „Lautstärke verstärken“ tippen."
+      },
+      {
+        "name": "Vergleichen",
+        "text": "An der lautesten Stelle zwischen Original und Verarbeitet wechseln. Klingt es hart, eine Stufe zurück und neu verstärken."
+      },
+      {
+        "name": "Verarbeitete Datei laden",
+        "text": "Die lautere Kopie in Fotos sichern oder direkt teilen. Das Original bleibt unberührt."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipps",
+    "items": [
+      "Willst du iMovie weiter zum Schneiden oder für Titel nutzen, verstärke zuerst in Increase Volume und bearbeite dann die verstärkte Datei in iMovie.",
+      "Verstärkungen nicht stapeln (iMovie 500 % und danach ×10 auf den Export); geh direkt vom Original auf den gewünschten Pegel.",
+      "Audiodateien gar nicht erst in iMovie öffnen; MP3 und M4A kann es nicht."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Warum begrenzt iMovie die Lautstärke auf 500 %?",
+      "answer": "Apple begrenzt den Regler, damit normale Bearbeitungen nicht stark übersteuern. Für normales Material ist das sinnvoll, für sehr leise Aufnahmen aber zu niedrig."
+    },
+    {
+      "question": "Ist Increase Volume kostenlos wie iMovie?",
+      "answer": "Increase Volume ist ein kostenloser Download mit Gratis-Testphase; unbegrenztes Verstärken schaltest du mit einem Abo oder einem einmaligen Lifetime-Kauf frei. Aktuelle Preise stehen im App Store."
+    },
+    {
+      "question": "Schafft iMovie auf dem Mac mehr als 500 %?",
+      "answer": "Auch iMovie für Mac endet bei etwa 400–500 %. Programme wie Final Cut Pro oder Audacity gehen weiter, brauchen aber einen Computer und eine Dateiübertragung. Increase Volume erledigt es auf dem iPhone."
+    }
+  ],
+  "related": [
+    "video-lauter-machen-iphone",
+    "ton-lauter-machen-ohne-qualitaetsverlust",
+    "video-in-fotos-lauter-machen"
+  ]
+}

@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "ms",
-    "title": "Tingkatkan kelantangan – Penambah bunyi | ~10× lebih kuat",
-    "description": "Audio atau video lebih kuat di iPhone. Boost hingga ~10× dengan kejernihan dan bass. Muzik, video, podcast, memo suara. Pada peranti. Cuba percuma di App Store.",
-    "keywords": "kelantangan iPhone, video lebih kuat, video perlahan, peningkat kelantangan, aplikasi iPhone, perkuat audio, rakaman skrin perlahan, penambah bunyi, Increase Volume",
+    "title": "Cara Kuatkan Suara Video di iPhone – Penguat Volume Bunyi",
+    "description": "Kuatkan video, MP3 dan Memo Suara di iPhone hingga 10×. Penguat Volume Bunyi menguatkan fail itu sendiri, mengekalkan bunyi jelas dan menyimpan salinan baharu.",
+    "keywords": "cara kuatkan suara video iPhone, tingkatkan volume video, aplikasi penguat suara, penguat volume, kuatkan MP3, voice note WhatsApp perlahan, rakaman skrin suara perlahan, kuatkan memo suara, Penguat Volume Bunyi",
     "canonical": "https://volumeboosting.com/ms/",
-    "og_title": "Tingkatkan kelantangan – Penambah bunyi",
-    "og_description": "Tingkatkan audio dan video iPhone hingga ~10× dengan Increase Volume – Penambah bunyi: bunyi jernih, bass mantap. Pemprosesan pada peranti; simpan dan kongsi.",
+    "og_title": "Kuatkan suara video dan audio di iPhone – hingga 10× lebih kuat",
+    "og_description": "Video, MP3 atau Memo Suara terlalu perlahan? Penguat Volume Bunyi menguatkan fail hingga 10×, anda bandingkan Asal/Diproses dan simpan salinan yang lebih kuat.",
     "og_image": "https://volumeboosting.com/ms/site_preview.png",
     "og_image_alt": "Ikon aplikasi Increase Volume – Penambah bunyi",
     "og_url": "https://volumeboosting.com/ms/",
     "og_locale": "ms_MY",
     "twitter_url": "https://volumeboosting.com/ms/",
-    "twitter_title": "Tingkatkan kelantangan – Penambah bunyi",
-    "twitter_description": "Tingkatkan audio dan video iPhone hingga ~10× dengan Increase Volume – Penambah bunyi: bunyi jernih, bass mantap. Pemprosesan pada peranti; simpan dan kongsi.",
+    "twitter_title": "Kuatkan suara video dan audio di iPhone – hingga 10× lebih kuat",
+    "twitter_description": "Video, MP3 atau Memo Suara terlalu perlahan? Penguat Volume Bunyi menguatkan fail hingga 10×, anda bandingkan Asal/Diproses dan simpan salinan yang lebih kuat.",
     "twitter_image": "https://volumeboosting.com/ms/site_preview.png",
     "twitter_image_alt": "Ikon aplikasi Increase Volume – Penambah bunyi"
   },
@@ -188,44 +188,61 @@
     "breadcrumb_home": "Laman utama",
     "faq": [
       {
-        "question": "Apakah Increase Volume – Penambah bunyi?",
-        "answer": "Ia ialah aplikasi iPhone dalam kategori Muzik di App Store yang menjadikan fail audio dan video yang diimport lebih kuat — hingga ~10× — dan membolehkan anda menyimpan fail baharu. Ia memproses media pada peranti; ditujukan untuk rakaman perlahan, podcast dan klip — bukan untuk memintas had perkakasan iOS bagi keseluruhan audio sistem."
+        "question": "Bagaimana cara kuatkan suara video di iPhone?",
+        "answer": "Buka Penguat Volume Bunyi, import video dari Foto (atau kongsi ke aplikasi), seret «Pengganda kelantangan» hingga ×10, ketik «Boost kelantangan», bandingkan Asal dan Diproses, kemudian ketik «Muat turun yang diproses». Salinan yang lebih kuat disimpan ke Foto atau Fail dan berbunyi kuat pada mana-mana peranti.",
+        "guide": "cara-kuatkan-suara-video-iphone"
       },
       {
-        "question": "Bagaimana Increase Volume – Penambah bunyi berfungsi?",
-        "answer": "Anda mengimport video, lagu atau rakaman (termasuk dari Foto), melaraskan kelantangan, kejernihan dan bass dengan peluncur boost, mendengar pratonton secara masa nyata, kemudian menyimpan fail yang telah di-boost semula ke iPhone atau berkongsinya."
+        "question": "Kenapa voice note WhatsApp berbunyi perlahan di iPhone saya?",
+        "answer": "Jika semuanya perlahan, iPhone memainkannya melalui pembesar suara panggilan kerana sensor jarak tertutup: jauhkan telefon dari muka dan naikkan volume semasa mesej dimainkan. Jika hanya satu mesej perlahan, eksport mesej itu (tekan lama → Majukan → Kongsi), kuatkan ×5–×10 dalam aplikasi, kemudian simpan atau majukan salinan yang lebih kuat.",
+        "guide": "voice-note-whatsapp-perlahan"
       },
       {
-        "question": "Adakah Increase Volume lebih baik daripada hanya menaikkan kelantangan iPhone?",
-        "answer": "Keduanya menyelesaikan masalah berbeza. Kelantangan sistem menjadikan main balik sementara lebih kuat. Aplikasi ini mencipta fail yang secara kekal lebih kuat — berguna apabila rakaman itu sendiri perlahan atau anda perlu menghantar versi yang telah di-boost."
+        "question": "Kenapa rakaman skrin saya bersuara perlahan?",
+        "answer": "iOS menangkap audio aplikasi pada tahap yang dikurangkan, lebih rendah lagi jika volume kecil atau fon telinga Bluetooth bersambung. Lain kali putuskan Bluetooth dan naikkan volume sebelum merakam. Rakaman sedia ada boleh dikuatkan ×5–×10 dengan Penguat Volume Bunyi.",
+        "guide": "rakaman-skrin-suara-perlahan-iphone"
       },
       {
-        "question": "Bagaimana Increase Volume berbeza daripada VLC atau Audacity untuk kelantangan?",
-        "answer": "VLC dan Audacity ialah alat desktop berkuasa yang boleh menormalisasi atau memperkuat audio dengan banyak kawalan. Increase Volume dibina untuk iPhone: aliran pendek import → peluncur → simpan tanpa editor desktop timeline."
+        "question": "Bagaimana cara kuatkan rakaman Memo Suara?",
+        "answer": "«Tingkatkan Rakaman» dalam Memo Suara mengurangkan hingar semasa dimainkan, tetapi tidak menguatkan fail. Kongsi rakaman ke aplikasi (⋯ → Kongsi → Increase Volume), hidupkan «Tingkatkan Kualiti Audio», kuatkan ×5–×10, kemudian simpan M4A yang lebih kuat.",
+        "guide": "kuatkan-memo-suara-iphone"
       },
       {
-        "question": "Adakah Increase Volume menyokong video dan audio?",
-        "answer": "Ya. Anda boleh boost video dengan trek bunyi, trek muzik, podcast, memo suara dan rakaman skrin, kemudian menyimpan hasilnya."
+        "question": "Bolehkah kuatkan MP3 di iPhone tanpa komputer?",
+        "answer": "Boleh. Tambah MP3, M4A atau WAV dari Fail, pilih pengganda, dengar Asal/Diproses, kemudian ketik «Muat turun yang diproses». Salinan yang lebih kuat disimpan ke Fail; semuanya berlaku di telefon.",
+        "guide": "kuatkan-mp3-iphone"
       },
       {
-        "question": "Adakah fail yang di-boost disimpan pada iPhone saya?",
-        "answer": "Ya. Selepas pemprosesan, anda menyimpan fail yang lebih kuat semula ke peranti dan boleh berkongsi seperti mana-mana fail media."
+        "question": "Bolehkah kuatkan suara video dalam aplikasi Foto?",
+        "answer": "Editor Foto hanya boleh membisukan, bukan menguatkan. Ketik Kongsi → Increase Volume untuk menguatkan video hingga ×10; salinan yang lebih kuat kembali ke Foto di sebelah asal.",
+        "guide": "kuatkan-video-dari-foto"
       },
       {
-        "question": "Berapakah harga Increase Volume – Penambah bunyi?",
-        "answer": "Senarai App Store menunjukkan harga semasa dan pembelian dalam aplikasi. Data berstruktur tapak mungkin menyebut tawaran percuma; sentiasa sahkan harga di Apple sebelum memetik."
+        "question": "Adakah suaranya akan pecah selepas dikuatkan?",
+        "answer": "Hanya jika puncak paling kuat melepasi had digital. Rakaman perlahan ada banyak ruang. Mulakan dengan ×3, dengar detik paling kuat dengan Asal/Diproses, dan naikkan selagi bunyi kekal bersih. Gambar tidak pernah berubah.",
+        "guide": "kuatkan-suara-tanpa-hilang-kualiti"
       },
       {
-        "question": "Siapa yang menerbitkan Increase Volume – Penambah bunyi?",
-        "answer": "Aplikasi diterbitkan oleh c-basso dan diedarkan melalui Apple App Store (ID App Store 6741472421). Tapak produk ialah volumeboosting.com."
+        "question": "Apa bezanya dengan kelantangan dalam iMovie?",
+        "answer": "iMovie di iPhone berhenti sekitar 500% (5×) dan memerlukan projek serta eksport penuh. Penguat Volume Bunyi mencapai ×10 (1000%), turut membuka fail audio, dan menyediakan Asal/Diproses sebelum menyimpan.",
+        "guide": "imovie-volume-lebih-500"
       },
       {
-        "question": "Bagaimana memperkuat video yang terlalu perlahan pada iPhone?",
-        "answer": "Dalam Increase Volume – Penambah bunyi, import video (contohnya dari Foto), laraskan peluncur boost dengan pratonton masa nyata, dan simpan salinan dengan trek audio lebih kuat. Anda membaiki paras dalam fail — berbeza daripada hanya menaikkan kelantangan sistem semasa main balik."
+        "question": "Adakah aplikasi ini menjadikan pembesar suara iPhone lebih kuat?",
+        "answer": "Tidak. Tiada aplikasi boleh melepasi had fizikal pembesar suara atau mengubah kelantangan seluruh sistem. Aplikasi ini menguatkan fail, yang membantu apabila rakaman itu sendiri perlahan. Jika semua video perlahan, semak dahulu punca di sisi main balik.",
+        "guide": "kenapa-suara-video-perlahan#main-balik"
       },
       {
-        "question": "Adakah aplikasi ini menaikkan kelantangan maksimum iPhone untuk muzik dan panggilan?",
-        "answer": "Tidak. Ia memproses fail yang anda import dan memberikan versi lebih kuat untuk disimpan atau dikongsi. Had perkakasan dan kelantangan global untuk Spotify, panggilan dan lain-lain tidak berubah."
+        "question": "Berapakah harga Penguat Volume Bunyi?",
+        "answer": "Muat turunnya percuma dan termasuk tempoh percubaan percuma. Penguatan tanpa had dibuka dengan langganan; harga terkini dalam Ringgit ada di App Store. Pemprosesan sentiasa berlaku di iPhone anda.",
+        "guide": "",
+        "learn_more_url": "__APP_STORE_URL__",
+        "learn_more_title": "Penguat Volume Bunyi: muat turun percuma dan harga terkini di App Store"
+      },
+      {
+        "question": "Adakah fail saya dimuat naik ke pelayan?",
+        "answer": "Tidak. Pemprosesan berlaku di iPhone, tanpa akaun dan tanpa muat naik. Hasilnya disimpan melalui helaian kongsi iOS ke Foto, Fail atau aplikasi pilihan anda.",
+        "guide": "kuatkan-suara-tanpa-hilang-kualiti#privasi"
       }
     ],
     "structured_data": {
@@ -376,5 +393,35 @@
     "title": "Fail perlahan anda, 10× lebih kuat, dalam masa kurang seminit.",
     "text": "Muat turun Increase Volume – Penambah bunyi, import video atau audio yang tidak didengari sesiapa, seret peluncur dan kongsi versi yang kuat.",
     "note": "Muat turun percuma · Memerlukan iOS 18.6 atau lebih baharu · 4.5★ di App Store"
+  },
+  "guides": {
+    "eyebrow": "Panduan",
+    "title": "Cara atasi suara perlahan di iPhone, satu demi satu",
+    "intro": "Setiap panduan menjawab soalan yang benar-benar dicari orang, menerangkan secara jujur apa yang boleh dan tidak boleh dilakukan alat iOS, kemudian menunjukkan langkah tepat dalam Penguat Volume Bunyi.",
+    "hub_link_text": "Semua panduan",
+    "read_more": "Baca panduan",
+    "hub": {
+      "title": "Panduan kuatkan suara di iPhone: video, MP3 dan voice note",
+      "description": "Panduan langkah demi langkah untuk menguatkan suara video, Memo Suara, MP3, rakaman skrin dan voice note WhatsApp di iPhone, dengan iOS dan Penguat Volume.",
+      "h1": "Panduan: kuatkan suara video dan audio di iPhone",
+      "intro": "Setiap panduan bermula dengan jawapan terus, menyemak secara jujur pilihan percuma sistem (Foto, iMovie, Memo Suara), dan menunjukkan cara mendapat kelantangan hingga 10× lebih kuat dengan Penguat Volume Bunyi.",
+      "keywords": "panduan kuatkan suara iPhone, kuatkan suara video, kuatkan MP3, voice note WhatsApp perlahan, rakaman skrin perlahan"
+    },
+    "labels": {
+      "home": "Laman utama",
+      "guides": "Panduan",
+      "breadcrumb_aria": "Laluan navigasi",
+      "updated": "Dikemas kini",
+      "reading_time": "Bacaan 3–4 minit",
+      "quick_answer": "Jawapan ringkas",
+      "faq_heading": "Soalan lazim lain",
+      "related": "Panduan berkaitan",
+      "all_guides": "Semua panduan",
+      "disclaimer": "Penguat Volume Bunyi menguatkan audio di dalam fail dan menyimpan salinan baharu. Ia tidak boleh melepasi had fizikal pembesar suara iPhone atau mengubah kelantangan seluruh sistem."
+    },
+    "default_cta": {
+      "title": "Lakukan dengan Penguat Volume Bunyi",
+      "text": "Percuma di App Store. Import, seret peluncur hingga ×10 dan ketik «Muat turun yang diproses»."
+    }
   }
 }

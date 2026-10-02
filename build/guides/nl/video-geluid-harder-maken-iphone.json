@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "geluid video harder maken iPhone",
+  "priority": 1,
+  "keywords": "geluid video harder maken iPhone, video volume verhogen, video geluid te zacht, app om video harder te maken, volumeversterker video",
+  "title": "Geluid van een video harder maken op iPhone (tot 10×)",
+  "description": "Maak een te zachte video op je iPhone in minder dan een minuut harder: wat Foto's en iMovie kunnen, waar ze stoppen en hoe je met Audioversterker tot 10× komt.",
+  "h1": "Het geluid van een video harder maken op iPhone",
+  "eyebrow": "Video",
+  "card_title": "Video harder maken",
+  "card_summary": "Foto's kan het volume niet verhogen en iMovie stopt rond 500%. Zo kom je met één schuifregelaar tot 10×.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Om het geluid van een video op iPhone harder te maken, open je de video in Audioversterker (Increase Volume, gratis in de App Store), sleep je de schuifregelaar 'Volumevermenigvuldiging' tot ×10, tik je op 'Volume versterken', vergelijk je Origineel en Verwerkt en tik je op 'Verwerkt bestand downloaden'. De luidere kopie wordt bewaard in Foto's of Bestanden en klinkt op elk apparaat en in elke app hard. De Foto's-app kan het volume niet verhogen en iMovie stopt rond 500%.",
+  "intro": [
+    "Je filmt een moment, stuurt het naar een vriend en krijgt terug: 'Ik hoor niks.' Een video met te zacht geluid is een van de meest voorkomende iPhone-problemen, omdat de oplossing niet zit waar mensen zoeken. De volumeknoppen veranderen alleen hoe hard je telefoon afspeelt, en de bewerker van Foto's heeft geen volumeregeling.",
+    "Deze handleiding loopt de drie echte opties op iPhone langs, wat elk wel en niet kan, en daarna de snelste methode: het geluid van de video tot 10× vermenigvuldigen met Audioversterker en een blijvend luider bestand bewaren."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/2.webp",
+    "alt": "Schermafbeelding 'Make video louder': een vinger sleept de roze schuifregelaar over een video in Audioversterker",
+    "caption": "De schuifregelaar staat boven de videovoorvertoning. Slepen, luisteren, bewaren."
+  },
+  "sections": [
+    {
+      "heading": "Waarom het volume van je telefoon de video niet repareert",
+      "paragraphs": [
+        "De volumeknoppen van iPhone veranderen hoe hard *jouw* luidspreker speelt. Ze veranderen het geluid in het videobestand niet. Deel je het bestand, dan speelt de telefoon van de ontvanger het af op het oorspronkelijke, zachte niveau. Om het echt op te lossen moet het niveau van de audiotrack zelf omhoog en moet je een nieuw bestand bewaren. Dat is precies wat een volumeversterker voor video doet."
+      ]
+    },
+    {
+      "heading": "Optie 1: de Foto's-app (verhoogt het volume niet)",
+      "paragraphs": [
+        "Open de video in Foto's en tik op Wijzig. Je ziet een luidsprekersymbool dat de clip alleen dempt en, op iPhone 16 of nieuwer bij video's met ruimtelijke audio, Audiomix, dat de balans tussen stemmen en achtergrondgeluid verandert. Geen van beide verhoogt het totale volume. Is de hele opname zacht, dan helpt Foto's niet."
+      ]
+    },
+    {
+      "heading": "Optie 2: iMovie (gratis, grens rond 500%)",
+      "paragraphs": [
+        "iMovie kan een clip harder maken: maak een filmproject, voeg de video toe, tik op de clip, tik op het luidsprekersymbool en sleep de schuifregelaar naar rechts. Er zijn twee beperkingen. De schuifregelaar stopt rond 500% (5×), wat vaak niet genoeg is voor iets dat vanaf de andere kant van de kamer is opgenomen. En je moet een project maken en de hele video opnieuw exporteren, wat bij een lange clip een paar minuten duurt."
+      ],
+      "list": [
+        "Open iMovie → Start nieuw project → Film en kies de video.",
+        "Tik op de clip in de tijdbalk, tik op het luidsprekersymbool en sleep de volumeschuifregelaar naar rechts (maximaal rond 500%).",
+        "Tik op Gereed → Deel → Bewaar video en wacht tot de export klaar is."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Optie 3: Audioversterker (tot 10×, één schuifregelaar, binnen een minuut)",
+      "paragraphs": [
+        "Audioversterker is precies hiervoor gemaakt. De app opent elke video uit Foto's of Bestanden, toont één schuifregelaar 'Volumevermenigvuldiging' tot ×10 (1000%), laat je Origineel en Verwerkt vergelijken voordat je bewaart en bewaart het resultaat via het gewone deelmenu van iOS. Hij opent ook losse audiobestanden zoals MP3 en Dictafoon-opnames, die iMovie niet opent.",
+        "De verwerking gebeurt op je iPhone. Er wordt niets geüpload, je hebt geen account nodig en de geëxporteerde video heeft geen watermerk."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Stap voor stap: een video harder maken met Audioversterker",
+    "intro": "Voor een gewone clip duurt het ongeveer een minuut. Je hebt de gratis app uit de App Store nodig en de video in Foto's of Bestanden.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Open de video in de app",
+        "text": "Open de app en voeg de video toe uit Foto's of Bestanden. Sneller: open de video in Foto's, tik op Deel en kies Increase Volume; het project wordt meteen aangemaakt."
+      },
+      {
+        "name": "Controleer de details",
+        "text": "De app toont bestandsnaam, grootte en duur, zodat je zeker weet dat het de juiste clip is. Is het vooral spraak, zet dan 'Audiokwaliteit verbeteren' aan."
+      },
+      {
+        "name": "Kies de versterking",
+        "text": "Sleep 'Volumevermenigvuldiging'. Begin met ×3 tot ×5 als de video alleen wat zacht is; ga naar ×10 als je hem nauwelijks hoort. Tik op 'Volume versterken tot ×N'."
+      },
+      {
+        "name": "Vergelijk Origineel en Verwerkt",
+        "text": "Gebruik de schakelaar onder de knop om te wisselen tussen het origineel en de versterkte versie. Klinken de harde stukken rauw, ga dan terug en verlaag de vermenigvuldiging een stap."
+      },
+      {
+        "name": "Downloaden en delen",
+        "text": "Tik op 'Verwerkt bestand downloaden'. Kies in het deelmenu Bewaar video om de luidere kopie in Foto's te zetten, Bewaar in Bestanden, of stuur hem direct via Berichten, WhatsApp, AirDrop of TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips voor het beste resultaat",
+    "items": [
+      "Versterk *voordat* je op TikTok, Instagram of YouTube plaatst. Platforms gelijken het volume bij het uploaden aan, maar redden geen track die te zacht binnenkomt.",
+      "Heeft de clip een hard moment (gelach, een dichtslaande deur) met zachte spraak eromheen, gebruik dan een gematigde vermenigvuldiging (×3–×5) en zet 'Audiokwaliteit verbeteren' aan in plaats van naar ×10 te gaan.",
+      "Het origineel blijft onaangeroerd. De app maakt altijd een nieuw bestand, dus je kunt meerdere niveaus proberen.",
+      "Een video die is opgenomen met een afgedekte microfoon (hoesje, vinger) klinkt zacht *en* dof; versterken lost het niveau op, niet het doffe geluid."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan ik het geluid van een video op iPhone harder maken zonder app?",
+      "answer": "Alleen met iMovie, dat Apple gratis aanbiedt en dat een clip tot ongeveer 500% harder maakt. Foto's kan het volume niet verhogen. Voor meer dan 5× of een snellere werkwijze gebruik je Audioversterker."
+    },
+    {
+      "question": "Gaat de videokwaliteit achteruit als ik het geluid harder maak?",
+      "answer": "Het beeld verandert helemaal niet. Het geluid wordt vermenigvuldigd; duw je een opname met al harde pieken te ver, dan kan die vervormen en rauw klinken. Daarom heeft de app de schakelaar Origineel/Verwerkt, zodat je luistert voordat je bewaart."
+    },
+    {
+      "question": "Blijft de video hard als ik hem verstuur?",
+      "answer": "Ja. De versterking zit in de audiotrack van het bestand, dus hij speelt op het nieuwe niveau af op elke telefoon, computer of social media."
+    },
+    {
+      "question": "Werkt het met gedownloade video's?",
+      "answer": "Ja, zolang het bestand in Foto's of Bestanden staat en niet kopieerbeveiligd is. De app opent MP4- en MOV-bestanden van elke bron."
+    }
+  ],
+  "related": [
+    "harder-maken-zonder-kwaliteitsverlies",
+    "schermopname-geluid-te-zacht-iphone",
+    "imovie-volume-boven-500"
+  ],
+  "cta": {
+    "title": "Maak je video nu harder",
+    "text": "Audioversterker is gratis in de App Store. Deel de video met de app, sleep tot ×10 en tik op 'Verwerkt bestand downloaden'."
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "audiolibro volume basso",
+  "priority": 12,
+  "keywords": "audiolibro volume basso, aumentare volume podcast iPhone, podcast troppo basso, alzare volume audiolibro, registrazione lezione bassa",
+  "title": "Come alzare il volume di un podcast o audiolibro su iPhone",
+  "description": "Podcast, audiolibro o lezione registrata troppo bassi? In streaming usa il boost voce del lettore; i file che possiedi alzali fino a 10× con Aumenta Volume.",
+  "h1": "Come aumentare il volume di un podcast o audiolibro su iPhone",
+  "eyebrow": "Podcast e audiolibri",
+  "card_title": "Alzare un podcast o un audiolibro",
+  "card_summary": "Impostazioni del lettore per lo streaming; potenziamento vero del file per puntate e capitoli in MP3 o M4A.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Per le puntate che ascolti in streaming in un'app di podcast, usa la sua funzione di volume (Voice Boost in Overcast, Volume Boost in Pocket Casts; Apple Podcast non ce l'ha). Puntate, capitoli di audiolibri o lezioni che hai come file (MP3, M4A, MP4 in File o iCloud Drive) aprili in Aumenta Volume, attiva «Migliora qualità audio», alza ×3–×10, confronta Originale ed Elaborato e tocca «Scarica elaborato» per salvare una copia più forte che suona in qualsiasi app.",
+  "intro": [
+    "Il parlato registrato ha un problema di volume: i podcast dovrebbero essere masterizzati intorno a −16 LUFS, ma i programmi indipendenti, le lezioni registrate e i vecchi audiolibri sono spesso molto più bassi, e un ospite che parla piano sparisce accanto a un conduttore forte. In metro o in macchina significa toccare il volume di continuo.",
+    "La soluzione dipende da dove si trova l'audio: dentro un'app di streaming o in un file che controlli tu."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/it/7.webp",
+    "alt": "Elenco dei progetti in Aumenta Volume con file MP3 e video",
+    "caption": "Potenzia un'intera serie di puntate o capitoli; ognuno resta nell'elenco dei progetti."
+  },
+  "sections": [
+    {
+      "heading": "Streaming in un'app di podcast",
+      "paragraphs": [
+        "Non puoi modificare l'audio che vive dentro un'app di streaming, ma diversi lettori elaborano il volume in tempo reale:"
+      ],
+      "list": [
+        "Overcast: Voice Boost normalizza e comprime il parlato; si attiva per singolo programma o per tutti.",
+        "Pocket Casts: Volume Boost e Trim Silence negli effetti di riproduzione.",
+        "Spotify: Normalizza volume nelle impostazioni di riproduzione.",
+        "Apple Podcast: nessuna funzione di volume. Verifica suono in Impostazioni › Musica vale solo per la musica, non per i podcast."
+      ],
+      "note": "Queste funzioni agiscono solo durante l'ascolto in quell'app. Non modificano il file, quindi se sposti la puntata altrove non migliora nulla."
+    },
+    {
+      "heading": "File scaricati",
+      "paragraphs": [
+        "Molti podcast offrono il download diretto dell'MP3 dal sito, le piattaforme di corsi esportano MP3 o MP4, e gli audiolibri senza DRM (LibriVox, negozi che vendono MP3 scaricabili o le tue copie) arrivano come MP3 o M4B. Quando il file è in File o iCloud Drive, Aumenta Volume lo apre, moltiplica il livello fino a ×10 e salva una nuova copia. «Migliora qualità audio» è pensato per il parlato, quindi qui rende al meglio."
+      ],
+      "note": "Gli audiolibri di Audible, Apple Books o Storytel e i download dentro Apple Podcast o Spotify sono protetti da copia e nessun'altra app può importarli."
+    },
+    {
+      "heading": "Che moltiplicatore usare per il parlato",
+      "table": {
+        "head": [
+          "Sorgente",
+          "Moltiplicatore tipico"
+        ],
+        "rows": [
+          [
+            "Podcast professionale solo un po' basso",
+            "×1,5 – ×2"
+          ],
+          [
+            "Programma indipendente o intervista con ospite basso",
+            "×3 – ×5"
+          ],
+          [
+            "Lezione o riunione registrata da lontano",
+            "×6 – ×10"
+          ],
+          [
+            "Vecchia copia di un audiolibro",
+            "×2 – ×4"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Passo dopo passo: alzare una puntata o un capitolo",
+    "intro": "Per file in File, iCloud Drive, Dropbox o ricevuti via email.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Aggiungi il file",
+        "text": "Apri Aumenta Volume e aggiungi la puntata da File, oppure in File tieni premuto il file → Condividi → Increase Volume."
+      },
+      {
+        "name": "Attiva Migliora qualità audio",
+        "text": "È parlato; l'opzione mantiene nitide le consonanti dopo il potenziamento."
+      },
+      {
+        "name": "Scegli il moltiplicatore",
+        "text": "Segui la tabella qui sopra e tocca «Potenzia volume»."
+      },
+      {
+        "name": "Confronta",
+        "text": "Passa da Originale a Elaborato nella parte più forte (sigla, una risata)."
+      },
+      {
+        "name": "Scarica elaborato",
+        "text": "Salva su File. Ascolta il file potenziato da File, da Libri (audiolibri) o da qualsiasi lettore che apre audio locale."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consigli",
+    "items": [
+      "Potenzia tutti i capitoli di un audiolibro con lo stesso moltiplicatore così il volume non salta da un capitolo all'altro.",
+      "Per le lezioni in video (MP4) i passaggi sono gli stessi; l'immagine non cambia.",
+      "Se un file ha una sigla forte e un parlato basso, scegli il moltiplicatore in base al parlato e accetta una sigla un po' compressa con «Migliora qualità audio» attivo."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Posso alzare il volume di Apple Podcast?",
+      "answer": "Apple Podcast non ha impostazioni di volume né di boost della voce. Passa a un lettore che le ha (Overcast, Pocket Casts) oppure scarica l'MP3 della puntata dal sito del programma e potenzia il file con Aumenta Volume."
+    },
+    {
+      "question": "Posso alzare un audiolibro di Audible o Storytel?",
+      "answer": "No. Quei file sono cifrati e non si aprono in altre app. Usa le impostazioni audio del loro lettore, se ci sono."
+    },
+    {
+      "question": "La puntata potenziata mantiene capitoli e copertina?",
+      "answer": "Aumenta Volume elabora l'audio e crea un nuovo file. I metadati di base come il titolo vengono mantenuti quando il formato lo consente; i marcatori dei capitoli possono andare persi."
+    }
+  ],
+  "related": [
+    "aumentare-volume-mp3-iphone",
+    "aumentare-volume-memo-vocali-iphone",
+    "aumentare-volume-senza-perdere-qualita"
+  ]
+}

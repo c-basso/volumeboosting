@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover"
+    />
+    <title>iPhoneでポッドキャストやオーディオブックの音量を上げる方法</title>
+    <meta
+      name="description"
+      content="ポッドキャスト、オーディオブック、録音した講義の音が小さいとき。ストリーミングならプレーヤーの音声強調機能を、手持ちのファイルなら音量ブースターで最大10倍にする方法を解説します。処理はiPhone内で完結し、元のファイルはそのまま残ります。"
+    />
+    <!-- App Store Smart App Banner -->
+    <meta name="apple-itunes-app" content="app-id=6741472421" />
+    <!-- Core SEO -->
+    <meta name="keywords" content="オーディオブック 音が小さい, ポッドキャスト 音量 上げる iPhone, ポッドキャスト 音が小さい, オーディオブック 音量 上げる, 講義 録音 音が小さい" />
+    <meta name="author" content="c-basso" />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="bingbot" content="index, follow" />
+    <link rel="canonical" href="https://volumeboosting.com/ja/guide/podcast-audiobook-onryou-ageru/" />
+    <link
+      rel="alternate"
+      type="text/plain"
+      href="/llms.txt"
+      title="LLM / AI summary of this site"
+    />
+
+    <!-- Alternate Language Links -->
+    
+    <link rel="alternate" hreflang="en" href="https://volumeboosting.com/guides/how-to-make-a-podcast-or-audiobook-louder-on-iphone/" />
+    
+    <link rel="alternate" hreflang="cs" href="https://volumeboosting.com/cs/navody/jak-zesilit-podcast-nebo-audioknihu-na-iphonu/" />
+    
+    <link rel="alternate" hreflang="da" href="https://volumeboosting.com/da/guides/goer-en-podcast-eller-lydbog-hoejere-paa-iphone/" />
+    
+    <link rel="alternate" hreflang="de" href="https://volumeboosting.com/de/anleitungen/podcast-hoerbuch-lauter-machen-iphone/" />
+    
+    <link rel="alternate" hreflang="el" href="https://volumeboosting.com/el/odigoi/dynamoste-podcast-i-audiobook-sto-iphone/" />
+    
+    <link rel="alternate" hreflang="es" href="https://volumeboosting.com/es/guias/subir-volumen-podcast-audiolibro-iphone/" />
+    
+    <link rel="alternate" hreflang="fi" href="https://volumeboosting.com/fi/oppaat/podcast-tai-aanikirja-kovemmaksi-iphonella/" />
+    
+    <link rel="alternate" hreflang="fil" href="https://volumeboosting.com/fil/mga-gabay/paano-lakasan-ang-podcast-o-audiobook/" />
+    
+    <link rel="alternate" hreflang="fr" href="https://volumeboosting.com/fr/guides/augmenter-volume-podcast-livre-audio-iphone/" />
+    
+    <link rel="alternate" hreflang="he" href="https://volumeboosting.com/he/madrichim/hagbarat-podcast-sefer-shema/" />
+    
+    <link rel="alternate" hreflang="hr" href="https://volumeboosting.com/hr/vodici/pojacati-podcast-audioknjigu-iphone/" />
+    
+    <link rel="alternate" hreflang="hu" href="https://volumeboosting.com/hu/utmutatok/podcast-hangoskonyv-hangosabban/" />
+    
+    <link rel="alternate" hreflang="id" href="https://volumeboosting.com/id/panduan/mengeraskan-podcast-audiobook-iphone/" />
+    
+    <link rel="alternate" hreflang="it" href="https://volumeboosting.com/it/guide/aumentare-volume-podcast-audiolibro-iphone/" />
+    
+    <link rel="alternate" hreflang="ja" href="https://volumeboosting.com/ja/guide/podcast-audiobook-onryou-ageru/" />
+    
+    <link rel="alternate" hreflang="ko" href="https://volumeboosting.com/ko/guide/podcast-audiobook-bollyum/" />
+    
+    <link rel="alternate" hreflang="ms" href="https://volumeboosting.com/ms/panduan/kuatkan-podcast-buku-audio-iphone/" />
+    
+    <link rel="alternate" hreflang="nl" href="https://volumeboosting.com/nl/handleidingen/podcast-luisterboek-harder-iphone/" />
+    
+    <link rel="alternate" hreflang="nb" href="https://volumeboosting.com/no/guider/podkast-lydbok-hoyere-iphone/" />
+    
+    <link rel="alternate" hreflang="pl" href="https://volumeboosting.com/pl/poradniki/cichy-podcast-audiobook-iphone/" />
+    
+    <link rel="alternate" hreflang="pt" href="https://volumeboosting.com/pt/guias/podcast-audiolivro-baixo-iphone/" />
+    
+    <link rel="alternate" hreflang="ro" href="https://volumeboosting.com/ro/ghiduri/podcast-audiobook-incet-iphone/" />
+    
+    <link rel="alternate" hreflang="ru" href="https://volumeboosting.com/ru/instrukcii/tikhiy-podkast-audiokniga-iphone/" />
+    
+    <link rel="alternate" hreflang="sk" href="https://volumeboosting.com/sk/navody/tichy-podcast-audiokniha-iphone/" />
+    
+    <link rel="alternate" hreflang="sv" href="https://volumeboosting.com/sv/guider/podd-ljudbok-for-lag-iphone/" />
+    
+    <link rel="alternate" hreflang="x-default" href="https://volumeboosting.com/guides/how-to-make-a-podcast-or-audiobook-louder-on-iphone/" />
+
+    <!-- PWA & Theming -->
+    <meta name="theme-color" content="#050810" />
+    <meta name="msapplication-TileColor" content="#050810" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="iPhoneでポッドキャストやオーディオブックの音量を上げる方法" />
+    <meta property="og:description" content="ポッドキャスト、オーディオブック、録音した講義の音が小さいとき。ストリーミングならプレーヤーの音声強調機能を、手持ちのファイルなら音量ブースターで最大10倍にする方法を解説します。処理はiPhone内で完結し、元のファイルはそのまま残ります。" />
+    <meta property="og:image" content="https://volumeboosting.com/ja/site_preview.png" />
+    <meta property="og:image:alt" content="音量ブースターのプロジェクト一覧。MP3ファイルと動画が並んでいる" />
+    <meta property="og:image:width" content="1026" />
+    <meta property="og:image:height" content="539" />
+    <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://volumeboosting.com/ja/guide/podcast-audiobook-onryou-ageru/" />
+    <meta property="og:site_name" content="Increase Volume – 音の強化" />
+    <meta property="og:locale" content="ja_JP" />
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://volumeboosting.com/ja/guide/podcast-audiobook-onryou-ageru/" />
+    <meta name="twitter:title" content="iPhoneでポッドキャストやオーディオブックの音量を上げる方法" />
+    <meta name="twitter:description" content="ポッドキャスト、オーディオブック、録音した講義の音が小さいとき。ストリーミングならプレーヤーの音声強調機能を、手持ちのファイルなら音量ブースターで最大10倍にする方法を解説します。処理はiPhone内で完結し、元のファイルはそのまま残ります。" />
+    <meta name="twitter:image" content="https://volumeboosting.com/ja/site_preview.png" />
+    <meta name="twitter:image:width" content="1026" />
+    <meta name="twitter:image:height" content="539" />
+
+    <link rel="preconnect" href="https://apps.apple.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://mc.yandex.ru" />
+    <link rel="dns-prefetch" href="https://apps.apple.com" />
+    <link rel="dns-prefetch" href="https://mc.yandex.ru" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Instrument+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico" />
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png" />
+    <link rel="mask-icon" href="/img/favicon.svg" color="#050810" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/img/web-app-manifest-192x192.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/img/web-app-manifest-512x512.png" />
+    <!-- Application Name -->
+    <meta name="application-name" content="Increase Volume – 音の強化 – iPhone向け音の強化" />
+
+    <link
+      rel="stylesheet"
+      href="/style.css?v=1790957708551"
+    />
+    <script>document.documentElement.classList.add('js');</script>
+
+  </head>
+  <body class="page-guide">
+    <div class="bg-grid" aria-hidden="true"></div>
+    <div class="noise-layer" aria-hidden="true"></div>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="https://volumeboosting.com/ja/" aria-label="Increase Volume – 音の強化">
+          <span class="brand-logo">
+            <img
+              src="/img/logo.webp"
+              alt="Increase Volume – 音の強化 アプリのアイコン"
+              width="44"
+              height="44"
+              loading="eager"
+              decoding="async"
+            />
+          </span>
+          <span class="brand-text">
+            <span class="brand-name">Volume Booster</span>
+            <span class="brand-subtitle">iPhone向け音の強化</span>
+          </span>
+        </a>
+        <nav class="site-nav" aria-label="メインナビゲーション">
+          <a href="https://volumeboosting.com/ja/#how-it-works">使い方</a>
+          <a href="https://volumeboosting.com/ja/#screenshots">スクリーンショット</a>
+          <a href="https://volumeboosting.com/ja/guide/">ガイド</a>
+          <a href="https://volumeboosting.com/ja/#faq">よくある質問</a>
+        </nav>
+        <a
+          class="header-cta"
+          href="https://apps.apple.com/app/id6741472421"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="App Storeで Increase Volume – 音の強化 をダウンロード"
+        >
+          <svg class="apple-mark" width="14" height="17" viewBox="14 8 14 26" aria-hidden="true"><path fill="currentColor" d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"/><path fill="currentColor" d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"/></svg>
+          <span>App Store</span>
+        </a>
+      </header>
+
+
+      <main id="main" class="guide-layout">
+        <nav class="breadcrumbs" aria-label="パンくずリスト">
+          <ol>
+            <li><a href="https://volumeboosting.com/ja/">ホーム</a></li>
+            <li><a href="https://volumeboosting.com/ja/guide/">ガイド</a></li>
+            <li aria-current="page">ポッドキャスト・オーディオブックを大きく</li>
+          </ol>
+        </nav>
+
+        <article class="guide-article">
+          <header class="guide-header">
+            <p class="eyebrow"><span class="sticker sticker-sm">ポッドキャスト・オーディオブック</span></p>
+            <h1>iPhoneでポッドキャストやオーディオブックの音量を上げる方法</h1>
+            <p class="guide-meta">
+              更新日 <time datetime="2026-10-02">2026年10月2日</time>
+              · 3〜4分で読めます
+            </p>
+            <div class="quick-answer">
+              <p class="quick-answer-label">結論</p>
+              <p>ポッドキャストアプリでストリーミング再生しているエピソードには、そのアプリの音量機能を使います（OvercastのVoice Boost、Pocket CastsのVolume Boostなど。Apple Podcastにはありません）。ファイルとして持っているエピソード・オーディオブックの章・講義（ファイルアプリやiCloud DriveのMP3・M4A・MP4）は音量ブースターで開き、「音質を改善」をオンにして×3〜×10でブーストし、「オリジナル／処理後」を比べて「処理後をダウンロード」をタップすれば、どのアプリでも再生できる大きなコピーを保存できます。</p>
+            </div>
+          </header>
+
+          <div class="guide-body">
+            
+            <p>録音された話し声には音量の問題があります。ポッドキャストは約−16 LUFSでマスタリングされるべきとされていますが、個人の番組、録音した講義、古いオーディオブックはそれよりずっと小さいことが多く、小声のゲストは大きな声のホストの隣で埋もれてしまいます。電車や車の中では、ずっと音量を触り続けることになります。</p>
+            
+            <p>対処法は、音声がストリーミングアプリの中にあるのか、自分で扱えるファイルなのかで変わります。</p>
+            
+
+            
+            <figure class="guide-figure">
+              <div class="guide-figure-frame">
+                <img src="/img/screenshots/7.webp" alt="音量ブースターのプロジェクト一覧。MP3ファイルと動画が並んでいる" width="460" height="995" loading="lazy" decoding="async" />
+              </div>
+              <figcaption>エピソードや章をまとめてブーストでき、それぞれプロジェクト一覧に残ります。</figcaption>
+            </figure>
+            
+
+            
+            <section class="guide-section" id="">
+              <h2>ポッドキャストアプリでのストリーミング</h2>
+              
+              <p>ストリーミングアプリ内の音声は編集できませんが、いくつかのプレーヤーはリアルタイムで音量を処理します。</p>
+              
+              
+              
+              
+              <ul>
+                <li>Overcast：Voice Boostが話し声をノーマライズ・圧縮します。番組ごと、またはすべてに設定できます。</li><li>Pocket Casts：再生エフェクトにVolume BoostとTrim Silenceがあります。</li><li>Spotify：再生設定の「音量の自動調整」。</li><li>Apple Podcast：音量機能はありません。「設定」›「ミュージック」の「音量の自動調整」は音楽のみに適用され、ポッドキャストには効きません。</li>
+              </ul>
+              
+              
+              
+              
+              <p class="guide-note">これらの機能はそのアプリで再生している間だけ効きます。ファイルは変わらないので、エピソードを別の場所に移すと効果はありません。</p>
+              
+            </section>
+            
+            <section class="guide-section" id="">
+              <h2>ダウンロードしたファイル</h2>
+              
+              <p>多くのポッドキャストは公式サイトからMP3を直接ダウンロードでき、オンライン講座のプラットフォームはMP3やMP4で書き出せます。DRMのないオーディオブック（青空朗読、MP3を販売するストア、自分で取り込んだもの）はMP3やM4Bで手に入ります。ファイルアプリやiCloud Driveにあれば、音量ブースターが開いて最大×10まで上げ、新しいコピーを保存します。「音質を改善」は話し声向けなので、ここで最も役立ちます。</p>
+              
+              
+              
+              
+              <p class="guide-note">Audible・Apple Books・audiobook.jpなどのオーディオブックや、Apple Podcast・Spotify内のダウンロードはコピー保護されており、他のアプリでは読み込めません。</p>
+              
+            </section>
+            
+            <section class="guide-section" id="">
+              <h2>話し声に使う倍率の目安</h2>
+              
+              
+              
+              <div class="geo-table-wrap">
+                <table class="geo-compare-table">
+                  <thead>
+                    <tr><th scope="col">ソース</th><th scope="col">一般的な倍率</th></tr>
+                  </thead>
+                  <tbody>
+                    
+                    <tr><td>少し小さいだけのプロのポッドキャスト</td><td>×1.5 – ×2</td></tr>
+                    
+                    <tr><td>個人番組や、ゲストの声が小さいインタビュー</td><td>×3 – ×5</td></tr>
+                    
+                    <tr><td>離れて録った講義や会議</td><td>×6 – ×10</td></tr>
+                    
+                    <tr><td>古いオーディオブックの取り込み</td><td>×2 – ×4</td></tr>
+                    
+                  </tbody>
+                </table>
+              </div>
+              
+              
+            </section>
+            
+
+            
+            <section class="guide-section guide-steps" id="steps">
+              <h2>手順：エピソードや章の音量を上げる</h2>
+              <p>ファイルアプリ、iCloud Drive、Dropbox、メールで受け取ったファイルに。</p>
+              <ol class="steps-list">
+                
+                <li id="step-1">
+                  <span class="step-number">1</span>
+                  <div>
+                    <h3>ファイルを追加する</h3>
+                    <p>音量ブースターを開いてファイルアプリからエピソードを追加するか、ファイルアプリでファイルを長押し → 共有 → Increase Volumeを選びます。</p>
+                  </div>
+                </li>
+                
+                <li id="step-2">
+                  <span class="step-number">2</span>
+                  <div>
+                    <h3>「音質を改善」をオンにする</h3>
+                    <p>話し声なので、ブースト後も子音がはっきり聞こえるようにします。</p>
+                  </div>
+                </li>
+                
+                <li id="step-3">
+                  <span class="step-number">3</span>
+                  <div>
+                    <h3>倍率を選ぶ</h3>
+                    <p>上の表を目安に倍率を決め、「音量をブースト」をタップします。</p>
+                  </div>
+                </li>
+                
+                <li id="step-4">
+                  <span class="step-number">4</span>
+                  <div>
+                    <h3>聴き比べる</h3>
+                    <p>一番大きい部分（オープニングの音楽や笑い声）で「オリジナル／処理後」を切り替えます。</p>
+                  </div>
+                </li>
+                
+                <li id="step-5">
+                  <span class="step-number">5</span>
+                  <div>
+                    <h3>処理後をダウンロード</h3>
+                    <p>ファイルに保存します。ブーストしたファイルはファイルアプリ、ブック（オーディオブック）、ローカル音声を開ける任意のプレーヤーで再生できます。</p>
+                  </div>
+                </li>
+                
+              </ol>
+              <div class="inline-cta">
+                <img src="/img/app-icon.webp" alt="" width="56" height="56" loading="lazy" decoding="async" />
+                <div>
+                  <p class="inline-cta-title">音量ブースターでやってみる</p>
+                  <p>App Storeで無料。読み込んで、スライダーを×10まで動かし、「処理後をダウンロード」をタップするだけです。</p>
+                </div>
+              <a
+                class="cta-primary"
+                href="https://apps.apple.com/app/id6741472421"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="App Storeで Increase Volume – 音の強化 をダウンロード"
+              >
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>App Storeでダウンロード</span>
+              </a>
+
+              </div>
+            </section>
+            
+
+            
+            <section class="guide-section">
+              <h2>コツ</h2>
+              <ul class="tips-list">
+                <li>オーディオブックの全章を同じ倍率でブーストすると、章ごとに音量が変わりません。</li><li>動画の講義（MP4）も手順は同じで、映像は変わりません。</li><li>オープニング曲が大きく話し声が小さいファイルは、話し声に合わせて倍率を選び、「音質を改善」をオンにしてオープニングが少し圧縮されるのを許容しましょう。</li>
+              </ul>
+            </section>
+            
+
+            
+            <section class="guide-section guide-faq">
+              <h2>そのほかのよくある質問</h2>
+              <div class="faq-list">
+                
+                <article class="faq-item">
+                  <h3 class="faq-q">Apple Podcastの音量を上げられますか？</h3>
+                  <p class="faq-a">Apple Podcastには音量設定や音声強調機能がありません。機能のあるプレーヤー（Overcast、Pocket Castsなど）に切り替えるか、番組サイトからエピソードのMP3をダウンロードし、音量ブースターでファイルをブーストしてください。</p>
+                </article>
+                
+                <article class="faq-item">
+                  <h3 class="faq-q">AudibleやApple Booksのオーディオブックを大きくできますか？</h3>
+                  <p class="faq-a">できません。これらのファイルは暗号化されていて、他のアプリでは開けません。それぞれのプレーヤーに音声設定があれば、それを使ってください。</p>
+                </article>
+                
+                <article class="faq-item">
+                  <h3 class="faq-q">ブーストしたエピソードに章やアートワークは残りますか？</h3>
+                  <p class="faq-a">音量ブースターは音声を処理して新しいファイルを作ります。タイトルなどの基本的なメタデータは形式が対応していれば保持されますが、チャプターマーカーは失われる場合があります。</p>
+                </article>
+                
+              </div>
+            </section>
+            
+
+            <p class="guide-disclaimer">音量ブースターはファイル内の音声を大きくし、新しいコピーとして保存します。iPhoneのスピーカーの物理的な上限を超えたり、システム全体の音量を変えたりすることはできません。</p>
+          </div>
+        </article>
+
+        <aside class="guide-aside">
+          <div class="aside-card app-card">
+            <img src="/img/app-icon.webp" alt="Increase Volume – 音の強化 アプリのアイコン" width="72" height="72" loading="lazy" decoding="async" />
+            <p class="app-card-name">Increase Volume – 音の強化</p>
+            <p class="app-card-sub">Audio & Music Booster · 「ミュージック」カテゴリ · iPhone</p>
+            <p class="app-card-rating">4.5 ★ · App Store の評価 121 件</p>
+              <a
+                class="cta-primary"
+                href="https://apps.apple.com/app/id6741472421"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="App Storeで Increase Volume – 音の強化 をダウンロード"
+              >
+                <svg
+                  class="cta-apple-icon"
+                  width="20"
+                  height="24"
+                  viewBox="14 8 14 26"
+                  aria-hidden="true"
+                >
+                  <path
+                    fill="currentColor"
+                    d="M24.99671,19.88935a5.14625,5.14625,0,0,1,2.45058-4.31771,5.26776,5.26776,0,0,0-4.15039-2.24376c-1.74624-.1833-3.43913,1.04492-4.329,1.04492-.90707,0-2.27713-1.02672-3.75247-.99637a5.52735,5.52735,0,0,0-4.65137,2.8367c-2.01111,3.482-.511,8.59939,1.41551,11.414.96388,1.37823,2.09037,2.91774,3.56438,2.86315,1.4424-.05983,1.98111-.91977,3.7222-.91977,1.72494,0,2.23035.91977,3.73427.88506,1.54777-.02512,2.52292-1.38435,3.453-2.77563a11.39931,11.39931,0,0,0,1.579-3.21589A4.97284,4.97284,0,0,1,24.99671,19.88935Z"
+                  />
+                  <path
+                    fill="currentColor"
+                    d="M22.15611,11.47681a5.06687,5.06687,0,0,0,1.159-3.62989,5.15524,5.15524,0,0,0-3.33555,1.72582,4.82131,4.82131,0,0,0-1.18934,3.4955A4.26259,4.26259,0,0,0,22.15611,11.47681Z"
+                  />
+                </svg>
+                <span>App Storeでダウンロード</span>
+              </a>
+
+            <p class="app-card-note">無料 · App 内課金は任意（無料トライアル、または買い切りのライフタイムプラン）</p>
+            <img class="cta-qr" src="/img/app-store-qr.png" alt="App Store の Increase Volume – 音の強化 ページへの QR コード" width="88" height="88" loading="lazy" decoding="async" />
+          </div>
+          
+          <div class="aside-card">
+            <p class="aside-title">関連ガイド</p>
+            <ul class="related-list">
+              
+              <li><a href="https://volumeboosting.com/ja/guide/mp3-onryou-ageru-iphone/"><span class="related-eyebrow">MP3・音声</span>MP3の音量を上げる</a></li>
+              
+              <li><a href="https://volumeboosting.com/ja/guide/voice-memo-oto-ookiku/"><span class="related-eyebrow">ボイスメモ</span>小さいボイスメモを大きくする</a></li>
+              
+              <li><a href="https://volumeboosting.com/ja/guide/onshitsu-ochizu-onryou-ageru/"><span class="related-eyebrow">音質</span>音割れせずに音量を上げる</a></li>
+              
+            </ul>
+            <a class="text-link" href="https://volumeboosting.com/ja/guide/">すべてのガイド →</a>
+          </div>
+          
+        </aside>
+      </main>
+
+      <footer class="site-footer">
+        <div class="footer-top">
+          <div class="footer-brand">
+            <img src="/img/logo.webp" alt="Increase Volume – 音の強化 アプリのアイコン" width="40" height="40" loading="lazy" decoding="async" />
+            <div>
+              <div class="footer-brand-name">Increase Volume – 音の強化</div>
+              <p class="footer-tagline">スピーカーではなく、ファイルそのものを大きくする iPhone 向け音量ブースター。</p>
+            </div>
+          </div>
+          <nav class="footer-links" aria-label="フッター">
+            <a href="https://volumeboosting.com/ja/#how-it-works">使い方</a>
+            <a href="https://volumeboosting.com/ja/#screenshots">スクリーンショット</a>
+            <a href="https://volumeboosting.com/ja/guide/">ガイド</a>
+            <a href="https://volumeboosting.com/ja/#faq">よくある質問</a>
+            <a href="/privacy.html">プライバシーポリシー</a>
+            <a href="/terms.html">利用規約</a>
+            <a href="https://apps.apple.com/app/id6741472421" target="_blank" rel="noopener noreferrer">App Storeで見る</a>
+          </nav>
+        </div>
+        
+        <div class="footer-bottom">
+          <div>© 2026 c-basso · Increase Volume – 音の強化</div>
+          <p class="footer-updated">
+            ページ最終更新：
+            <time datetime="2026-10-01">2026-10-01</time>
+          </p>
+        </div>
+      </footer>
+
+    </div>
+
+    <script type="application/ld+json">
+      {"@context":"https://schema.org","@type":"Article","headline":"iPhoneでポッドキャストやオーディオブックの音量を上げる方法","description":"ポッドキャスト、オーディオブック、録音した講義の音が小さいとき。ストリーミングならプレーヤーの音声強調機能を、手持ちのファイルなら音量ブースターで最大10倍にする方法を解説します。処理はiPhone内で完結し、元のファイルはそのまま残ります。","image":["https://volumeboosting.com/img/screenshots/7.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/ja/guide/podcast-audiobook-onryou-ageru/","inLanguage":"ja","about":{"@type":"MobileApplication","name":"Increase Volume – 音の強化","url":"https://volumeboosting.com/ja/","operatingSystem":"iOS"}}
+    </script>
+    <script type="application/ld+json">
+      {"@context":"https://schema.org","@type":"HowTo","name":"手順：エピソードや章の音量を上げる","description":"ファイルアプリ、iCloud Drive、Dropbox、メールで受け取ったファイルに。","image":"https://volumeboosting.com/img/screenshots/7.webp","totalTime":"PT1M","inLanguage":"ja","tool":[{"@type":"HowToTool","name":"Increase Volume – 音の強化"}],"step":[{"@type":"HowToStep","position":1,"name":"ファイルを追加する","text":"音量ブースターを開いてファイルアプリからエピソードを追加するか、ファイルアプリでファイルを長押し → 共有 → Increase Volumeを選びます。","url":"https://volumeboosting.com/ja/guide/podcast-audiobook-onryou-ageru/#step-1"},{"@type":"HowToStep","position":2,"name":"「音質を改善」をオンにする","text":"話し声なので、ブースト後も子音がはっきり聞こえるようにします。","url":"https://volumeboosting.com/ja/guide/podcast-audiobook-onryou-ageru/#step-2"},{"@type":"HowToStep","position":3,"name":"倍率を選ぶ","text":"上の表を目安に倍率を決め、「音量をブースト」をタップします。","url":"https://volumeboosting.com/ja/guide/podcast-audiobook-onryou-ageru/#step-3"},{"@type":"HowToStep","position":4,"name":"聴き比べる","text":"一番大きい部分（オープニングの音楽や笑い声）で「オリジナル／処理後」を切り替えます。","url":"https://volumeboosting.com/ja/guide/podcast-audiobook-onryou-ageru/#step-4"},{"@type":"HowToStep","position":5,"name":"処理後をダウンロード","text":"ファイルに保存します。ブーストしたファイルはファイルアプリ、ブック（オーディオブック）、ローカル音声を開ける任意のプレーヤーで再生できます。","url":"https://volumeboosting.com/ja/guide/podcast-audiobook-onryou-ageru/#step-5"}]}
+    </script>
+    <script type="application/ld+json">
+      {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"ja","mainEntity":[{"@type":"Question","name":"Apple Podcastの音量を上げられますか？","acceptedAnswer":{"@type":"Answer","text":"Apple Podcastには音量設定や音声強調機能がありません。機能のあるプレーヤー（Overcast、Pocket Castsなど）に切り替えるか、番組サイトからエピソードのMP3をダウンロードし、音量ブースターでファイルをブーストしてください。"}},{"@type":"Question","name":"AudibleやApple Booksのオーディオブックを大きくできますか？","acceptedAnswer":{"@type":"Answer","text":"できません。これらのファイルは暗号化されていて、他のアプリでは開けません。それぞれのプレーヤーに音声設定があれば、それを使ってください。"}},{"@type":"Question","name":"ブーストしたエピソードに章やアートワークは残りますか？","acceptedAnswer":{"@type":"Answer","text":"音量ブースターは音声を処理して新しいファイルを作ります。タイトルなどの基本的なメタデータは形式が対応していれば保持されますが、チャプターマーカーは失われる場合があります。"}}]}
+    </script>
+    <script type="application/ld+json">
+      {"@context":"https://schema.org","@type":"WebPage","name":"iPhoneでポッドキャストやオーディオブックの音量を上げる方法","url":"https://volumeboosting.com/ja/guide/podcast-audiobook-onryou-ageru/","description":"ポッドキャスト、オーディオブック、録音した講義の音が小さいとき。ストリーミングならプレーヤーの音声強調機能を、手持ちのファイルなら音量ブースターで最大10倍にする方法を解説します。処理はiPhone内で完結し、元のファイルはそのまま残ります。","dateModified":"2026-10-02","inLanguage":"ja","isPartOf":{"@type":"WebSite","name":"Increase Volume – 音の強化","url":"https://volumeboosting.com/ja/"}}
+    </script>
+    <script type="application/ld+json">
+      {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://volumeboosting.com/ja/"},{"@type":"ListItem","position":2,"name":"ガイド","item":"https://volumeboosting.com/ja/guide/"},{"@type":"ListItem","position":3,"name":"iPhoneでポッドキャストやオーディオブックの音量を上げる方法","item":"https://volumeboosting.com/ja/guide/podcast-audiobook-onryou-ageru/"}]}
+    </script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+  (function(m,e,t,r,i,k,a){
+      m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+      m[i].l=1*new Date();
+      for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+      k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+  })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=104469191', 'ym');
+
+  ym(104469191, 'init', {ssr:true, webvisor:true, clickmap:true, referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/104469191" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+  </body>
+</html>

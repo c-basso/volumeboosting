@@ -1,0 +1,130 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "MP3 harder maken",
+  "priority": 6,
+  "keywords": "MP3 harder maken, MP3 harder maken iPhone, MP3 te zacht, audiobestand versterken, volume audiobestand verhogen",
+  "title": "Een MP3 harder maken op iPhone, zonder computer (tot 10×)",
+  "description": "Een MP3, M4A of WAV te zacht op je iPhone? Maak hem tot 10× harder en bewaar een luidere kopie met Audioversterker, helemaal op je telefoon. Stappen en tips.",
+  "h1": "Een MP3 harder maken op iPhone",
+  "eyebrow": "MP3 en audio",
+  "card_title": "Een MP3 harder maken",
+  "card_summary": "De meeste versterkers werken alleen met video. Deze maakt MP3, M4A en WAV direct vanuit Bestanden harder.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Om een MP3 op iPhone harder te maken, open je Audioversterker, voeg je het bestand toe uit Bestanden (of deel je het met de app), sleep je 'Volumevermenigvuldiging' tot ×10, tik je op 'Volume versterken', vergelijk je Origineel en Verwerkt en tik je op 'Verwerkt bestand downloaden' om de luidere MP3 in Bestanden te bewaren of te delen. Alles gebeurt op de telefoon: geen computer, geen upload, geen account. Nummers uit Apple Music of Spotify kun je niet importeren, want die zijn kopieerbeveiligd.",
+  "intro": [
+    "Je hebt een college, een oude demo, een podcastaflevering of een toekomstige beltoon gedownload, en die klinkt veel zachter dan al het andere. Op een computer zou je Audacity of een normalisatietool openen; op iPhone is het gebruikelijke advies 'gebruik een online versterker', dus het bestand uploaden en een opnieuw gecodeerde versie terugkrijgen.",
+    "Audioversterker doet hetzelfde lokaal. In de App Store staat hij als app voor video, muziek en audio omdat hij, anders dan de meeste videoversterkers, gewone audiobestanden opent."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Schermafbeelding 'Make music louder': een MP3-bestand wordt verwerkt in Audioversterker met naam, grootte en duur",
+    "caption": "De app toont naam, grootte en duur voordat je versterkt."
+  },
+  "sections": [
+    {
+      "heading": "Welke audiobestanden je kunt versterken",
+      "paragraphs": [
+        "Alles wat een echt bestand op je iPhone is: MP3, M4A/AAC (ook Dictafoon-exports en WhatsApp-spraakberichten), WAV en andere gangbare formaten in Bestanden, iCloud Drive of Dropbox, of ontvangen via Berichten en Mail. De app leest de metadata en toont artiest en titel als die er zijn."
+      ],
+      "note": "Kan niet: gestreamde of binnen Apple Music, Spotify of YouTube Music gedownloade nummers. Die zijn versleuteld en geen andere app opent ze. Gebruik voor streamen de equalizer of normalisatie van de dienst zelf."
+    },
+    {
+      "heading": "Hoeveel versterking een MP3 aankan",
+      "paragraphs": [
+        "MP3's van een cd of gekocht zitten meestal al dicht bij het maximale niveau en vervormen als je ze opdrijft; ×1,5–×2 is genoeg. Podcasts, colleges, spraakopnames en oude demo's liggen vaak 10–20 dB lager en kunnen zonder problemen ×4–×10 aan. Met Origineel/Verwerkt test je het hardste stuk voordat je bewaart."
+      ]
+    },
+    {
+      "heading": "Audioversterker versus online MP3-versterkers",
+      "table": {
+        "head": [
+          "",
+          "Online versterker",
+          "Audioversterker"
+        ],
+        "rows": [
+          [
+            "Waar het bestand heen gaat",
+            "Geüpload naar een server",
+            "Blijft op je iPhone"
+          ],
+          [
+            "Opnieuw coderen",
+            "Meestal naar een vaste, lagere bitrate",
+            "Lokaal verwerkt"
+          ],
+          [
+            "Groottelimiet",
+            "Gebruikelijk (bijv. 50–500 MB)",
+            "Alleen de opslag van je telefoon"
+          ],
+          [
+            "Luisteren voor bewaren",
+            "Zelden",
+            "Schakelaar Origineel / Verwerkt"
+          ],
+          [
+            "Spraakverbetering",
+            "Soms",
+            "Schakelaar Audiokwaliteit verbeteren"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Stap voor stap: een MP3 harder maken",
+    "intro": "Je hebt de MP3 in Bestanden (of in een app die hem kan delen) en de gratis app Audioversterker nodig.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Voeg de MP3 toe",
+        "text": "Open de app en voeg het bestand toe uit Bestanden. Of houd in Bestanden de MP3 ingedrukt, tik op Deel en kies Increase Volume."
+      },
+      {
+        "name": "Controleer de details",
+        "text": "Controleer artiest, titel, grootte en duur. Is het spraak, zet dan 'Audiokwaliteit verbeteren' aan."
+      },
+      {
+        "name": "Kies de vermenigvuldiging",
+        "text": "Zet 'Volumevermenigvuldiging' op ×2 voor muziek en ×4–×10 voor zachte spraakopnames. Tik op 'Volume versterken'."
+      },
+      {
+        "name": "Vergelijk",
+        "text": "Wissel tussen Origineel/Verwerkt op het hardste stuk. Pas aan als de versterkte versie rauw klinkt."
+      },
+      {
+        "name": "Verwerkt bestand downloaden",
+        "text": "Tik op 'Verwerkt bestand downloaden' en daarna op Bewaar in Bestanden, of deel via Mail, Berichten of een cloud."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Versterk een hele reeks bestanden (luisterboekhoofdstukken, een collegereeks) met dezelfde vermenigvuldiging zodat ze gelijk klinken.",
+      "Bewaar versterkte kopieën in een eigen map in Bestanden; de app houdt daarnaast elk project in zijn lijst.",
+      "Voor beltonen: eerst versterken, dan inkorten tot 30 seconden; een luidere bron geeft een luidere beltoon."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan ik een nummer uit Apple Music of Spotify harder maken?",
+      "answer": "Geen andere app kan streamingdownloads openen; ze zijn versleuteld. Audioversterker werkt met je eigen bestanden in Bestanden, iCloud Drive of andere opslag."
+    },
+    {
+      "question": "Gaat een MP3 achteruit in kwaliteit als ik hem harder maak?",
+      "answer": "Het geluid wordt één keer verwerkt en als nieuw bestand bewaard. De kwaliteit lijdt alleen als je zo ver versterkt dat de pieken vervormen; met Origineel/Verwerkt hoor je dat voordat je bewaart."
+    },
+    {
+      "question": "Werkt het ook met WAV en M4A?",
+      "answer": "Ja. Gangbare audioformaten worden ondersteund, naast MP4- en MOV-video."
+    }
+  ],
+  "related": [
+    "muziek-te-zacht-iphone",
+    "podcast-luisterboek-harder-iphone",
+    "dictafoon-opname-harder-maken"
+  ]
+}

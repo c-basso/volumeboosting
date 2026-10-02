@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "hangjegyzet hangerejének növelése",
+  "priority": 4,
+  "keywords": "hangjegyzet hangerő növelése iPhone, halk hangjegyzet, halk hangfelvétel, Hangjegyzetek felvétel javítása, hangfelvétel hangosítása",
+  "title": "Hogyan növeld egy hangjegyzet hangerejét iPhone-on",
+  "description": "A Hangjegyzetek „Felvétel javítása” funkciója zajt szűr, de a fájlt nem hangosítja. Így hangosíts egy halk felvételt akár 10×-re, és ments hangosabb másolatot.",
+  "h1": "Hogyan növeld egy hangjegyzet hangerejét iPhone-on",
+  "eyebrow": "Hangjegyzetek",
+  "card_title": "Halk hangjegyzet hangosítása",
+  "card_summary": "A „Felvétel javítása” csak a lejátszást módosítja. Exportáld a felvételt, és magát a fájlt hangosítsd, akár 10×-re.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Egy hangjegyzet hangosításához iPhone-on oszd meg a Hangjegyzetekből a Hangerőnövelő Média appal (koppints a felvételre → ⋯ → Megosztás → Increase Volume), kapcsold be a „Hangminőség javítása” lehetőséget, állítsd a „Hangerőszorzót” ×5–×10-re, koppints a „Hangerő kiemelése” gombra, hasonlítsd össze az Eredetit és a Feldolgozottat, majd koppints a „Feldolgozott letöltése” gombra a hangosabb M4A mentéséhez. A Hangjegyzetek „Felvétel javítása” beállítása lejátszáskor csökkenti a zajt, de a fájlt nem változtatja meg, és megosztáskor sem lesz hangosabb.",
+  "intro": [
+    "Egy felvétel a tárgyalóasztal túlsó végéről, egy előadás a hátsó sorból vagy egy interjú valakivel, aki halkan beszél: a szavak ott vannak, de még teljes hangerőn is erőlködnöd kell. A Hangjegyzetekben van néhány lejátszási beállítás, és sokan azt hiszik, valamelyik hangosítja a felvételt. Egyik sem.",
+    "Ez az útmutató elmagyarázza, mire képes a Hangjegyzetek, és hogyan lesz egy halk felvételből egy perc alatt hangos, könnyen megosztható fájl."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Képernyőkép a Hangerőnövelő Média appról a felvétel adataival, a Hangminőség javítása kapcsolóval és a ×10-es hangerőszorzó csúszkával",
+    "caption": "Beszédnél kapcsold be a „Hangminőség javítása” lehetőséget hangosítás előtt."
+  },
+  "sections": [
+    {
+      "heading": "Mit tud a Hangjegyzetek (és mit nem)",
+      "paragraphs": [
+        "Nyiss meg egy felvételt, koppints a beállítások ikonra (a csúszkák), és ezt látod:"
+      ],
+      "list": [
+        "Felvétel javítása: csökkenti a háttérzajt és a visszhangot. Hasznos, de ez *lejátszási* beállítás; az Apple szerint magát a felvételt nem változtatja meg.",
+        "Csend kihagyása és lejátszási sebesség: kényelmesek, de a hangerőre nincsenek hatással.",
+        "Stúdióhang (támogatott modelleken): csökkenti a terem visszhangját, szintén csak lejátszáskor.",
+        "Vágás / Csere: a hosszt vagy a tartalmat módosítják, a szintet nem."
+      ],
+      "note": "A Hangjegyzetekben semmi sem emeli a mentett fájl szintjét. Ha megosztod a felvételt, a címzett az eredeti hangerőn hallja."
+    },
+    {
+      "heading": "Miért halk a felvétel",
+      "paragraphs": [
+        "Az iPhone felvétel közben automatikusan állítja az érzékenységet, de nem tudja kompenzálni, ha a beszélő több méterre van, vagy ha a telefon képernyővel lefelé fekszik, letakart mikrofonnal. Az eredmény egy olyan felvétel, amelynek csúcsai messze a digitális plafon alatt vannak. Ez a távolság pontosan az a tartalék, amelyet egy hangerőnövelő kihasznál: egy halk felvétel általában ×5–×10-et is kibír levágódás nélkül."
+      ]
+    },
+    {
+      "heading": "Hangosítsd a fájlt a Hangerőnövelő Média appal",
+      "paragraphs": [
+        "A Hangerőnövelő Média megnyitja a Hangjegyzetek által exportált M4A fájlt, megmutatja a hosszát és méretét, és ×10-ig megszorozza a hangerőt. A „Hangminőség javítása” kapcsoló a beszéd érthetőségére fókuszál, pont erre van szüksége egy hangjegyzetnek. Mentés előtt az Eredeti/Feldolgozott kapcsolóval meghallgatod az eredményt, a hangosabb fájl pedig új másolatként kerül a Fájlokba, az Üzenetekbe, a Mailbe vagy bármely appba."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Lépésről lépésre: hangjegyzet hangosítása",
+    "intro": "Bármilyen felvétellel működik, amely már a Hangjegyzetekben van.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Oszd meg a felvételt az appal",
+        "text": "A Hangjegyzetekben koppints a felvételre, majd a ⋯ gombra, válaszd a Megosztás lehetőséget, és az appok sorában az Increase Volume-ot. (Előbb a Fájlokba is mentheted, és onnan adhatod hozzá az appban.)"
+      },
+      {
+        "name": "Kapcsold be a Hangminőség javítását",
+        "text": "Kapcsold be, hogy a hangosítás a beszédet részesítse előnyben."
+      },
+      {
+        "name": "Válaszd ki a szorzót",
+        "text": "Állítsd a „Hangerőszorzót” ×5-re kezdésnek; a távolról rögzített felvételeknek gyakran ×8–×10 kell. Koppints a „Hangerő kiemelése” gombra."
+      },
+      {
+        "name": "Hasonlítsd össze",
+        "text": "Válts az Eredeti/Feldolgozott között a felvétel leghangosabb pontján (nevetés, letett bögre). Ha recseg, vegyél vissza a szorzóból."
+      },
+      {
+        "name": "Feldolgozott letöltése",
+        "text": "Koppints a „Feldolgozott letöltése” gombra, és válaszd a Mentés a Fájlokba lehetőséget, vagy küldd el a hangosabb felvételt közvetlenül Üzenetekben, Mailben, WhatsAppon vagy a Jegyzetekbe."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tippek",
+    "items": [
+      "Úgy rögzíts, hogy a telefon a hátán fekszik, a mikrofonos vége a beszélő felé néz, és olyan közel van, amennyire udvarias. Ez többet számít bármilyen beállításnál.",
+      "Ha át akarod íratni a felvételt, előbb hangosítsd; a beszédfelismerés kevesebbet téved egy hangosabb, tisztább fájlon.",
+      "Az eredetit hagyd a Hangjegyzetekben. A hangosított másolat külön fájl."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Hangosít a „Felvétel javítása” a Hangjegyzetekben?",
+      "answer": "Nem. Lejátszás közben csökkenti a háttérzajt és a visszhangot. Az Apple szerint ezek a lejátszási beállítások nem változtatják meg a felvételt, így a megosztott felvétel ugyanaz marad."
+    },
+    {
+      "question": "Milyen formátumban készül el a hangosított felvétel?",
+      "answer": "Ugyanabban a hangformátumban, amelyet megosztottál (a Hangjegyzetek M4A-t exportál). Az app új fájlt hoz létre; az eredeti felvétel érintetlen marad."
+    },
+    {
+      "question": "Hangosíthatok olyan felvételt, amelyet nekem küldtek?",
+      "answer": "Igen. Mentsd a hangot az Üzenetekből, a Mailből vagy a WhatsAppból a Fájlokba (vagy oszd meg közvetlenül az appal), és ugyanígy hangosítsd."
+    }
+  ],
+  "related": [
+    "halk-whatsapp-hangutenet",
+    "mp3-hangerejenek-novelese-iphone",
+    "hangero-novelese-minosegromlas-nelkul"
+  ]
+}

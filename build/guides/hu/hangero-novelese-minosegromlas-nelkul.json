@@ -1,0 +1,140 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "hangerő növelése minőségromlás nélkül",
+  "priority": 10,
+  "keywords": "hangerő növelése minőségromlás nélkül, hangosítás torzítás nélkül, recseg a hang hangosításkor, hangosítás levágódás nélkül, minőségromlás hangerő növelésnél",
+  "title": "Hogyan hangosíts videót minőségromlás nélkül (iPhone)",
+  "description": "A túlzott hangosítás levágja a hangot. Megtudod, mi történik hangosításkor, mennyi a biztonságos tartalék, és hogyan ellenőrizd Eredeti/Feldolgozott módban.",
+  "h1": "Hogyan növeld egy videó hangerejét minőségromlás nélkül",
+  "eyebrow": "Minőség",
+  "card_title": "Hangosítás torzítás nélkül",
+  "card_summary": "Mi a levágódás, mennyi tartaléka van egy halk felvételnek, és hogyan ellenőrizd mentés előtt.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "A hangosítás nem nyúl a képhez, és nem rontja a hangot, amíg a leghangosabb csúcsok a digitális plafon alatt maradnak. iPhone-on nyisd meg a videót a Hangerőnövelő Média appban, kezdd ×3-mal, koppints a „Hangerő kiemelése” gombra, és hallgasd meg a leghangosabb pillanatot az Eredeti/Feldolgozott kapcsolóval. Növeld a szorzót, amíg egyértelműen hangos, de nem recseg. Beszédhez kapcsold be a „Hangminőség javítása” lehetőséget, és a „Feldolgozott letöltése” gombbal ments. Az eredeti fájl soha nem változik.",
+  "intro": [
+    "„Nem fog torzulni?” Ez az első kérdés, amit mindenki feltesz egy hangerőnövelőről, és ez a helyes kérdés. A hangosítás szorzás: minden hangminta nagyobb lesz. Ha a legnagyobbak elérik a formátum által megengedett maximumot, laposra vágódnak, és a hangos részekben pattogást vagy recsegést hallasz. Ez a levágódás (clipping), és ez a minőség egyetlen valódi kockázata.",
+    "A jó hír: egy *halk* felvételnek értelemszerűen sok tartaléka van a plafonig. Ez az útmutató elmagyarázza, hogyan használd ki, és hogyan ellenőrizd az eredményt mentés előtt."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "„Hear processed result” képernyőkép: a Hangerőnövelő Média eredményképernyője a Feldolgozott letöltése gombbal és az Eredeti/Feldolgozott kapcsolóval",
+    "caption": "Letöltés előtt mindig hasonlítsd össze a leghangosabb részt az Eredeti/Feldolgozott kapcsolóval."
+  },
+  "sections": [
+    {
+      "heading": "Mi változik valójában hangosításkor",
+      "paragraphs": [
+        "Csak a hangsáv kerül feldolgozásra. A videó változatlanul halad át, így a felbontás, a képkockasebesség és a színek pontosan ugyanazok maradnak. A hangban a ×2-es szorzó megduplázza az amplitúdót (kb. +6 dB), a ×4 kb. +12 dB, a ×10 pedig +20 dB. A felvétel zaja (a terem zúgása, a szél) ugyanígy megszorzódik, ezért egy zajos felvétel nagyon erős hangosítása sistereghet, még ha semmi sem vágódik le."
+      ]
+    },
+    {
+      "heading": "Mennyi hangosítás biztonságos?",
+      "paragraphs": [
+        "Attól függ, milyen messze van a leghangosabb pillanat a plafontól, nem attól, mennyire halk az *átlag*. Egy nagyon halknak tűnő felvétel, amelyben van egy maximális szintű ajtócsapódás, nem bír sok hangosítást, mielőtt a csapódás levágódna. Egy halk és egyenletes felvétel, például egy előadás a hátsó sorból, gyakran tisztán bírja a ×8–×10-et."
+      ],
+      "table": {
+        "head": [
+          "Felvétel",
+          "Szokásos biztonságos tartomány",
+          "Megjegyzés"
+        ],
+        "rows": [
+          [
+            "Hangjegyzet vagy távolról rögzített előadás",
+            "×5 – ×10",
+            "Beszédnél kapcsold be a Hangminőség javítását."
+          ],
+          [
+            "Telefonos videó, amely csak kicsit halk",
+            "×2 – ×4",
+            "Ellenőrizd a leghangosabb nevetést vagy tapsot."
+          ],
+          [
+            "Képernyőfelvétel",
+            "×5 – ×10",
+            "Gyakran jóval a normál szint alatt."
+          ],
+          [
+            "Zene halk versszakokkal és hangos refrénnel",
+            "×1,5 – ×3",
+            "A refrén szabja meg a határt."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Használd az Eredeti/Feldolgozott ellenőrzést",
+      "paragraphs": [
+        "A Hangerőnövelő Média feldolgozza a fájlt, és megmutatja az Eredeti/Feldolgozott kapcsolót, mielőtt bármit mentene. Keresd meg a leghangosabb pillanatot, és válts a kettő között. Ha a Feldolgozott ott recseg vagy pattog, vegyél vissza egy fokozatot, és hangosíts újra. Mivel az app új fájlt hoz létre, nyugodtan kísérletezhetsz; az eredetihez nem nyúl."
+      ]
+    },
+    {
+      "heading": "Hangminőség javítása: mikor kapcsold be",
+      "paragraphs": [
+        "A „Hangminőség javítása” kapcsoló érthetőségre fókuszáló feldolgozást ad hozzá, ami leginkább beszédnél segít: interjúk, előadások, hangüzenetek, képernyőről rögzített oktatóanyagok. Zenénél próbáld ki mindkét beállítást, és tartsd meg a természetesebbet. A jelenlegi verzióban a lehetőség kísérletiként szerepel, ezért mindig hallgasd meg az eredményt."
+      ]
+    },
+    {
+      "id": "adatvedelem",
+      "heading": "Adatvédelem: minden a telefonodon marad",
+      "paragraphs": [
+        "A Hangerőnövelő Média az iPhone-on dolgozza fel a fájlokat. Semmi sem töltődik fel, nincs fiók, az eredmény pedig a szokásos iOS megosztási lapon kerül a Fotókba, a Fájlokba vagy a választott appba. Az online hangerőnövelők megkövetelik, hogy szerverre küldd a fájlt, és gyakran gyengébb minőségben kódolják újra; egy helyi app mindkettőt elkerüli."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Lépésről lépésre: tiszta hangosítás",
+    "intro": "Videóhoz és hanghoz ugyanaz a folyamat.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Nyisd meg a fájlt az appban",
+        "text": "Add hozzá a Fotókból vagy a Fájlokból, vagy oszd meg az appal bárhonnan."
+      },
+      {
+        "name": "Dönts a Hangminőség javításáról",
+        "text": "Beszédhez bekapcsolva; zenéhez próbáld ki mindkettőt."
+      },
+      {
+        "name": "Kezdj mérsékelten",
+        "text": "Állítsd a „Hangerőszorzót” ×3-ra, és koppints a „Hangerő kiemelése” gombra."
+      },
+      {
+        "name": "Ellenőrizd a leghangosabb pillanatot",
+        "text": "Válts az Eredeti/Feldolgozott között a leghangosabb résznél. Tiszta? Növeld a szorzót, és ismételd. Recseg? Csökkentsd."
+      },
+      {
+        "name": "Mentsd",
+        "text": "Koppints a „Feldolgozott letöltése” gombra, és mentsd a Fotókba vagy a Fájlokba. Az eredeti érintetlen marad."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tippek",
+    "items": [
+      "Fejhallgatóval ellenőrizz; a telefon hangszórója elrejti az enyhe levágódást.",
+      "Zajos fájloknál egy kicsit kisebb szorzó a „Hangminőség javítása” mellett gyakran jobban szól, mint a maximum.",
+      "Egyszer hangosíts, az eredetiből. Egy már hangosított export újrahangosítása halmozza a hibákat."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Csökkenti a hangosítás a videó felbontását?",
+      "answer": "Nem. Csak a hang kerül feldolgozásra. A videó megtartja a felbontását, a képkockasebességét és a bitrátáját."
+    },
+    {
+      "question": "Hogyan szól a túlhangosítás okozta torzítás?",
+      "answer": "Pattogás, zúgás vagy recsegés csak a leghangosabb pillanatokban, miközben a halk részek jól szólnak. Ha ezt hallod, csökkentsd a szorzót."
+    },
+    {
+      "question": "Túl sok a ×10?",
+      "answer": "Valóban halk felvételekhez nem, például távoli hangjegyzetekhez vagy képernyőfelvételekhez. Egy átlagos telefonos videóhoz gyakran elég a ×2–×4. Döntsön az Eredeti/Feldolgozott ellenőrzés."
+    }
+  ],
+  "related": [
+    "hogyan-noveld-a-video-hangerejet-iphone-on",
+    "hangjegyzet-hangerejenek-novelese",
+    "miert-halk-a-videom"
+  ]
+}

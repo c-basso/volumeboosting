@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "halk zene iPhone-on",
+  "priority": 5,
+  "keywords": "halk zene iPhone, zene hangerő növelés iPhone, hangerő-kiegyenlítés iPhone, hangos hangok csökkentése, halk zeneszámok",
+  "title": "Halk a zene iPhone-on? Így teheted hangosabbá percek alatt",
+  "description": "Halkak a dalok iPhone-on? Nézd meg a Hangerő-kiegyenlítést, a hangszínszabályzót és a fejhallgató-korlátot, a saját MP3-aidat pedig hangosítsd akár 10×-re.",
+  "h1": "Hogyan teheted hangosabbá a zenét iPhone-on",
+  "eyebrow": "Zene",
+  "card_title": "Zene hangosítása",
+  "card_summary": "Három iOS-beállítás, amely csendben korlátozza a zenét, és a saját fájlként meglévő dalok hangosítása.",
+  "published": "2026-10-02",
+  "updated": "2026-10-02",
+  "quick_answer": "Kezdd a beállításokkal: a Beállítások › Zene alatt kapcsold ki a Hangerő-kiegyenlítést, és próbáld ki a hangszínszabályzóban a „Késő este” (Late Night) beállítást, amely felemeli a halk részeket; a Beállítások › Hangok és rezgések › Fejhallgató-biztonság alatt kapcsold ki a Hangos hangok csökkentését. Ez a streamingre és a lejátszásra hat. A saját zenei fájljaidat (MP3, M4A, WAV a Fájlokban, demók, próbák) nyisd meg a Hangerőnövelő Média appban, hangosítsd ×1,5–×4-re, hasonlítsd össze az Eredetit és a Feldolgozottat, és koppints a „Feldolgozott letöltése” gombra.",
+  "intro": [
+    "A „halk a zene az iPhone-omon” panaszra két nagyon különböző válasz van. Ha az Apple Music vagy a Spotify szól halkan a hangszórón vagy a fülhallgatóban, a telefon valószínűleg egy beállítás miatt korlátozza magát, amelyet egy perc alatt átállítasz. Ha egy *adott* dal halk — egy régi MP3, egy próbafelvétel, egy barát demója —, akkor a fájlnak kell nagyobb szint.",
+    "Ez az útmutató mindkettőt lefedi, ebben a sorrendben."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "„Make music louder” képernyőkép: a Hangerőnövelő Média egy zenei fájlt dolgoz fel névvel, mérettel és hosszal",
+    "caption": "A saját zenei fájljaidat közvetlenül a Fájlokból hangosítod."
+  },
+  "sections": [
+    {
+      "heading": "Beállítások, amelyek minden zenét lehalkítanak (ezeket nézd meg először)",
+      "list": [
+        "Hangos hangok csökkentése: Beállítások › Hangok és rezgések › Fejhallgató-biztonság. Bekapcsolva a fejhallgató hangerejét a választott szintre korlátozza. Kapcsold ki, vagy emeld a határt.",
+        "Hangerő-kiegyenlítés: a Beállítások › Zene › Hangerő-kiegyenlítés minden dalt azonos hangerőre hoz, ezért a hangosakat lehalkítja. Kapcsold ki, ha minden halknak tűnik.",
+        "Hangszínszabályzó: Beállítások › Zene › Hangszínszabályzó. A „Késő este” tömöríti a dinamikát, így a halk részek hangosabbak lesznek; a „Hangerő” (Loudness) kis hangerőn kiemeli a mélyeket és a magasakat. Próbáld ki mindkettőt.",
+        "Hangerőkorlát a Képernyőidőben: a Beállítások › Képernyőidő › Tartalom és adatvédelem korlátozásai alatt lehet egy szülő által zárolt vagy régi korlát.",
+        "Bluetooth: egyes fülhallgatóknak és hangszóróknak saját hangerejük van; azon is emeld."
+      ]
+    },
+    {
+      "heading": "Milyen zenei fájlokat hangosíthatsz",
+      "paragraphs": [
+        "A Hangerőnövelő Média olyan fájlokat hangosít, amelyek tényleg a tieid: MP3 és WAV a Fájlokban vagy az iCloud Drive-on, M4A próbafelvételek, Mailben vagy AirDroppal kapott demók, GarageBand-exportok és zenei videók hangja. Ha a fájl tartalmazza, megmutatja az előadót és a címet. Az Apple Music, a Spotify vagy a YouTube Music letöltései titkosítottak, más app nem nyithatja meg őket; ezekhez a fenti beállításokat használd."
+      ]
+    },
+    {
+      "heading": "Mennyire hangosíts egy dalt",
+      "paragraphs": [
+        "A kiadott zene már a maximális szint közelébe van keverve, így ×1,5–×2 általában a határ, mielőtt a refrén levágódna. Az otthoni felvételek, demók és régi rippek gyakran 6–12 dB tartalékkal rendelkeznek, és bírják a ×2–×4-et. A leghangosabb refrénnél döntsd el az Eredeti/Feldolgozott kapcsolóval."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Lépésről lépésre: zenei fájl hangosítása",
+    "intro": "Egy dalhoz a Fájlokban, GarageBand-exporthoz vagy felvételhez.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Add hozzá a dalt",
+        "text": "Nyisd meg a Hangerőnövelő Média appot, és add hozzá a fájlt a Fájlokból, vagy oszd meg az appal a Fájlokból, a Mailből vagy a GarageBandből."
+      },
+      {
+        "name": "Válassz mérsékelt szorzót",
+        "text": "Állítsd a „Hangerőszorzót” ×1,5–×2-re kiadott zenéhez, és ×2–×4-re demókhoz és felvételekhez. Próbáld ki a „Hangminőség javítása” be- és kikapcsolt állapotát, és tartsd meg a természetesebbet. Koppints a „Hangerő kiemelése” gombra."
+      },
+      {
+        "name": "Ellenőrizd a refrént",
+        "text": "Válts az Eredeti/Feldolgozott között a leghangosabb résznél. Ha recseg, vegyél vissza."
+      },
+      {
+        "name": "Feldolgozott letöltése",
+        "text": "Mentsd a Fájlokba, és add hozzá a hangosabb dalt a lejátszódhoz, vagy oszd meg."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tippek",
+    "items": [
+      "Egy egész albumot vagy szettet ugyanazzal a szorzóval hangosíts, hogy a dalok egyenletesek maradjanak.",
+      "Zenei videóknál a kép érintetlen marad; csak a hang kerül feldolgozásra.",
+      "Ha magad masterelsz, a keverést hangosítsd, ne a végső mastert; egy limiter a DAW-ban tisztábban megoldja, mint az egyszerű erősítés."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Fel tudja hangosítani egy hangerőnövelő az Apple Musicot vagy a Spotifyt?",
+      "answer": "A dalok szerkesztésével nem, mert titkosítottak. Használd a Hangerő-kiegyenlítést, a hangszínszabályzót és a Fejhallgató-biztonságot, vagy a streaming-app normalizálását. A Hangerőnövelő Média a saját fájljaidat hangosítja."
+    },
+    {
+      "question": "Miért szól néhány dal halkabban a többinél?",
+      "answer": "Eltérő masterelési szintek miatt. A Hangerő-kiegyenlítés kiegyenlíti őket, de a hangosakat lehalkítja; ha kikapcsolod, újra hangosan szólnak. A saját halk fájljaidat hangosítsd a Hangerőnövelő Média appal, hogy illeszkedjenek."
+    },
+    {
+      "question": "Megváltozik a dal formátuma hangosításkor?",
+      "answer": "Az app egy elterjedt hangformátumú új fájlt hoz létre az eredeti mellett. Az eredeti nem változik."
+    }
+  ],
+  "related": [
+    "mp3-hangerejenek-novelese-iphone",
+    "podcast-hangoskonyv-hangosabban",
+    "hangero-novelese-minosegromlas-nelkul"
+  ]
+}
