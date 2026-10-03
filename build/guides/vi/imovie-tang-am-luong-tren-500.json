@@ -1,0 +1,118 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie tăng âm lượng trên 500%",
+  "priority": 11,
+  "keywords": "iMovie tăng âm lượng 500%, tăng âm lượng trong iMovie, giới hạn âm lượng iMovie, tăng âm lượng hơn iMovie",
+  "title": "iMovie chỉ tăng được 500%? Cách làm video to hơn nữa",
+  "description": "Trong iMovie trên iPhone, âm lượng clip dừng ở khoảng 500%. Mở video đã xuất trong Tăng Âm Lượng Video để tăng đến 10 lần, hoặc kết hợp cả hai ứng dụng.",
+  "h1": "Giới hạn âm lượng iMovie: tăng video vượt 500%",
+  "eyebrow": "iMovie",
+  "card_title": "Vượt 500% của iMovie",
+  "card_summary": "Thanh trượt iMovie dừng ở 500%. Thêm phần còn lại sau khi xuất.",
+  "quick_answer": "Trong iMovie trên iPhone, thanh âm lượng clip dừng ở khoảng 500% (5 lần). Nếu cần hơn, xuất video từ iMovie, mở trong Tăng Âm Lượng Video, tăng ×2–×10 và lưu bản mới. Hoặc bỏ qua iMovie và tăng thẳng đến 10 lần trong ứng dụng.",
+  "intro": [
+    "iMovie miễn phí và là trình dựng phim tốt, nhưng thanh âm lượng không đủ cho clip quá nhỏ. Hướng dẫn này so sánh hai công cụ và cách dùng kết hợp."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Thanh «Hệ số âm lượng ×10» và nút «Tăng âm lượng lên ×10» trong Tăng Âm Lượng Video",
+    "caption": "iMovie dừng ở 5 lần; thanh này lên đến ×10."
+  },
+  "sections": [
+    {
+      "heading": "iMovie so với Tăng Âm Lượng Video",
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Tăng Âm Lượng Video"
+        ],
+        "rows": [
+          [
+            "Mức tăng tối đa",
+            "Khoảng 500% (5 lần)",
+            "×10 (1000%)"
+          ],
+          [
+            "Tệp âm thanh (MP3)",
+            "Không",
+            "Có"
+          ],
+          [
+            "Cần tạo dự án",
+            "Có",
+            "Không"
+          ],
+          [
+            "So sánh Gốc/Đã xử lý",
+            "Không",
+            "Có"
+          ],
+          [
+            "Dựng phim (cắt, tiêu đề)",
+            "Có",
+            "Không"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Dùng kết hợp hai ứng dụng",
+      "paragraphs": [
+        "Nếu đang dựng trong iMovie (cắt, tiêu đề, nhạc), hãy dựng xong rồi xuất video. Sau đó mở tệp đã xuất trong Tăng Âm Lượng Video và thêm phần tăng còn thiếu. Đặt 500% trong iMovie rồi thêm ×2 sau đó, tổng cộng được khoảng 10 lần."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Từng bước: tăng thêm sau iMovie",
+    "intro": "Khoảng hai phút.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Xuất từ iMovie",
+        "text": "Xong → Chia sẻ → Lưu video."
+      },
+      {
+        "name": "Mở trong ứng dụng",
+        "text": "Ảnh → video → Chia sẻ → Tăng Âm Lượng Video."
+      },
+      {
+        "name": "Tăng thêm",
+        "text": "Chọn ×2–×4, chạm «Tăng âm lượng» và so sánh với bản gốc."
+      },
+      {
+        "name": "Lưu",
+        "text": "«Tải tệp đã xử lý» → Lưu video."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Mẹo",
+    "items": [
+      "Không cần dựng phim thì bỏ qua iMovie; ứng dụng nhanh hơn.",
+      "Nếu 500% trong iMovie bị rè, đặt thấp hơn trong iMovie và thêm phần còn lại trong ứng dụng.",
+      "Xuất ở cùng độ phân giải."
+    ]
+  },
+  "faq": [
+    {
+      "question": "iMovie có tăng âm lượng quá 500% được không?",
+      "answer": "Không. Thanh trượt iMovie trên iPhone dừng ở khoảng 500%. Sau khi xuất, tăng thêm trong Tăng Âm Lượng Video."
+    },
+    {
+      "question": "iMovie có tăng âm lượng MP3 được không?",
+      "answer": "Không trực tiếp; iMovie làm việc với dự án video. Với MP3, dùng Tăng Âm Lượng Video."
+    },
+    {
+      "question": "Xử lý hai lần có giảm chất lượng không?",
+      "answer": "Ở mức hợp lý thì không. Nếu rè, giảm tổng hệ số."
+    }
+  ],
+  "related": [
+    "cach-tang-am-luong-video-tren-iphone",
+    "tang-am-luong-khong-giam-chat-luong",
+    "tang-am-luong-video-tu-anh"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

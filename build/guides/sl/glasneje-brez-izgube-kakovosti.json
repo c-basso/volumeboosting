@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "povečati glasnost brez izgube kakovosti",
+  "priority": 10,
+  "keywords": "povečati glasnost brez izgube kakovosti, glasneje brez popačenja, ojačati video brez hreščanja, zvok hrešči po ojačitvi, čista ojačitev zvoka",
+  "title": "Kako povečati glasnost brez izgube kakovosti in popačenja",
+  "description": "Kdaj zvok hrešči in kdaj ne? Kako izbereš pravi množitelj, poslušaš Izvirnik/Obdelano in narediš video glasnejši, ne da bi se slika kakorkoli spremenila.",
+  "h1": "Kako narediti video in zvok glasnejši brez izgube kakovosti",
+  "eyebrow": "Kakovost",
+  "card_title": "Glasneje brez izgube kakovosti",
+  "card_summary": "Rezerva, vrhovi in popačenje preprosto razloženi ter kako najdeš najvišjo še čisto raven.",
+  "quick_answer": "Zvok se popači le, ko najglasnejši vrhovi presežejo digitalni strop. Tih posnetek ima veliko rezerve in prenese ×5–×10. Začni pri ×3 v Increase Volume, poišči najglasnejši trenutek posnetka, preklapljaj Izvirnik in Obdelano ter povečuj, dokler zveni čisto. Za govor vklopi „Izboljšaj kakovost zvoka“. Slika videa se nikoli ne spremeni.",
+  "intro": [
+    "Strah, da bi posnetek „pokvaril“, mnoge odvrne od tega, da bi ga naredili glasnejšega. A ojačitev ni izguba: dokler vrhovi ostanejo pod stropom, je zvok preprosto glasnejši.",
+    "Ta vodnik pojasni, kaj se dogaja, in kako najdeš najboljšo raven brez ugibanja."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "Zaslon z rezultatom v Increase Volume z gumbom „Prenesi obdelano“ in stikalom Izvirnik/Obdelano",
+    "caption": "Pred shranjevanjem preklapljaj Izvirnik in Obdelano."
+  },
+  "sections": [
+    {
+      "heading": "Rezerva: zakaj tihi posnetki prenesejo veliko",
+      "paragraphs": [
+        "Digitalni zvok ima strop (0 dBFS). Tih posnetek je morda 20 dB pod njim; to pušča prostor za približno 10×, preden vrhovi dosežejo strop. Posnetek z enim glasnim udarcem blizu stropa ima malo rezerve, četudi je preostanek tih."
+      ]
+    },
+    {
+      "heading": "Kako slišiš popačenje",
+      "paragraphs": [],
+      "list": [
+        "Poišči najglasnejši del: smeh, krik, refren.",
+        "Poslušaj s preklapljanjem Izvirnik/Obdelano.",
+        "Če zveni hreščeče ali ploščato, zmanjšaj množitelj za stopnjo."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Ali se kakovost videa spremeni?",
+      "paragraphs": [
+        "Ne. Increase Volume spremeni le zvočni posnetek. Slika ohrani enako ločljivost in ne dobi vodnega žiga."
+      ]
+    },
+    {
+      "id": "zasebnost",
+      "heading": "Zasebnost: vse poteka na iPhonu",
+      "paragraphs": [
+        "Tvoje datoteke ne zapustijo telefona. Obdelava poteka na napravi, brez računa in brez nalaganja. Rezultat shraniš prek lista za deljenje v iOS v Fotografije, Datoteke ali izbrano aplikacijo."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Poišči najvišjo čisto raven",
+    "intro": "Hiter preizkus v manj kot minuti.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Začni pri ×3",
+        "text": "Premakni „Množitelj glasnosti“ na ×3 in tapni „Ojači glasnost na ×3“."
+      },
+      {
+        "name": "Preveri vrhove",
+        "text": "Predvajaj najglasnejši del z Izvirnik/Obdelano."
+      },
+      {
+        "name": "Povečaj ali zmanjšaj",
+        "text": "Čisto: pojdi na ×5, nato ×8 ali ×10. Hrešči: stopnjo nižje."
+      },
+      {
+        "name": "Shrani",
+        "text": "Ko je raven prava, tapni „Prenesi obdelano“."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Nasveti",
+    "items": [
+      "Govor prenese več kot glasba.",
+      "„Izboljšaj kakovost zvoka“ naredi glasove jasnejše pri močni ojačitvi.",
+      "Preizkusi več ravni; izvirnik vedno ostane shranjen."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Ali lahko video naredim glasnejši, ne da bi se kakovost poslabšala?",
+      "answer": "Da, dokler vrhovi ne presežejo stropa. Pred shranjevanjem poslušaj z Izvirnik/Obdelano."
+    },
+    {
+      "question": "Zakaj zvok po ojačitvi hrešči?",
+      "answer": "Najglasnejši vrhovi so bili odrezani. Zmanjšuj množitelj, dokler ne zveni čisto."
+    },
+    {
+      "question": "Ali se moji videi kam nalagajo?",
+      "answer": "Ne. Vse se obdela na iPhonu."
+    }
+  ],
+  "related": [
+    "kako-povecati-glasnost-videa-na-iphonu",
+    "imovie-glasnost-nad-500",
+    "tiha-glasba-iphone"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

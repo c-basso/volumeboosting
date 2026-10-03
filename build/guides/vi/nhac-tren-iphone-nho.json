@@ -1,0 +1,100 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "nhạc trên iPhone nhỏ",
+  "priority": 5,
+  "keywords": "nhạc trên iPhone nhỏ, tăng âm lượng nhạc iPhone, ứng dụng khuếch đại nhạc, loa iPhone nhỏ",
+  "title": "Nhạc trên iPhone nhỏ? 6 cài đặt và tăng âm lượng 10 lần",
+  "description": "Nhạc trên iPhone nghe nhỏ? Sửa các cài đặt giới hạn âm lượng, và nếu chính tệp nhạc bị nhỏ, làm nó to hơn đến 10 lần với ứng dụng Tăng Âm Lượng Video.",
+  "h1": "Nhạc trên iPhone nghe nhỏ: phải làm gì",
+  "eyebrow": "Nhạc",
+  "card_title": "Nhạc nhỏ",
+  "card_summary": "EQ, Kiểm tra âm thanh và An toàn tai nghe có thể làm nhạc nhỏ đi. Kiểm tra trước, rồi tăng âm lượng tệp.",
+  "quick_answer": "Nếu mọi bài đều nhỏ, tắt «Giảm âm thanh lớn» trong Cài đặt › Âm thanh & cảm ứng › An toàn tai nghe và thử EQ «Đêm khuya» trong Cài đặt › Nhạc. Nếu chỉ tệp MP3 hoặc bản ghi riêng bị nhỏ, mở trong Tăng Âm Lượng Video, tăng ×2–×4 rồi lưu tệp mới.",
+  "intro": [
+    "Trên xe buýt, trong bếp hay qua loa Bluetooth, nhạc có thể vẫn nhỏ dù iPhone đã bật hết cỡ. Phần lớn là do cài đặt, đôi khi chính tệp nhạc được làm ở mức thấp.",
+    "Kiểm tra cài đặt trước, rồi tăng âm lượng các tệp của riêng mình."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Tăng Âm Lượng Video đang xử lý một tệp MP3, hiển thị tên, dung lượng và thời lượng",
+    "caption": "Nhập tệp MP3, M4A, WAV từ ứng dụng Tệp."
+  },
+  "sections": [
+    {
+      "heading": "6 cài đặt làm nhạc nhỏ đi",
+      "list": [
+        "An toàn tai nghe: Cài đặt › Âm thanh & cảm ứng › An toàn tai nghe › «Giảm âm thanh lớn».",
+        "EQ: Cài đặt › Nhạc › EQ › «Đêm khuya» nâng các đoạn nhỏ.",
+        "Kiểm tra âm thanh trong Cài đặt › Nhạc đưa mọi bài về cùng mức, đôi khi là hạ xuống.",
+        "Cân bằng: Cài đặt › Trợ năng › Âm thanh & hình ảnh › Cân bằng phải ở giữa.",
+        "Âm lượng trong ứng dụng: Spotify, Zing MP3 và YouTube Music có cài đặt riêng.",
+        "Tăng âm lượng của loa Bluetooth riêng."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Nếu chỉ một tệp bị nhỏ",
+      "paragraphs": [
+        "MP3 cũ, bài hát nhận qua Zalo và bản thu trực tiếp thường có mức thấp. Tăng Âm Lượng Video làm tệp to hơn đến 10 lần và lưu bản mới; với nhạc, ×2–×4 thường là đủ."
+      ]
+    },
+    {
+      "heading": "Những gì không tăng được",
+      "paragraphs": [
+        "Nhạc phát trực tuyến từ Apple Music, Spotify, Zing MP3 được bảo vệ bản quyền; không ứng dụng nào sửa được. Chỉ tăng được tệp của riêng mình (MP3, M4A, WAV, bản ghi)."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Từng bước: làm bài hát to hơn",
+    "intro": "Một phút mỗi bài.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Nhập tệp",
+        "text": "Trong Tăng Âm Lượng Video, chạm + và chọn bài hát trong Tệp."
+      },
+      {
+        "name": "Tăng vừa phải",
+        "text": "Với nhạc, chọn ×2–×4 và chạm «Tăng âm lượng»."
+      },
+      {
+        "name": "Nghe bằng tai nghe",
+        "text": "Chuyển Gốc/Đã xử lý để chắc chắn bass và trống không bị rè."
+      },
+      {
+        "name": "Lưu",
+        "text": "«Tải tệp đã xử lý» → Lưu vào Tệp."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Mẹo",
+    "items": [
+      "Nhạc hiện đại vốn đã được làm to; đẩy quá mức sẽ rè.",
+      "Chỉ tăng các bài cũ trong danh sách phát để ngang với bài mới.",
+      "Không ứng dụng nào vượt được giới hạn vật lý của loa; thứ to lên là tệp."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Vì sao nhạc trên iPhone nhỏ?",
+      "answer": "Thường do An toàn tai nghe, Kiểm tra âm thanh hoặc EQ. Nếu đã cài đúng, chính tệp có mức thấp."
+    },
+    {
+      "question": "Có tăng âm lượng nhạc Spotify được không?",
+      "answer": "Không, nhạc phát trực tuyến được bảo vệ. Chỉ tệp của riêng mình mới tăng được."
+    },
+    {
+      "question": "Bass có mạnh hơn không?",
+      "answer": "Tăng âm lượng nâng mức chung nên bass cũng to hơn. Nếu rè, giảm hệ số."
+    }
+  ],
+  "related": [
+    "tang-am-luong-mp3-iphone",
+    "tang-am-luong-khong-giam-chat-luong",
+    "podcast-sach-noi-tieng-nho"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

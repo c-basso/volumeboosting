@@ -1,0 +1,93 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "tăng âm lượng video từ ứng dụng Ảnh",
+  "priority": 9,
+  "keywords": "tăng âm lượng video từ ứng dụng Ảnh, tăng âm lượng video trong thư viện iPhone, Ảnh iPhone âm thanh, tăng âm lượng qua bảng chia sẻ",
+  "title": "Tăng âm lượng video ngay từ ứng dụng Ảnh trên iPhone",
+  "description": "Trình sửa trong ứng dụng Ảnh trên iPhone chỉ tắt được tiếng. Chia sẻ video sang Tăng Âm Lượng Video, làm to hơn đến 10 lần rồi lưu lại vào Ảnh chỉ vài bước.",
+  "h1": "Cách tăng âm lượng video từ ứng dụng Ảnh trên iPhone",
+  "eyebrow": "Ảnh",
+  "card_title": "Tăng từ ứng dụng Ảnh",
+  "card_summary": "Ngay từ Ảnh: Chia sẻ → Tăng Âm Lượng Video → tăng → Lưu video.",
+  "quick_answer": "Mở video trong Ảnh, chạm Chia sẻ và chọn Tăng Âm Lượng Video. Tăng ×3–×10 rồi chạm «Tải tệp đã xử lý» → «Lưu video». Bản to hơn sẽ xuất hiện trong Ảnh cạnh bản gốc. Trình sửa của Ảnh không tự tăng âm lượng được.",
+  "intro": [
+    "Phần lớn video nằm trong ứng dụng Ảnh nên bắt đầu từ đó là tự nhiên nhất. Trình sửa của Ảnh không có thanh âm lượng, nhưng có thể gửi video thẳng sang Tăng Âm Lượng Video qua bảng chia sẻ và kết quả sẽ trở về Ảnh."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Bảng chia sẻ iOS hiển thị tùy chọn cho tệp đã tăng âm lượng từ Tăng Âm Lượng Video",
+    "caption": "«Lưu video» đưa bản to hơn trở lại Ảnh."
+  },
+  "sections": [
+    {
+      "heading": "Trình sửa của Ảnh làm được gì với âm thanh",
+      "paragraphs": [
+        "Trong chế độ sửa, biểu tượng loa dùng để tắt tiếng clip. Trên iPhone 16 trở lên, Hòa âm thay đổi cân bằng giữa giọng nói và nền. Cả hai đều không tăng âm lượng tổng thể."
+      ]
+    },
+    {
+      "heading": "Không thấy ứng dụng trong bảng chia sẻ",
+      "paragraphs": [
+        "Cuộn hàng ứng dụng trong bảng chia sẻ đến cuối rồi chạm «Thêm». Tìm Tăng Âm Lượng Video và thêm vào Mục ưa thích; từ đó ứng dụng sẽ nằm ở hàng đầu tiên."
+      ]
+    },
+    {
+      "heading": "Bản sao được lưu ở đâu?",
+      "paragraphs": [
+        "«Lưu video» lưu video to hơn vào Ảnh như một mục mới trong phần Gần đây. Bản gốc không đổi; nếu không cần nữa có thể tự xóa."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Từng bước: tăng âm lượng từ Ảnh",
+    "intro": "Khoảng một phút.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Chạm Chia sẻ",
+        "text": "Mở video trong Ảnh → Chia sẻ → Tăng Âm Lượng Video."
+      },
+      {
+        "name": "Tăng âm lượng",
+        "text": "Chọn hệ số và chạm «Tăng âm lượng»."
+      },
+      {
+        "name": "So sánh",
+        "text": "Nghe bằng công tắc Gốc/Đã xử lý."
+      },
+      {
+        "name": "Lưu vào Ảnh",
+        "text": "«Tải tệp đã xử lý» → Lưu video."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Mẹo",
+    "items": [
+      "Cắt bớt video dài trong Ảnh trước.",
+      "Nếu bật Ảnh iCloud, bản to hơn sẽ có trên mọi thiết bị.",
+      "Nhiều clip thì chia sẻ từng clip một."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Ứng dụng Ảnh có thanh âm lượng không?",
+      "answer": "Không, chỉ có tắt tiếng và (trên iPhone mới) Hòa âm. Muốn tăng âm lượng cần một ứng dụng."
+    },
+    {
+      "question": "Video gốc có bị xóa không?",
+      "answer": "Không. Bản to hơn được lưu thành mục mới."
+    },
+    {
+      "question": "Dùng được với video trong iCloud không?",
+      "answer": "Được; iOS sẽ tải video về trước khi chia sẻ."
+    }
+  ],
+  "related": [
+    "cach-tang-am-luong-video-tren-iphone",
+    "tai-sao-video-iphone-tieng-nho",
+    "tang-am-luong-video-tiktok"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

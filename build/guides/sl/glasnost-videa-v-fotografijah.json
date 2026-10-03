@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "povečati glasnost videa v aplikaciji Fotografije",
+  "priority": 9,
+  "keywords": "povečati glasnost videa v aplikaciji Fotografije, Fotografije iPhone glasnost videa, glasnejši video iz galerije, zvok videa Fotografije iPhone, Deli Increase Volume",
+  "title": "Kako povečati glasnost videa iz aplikacije Fotografije",
+  "description": "Urejanje v Fotografijah zvok le utiša. Kako prek Deli → Increase Volume narediš video do 10× glasnejši in kopijo shraniš nazaj v Fotografije na iPhonu.",
+  "h1": "Kako povečati glasnost videa iz aplikacije Fotografije",
+  "eyebrow": "Fotografije",
+  "card_title": "Glasnost iz Fotografij",
+  "card_summary": "Fotografije zvok le utišajo. Z Deli → Increase Volume video ojačaš in ga shraniš nazaj v Fotografije.",
+  "quick_answer": "Aplikacija Fotografije zna zvok videa le utišati, ne pa ga ojačati. Odpri video v Fotografijah, tapni Deli in izberi Increase Volume. Projekt se odpre v Increase Volume; premakni „Množitelj glasnosti“ do ×10, tapni „Ojači glasnost“ in nato „Prenesi obdelano“ → Shrani video. Glasnejša kopija se pojavi v Fotografijah poleg izvirnika.",
+  "intro": [
+    "Večina videov na iPhonu je v Fotografijah in tam ljudje tih zvok najprej poskušajo popraviti. V načinu Uredi je ikona zvočnika, a ta zvok le vklaplja in izklaplja.",
+    "Prek lista za deljenje video pošlješ neposredno v Increase Volume in glasnejšo kopijo dobiš nazaj v Fotografije, brez ovinka prek Datotek."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "List za deljenje v iOS z možnostmi za ojačeno datoteko iz Increase Volume",
+    "caption": "List za deljenje v iOS prenese video iz Fotografij v aplikacijo in nazaj."
+  },
+  "sections": [
+    {
+      "heading": "Kaj zna urejanje v Fotografijah z zvokom",
+      "paragraphs": [
+        "Pri videu tapni Uredi: ikona zvočnika zgoraj zvok utiša ali vklopi. Na novejših iPhonih s prostorskim zvokom je še Zvočni miks, ki spremeni razmerje glasov in ozadja, ne pa skupne glasnosti."
+      ]
+    },
+    {
+      "heading": "Ne vidiš Increase Volume na listu za deljenje?",
+      "paragraphs": [],
+      "list": [
+        "Podrsaj vrstico aplikacij v desno in tapni Več.",
+        "Poišči Increase Volume in ga dodaj med Priljubljene.",
+        "Odslej se prikaže na listu pri vsakem videu."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Kam gre kopija?",
+      "paragraphs": [
+        "Ko izbereš Shrani video, se ojačan video doda v Fotografije kot nov element, najnovejši v knjižnici. Izvirnik ostane nespremenjen."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Iz Fotografij do glasnejšega videa",
+    "intro": "Približno minuta.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Odpri video v Fotografijah",
+        "text": "Tapni video in nato Deli."
+      },
+      {
+        "name": "Izberi Increase Volume",
+        "text": "Projekt se odpre neposredno v aplikaciji."
+      },
+      {
+        "name": "Ojači",
+        "text": "Premakni „Množitelj glasnosti“, tapni „Ojači glasnost na ×N“ in primerjaj Izvirnik/Obdelano."
+      },
+      {
+        "name": "Shrani nazaj v Fotografije",
+        "text": "Tapni „Prenesi obdelano“ → Shrani video."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Nasveti",
+    "items": [
+      "Več videov ojačaj enega za drugim s seznama projektov.",
+      "Novo kopijo označi kot priljubljeno, da jo hitro najdeš.",
+      "Izvirnik izbriši šele, ko si zadovoljen z glasnejšo različico."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Ali lahko aplikacija Fotografije naredi video glasnejši?",
+      "answer": "Ne. Fotografije znajo le utišati zvok ali prilagoditi Zvočni miks na podprtih modelih."
+    },
+    {
+      "question": "Ali aplikacija zamenja izvirni video?",
+      "answer": "Ne. Vedno shrani novo kopijo; izvirnik ostane nespremenjen."
+    },
+    {
+      "question": "Ali deluje z živimi fotografijami?",
+      "answer": "Aplikacija dela z video datotekami. Živo fotografijo najprej shrani kot video v Fotografijah."
+    }
+  ],
+  "related": [
+    "kako-povecati-glasnost-videa-na-iphonu",
+    "zakaj-je-video-tih",
+    "glasnejsi-video-za-tiktok"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

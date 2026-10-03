@@ -1,0 +1,118 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie ses %500 üzeri",
+  "priority": 11,
+  "keywords": "iMovie ses %500, iMovie ses yükseltme, iMovie ses sınırı, iMovie'den fazla ses güçlendirme",
+  "title": "iMovie %500'de mi Kaldı? Videoyu Daha da Yükseltin",
+  "description": "iPhone'daki iMovie'de klip sesi yaklaşık %500'de durur. Dışa aktarılan videoyu Ses Yükseltici'de açıp 10 kata kadar güçlendirin ya da ikisini birlikte kullanın.",
+  "h1": "iMovie ses sınırı: videoyu %500'ün üzerine çıkarmak",
+  "eyebrow": "iMovie",
+  "card_title": "iMovie'de %500'ün üzeri",
+  "card_summary": "iMovie kaydırıcısı %500'de durur. Kalan güçlendirmeyi dışa aktarmadan sonra ekleyin.",
+  "quick_answer": "iPhone'daki iMovie'de klip ses kaydırıcısı yaklaşık %500'de (5 kat) durur. Daha fazlası gerekiyorsa videoyu iMovie'den dışa aktarın, Ses Yükseltici'de açın, ×2–×10 güçlendirin ve yeni kopyayı kaydedin. Ya da iMovie'yi atlayıp doğrudan Ses Yükseltici'de 10 kata çıkın.",
+  "intro": [
+    "iMovie ücretsiz ve iyi bir düzenleyici, ama çok sessiz bir klip için ses kaydırıcısı yetmez. Bu rehber iki aracı karşılaştırır ve birlikte nasıl kullanılacağını gösterir."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/tr/4.webp",
+    "alt": "Ses Yükseltici'de «Ses çarpanı ×10» kaydırıcısı ve «Sesi ×10'a güçlendir» düğmesi",
+    "caption": "iMovie 5 katta durur; bu kaydırıcı ×10'a kadar gider."
+  },
+  "sections": [
+    {
+      "heading": "iMovie ile Ses Yükseltici karşılaştırması",
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Ses Yükseltici"
+        ],
+        "rows": [
+          [
+            "En fazla güçlendirme",
+            "Yaklaşık %500 (5 kat)",
+            "×10 (%1000)"
+          ],
+          [
+            "Ses dosyaları (MP3)",
+            "Hayır",
+            "Evet"
+          ],
+          [
+            "Proje gerekir mi",
+            "Evet",
+            "Hayır"
+          ],
+          [
+            "Orijinal/İşlenmiş karşılaştırma",
+            "Yok",
+            "Var"
+          ],
+          [
+            "Kurgu (kesme, başlık)",
+            "Evet",
+            "Hayır"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "İkisini birlikte kullanmak",
+      "paragraphs": [
+        "Zaten iMovie'de kurgu yapıyorsanız (kesmeler, başlıklar, müzik) kurguyu bitirip videoyu dışa aktarın. Ardından dışa aktarılan dosyayı Ses Yükseltici'de açıp eksik kalan güçlendirmeyi ekleyin. iMovie'de %500 ve ardından ×2 eklerseniz toplamda yaklaşık 10 kat elde edersiniz."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Adım adım: iMovie'den sonra ek güçlendirme",
+    "intro": "Yaklaşık iki dakika.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "iMovie'den dışa aktarın",
+        "text": "Bitti → Paylaş → Videoyu Kaydet."
+      },
+      {
+        "name": "Ses Yükseltici'de açın",
+        "text": "Fotoğraflar → video → Paylaş → Ses Yükseltici."
+      },
+      {
+        "name": "Ek güçlendirme",
+        "text": "×2–×4 seçip «Sesi güçlendir»e dokunun ve orijinalle karşılaştırın."
+      },
+      {
+        "name": "Kaydedin",
+        "text": "«İşlenmişi indir» → Videoyu Kaydet."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "İpuçları",
+    "items": [
+      "Kurguya ihtiyacınız yoksa iMovie'yi atlayın; Ses Yükseltici doğrudan daha hızlıdır.",
+      "iMovie'de %500 cızırdıyorsa iMovie'de daha az ayarlayıp kalanını Ses Yükseltici'de ekleyin.",
+      "Aynı çözünürlükte dışa aktarın."
+    ]
+  },
+  "faq": [
+    {
+      "question": "iMovie'de ses %500'ün üzerine çıkarılabilir mi?",
+      "answer": "Hayır. iPhone'daki iMovie kaydırıcısı yaklaşık %500'de durur. Dışa aktardıktan sonra Ses Yükseltici'de ek güçlendirme yapın."
+    },
+    {
+      "question": "iMovie MP3 güçlendirebilir mi?",
+      "answer": "Doğrudan hayır; iMovie video projeleriyle çalışır. MP3 için Ses Yükseltici'yi kullanın."
+    },
+    {
+      "question": "İki kez işlemek kaliteyi düşürür mü?",
+      "answer": "Doğru seviyede hayır. Cızırtı olursa toplam çarpanı düşürün."
+    }
+  ],
+  "related": [
+    "iphone-video-sesi-nasil-yukseltilir",
+    "kalite-kaybetmeden-ses-yukseltme",
+    "fotograflar-video-sesini-yukseltme"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

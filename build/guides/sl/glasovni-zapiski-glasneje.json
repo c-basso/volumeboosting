@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "kako ojačati posnetek v Glasovnih zapiskih",
+  "priority": 4,
+  "keywords": "kako ojačati posnetek v Glasovnih zapiskih, tih posnetek Glasovni zapiski, povečati glasnost zvočnega posnetka, tih posnetek predavanja, ojačati posnetek glasu",
+  "title": "Kako ojačati posnetek iz Glasovnih zapiskov na iPhonu",
+  "description": "„Izboljšaj posnetek“ v Glasovnih zapiskih datoteke ne naredi glasnejše. Kako posnetek izvoziti, ga ojačati do 10× v Increase Volume in shraniti glasnejši M4A.",
+  "h1": "Kako ojačati posnetek iz Glasovnih zapiskov na iPhonu",
+  "eyebrow": "Glasovni zapiski",
+  "card_title": "Glasnejši Glasovni zapiski",
+  "card_summary": "„Izboljšaj posnetek“ odstrani šum, ne poveča pa glasnosti. Tako narediš glasnejšo samo datoteko.",
+  "quick_answer": "Glasovni zapiski nimajo drsnika glasnosti za datoteko; „Izboljšaj posnetek“ le zmanjša šum pri predvajanju. Za glasnejši posnetek: tapni ⋯ ob posnetku → Deli → Increase Volume, vklopi „Izboljšaj kakovost zvoka“, ojači ×5–×10, primerjaj Izvirnik in Obdelano ter tapni „Prenesi obdelano“. Glasnejšo datoteko M4A shrani v Datoteke ali jo deli.",
+  "intro": [
+    "Predavanja, sestanki, intervjuji in zamisli se pogosto snemajo z Glasovnimi zapiski na telefonu, ki leži na mizi. Rezultat je pogosto pretih, zlasti ko govorec sedi daleč.",
+    "Ta vodnik pojasni, kaj funkcije Glasovnih zapiskov res naredijo in kako ustvariš trajno glasnejšo kopijo posnetka."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Podrobnosti posnetka v Increase Volume z vklopljenim „Izboljšaj kakovost zvoka“ in drsnikom „Množitelj glasnosti ×10“",
+    "caption": "Za govor: vklopi „Izboljšaj kakovost zvoka“ in izberi množitelj."
+  },
+  "sections": [
+    {
+      "heading": "Kaj naredi „Izboljšaj posnetek“ in česa ne",
+      "paragraphs": [
+        "V Glasovnih zapiskih je pri urejanju možnost „Izboljšaj posnetek“ (ikona čarobne palice). Zmanjša šum v ozadju in odmev, ne dvigne pa opazno ravni datoteke. Ko posnetek deliš, je enako tih kot prej."
+      ]
+    },
+    {
+      "heading": "Glasnost predvajanja proti glasnosti datoteke",
+      "paragraphs": [
+        "Gumbi za glasnost vplivajo le na tvoj zvočnik. Če naj sodelavec, storitev za prepis ali program za montažo dobi jasen signal, mora biti glasnejša sama datoteka. To naredi Increase Volume: pomnoži raven zvoka in shrani nov M4A."
+      ]
+    },
+    {
+      "heading": "Kako deliti posnetek iz Glasovnih zapiskov",
+      "paragraphs": [],
+      "list": [
+        "Odpri Glasovne zapiske in tapni posnetek.",
+        "Tapni ⋯ (Več) in izberi Deli.",
+        "Na listu izberi Increase Volume ali Shrani v Datoteke, če ga želiš odpreti pozneje."
+      ],
+      "ordered": true
+    }
+  ],
+  "steps": {
+    "heading": "Korak za korakom: ojači posnetek iz Glasovnih zapiskov",
+    "intro": "Manj kot minuta za nekajminutni posnetek.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Deli posnetek",
+        "text": "V Glasovnih zapiskih: ⋯ → Deli → Increase Volume. Aplikacija pokaže ime datoteke, velikost in trajanje."
+      },
+      {
+        "name": "Vklopi „Izboljšaj kakovost zvoka“",
+        "text": "Glas postane jasnejši skupaj z ojačitvijo."
+      },
+      {
+        "name": "Ojači",
+        "text": "Premakni „Množitelj glasnosti“ na ×5–×10 in tapni „Ojači glasnost na ×N“."
+      },
+      {
+        "name": "Primerjaj in shrani",
+        "text": "Poslušaj Izvirnik in Obdelano, tapni „Prenesi obdelano“ in izberi Shrani v Datoteke."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Nasveti za govor",
+    "items": [
+      "Naslednjič postavi telefon z mikrofonom (spodnji rob) proti govorcu; to pomaga bolj kot katera koli ojačitev.",
+      "Ploskanje ali smeh ob telefonu ustvarijo vrhove. Uporabi ×4–×6 in preveri najglasnejše dele.",
+      "Glasnejša datoteka pogosto da boljše rezultate pri orodjih za prepis."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Ali lahko povečam glasnost v Glasovnih zapiskih brez druge aplikacije?",
+      "answer": "Ne. Glasovni zapiski znajo obrezovati, zamenjati in izboljšati, nimajo pa ojačitve glasnosti datoteke."
+    },
+    {
+      "question": "V kakšni obliki se shrani ojačena datoteka?",
+      "answer": "Zvočne datoteke se shranijo kot nova zvočna datoteka (M4A za posnetke iz Glasovnih zapiskov), ki jo lahko shraniš v Datoteke ali deliš."
+    },
+    {
+      "question": "Ali se ojača tudi šum v ozadju?",
+      "answer": "Da, ojača se vse v posnetku. „Izboljšaj kakovost zvoka“ pomaga, da glas izstopa."
+    }
+  ],
+  "related": [
+    "tiho-glasovno-sporocilo-whatsapp",
+    "tih-podcast-zvocna-knjiga-iphone",
+    "kako-ojaciti-mp3-na-iphonu"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

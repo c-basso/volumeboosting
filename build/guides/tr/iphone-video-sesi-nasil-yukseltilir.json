@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "iPhone video sesi nasıl yükseltilir",
+  "priority": 1,
+  "keywords": "iPhone video sesi nasıl yükseltilir, video sesini artırma, video sesi düşük, ses yükseltici uygulama, video ses açma",
+  "title": "iPhone'da Video Sesi Nasıl Yükseltilir? (10 Kata Kadar)",
+  "description": "iPhone'da sesi düşük videoyu bir dakikada yükseltin: Fotoğraflar ve iMovie ne yapar, nerede durur ve Ses Yükseltici ile sesi 10 kata kadar nasıl artırırsınız.",
+  "h1": "iPhone'da video sesi nasıl yükseltilir",
+  "eyebrow": "Video",
+  "card_title": "Video sesini yükseltin",
+  "card_summary": "Fotoğraflar uygulaması sesi artırmaz, iMovie yaklaşık %500'de durur. Tek kaydırıcıyla 10 kata kadar çıkmanın yolu.",
+  "quick_answer": "iPhone'da video sesini yükseltmek için videoyu Ses Yükseltici'de (App Store'da ücretsiz) açın, «Ses çarpanı» kaydırıcısını ×10'a kadar sürükleyin, «Sesi güçlendir»e dokunun, orijinal ile işlenmiş hâli karşılaştırın ve «İşlenmişi indir»e dokunun. Daha yüksek sesli kopya Fotoğraflar'a veya Dosyalar'a kaydedilir ve her cihazda yüksek çalar. Fotoğraflar uygulaması sesi artırmaz; iMovie yaklaşık %500'de durur.",
+  "intro": [
+    "Bir anı kaydedip arkadaşınıza gönderiyorsunuz ve cevap geliyor: «Hiçbir şey duyulmuyor.» Sesi düşük video, iPhone'daki en yaygın sorunlardan biridir, çünkü çözüm insanların aradığı yerde değildir. Ses düğmeleri yalnızca telefonun ne kadar yüksek çaldığını değiştirir; Fotoğraflar uygulamasının düzenleyicisinde ses seviyesi kontrolü yoktur.",
+    "Bu rehber iPhone'daki üç gerçek yolu, her birinin ne yaptığını ve yapmadığını gösterir; ardından en hızlı yöntemi anlatır: Ses Yükseltici ile videonun sesini 10 kata kadar artırıp kalıcı olarak daha yüksek bir dosya kaydetmek."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/tr/2.webp",
+    "alt": "«VİDEO SESİ YÜKSELT» ekran görüntüsü: Ses Yükseltici'de bir parmak video üzerindeki pembe kaydırıcıyı sürüklüyor",
+    "caption": "Kaydırıcı videonun önizlemesinin hemen üstünde. Sürükleyin, dinleyin, kaydedin."
+  },
+  "sections": [
+    {
+      "heading": "Telefonun sesini açmak videoyu neden düzeltmez",
+      "paragraphs": [
+        "iPhone'un ses düğmeleri yalnızca *sizin* hoparlörünüzün ne kadar yüksek çaldığını değiştirir. Video dosyasının içindeki sesi değiştirmez. Dosyayı paylaştığınızda alıcının telefonu da aynı düşük seviyede çalar. Gerçek çözüm, ses parçasının seviyesini yükseltip yeni bir dosya kaydetmektir. Video ses yükseltici tam olarak bunu yapar."
+      ]
+    },
+    {
+      "heading": "Yol 1: Fotoğraflar uygulaması (sesi artırmaz)",
+      "paragraphs": [
+        "Videoyu Fotoğraflar'da açıp Düzenle'ye dokunun. Yalnızca klibin sesini kapatan bir hoparlör simgesi görürsünüz; iPhone 16 ve sonrasında Uzamsal Ses videolarında konuşma ile arka plan dengesini değiştiren Ses Miksi de vardır. İkisi de genel ses seviyesini yükseltmez. Kaydın tamamı sessizse Fotoğraflar yardımcı olamaz."
+      ]
+    },
+    {
+      "heading": "Yol 2: iMovie (ücretsiz, yaklaşık %500 sınırı)",
+      "paragraphs": [
+        "iMovie bir klibi yükseltebilir ama iki sınırı vardır. Kaydırıcı yaklaşık %500'de (5 kat) durur; odanın öbür ucundan çekilmiş bir kayıt için bu çoğu zaman yetmez. Ayrıca proje oluşturup tüm videoyu yeniden dışa aktarmanız gerekir; uzun bir klipte bu birkaç dakika sürer."
+      ],
+      "list": [
+        "iMovie'yi açın → Yeni Proje Başlat → Film ve videoyu seçin.",
+        "Zaman çizelgesindeki klibe dokunun, hoparlör simgesine dokunun ve ses kaydırıcısını sağa çekin (en fazla yaklaşık %500).",
+        "Bitti → Paylaş → Videoyu Kaydet'e dokunun ve dışa aktarmanın bitmesini bekleyin."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Yol 3: Ses Yükseltici (10 kata kadar, tek kaydırıcı, bir dakikadan kısa)",
+      "paragraphs": [
+        "Ses Yükseltici – Volume Boost tam olarak bu iş için yapıldı. Fotoğraflar veya Dosyalar'dan herhangi bir videoyu açar, ×10'a (%1000) kadar giden tek bir «Ses çarpanı» kaydırıcısı gösterir, kaydetmeden önce orijinal ile işlenmiş hâli karşılaştırmanızı sağlar ve sonucu iOS'un standart paylaşım ekranıyla kaydeder. iMovie'nin açmadığı MP3 ve Sesli Notlar kayıtları gibi ses dosyalarını da açar.",
+        "İşlem iPhone'unuzda yapılır. Hiçbir şey yüklenmez, hesap gerekmez ve dışa aktarılan videoda filigran olmaz."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Adım adım: Ses Yükseltici ile video sesini yükseltin",
+    "intro": "Normal bir klip için yaklaşık bir dakika. App Store'daki ücretsiz uygulama ve Fotoğraflar ya da Dosyalar'da bir video yeterli.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Videoyu uygulamada açın",
+        "text": "Uygulamayı açıp Fotoğraflar veya Dosyalar'dan videoyu ekleyin. En hızlı yol: videoyu Fotoğraflar'da açın, Paylaş'a dokunun ve Ses Yükseltici'yi seçin; proje hemen oluşur."
+      },
+      {
+        "name": "Ayrıntıları kontrol edin",
+        "text": "Uygulama dosya adını, boyutunu ve süresini gösterir; doğru klip olduğundan emin olun. Ağırlıklı olarak konuşma varsa «Ses kalitesini iyileştir»i açın."
+      },
+      {
+        "name": "Güçlendirme miktarını seçin",
+        "text": "«Ses çarpanı»nı sürükleyin. Video biraz sessizse ×3–×5 ile başlayın; zar zor duyuluyorsa ×10'a kadar çıkın. «Sesi ×N'e güçlendir»e dokunun."
+      },
+      {
+        "name": "Orijinal ile işlenmişi karşılaştırın",
+        "text": "Düğmenin altındaki anahtarla orijinal ve güçlendirilmiş sürüm arasında geçiş yapın. Yüksek kısımlar cızırtılı geliyorsa geri dönüp çarpanı bir kademe düşürün."
+      },
+      {
+        "name": "İndirin ve paylaşın",
+        "text": "«İşlenmişi indir»e dokunun. Paylaşım ekranında Videoyu Kaydet'i seçerseniz yüksek sesli kopya Fotoğraflar'a gider; «Dosyalar'a kaydet»i seçebilir ya da doğrudan WhatsApp, Mesajlar, AirDrop veya Instagram ile gönderebilirsiniz."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "En iyi sonuç için ipuçları",
+    "items": [
+      "Instagram, TikTok, YouTube veya Facebook'a paylaşmadan *önce* güçlendirin. Platformlar yüklemede sesi dengeler ama çok sessiz gelen bir parçayı kurtaramaz.",
+      "Sessiz konuşmanın ortasında ani yüksek bir an (kahkaha, kapı çarpması) varsa ×10 yerine orta bir çarpan (×3–×5) kullanın ve «Ses kalitesini iyileştir»i açın.",
+      "Orijinal dosya değişmez. Uygulama her seferinde yeni bir dosya oluşturduğu için farklı seviyeleri deneyebilirsiniz.",
+      "Kapalı mikrofonla (kılıf, parmak) çekilen video hem sessiz hem *boğuk* olur; güçlendirme seviyeyi düzeltir, boğukluğu değil."
+    ]
+  },
+  "faq": [
+    {
+      "question": "iPhone'da uygulama olmadan video sesi yükseltilebilir mi?",
+      "answer": "Yalnızca Apple'ın ücretsiz sunduğu iMovie ile; klibi yaklaşık %500'e kadar yükseltir. Fotoğraflar uygulaması sesi artırmaz. 5 kattan fazlası veya daha hızlı bir yol için Ses Yükseltici'yi kullanın."
+    },
+    {
+      "question": "Sesi yükseltmek video kalitesini düşürür mü?",
+      "answer": "Görüntü hiç değişmez. Yalnızca ses yükseltilir; zaten yüksek tepeleri olan bir kaydı fazla zorlarsanız cızırtı duyulabilir. Bu yüzden uygulamada kaydetmeden önce dinleyebileceğiniz Orijinal/İşlenmiş anahtarı vardır."
+    },
+    {
+      "question": "Video gönderildikten sonra da yüksek kalır mı?",
+      "answer": "Evet. Güçlendirme dosyanın ses parçasının içindedir; her telefonda, bilgisayarda ve sosyal ağda yeni seviyede çalar."
+    },
+    {
+      "question": "İndirilmiş videolarla çalışır mı?",
+      "answer": "Evet, dosya Fotoğraflar'da veya Dosyalar'da ve kopya korumasız olduğu sürece. Uygulama her kaynaktan MP4 ve MOV açar."
+    }
+  ],
+  "related": [
+    "kalite-kaybetmeden-ses-yukseltme",
+    "ekran-kaydi-sesi-dusuk-iphone",
+    "imovie-ses-500-uzeri"
+  ],
+  "cta": {
+    "title": "Videonuzun sesini şimdi yükseltin",
+    "text": "Ses Yükseltici App Store'da ücretsiz. Videoyu uygulamaya paylaşın, ×10'a kadar sürükleyin ve «İşlenmişi indir»e dokunun."
+  },
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "música fluixa a l'iPhone",
+  "priority": 5,
+  "keywords": "música fluixa a l'iPhone, com pujar el volum de la música a l'iPhone, l'iPhone sona fluix, augmentar el volum de la música, amplificador de música",
+  "title": "La música sona fluix a l'iPhone? 6 ajustos i reforç de 10×",
+  "description": "La música sona fluix a l'iPhone? Revisa la seguretat dels auriculars, l'equalitzador, la comprovació del so i el balanç, i fes els MP3 fins a 10× més forts.",
+  "h1": "Música fluixa a l'iPhone: ajustos i solució",
+  "eyebrow": "Música",
+  "card_title": "Música fluixa",
+  "card_summary": "Sis ajustos que abaixen la música i com fer els teus fitxers d'àudio fins a 10× més forts.",
+  "quick_answer": "Si tota la música sona fluix a l'iPhone, revisa Configuració › Sons i vibracions › Seguretat dels auriculars (reduir els sons forts), l'equalitzador de Música, la comprovació del so i el balanç d'Accessibilitat. Si n'hi ha un fitxer fluix (un MP3, una gravació, una maqueta), obre'l a Augmenta Volum Vídeo, amplifica'l ×2–×5 i desa la còpia més forta a Fitxers. La música d'Apple Music o Spotify està protegida i no es pot amplificar com a fitxer.",
+  "intro": [
+    "Darrere de «la música sona fluix» hi ha dos problemes diferents: un ajust que limita tot el so, o un fitxer gravat o mesclat fluix. El primer s'arregla a Configuració; el segon demana fer més fort el fitxer mateix.",
+    "Aquí tens tots dos, en l'ordre en què val la pena revisar-los."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/ca/3.webp",
+    "alt": "Captura de la botiga (titular en castellà «Aumenta el volumen del audio»): un fitxer MP3 processant-se amb el nom, la mida i la durada",
+    "caption": "Els teus fitxers d'àudio (MP3, M4A, WAV) es processen al dispositiu."
+  },
+  "sections": [
+    {
+      "heading": "Sis ajustos que abaixen la música",
+      "paragraphs": [],
+      "list": [
+        "Seguretat dels auriculars: Configuració › Sons i vibracions › Seguretat dels auriculars pot limitar el nivell als auriculars.",
+        "Equalitzador: Configuració › Música › Equalitzador. L'opció «Tard a la nit» aixeca els passatges fluixos i pot fer que la música sembli més forta amb soroll.",
+        "Comprovació del so: Configuració › Música. Activada, iguala el volum entre cançons i pot abaixar les pistes fortes.",
+        "Balanç: Configuració › Accessibilitat › Àudio i elements visuals › Balanç ha d'estar al mig.",
+        "Bluetooth: alguns auriculars tenen volum propi; revisa la seva app.",
+        "La brutícia a l'altaveu o al connector apaga el so; neteja-ho amb compte."
+      ],
+      "ordered": true,
+      "note": "Els noms dels menús segueixen iOS 18 i poden variar una mica entre versions."
+    },
+    {
+      "heading": "Quan un fitxer és fluix: amplifica el fitxer",
+      "paragraphs": [
+        "Maquetes, gravacions en directe, MP3 antics i descàrregues poden estar mesclats fluix. Augmenta Volum Vídeo obre el fitxer des de Fitxers, en multiplica el nivell i desa un fitxer nou. Els greus reforçats donen cos quan amplifiques música."
+      ]
+    },
+    {
+      "heading": "Què no es pot amplificar",
+      "paragraphs": [
+        "Les cançons d'Apple Music, Spotify i altres serveis de streaming estan protegides amb DRM i no es poden obrir com a fitxers. Per a elles queden els ajustos d'abans. Els fitxers que són teus sí que es poden amplificar."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Fes més fort un fitxer d'àudio",
+    "intro": "Funciona amb MP3, M4A i WAV des de Fitxers.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Importa des de Fitxers",
+        "text": "Obre l'app i tria la cançó a Fitxers."
+      },
+      {
+        "name": "Tria el nivell",
+        "text": "La música sol estar mesclada a prop del màxim; comença amb ×2–×3 i puja amb compte."
+      },
+      {
+        "name": "Compara",
+        "text": "Toca «Reforça el volum a ×N» i escolta la tornada alternant Original/Processat."
+      },
+      {
+        "name": "Desa",
+        "text": "Toca «Descarrega el processat» → Desa a Fitxers."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consells",
+    "items": [
+      "La música masteritzada comercialment té poc marge; sovint n'hi ha prou amb ×2.",
+      "Les gravacions en directe amb el mòbil tenen molt de marge i aguanten ×5 o més.",
+      "Guarda l'original; l'app sempre crea un fitxer nou."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Per què la música sona més fluix als auriculars que abans?",
+      "answer": "Sovint perquè hi ha activada la reducció de sons forts a Seguretat dels auriculars, o perquè l'iPhone ha abaixat el nivell després d'escoltar molta estona a volum alt."
+    },
+    {
+      "question": "Puc fer més forta la música de Spotify amb l'app?",
+      "answer": "No. La música en streaming està protegida i no es pot obrir com a fitxer. Fes servir els ajustos de Spotify i d'iOS."
+    },
+    {
+      "question": "La cançó es distorsionarà?",
+      "answer": "Només si els pics passen del sostre. Escolta amb Original/Processat i baixa la multiplicació si sona trencada."
+    }
+  ],
+  "related": [
+    "com-pujar-el-volum-d-un-mp3",
+    "mes-fort-sense-perdre-qualitat",
+    "podcast-audiollibre-fluix-iphone"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

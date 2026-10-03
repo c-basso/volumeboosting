@@ -1,0 +1,100 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "tin nhắn thoại Zalo nhỏ",
+  "priority": 2,
+  "keywords": "tin nhắn thoại Zalo nhỏ, tin nhắn thoại Messenger nhỏ, tăng âm lượng tin nhắn thoại, không nghe rõ tin nhắn thoại, WhatsApp tin nhắn thoại nhỏ",
+  "title": "Tin nhắn thoại Zalo, Messenger nhỏ trên iPhone? Cách sửa",
+  "description": "Tin nhắn thoại Zalo, Messenger hay WhatsApp nghe không rõ? Sửa lỗi do loa thoại và cài đặt, rồi làm bản ghi nhỏ to hơn đến 10 lần với Tăng Âm Lượng Video.",
+  "h1": "Tin nhắn thoại Zalo, Messenger hoặc WhatsApp nhỏ trên iPhone: làm gì",
+  "eyebrow": "Tin nhắn thoại",
+  "card_title": "Tin nhắn thoại nhỏ",
+  "card_summary": "Mọi tin đều nhỏ là do cài đặt; chỉ một tin nhỏ thì cần tăng chính tệp đó.",
+  "quick_answer": "Nếu mọi tin nhắn thoại đều nhỏ, thường là do âm thanh chuyển sang loa thoại khi áp máy lên tai, hoặc âm lượng phương tiện thấp. Nếu chỉ một tin nhỏ, hãy lưu hoặc chia sẻ tệp đó sang Tăng Âm Lượng Video, tăng ×3–×6 rồi lưu hoặc gửi lại bản to hơn.",
+  "intro": [
+    "Ở Việt Nam, tin nhắn thoại trên Zalo và Messenger là một phần của cuộc sống hằng ngày: nhóm gia đình, nhóm công việc, hẹn giờ giao hàng. Khi người gửi cầm máy xa miệng hoặc nói giữa đường phố ồn ào, tin nhắn vẫn khó nghe dù đã bật hết cỡ.",
+    "Trước tiên, xác định vấn đề nằm ở điện thoại hay ở bản ghi. Sau đó làm tin nhắn cần nghe to hơn bằng Tăng Âm Lượng Video."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "Bảng chia sẻ iOS cho âm thanh đã tăng trong Tăng Âm Lượng Video, có Sao chép, Thêm thẻ và Lưu vào Tệp",
+    "caption": "Lưu tin nhắn đã tăng vào Tệp hoặc gửi lại ngay vào cuộc trò chuyện."
+  },
+  "sections": [
+    {
+      "heading": "Mọi tin đều nhỏ: nguyên nhân khi phát",
+      "paragraphs": [
+        "Cảm biến tiệm cận của iPhone chuyển âm thanh sang loa thoại nhỏ khi bạn áp máy lên tai. Hãy cầm máy cách xa mặt khi nghe."
+      ],
+      "list": [
+        "Bấm nút tăng âm lượng bên cạnh khi tin đang phát, vì ứng dụng nhắn tin dùng âm lượng phương tiện.",
+        "Kiểm tra trong Trung tâm điều khiển xem tai nghe Bluetooth có đang kết nối không.",
+        "Nếu bật «Giảm âm thanh lớn» trong Cài đặt › Âm thanh & cảm ứng › An toàn tai nghe, âm lượng tai nghe sẽ bị giới hạn.",
+        "Vệ sinh lưới loa bằng bàn chải mềm."
+      ]
+    },
+    {
+      "heading": "Chỉ một tin nhỏ: vấn đề ở bản ghi",
+      "paragraphs": [
+        "Nếu người gửi nói xa micro hoặc che micro bằng ngón tay, âm thanh trong tệp vốn đã nhỏ. Không cài đặt nào sửa được; cần nâng mức của chính tệp. Tăng Âm Lượng Video mở được các định dạng phổ biến của tin nhắn thoại (.m4a, .aac, .opus) qua bảng chia sẻ iOS."
+      ]
+    },
+    {
+      "heading": "Cách đưa tin nhắn thoại vào ứng dụng",
+      "paragraphs": [
+        "Với WhatsApp: chạm và giữ tin nhắn thoại, chọn Chuyển tiếp, rồi chạm biểu tượng Chia sẻ bên dưới và chọn Tăng Âm Lượng Video. Với Zalo và Messenger, menu thay đổi theo phiên bản: cách đơn giản nhất là lưu hoặc chia sẻ tệp âm thanh vào Tệp rồi nhập vào ứng dụng. Nếu không thấy ứng dụng trong danh sách, hãy chọn «Lưu vào Tệp» trước."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Từng bước: làm tin nhắn thoại to hơn",
+    "intro": "Dưới một phút mỗi tin.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Đưa tệp vào ứng dụng",
+        "text": "WhatsApp: giữ tin → Chuyển tiếp → Chia sẻ → Tăng Âm Lượng Video. Zalo/Messenger: lưu âm thanh vào Tệp rồi nhập."
+      },
+      {
+        "name": "Bật cải thiện giọng nói",
+        "text": "Bật «Cải thiện chất lượng âm thanh» để giọng nói rõ ràng."
+      },
+      {
+        "name": "Tăng và nghe thử",
+        "text": "Kéo đến ×3–×6 và chạm «Tăng âm lượng». So sánh bằng công tắc Gốc/Đã xử lý."
+      },
+      {
+        "name": "Lưu hoặc gửi lại",
+        "text": "Chạm «Tải tệp đã xử lý» rồi lưu vào Tệp, hoặc gửi thẳng vào Zalo, Messenger từ bảng chia sẻ."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Mẹo",
+    "items": [
+      "Khi tự ghi, giữ phần dưới điện thoại cách miệng 10–15 cm vì micro nằm ở đó.",
+      "Tin quan trọng (địa chỉ, số điện thoại) nên tăng âm lượng rồi lưu trong Tệp.",
+      "Nếu tiếng xe cộ lớn, dùng hệ số vừa phải vì tăng âm lượng cũng làm tiếng ồn to lên."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Vì sao tin nhắn thoại Zalo hay Messenger quá nhỏ?",
+      "answer": "Thường do âm thanh chuyển sang loa thoại, âm lượng phương tiện thấp hoặc người gửi ghi âm xa micro. Trường hợp cuối cần tăng chính tệp."
+    },
+    {
+      "question": "Có tăng âm lượng tin nhắn thoại ngay trong ứng dụng nhắn tin không?",
+      "answer": "Không. Các ứng dụng nhắn tin chỉ cho đổi tốc độ phát, không có tăng âm lượng. Hãy chuyển tệp sang Tăng Âm Lượng Video để tạo bản to hơn."
+    },
+    {
+      "question": "Người gửi có biết không?",
+      "answer": "Không. Bản sao tin nhắn được xử lý trên chính iPhone của bạn; cuộc trò chuyện không thay đổi gì."
+    }
+  ],
+  "related": [
+    "tang-am-luong-ghi-am-iphone",
+    "tang-am-luong-mp3-iphone",
+    "podcast-sach-noi-tieng-nho"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

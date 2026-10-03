@@ -1,0 +1,118 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie音量超过500%",
+  "priority": 11,
+  "keywords": "iMovie音量500%, iMovie声音调大, iMovie音量上限, 比iMovie更大声",
+  "title": "iMovie 音量只能到 500%？让视频更大声的方法",
+  "description": "iPhone 版 iMovie 的片段音量最高约 500%，对很小声的视频往往不够。把导出的视频在「音量放大器」中打开，可再最高放大 10 倍；也可以先用 iMovie 剪辑、再用 App 补足音量，两者结合使用效果最好。可在 App Store 免费下载并免费试用。",
+  "h1": "iMovie 音量上限：把视频放大到 500% 以上",
+  "eyebrow": "iMovie",
+  "card_title": "突破 iMovie 500%",
+  "card_summary": "iMovie 滑块止于 500%。剩下的放大在导出后补上。",
+  "quick_answer": "在 iPhone 版 iMovie 中，片段音量滑块最高约 500%（5 倍）。需要更多时，从 iMovie 导出视频，在「音量放大器」中打开，放大 ×2–×10 后存储新副本。也可以跳过 iMovie，直接在 App 中放大到 10 倍。",
+  "intro": [
+    "iMovie 免费且是不错的剪辑工具，但对于非常小声的片段，它的音量滑块不够用。本指南对比两个工具，并介绍如何搭配使用。"
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "「音量放大器」中的「音量倍数 ×10」滑块和「增强至 ×10」按钮",
+    "caption": "iMovie 止于 5 倍；这个滑块可到 ×10。"
+  },
+  "sections": [
+    {
+      "heading": "iMovie 与「音量放大器」对比",
+      "table": {
+        "head": [
+          "",
+          "iMovie（iPhone）",
+          "音量放大器"
+        ],
+        "rows": [
+          [
+            "最大放大",
+            "约 500%（5 倍）",
+            "×10（1000%）"
+          ],
+          [
+            "音频文件（MP3）",
+            "不支持",
+            "支持"
+          ],
+          [
+            "需要建项目",
+            "需要",
+            "不需要"
+          ],
+          [
+            "原始／处理后对比",
+            "无",
+            "有"
+          ],
+          [
+            "剪辑（剪切、字幕）",
+            "有",
+            "无"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "两者搭配使用",
+      "paragraphs": [
+        "如果你已经在 iMovie 里剪辑（剪切、字幕、配乐），先完成剪辑并导出视频。然后在「音量放大器」中打开导出的文件，补上不足的放大。iMovie 设为 500% 再加 ×2，总共约 10 倍。"
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "分步操作：iMovie 之后再放大",
+    "intro": "约两分钟。",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "从 iMovie 导出",
+        "text": "「完成」→「共享」→「存储视频」。"
+      },
+      {
+        "name": "在 App 中打开",
+        "text": "「照片」→ 视频 →「共享」→「音量放大器」。"
+      },
+      {
+        "name": "追加放大",
+        "text": "选择 ×2–×4，轻点「增强音量」并与原始版本对比。"
+      },
+      {
+        "name": "存储",
+        "text": "「下载处理后文件」→「存储视频」。"
+      }
+    ]
+  },
+  "tips": {
+    "heading": "小技巧",
+    "items": [
+      "不需要剪辑就跳过 iMovie，App 更快。",
+      "iMovie 设到 500% 已经破音的话，就在 iMovie 中设低一些，其余在 App 中补。",
+      "导出时保持相同分辨率。"
+    ]
+  },
+  "faq": [
+    {
+      "question": "iMovie 能把音量调到 500% 以上吗？",
+      "answer": "不能。iPhone 版 iMovie 滑块最高约 500%。导出后在「音量放大器」中继续放大。"
+    },
+    {
+      "question": "iMovie 能放大 MP3 吗？",
+      "answer": "不能直接放大；iMovie 处理的是视频项目。MP3 请用「音量放大器」。"
+    },
+    {
+      "question": "处理两次会降低音质吗？",
+      "answer": "倍数合适就不会。破音的话降低总倍数。"
+    }
+  ],
+  "related": [
+    "iphone-shipin-shengyin-fangda",
+    "bu-shizhen-fangda-yinliang",
+    "zhaopian-shipin-yinliang-fangda"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

@@ -1,0 +1,100 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "iPhone müzik sesi düşük",
+  "priority": 5,
+  "keywords": "iPhone müzik sesi düşük, iPhone müzik sesini artırma, şarkı sesi yükseltici, iPhone hoparlör sesi kısık",
+  "title": "iPhone'da Müzik Sesi Düşük mü? 6 Ayar ve 10x Güçlendirme",
+  "description": "iPhone'da şarkılar kısık mı geliyor? Sesi sınırlayan ayarları düzeltin; tek bir dosya sessizse Ses Yükseltici ile onu 10 kata kadar daha yüksek yapın.",
+  "h1": "iPhone'da müzik sesi düşükse ne yapmalı",
+  "eyebrow": "Müzik",
+  "card_title": "Müzik sesi düşük",
+  "card_summary": "EQ, Ses Denetimi ve Kulaklık Güvenliği sesi kısabilir. Önce bunlara bakın, sonra dosyayı güçlendirin.",
+  "quick_answer": "Tüm şarkılar kısıksa Ayarlar › Ses ve Dokunuş › Kulaklık Güvenliği'nde «Yüksek Sesleri Azalt»ı kapatın ve Ayarlar › Müzik'te EQ «Gece Geç Saat»i deneyin. Yalnızca kendi MP3'ünüz veya kaydınız sessizse Ses Yükseltici'de açın, ×2–×4 güçlendirin ve yeni dosyayı kaydedin.",
+  "intro": [
+    "Otobüste, mutfakta ya da Bluetooth hoparlörde iPhone sonuna kadar açıkken bile müzik kısık gelebilir. Çoğu zaman neden bir ayardır; bazen de şarkı dosyası düşük seviyede hazırlanmıştır.",
+    "Önce ayarları kontrol edin. Sonra kendi dosyalarınızı güçlendirin."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/tr/3.webp",
+    "alt": "«SES YÜKSELT Tüm Sesler» ekran görüntüsü: Ses Yükseltici bir MP3 dosyasını işliyor, dosya boyutu ve süresi görünüyor",
+    "caption": "MP3, M4A ve WAV dosyalarını Dosyalar uygulamasından içe aktarın."
+  },
+  "sections": [
+    {
+      "heading": "Müziği kısan 6 ayar",
+      "list": [
+        "Kulaklık Güvenliği: Ayarlar › Ses ve Dokunuş › Kulaklık Güvenliği › «Yüksek Sesleri Azalt».",
+        "EQ: Ayarlar › Müzik › EQ › «Gece Geç Saat» sessiz kısımları yükseltir.",
+        "Ses Denetimi: Ayarlar › Müzik'te tüm şarkıları aynı seviyeye getirir, bazen düşürür.",
+        "Denge: Ayarlar › Erişilebilirlik › Ses ve Görsel Öğeler › Denge ortada olmalı.",
+        "Uygulama içi ses: Spotify ve YouTube Music'in kendi ayarları vardır.",
+        "Bluetooth hoparlörün sesini ayrıca açın."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Yalnızca bir dosya sessizse",
+      "paragraphs": [
+        "Eski MP3'ler, WhatsApp'tan gelen şarkılar ve canlı kayıtlar çoğu zaman düşük seviyededir. Ses Yükseltici dosyayı 10 kata kadar yükseltip yeni bir kopya kaydeder; müzik için ×2–×4 genellikle yeterlidir."
+      ]
+    },
+    {
+      "heading": "Güçlendirilemeyenler",
+      "paragraphs": [
+        "Apple Music, Spotify ve YouTube Music akış şarkıları kopya korumalıdır; hiçbir uygulama bunları düzenleyemez. Yalnızca kendi dosyalarınız (MP3, M4A, WAV, kayıtlar) güçlendirilebilir."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Adım adım: şarkı dosyasını yükseltin",
+    "intro": "Şarkı başına bir dakika.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Dosyayı içe aktarın",
+        "text": "Ses Yükseltici'de + simgesine dokunup şarkıyı Dosyalar'dan seçin."
+      },
+      {
+        "name": "Orta güçlendirme",
+        "text": "Müzik için ×2–×4 seçip «Sesi güçlendir»e dokunun."
+      },
+      {
+        "name": "Kulaklıkla dinleyin",
+        "text": "Orijinal/İşlenmiş arasında geçiş yaparak bas ve davulun cızırtısız olduğunu kontrol edin."
+      },
+      {
+        "name": "Kaydedin",
+        "text": "«İşlenmişi indir» → Dosyalar'a Kaydet."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "İpuçları",
+    "items": [
+      "Modern şarkılar zaten yüksek seviyede hazırlanır; fazla zorlarsanız cızırdar.",
+      "Çalma listesindeki yalnızca eski şarkıları güçlendirip yenileriyle eşitleyin.",
+      "Hiçbir uygulama hoparlörün fiziksel sınırını aşamaz; yükselen dosyadır."
+    ]
+  },
+  "faq": [
+    {
+      "question": "iPhone'da müzik sesi neden düşük?",
+      "answer": "Genellikle Kulaklık Güvenliği, Ses Denetimi veya EQ yüzünden. Bunlar doğruysa dosyanın kendisi düşük seviyededir."
+    },
+    {
+      "question": "Spotify şarkıları güçlendirilebilir mi?",
+      "answer": "Hayır, akış şarkıları korumalıdır. Yalnızca kendi dosyalarınız güçlendirilebilir."
+    },
+    {
+      "question": "Bas daha güçlü duyulur mu?",
+      "answer": "Güçlendirme genel seviyeyi artırır, bas da yükselir. Cızırdarsa çarpanı düşürün."
+    }
+  ],
+  "related": [
+    "mp3-sesini-yukseltme-iphone",
+    "kalite-kaybetmeden-ses-yukseltme",
+    "podcast-sesli-kitap-sesi-dusuk"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

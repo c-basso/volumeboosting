@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "TikTok video sesini yükseltme",
+  "priority": 8,
+  "keywords": "TikTok video sesini yükseltme, TikTok orijinal ses kısık, Reels sesini artırma, TikTok ses düşük",
+  "title": "TikTok ve Reels Video Sesini Paylaşmadan Önce Yükseltin",
+  "description": "TikTok veya Reels videonuzda müzik sesinizi bastırıyor mu? Ses Yükseltici ile orijinal sesi yüklemeden önce 10 kata kadar güçlendirin, sonra müzik ekleyin.",
+  "h1": "TikTok ve Reels videosunun sesi nasıl yükseltilir",
+  "eyebrow": "TikTok",
+  "card_title": "TikTok sesini yükseltin",
+  "card_summary": "TikTok düzenleyicisi orijinal sesi en fazla %100 yapar. Dosyayı paylaşmadan önce güçlendirin, sesiniz müzikte kaybolmasın.",
+  "quick_answer": "TikTok videosunun sesini yükseltmek için yüklemeden *önce* güçlendirin: videoyu Fotoğraflar'dan Ses Yükseltici'ye paylaşın, ×3–×6 güçlendirin ve «Videoyu Kaydet»i seçin. Ardından yüksek sesli videoyu TikTok'a yükleyip müziği ekleyin. TikTok ve Instagram düzenleyicileri orijinal sesi en fazla %100 yapar.",
+  "intro": [
+    "TikTok, Instagram Reels ve YouTube Shorts Türkiye'de en çok kullanılan kısa video platformları. Bu uygulamaların düzenleyicileri sesinizi kısabilir ama %100'ün üzerine çıkaramaz.",
+    "Çözüm basit: yüklemeden önce video dosyasının kendisini yükseltin."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/tr/6.webp",
+    "alt": "«İNDİR VE PAYLAŞ Her Yerde» ekran görüntüsü: güçlendirilmiş dosya için iOS paylaşım ekranı",
+    "caption": "Yüksek sesli videoyu Fotoğraflar'a kaydedin, sonra TikTok'a veya Reels'e yükleyin."
+  },
+  "sections": [
+    {
+      "heading": "TikTok videosu neden sessiz duyulur",
+      "paragraphs": [
+        "Trend bir şarkı eklediğinizde uygulama orijinal sesinizi şarkıyla karıştırır. Sesiniz zaten kısıksa müzik onu tamamen bastırır. Platformlar yüklemede sesi dengeler ama çok sessiz bir konuşmayı kurtaramaz."
+      ]
+    },
+    {
+      "heading": "Doğru sıra: önce güçlendirme, sonra müzik",
+      "list": [
+        "Videoyu iPhone kamerasıyla çekin.",
+        "Ses Yükseltici'de sesi ×3–×6 güçlendirin.",
+        "Yüksek sesli videoyu TikTok, Instagram veya YouTube'a yükleyin.",
+        "Müziği ekleyip müzik seviyesini %20–30'a indirin."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Reels, Shorts ve diğer platformlar",
+      "paragraphs": [
+        "Tüm platformlarda kural aynı: önemli olan yüklenen dosyadaki seviyedir. Yüksek sesli dosyayı bir kez oluşturup her yerde kullanın. Yayınlanmış bir videonun sesi değiştirilemez; yüksek sesli sürümü yeniden paylaşmanız gerekir."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Adım adım: TikTok videosunun sesini yükseltin",
+    "intro": "Yaklaşık bir dakika.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Videoyu paylaşın",
+        "text": "Fotoğraflar → video → Paylaş → Ses Yükseltici."
+      },
+      {
+        "name": "Konuşma için ayarlayın",
+        "text": "«Ses kalitesini iyileştir»i açın, ×3–×6 seçin ve «Sesi güçlendir»e dokunun."
+      },
+      {
+        "name": "Kaydedin",
+        "text": "«İşlenmişi indir» → Videoyu Kaydet."
+      },
+      {
+        "name": "Yükleyin",
+        "text": "TikTok veya Instagram'da yeni videoyu seçip müziği düşük seviyede ekleyin."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "İpuçları",
+    "items": [
+      "Paylaşmadan önce kulaklıksız, telefon hoparlöründen dinleyin; çoğu kişi böyle izler.",
+      "Konuşma önemliyse otomatik altyazıyı da açın.",
+      "Aynı yüksek sesli dosyayı TikTok, Reels ve Shorts'ta kullanın."
+    ]
+  },
+  "faq": [
+    {
+      "question": "TikTok'ta orijinal ses %100'ün üzerine çıkarılabilir mi?",
+      "answer": "Hayır. TikTok düzenleyicisi orijinal sesi en fazla %100 yapar. Dosyayı yüklemeden önce güçlendirin."
+    },
+    {
+      "question": "Paylaşılmış videonun sesi değiştirilebilir mi?",
+      "answer": "Hayır. Yüksek sesli sürümü oluşturup yeniden paylaşmanız gerekir."
+    },
+    {
+      "question": "Reels ve Shorts için de çalışır mı?",
+      "answer": "Evet. Önemli olan dosyadaki ses seviyesi olduğu için aynı yöntem her platformda çalışır."
+    }
+  ],
+  "related": [
+    "iphone-video-sesi-nasil-yukseltilir",
+    "ekran-kaydi-sesi-dusuk-iphone",
+    "fotograflar-video-sesini-yukseltme"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

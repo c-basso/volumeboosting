@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "cách tăng âm lượng video trên iPhone",
+  "priority": 1,
+  "keywords": "cách tăng âm lượng video trên iPhone, làm video to hơn, video tiếng nhỏ, ứng dụng tăng âm lượng, khuếch đại âm thanh video",
+  "title": "Cách tăng âm lượng video trên iPhone (to hơn đến 10 lần)",
+  "description": "Làm video tiếng nhỏ trên iPhone to hơn trong một phút: Ảnh và iMovie làm được gì, dừng ở đâu, và cách tăng đến 10 lần với ứng dụng Tăng Âm Lượng Video.",
+  "h1": "Cách tăng âm lượng video trên iPhone",
+  "eyebrow": "Video",
+  "card_title": "Tăng âm lượng video",
+  "card_summary": "Ứng dụng Ảnh không tăng được âm lượng, iMovie dừng ở khoảng 500%. Cách đạt đến 10 lần chỉ với một thanh trượt.",
+  "quick_answer": "Để tăng âm lượng video trên iPhone, mở video trong Tăng Âm Lượng Video (miễn phí trên App Store), kéo thanh «Hệ số âm lượng» đến ×10, chạm «Tăng âm lượng», so sánh Gốc/Đã xử lý rồi chạm «Tải tệp đã xử lý». Bản sao to hơn được lưu vào Ảnh hoặc Tệp và phát to trên mọi thiết bị. Ứng dụng Ảnh không tăng được âm lượng; iMovie dừng ở khoảng 500%.",
+  "intro": [
+    "Quay lại một khoảnh khắc, gửi cho bạn bè và nhận được câu trả lời: «Chẳng nghe thấy gì cả.» Video tiếng nhỏ là một trong những vấn đề phổ biến nhất trên iPhone, vì cách khắc phục không nằm ở chỗ mọi người hay tìm. Nút âm lượng chỉ thay đổi độ to khi điện thoại phát, còn trình sửa của ứng dụng Ảnh không có điều chỉnh âm lượng.",
+    "Hướng dẫn này trình bày ba cách thực sự có trên iPhone, mỗi cách làm được gì và không làm được gì, rồi đến cách nhanh nhất: dùng Tăng Âm Lượng Video để khuếch đại âm thanh video đến 10 lần và lưu một tệp to hơn vĩnh viễn."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/2.webp",
+    "alt": "Ảnh chụp màn hình «Make video louder»: một ngón tay kéo thanh trượt hồng phía trên video trong Tăng Âm Lượng Video",
+    "caption": "Thanh trượt nằm ngay trên phần xem trước video. Kéo, nghe, lưu."
+  },
+  "sections": [
+    {
+      "heading": "Vì sao tăng âm lượng điện thoại không sửa được video",
+      "paragraphs": [
+        "Nút âm lượng của iPhone chỉ thay đổi độ to mà loa *của bạn* phát ra. Âm thanh bên trong tệp video vẫn giữ nguyên. Khi chia sẻ tệp, điện thoại người nhận cũng phát ở mức nhỏ như cũ. Cách khắc phục thật sự là nâng mức của rãnh âm thanh rồi lưu thành tệp mới. Đó chính là việc một ứng dụng tăng âm lượng video làm."
+      ]
+    },
+    {
+      "heading": "Cách 1: ứng dụng Ảnh (không tăng được âm lượng)",
+      "paragraphs": [
+        "Mở video trong Ảnh và chạm Sửa. Biểu tượng loa chỉ dùng để tắt tiếng clip; trên iPhone 16 trở lên, video có âm thanh không gian còn có Hòa âm để đổi cân bằng giữa giọng nói và nền. Cả hai đều không nâng âm lượng tổng thể. Nếu cả bản ghi đều nhỏ, ứng dụng Ảnh không giúp được."
+      ]
+    },
+    {
+      "heading": "Cách 2: iMovie (miễn phí, giới hạn khoảng 500%)",
+      "paragraphs": [
+        "iMovie có thể làm clip to hơn nhưng có hai giới hạn. Thanh trượt dừng ở khoảng 500% (5 lần), thường không đủ cho bản ghi từ đầu kia căn phòng. Ngoài ra phải tạo dự án và xuất lại toàn bộ video, với clip dài sẽ mất vài phút."
+      ],
+      "list": [
+        "Mở iMovie → Bắt đầu dự án mới → Phim, rồi chọn video.",
+        "Chạm clip trên dòng thời gian, chạm biểu tượng loa và kéo thanh âm lượng sang phải (tối đa khoảng 500%).",
+        "Chạm Xong → Chia sẻ → Lưu video và chờ xuất xong."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Cách 3: Tăng Âm Lượng Video (đến 10 lần, một thanh trượt, dưới một phút)",
+      "paragraphs": [
+        "Tăng Âm Lượng Video được làm ra đúng cho việc này. Ứng dụng mở mọi video từ Ảnh hoặc Tệp, có một thanh «Hệ số âm lượng» duy nhất đến ×10 (1000%), cho so sánh Gốc/Đã xử lý trước khi lưu và lưu kết quả qua bảng chia sẻ chuẩn của iOS. Ứng dụng cũng mở được tệp âm thanh như MP3 và bản ghi từ Ghi âm mà iMovie không mở được.",
+        "Mọi xử lý diễn ra trên iPhone. Không tải lên máy chủ, không cần tài khoản, video xuất ra không có hình mờ."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Từng bước: tăng âm lượng video với Tăng Âm Lượng Video",
+    "intro": "Khoảng một phút cho clip thông thường. Cần ứng dụng miễn phí từ App Store và video trong Ảnh hoặc Tệp.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Mở video trong ứng dụng",
+        "text": "Mở ứng dụng và thêm video từ Ảnh hoặc Tệp. Nhanh nhất: mở video trong Ảnh, chạm Chia sẻ và chọn Tăng Âm Lượng Video; dự án được tạo ngay."
+      },
+      {
+        "name": "Kiểm tra thông tin",
+        "text": "Ứng dụng hiển thị tên tệp, dung lượng và thời lượng để xác nhận đúng clip. Nếu chủ yếu là lời nói, bật «Cải thiện chất lượng âm thanh»."
+      },
+      {
+        "name": "Chọn mức tăng",
+        "text": "Kéo «Hệ số âm lượng». Video hơi nhỏ thì bắt đầu ×3–×5; gần như không nghe thấy thì lên đến ×10. Chạm «Tăng âm lượng lên ×N»."
+      },
+      {
+        "name": "So sánh Gốc và Đã xử lý",
+        "text": "Dùng công tắc dưới nút để chuyển giữa bản gốc và bản đã tăng. Nếu đoạn to bị rè, quay lại và giảm hệ số một nấc."
+      },
+      {
+        "name": "Tải về và chia sẻ",
+        "text": "Chạm «Tải tệp đã xử lý». Trong bảng chia sẻ, chọn Lưu video để bản to hơn vào Ảnh, chọn «Lưu vào Tệp», hoặc gửi thẳng qua Zalo, Messenger, AirDrop, Instagram."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Mẹo để có kết quả tốt nhất",
+    "items": [
+      "Tăng âm lượng *trước khi* đăng lên TikTok, Facebook, Instagram hay YouTube. Nền tảng cân bằng âm lượng khi tải lên nhưng không cứu được rãnh âm thanh quá nhỏ.",
+      "Nếu giữa lời nói nhỏ có một khoảnh khắc to đột ngột (tiếng cười, tiếng đóng cửa), chọn hệ số vừa phải (×3–×5) thay vì ×10 và bật «Cải thiện chất lượng âm thanh».",
+      "Tệp gốc không bị thay đổi. Ứng dụng luôn tạo tệp mới nên có thể thử nhiều mức.",
+      "Video quay khi micro bị che (ốp, ngón tay) sẽ vừa nhỏ vừa *ù*; tăng âm lượng sửa được độ to, không sửa được độ ù."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Có tăng âm lượng video trên iPhone mà không cần ứng dụng khác không?",
+      "answer": "Chỉ với iMovie, ứng dụng miễn phí của Apple, giúp clip to lên khoảng 500%. Ứng dụng Ảnh không tăng được âm lượng. Muốn hơn 5 lần hoặc nhanh hơn, hãy dùng Tăng Âm Lượng Video."
+    },
+    {
+      "question": "Tăng âm lượng có làm giảm chất lượng video không?",
+      "answer": "Hình ảnh hoàn toàn không đổi. Chỉ âm thanh được khuếch đại; nếu đẩy quá mức bản ghi vốn đã có đỉnh to, có thể nghe rè. Vì vậy ứng dụng có công tắc Gốc/Đã xử lý để nghe trước khi lưu."
+    },
+    {
+      "question": "Video gửi đi rồi có còn to không?",
+      "answer": "Có. Mức tăng nằm trong rãnh âm thanh của tệp nên phát ở mức mới trên mọi điện thoại, máy tính và mạng xã hội."
+    },
+    {
+      "question": "Dùng được với video tải về không?",
+      "answer": "Được, nếu tệp nằm trong Ảnh hoặc Tệp và không có bảo vệ bản quyền. Ứng dụng mở MP4 và MOV từ mọi nguồn."
+    }
+  ],
+  "related": [
+    "tang-am-luong-khong-giam-chat-luong",
+    "quay-man-hinh-iphone-tieng-nho",
+    "imovie-tang-am-luong-tren-500"
+  ],
+  "cta": {
+    "title": "Làm video của bạn to hơn ngay",
+    "text": "Tăng Âm Lượng Video miễn phí trên App Store. Chia sẻ video vào ứng dụng, kéo đến ×10 và chạm «Tải tệp đã xử lý»."
+  },
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

@@ -1,21 +1,21 @@
 {
   "meta": {
     "lang": "ca",
-    "title": "Pujar volum – Potència de so | Àudio i vídeo fins a ~10×",
-    "description": "Àudio o vídeo més fort a l'iPhone: fins a ~10× amb claredat i greus. Música, vídeos, podcasts i notes de veu. Al dispositiu. Prova gratuïta a l'App Store.",
-    "keywords": "pujar volum iPhone, augmentar volum, àudio més alt, vídeo amb poc so, amplificador de volum, potència de so, app iPhone, millorar àudio vídeo, Increase Volume",
+    "title": "Com pujar el volum d'un vídeo a l'iPhone – Augmenta Volum",
+    "description": "Fes vídeos, MP3 i gravacions de Notes de Veu fins a 10× més forts a l'iPhone. Augmenta Volum Vídeo amplifica el fitxer, manté el so clar i en desa una còpia.",
+    "keywords": "com pujar el volum d'un vídeo a l'iPhone, augmentar el volum, app per augmentar el volum, amplificador de volum, potenciador de so, MP3 més fort, àudio de WhatsApp fluix, gravació de pantalla fluixa, Notes de Veu més fort, Augmenta Volum Vídeo",
     "canonical": "https://volumeboosting.com/ca/",
-    "og_title": "Pujar volum – Potència de so",
-    "og_description": "Àudio o vídeo més fort a l'iPhone: fins a ~10× amb claredat i greus. Música, vídeos, podcasts i notes de veu. Al dispositiu. Prova gratuïta a l'App Store.",
+    "og_title": "Vídeos i àudio més forts a l'iPhone – fins a 10× més fort",
+    "og_description": "Vídeo, MP3 o nota de veu massa fluixos? Augmenta Volum Vídeo fa el fitxer mateix fins a 10× més fort; compares Original/Processat i deses una còpia més forta.",
     "og_image": "https://volumeboosting.com/ca/site_preview.png",
-    "og_image_alt": "Icona de l'app Increase Volume – Potència de so",
+    "og_image_alt": "Icona de l'app Augmenta Volum Vídeo",
     "og_url": "https://volumeboosting.com/ca/",
     "og_locale": "ca_ES",
     "twitter_url": "https://volumeboosting.com/ca/",
-    "twitter_title": "Pujar volum – Potència de so",
-    "twitter_description": "Àudio o vídeo més fort a l'iPhone: fins a ~10× amb claredat i greus. Música, vídeos, podcasts i notes de veu. Al dispositiu. Prova gratuïta a l'App Store.",
+    "twitter_title": "Vídeos i àudio més forts a l'iPhone – fins a 10× més fort",
+    "twitter_description": "Vídeo, MP3 o nota de veu massa fluixos? Augmenta Volum Vídeo fa el fitxer mateix fins a 10× més fort; compares Original/Processat i deses una còpia més forta.",
     "twitter_image": "https://volumeboosting.com/ca/site_preview.png",
-    "twitter_image_alt": "Icona de l'app Increase Volume – Potència de so"
+    "twitter_image_alt": "Icona de l'app Augmenta Volum Vídeo"
   },
   "header": {
     "app_name_suffix": "Potència de so per a iPhone",
@@ -45,7 +45,7 @@
     "footnote_item3": "música",
     "footnote_item4": "clips per a xarxes socials",
     "footnote_last_joiner": " i ",
-    "device_image_src": "/img/screenshots/1.webp",
+    "device_image_src": "/img/screenshots/ca/1.webp",
     "device_image_alt": "Increase Volume – Potència de so a l'iPhone — puja el volum d'àudio i vídeo",
     "cta_secondary_link": "Mira com funciona",
     "proof_aria": "Dades de l'app",
@@ -188,44 +188,61 @@
     "breadcrumb_home": "Inici",
     "faq": [
       {
-        "question": "Què és Increase Volume – Potència de so?",
-        "answer": "És una app per a iPhone (categoria «Música» a l'App Store) que reforça l'àudio i el vídeo importats fins a ~10× i permet desar un fitxer nou. Tot es processa al dispositiu. Serveix per a gravacions baixes, podcasts i clips; no per ometre els límits de maquinari d'iOS a tot l'àudio del sistema."
+        "question": "Com pujo el volum d'un vídeo a l'iPhone?",
+        "answer": "Obre Augmenta Volum Vídeo, importa el vídeo des de Fotos (o comparteix-lo amb l'app), arrossega «Multiplicació del volum» fins a ×10, toca «Reforça el volum», compara Original i Processat i toca «Descarrega el processat». La còpia més forta es desa a Fotos o Fitxers i sona fort a qualsevol dispositiu.",
+        "guide": "com-pujar-el-volum-d-un-video-a-l-iphone"
       },
       {
-        "question": "Com funciona Increase Volume – Potència de so?",
-        "answer": "Importes un vídeo, cançó o gravació (també des de Fotos), ajustes amb el control lliscant de reforç el volum, la claredat i els greus, previsualitzes en directe i deses el fitxer a l'iPhone o el comparteixes."
+        "question": "Per què els àudios de WhatsApp sonen tan fluix a l'iPhone?",
+        "answer": "Si tots sonen fluix, l'iPhone els reprodueix per l'auricular perquè tapes el sensor de proximitat: allunya el telèfon de la cara i apuja el volum mentre sona. Si només n'hi ha un, exporta'l (mantén premut → Reenvia → Comparteix), amplifica'l ×5–×10 a l'app i desa o envia la còpia més forta.",
+        "guide": "missatge-de-veu-whatsapp-fluix"
       },
       {
-        "question": "Increase Volume – Potència de so és millor que només pujar el volum de l'iPhone?",
-        "answer": "Resolen problemes diferents. El volum del sistema només fa la reproducció més alta en el moment. Aquesta app crea un fitxer permanentment més alt, útil quan la gravació en si és baixa o quan necessites enviar la versió reforçada."
+        "question": "Per què la meva gravació de pantalla sona fluix?",
+        "answer": "iOS grava el so de les apps a un nivell reduït, i encara més fluix amb el volum baix o amb auriculars Bluetooth. Desconnecta el Bluetooth i apuja el volum abans de la propera gravació. Una gravació existent l'amplifiques ×5–×10 amb Augmenta Volum Vídeo.",
+        "guide": "gravacio-de-pantalla-amb-so-fluix-iphone"
       },
       {
-        "question": "En què es diferencia Increase Volume de VLC o Audacity pel que fa al volum?",
-        "answer": "VLC i Audacity són eines potents orientades a escriptori, amb normalització o amplificació i molts controls. Increase Volume està feta per a iPhone: flux curt importar → lliscar → desar, sense editor de línia de temps a l'ordinador."
+        "question": "Com faig més forta una gravació de Notes de Veu?",
+        "answer": "«Millora la gravació» de Notes de Veu redueix el soroll però no fa el fitxer més fort. Comparteix la gravació amb l'app (⋯ → Comparteix → Increase Volume), activa «Millora la qualitat de l'àudio», amplifica ×5–×10 i desa el M4A més fort.",
+        "guide": "notes-de-veu-mes-fort"
       },
       {
-        "question": "Increase Volume serveix per a vídeo i per a àudio?",
-        "answer": "Sí. Pots reforçar vídeo amb banda sonora, pistes de música, podcasts, notes de veu i gravacions de pantalla, i després desar el resultat."
+        "question": "Puc fer més fort un MP3 a l'iPhone sense ordinador?",
+        "answer": "Sí. Afegeix l'MP3, M4A o WAV des de Fitxers, tria la multiplicació, escolta Original/Processat i toca «Descarrega el processat». La còpia més forta va a Fitxers; tot passa al telèfon.",
+        "guide": "com-pujar-el-volum-d-un-mp3"
       },
       {
-        "question": "El fitxer reforçat es desa al meu iPhone?",
-        "answer": "Sí. Després del processament, deses el fitxer més alt al dispositiu i el pots compartir com qualsevol altre fitxer multimèdia."
+        "question": "Puc pujar el volum d'un vídeo a l'app Fotos?",
+        "answer": "L'edició de Fotos només silencia, no apuja. Toca Comparteix → Increase Volume per amplificar el vídeo fins a ×10; la còpia més forta apareix a Fotos al costat de l'original.",
+        "guide": "pujar-volum-video-des-de-fotos"
       },
       {
-        "question": "Quant costa Increase Volume – Potència de so?",
-        "answer": "La fitxa de l'App Store mostra el preu actual i les compres dins de l'app. Les dades estructurades del lloc indiquen oferta gratuïta; verifica-ho sempre a Apple abans de citar-ho."
+        "question": "El so es distorsionarà si el faig més fort?",
+        "answer": "Només si els pics més forts passen del sostre digital. Una gravació fluixa té molt de marge. Comença amb ×3, escolta el moment més fort amb Original/Processat i puja mentre soni net. La imatge no canvia mai.",
+        "guide": "mes-fort-sense-perdre-qualitat"
       },
       {
-        "question": "Qui desenvolupa Increase Volume – Potència de so?",
-        "answer": "L'app la publica c-basso i es distribueix a través de l'App Store (ID 6741472421). El lloc del producte és volumeboosting.com."
+        "question": "Quina diferència hi ha amb el volum d'iMovie?",
+        "answer": "iMovie a l'iPhone s'atura cap al 500 % (5×) i demana un projecte i una exportació completa. Augmenta Volum Vídeo arriba a ×10 (1000 %), també obre fitxers d'àudio i té Original/Processat abans de desar.",
+        "guide": "imovie-volum-mes-de-500"
       },
       {
-        "question": "Com pujar el volum d'un vídeo que es sent molt baix a l'iPhone?",
-        "answer": "Amb Increase Volume – Potència de so, importa el vídeo (per exemple des de Fotos), ajusta el control lliscant amb vista prèvia i desa una còpia amb pista d'àudio més forta. Així millora el fitxer, no el volum del sistema mentre es reprodueix."
+        "question": "L'app fa més fort l'altaveu de l'iPhone?",
+        "answer": "No. Cap app pot superar el límit físic de l'altaveu ni canviar el volum de tot el sistema. L'app fa més fort el fitxer, cosa que ajuda quan la gravació mateixa és fluixa. Si tots els vídeos sonen fluix, revisa primer les causes de reproducció.",
+        "guide": "per-que-el-video-sona-fluix#reproduccio"
       },
       {
-        "question": "L'app puja el volum màxim de l'iPhone per a música i trucades?",
-        "answer": "No. Processa els fitxers que importes i ofereix una versió més forta per desar o compartir. El límit de maquinari i el volum global de Música, Spotify, trucades, etc. no canvien."
+        "question": "Quant costa Augmenta Volum Vídeo?",
+        "answer": "La descàrrega és gratuïta i inclou una prova gratuïta. L'amplificació il·limitada es desbloqueja amb una subscripció; els preus actuals en euros són a l'App Store. El processament sempre es fa al teu iPhone.",
+        "guide": "",
+        "learn_more_url": "__APP_STORE_URL__",
+        "learn_more_title": "Augmenta Volum Vídeo: descàrrega gratuïta i preus actuals a l'App Store"
+      },
+      {
+        "question": "Es pugen els meus fitxers a un servidor?",
+        "answer": "No. El processament es fa al teu iPhone, sense compte i sense pujar res. El resultat es desa amb el full per compartir d'iOS a Fotos, Fitxers o l'app que triïs.",
+        "guide": "mes-fort-sense-perdre-qualitat#privadesa"
       }
     ],
     "structured_data": {
@@ -325,37 +342,37 @@
     "aria": "Captures de l'app, desplaçament horitzontal",
     "items": [
       {
-        "src": "/img/screenshots/1.webp",
+        "src": "/img/screenshots/ca/1.webp",
         "alt": "Imatge promocional d'Increase Volume: amplificador de volum i de so, fins a deu vegades més fort",
         "caption": "Amplificador de volum i de so: fins a 10× més fort."
       },
       {
-        "src": "/img/screenshots/2.webp",
+        "src": "/img/screenshots/ca/2.webp",
         "alt": "Reproductor de vídeo a Increase Volume amb un dit arrossegant el control lliscant rosa per pujar el volum del vídeo",
         "caption": "Puja el volum d'un vídeo: arrossega el control sobre la previsualització."
       },
       {
-        "src": "/img/screenshots/3.webp",
+        "src": "/img/screenshots/ca/3.webp",
         "alt": "Increase Volume processant un fitxer MP3 amb el nom, la mida i la durada",
         "caption": "Puja el volum de la música: els MP3 i altres fitxers d'àudio es processen al dispositiu."
       },
       {
-        "src": "/img/screenshots/4.webp",
+        "src": "/img/screenshots/ca/4.webp",
         "alt": "Detalls de la pista amb l'interruptor «Millora la qualitat de l'àudio», el control «Multiplicació del volum ×10» i el botó «Reforça el volum a ×10»",
         "caption": "Tria quant vols reforçar, d'un toc suau fins a 10×."
       },
       {
-        "src": "/img/screenshots/5.webp",
+        "src": "/img/screenshots/ca/5.webp",
         "alt": "Pantalla de resultat amb el botó «Descarrega el processat» i el selector Original/Processat",
         "caption": "Escolta el resultat i compara'l amb l'original abans de desar."
       },
       {
-        "src": "/img/screenshots/6.webp",
+        "src": "/img/screenshots/ca/6.webp",
         "alt": "Full per compartir d'iOS amb Copia, Afegeix etiquetes i Desa a Fitxers per a l'àudio reforçat",
         "caption": "Descarrega i comparteix on vulguis: Fotos, Fitxers, Missatges, WhatsApp, AirDrop."
       },
       {
-        "src": "/img/screenshots/7.webp",
+        "src": "/img/screenshots/ca/7.webp",
         "alt": "Llista de projectes d'Increase Volume amb fitxers MP3 i MP4, la seva mida i durada",
         "caption": "Desa diversos projectes i reprèn-los més tard."
       }
@@ -376,5 +393,35 @@
     "title": "El teu fitxer baix, 10× més fort, en menys d'un minut.",
     "text": "Descarrega Increase Volume – Potència de so, importa el vídeo o àudio que ningú sent, arrossega el control lliscant i comparteix la versió a tot volum.",
     "note": "Descàrrega gratuïta · Requereix iOS 18.6 o posterior · 4,5★ a l'App Store"
+  },
+  "guides": {
+    "eyebrow": "Guies",
+    "title": "Arregla el so fluix a l'iPhone, cas per cas",
+    "intro": "Cada guia respon una pregunta que la gent busca de veritat, explica amb honestedat què poden fer i què no les eines d'iOS i mostra els passos exactes a Augmenta Volum Vídeo.",
+    "hub_link_text": "Totes les guies",
+    "read_more": "Llegeix la guia",
+    "hub": {
+      "title": "Guies: com pujar el volum a l'iPhone – vídeo, àudio i MP3",
+      "description": "Guies pas a pas per fer més forts vídeos, gravacions de Notes de Veu, MP3, gravacions de pantalla i àudios de WhatsApp a l'iPhone, amb iOS i amb l'app.",
+      "h1": "Guies: com fer més forts el vídeo i l'àudio a l'iPhone",
+      "intro": "Cada guia comença amb una resposta directa, repassa amb honestedat les opcions gratuïtes del sistema (Fotos, iMovie, Notes de Veu) i mostra com aconseguir fins a 10× més volum amb Augmenta Volum Vídeo.",
+      "keywords": "guies pujar volum iPhone, vídeo més fort, MP3 més fort, àudio de WhatsApp fluix, gravació de pantalla fluixa"
+    },
+    "labels": {
+      "home": "Inici",
+      "guides": "Guies",
+      "breadcrumb_aria": "Ruta de navegació",
+      "updated": "Actualitzat",
+      "reading_time": "3–4 min de lectura",
+      "quick_answer": "Resposta ràpida",
+      "faq_heading": "Més preguntes freqüents",
+      "related": "Guies relacionades",
+      "all_guides": "Totes les guies",
+      "disclaimer": "Augmenta Volum Vídeo amplifica el so d'un fitxer i desa una còpia nova. No pot superar el límit físic de l'altaveu de l'iPhone ni canviar el volum de tot el sistema."
+    },
+    "default_cta": {
+      "title": "Fes-ho amb Augmenta Volum Vídeo",
+      "text": "Gratis a l'App Store. Importa, arrossega el control fins a ×10 i toca «Descarrega el processat»."
+    }
   }
 }

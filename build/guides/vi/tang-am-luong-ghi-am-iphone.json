@@ -1,0 +1,94 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "tăng âm lượng file ghi âm iPhone",
+  "priority": 4,
+  "keywords": "tăng âm lượng file ghi âm iPhone, ghi âm iPhone nhỏ, làm file ghi âm to hơn, ghi âm bài giảng nhỏ",
+  "title": "Cách tăng âm lượng file Ghi âm trên iPhone (đến 10 lần)",
+  "description": "«Cải thiện bản ghi» trong Ghi âm giảm tạp âm nhưng không làm to hơn. Làm file ghi âm bài giảng hay cuộc họp to hơn đến 10 lần với ứng dụng Tăng Âm Lượng Video.",
+  "h1": "Cách tăng âm lượng file Ghi âm trên iPhone",
+  "eyebrow": "Ghi âm",
+  "card_title": "File ghi âm nhỏ",
+  "card_summary": "Bài giảng, cuộc họp, phỏng vấn: làm bản ghi nhỏ trở nên nghe rõ.",
+  "quick_answer": "«Cải thiện bản ghi» trong ứng dụng Ghi âm giảm tạp âm nền nhưng không làm bản ghi to hơn. Để tăng âm lượng, mở bản ghi, chạm … → Chia sẻ → Tăng Âm Lượng Video, bật «Cải thiện chất lượng âm thanh», tăng ×2–×6 rồi lưu bản to hơn vào Tệp.",
+  "intro": [
+    "Bài giảng ghi từ hàng ghế cuối, cuộc họp ghi từ đầu kia bàn, buổi phỏng vấn: bản ghi từ ứng dụng Ghi âm thường rất nhỏ. Ngay cả khi điện thoại bật hết cỡ, lời nói vẫn khó nghe.",
+    "Hướng dẫn này cho biết Ghi âm tự làm được gì và cách làm chính tệp to hơn đến 10 lần."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Thông tin rãnh trong Tăng Âm Lượng Video: bật «Cải thiện chất lượng âm thanh», thanh «Hệ số âm lượng ×10»",
+    "caption": "Với lời nói, bật cải thiện và bắt đầu ở mức tăng vừa phải."
+  },
+  "sections": [
+    {
+      "heading": "«Cải thiện bản ghi» làm gì",
+      "paragraphs": [
+        "Khi sửa một bản ghi trong Ghi âm và chạm biểu tượng đũa thần, ứng dụng giảm tạp âm nền như quạt, xe cộ và tiếng vang. Tính năng hữu ích nhưng không nâng âm lượng tổng thể. Bản ghi nhỏ sẽ sạch hơn nhưng vẫn nhỏ."
+      ]
+    },
+    {
+      "heading": "Âm lượng phát và âm lượng tệp",
+      "paragraphs": [
+        "Nút âm lượng của iPhone chỉ thay đổi lúc phát. Gửi bản ghi cho giảng viên, đồng nghiệp hay dịch vụ chép lời, họ vẫn nghe ở mức nhỏ như cũ. Tăng âm lượng ngay trong tệp thì ai nghe cũng rõ."
+      ]
+    },
+    {
+      "heading": "Từ Ghi âm sang Tăng Âm Lượng Video",
+      "paragraphs": [
+        "Trong Ghi âm, chạm bản ghi, chạm … (Thêm) → Chia sẻ và chọn Tăng Âm Lượng Video. Bản ghi được nhập dưới dạng tệp .m4a. Sau khi tăng, bản to hơn được lưu vào Tệp, còn bản gốc vẫn ở trong Ghi âm, không thay đổi."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Từng bước: làm file ghi âm to hơn",
+    "intro": "Khoảng một phút.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Chia sẻ bản ghi",
+        "text": "Ghi âm → bản ghi → … → Chia sẻ → Tăng Âm Lượng Video."
+      },
+      {
+        "name": "Cải thiện giọng nói",
+        "text": "Bật «Cải thiện chất lượng âm thanh»."
+      },
+      {
+        "name": "Chọn mức tăng",
+        "text": "Ghi gần dùng ×2–×3, ghi từ đầu kia phòng dùng ×4–×6. Chạm «Tăng âm lượng» và so sánh với bản gốc."
+      },
+      {
+        "name": "Lưu",
+        "text": "«Tải tệp đã xử lý» → Lưu vào Tệp."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Mẹo",
+    "items": [
+      "Dùng «Cải thiện bản ghi» trước rồi mới tăng âm lượng: bản ghi sạch nghe hay hơn khi to lên.",
+      "Trong lớp học, đặt điện thoại trên bàn với micro hướng về người nói.",
+      "Tăng âm lượng trước khi chép lời giúp giảm lỗi."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Ứng dụng Ghi âm có tùy chọn tăng âm lượng không?",
+      "answer": "Không. «Cải thiện bản ghi» chỉ giảm tạp âm. Để tăng âm lượng cần một ứng dụng như Tăng Âm Lượng Video."
+    },
+    {
+      "question": "Bản ghi gốc có bị thay đổi không?",
+      "answer": "Không. Ứng dụng tạo bản sao mới; bản gốc vẫn nằm trong Ghi âm."
+    },
+    {
+      "question": "Nên tăng bao nhiêu?",
+      "answer": "Thường ×2–×6. Nếu nghe rè, giảm một nấc."
+    }
+  ],
+  "related": [
+    "tin-nhan-thoai-zalo-nho",
+    "podcast-sach-noi-tieng-nho",
+    "tang-am-luong-mp3-iphone"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

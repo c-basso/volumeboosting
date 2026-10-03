@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "missatge de veu de WhatsApp fluix",
+  "priority": 2,
+  "keywords": "missatge de veu de WhatsApp fluix, àudios de WhatsApp fluixos iPhone, com pujar el volum d'un àudio, no se sent l'àudio de WhatsApp, volum missatge de veu",
+  "title": "Àudio de WhatsApp fluix a l'iPhone? Com fer-lo més fort",
+  "description": "No sents els àudios de WhatsApp a l'iPhone? Revisa l'auricular i el sensor de proximitat i fes un missatge fluix fins a 10× més fort amb Augmenta Volum Vídeo.",
+  "h1": "Àudio de WhatsApp fluix a l'iPhone: causes i solució",
+  "eyebrow": "Missatges de veu",
+  "card_title": "Àudio de WhatsApp fluix",
+  "card_summary": "Tots fluixos? És el sensor de proximitat. Només un? Exporta'l, amplifica'l ×5–×10 i envia la còpia més forta.",
+  "quick_answer": "Si tots els àudios de WhatsApp sonen fluix, l'iPhone els reprodueix per l'auricular perquè tapes el sensor de proximitat: allunya el telèfon de la cara i apuja el volum mentre sona. Si només n'hi ha un de fluix, mantén-lo premut → Reenvia → icona Comparteix → Desa a Fitxers, obre el fitxer a Augmenta Volum Vídeo, amplifica'l ×5–×10 i desa o envia la còpia més forta.",
+  "intro": [
+    "Els àudios es graven ràpid, però costa escoltar-los quan qui l'envia ha parlat fluix, ha aguantat el telèfon lluny o ha gravat en un carrer amb soroll. WhatsApp no té cap control de volum per a un sol missatge.",
+    "Aquesta guia separa els dos casos —tots els àudios fluixos (una configuració de reproducció) i un de sol fluix (la gravació mateixa)— i mostra com fer més fort un missatge de veu per sempre."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/ca/6.webp",
+    "alt": "Captura de la botiga (titular en castellà «Descargue y comparta dondequiera»): full per compartir d'iOS per a l'àudio reforçat",
+    "caption": "Després d'amplificar, envia la còpia més forta a WhatsApp o desa-la a Fitxers."
+  },
+  "sections": [
+    {
+      "heading": "Tots els àudios sonen fluix? Revisa la reproducció",
+      "paragraphs": [
+        "Quan apropes l'iPhone a l'orella, o tapes la part de dalt amb la mà, WhatsApp passa de l'altaveu al petit auricular de trucades. Sona molt més fluix. Aguanta el telèfon pla davant teu i prem apujar el volum mentre sona el missatge; el volum multimèdia és independent del del timbre.",
+        "Si fas servir AirPods o un altre aparell Bluetooth, el so hi pot anar. Obre el Centre de control i comprova la sortida d'àudio. Si el nivell als auriculars està limitat, revisa Configuració › Sons i vibracions › Seguretat dels auriculars."
+      ]
+    },
+    {
+      "heading": "Només n'hi ha un de fluix? És la gravació",
+      "paragraphs": [
+        "Si els altres àudios sonen bé, el problema és al fitxer: qui l'ha enviat ha gravat amb un nivell baix. Els botons de volum no ho poden arreglar. La solució és exportar el fitxer d'àudio, pujar-ne el nivell i fer servir la versió nova."
+      ]
+    },
+    {
+      "heading": "Com exportar un àudio de WhatsApp",
+      "paragraphs": [
+        "WhatsApp desa els àudios com a fitxers Opus. Els treus amb el full per compartir:"
+      ],
+      "list": [
+        "Mantén premut el missatge de veu al xat.",
+        "Toca Reenvia i després la icona Comparteix a baix a la dreta.",
+        "Tria Desa a Fitxers, o directament Increase Volume si l'app apareix al full."
+      ],
+      "ordered": true,
+      "note": "Els noms dels menús poden variar una mica entre versions de WhatsApp."
+    }
+  ],
+  "steps": {
+    "heading": "Fes més fort un àudio de WhatsApp amb Augmenta Volum Vídeo",
+    "intro": "Uns 30 segons per missatge quan el fitxer ja és a Fitxers.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Importa l'àudio",
+        "text": "Obre Augmenta Volum Vídeo i afegeix el fitxer des de Fitxers, o comparteix-lo directament des de WhatsApp a Increase Volume."
+      },
+      {
+        "name": "Activa «Millora la qualitat de l'àudio»",
+        "text": "La veu s'entén millor amb la millora activada; destaca la veu sobre el fons."
+      },
+      {
+        "name": "Amplifica ×5–×10",
+        "text": "Arrossega «Multiplicació del volum». Les gravacions fluixes de mòbil sovint aguanten ×6–×10. Toca «Reforça el volum a ×N»."
+      },
+      {
+        "name": "Escolta i desa",
+        "text": "Alterna Original i Processat, toca «Descarrega el processat» i desa a Fitxers o envia la còpia més forta a WhatsApp."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consells",
+    "items": [
+      "A la feina o al cotxe de vegades és més ràpid demanar un àudio nou; per a coses importants (adreces, xifres) és més segur amplificar-lo.",
+      "El vent i el soroll del cotxe també s'amplifiquen. Prova ×4 abans de ×10 i escolta si hi ha soroll de fons.",
+      "El fitxer amplificat es pot enviar com a àudio a qualsevol app de xat, també Telegram o Signal."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Per què els àudios de WhatsApp sonen tan fluix a l'iPhone?",
+      "answer": "Normalment perquè el sensor de proximitat passa a l'auricular quan el telèfon és a prop de la cara. Allunya'l i apuja el volum multimèdia mentre sona."
+    },
+    {
+      "question": "Puc pujar el volum d'un sol àudio a WhatsApp?",
+      "answer": "Dins de WhatsApp no. Exporta el missatge amb Reenvia → Comparteix, amplifica'l a Augmenta Volum Vídeo i fes servir la còpia més forta."
+    },
+    {
+      "question": "Es perd qualitat en amplificar un àudio?",
+      "answer": "La veu es fa més forta sense artefactes nous, però el soroll de fons que ja hi havia també puja. Comença amb moderació i puja mentre compares Original i Processat."
+    }
+  ],
+  "related": [
+    "notes-de-veu-mes-fort",
+    "com-pujar-el-volum-d-un-mp3",
+    "podcast-audiollibre-fluix-iphone"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

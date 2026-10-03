@@ -1,0 +1,113 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "pòdcast fluix a l'iPhone",
+  "priority": 12,
+  "keywords": "pòdcast fluix a l'iPhone, audiollibre fluix, com pujar el volum d'un pòdcast, augmentar el volum d'un audiollibre iPhone, app Podcasts so fluix",
+  "title": "Pòdcast o audiollibre fluix a l'iPhone? Com apujar-los",
+  "description": "El pòdcast o l'audiollibre sona fluix? Revisa els ajustos de Podcasts i dels auriculars, i fes els episodis MP3 i M4A descarregats fins a 10× més forts.",
+  "h1": "Pòdcast o audiollibre fluix a l'iPhone: les solucions",
+  "eyebrow": "Pòdcasts",
+  "card_title": "Pòdcast fluix",
+  "card_summary": "Els ajustos de Podcasts i com amplificar episodis MP3 descarregats i audiollibres sense DRM.",
+  "quick_answer": "Si un pòdcast sona fluix a l'app Podcasts, activa el realç de la veu al costat del botó de velocitat i revisa la Seguretat dels auriculars a Sons i vibracions. Si tens l'episodi o l'audiollibre com a fitxer MP3 o M4A sense DRM, obre'l a Augmenta Volum Vídeo, activa «Millora la qualitat de l'àudio», amplifica'l ×3–×8 i desa la còpia més forta a Fitxers.",
+  "intro": [
+    "Les entrevistes gravades per telèfon, els convidats amb mal micròfon i els audiollibres antics sovint sonen més fluix que la resta del que escoltes. A l'autobús o al cotxe, la veu es perd entre el soroll.",
+    "Hi ha dues solucions: ajustos de reproducció per al contingut en streaming i amplificar el fitxer quan el tens."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/ca/7.webp",
+    "alt": "Captura de la llista de projectes amb fitxers MP3 i vídeos",
+    "caption": "Desa diversos episodis com a projectes i torna-hi més tard."
+  },
+  "sections": [
+    {
+      "heading": "A l'app Podcasts",
+      "paragraphs": [
+        "Mentre reprodueixes, toca el botó de velocitat i activa el realç de la veu. Abaixa el fons i destaca la parla. Comprova també que la reducció de sons forts de Seguretat dels auriculars no limiti el nivell."
+      ],
+      "note": "Els noms poden variar entre versions d'iOS; comprova-ho al teu iPhone."
+    },
+    {
+      "heading": "Audiollibres i fitxers descarregats",
+      "paragraphs": [
+        "Els audiollibres d'Audible, Storytel o Apple Books estan protegits i no es poden obrir com a fitxers. Els audiollibres MP3 propis, els episodis de canals RSS i les gravacions sense DRM sí que es poden amplificar."
+      ]
+    },
+    {
+      "heading": "Què va bé per a què",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "Origen",
+          "Solució"
+        ],
+        "rows": [
+          [
+            "App Podcasts (streaming)",
+            "Realç de la veu, ajustos dels auriculars"
+          ],
+          [
+            "Spotify / Storytel / Audible",
+            "Ajustos de cada app"
+          ],
+          [
+            "MP3/M4A sense DRM",
+            "Augmenta Volum Vídeo, fins a 10×"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Amplifica un episodi o un audiollibre",
+    "intro": "Per a fitxers a Fitxers.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Importa el fitxer",
+        "text": "Obre l'app i tria l'MP3 o M4A a Fitxers."
+      },
+      {
+        "name": "Activa «Millora la qualitat de l'àudio»",
+        "text": "Les veus queden més clares."
+      },
+      {
+        "name": "Amplifica",
+        "text": "Arrossega «Multiplicació del volum» fins a ×3–×8 i toca «Reforça el volum a ×N»."
+      },
+      {
+        "name": "Desa",
+        "text": "«Descarrega el processat» → Desa a Fitxers, i escolta'l en una app que obri fitxers."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consells",
+    "items": [
+      "Els fitxers llargs triguen més; deixa l'app oberta fins que acabi.",
+      "La veu aguanta més multiplicació que la música.",
+      "Si l'entrevista té una veu forta i una de fluixa, tria un nivell en què la forta no soni trencada."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Per què alguns pòdcasts sonen més fluix que d'altres?",
+      "answer": "Cada productor mescla a un nivell diferent, i les entrevistes per telèfon solen ser fluixes."
+    },
+    {
+      "question": "Puc fer més fort un audiollibre de Storytel amb l'app?",
+      "answer": "No. Els audiollibres protegits no es poden obrir com a fitxers."
+    },
+    {
+      "question": "Quins fitxers funcionen?",
+      "answer": "MP3, M4A i WAV sense DRM des de Fitxers."
+    }
+  ],
+  "related": [
+    "com-pujar-el-volum-d-un-mp3",
+    "notes-de-veu-mes-fort",
+    "musica-fluixa-iphone"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

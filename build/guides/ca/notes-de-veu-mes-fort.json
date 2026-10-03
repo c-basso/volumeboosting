@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "com pujar el volum d'una gravació de Notes de Veu",
+  "priority": 4,
+  "keywords": "com pujar el volum d'una gravació de Notes de Veu, gravació de veu fluixa iPhone, augmentar el volum d'un àudio gravat, gravació de classe fluixa, amplificar gravació de veu",
+  "title": "Com pujar el volum d'una gravació de Notes de Veu a l'iPhone",
+  "description": "«Millora la gravació» de Notes de Veu no fa el fitxer més fort. Com exportar la gravació, amplificar-la fins a 10× amb l'app i desar un M4A més fort a Fitxers.",
+  "h1": "Com pujar el volum d'una gravació de Notes de Veu a l'iPhone",
+  "eyebrow": "Notes de Veu",
+  "card_title": "Notes de Veu més fortes",
+  "card_summary": "«Millora la gravació» treu soroll però no puja el volum. Així fas més fort el fitxer mateix.",
+  "quick_answer": "Notes de Veu no té control de volum per al fitxer; «Millora la gravació» només redueix el soroll en reproduir. Per fer la gravació més forta: toca ⋯ a la gravació → Comparteix → Increase Volume, activa «Millora la qualitat de l'àudio», amplifica ×5–×10, compara Original i Processat i toca «Descarrega el processat». El M4A més fort es pot desar a Fitxers o compartir.",
+  "intro": [
+    "Classes, reunions, entrevistes i idees es graven sovint amb Notes de Veu des d'un telèfon deixat a la taula. El resultat sol ser massa fluix, sobretot quan qui parla és lluny.",
+    "Aquesta guia explica què fan de veritat les opcions de Notes de Veu i com crear una còpia més forta de la gravació per sempre."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/ca/4.webp",
+    "alt": "Captura de la botiga (titular en castellà «Seleccione la cantidad de aumento»): millora de qualitat d'àudio i control de multiplicació ×10",
+    "caption": "Per a veu: activa «Millora la qualitat de l'àudio» i tria la multiplicació."
+  },
+  "sections": [
+    {
+      "heading": "Què fa «Millora la gravació» i què no",
+      "paragraphs": [
+        "A Notes de Veu, en editar hi ha l'opció «Millora la gravació» (icona de vareta màgica). Redueix el soroll de fons i el ressò, però no puja de manera notable el nivell del fitxer. Si comparteixes la gravació, és tan fluixa com abans."
+      ]
+    },
+    {
+      "heading": "Volum de reproducció o volum del fitxer",
+      "paragraphs": [
+        "Els botons de volum només afecten el teu altaveu. Si un company, un servei de transcripció o un programa d'edició han de rebre un senyal clar, el fitxer mateix ha de ser més fort. Això fa Augmenta Volum Vídeo: multiplica el nivell del so i desa un M4A nou."
+      ]
+    },
+    {
+      "heading": "Com compartir una gravació de Notes de Veu",
+      "paragraphs": [],
+      "list": [
+        "Obre Notes de Veu i toca la gravació.",
+        "Toca ⋯ (Més) i tria Comparteix.",
+        "Tria Increase Volume al full, o Desa a Fitxers per obrir-la més tard."
+      ],
+      "ordered": true
+    }
+  ],
+  "steps": {
+    "heading": "Pas a pas: amplifica una gravació de Notes de Veu",
+    "intro": "Menys d'un minut per a una gravació de pocs minuts.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Comparteix la gravació",
+        "text": "A Notes de Veu: ⋯ → Comparteix → Increase Volume. L'app mostra el nom, la mida i la durada del fitxer."
+      },
+      {
+        "name": "Activa «Millora la qualitat de l'àudio»",
+        "text": "La veu queda més clara alhora que s'amplifica."
+      },
+      {
+        "name": "Amplifica",
+        "text": "Arrossega «Multiplicació del volum» fins a ×5–×10 i toca «Reforça el volum a ×N»."
+      },
+      {
+        "name": "Compara i desa",
+        "text": "Escolta Original i Processat, toca «Descarrega el processat» i tria Desa a Fitxers."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consells per a la veu",
+    "items": [
+      "La propera vegada, posa el telèfon amb el micròfon (part de baix) cap a qui parla; ajuda més que qualsevol amplificació.",
+      "Aplaudiments o riures a prop del telèfon creen pics. Fes servir ×4–×6 i revisa els trossos més forts.",
+      "Un fitxer més fort sol donar millors resultats a les eines de transcripció."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Puc pujar el volum a Notes de Veu sense una altra app?",
+      "answer": "No. Notes de Veu pot retallar, substituir i millorar, però no té amplificació de volum del fitxer."
+    },
+    {
+      "question": "En quin format es desa el fitxer amplificat?",
+      "answer": "Els fitxers d'àudio es desen com un fitxer de so nou (M4A per a les gravacions de Notes de Veu), que pots desar a Fitxers o compartir."
+    },
+    {
+      "question": "També puja el soroll de fons?",
+      "answer": "Sí, s'amplifica tot el que hi ha a la gravació. «Millora la qualitat de l'àudio» ajuda que la veu destaqui."
+    }
+  ],
+  "related": [
+    "missatge-de-veu-whatsapp-fluix",
+    "podcast-audiollibre-fluix-iphone",
+    "com-pujar-el-volum-d-un-mp3"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

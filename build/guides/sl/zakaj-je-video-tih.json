@@ -1,0 +1,105 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "zakaj je video na iPhonu tih",
+  "priority": 7,
+  "keywords": "zakaj je video na iPhonu tih, tih zvok videa iPhone, video brez zvoka iPhone, tih zvočnik iPhone, video se predvaja tiho",
+  "title": "Zakaj je moj video na iPhonu tako tih? 7 vzrokov in rešitve",
+  "description": "Tih zvok v videu z iPhona? Ugotovi, ali je kriv predvajalnik (utišan zvok, Bluetooth, varnost slušalk) ali sam posnetek, in kako rešiš vsak primer posebej.",
+  "h1": "Zakaj je moj video na iPhonu tako tih?",
+  "eyebrow": "Odpravljanje težav",
+  "card_title": "Zakaj je video tih?",
+  "card_summary": "Sedem vzrokov za tih zvok: štirje pri predvajanju, trije v posnetku, in rešitev za vsakega.",
+  "quick_answer": "Če so tihi vsi videi, je težava pri predvajanju: preveri, ali video ni utišan, ali ni povezan Bluetooth, Varnost slušalk v Zvokih in haptiki ter ali je zvočnik čist. Če je tih le en video, je težava v posnetku: oseba je bila daleč, mikrofon je bil pokrit ali se je zvok posnel tiho. Takrat datoteko ojači z Increase Volume, do 10×.",
+  "intro": [
+    "Vprašanje „zakaj je video tako tih?“ ima dva odgovora in dobro je vedeti, kateri velja zate, preden kaj spremeniš. Preizkus: predvajaj drug video. Če je tudi ta tih, gre za telefon. Če zveni normalno, gre za datoteko.",
+    "Tukaj je sedem najpogostejših vzrokov, razdeljenih v ti dve skupini."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/1.webp",
+    "alt": "Promocijska slika Increase Volume: ojačevalnik glasnosti in zvoka, do desetkrat glasneje",
+    "caption": "Ko je tih sam posnetek, aplikacija datoteko ojača do 10×."
+  },
+  "sections": [
+    {
+      "id": "predvajanje",
+      "heading": "Vzroki pri predvajanju (vsi videi tihi)",
+      "paragraphs": [],
+      "list": [
+        "Video je utišan: tapni ikono zvočnika v predvajalniku Fotografij.",
+        "Zvok gre v Bluetooth: morda so povezane AirPods ali avtoradio; preveri izhod zvoka v Nadzornem središču.",
+        "Varnost slušalk: Nastavitve › Zvoki in haptika › Varnost slušalk › Zmanjšaj glasne zvoke omejuje raven.",
+        "Zamašen zvočnik: prah ali vlakna v mrežici dušijo zvok; očisti jo z mehko, suho ščetko."
+      ],
+      "ordered": true,
+      "note": "Nobena aplikacija ne more preseči fizične meje zvočnika ali spremeniti glasnosti celotnega sistema."
+    },
+    {
+      "heading": "Vzroki v posnetku (tih en video)",
+      "paragraphs": [],
+      "list": [
+        "Razdalja: govorec je bil daleč od mikrofona.",
+        "Pokrit mikrofon: ovitek, prst ali žep so zadušili zvok.",
+        "Posnetek zaslona ali prenos: iOS ali izvorna aplikacija sta dala zvok na nizki ravni."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Rešitev, ko je tih posnetek",
+      "paragraphs": [
+        "Ne moreš ojačati nečesa, kar ni bilo posneto dovolj glasno, lahko pa dvigneš raven v datoteki. Increase Volume pomnoži zvočni posnetek do 10× in shrani nov video. Ta je glasen povsod, tudi pri tistih, ki jim ga pošlješ."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Naredi tih video glasnejši",
+    "intro": "Ko je preizkus pokazal, da je težava v datoteki.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Deli video z aplikacijo",
+        "text": "Odpri video v Fotografijah → Deli → Increase Volume."
+      },
+      {
+        "name": "Ojači",
+        "text": "Premakni „Množitelj glasnosti“ (×3–×10) in tapni „Ojači glasnost na ×N“."
+      },
+      {
+        "name": "Primerjaj",
+        "text": "Poslušaj z Izvirnik/Obdelano; ob hreščanju zmanjšaj."
+      },
+      {
+        "name": "Shrani",
+        "text": "Tapni „Prenesi obdelano“ → Shrani video."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Kako se izogniti tihim videom",
+    "items": [
+      "Prste drži stran od odprtin mikrofona spodaj in ob kameri.",
+      "Približaj se govorcu; razdalja hitro zniža raven.",
+      "Pred pomembnim trenutkom naredi petsekundni poskusni posnetek."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Zakaj moj video sploh nima zvoka?",
+      "answer": "Preveri, ali zvok ni izklopljen pri urejanju v Fotografijah in ali zvoka ne prevzema naprava Bluetooth. Če posnetek nima zvočnega zapisa, ga ni mogoče ojačati."
+    },
+    {
+      "question": "Ali aplikacija naredi zvočnik iPhona glasnejši?",
+      "answer": "Ne. Naredi glasnejšo datoteko. Maksimum zvočnika je fizičen in ga nobena aplikacija ne preseže."
+    },
+    {
+      "question": "Zakaj so videi drugih ljudi tihi?",
+      "answer": "Posneti ali izvoženi so bili tiho. Ojači datoteko in predvajala se bo glasno."
+    }
+  ],
+  "related": [
+    "kako-povecati-glasnost-videa-na-iphonu",
+    "tih-posnetek-zaslona-iphone",
+    "glasnost-videa-v-fotografijah"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

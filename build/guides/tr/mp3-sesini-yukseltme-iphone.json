@@ -1,0 +1,132 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "MP3 sesini yükseltme iPhone",
+  "priority": 6,
+  "keywords": "MP3 sesini yükseltme, MP3 ses artırma, bilgisayarsız MP3 sesi açma, iPhone MP3 sesi yükseltici",
+  "title": "iPhone'da Bilgisayarsız MP3 Sesini Yükseltme (10 Kat)",
+  "description": "Bilgisayar veya site olmadan iPhone'da MP3, M4A ve WAV dosyalarını 10 kata kadar yükseltin. Ses Yükseltici dosyayı Dosyalar'dan açıp yeni dosya kaydeder.",
+  "h1": "iPhone'da MP3 sesi nasıl yükseltilir",
+  "eyebrow": "MP3",
+  "card_title": "MP3 sesini yükseltin",
+  "card_summary": "MP3'ü Dosyalar'dan açın, güçlendirin, yeni dosya olarak kaydedin. Yükleme yok, bilgisayar yok.",
+  "quick_answer": "iPhone'da MP3 sesini yükseltmek için Ses Yükseltici'yi açın, MP3'ü Dosyalar'dan içe aktarın, «Ses çarpanı»nı ×2–×10'a çekin, «Sesi güçlendir»e dokunun ve «İşlenmişi indir» → Dosyalar'a Kaydet'i seçin. Her şey iPhone'da gerçekleşir.",
+  "intro": [
+    "Sessiz bir MP3 için genelde bilgisayarda Audacity kullanmanız ya da dosyayı bir siteye yüklemeniz önerilir. iPhone'da buna gerek yok; özel kayıtları bilinmeyen bir sunucuya yüklememek de daha iyidir.",
+    "Bu rehber hangi dosyaların çalıştığını, ne kadar güçlendirileceğini ve tüm adımları gösterir."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/tr/3.webp",
+    "alt": "Ses Yükseltici bir MP3 dosyasını işliyor; dosya adı, boyutu ve süresi görünüyor",
+    "caption": "Dosya bilgileri güçlendirmeden önce doğru dosyayı seçtiğinizi doğrular."
+  },
+  "sections": [
+    {
+      "heading": "iPhone neden MP3'ü kendi başına güçlendirmez",
+      "paragraphs": [
+        "Dosyalar uygulaması MP3 çalar ama düzenlemez. GarageBand dosyayı açabilir, ancak parça sesi 0 dB'de durur ve dışa aktarma birçok adım ister. Ses Yükseltici tek bir iş yapar: dosyanın seviyesini yükseltip yeni bir kopya kaydetmek."
+      ]
+    },
+    {
+      "heading": "Hangi dosyalar çalışır",
+      "table": {
+        "head": [
+          "Biçim",
+          "Destek",
+          "Not"
+        ],
+        "rows": [
+          [
+            "MP3",
+            "Evet",
+            "En yaygın"
+          ],
+          [
+            "M4A / AAC",
+            "Evet",
+            "Sesli Notlar, iTunes"
+          ],
+          [
+            "WAV",
+            "Evet",
+            "Büyük dosyalar"
+          ],
+          [
+            "OPUS",
+            "Evet",
+            "WhatsApp sesli mesajları"
+          ],
+          [
+            "MP4 / MOV",
+            "Evet",
+            "Video; ses parçası güçlendirilir"
+          ],
+          [
+            "DRM korumalı",
+            "Hayır",
+            "Apple Music, Spotify indirmeleri"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Ne kadar güçlendirmeli",
+      "list": [
+        "Müzik: ×2–×4",
+        "Podcast, konuşma: ×3–×6",
+        "Çok sessiz kayıt: ×6–×10"
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Adım adım: MP3'ü yükseltin",
+    "intro": "Yaklaşık bir dakika.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "MP3'ü içe aktarın",
+        "text": "Ses Yükseltici'de + simgesine dokunup dosyayı Dosyalar'dan seçin ya da Dosyalar'da dosyaya basılı tutun → Paylaş → Ses Yükseltici."
+      },
+      {
+        "name": "Çarpanı seçin",
+        "text": "Yukarıdaki tabloya göre kaydırıcıyı çekip «Sesi güçlendir»e dokunun."
+      },
+      {
+        "name": "Karşılaştırın",
+        "text": "Orijinal/İşlenmiş anahtarıyla en yüksek kısımları dinleyin."
+      },
+      {
+        "name": "Kaydedin",
+        "text": "«İşlenmişi indir» → Dosyalar'a Kaydet; yeni dosya orijinalin yanında durur."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "İpuçları",
+    "items": [
+      "Güçlendirilmiş dosyaya açık bir ad verin, ör. «ders-yuksek».",
+      "Çok sayıda dosya varsa tek tek işleyip her birini dinleyin.",
+      "Güçlendirilmiş dosyayı tekrar güçlendirmeyin; orijinalden daha yüksek çarpanla başlayın."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bilgisayar olmadan MP3 sesi yükseltilebilir mi?",
+      "answer": "Evet. Ses Yükseltici MP3'ü iPhone'da 10 kata kadar yükseltir ve yeni bir dosya kaydeder."
+    },
+    {
+      "question": "Dosya bir sunucuya yüklenir mi?",
+      "answer": "Hayır. İşlem tamamen iPhone'unuzda gerçekleşir."
+    },
+    {
+      "question": "Güçlendirmeden sonra dosya biçimi değişir mi?",
+      "answer": "Ses dosyası ses, video video olarak kaydedilir; her oynatıcıda çalar."
+    }
+  ],
+  "related": [
+    "iphone-muzik-sesi-dusuk",
+    "podcast-sesli-kitap-sesi-dusuk",
+    "kalite-kaybetmeden-ses-yukseltme"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "vi",
-    "title": "Tăng âm lượng – Tăng cường âm thanh | iPhone to hơn ~10×",
-    "description": "Làm âm thanh hoặc video to hơn trên iPhone. Khuếch đại ~10× với độ rõ và bass. Nhạc, podcast, ghi âm. Trên thiết bị. Dùng thử miễn phí trên App Store.",
-    "keywords": "tăng âm lượng iPhone, video âm thanh nhỏ, tăng volume iPhone, booster âm lượng, ứng dụng iPhone, âm thanh to hơn, ghi màn hình nhỏ, cải thiện âm thanh video, tăng cường âm thanh, Increase Volume",
+    "title": "Cách tăng âm lượng video trên iPhone – Tăng Âm Lượng Video",
+    "description": "Tăng âm lượng video, MP3 và file ghi âm trên iPhone đến 10 lần. Tăng Âm Lượng Video làm chính tệp to hơn, giữ âm thanh rõ ràng và lưu thành bản sao mới.",
+    "keywords": "cách tăng âm lượng video trên iPhone, làm video to hơn, ứng dụng tăng âm lượng, khuếch đại âm thanh, tăng âm lượng MP3, tin nhắn thoại Zalo nhỏ, quay màn hình tiếng nhỏ, tăng âm lượng TikTok, Volume Boost",
     "canonical": "https://volumeboosting.com/vi/",
-    "og_title": "Tăng âm lượng – Tăng cường âm thanh",
-    "og_description": "Làm mọi âm thanh hoặc video to hơn trên iPhone. Khuếch đại tới ~10× với âm thanh rõ, bass mạnh và chỉnh sửa nhanh.",
+    "og_title": "Tăng âm lượng video và âm thanh trên iPhone đến 10 lần",
+    "og_description": "Video, MP3 hay file ghi âm quá nhỏ? Tăng Âm Lượng Video làm chính tệp to hơn đến 10 lần; so sánh với bản gốc rồi lưu bản to hơn.",
     "og_image": "https://volumeboosting.com/vi/site_preview.png",
     "og_image_alt": "Biểu tượng ứng dụng Increase Volume – Tăng cường âm thanh",
     "og_url": "https://volumeboosting.com/vi/",
     "og_locale": "vi_VN",
     "twitter_url": "https://volumeboosting.com/vi/",
-    "twitter_title": "Tăng âm lượng – Tăng cường âm thanh",
-    "twitter_description": "Làm mọi âm thanh hoặc video to hơn trên iPhone. Khuếch đại tới ~10× với âm thanh rõ, bass mạnh và chỉnh sửa nhanh.",
+    "twitter_title": "Tăng âm lượng video và âm thanh trên iPhone đến 10 lần",
+    "twitter_description": "Video, MP3 hay file ghi âm quá nhỏ? Tăng Âm Lượng Video làm chính tệp to hơn đến 10 lần; so sánh với bản gốc rồi lưu bản to hơn.",
     "twitter_image": "https://volumeboosting.com/vi/site_preview.png",
     "twitter_image_alt": "Biểu tượng ứng dụng Increase Volume – Tăng cường âm thanh"
   },
@@ -188,44 +188,61 @@
     "breadcrumb_home": "Trang chủ",
     "faq": [
       {
-        "question": "Increase Volume – Tăng cường âm thanh là gì?",
-        "answer": "Là ứng dụng cho iPhone trong danh mục Nhạc trên App Store làm to hơn các tệp âm thanh và video đã nhập — tới ~10× — và cho phép lưu tệp mới. Xử lý media trên thiết bị; nhắm vào bản ghi nhỏ, podcast và clip — không phải để vượt giới hạn phần cứng iOS cho âm lượng hệ thống trên toàn máy."
+        "question": "Cách tăng âm lượng video trên iPhone?",
+        "answer": "Mở Tăng Âm Lượng Video, nhập video từ Ảnh (hoặc chia sẻ vào ứng dụng), kéo «Hệ số âm lượng» đến ×10 và chạm «Tăng âm lượng». So sánh Gốc/Đã xử lý rồi chạm «Tải tệp đã xử lý». Bản to hơn được lưu vào Ảnh hoặc Tệp và phát to trên mọi thiết bị.",
+        "guide": "cach-tang-am-luong-video-tren-iphone"
       },
       {
-        "question": "Increase Volume – Tăng cường âm thanh hoạt động thế nào?",
-        "answer": "Bạn nhập video, bài hát hoặc bản ghi (kể cả từ Ảnh), chỉnh độ to bằng thanh boost cộng độ trong và bass, nghe thử thời gian thực, rồi lưu tệp đã tăng về iPhone hoặc chia sẻ."
+        "question": "Vì sao tin nhắn thoại Zalo, Messenger hay WhatsApp trên iPhone nhỏ?",
+        "answer": "Thường do âm thanh chuyển sang loa thoại khi áp máy lên tai, hoặc chính bản ghi đã nhỏ. Nếu nghe qua loa ngoài vẫn nhỏ, chuyển tệp sang Tăng Âm Lượng Video, tăng âm lượng rồi lưu bản to hơn.",
+        "guide": "tin-nhan-thoai-zalo-nho"
       },
       {
-        "question": "Có tốt hơn chỉ tăng âm lượng iPhone không?",
-        "answer": "Là hai vấn đề khác nhau. Âm lượng hệ thống chỉ làm phát tạm to hơn. Ứng dụng tạo tệp vĩnh viễn to hơn — hữu ích khi bản ghi vốn nhỏ hoặc cần gửi bản đã tăng."
+        "question": "Vì sao quay màn hình iPhone tiếng nhỏ?",
+        "answer": "Ghi màn hình của iOS ghi âm thanh trong máy theo âm lượng hệ thống, còn khi bật micro thì giọng nói nghe xa. Nhập video vào Tăng Âm Lượng Video, tăng ×3–×5 và lưu thành video mới.",
+        "guide": "quay-man-hinh-iphone-tieng-nho"
       },
       {
-        "question": "Increase Volume khác VLC hoặc Audacity về độ to thế nào?",
-        "answer": "VLC và Audacity là công cụ desktop mạnh với chuẩn hóa, khuếch đại và nhiều tùy chọn. Increase Volume dành cho iPhone: luồng ngắn nhập → thanh trượt → lưu, không cần timeline trên máy tính."
+        "question": "Làm sao tăng âm lượng file Ghi âm?",
+        "answer": "«Cải thiện bản ghi» trong Ghi âm giảm tạp âm nhưng không làm to hơn. Chia sẻ bản ghi sang Tăng Âm Lượng Video, tăng ×2–×6 rồi lưu bản to hơn vào Tệp.",
+        "guide": "tang-am-luong-ghi-am-iphone"
       },
       {
-        "question": "Increase Volume dùng được cho cả video và âm thanh không?",
-        "answer": "Có. Bạn có thể tăng video có nhạc nền, bài hát, podcast, ghi âm và bản ghi màn hình, rồi lưu kết quả."
+        "question": "Có tăng âm lượng MP3 trên iPhone mà không cần máy tính không?",
+        "answer": "Có. Nhập MP3 từ Tệp vào Tăng Âm Lượng Video, chọn hệ số rồi lưu tệp mới. Mọi thứ diễn ra trên iPhone, không cần máy tính hay tải lên.",
+        "guide": "tang-am-luong-mp3-iphone"
       },
       {
-        "question": "Tệp đã tăng có lưu trên iPhone của tôi không?",
-        "answer": "Có. Sau xử lý bạn lưu tệp to hơn về thiết bị và chia sẻ như mọi tệp media khác."
+        "question": "Có tăng âm lượng video trong ứng dụng Ảnh được không?",
+        "answer": "Trình sửa của Ảnh chỉ tắt được tiếng, không tăng được. Chia sẻ video từ Ảnh sang Tăng Âm Lượng Video, tăng âm lượng rồi lưu lại vào Ảnh bằng «Lưu video».",
+        "guide": "tang-am-luong-video-tu-anh"
       },
       {
-        "question": "Increase Volume – Tăng cường âm thanh giá bao nhiêu?",
-        "answer": "Giá hiện tại và mua trong ứng dụng nằm trên trang App Store. Dữ liệu có cấu trúc của site có thể nêu ưu đãi miễn phí; luôn kiểm tra Apple trước khi trích dẫn."
+        "question": "Cách tăng âm lượng không giảm chất lượng và không bị rè?",
+        "answer": "Tăng từng nấc nhỏ và mỗi lần nghe các đoạn to bằng tai nghe. Nếu nghe rè, giảm hệ số. Tệp gốc không đổi nên có thể làm lại bất cứ lúc nào.",
+        "guide": "tang-am-luong-khong-giam-chat-luong"
       },
       {
-        "question": "Ai phát hành Increase Volume – Tăng cường âm thanh?",
-        "answer": "Ứng dụng do c-basso phát hành và phân phối qua Apple App Store (ID 6741472421). Trang sản phẩm là volumeboosting.com."
+        "question": "iMovie có tăng âm lượng quá 500% được không?",
+        "answer": "Không, iMovie giới hạn âm lượng clip ở 500%. Nhập video đã xuất từ iMovie vào Tăng Âm Lượng Video, thêm phần tăng còn lại rồi lưu bản mới.",
+        "guide": "imovie-tang-am-luong-tren-500"
       },
       {
-        "question": "Làm sao cho video âm thanh quá nhỏ trên iPhone to hơn?",
-        "answer": "Với Increase Volume – Tăng cường âm thanh, nhập video (ví dụ từ Ảnh), chỉnh thanh boost với xem thử trực tiếp, rồi lưu bản sao có rãnh âm thanh to hơn. Bạn chỉnh mức trong tệp — khác với chỉ tăng âm lượng hệ thống khi phát."
+        "question": "Ứng dụng có làm loa iPhone to hơn không?",
+        "answer": "Không. Không ứng dụng nào vượt được giới hạn vật lý của loa hay thay đổi âm lượng toàn hệ thống. Ứng dụng làm chính tệp to hơn, giúp ích khi bản ghi bị nhỏ. Nếu mọi video đều nhỏ, hãy kiểm tra nguyên nhân khi phát trước.",
+        "guide": "tai-sao-video-iphone-tieng-nho#phat-lai"
       },
       {
-        "question": "Ứng dụng có tăng âm lượng tối đa của iPhone cho nhạc và cuộc gọi không?",
-        "answer": "Không. Nó xử lý tệp bạn nhập và tạo bản to hơn để lưu hoặc chia sẻ. Giới hạn phần cứng và âm lượng chung cho Spotify, cuộc gọi v.v. không đổi."
+        "question": "Tăng Âm Lượng Video giá bao nhiêu?",
+        "answer": "Tải về miễn phí và có dùng thử miễn phí. Tăng âm lượng không giới hạn mở bằng gói đăng ký; xem giá hiện tại tại quốc gia của bạn trên App Store. Mọi xử lý luôn diễn ra trên iPhone.",
+        "guide": "",
+        "learn_more_url": "__APP_STORE_URL__",
+        "learn_more_title": "Tăng Âm Lượng Video: tải miễn phí và xem giá hiện tại trên App Store"
+      },
+      {
+        "question": "Tệp có bị tải lên máy chủ không?",
+        "answer": "Không. Mọi xử lý diễn ra trên iPhone, không cần tài khoản và không tải lên. Kết quả được lưu qua bảng chia sẻ iOS vào Ảnh, Tệp hoặc ứng dụng được chọn.",
+        "guide": "tang-am-luong-khong-giam-chat-luong#quyen-rieng-tu"
       }
     ],
     "structured_data": {
@@ -376,5 +393,35 @@
     "title": "Tệp nhỏ tiếng của bạn, to hơn 10×, trong chưa đến một phút.",
     "text": "Tải Increase Volume – Tăng cường âm thanh, nhập video hoặc âm thanh mà không ai nghe được, kéo thanh trượt và chia sẻ bản to hơn.",
     "note": "Tải miễn phí · Yêu cầu iOS 18.6 trở lên · 4,5★ trên App Store"
+  },
+  "guides": {
+    "eyebrow": "Hướng dẫn",
+    "title": "Sửa âm thanh nhỏ trên iPhone cho mọi tình huống",
+    "intro": "Mỗi hướng dẫn trả lời một câu hỏi mà mọi người thực sự tìm kiếm, nói rõ công cụ iOS làm được gì và không làm được gì, rồi chỉ ra từng bước cần làm trong Tăng Âm Lượng Video.",
+    "hub_link_text": "Tất cả hướng dẫn",
+    "read_more": "Đọc hướng dẫn",
+    "hub": {
+      "title": "Hướng dẫn: cách tăng âm lượng trên iPhone – video, âm thanh",
+      "description": "Hướng dẫn từng bước để tăng âm lượng video, file Ghi âm, MP3, video quay màn hình và tin nhắn thoại Zalo, Messenger trên iPhone, bằng iOS và bằng ứng dụng.",
+      "h1": "Hướng dẫn: cách tăng âm lượng video và âm thanh trên iPhone",
+      "intro": "Mỗi hướng dẫn bắt đầu bằng câu trả lời trực tiếp, trình bày thẳng thắn các cách miễn phí của iOS (Ảnh, iMovie, Ghi âm) và cách đạt âm thanh to hơn đến 10 lần với Tăng Âm Lượng Video.",
+      "keywords": "hướng dẫn tăng âm lượng iPhone, tăng âm lượng video, làm MP3 to hơn, tin nhắn thoại nhỏ, quay màn hình tiếng nhỏ"
+    },
+    "labels": {
+      "home": "Trang chủ",
+      "guides": "Hướng dẫn",
+      "breadcrumb_aria": "Đường dẫn",
+      "updated": "Cập nhật",
+      "reading_time": "Đọc 3–4 phút",
+      "quick_answer": "Trả lời nhanh",
+      "faq_heading": "Câu hỏi khác",
+      "related": "Hướng dẫn liên quan",
+      "all_guides": "Tất cả hướng dẫn",
+      "disclaimer": "Tăng Âm Lượng Video tăng âm lượng của tệp và lưu thành bản sao mới. Ứng dụng không thể vượt giới hạn vật lý của loa iPhone hay thay đổi âm lượng toàn hệ thống."
+    },
+    "default_cta": {
+      "title": "Làm ngay với Tăng Âm Lượng Video",
+      "text": "Miễn phí trên App Store. Nhập tệp, kéo thanh trượt đến ×10 và chạm «Tải tệp đã xử lý»."
+    }
   }
 }

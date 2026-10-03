@@ -965,3 +965,195 @@ Swedish UI labels used on the site (from `build/sv.json`; verify against the app
 «Hämta bearbetad».
 
 Swedish keyword map and page plan: `keywords.sv.md`.
+
+## BG storefront (Bulgarian locale) — checked 2026-10-02
+
+Source: `https://apps.apple.com/bg/app/id6741472421?l=bg`. **This storefront is NOT localized** — it shows
+the English listing.
+
+| Field | BG value |
+|---|---|
+| Title | Increase Volume Sound (English) |
+| Subtitle | Audio & Music Booster |
+| Price | Free, in-app purchases |
+| Ratings in BG storefront | not enough ratings to display |
+| Version | 1.3.6 (20 Sept) |
+
+In-app purchases (BG): Volume & Sound Booster Weekly (weekly, free trial) · Volume Booster Sound Amplifier
+(annual, 24,90 €).
+
+Recommendation: add a Bulgarian App Store localization (title, subtitle, description, keywords); the
+Bulgarian site copy in `build/bg.json` and `build/guides/bg/` is a ready starting point.
+
+### Bulgarian screenshots
+
+Not localized: the listing shows the English set (6 images). The site uses the shared
+`img/screenshots/1–7.webp`.
+
+Bulgarian UI labels used on the site (from `build/bg.json`; verify against the app's strings):
+«Умножение на силата», «Усилване до ×10», «Подобряване на качеството на звука», «Оригинал» / «Обработен»,
+«Изтегляне на обработения файл».
+
+Bulgarian keyword map and page plan: `keywords.bg.md`.
+
+## SI storefront (Slovenian locale) — checked 2026-10-03
+
+Source: `https://apps.apple.com/si/app/id6741472421?l=sl`. **This storefront is NOT localized** — it shows
+the English listing.
+
+| Field | SI value |
+|---|---|
+| Title | Increase Volume Sound (English) |
+| Subtitle | (none shown; «Glasba» category in its place) |
+| Price | Brezplačno, nakupi znotraj aplikacije |
+| Ratings in SI storefront | none shown |
+| Version | 1.3.6 |
+
+In-app purchases (SI, English names): Volume & Sound Booster Weekly (weekly, free trial) · Volume Booster
+Sound Amplifier (annual, 29,90 €).
+
+Recommendation: add a Slovenian App Store localization (title, subtitle, description, keywords); the
+Slovenian site copy in `build/sl.json` and `build/guides/sl/` is a ready starting point.
+
+### Slovenian screenshots
+
+Not localized: the listing shows the English set (6 images). The site uses the shared
+`img/screenshots/1–7.webp`.
+
+Slovenian UI labels used on the site (from `build/sl.json`; verify against the app's strings):
+«Množitelj glasnosti», «Ojači glasnost na ×10», «Izboljšaj kakovost zvoka», Izvirnik / Obdelano,
+«Prenesi obdelano».
+
+Slovenian keyword map and page plan: `keywords.sl.md`.
+
+## Catalan listing (ES storefront, `?l=ca`) — checked 2026-10-03
+
+Source: `https://apps.apple.com/es/app/id6741472421?l=ca`. **This listing is localized.**
+
+| Field | CA value |
+|---|---|
+| Title | Augmenta Volum Vídeo |
+| Subtitle | Fes àudio i música més forts |
+| Price | Gratis, compres integrades |
+| Rating | 5,0★ from 6 ratings (ES storefront) |
+| Version | 1.3.6 (20 de set.) |
+
+In-app purchases (ES, Catalan names): Potenciador de volum setmanal (weekly, free trial) · Amplificador de
+volum i so (annual, 34,90 €).
+
+Catalan description opens: "Augmenta Volum Vídeo fa que vídeos, música i gravacions sonin molt més forts
+i clars. Amplifica fins a 10x i exporta en segons des de Fotos." Keyword phrases in the listing: augmenta
+el volum, potenciador de volum, potenciador de so, amplificador de so, amplificador d'àudio.
+Issues: the language field shows «DE» / «Alemany i 30 més» instead of Catalan; the description's last
+paragraph lists English search terms.
+
+### Catalan screenshots
+
+The Catalan listing uses the **Spanish** screenshot set (pixel-identical to `img/screenshots/es/`).
+Copied to `img/screenshots/ca/1–7.webp` so the site shows the same images as the store.
+
+Catalan UI labels used on the site (from `build/ca.json`; verify against the app's strings):
+«Multiplicació del volum», «Reforça el volum a ×10», «Millora la qualitat de l'àudio», Original /
+Processat, «Descarrega el processat».
+
+Catalan keyword map and page plan: `keywords.ca.md`.
+
+## IN storefront (Hindi locale) — checked 2026-10-03
+
+Source: `https://apps.apple.com/in/app/id6741472421?l=hi`. **This listing is localized.**
+
+| Field | HI value |
+|---|---|
+| Title | वॉल्यूम बूस्टर: तेज़ साउंड |
+| Subtitle | तेज़ म्यूज़िक और वीडियो |
+| Price | मुफ़्त, इन-ऐप ख़रीदारी |
+| Rating | 3,6★ from 5 ratings (IN storefront) |
+| Version | 1.3.6 (20 सित॰) |
+
+In-app purchases (IN, Hindi names): वॉल्यूम बूस्टर साप्ताहिक (weekly, free trial) · वॉल्यूम बूस्टर साउंड
+एम्पलीफायर (annual, ₹ 699).
+
+Hindi description opens: "‘वॉल्यूम बूस्टर: तेज़ साउंड’ से अपने वीडियो, म्यूज़िक और रिकॉर्डिंग की आवाज़ तुरंत
+बढ़ाएँ। 10x तक तेज़ करें, सेकंडों में एक्सपोर्ट करें और आसानी से शेयर करें।" Keyword phrases in the listing:
+वॉल्यूम बूस्टर, साउंड बूस्टर, आवाज़ बढ़ाएँ, volume booster, sound booster, audio booster, music booster.
+Issue: the language field shows «VI» / «Vietnamese और 30 अधिक» instead of Hindi.
+
+### Hindi screenshots
+
+Not localized: the listing shows the English set (6 images). The site uses the shared
+`img/screenshots/1–7.webp`.
+
+Hindi UI labels used on the site (from `build/hi.json`; verify against the app's strings):
+«वॉल्यूम गुणन», «वॉल्यूम ×10 तक बूस्ट करें», «ऑडियो गुणवत्ता सुधारें», मूल / प्रोसेस्ड, «प्रोसेस्ड डाउनलोड करें».
+
+Hindi keyword map and page plan: `keywords.hi.md`.
+
+## Bengali (bn) — checked 2026-10-03
+
+Sources: `https://apps.apple.com/bd/app/id6741472421?l=bn` (**redirects to the US listing** — the app does
+not appear to be available in the Bangladesh storefront) and `https://apps.apple.com/in/app/id6741472421?l=bn`.
+**No Bengali localization** — the IN page shows the English listing.
+
+| Field | Value (IN, `?l=bn`) |
+|---|---|
+| Title | Increase Volume Sound (English) |
+| Subtitle | (category «সঙ্গীত» shown) |
+| Price | বিনামূল্যে, অ্যাপ-মধ্যস্থ কেনাকাটা |
+| Rating | 3,6★ from 5 ratings (IN) |
+| Version | 1.3.6 |
+
+In-app purchases (IN, English names): Volume & Sound Booster Weekly (free trial) · Volume Booster Sound
+Amplifier (annual, ₹ 699).
+Issue: the language field shows «ZH + ৩০ আরও».
+
+Recommendations: enable the Bangladesh storefront if Bangladesh is a target; add a Bengali App Store
+localization (the site copy in `build/bn.json` and `build/guides/bn/` is a ready starting point).
+
+### Bengali screenshots
+
+Not localized: English set (6 images). The site uses the shared `img/screenshots/1–7.webp`.
+
+Bengali UI labels used on the site (from `build/bn.json`; verify against the app's strings): «ভলিয়াম গুণন»,
+«ভলিয়াম ×10 পর্যন্ত বুস্ট করুন», «অডিও গুণমান উন্নত করুন», আসল / প্রসেসড, «প্রসেসড ডাউনলোড করুন».
+
+Bengali keyword map and page plan: `keywords.bn.md`.
+
+## Tamil (ta)
+- Store (IN, ?l=ta): English listing "Increase Volume Sound", 3.6★ (5), ₹ 699/year, shared English screenshots; language field wrongly shows ZH.
+- Site brand: "Increase Volume – ஒலி பூஸ்ட்". Home title: "iPhone-ல் வீடியோ சவுண்ட் அதிகரிப்பது எப்படி – Increase Volume".
+- 12 guides at /ta/guide/ (Tanglish slugs), guide 8 targets Reels/Shorts instead of TikTok. Keyword research: keywords.ta.md.
+
+## Telugu (te)
+- Store (IN, ?l=te): English listing "Increase Volume Sound", 3.6★ (5), ₹ 699/year, shared English screenshots; language field wrongly shows ZH.
+- Site brand: "Increase Volume – ధ్వని బూస్ట్". Home title: "iPhoneలో వీడియో సౌండ్ పెంచడం ఎలా – Increase Volume".
+- 12 guides at /te/guide/ (Tenglish slugs); guide 8 targets Reels/Shorts instead of TikTok. Keyword research: keywords.te.md.
+
+## Malayalam (ml)
+- Store (IN, ?l=ml): English listing "Increase Volume Sound", 3.6★ (5), ₹ 699/year, shared English screenshots; language field wrongly shows ZH.
+- Site brand: "Increase Volume – ശബ്ദ ബൂസ്റ്റ്" (typo «ബൂസ്റ്» fixed). Home title: "iPhone-ൽ വീഡിയോ സൗണ്ട് കൂട്ടുന്നത് എങ്ങനെ – Increase Volume".
+- 12 guides at /ml/guide/ (Manglish slugs); guide 8 targets Reels/Shorts instead of TikTok. Keyword research: keywords.ml.md.
+
+## Thai (th)
+- Store (TH, ?l=th): localized title "บูสเตอร์เสียง – Volume Boost", subtitle "ทำให้เพลงและวิดีโอดังขึ้น", 3.7★ (3), ฿479/year + weekly plan, shared English screenshots.
+- Home title: "วิธีเพิ่มเสียงวิดีโอบน iPhone – บูสเตอร์เสียง Volume Boost". Guides use the store brand บูสเตอร์เสียง.
+- 12 guides at /th/guide/ (romanized slugs); guide 2 targets LINE + WhatsApp, guide 8 targets TikTok. Keyword research: keywords.th.md.
+
+## Turkish (tr)
+- Store (TR, ?l=tr): localized title "Ses Yükseltici – Volume Boost", subtitle "Müziği ve videoyu güçlendir", 4,2★ (5), ₺669,99/year + weekly plan.
+- Localized screenshots in img/screenshots/tr/ (1–6 Turkish, 7 shared). Screenshot #4 headline «SEÇİN MİKTAR ARTTIRMA» needs fixing in the store.
+- Home title: "iPhone'da Video Sesi Yükseltme – Ses Yükseltici Volume Boost". 12 guides at /tr/guide/. Keyword research: keywords.tr.md.
+
+## Ukrainian (uk)
+- Store (UA, ?l=uk): localized title "Підсилювач гучності 10x", subtitle "Гучніші відео та музика", 5,0★ (6), 21,49 USD/year + weekly plan, shared English screenshots.
+- Home title: "Як збільшити гучність відео на iPhone – Підсилювач гучності". Guides use the store brand.
+- 12 guides at /uk/guide/ (transliterated slugs); guide 2 targets Telegram/Viber/WhatsApp. Keyword research: keywords.uk.md.
+
+## Vietnamese (vi)
+- Store (VN, ?l=vi): localized title "Tăng Âm Lượng Video", subtitle "Khuếch Đại Nhạc & Thu Âm", 5,0★ (4), 209.000đ/year + weekly plan, shared English screenshots.
+- Home title: "Cách tăng âm lượng video trên iPhone – Tăng Âm Lượng Video". Guides use the store brand.
+- 12 guides at /vi/guide/; guide 2 targets Zalo/Messenger/WhatsApp. Keyword research: keywords.vi.md.
+
+## Simplified Chinese (zh)
+- Store (CN): localized title "音量放大器 Increase Volume", subtitle "视频音乐变超大声", 3.2★ (5), ¥126/year + weekly plan, shared English screenshots.
+- Home title: "iPhone 视频声音太小怎么调大 – 音量放大器 Increase Volume". Guides use the store brand.
+- 12 guides at /zh/guide/ (pinyin slugs); guide 2 targets WeChat, guide 8 targets Douyin/Kuaishou. Keyword research: keywords.zh.md.

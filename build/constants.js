@@ -90,7 +90,20 @@ const GUIDE_LOCALE_CONFIG = {
   ro: { dir: path.join(GUIDES_DIR, 'ro'), segment: 'ro/ghiduri' },
   ru: { dir: path.join(GUIDES_DIR, 'ru'), segment: 'ru/instrukcii' },
   sk: { dir: path.join(GUIDES_DIR, 'sk'), segment: 'sk/navody' },
-  sv: { dir: path.join(GUIDES_DIR, 'sv'), segment: 'sv/guider' }
+  sv: { dir: path.join(GUIDES_DIR, 'sv'), segment: 'sv/guider' },
+  bg: { dir: path.join(GUIDES_DIR, 'bg'), segment: 'bg/rakovodstva' },
+  sl: { dir: path.join(GUIDES_DIR, 'sl'), segment: 'sl/vodniki' },
+  ca: { dir: path.join(GUIDES_DIR, 'ca'), segment: 'ca/guies' },
+  hi: { dir: path.join(GUIDES_DIR, 'hi'), segment: 'hi/guide' },
+  bn: { dir: path.join(GUIDES_DIR, 'bn'), segment: 'bn/guide' },
+  ta: { dir: path.join(GUIDES_DIR, 'ta'), segment: 'ta/guide' },
+  te: { dir: path.join(GUIDES_DIR, 'te'), segment: 'te/guide' },
+  ml: { dir: path.join(GUIDES_DIR, 'ml'), segment: 'ml/guide' },
+  th: { dir: path.join(GUIDES_DIR, 'th'), segment: 'th/guide' },
+  tr: { dir: path.join(GUIDES_DIR, 'tr'), segment: 'tr/guide' },
+  uk: { dir: path.join(GUIDES_DIR, 'uk'), segment: 'uk/guide' },
+  vi: { dir: path.join(GUIDES_DIR, 'vi'), segment: 'vi/guide' },
+  zh: { dir: path.join(GUIDES_DIR, 'zh'), segment: 'zh/guide' }
 };
 
 function listJsonSlugs(dir) {

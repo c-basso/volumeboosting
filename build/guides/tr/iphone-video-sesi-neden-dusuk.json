@@ -1,0 +1,100 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "iPhone video sesi neden düşük",
+  "priority": 7,
+  "keywords": "iPhone video sesi neden düşük, videoda ses gelmiyor, iPhone hoparlör sesi kısık, video ses sorunu",
+  "title": "iPhone Videomun Sesi Neden Bu Kadar Düşük? 7 Neden",
+  "description": "iPhone videosu kısık mı? Sorunun oynatmada mı (ayarlar, hoparlör) yoksa kayıtta mı olduğunu bulun ve sessiz dosyayı Ses Yükseltici ile 10 kata kadar düzeltin.",
+  "h1": "iPhone videomun sesi neden bu kadar düşük?",
+  "eyebrow": "Nedenler",
+  "card_title": "Video sesi neden düşük",
+  "card_summary": "Tüm videolar sessizse sorun telefonda; yalnızca biri sessizse kayıtta. İki durumu da düzeltmenin yolu.",
+  "quick_answer": "Tüm videolar sessizse neden oynatmadadır: Kulaklık Güvenliği, Bluetooth, denge ayarı veya tıkalı hoparlör. Yalnızca bir video sessizse ses kaydın içinde düşüktür: mesafe, kapalı mikrofon veya rüzgâr. İkinci durumda videoyu Ses Yükseltici'de 10 kata kadar güçlendirip yeni bir kopya kaydedin.",
+  "intro": [
+    "iPhone videosunun sessiz olmasının iki tür nedeni vardır ve çözümleri tamamen farklıdır. Basit bir testle başlayın: YouTube'da herhangi bir videoyu açın. O da kısıksa sorun telefondadır. Normal çalıyorsa sorun sizin kaydınızdadır."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/tr/1.webp",
+    "alt": "Ses Yükseltici tanıtım görseli: «SESİ YÜKSELT 1000%'E KADAR, ×10 DAHA YÜKSEK»",
+    "caption": "Kayıt sessizse dosyanın kendisini 10 kata kadar yükseltin."
+  },
+  "sections": [
+    {
+      "id": "oynatma",
+      "heading": "Oynatma nedenleri (tüm videolar sessiz)",
+      "list": [
+        "Kulaklık Güvenliği'nde «Yüksek Sesleri Azalt» açık (Ayarlar › Ses ve Dokunuş).",
+        "Ses hâlâ bir Bluetooth cihazına gidiyor; Denetim Merkezi'nden kontrol edin.",
+        "Denge bir tarafa kaymış (Ayarlar › Erişilebilirlik › Ses ve Görsel Öğeler).",
+        "Hoparlör ızgarası tozla veya kılıfla kapanmış."
+      ]
+    },
+    {
+      "heading": "Kayıt nedenleri (yalnızca bir video sessiz)",
+      "list": [
+        "Konuşan kişi kameradan uzaktaydı; mesafe iki katına çıkınca seviye belirgin şekilde düşer.",
+        "Çekim sırasında parmak veya kılıf mikrofonu kapattı.",
+        "Rüzgâr ya da trafik gürültüsü konuşmayı bastırdı."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Kayıt sessizse ne yapmalı",
+      "paragraphs": [
+        "Ayarlar dosyayı değiştirmez. Ses Yükseltici videonun ses parçasını 10 kata kadar yükseltir, görüntüye dokunmaz ve yeni kopyayı Fotoğraflar'a veya Dosyalar'a kaydeder. Hiçbir uygulama hoparlörün fiziksel sınırını aşamaz, ama sessiz bir dosyayı normal seviyeye getirebilir."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Adım adım: sessiz videoyu düzeltin",
+    "intro": "Yaklaşık bir dakika.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Oynatma testi",
+        "text": "Başka bir video açarak sorunun nerede olduğunu belirleyin."
+      },
+      {
+        "name": "Videoyu açın",
+        "text": "Fotoğraflar → video → Paylaş → Ses Yükseltici."
+      },
+      {
+        "name": "Güçlendirin",
+        "text": "×3–×10 seçip «Sesi güçlendir»e dokunun ve orijinalle karşılaştırın."
+      },
+      {
+        "name": "Kaydedin",
+        "text": "«İşlenmişi indir» → Videoyu Kaydet."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Bir sonraki video için",
+    "items": [
+      "Konuşan kişiye yaklaşın; bu her güçlendirmeden daha etkilidir.",
+      "Telefonu mikrofonları kapatmadan kenarlarından tutun.",
+      "Önemli röportajlar için yaka mikrofonu kullanın."
+    ]
+  },
+  "faq": [
+    {
+      "question": "iPhone hoparlörünü daha yüksek yapan bir uygulama var mı?",
+      "answer": "Hayır. Hiçbir uygulama hoparlörün fiziksel sınırını aşamaz. Uygulamalar yalnızca dosyayı yükseltebilir."
+    },
+    {
+      "question": "Neden yalnızca bir video sessiz?",
+      "answer": "Çekim sırasındaki mesafe, kapalı mikrofon veya rüzgâr yüzünden. Çözüm dosyayı güçlendirmektir."
+    },
+    {
+      "question": "Telefonu yeniden başlatmak yardımcı olur mu?",
+      "answer": "Oynatma sorunuysa bazen. Kayıt sorununu yeniden başlatma düzeltmez."
+    }
+  ],
+  "related": [
+    "iphone-video-sesi-nasil-yukseltilir",
+    "ekran-kaydi-sesi-dusuk-iphone",
+    "fotograflar-video-sesini-yukseltme"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

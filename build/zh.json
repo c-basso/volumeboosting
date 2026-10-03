@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "zh",
-    "title": "Increase Volume – 声音增强 | 在 iPhone 上让任意音频或视频更大声",
-    "description": "在 iPhone 上把任意音频或视频变得更大声，最高约 10 倍增益，同时提升清晰度、层次感与低音。适用于音乐、视频、播客、语音备忘录与屏幕录制等素材；设备本地处理，可保存并分享更响的文件。App Store 免费试用。",
-    "keywords": "iPhone 提高音量, 视频更大声, 安静视频, 音量增强, iPhone 应用, 增大音频, 屏幕录制声音小, 声音增强, Increase Volume",
+    "title": "iPhone 视频声音太小怎么调大 – 音量放大器 Increase Volume",
+    "description": "在 iPhone 上把视频、MP3 和语音备忘录录音最高放大 10 倍。「音量放大器」直接让文件本身变大声，保持清晰，并存储为新的副本，发给任何人都一样响亮。全程本地处理，不上传，App Store 免费下载。适用于音乐、视频、播客与屏幕录制。",
+    "keywords": "iPhone视频声音怎么调大, 视频声音太小, 音量放大器, 声音放大App, MP3音量放大, 微信语音声音小, 录屏声音小, 抖音视频声音太小, Increase Volume",
     "canonical": "https://volumeboosting.com/zh/",
-    "og_title": "Increase Volume – 声音增强",
-    "og_description": "在 iPhone 上让任意音频或视频变得更大声。最高约 ~10× 增益，声音更清晰、低音更有力，并支持快速编辑；适合偏轻的短视频、播客、语音备忘录与屏幕录制等素材。处理在设备本地完成，可导出更响的文件以便保存、备份或分享。",
+    "og_title": "在 iPhone 上把视频和音频音量放大最高 10 倍",
+    "og_description": "视频、MP3 或录音太小声？「音量放大器」直接把文件本身放大最高 10 倍；与原始版本对比试听后，存储更响的副本。适用于音乐、视频、播客、语音备忘录与屏幕录制，处理全程在 iPhone 本地完成，不上传任何内容，可免费试用。",
     "og_image": "https://volumeboosting.com/zh/site_preview.png",
     "og_image_alt": "Increase Volume – 声音增强 应用图标",
     "og_url": "https://volumeboosting.com/zh/",
     "og_locale": "zh_CN",
     "twitter_url": "https://volumeboosting.com/zh/",
-    "twitter_title": "Increase Volume – 声音增强",
-    "twitter_description": "在 iPhone 上让任意音频或视频变得更大声。最高约 ~10× 增益，声音更清晰、低音更有力，并支持快速编辑；适合偏轻的短视频、播客、语音备忘录与屏幕录制等素材。处理在设备本地完成，可导出更响的文件以便保存、备份或分享。",
+    "twitter_title": "在 iPhone 上把视频和音频音量放大最高 10 倍",
+    "twitter_description": "视频、MP3 或录音太小声？「音量放大器」直接把文件本身放大最高 10 倍；与原始版本对比试听后，存储更响的副本。适用于音乐、视频、播客、语音备忘录与屏幕录制，处理全程在 iPhone 本地完成，不上传任何内容，可免费试用。",
     "twitter_image": "https://volumeboosting.com/zh/site_preview.png",
     "twitter_image_alt": "Increase Volume – 声音增强 应用图标"
   },
@@ -188,44 +188,61 @@
     "breadcrumb_home": "首页",
     "faq": [
       {
-        "question": "什么是 Increase Volume – 声音增强？",
-        "answer": "它是 App Store「音乐」类别中的 iPhone 应用，可把导入的音频与视频文件变得更响 — 最高约 ~10× — 并允许保存新文件。媒体在设备本地处理，面向偏轻的录音、播客与短视频场景；不是用来绕过 iOS 整机系统音频硬件上限的工具。"
+        "question": "iPhone 视频声音太小怎么调大？",
+        "answer": "打开「音量放大器」，从「照片」导入视频（或把视频共享到 App），把「音量倍数」拖到 ×10，轻点「增强音量」。对比「原始／处理后」后轻点「下载处理后文件」。更响的副本会存储到「照片」或「文件」，在任何设备上播放都很大声。",
+        "guide": "iphone-shipin-shengyin-fangda"
       },
       {
-        "question": "Increase Volume – 声音增强 如何工作？",
-        "answer": "你导入视频、歌曲或录音（也可来自「照片」），用增强滑块配合清晰度与低音调节音量，实时预览，然后把增强后的文件存回 iPhone 或分享出去。"
+        "question": "iPhone 微信语音为什么声音小？",
+        "answer": "通常是手机贴近耳朵时切换到了听筒，或录音本身就小声。微信语音条无法导出，但微信里收到的音频、视频文件可以用「用其他应用打开」发到「音量放大器」放大后存储。",
+        "guide": "weixin-yuyin-shengyin-xiao"
       },
       {
-        "question": "它比单纯调高 iPhone 音量更好吗？",
-        "answer": "解决的问题不同。系统音量只让当前播放暂时更大声；本应用会生成持久更响的文件 — 当素材本身偏轻，或你需要发送增强版本时更有用。"
+        "question": "iPhone 录屏为什么声音小？",
+        "answer": "iOS 屏幕录制按系统音量录下 App 声音，打开麦克风时人声听起来很远。把录屏导入「音量放大器」，放大 ×3–×5 后存储为新视频。",
+        "guide": "pingmu-luzhi-shengyin-xiao"
       },
       {
-        "question": "和 VLC、Audacity 在「变大声」上有什么不同？",
-        "answer": "VLC 与 Audacity 是面向桌面的强大工具，可用众多控件做归一化或放大。Increase Volume 为 iPhone 设计：导入 → 滑块 → 保存的短流程，无需桌面时间线剪辑。"
+        "question": "语音备忘录的录音怎么放大？",
+        "answer": "「语音备忘录」中的「增强录音」只能降噪，不能变大声。把录音共享到「音量放大器」，放大 ×2–×6，再把更响的副本存储到「文件」。",
+        "guide": "yuyin-beiwanglu-shengyin-fangda"
       },
       {
-        "question": "视频和纯音频都支持吗？",
-        "answer": "支持。你可以增强带声轨的视频、音乐、播客、语音备忘录与屏幕录制，然后保存结果。"
+        "question": "不用电脑能在 iPhone 上放大 MP3 吗？",
+        "answer": "能。从「文件」把 MP3 导入「音量放大器」，选择倍数后存储新文件。全程在 iPhone 上完成，不需要电脑，也不用上传。",
+        "guide": "mp3-yinliang-fangda"
       },
       {
-        "question": "增强后的文件会保存在我的 iPhone 上吗？",
-        "answer": "会。处理完成后，你把更响的文件存回设备，并像其他媒体文件一样分享。"
+        "question": "能在「照片」App 里调大视频音量吗？",
+        "answer": "「照片」编辑器只能静音，不能放大。从「照片」把视频共享到「音量放大器」，放大后用「存储视频」存回「照片」。",
+        "guide": "zhaopian-shipin-yinliang-fangda"
       },
       {
-        "question": "Increase Volume – 声音增强 多少钱？",
-        "answer": "App Store 页面会显示当前价格与应用内购买。网站结构化数据可能提及免费档位；引用前务必以 Apple 商店为准核实。"
+        "question": "怎样放大音量又不失真、不破音？",
+        "answer": "小步放大，每次用耳机试听响亮的部分。听到破音就降低倍数。原始文件不会改变，随时可以重新开始。",
+        "guide": "bu-shizhen-fangda-yinliang"
       },
       {
-        "question": "谁发布了 Increase Volume – 声音增强？",
-        "answer": "应用由 c-basso 发布，经 Apple App Store 分发（App Store ID 6741472421）。产品网站为 volumeboosting.com。"
+        "question": "iMovie 能把音量调到 500% 以上吗？",
+        "answer": "不能，iMovie 的片段音量上限是 500%。把从 iMovie 导出的视频导入「音量放大器」，补上剩余的放大并存储新副本。",
+        "guide": "imovie-yinliang-chaoguo-500"
       },
       {
-        "question": "如何在 iPhone 上把太安静的视频变大声？",
-        "answer": "在 Increase Volume – 声音增强 中导入视频（例如从「照片」），用增强滑块配合实时预览调整，再保存带更大声轨的副本。你修改的是文件本身的电平 — 而不是仅在播放时暂时拉高系统音量。"
+        "question": "App 能让 iPhone 扬声器更响吗？",
+        "answer": "不能。任何 App 都无法突破扬声器的物理上限或改变系统整体音量。App 让文件本身更响，适用于录音本身很小声的情况。如果所有视频都小声，请先检查播放方面的原因。",
+        "guide": "shipin-shengyin-xiao-yuanyin#bofang"
       },
       {
-        "question": "它能提高音乐与通话的 iPhone 最大音量吗？",
-        "answer": "不能。它处理你导入的文件，并给出可保存或分享的更响版本。硬件上限以及 Spotify、通话等全局音量不会改变。"
+        "question": "「音量放大器」多少钱？",
+        "answer": "免费下载，并提供免费试用。无限次放大需订阅解锁；你所在地区的当前价格请以 App Store 显示为准。处理始终在你的 iPhone 上完成。",
+        "guide": "",
+        "learn_more_url": "__APP_STORE_URL__",
+        "learn_more_title": "音量放大器 Increase Volume：在 App Store 免费下载并查看当前价格"
+      },
+      {
+        "question": "我的文件会上传到服务器吗？",
+        "answer": "不会。处理在你的 iPhone 上完成，不需要账号，也不上传。结果通过 iOS 共享面板存储到「照片」「文件」或你选择的 App。",
+        "guide": "bu-shizhen-fangda-yinliang#yinsi"
       }
     ],
     "structured_data": {
@@ -376,5 +393,35 @@
     "title": "把太小声的文件放大 10×，不到一分钟。",
     "text": "下载 Increase Volume – 声音增强，导入没人听得清的视频或音频，拖动滑块，然后分享更响亮的版本。",
     "note": "免费下载 · 需要 iOS 18.6 或更高版本 · App Store 评分 4.5★"
+  },
+  "guides": {
+    "eyebrow": "指南",
+    "title": "各种情况下解决 iPhone 声音太小的问题",
+    "intro": "每篇指南都回答大家真正会搜索的问题，坦诚说明 iOS 自带工具能做什么、不能做什么，再给出在「音量放大器」中的具体步骤。",
+    "hub_link_text": "全部指南",
+    "read_more": "阅读指南",
+    "hub": {
+      "title": "指南：iPhone 声音太小怎么办——视频、音频、MP3 音量放大",
+      "description": "分步指南：在 iPhone 上放大视频、语音备忘录、MP3、屏幕录制和微信音频文件的音量，既有 iOS 自带方法，也有「音量放大器」App 的做法，最高可放大 10 倍，全部在手机本地完成。每篇都附有详细的分步截图说明和常见问题解答。",
+      "h1": "指南：如何在 iPhone 上放大视频和音频的声音",
+      "intro": "每篇指南都先给出直接答案，坦诚介绍免费的 iOS 方法（「照片」、iMovie、「语音备忘录」），并说明如何用「音量放大器」获得最高 10 倍的音量。",
+      "keywords": "iPhone声音放大指南, 视频声音调大, MP3音量放大, 微信语音声音小, 录屏声音小"
+    },
+    "labels": {
+      "home": "首页",
+      "guides": "指南",
+      "breadcrumb_aria": "面包屑导航",
+      "updated": "更新于",
+      "reading_time": "阅读约 3–4 分钟",
+      "quick_answer": "简短回答",
+      "faq_heading": "更多问题",
+      "related": "相关指南",
+      "all_guides": "全部指南",
+      "disclaimer": "「音量放大器」会提高文件的音量并存储为新副本。它无法突破 iPhone 扬声器的物理上限，也无法改变系统整体音量。"
+    },
+    "default_cta": {
+      "title": "用「音量放大器」来完成",
+      "text": "App Store 免费下载。导入文件，把滑块拖到 ×10，再轻点「下载处理后文件」。"
+    }
   }
 }

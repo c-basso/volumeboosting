@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "tiho glasovno sporočilo WhatsApp",
+  "priority": 2,
+  "keywords": "tiho glasovno sporočilo WhatsApp, glasovna sporočila tiha iPhone, kako ojačati glasovno sporočilo, ne slišim glasovnega sporočila, glasnost glasovnega sporočila Viber",
+  "title": "Tiho glasovno sporočilo na WhatsAppu ali Viberju na iPhonu",
+  "description": "Ne slišiš glasovnih sporočil na WhatsAppu ali Viberju na iPhonu? Preveri slušalko in senzor bližine, eno tiho sporočilo pa ojači do 10× z Increase Volume.",
+  "h1": "Tiho glasovno sporočilo na iPhonu: vzroki in rešitev",
+  "eyebrow": "Glasovna sporočila",
+  "card_title": "Tiho glasovno sporočilo",
+  "card_summary": "So vsa tiha? Kriv je senzor bližine. Je tiho le eno? Izvozi ga, ojači ×5–×10 in pošlji glasnejšo kopijo.",
+  "quick_answer": "Če so vsa glasovna sporočila na WhatsAppu tiha, jih iPhone predvaja prek slušalke, ker pokrivaš senzor bližine: drži telefon stran od obraza in med predvajanjem povečaj glasnost. Če je tiho eno samo sporočilo, ga pridrži → Posreduj → ikona Deli → Shrani v Datoteke, odpri datoteko v Increase Volume, ojači ×5–×10 in shrani ali pošlji glasnejšo kopijo. Pri Viberju je postopek podoben.",
+  "intro": [
+    "Glasovna sporočila se hitro posnamejo, a težko poslušajo, ko je pošiljatelj govoril tiho, držal telefon daleč ali snemal na prometni ulici. Niti WhatsApp niti Viber nimata drsnika glasnosti za posamezno sporočilo.",
+    "Ta vodnik loči dva primera — vsa sporočila tiha (nastavitev predvajanja) in eno tiho (sam posnetek) — in pokaže, kako trajno ojačaš posamezno glasovno sporočilo."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "List za deljenje v iOS z možnostmi Kopiraj, Dodaj oznake in Shrani v Datoteke za ojačen zvok v Increase Volume",
+    "caption": "Po ojačitvi pošlji glasnejšo kopijo nazaj v klepet ali jo shrani v Datoteke."
+  },
+  "sections": [
+    {
+      "heading": "So vsa sporočila tiha? Preveri predvajanje",
+      "paragraphs": [
+        "Ko iPhone prisloniš k ušesu ali z dlanjo pokriješ zgornji del, aplikacija preklopi z zvočnika na majhno slušalko. Zveni precej tišje. Drži telefon ravno pred seboj in med predvajanjem pritisni gumb za glasneje; glasnost predstavnosti je ločena od glasnosti zvonjenja.",
+        "Če uporabljaš AirPods ali drugo napravo Bluetooth, gre zvok morda tja. Odpri Nadzorno središče in preveri izhod zvoka. Če je raven v slušalkah omejena, preveri Nastavitve › Zvoki in haptika › Varnost slušalk."
+      ]
+    },
+    {
+      "heading": "Je tiho le eno sporočilo? Kriv je posnetek",
+      "paragraphs": [
+        "Če druga sporočila zvenijo normalno, je težava v datoteki: pošiljatelj je snemal z nizko ravnjo. Gumbi za glasnost tega ne popravijo. Rešitev je izvoziti zvočno datoteko, dvigniti raven v sami datoteki in uporabiti novo različico."
+      ]
+    },
+    {
+      "heading": "Kako izvoziti glasovno sporočilo",
+      "paragraphs": [
+        "WhatsApp shranjuje glasovna sporočila kot zvočne datoteke Opus. Ven jih dobiš prek lista za deljenje:"
+      ],
+      "list": [
+        "Pridrži glasovno sporočilo v klepetu.",
+        "V WhatsAppu tapni Posreduj, nato ikono Deli spodaj desno; v Viberju uporabi Deli v meniju sporočila.",
+        "Izberi Shrani v Datoteke ali neposredno Increase Volume, če je aplikacija prikazana na listu."
+      ],
+      "ordered": true,
+      "note": "Imena menijev se lahko med različicami aplikacij nekoliko razlikujejo."
+    }
+  ],
+  "steps": {
+    "heading": "Ojači glasovno sporočilo z Increase Volume",
+    "intro": "Približno 30 sekund na sporočilo, ko je datoteka v Datotekah.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Uvozi sporočilo",
+        "text": "Odpri Increase Volume in dodaj datoteko iz Datotek ali jo deli neposredno iz klepeta v Increase Volume."
+      },
+      {
+        "name": "Vklopi „Izboljšaj kakovost zvoka“",
+        "text": "Govor je z izboljšavo bolj razumljiv; glas se dvigne nad ozadje."
+      },
+      {
+        "name": "Ojači ×5–×10",
+        "text": "Premakni „Množitelj glasnosti“. Tihi posnetki s telefona pogosto prenesejo ×6–×10. Tapni „Ojači glasnost na ×N“."
+      },
+      {
+        "name": "Poslušaj in shrani",
+        "text": "Preklapljaj Izvirnik in Obdelano, tapni „Prenesi obdelano“ in shrani v Datoteke ali pošlji glasnejšo kopijo nazaj v klepet."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Nasveti",
+    "items": [
+      "V službi ali v avtu je včasih hitreje prositi za novo sporočilo; pri pomembnih stvareh (naslovi, številke) je ojačitev zanesljivejša.",
+      "Veter in hrup avta se prav tako ojačata. Poskusi ×4 pred ×10 in poslušaj, ali se pojavi šum.",
+      "Ojačeno datoteko lahko pošlješ kot zvok v katerikoli aplikaciji za klepet, tudi v Messengerju ali Signalu."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Zakaj so glasovna sporočila na WhatsAppu na iPhonu tako tiha?",
+      "answer": "Najpogosteje zato, ker senzor bližine preklopi na slušalko, ko je telefon ob obrazu. Odmakni ga in med predvajanjem povečaj glasnost predstavnosti."
+    },
+    {
+      "question": "Ali lahko povečam glasnost enega glasovnega sporočila v WhatsAppu?",
+      "answer": "V WhatsAppu ne. Izvozi sporočilo prek Posreduj → Deli, ga ojači v Increase Volume in uporabi glasnejšo kopijo."
+    },
+    {
+      "question": "Ali se kakovost pri ojačitvi glasovnega sporočila izgubi?",
+      "answer": "Glas postane glasnejši brez novih artefaktov, a obstoječi šum v ozadju se prav tako poveča. Začni zmerno in povečuj, medtem ko primerjaš Izvirnik in Obdelano."
+    }
+  ],
+  "related": [
+    "glasovni-zapiski-glasneje",
+    "kako-ojaciti-mp3-na-iphonu",
+    "tih-podcast-zvocna-knjiga-iphone"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

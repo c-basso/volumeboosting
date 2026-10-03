@@ -1,0 +1,121 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "kako ojačati MP3 na iPhonu",
+  "priority": 6,
+  "keywords": "kako ojačati MP3 na iPhonu, glasnejši MP3, ojačati zvočno datoteko iPhone, tih MP3, povečati glasnost brez računalnika",
+  "title": "Kako ojačati MP3 na iPhonu brez računalnika (do 10×)",
+  "description": "Naredi MP3, M4A ali WAV glasnejši neposredno na iPhonu brez računalnika: uvoz iz Datotek, izbira množitelja, primerjava Izvirnik/Obdelano in shranjevanje.",
+  "h1": "Kako ojačati MP3 na iPhonu",
+  "eyebrow": "MP3",
+  "card_title": "Glasnejši MP3",
+  "card_summary": "Brez Audacityja, brez računalnika. Uvozi iz Datotek, premakni drsnik in shrani glasnejšo kopijo MP3.",
+  "quick_answer": "Če želiš ojačati MP3 na iPhonu, odpri Increase Volume, dodaj datoteko iz Datotek, premakni „Množitelj glasnosti“ (×2–×10), tapni „Ojači glasnost“, primerjaj Izvirnik in Obdelano ter tapni „Prenesi obdelano“ → Shrani v Datoteke. Vse poteka v telefonu, brez računalnika in brez nalaganja.",
+  "intro": [
+    "Klasičen način za ojačitev MP3 je Audacity na računalniku. Na iPhonu vgrajene funkcije ni: Datoteke predvajajo, ne spremenijo pa glasnosti, iMovie pa samo zvočnih datotek ne odpre.",
+    "Increase Volume zapolni to vrzel: en drsnik, poslušanje pred shranjevanjem in nova datoteka v Datotekah."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Increase Volume obdeluje datoteko MP3 in prikazuje ime, velikost in trajanje",
+    "caption": "Datoteka MP3, uvožena iz Datotek, pripravljena za ojačitev."
+  },
+  "sections": [
+    {
+      "heading": "Zakaj iPhone sam ne more ojačati MP3",
+      "paragraphs": [
+        "Datoteke in Glasba zvok predvajajo, ne urejajo pa ga. Glasovni zapiski urejajo le lastne posnetke. iMovie dela z videom. Za spremembo ravni MP3 potrebuješ urejevalnik zvoka ali ojačevalnik glasnosti."
+      ]
+    },
+    {
+      "heading": "Katere datoteke delujejo",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "Oblika",
+          "Podpora",
+          "Opomba"
+        ],
+        "rows": [
+          [
+            "MP3",
+            "Da",
+            "Najpogostejša oblika prenosov in podkastov"
+          ],
+          [
+            "M4A / AAC",
+            "Da",
+            "Glasovni zapiski in nakupi iTunes brez DRM"
+          ],
+          [
+            "WAV",
+            "Da",
+            "Brez stiskanja, veliko rezerve"
+          ],
+          [
+            "Apple Music / Spotify",
+            "Ne",
+            "Pretakanje z zaščito DRM"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Za koliko ojačati?",
+      "paragraphs": [
+        "Tih podkast ali posnetek pogosto prenese ×4–×10. Končna masterirana skladba ima malo rezerve; začni pri ×2. Pred shranjevanjem poslušaj najglasnejše dele z Izvirnik/Obdelano."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Korak za korakom: ojači MP3",
+    "intro": "Približno minuta.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Dodaj datoteko",
+        "text": "Odpri aplikacijo in izberi MP3 v Datotekah ali ga deli v Increase Volume iz druge aplikacije."
+      },
+      {
+        "name": "Izberi množitelj",
+        "text": "Premakni „Množitelj glasnosti“. Za govor vklopi „Izboljšaj kakovost zvoka“."
+      },
+      {
+        "name": "Ojači",
+        "text": "Tapni „Ojači glasnost na ×N“ in preklapljaj Izvirnik in Obdelano."
+      },
+      {
+        "name": "Shrani v Datoteke",
+        "text": "Tapni „Prenesi obdelano“ in izberi Shrani v Datoteke."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Nasveti",
+    "items": [
+      "Novi datoteki v Datotekah daj jasno ime, npr. „skladba_glasneje“.",
+      "Seznam projektov v aplikaciji ti omogoča, da se vrneš in poskusiš drugo raven.",
+      "Velike datoteke WAV se obdelujejo nekoliko dlje, a še vedno na napravi."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Ali lahko ojačam MP3 brez računalnika?",
+      "answer": "Da. Increase Volume to naredi neposredno na iPhonu in glasnejšo kopijo shrani v Datoteke."
+    },
+    {
+      "question": "Ali se datoteka naloži na strežnik?",
+      "answer": "Ne. Obdelava poteka na iPhonu, brez računa in brez nalaganja."
+    },
+    {
+      "question": "Ali lahko ojačam skladbo iz Apple Music?",
+      "answer": "Ne, pretočna glasba je zaščitena z DRM. Aplikacija deluje z datotekami, ki so tvoje."
+    }
+  ],
+  "related": [
+    "tiha-glasba-iphone",
+    "tih-podcast-zvocna-knjiga-iphone",
+    "glasneje-brez-izgube-kakovosti"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

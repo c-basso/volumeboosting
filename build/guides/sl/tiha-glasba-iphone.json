@@ -1,0 +1,102 @@
+{
+  "en_slug": "how-to-make-music-louder-on-iphone",
+  "keyword": "tiha glasba na iPhonu",
+  "priority": 5,
+  "keywords": "tiha glasba na iPhonu, kako ojačati glasbo na iPhonu, iPhone igra tiho, povečati glasnost glasbe, ojačevalnik glasbe",
+  "title": "Glasba na iPhonu igra tiho? 6 nastavitev in ojačitev do 10×",
+  "description": "Glasba na iPhonu igra tiho? Preveri varnost slušalk, izenačevalnik, preverjanje zvoka in ravnovesje, svoje MP3 in M4A pa ojači do 10× z Increase Volume.",
+  "h1": "Tiha glasba na iPhonu: nastavitve in rešitev",
+  "eyebrow": "Glasba",
+  "card_title": "Tiha glasba",
+  "card_summary": "Šest nastavitev, ki utišajo glasbo, in kako lastne zvočne datoteke ojačaš do 10×.",
+  "quick_answer": "Če je na iPhonu tiha vsa glasba, preveri Nastavitve › Zvoki in haptika › Varnost slušalk (zmanjšanje glasnih zvokov), izenačevalnik v nastavitvah Glasbe, preverjanje zvoka in ravnovesje v Dostopnosti. Če je tiha ena datoteka (MP3, posnetek, demo), jo odpri v Increase Volume, ojači ×2–×5 in glasnejšo kopijo shrani v Datoteke. Glasbe iz Apple Music ali Spotifyja ni mogoče ojačati kot datoteke, ker je zaščitena.",
+  "intro": [
+    "Za „glasba je pretiha“ se skrivata dve različni težavi: nastavitev, ki omejuje ves zvok, ali datoteka, ki je posneta ali zmiksana tiho. Prvo popraviš v Nastavitvah, za drugo mora biti glasnejša sama datoteka.",
+    "Tukaj sta obe, v vrstnem redu, v katerem ju je smiselno preveriti."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Increase Volume obdeluje datoteko MP3 in prikazuje ime, velikost in trajanje",
+    "caption": "Tvoje zvočne datoteke (MP3, M4A, WAV) se obdelajo na napravi."
+  },
+  "sections": [
+    {
+      "heading": "Šest nastavitev, ki utišajo glasbo",
+      "paragraphs": [],
+      "list": [
+        "Varnost slušalk: Nastavitve › Zvoki in haptika › Varnost slušalk lahko omeji raven v slušalkah.",
+        "Izenačevalnik: Nastavitve › Glasba › Izenačevalnik. Nastavitev „Pozno ponoči“ dvigne tihe dele in lahko v hrupu glasba deluje glasneje.",
+        "Preverjanje zvoka: Nastavitve › Glasba. Ko je vklopljeno, izenači glasnost med skladbami, kar lahko utiša glasne skladbe.",
+        "Ravnovesje: Nastavitve › Dostopnost › Zvok in slika › Ravnovesje naj bo na sredini.",
+        "Bluetooth: nekatere slušalke imajo lastno glasnost; preveri njihovo aplikacijo.",
+        "Umazanija v zvočniku ali priključku duši zvok; previdno ju očisti."
+      ],
+      "ordered": true,
+      "note": "Imena menijev so po iOS 18 in se v drugih različicah lahko nekoliko razlikujejo."
+    },
+    {
+      "heading": "Ko je tiha ena datoteka: ojači datoteko",
+      "paragraphs": [
+        "Demo posnetki, posnetki v živo, stari MP3 in prenesene datoteke so pogosto zmiksani tiho. Increase Volume odpre datoteko iz Datotek, pomnoži raven in shrani novo datoteko. Močnejši basi dodajo polnost, ko ojačaš glasbo."
+      ]
+    },
+    {
+      "heading": "Česa ni mogoče ojačati",
+      "paragraphs": [
+        "Skladbe iz Apple Music, Spotifyja in drugih pretočnih storitev so zaščitene z DRM in jih ni mogoče odpreti kot datoteke. Zanje veljajo zgornje nastavitve. Datoteke, ki so tvoje, lahko ojačaš."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Ojači zvočno datoteko z Increase Volume",
+    "intro": "Deluje z MP3, M4A in WAV iz Datotek.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Uvozi iz Datotek",
+        "text": "Odpri aplikacijo in izberi skladbo v Datotekah."
+      },
+      {
+        "name": "Izberi raven",
+        "text": "Glasba je običajno zmiksana blizu maksimuma; začni pri ×2–×3 in previdno povečuj."
+      },
+      {
+        "name": "Primerjaj",
+        "text": "Tapni „Ojači glasnost na ×N“ in poslušaj refren s preklapljanjem Izvirnik/Obdelano."
+      },
+      {
+        "name": "Shrani",
+        "text": "Tapni „Prenesi obdelano“ → Shrani v Datoteke."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Nasveti",
+    "items": [
+      "Komercialno masterirana glasba ima malo rezerve; pogosto zadošča ×2.",
+      "Posnetki v živo s telefona imajo veliko rezerve in prenesejo ×5 ali več.",
+      "Obdrži izvirnik; aplikacija vedno ustvari novo datoteko."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Zakaj je glasba v slušalkah tišja kot prej?",
+      "answer": "Pogosto zato, ker je vklopljeno zmanjšanje glasnih zvokov v Varnosti slušalk ali pa je iPhone znižal raven po dolgem poslušanju na visoki glasnosti."
+    },
+    {
+      "question": "Ali lahko z aplikacijo ojačam glasbo iz Spotifyja?",
+      "answer": "Ne. Pretočna glasba je zaščitena in je ni mogoče odpreti kot datoteke. Uporabi nastavitve Spotifyja in iOS."
+    },
+    {
+      "question": "Ali se bo skladba popačila?",
+      "answer": "Le če vrhovi presežejo strop. Poslušaj z Izvirnik/Obdelano in ob hreščanju zmanjšaj množitelj."
+    }
+  ],
+  "related": [
+    "kako-ojaciti-mp3-na-iphonu",
+    "glasneje-brez-izgube-kakovosti",
+    "tih-podcast-zvocna-knjiga-iphone"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

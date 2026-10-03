@@ -1,0 +1,100 @@
+{
+  "en_slug": "how-to-make-a-whatsapp-voice-message-louder",
+  "keyword": "WhatsApp sesli mesaj sesi düşük",
+  "priority": 2,
+  "keywords": "WhatsApp sesli mesaj sesi düşük, WhatsApp ses kaydı sesini artırma, sesli mesaj duyulmuyor, iPhone WhatsApp ses kısık",
+  "title": "iPhone'da WhatsApp Sesli Mesaj Sesi Düşük mü? Çözüm",
+  "description": "WhatsApp sesli mesajları duyulmuyor mu? Ahize ve ayar kaynaklı nedenleri düzeltin, sessiz kaydedilmiş mesajı Ses Yükseltici ile 10 kata kadar yükseltin.",
+  "h1": "iPhone'da WhatsApp sesli mesajın sesi düşükse ne yapmalı",
+  "eyebrow": "WhatsApp",
+  "card_title": "WhatsApp sesli mesaj",
+  "card_summary": "Tüm mesajlar sessizse sorun ayarlarda; yalnızca biri sessizse o kaydın kendisini güçlendirmek gerekir.",
+  "quick_answer": "Tüm WhatsApp sesli mesajları sessiz geliyorsa telefonu kulağa götürdüğünüzde ses ahizeye geçiyordur ya da medya sesi düşüktür. Yalnızca bir mesaj sessizse WhatsApp'ta mesaja basılı tutun, İlet → Paylaş ile Ses Yükseltici'ye gönderin, ×3–×6 güçlendirin ve yüksek sesli kopyayı kaydedin ya da yeniden gönderin.",
+  "intro": [
+    "Türkiye'de WhatsApp sesli mesajları gündelik hayatın parçası: aile grupları, iş grupları, kurye tarifleri. Biri telefonu uzak tutarak ya da gürültülü bir caddede konuştuğunda mesaj tam seste bile anlaşılmaz.",
+    "Önce sorunun telefonda mı kayıtta mı olduğunu ayırın. Sonra gereken mesajı Ses Yükseltici ile yükseltin."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/tr/6.webp",
+    "alt": "«İNDİR VE PAYLAŞ» ekran görüntüsü: güçlendirilmiş ses için Kopyala, Etiket Ekle ve Dosyalar'a Kaydet seçenekleri olan iOS paylaşım ekranı",
+    "caption": "Güçlendirilmiş mesajı Dosyalar'a kaydedin veya doğrudan WhatsApp'a geri gönderin."
+  },
+  "sections": [
+    {
+      "heading": "Tüm mesajlar sessizse: oynatma nedenleri",
+      "paragraphs": [
+        "iPhone'un yakınlık sensörü, telefonu kulağınıza götürdüğünüzde sesi küçük ahizeye aktarır. Telefonu yüzünüzden uzak tutarak dinleyin."
+      ],
+      "list": [
+        "Mesaj çalarken yandaki ses açma düğmesine basın; WhatsApp medya sesini kullanır.",
+        "Denetim Merkezi'nde Bluetooth kulaklık bağlı olup olmadığını kontrol edin.",
+        "Ayarlar › Ses ve Dokunuş › Kulaklık Güvenliği'nde «Yüksek Sesleri Azalt» açıksa kulaklıktaki ses sınırlanır.",
+        "Hoparlör ızgarasını yumuşak bir fırçayla temizleyin."
+      ]
+    },
+    {
+      "heading": "Yalnızca bir mesaj sessizse: kayıt sorunu",
+      "paragraphs": [
+        "Gönderen mikrofona uzak konuştuysa veya mikrofonu parmağıyla kapattıysa ses dosyanın içinde düşüktür. Hiçbir ayar bunu düzeltmez; dosyanın seviyesini yükseltmeniz gerekir. WhatsApp sesli mesajları .opus biçimindedir ve Ses Yükseltici bunları iOS paylaşım ekranı üzerinden açar."
+      ]
+    },
+    {
+      "heading": "Mesaj WhatsApp'tan Ses Yükseltici'ye nasıl gönderilir",
+      "paragraphs": [
+        "Sohbette sesli mesaja basılı tutun, İlet'i seçin ve alttaki paylaş simgesine dokunun. Uygulama listesinden Ses Yükseltici'yi seçin. Görünmüyorsa önce «Dosyalar'a Kaydet»i seçip dosyayı uygulamadan içe aktarın."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Adım adım: WhatsApp sesli mesajını yükseltin",
+    "intro": "Mesaj başına bir dakikadan az.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Mesajı paylaşın",
+        "text": "Sesli mesaja basılı tutun → İlet → Paylaş → Ses Yükseltici."
+      },
+      {
+        "name": "Konuşma için iyileştirmeyi açın",
+        "text": "«Ses kalitesini iyileştir»i açın; konuşmanın anlaşılır kalmasına yardımcı olur."
+      },
+      {
+        "name": "Güçlendirin ve dinleyin",
+        "text": "×3–×6'ya çekip «Sesi güçlendir»e dokunun. Orijinal/İşlenmiş anahtarıyla karşılaştırın."
+      },
+      {
+        "name": "Kaydedin veya geri gönderin",
+        "text": "«İşlenmişi indir»e dokunup Dosyalar'a kaydedin ya da paylaşım ekranından doğrudan WhatsApp'a gönderin."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "İpuçları",
+    "items": [
+      "Kendiniz kaydederken telefonun alt kısmını ağzınızdan 10–15 cm uzakta tutun; mikrofon oradadır.",
+      "Önemli mesajları (adres, telefon numarası) güçlendirip Dosyalar'da saklayın.",
+      "Trafik gürültüsü yüksekse orta bir çarpan kullanın; güçlendirme arka plan gürültüsünü de yükseltir."
+    ]
+  },
+  "faq": [
+    {
+      "question": "WhatsApp sesli mesajı neden bu kadar sessiz?",
+      "answer": "Genellikle ses ahizeye geçer, medya sesi düşüktür veya gönderen mikrofona uzaktan kaydetmiştir. Son durumda dosyanın kendisini güçlendirmek gerekir."
+    },
+    {
+      "question": "Sesli mesajın sesi WhatsApp içinde artırılabilir mi?",
+      "answer": "Hayır. WhatsApp'ta yalnızca oynatma hızı var, ses güçlendirme yok. Mesajı Ses Yükseltici'ye paylaşıp yüksek sesli bir kopya oluşturun."
+    },
+    {
+      "question": "Gönderen bunu fark eder mi?",
+      "answer": "Hayır. Mesajın bir kopyasını kendi iPhone'unuzda işlersiniz; sohbette hiçbir şey değişmez."
+    }
+  ],
+  "related": [
+    "sesli-not-sesini-yukseltme",
+    "mp3-sesini-yukseltme-iphone",
+    "podcast-sesli-kitap-sesi-dusuk"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

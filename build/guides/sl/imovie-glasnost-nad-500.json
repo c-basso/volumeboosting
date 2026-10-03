@@ -1,0 +1,120 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie glasnost nad 500 %",
+  "priority": 11,
+  "keywords": "iMovie glasnost nad 500 %, iMovie glasnejši zvok, meja glasnosti iMovie, povečati glasnost v iMovie iPhone, iMovie tih zvok",
+  "title": "iMovie se ustavi pri 500 %? Kako narediti video še glasnejši",
+  "description": "Drsnik glasnosti v iMovie na iPhonu se ustavi pri približno 500 %. Kako posnetek ojačaš do 1000 % (10×) z Increase Volume, pred iMovie ali po izvozu iz njega.",
+  "h1": "Glasnost v iMovie nad 500 %: kako preseči mejo",
+  "eyebrow": "iMovie",
+  "card_title": "iMovie nad 500 %",
+  "card_summary": "iMovie se ustavi pri približno 5×. Ojači posnetek na 10×, preden ga dodaš v projekt.",
+  "quick_answer": "V iMovie na iPhonu se drsnik glasnosti ustavi pri približno 500 % (5×). Za več najprej ojači posnetek v Increase Volume (Deli → Increase Volume, do ×10), ga shrani v Fotografije in v iMovie uvozi glasnejšo kopijo. Ali pa iMovie izpusti: aplikacija odpre tudi samo zvočne datoteke in shranjuje brez projekta in izvoza.",
+  "intro": [
+    "iMovie je brezplačen in odličen za rezanje, a glasnost ima strop. Ko 500 % ne zadošča, je običajen trik podvojiti zvočni posnetek, česar iMovie na iPhonu ne olajša.",
+    "Tukaj je hitrejša pot."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Drsnik „Množitelj glasnosti ×10“ in gumb „Ojači glasnost na ×10“ v Increase Volume",
+    "caption": "Increase Volume gre do ×10, dvakrat več kot meja v iMovie."
+  },
+  "sections": [
+    {
+      "heading": "iMovie proti Increase Volume",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Increase Volume"
+        ],
+        "rows": [
+          [
+            "Največja glasnost",
+            "okoli 500 % (5×)",
+            "1000 % (10×)"
+          ],
+          [
+            "Zvočne datoteke (MP3, M4A)",
+            "Ne",
+            "Da"
+          ],
+          [
+            "Projekt in izvoz",
+            "Obvezna",
+            "Ne, en drsnik"
+          ],
+          [
+            "Poslušanje pred shranjevanjem",
+            "Na časovnici",
+            "Izvirnik/Obdelano"
+          ],
+          [
+            "Cena",
+            "Brezplačno",
+            "Brezplačen prenos, naročnina"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Uporabi oba skupaj",
+      "paragraphs": [
+        "Increase Volume uporabi za raven, iMovie pa za montažo. Surov posnetek ojači na primer na ×8, ga uvozi v iMovie in nadaljuj z montažo. Tako ti drsnika v iMovie ni treba vleči do maksimuma."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Preseži 500 %",
+    "intro": "Preden posnetek dodaš v iMovie.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Deli posnetek z aplikacijo",
+        "text": "V Fotografijah: Deli → Increase Volume."
+      },
+      {
+        "name": "Ojači",
+        "text": "Premakni „Množitelj glasnosti“ na ×6–×10 in tapni „Ojači glasnost na ×N“."
+      },
+      {
+        "name": "Shrani",
+        "text": "„Prenesi obdelano“ → Shrani video."
+      },
+      {
+        "name": "Uvozi v iMovie",
+        "text": "Dodaj glasnejšo kopijo v projekt iMovie in nadaljuj."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Nasveti",
+    "items": [
+      "Ojači pred montažo; ponoven izvoz iz iMovie traja.",
+      "Če si iz iMovie že izvozil, ojači izvoženo datoteko.",
+      "Za govor vklopi „Izboljšaj kakovost zvoka“."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kolikšna je največja glasnost v iMovie na iPhonu?",
+      "answer": "Približno 500 % (5×) na posnetek."
+    },
+    {
+      "question": "Ali lahko v iMovie posnetek ojačam nad 500 %?",
+      "answer": "Neposredno ne. Najprej ojači posnetek v Increase Volume in uvozi glasnejšo kopijo."
+    },
+    {
+      "question": "Ali Increase Volume odpira projekte iMovie?",
+      "answer": "Ne, odpre pa videe, ki jih izvoziš iz iMovie."
+    }
+  ],
+  "related": [
+    "kako-povecati-glasnost-videa-na-iphonu",
+    "glasneje-brez-izgube-kakovosti",
+    "glasnost-videa-v-fotografijah"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

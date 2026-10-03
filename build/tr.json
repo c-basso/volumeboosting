@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "tr",
-    "title": "iPhone ses yükseltme – ses ve video uygulaması ~10×",
-    "description": "iPhone ses yükseltme uygulaması: ses ve videoyu ~10× yükseltin, netlik ve bas ile. Müzik, podcast, sesli notlar. Cihazda işlenir. App Store'da ücretsiz deneyin.",
-    "keywords": "iPhone ses yükseltme, video sesi artırma, düşük sesli video, ses güçlendirici, ses yükseltici uygulama, iPhone uygulaması, ekran kaydı sesi, ses netleştirme, ses güçlendirme, Increase Volume",
+    "title": "iPhone'da Video Sesi Yükseltme – Ses Yükseltici Volume Boost",
+    "description": "iPhone'da video, MP3 ve sesli not sesini 10 kata kadar yükseltin. Ses Yükseltici dosyanın kendisini güçlendirir, sesi net tutar ve yeni bir kopya kaydeder.",
+    "keywords": "iPhone video sesi yükseltme, video sesini artırma, ses yükseltici, ses artırıcı uygulama, MP3 sesini yükseltme, WhatsApp sesli mesaj sesi düşük, ekran kaydı sesi düşük, TikTok video sesi, Volume Boost",
     "canonical": "https://volumeboosting.com/tr/",
-    "og_title": "iPhone ses yükseltme",
-    "og_description": "iPhone ses yükseltme uygulaması: ses ve videoyu ~10× yükseltin, netlik ve bas ile. Müzik, podcast, sesli notlar. Cihazda işlenir. App Store'da ücretsiz deneyin.",
+    "og_title": "iPhone'da video ve ses dosyalarını 10 kata kadar yükseltin",
+    "og_description": "Video, MP3 veya sesli not kısık mı? Ses Yükseltici dosyanın kendisini 10 kata kadar yükseltir; orijinalle karşılaştırıp daha yüksek kopyayı kaydedin.",
     "og_image": "https://volumeboosting.com/tr/site_preview.png",
     "og_image_alt": "Increase Volume – Ses güçlendirme uygulama simgesi",
     "og_url": "https://volumeboosting.com/tr/",
     "og_locale": "tr_TR",
     "twitter_url": "https://volumeboosting.com/tr/",
-    "twitter_title": "iPhone ses yükseltme",
-    "twitter_description": "iPhone ses yükseltme uygulaması: ses ve videoyu ~10× yükseltin, netlik ve bas ile. Müzik, podcast, sesli notlar. Cihazda işlenir. App Store'da ücretsiz deneyin.",
+    "twitter_title": "iPhone'da video ve ses dosyalarını 10 kata kadar yükseltin",
+    "twitter_description": "Video, MP3 veya sesli not kısık mı? Ses Yükseltici dosyanın kendisini 10 kata kadar yükseltir; orijinalle karşılaştırıp daha yüksek kopyayı kaydedin.",
     "twitter_image": "https://volumeboosting.com/tr/site_preview.png",
     "twitter_image_alt": "Increase Volume – Ses güçlendirme uygulama simgesi"
   },
@@ -45,7 +45,7 @@
     "footnote_item3": "müzik",
     "footnote_item4": "sosyal medya klipleri",
     "footnote_last_joiner": " ve ",
-    "device_image_src": "/img/screenshots/1.webp",
+    "device_image_src": "/img/screenshots/tr/1.webp",
     "device_image_alt": "Increase Volume – Ses güçlendirme, iPhone'da — ses ve video seviyesini yükseltme",
     "cta_secondary_link": "Nasıl çalıştığını görün",
     "proof_aria": "Uygulama hakkında gerçekler",
@@ -188,44 +188,61 @@
     "breadcrumb_home": "Ana sayfa",
     "faq": [
       {
-        "question": "Increase Volume – Ses güçlendirme nedir?",
-        "answer": "App Store'da «Müzik» kategorisindeki bir iPhone uygulamasıdır; içe aktarılan ses ve video dosyalarını yaklaşık 10× kadar güçlendirir ve yeni bir dosya kaydetmenizi sağlar. Medyayı cihazda işler; düşük kayıtlar, podcastler ve klipler içindir — iOS'ta tüm sistem sesi için donanım sınırlarını aşmak için değildir."
+        "question": "iPhone'da video sesi nasıl yükseltilir?",
+        "answer": "Ses Yükseltici'yi açın, videoyu Fotoğraflar'dan içe aktarın (veya uygulamaya paylaşın), «Ses çarpanı»nı ×10'a kadar çekip «Sesi güçlendir»e dokunun. Orijinal ile işlenmişi karşılaştırıp «İşlenmişi indir»e dokunun. Yüksek sesli kopya Fotoğraflar'a veya Dosyalar'a kaydedilir ve her cihazda yüksek çalar.",
+        "guide": "iphone-video-sesi-nasil-yukseltilir"
       },
       {
-        "question": "Increase Volume – Ses güçlendirme nasıl çalışır?",
-        "answer": "Bir video, şarkı veya kayıt içe aktarırsınız (Fotoğraflar dahil), güç kaydırıcısıyla birlikte netlik ve bası ayarlarsınız, gerçek zamanlı önizleme yaparsınız, ardından güçlendirilmiş dosyayı iPhone'a kaydeder veya paylaşırsınız."
+        "question": "iPhone'da WhatsApp sesli mesajı neden kısık?",
+        "answer": "Çoğu zaman telefonu kulağa götürdüğünüzde ses ahizeye geçer ya da kaydın kendisi sessizdir. Hoparlörde de kısıksa mesajı dosya olarak Ses Yükseltici'ye paylaşın, güçlendirin ve yüksek sesli kopyayı kaydedin.",
+        "guide": "whatsapp-sesli-mesaj-sesi-dusuk"
       },
       {
-        "question": "Sadece iPhone sesini açmaktan daha mı iyi?",
-        "answer": "Farklı sorunlardır. Sistem sesi oynatmayı geçici olarak yükseltir. Bu uygulama kalıcı olarak daha güçlü bir dosya üretir — kayıt zaten düşükse veya güçlendirilmiş sürümü göndermeniz gerektiğinde işe yarar."
+        "question": "iPhone ekran kaydında ses neden düşük?",
+        "answer": "iOS ekran kaydı dahili sesi sistem ses seviyesinde kaydeder; mikrofon açıksa sesiniz uzaktan gelir. Kaydı Ses Yükseltici'ye aktarıp ×3–×5 güçlendirin ve yeni video olarak kaydedin.",
+        "guide": "ekran-kaydi-sesi-dusuk-iphone"
       },
       {
-        "question": "Increase Volume, ses konusunda VLC veya Audacity'den nasıl farklıdır?",
-        "answer": "VLC ve Audacity, normalizasyon, yükseltme ve birçok seçenek sunan güçlü masaüstü araçlarıdır. Increase Volume iPhone için üretilmiştir: kısa içe aktar → kaydırıcı → kaydet akışı, bilgisayarda zaman çizelgesi olmadan."
+        "question": "Sesli not kaydının sesi nasıl yükseltilir?",
+        "answer": "Sesli Notlar'daki «Kaydı İyileştir» gürültüyü azaltır ama sesi yükseltmez. Kaydı Paylaş ile Ses Yükseltici'ye gönderin, ×2–×6 güçlendirin ve yüksek sesli kopyayı Dosyalar'a kaydedin.",
+        "guide": "sesli-not-sesini-yukseltme"
       },
       {
-        "question": "Increase Volume hem video hem ses için çalışır mı?",
-        "answer": "Evet. Ses içeren videoları, müzik parçalarını, podcastleri, sesli notları ve ekran kayıtlarını güçlendirip sonucu kaydedebilirsiniz."
+        "question": "iPhone'da bilgisayarsız MP3 sesi yükseltilebilir mi?",
+        "answer": "Evet. MP3'ü Dosyalar'dan Ses Yükseltici'ye aktarın, çarpanı seçin ve yeni dosyayı kaydedin. Her şey iPhone'da gerçekleşir; bilgisayar veya yükleme gerekmez.",
+        "guide": "mp3-sesini-yukseltme-iphone"
       },
       {
-        "question": "Güçlendirilmiş dosya iPhone'uma kaydedilir mi?",
-        "answer": "Evet. İşlemden sonra daha güçlü dosyayı cihaza kaydeder ve diğer medya dosyaları gibi paylaşabilirsiniz."
+        "question": "Fotoğraflar uygulamasında video sesi yükseltilebilir mi?",
+        "answer": "Fotoğraflar düzenleyicisi sesi yalnızca kapatabilir, yükseltemez. Videoyu Fotoğraflar'dan Ses Yükseltici'ye paylaşın, güçlendirin ve «Videoyu Kaydet» ile Fotoğraflar'a geri kaydedin.",
+        "guide": "fotograflar-video-sesini-yukseltme"
       },
       {
-        "question": "Increase Volume – Ses güçlendirme ne kadar?",
-        "answer": "Güncel fiyat ve uygulama içi satın almalar App Store listesindedir. Sitenin yapılandırılmış verileri ücretsiz teklif belirtebilir; alıntılamadan önce Apple'ı kontrol edin."
+        "question": "Kalite kaybetmeden ve cızırtısız ses nasıl yükseltilir?",
+        "answer": "Küçük adımlarla güçlendirin ve her seferinde yüksek kısımları kulaklıkla dinleyin. Cızırtı duyarsanız çarpanı düşürün. Orijinal dosya değişmez, her zaman yeniden başlayabilirsiniz.",
+        "guide": "kalite-kaybetmeden-ses-yukseltme"
       },
       {
-        "question": "Increase Volume – Ses güçlendirme'u kim yayımlıyor?",
-        "answer": "Uygulama c-basso tarafından yayımlanır ve Apple App Store (ID 6741472421) üzerinden dağıtılır. Ürün sitesi volumeboosting.com'dur."
+        "question": "iMovie'de ses %500'ün üzerine çıkarılabilir mi?",
+        "answer": "Hayır, iMovie klip sesini %500'de durdurur. iMovie'den dışa aktarılan videoyu Ses Yükseltici'ye aktarın, kalan güçlendirmeyi ekleyin ve yeni kopyayı kaydedin.",
+        "guide": "imovie-ses-500-uzeri"
       },
       {
-        "question": "iPhone'da çok düşük sesli bir videoyu nasıl yükseltirim?",
-        "answer": "Increase Volume – Ses güçlendirme ile videoyu içe aktarın (ör. Fotoğraflar uygulamasından), canlı önizlemeyle güç kaydırıcısını ayarlayın ve daha yüksek sesli bir kopya kaydedin. Böylece dosyadaki seviyeyi düzeltirsiniz — yalnızca oynatırken sistem sesini artırmaktan farklıdır."
+        "question": "Uygulama iPhone hoparlörünü daha yüksek yapar mı?",
+        "answer": "Hayır. Hiçbir uygulama hoparlörün fiziksel sınırını aşamaz veya sistem genelindeki sesi değiştiremez. Uygulama dosyanın kendisini yükseltir; kayıt sessizse bu işe yarar. Tüm videolar kısıksa önce oynatma nedenlerini kontrol edin.",
+        "guide": "iphone-video-sesi-neden-dusuk#oynatma"
       },
       {
-        "question": "Uygulama müzik ve aramalar için iPhone'un maksimum sesini artırır mı?",
-        "answer": "Hayır. İçe aktardığınız dosyaları işler ve kaydetmek veya paylaşmak için daha güçlü bir sürüm üretir. Donanım sınırı ve Spotify, aramalar vb. için genel ses değişmez."
+        "question": "Ses Yükseltici'nin fiyatı ne kadar?",
+        "answer": "İndirmesi ücretsiz ve ücretsiz deneme var. Sınırsız güçlendirme abonelikle açılır; ülkenizdeki güncel fiyatı App Store'da görebilirsiniz. İşlem her zaman iPhone'unuzda gerçekleşir.",
+        "guide": "",
+        "learn_more_url": "__APP_STORE_URL__",
+        "learn_more_title": "Ses Yükseltici – Volume Boost: ücretsiz indirin ve App Store'daki güncel fiyatı görün"
+      },
+      {
+        "question": "Dosyalarım bir sunucuya yüklenir mi?",
+        "answer": "Hayır. İşlem iPhone'unuzda, hesap ve yükleme olmadan gerçekleşir. Sonuç iOS paylaşım ekranıyla Fotoğraflar'a, Dosyalar'a veya seçtiğiniz bir uygulamaya kaydedilir.",
+        "guide": "kalite-kaybetmeden-ses-yukseltme#gizlilik"
       }
     ],
     "structured_data": {
@@ -325,37 +342,37 @@
     "aria": "Uygulama ekran görüntüleri, yatay kaydırın",
     "items": [
       {
-        "src": "/img/screenshots/1.webp",
-        "alt": "Increase Volume tanıtım görseli: ses yükseltici ve ses güçlendirici, on kata kadar daha yüksek",
+        "src": "/img/screenshots/tr/1.webp",
+        "alt": "«SESİ YÜKSELT, 1000%'E KADAR» tanıtım görseli: Increase Volume tanıtım görseli: ses yükseltici ve ses güçlendirici, on kata kadar daha yüksek",
         "caption": "Ses yükseltici ve ses güçlendirici: 10× kadar daha yüksek."
       },
       {
-        "src": "/img/screenshots/2.webp",
-        "alt": "Increase Volume'daki video oynatıcı; bir parmak videoyu daha yüksek sesli yapmak için pembe güçlendirme kaydırıcısını sürüklüyor",
+        "src": "/img/screenshots/tr/2.webp",
+        "alt": "«VİDEO SESİ YÜKSELT»: Increase Volume'daki video oynatıcı; bir parmak videoyu daha yüksek sesli yapmak için pembe güçlendirme kaydırıcısını sürüklüyor",
         "caption": "Videoyu daha yüksek sesli yapın: kaydırıcıyı video önizlemesinde sürükleyin."
       },
       {
-        "src": "/img/screenshots/3.webp",
-        "alt": "Increase Volume bir MP3 dosyasını işliyor; dosya adı, boyutu ve süresi görünüyor",
+        "src": "/img/screenshots/tr/3.webp",
+        "alt": "«SES YÜKSELT – Tüm Sesler»: Increase Volume bir MP3 dosyasını işliyor; dosya adı, boyutu ve süresi görünüyor",
         "caption": "Müziği daha yüksek sesli yapın: MP3 ve diğer ses dosyaları cihazda işlenir."
       },
       {
-        "src": "/img/screenshots/4.webp",
-        "alt": "«Ses kalitesini iyileştir» anahtarı, «Ses çarpanı ×10» kaydırıcısı ve «Sesi ×10'a güçlendir» düğmesiyle parça ayrıntıları",
+        "src": "/img/screenshots/tr/4.webp",
+        "alt": "Güçlendirme miktarını seçin: «Ses kalitesini iyileştir» anahtarı, «Ses çarpanı ×10» kaydırıcısı ve «Sesi ×10'a güçlendir» düğmesiyle parça ayrıntıları",
         "caption": "Güçlendirme miktarını seçin: hafif bir artıştan 10×'a kadar."
       },
       {
-        "src": "/img/screenshots/5.webp",
-        "alt": "«İşlenmişi indir» düğmesi ve Orijinal/İşlenmiş anahtarıyla sonuç ekranı",
+        "src": "/img/screenshots/tr/5.webp",
+        "alt": "«DİNLE – İŞLENMİŞ SONUÇ»: «İşlenmişi indir» düğmesi ve Orijinal/İşlenmiş anahtarıyla sonuç ekranı",
         "caption": "Sonucu dinleyin ve kaydetmeden önce orijinalle karşılaştırın."
       },
       {
-        "src": "/img/screenshots/6.webp",
-        "alt": "Güçlendirilmiş ses için Kopyala, Etiket ekle ve Dosyalar'a kaydet seçeneklerini gösteren iOS paylaşım sayfası",
+        "src": "/img/screenshots/tr/6.webp",
+        "alt": "«İNDİR VE PAYLAŞ – Her Yerde»: Güçlendirilmiş ses için Kopyala, Etiket ekle ve Dosyalar'a kaydet seçeneklerini gösteren iOS paylaşım sayfası",
         "caption": "İndirin ve her yerde paylaşın: Fotoğraflar, Dosyalar, Mesajlar, WhatsApp, AirDrop."
       },
       {
-        "src": "/img/screenshots/7.webp",
+        "src": "/img/screenshots/tr/7.webp",
         "alt": "Increase Volume'daki proje listesi; MP3 ve MP4 dosyaları, boyut ve süre bilgileriyle",
         "caption": "Birden fazla projeyi saklayın ve daha sonra geri dönün."
       }
@@ -376,5 +393,35 @@
     "title": "Düşük sesli dosyanız, bir dakikadan kısa sürede 10× daha yüksek.",
     "text": "Increase Volume – Ses güçlendirme'yi indirin, kimsenin duyamadığı videoyu veya sesi içe aktarın, kaydırıcıyı sürükleyin ve yüksek sesli sürümü paylaşın.",
     "note": "Ücretsiz indirme · iOS 18.6 veya üzeri gerekir · App Store'da 4,5★"
+  },
+  "guides": {
+    "eyebrow": "Rehberler",
+    "title": "iPhone'da düşük sesi her durumda düzeltin",
+    "intro": "Her rehber insanların gerçekten aradığı bir soruyu yanıtlar, iOS araçlarının neyi yapıp neyi yapamadığını dürüstçe söyler ve ardından Ses Yükseltici'de atmanız gereken adımları gösterir.",
+    "hub_link_text": "Tüm rehberler",
+    "read_more": "Rehberi oku",
+    "hub": {
+      "title": "Rehberler: iPhone'da ses nasıl yükseltilir – video, ses, MP3",
+      "description": "iPhone'da video, sesli not, MP3, ekran kaydı ve WhatsApp sesli mesaj sesini yükseltmek için adım adım rehberler; hem iOS araçlarıyla hem de uygulamayla.",
+      "h1": "Rehberler: iPhone'da video ve ses dosyalarının sesi nasıl yükseltilir",
+      "intro": "Her rehber doğrudan bir cevapla başlar, ücretsiz iOS yollarını (Fotoğraflar, iMovie, Sesli Notlar) dürüstçe gösterir ve Ses Yükseltici ile 10 kata kadar daha yüksek sese nasıl ulaşacağınızı anlatır.",
+      "keywords": "iPhone ses yükseltme rehberi, video sesini artırma, MP3 sesini yükseltme, sesli mesaj sesi düşük, ekran kaydı sesi düşük"
+    },
+    "labels": {
+      "home": "Ana sayfa",
+      "guides": "Rehberler",
+      "breadcrumb_aria": "İçerik haritası",
+      "updated": "Güncellendi",
+      "reading_time": "3–4 dk okuma",
+      "quick_answer": "Kısa cevap",
+      "faq_heading": "Diğer sorular",
+      "related": "İlgili rehberler",
+      "all_guides": "Tüm rehberler",
+      "disclaimer": "Ses Yükseltici dosyanın sesini yükseltip yeni bir kopya kaydeder. iPhone hoparlörünün fiziksel sınırını aşamaz ve sistem genelindeki ses seviyesini değiştiremez."
+    },
+    "default_cta": {
+      "title": "Ses Yükseltici ile yapın",
+      "text": "App Store'da ücretsiz. İçe aktarın, kaydırıcıyı ×10'a kadar çekin ve «İşlenmişi indir»e dokunun."
+    }
   }
 }

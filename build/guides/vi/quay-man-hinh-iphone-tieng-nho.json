@@ -1,0 +1,100 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "quay màn hình iPhone tiếng nhỏ",
+  "priority": 3,
+  "keywords": "quay màn hình iPhone tiếng nhỏ, quay màn hình không có tiếng, tăng âm lượng video quay màn hình, quay màn hình bật micro",
+  "title": "Quay màn hình iPhone tiếng nhỏ? Nguyên nhân và cách sửa",
+  "description": "Video quay màn hình iPhone tiếng nhỏ hoặc mất tiếng? Nguyên nhân, cài đặt cho lần quay sau và cách làm video đã quay to hơn với ứng dụng Tăng Âm Lượng Video.",
+  "h1": "Quay màn hình iPhone tiếng nhỏ: phải làm sao",
+  "eyebrow": "Ghi màn hình",
+  "card_title": "Quay màn hình tiếng nhỏ",
+  "card_summary": "Âm thanh trong máy được ghi theo âm lượng hệ thống, giọng qua micro nghe xa. Cách tăng âm lượng sau khi quay.",
+  "quick_answer": "Ghi màn hình của iOS ghi âm thanh ứng dụng theo âm lượng hệ thống lúc đó, và khi bật micro, giọng của bạn nghe xa. Để sửa video đã nhỏ, chia sẻ từ Ảnh sang Tăng Âm Lượng Video, tăng ×3–×5 rồi lưu thành video mới.",
+  "intro": [
+    "Bạn quay màn hình làm hướng dẫn, clip game hay lớp học trực tuyến, nhưng xem lại thì gần như không nghe thấy gì. Nguyên nhân nằm ở cách ghi màn hình trên iPhone hoạt động.",
+    "Dưới đây là nguyên nhân, cài đặt cho lần quay sau và cách sửa video đã quay."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Thông tin rãnh trong Tăng Âm Lượng Video: công tắc «Cải thiện chất lượng âm thanh» và thanh «Hệ số âm lượng ×10»",
+    "caption": "Với video quay màn hình, ×3–×5 thường là đủ."
+  },
+  "sections": [
+    {
+      "heading": "Vì sao video quay màn hình tiếng nhỏ",
+      "list": [
+        "Âm thanh trong máy được ghi theo âm lượng hệ thống: máy để nhỏ thì video cũng nhỏ.",
+        "Ở chế độ im lặng, một số ứng dụng không phát tiếng nên không ghi được gì.",
+        "Nếu bật micro trong Trung tâm điều khiển, giọng bạn được ghi qua micro iPhone và nghe xa.",
+        "Cuộc gọi và một số ứng dụng phát trực tuyến không cho ghi âm vì lý do bảo vệ nội dung."
+      ]
+    },
+    {
+      "heading": "Cài đặt tốt cho lần quay sau",
+      "list": [
+        "Tăng âm lượng lên khoảng 75% trước khi quay.",
+        "Tắt chế độ im lặng.",
+        "Muốn ghi giọng nói, chạm và giữ nút ghi màn hình trong Trung tâm điều khiển rồi bật micro.",
+        "Ngắt tai nghe Bluetooth vì đôi khi âm thanh đi vào tai nghe."
+      ]
+    },
+    {
+      "heading": "Video đã quay bị nhỏ",
+      "paragraphs": [
+        "Video quay màn hình được lưu trong Ảnh như video thường. Tăng Âm Lượng Video nâng rãnh âm thanh lên đến 10 lần và tạo video mới mà không đụng đến hình ảnh."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Từng bước: làm video quay màn hình to hơn",
+    "intro": "Khoảng một phút.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Mở video",
+        "text": "Mở video trong Ảnh và chạm Chia sẻ → Tăng Âm Lượng Video."
+      },
+      {
+        "name": "Cải thiện giọng nói",
+        "text": "Nếu có giọng nói, bật «Cải thiện chất lượng âm thanh»."
+      },
+      {
+        "name": "Tăng âm lượng",
+        "text": "Kéo đến ×3–×5, chạm «Tăng âm lượng» và so sánh với bản gốc."
+      },
+      {
+        "name": "Lưu",
+        "text": "«Tải tệp đã xử lý» → Lưu video."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Mẹo",
+    "items": [
+      "Nếu tiếng ứng dụng to mà giọng nói nhỏ, hãy ghi bằng micro của tai nghe có dây.",
+      "Tăng âm lượng trước khi đăng YouTube hoặc gửi cho học viên.",
+      "Cắt bớt video dài trong Ảnh trước, xử lý sẽ nhanh hơn."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Vì sao quay màn hình iPhone không có tiếng?",
+      "answer": "Có thể do chế độ im lặng, ứng dụng chặn ghi (cuộc gọi, một số ứng dụng phát trực tuyến) hoặc âm thanh đi vào Bluetooth. Nếu âm thanh hoàn toàn không được ghi, không ứng dụng nào khôi phục được."
+    },
+    {
+      "question": "Bật micro khi quay màn hình thế nào?",
+      "answer": "Trong Trung tâm điều khiển, chạm và giữ nút ghi màn hình, rồi chạm Micrô để bật."
+    },
+    {
+      "question": "Quay xong rồi có tăng âm lượng được không?",
+      "answer": "Được. Mở video trong Tăng Âm Lượng Video, tăng đến 10 lần và lưu thành bản mới."
+    }
+  ],
+  "related": [
+    "cach-tang-am-luong-video-tren-iphone",
+    "tai-sao-video-iphone-tieng-nho",
+    "tang-am-luong-video-tiktok"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

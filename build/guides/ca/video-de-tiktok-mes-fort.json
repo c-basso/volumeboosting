@@ -1,0 +1,99 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "com fer un vídeo de TikTok més fort",
+  "priority": 8,
+  "keywords": "com fer un vídeo de TikTok més fort, so fluix TikTok, pujar el volum d'un vídeo de TikTok, vídeo de TikTok fluix, so més fort a Reels",
+  "title": "Com fer un vídeo de TikTok més fort abans de publicar-lo",
+  "description": "L'editor de TikTok no puja el so original per sobre del 100 %. Com amplificar el vídeo fins a 10× amb Augmenta Volum Vídeo abans de pujar-lo i equilibrar-lo.",
+  "h1": "Com fer un vídeo de TikTok més fort",
+  "eyebrow": "TikTok i Reels",
+  "card_title": "TikTok més fort",
+  "card_summary": "TikTok s'atura al 100 % del so original. Amplifica el clip abans de pujar-lo perquè la veu se senti per sobre de la música.",
+  "quick_answer": "TikTok et deixa abaixar el so original, però no pujar-lo per sobre del 100 %. Per a un TikTok més fort, primer amplifica el clip: comparteix el vídeo des de Fotos a Increase Volume, amplifica'l ×3–×6, toca «Descarrega el processat» → Desa el vídeo i puja la còpia més forta a TikTok. Després equilibra el so original i la música a Volum.",
+  "intro": [
+    "Ningú no passa al següent vídeo més de pressa que quan no sent què dius. TikTok i Instagram Reels igualen el nivell del so, però no aixequen un clip que arriba massa fluix, i a l'editor de TikTok el 100 % del so original és el sostre.",
+    "La solució és fer el clip més fort abans de pujar-lo."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/ca/6.webp",
+    "alt": "Captura de la botiga (titular en castellà «Descargue y comparta dondequiera»): full per compartir d'iOS per al vídeo reforçat",
+    "caption": "Desa la còpia més forta a Fotos i puja-la a TikTok."
+  },
+  "sections": [
+    {
+      "heading": "Per què el vídeo de TikTok surt fluix",
+      "paragraphs": [
+        "El micròfon del telèfon capta la veu fluixa quan graves amb el braç estirat o a l'aire lliure. Quan hi poses música, la veu s'hi perd. El control de volum de TikTok només pot abaixar: el so original va del 0 al 100 %."
+      ]
+    },
+    {
+      "heading": "Ordre: primer amplificar, després editar",
+      "paragraphs": [],
+      "list": [
+        "Grava com sempre amb la càmera de l'iPhone.",
+        "Amplifica el clip a Augmenta Volum Vídeo (×3–×6 per a veu).",
+        "Puja la còpia més forta a TikTok o Instagram.",
+        "Afegeix la música i abaixa-la cap al 20–40 % a Volum."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Funciona amb Reels i Shorts?",
+      "paragraphs": [
+        "Sí. El fitxer amplificat és un vídeo normal, així que funciona a Instagram Reels, YouTube Shorts, Snapchat i CapCut."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Pas a pas: amplifica un clip per a TikTok",
+    "intro": "Fes-ho abans de pujar-lo.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Comparteix el clip amb l'app",
+        "text": "A Fotos: Comparteix → Increase Volume."
+      },
+      {
+        "name": "Tria el nivell",
+        "text": "Veu: ×3–×6 amb «Millora la qualitat de l'àudio». Molt fluix: fins a ×10."
+      },
+      {
+        "name": "Reforça i compara",
+        "text": "Toca «Reforça el volum a ×N» i escolta amb Original/Processat."
+      },
+      {
+        "name": "Desa i puja",
+        "text": "«Descarrega el processat» → Desa el vídeo, i tria la còpia nova a TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consells per a TikTok",
+    "items": [
+      "Els subtítols ajuden qui mira sense so, però un so que se sent reté els espectadors.",
+      "No passis de ×6 si el clip té crits o riures.",
+      "Els vídeos de TikTok desats amb marca d'aigua també es poden amplificar, però el fitxer original dona la millor qualitat."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Puc pujar el volum per sobre del 100 % a TikTok?",
+      "answer": "No. L'editor de TikTok només pot abaixar el so original. Amplifica el clip abans de pujar-lo."
+    },
+    {
+      "question": "Empitjora la qualitat del vídeo?",
+      "answer": "No, la imatge no canvia. TikTok comprimeix igualment en pujar-lo."
+    },
+    {
+      "question": "Funciona amb Instagram Reels?",
+      "answer": "Sí, el fitxer amplificat funciona a qualsevol app."
+    }
+  ],
+  "related": [
+    "com-pujar-el-volum-d-un-video-a-l-iphone",
+    "gravacio-de-pantalla-amb-so-fluix-iphone",
+    "pujar-volum-video-des-de-fotos"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

@@ -1,0 +1,98 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "pujar el volum d'un vídeo a l'app Fotos",
+  "priority": 9,
+  "keywords": "pujar el volum d'un vídeo a l'app Fotos, Fotos iPhone volum del vídeo, fer més fort un vídeo de la galeria, so del vídeo Fotos iPhone, Comparteix Increase Volume",
+  "title": "Com pujar el volum d'un vídeo des de l'app Fotos de l'iPhone",
+  "description": "L'edició de Fotos només pot silenciar el so. Com fer servir Comparteix → Increase Volume per fer un vídeo fins a 10× més fort i desar la còpia de nou a Fotos.",
+  "h1": "Com pujar el volum d'un vídeo des de l'app Fotos",
+  "eyebrow": "Fotos",
+  "card_title": "Volum des de Fotos",
+  "card_summary": "Fotos només silencia. Amb Comparteix → Increase Volume fas el vídeo més fort i el tornes a desar a Fotos.",
+  "quick_answer": "L'app Fotos només pot silenciar el so d'un vídeo, no apujar-lo. Obre el vídeo a Fotos, toca Comparteix i tria Increase Volume. El projecte s'obre a Augmenta Volum Vídeo; arrossega «Multiplicació del volum» fins a ×10, toca «Reforça el volum» i després «Descarrega el processat» → Desa el vídeo. La còpia més forta apareix a Fotos al costat de l'original.",
+  "intro": [
+    "La majoria de vídeos de l'iPhone són a Fotos, i és allà on la gent prova primer d'arreglar el so fluix. A Edita hi ha una icona d'altaveu, però només activa i desactiva el so.",
+    "Amb el full per compartir envies el vídeo directament a Augmenta Volum Vídeo i reps la còpia més forta de nou a Fotos, sense passar per Fitxers."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/ca/6.webp",
+    "alt": "Captura de la botiga (titular en castellà «Descargue y comparta dondequiera»): full per compartir d'iOS",
+    "caption": "El full per compartir d'iOS porta el vídeo de Fotos a l'app i de tornada."
+  },
+  "sections": [
+    {
+      "heading": "Què pot fer l'edició de Fotos amb el so",
+      "paragraphs": [
+        "Toca Edita en un vídeo: la icona de l'altaveu de dalt silencia o activa el so. Als iPhone més nous amb àudio espacial també hi ha Mescla d'àudio, que canvia l'equilibri entre veus i fons, però no el volum total."
+      ]
+    },
+    {
+      "heading": "No trobes Increase Volume al full per compartir?",
+      "paragraphs": [],
+      "list": [
+        "Desplaça la fila d'apps cap a la dreta i toca Més.",
+        "Busca Increase Volume i afegeix-la a Preferits.",
+        "A partir d'ara apareixerà al full per a qualsevol vídeo."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "On va a parar la còpia?",
+      "paragraphs": [
+        "Quan tries Desa el vídeo, el vídeo amplificat s'afegeix a Fotos com un element nou, el més recent de la biblioteca. L'original no canvia."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "De Fotos a un vídeo més fort",
+    "intro": "Un minut.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Obre el vídeo a Fotos",
+        "text": "Toca el vídeo i després Comparteix."
+      },
+      {
+        "name": "Tria Increase Volume",
+        "text": "El projecte s'obre directament a l'app."
+      },
+      {
+        "name": "Amplifica",
+        "text": "Arrossega «Multiplicació del volum», toca «Reforça el volum a ×N» i compara Original/Processat."
+      },
+      {
+        "name": "Torna-ho a desar a Fotos",
+        "text": "Toca «Descarrega el processat» → Desa el vídeo."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consells",
+    "items": [
+      "Amplifica diversos vídeos un darrere l'altre des de la llista de projectes.",
+      "Marca la còpia nova com a preferida per trobar-la de pressa.",
+      "Esborra l'original només quan estiguis content amb la versió més forta."
+    ]
+  },
+  "faq": [
+    {
+      "question": "L'app Fotos pot fer més fort un vídeo?",
+      "answer": "No. Fotos només pot silenciar el so o ajustar Mescla d'àudio als models compatibles."
+    },
+    {
+      "question": "L'app substitueix el vídeo original?",
+      "answer": "No. Sempre desa una còpia nova; l'original queda igual."
+    },
+    {
+      "question": "Funciona amb Live Photos?",
+      "answer": "L'app treballa amb fitxers de vídeo. Primer desa la Live Photo com a vídeo a Fotos."
+    }
+  ],
+  "related": [
+    "com-pujar-el-volum-d-un-video-a-l-iphone",
+    "per-que-el-video-sona-fluix",
+    "video-de-tiktok-mes-fort"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

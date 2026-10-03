@@ -1,0 +1,121 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "com pujar el volum d'un MP3 a l'iPhone",
+  "priority": 6,
+  "keywords": "com pujar el volum d'un MP3 a l'iPhone, MP3 més fort, amplificar un fitxer d'àudio iPhone, MP3 fluix, pujar el volum d'un àudio sense ordinador",
+  "title": "Com pujar el volum d'un MP3 a l'iPhone sense ordinador",
+  "description": "Fes més fort un MP3, M4A o WAV directament a l'iPhone, sense ordinador: importa'l de Fitxers, tria la multiplicació, escolta Original/Processat i desa'l.",
+  "h1": "Com pujar el volum d'un MP3 a l'iPhone",
+  "eyebrow": "MP3",
+  "card_title": "MP3 més fort",
+  "card_summary": "Sense Audacity ni ordinador. Importa des de Fitxers, arrossega el control i desa una còpia MP3 més forta.",
+  "quick_answer": "Per pujar el volum d'un MP3 a l'iPhone, obre Augmenta Volum Vídeo, afegeix el fitxer des de Fitxers, arrossega «Multiplicació del volum» (×2–×10), toca «Reforça el volum», compara Original i Processat i toca «Descarrega el processat» → Desa a Fitxers. Tot passa al telèfon, sense ordinador i sense pujar res.",
+  "intro": [
+    "La manera clàssica d'amplificar un MP3 és Audacity a l'ordinador. A l'iPhone no hi ha cap funció integrada: Fitxers reprodueix però no canvia el volum, i iMovie no obre fitxers només d'àudio.",
+    "Augmenta Volum Vídeo omple aquest buit: un control, escolta prèvia i un fitxer nou a Fitxers."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/ca/3.webp",
+    "alt": "Captura de la botiga (titular en castellà «Aumenta el volumen del audio»): un MP3 importat de Fitxers processant-se",
+    "caption": "L'MP3 importat des de Fitxers, a punt per amplificar."
+  },
+  "sections": [
+    {
+      "heading": "Per què l'iPhone no pot fer més fort un MP3 tot sol",
+      "paragraphs": [
+        "Fitxers i Música reprodueixen àudio però no l'editen. Notes de Veu només edita les seves gravacions. iMovie treballa amb vídeo. Per canviar el nivell d'un MP3 necessites un editor d'àudio o un amplificador de volum."
+      ]
+    },
+    {
+      "heading": "Quins fitxers funcionen",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "Format",
+          "Compatible",
+          "Nota"
+        ],
+        "rows": [
+          [
+            "MP3",
+            "Sí",
+            "El format més comú de descàrregues i podcasts"
+          ],
+          [
+            "M4A / AAC",
+            "Sí",
+            "Notes de Veu i compres d'iTunes sense DRM"
+          ],
+          [
+            "WAV",
+            "Sí",
+            "Sense compressió, molt de marge"
+          ],
+          [
+            "Apple Music / Spotify",
+            "No",
+            "Streaming protegit amb DRM"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Quant cal amplificar?",
+      "paragraphs": [
+        "Un podcast o una gravació fluixa sovint aguanta ×4–×10. Una cançó ja masteritzada té poc marge; comença amb ×2. Escolta els trossos més forts amb Original/Processat abans de desar."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Pas a pas: amplifica un MP3",
+    "intro": "Un minut.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Afegeix el fitxer",
+        "text": "Obre l'app i tria l'MP3 a Fitxers, o comparteix-lo a Increase Volume des d'una altra app."
+      },
+      {
+        "name": "Tria la multiplicació",
+        "text": "Arrossega «Multiplicació del volum». Per a veu, activa «Millora la qualitat de l'àudio»."
+      },
+      {
+        "name": "Reforça",
+        "text": "Toca «Reforça el volum a ×N» i alterna Original i Processat."
+      },
+      {
+        "name": "Desa a Fitxers",
+        "text": "Toca «Descarrega el processat» i tria Desa a Fitxers."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consells",
+    "items": [
+      "Posa un nom clar al fitxer nou a Fitxers, per exemple «canco_mes_forta».",
+      "La llista de projectes de l'app et permet tornar-hi i provar un altre nivell.",
+      "Els WAV grans triguen una mica més, però també es processen al dispositiu."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Puc fer més fort un MP3 sense ordinador?",
+      "answer": "Sí. Augmenta Volum Vídeo ho fa directament a l'iPhone i desa la còpia més forta a Fitxers."
+    },
+    {
+      "question": "El fitxer es puja a un servidor?",
+      "answer": "No. El processament es fa a l'iPhone, sense compte i sense pujar res."
+    },
+    {
+      "question": "Puc fer més forta una cançó d'Apple Music?",
+      "answer": "No, la música en streaming està protegida amb DRM. L'app funciona amb fitxers que són teus."
+    }
+  ],
+  "related": [
+    "musica-fluixa-iphone",
+    "podcast-audiollibre-fluix-iphone",
+    "mes-fort-sense-perdre-qualitat"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

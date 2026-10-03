@@ -1,0 +1,114 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "podcast sách nói tiếng nhỏ",
+  "priority": 12,
+  "keywords": "podcast tiếng nhỏ, sách nói tiếng nhỏ, tăng âm lượng podcast iPhone, file bài giảng nhỏ",
+  "title": "Podcast hay sách nói tiếng nhỏ trên iPhone? Cách khắc phục",
+  "description": "Một số tập podcast và sách nói nhỏ hơn hẳn các tập khác. Sửa cài đặt, và làm các tệp âm thanh của riêng bạn to hơn đến 10 lần với ứng dụng Tăng Âm Lượng Video.",
+  "h1": "Cách tăng âm lượng podcast và sách nói trên iPhone",
+  "eyebrow": "Podcast",
+  "card_title": "Podcast tiếng nhỏ",
+  "card_summary": "Tập phát trực tuyến thì dùng cài đặt, tệp đã tải thì tăng âm lượng. Cách nào cho trường hợp nào.",
+  "quick_answer": "Nếu một tập trong ứng dụng Podcast nhỏ, kiểm tra An toàn tai nghe và Bluetooth; ứng dụng không có tăng âm lượng. Nếu có tệp MP3 hoặc M4A (tập đã tải, bài giảng, chương sách nói), mở từ Tệp trong Tăng Âm Lượng Video, tăng ×3–×6 và lưu tệp mới.",
+  "intro": [
+    "Khi kẹt xe, đi xe buýt hay đang nấu ăn, nghe podcast mà gặp một tập nhỏ hơn hẳn các tập khác là chuyện thường. Điều này hay gặp ở podcast thu tại nhà, sách nói cũ và bản ghi bài giảng."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Danh sách dự án trong Tăng Âm Lượng Video, tệp MP3 và MP4 với dung lượng và thời lượng",
+    "caption": "Nhiều tập hoặc chương nằm trong danh sách dự án."
+  },
+  "sections": [
+    {
+      "heading": "Trong ứng dụng Podcast",
+      "paragraphs": [
+        "Ứng dụng Podcast của Apple không có tăng âm lượng, chỉ có tốc độ và hẹn giờ tắt. Việc có thể làm là tắt «Giảm âm thanh lớn» trong An toàn tai nghe và tăng âm lượng thiết bị Bluetooth. Không chỉnh sửa được tập phát trực tuyến."
+      ]
+    },
+    {
+      "heading": "Sách nói và tệp âm thanh khác",
+      "paragraphs": [
+        "Nội dung trong các ứng dụng như Fonos, Voiz FM hay Spotify được bảo vệ và không xuất ra được. Nhưng tệp của riêng mình như sách nói MP3, bài giảng, bài thuyết trình hay âm thanh nhận qua Zalo thì tăng được bằng Tăng Âm Lượng Video."
+      ]
+    },
+    {
+      "heading": "Cách nào cho trường hợp nào",
+      "table": {
+        "head": [
+          "Nguồn",
+          "Cách xử lý"
+        ],
+        "rows": [
+          [
+            "Phát trực tuyến trong Podcast",
+            "Cài đặt (An toàn tai nghe, Bluetooth)"
+          ],
+          [
+            "Fonos, Voiz FM, Spotify",
+            "Cài đặt trong ứng dụng; không sửa được tệp"
+          ],
+          [
+            "MP3/M4A đã tải",
+            "Tăng Âm Lượng Video, ×3–×6"
+          ],
+          [
+            "Bản ghi bài giảng, thuyết trình",
+            "Tăng Âm Lượng Video kèm «Cải thiện chất lượng âm thanh»"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Từng bước: làm tệp âm thanh to hơn",
+    "intro": "Một đến hai phút mỗi tệp.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Nhập tệp",
+        "text": "Trong ứng dụng, chạm + và chọn tập hoặc chương trong Tệp."
+      },
+      {
+        "name": "Cài đặt cho lời nói",
+        "text": "Bật «Cải thiện chất lượng âm thanh» và chọn ×3–×6."
+      },
+      {
+        "name": "Tăng và nghe thử",
+        "text": "Chạm «Tăng âm lượng» và so sánh với bản gốc."
+      },
+      {
+        "name": "Lưu",
+        "text": "«Tải tệp đã xử lý» → Lưu vào Tệp."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Mẹo",
+    "items": [
+      "Sách nói dài xử lý lâu hơn; nên cắm sạc điện thoại.",
+      "Dùng cùng hệ số cho mọi chương để âm lượng đồng đều.",
+      "Lưu các tệp đã tăng vào một thư mục riêng trong Tệp."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Ứng dụng Podcast có tăng âm lượng không?",
+      "answer": "Không. Với tập phát trực tuyến, chỉ cài đặt mới giúp được."
+    },
+    {
+      "question": "Có tăng âm lượng sách nói trên Fonos hay Voiz FM được không?",
+      "answer": "Không, nội dung đó được bảo vệ. Chỉ tăng được tệp âm thanh của riêng mình."
+    },
+    {
+      "question": "Bản ghi bài giảng nên tăng bao nhiêu?",
+      "answer": "Thường ×3–×6 kèm bật «Cải thiện chất lượng âm thanh»."
+    }
+  ],
+  "related": [
+    "tang-am-luong-mp3-iphone",
+    "tang-am-luong-ghi-am-iphone",
+    "nhac-tren-iphone-nho"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

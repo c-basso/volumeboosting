@@ -1,0 +1,100 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "tih zvok pri snemanju zaslona iPhone",
+  "priority": 3,
+  "keywords": "tih zvok pri snemanju zaslona iPhone, snemanje zaslona brez zvoka, kako ojačati posnetek zaslona, tih posnetek zaslona, glasnost posnetka zaslona",
+  "title": "Tih zvok pri snemanju zaslona na iPhonu: kako ga popraviti",
+  "description": "Zakaj iPhone snema zvok aplikacij tako tiho? Kaj preveriti pred naslednjim snemanjem zaslona in kako že posneti video ojačaš do 10× v manj kot minuti.",
+  "h1": "Tih zvok pri snemanju zaslona na iPhonu: vzrok in rešitev",
+  "eyebrow": "Snemanje zaslona",
+  "card_title": "Tih posnetek zaslona",
+  "card_summary": "iOS snema zvok aplikacij tišje, kot ga slišiš. Popravi naslednji posnetek in že posnetega ojači ×5–×10.",
+  "quick_answer": "iOS snema zvok aplikacij na znižani ravni, pri nizki glasnosti ali povezanih slušalkah Bluetooth pa še tišje. Naslednjič odklopi Bluetooth in povečaj glasnost, preden tapneš Snemanje zaslona v Nadzornem središču. Za posnetek, ki ga že imaš: deli video iz Fotografij v Increase Volume, ojači ×5–×10 in tapni „Prenesi obdelano“.",
+  "intro": [
+    "Posnetek zaslona igre, vodiča ali video klica je videti odlično, zvok pa se pri predvajanju komaj sliši. Nisi ti kriv: iOS snema sistemski zvok tišje, kot ga slišiš med snemanjem.",
+    "Tukaj je, kaj vpliva na raven, kako dobiš boljši naslednji posnetek in kako rešiš tistega, ki ga že imaš."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/4.webp",
+    "alt": "Podrobnosti posnetka v Increase Volume s stikalom „Izboljšaj kakovost zvoka“, drsnikom „Množitelj glasnosti ×10“ in gumbom „Ojači glasnost na ×10“",
+    "caption": "Izberi množitelj za posnetek zaslona in tapni „Ojači glasnost“."
+  },
+  "sections": [
+    {
+      "heading": "Zakaj imajo posnetki zaslona tih zvok",
+      "paragraphs": [
+        "Snemanje zaslona v iOS zajema zvok aplikacije interno. Raven delno sledi sistemski glasnosti, zato je posnetek pri nizki glasnosti tih. S povezanimi slušalkami Bluetooth se zvok aplikacije lahko posname šibkeje ali sploh ne, številne aplikacije (pretakanje, klici) pa zvok pri snemanju zaslona blokirajo ali utišajo."
+      ]
+    },
+    {
+      "heading": "Kako dobiti boljši zvok pri naslednjem snemanju",
+      "paragraphs": [],
+      "list": [
+        "Pred začetkom odklopi slušalke Bluetooth.",
+        "Povečaj glasnost predstavnosti, preden tapneš Snemanje zaslona.",
+        "Če želiš posneti tudi svoj glas: pridrži gumb za snemanje zaslona v Nadzornem središču in vklopi Mikrofon.",
+        "Izklopi Fokus / Ne moti, da obvestila ne prekinjajo zvoka."
+      ],
+      "ordered": false,
+      "note": "Imena gumbov se lahko med različicami iOS nekoliko razlikujejo."
+    },
+    {
+      "heading": "Že imaš tih posnetek? Ojači datoteko",
+      "paragraphs": [
+        "Končan posnetek zaslona je običajen video v Fotografijah. Increase Volume ga odpre, pomnoži zvočni posnetek do 10× in shrani novo kopijo poleg izvirnika. Slika se ne spremeni."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Ojači posnetek zaslona z Increase Volume",
+    "intro": "Približno minuta za kratek posnetek.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Deli posnetek z aplikacijo",
+        "text": "Odpri posnetek zaslona v Fotografijah, tapni Deli in izberi Increase Volume."
+      },
+      {
+        "name": "Izberi raven",
+        "text": "Posnetki zaslona pogosto potrebujejo ×5–×8. Če gre za govor (vodič), vklopi „Izboljšaj kakovost zvoka“."
+      },
+      {
+        "name": "Ojači in primerjaj",
+        "text": "Tapni „Ojači glasnost na ×N“ in preklapljaj Izvirnik in Obdelano."
+      },
+      {
+        "name": "Shrani",
+        "text": "Tapni „Prenesi obdelano“ → Shrani video. Glasnejša kopija gre v Fotografije."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Nasveti",
+    "items": [
+      "Če ima posnetek zvok igre in glas, ojačaj zmerno (×3–×5), da eksplozije v igri ne hreščijo.",
+      "Posnetka zaslona brez zvočnega zapisa ni mogoče ojačati; posneti ga moraš znova z zvokom.",
+      "Ojači pred montažo v iMovie ali CapCut; tako ves čas delaš z močnim signalom."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Zakaj moj posnetek zaslona nima zvoka?",
+      "answer": "Aplikacija morda blokira snemanje zvoka (pretakanje, klici) ali pa je zvok šel v slušalke Bluetooth. Preveri tudi, ali je bil mikrofon vklopljen, če si želel posneti svoj glas."
+    },
+    {
+      "question": "Ali lahko posnetek zaslona ojačam pozneje?",
+      "answer": "Da. Deli video iz Fotografij v Increase Volume, ojači ×5–×10 in shrani glasnejšo kopijo."
+    },
+    {
+      "question": "Ali se slika poslabša?",
+      "answer": "Ne. Spremeni se le zvočni posnetek; slika se kopira takšna, kot je."
+    }
+  ],
+  "related": [
+    "kako-povecati-glasnost-videa-na-iphonu",
+    "zakaj-je-video-tih",
+    "glasnejsi-video-za-tiktok"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

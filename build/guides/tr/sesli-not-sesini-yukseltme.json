@@ -1,0 +1,94 @@
+{
+  "en_slug": "how-to-increase-voice-memo-volume-on-iphone",
+  "keyword": "sesli not sesini yükseltme",
+  "priority": 4,
+  "keywords": "sesli not sesini yükseltme, Sesli Notlar ses düşük, ses kaydı sesini artırma, iPhone ses kaydı kısık",
+  "title": "iPhone'da Sesli Not Kaydının Sesini Yükseltin (10 Kat)",
+  "description": "Sesli Notlar'daki «Kaydı İyileştir» gürültüyü azaltır ama sesi yükseltmez. Ders veya toplantı kaydını Ses Yükseltici ile 10 kata kadar daha yüksek yapın.",
+  "h1": "iPhone'da sesli not kaydının sesi nasıl yükseltilir",
+  "eyebrow": "Sesli Notlar",
+  "card_title": "Sesli not sesi",
+  "card_summary": "Dersler, toplantılar, röportajlar: sessiz kaydı net duyulur hâle getirin.",
+  "quick_answer": "Sesli Notlar'daki «Kaydı İyileştir» arka plan gürültüsünü azaltır ama kaydı yükseltmez. Sesi artırmak için kaydı açın, … → Paylaş → Ses Yükseltici'yi seçin, «Ses kalitesini iyileştir»i açıp ×2–×6 güçlendirin ve yüksek sesli kopyayı Dosyalar'a kaydedin.",
+  "intro": [
+    "Arka sıradan kaydedilen ders, masanın öbür ucundan kaydedilen toplantı, röportaj: Sesli Notlar kayıtları çoğu zaman çok sessiz çıkar. Telefonun sesi sonuna kadar açık olsa bile kelimeler net duyulmaz.",
+    "Bu rehber Sesli Notlar'ın kendi başına neler yapabildiğini ve dosyanın kendisini 10 kata kadar nasıl yükselteceğinizi gösterir."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/tr/4.webp",
+    "alt": "Ses Yükseltici'de «Ses kalitesini iyileştir» anahtarı ve «Ses çarpanı ×10» kaydırıcısı",
+    "caption": "Konuşma için iyileştirmeyi açın ve orta bir güçlendirmeyle başlayın."
+  },
+  "sections": [
+    {
+      "heading": "«Kaydı İyileştir» ne yapar",
+      "paragraphs": [
+        "Sesli Notlar'da bir kaydı düzenleyip sihirli değnek simgesine dokunduğunuzda uygulama vantilatör veya trafik gibi arka plan gürültüsünü ve yankıyı azaltır. Faydalıdır ama genel ses seviyesini artırmaz. Sessiz kayıt daha temiz olur ama sessiz kalır."
+      ]
+    },
+    {
+      "heading": "Oynatma sesi ile dosya sesi",
+      "paragraphs": [
+        "iPhone'un ses düğmeleri yalnızca oynatmayı değiştirir. Kaydı öğretmene, iş arkadaşına veya bir deşifre hizmetine gönderdiğinizde onlar da aynı düşük seviyeyi duyar. Dosyanın kendisini güçlendirirseniz herkes yüksek duyar."
+      ]
+    },
+    {
+      "heading": "Sesli Notlar'dan Ses Yükseltici'ye",
+      "paragraphs": [
+        "Sesli Notlar'da kayda dokunun, … (Diğer) → Paylaş'a dokunup Ses Yükseltici'yi seçin. Kayıt .m4a dosyası olarak içe aktarılır. Güçlendirmeden sonra yüksek sesli kopya Dosyalar'a kaydedilir; orijinal Sesli Notlar'da değişmeden kalır."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Adım adım: sesli notu yükseltin",
+    "intro": "Yaklaşık bir dakika.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Kaydı paylaşın",
+        "text": "Sesli Notlar → kayıt → … → Paylaş → Ses Yükseltici."
+      },
+      {
+        "name": "Konuşma için iyileştirme",
+        "text": "«Ses kalitesini iyileştir»i açın."
+      },
+      {
+        "name": "Güçlendirmeyi seçin",
+        "text": "Yakın kayıt için ×2–×3, odanın öbür ucundan ×4–×6. «Sesi güçlendir»e dokunun ve orijinalle karşılaştırın."
+      },
+      {
+        "name": "Kaydedin",
+        "text": "«İşlenmişi indir» → Dosyalar'a Kaydet."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "İpuçları",
+    "items": [
+      "Önce «Kaydı İyileştir», sonra güçlendirme: temiz bir kayıt yükseltildiğinde daha iyi duyulur.",
+      "Derste telefonu mikrofonu konuşmacıya bakacak şekilde masaya koyun.",
+      "Deşifreden önce güçlendirmek hataları azaltır."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Sesli Notlar'da ses yükseltme seçeneği var mı?",
+      "answer": "Hayır. «Kaydı İyileştir» yalnızca gürültüyü azaltır. Sesi artırmak için Ses Yükseltici gibi bir uygulama gerekir."
+    },
+    {
+      "question": "Orijinal kayıt değişir mi?",
+      "answer": "Hayır. Ses Yükseltici yeni bir kopya oluşturur; orijinal Sesli Notlar'da kalır."
+    },
+    {
+      "question": "Ne kadar güçlendirmeliyim?",
+      "answer": "Genellikle ×2–×6. Cızırtı duyarsanız bir kademe düşürün."
+    }
+  ],
+  "related": [
+    "whatsapp-sesli-mesaj-sesi-dusuk",
+    "podcast-sesli-kitap-sesi-dusuk",
+    "mp3-sesini-yukseltme-iphone"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

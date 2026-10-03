@@ -1,0 +1,132 @@
+{
+  "en_slug": "how-to-make-mp3-louder-on-iphone",
+  "keyword": "tăng âm lượng MP3 trên iPhone",
+  "priority": 6,
+  "keywords": "tăng âm lượng MP3, làm file MP3 to hơn, tăng âm lượng MP3 không cần máy tính, ứng dụng tăng âm lượng file âm thanh",
+  "title": "Tăng âm lượng MP3 trên iPhone không cần máy tính (10 lần)",
+  "description": "Không cần máy tính hay trang web, làm tệp MP3, M4A, WAV to hơn đến 10 lần ngay trên iPhone. Tăng Âm Lượng Video mở tệp từ ứng dụng Tệp và lưu thành tệp mới.",
+  "h1": "Cách tăng âm lượng MP3 trên iPhone",
+  "eyebrow": "MP3",
+  "card_title": "Tăng âm lượng MP3",
+  "card_summary": "Mở MP3 từ Tệp, tăng âm lượng, lưu thành tệp mới. Không tải lên, không cần máy tính.",
+  "quick_answer": "Để tăng âm lượng MP3 trên iPhone, mở Tăng Âm Lượng Video, nhập MP3 từ Tệp, kéo «Hệ số âm lượng» đến ×2–×10, chạm «Tăng âm lượng» rồi chọn «Tải tệp đã xử lý» → Lưu vào Tệp. Mọi thứ diễn ra trên iPhone.",
+  "intro": [
+    "Với MP3 nhỏ, lời khuyên thường gặp là dùng Audacity trên máy tính hoặc tải lên một trang web. Trên iPhone không cần vậy, và cũng không nên tải bản ghi riêng tư lên máy chủ lạ.",
+    "Hướng dẫn này cho biết tệp nào dùng được, nên tăng bao nhiêu và đầy đủ các bước."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/3.webp",
+    "alt": "Tăng Âm Lượng Video đang xử lý một tệp MP3, hiển thị tên, dung lượng và thời lượng",
+    "caption": "Thông tin tệp giúp xác nhận đúng tệp trước khi tăng."
+  },
+  "sections": [
+    {
+      "heading": "Vì sao iPhone không tự tăng âm lượng MP3",
+      "paragraphs": [
+        "Ứng dụng Tệp phát được MP3 nhưng không chỉnh sửa. GarageBand mở được tệp nhưng âm lượng rãnh dừng ở 0 dB và việc xuất cần nhiều bước. Tăng Âm Lượng Video chỉ làm một việc: nâng mức của tệp rồi lưu bản sao mới."
+      ]
+    },
+    {
+      "heading": "Tệp nào dùng được",
+      "table": {
+        "head": [
+          "Định dạng",
+          "Hỗ trợ",
+          "Ghi chú"
+        ],
+        "rows": [
+          [
+            "MP3",
+            "Có",
+            "Phổ biến nhất"
+          ],
+          [
+            "M4A / AAC",
+            "Có",
+            "Ghi âm, iTunes, tin nhắn thoại"
+          ],
+          [
+            "WAV",
+            "Có",
+            "Tệp lớn"
+          ],
+          [
+            "OPUS",
+            "Có",
+            "Tin nhắn thoại WhatsApp"
+          ],
+          [
+            "MP4 / MOV",
+            "Có",
+            "Video, tăng rãnh âm thanh"
+          ],
+          [
+            "Tệp có DRM",
+            "Không",
+            "Tệp tải từ Apple Music, Spotify"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Nên tăng bao nhiêu",
+      "list": [
+        "Nhạc: ×2–×4",
+        "Podcast, lời nói: ×3–×6",
+        "Bản ghi rất nhỏ: ×6–×10"
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Từng bước: làm MP3 to hơn",
+    "intro": "Khoảng một phút.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Nhập MP3",
+        "text": "Trong ứng dụng, chạm + và chọn tệp trong Tệp, hoặc giữ tệp trong Tệp → Chia sẻ → Tăng Âm Lượng Video."
+      },
+      {
+        "name": "Chọn hệ số",
+        "text": "Kéo thanh trượt theo bảng trên và chạm «Tăng âm lượng»."
+      },
+      {
+        "name": "So sánh",
+        "text": "Dùng công tắc Gốc/Đã xử lý để nghe các đoạn to nhất."
+      },
+      {
+        "name": "Lưu",
+        "text": "«Tải tệp đã xử lý» → Lưu vào Tệp; tệp mới nằm cạnh bản gốc."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Mẹo",
+    "items": [
+      "Đặt tên rõ ràng cho tệp đã tăng, ví dụ «bai-giang-to».",
+      "Nhiều tệp thì xử lý từng tệp và nghe lại từng tệp.",
+      "Đừng tăng lại tệp đã tăng; hãy bắt đầu từ bản gốc với hệ số cao hơn."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Có tăng âm lượng MP3 mà không cần máy tính không?",
+      "answer": "Có. Tăng Âm Lượng Video làm MP3 to hơn đến 10 lần ngay trên iPhone và lưu tệp mới."
+    },
+    {
+      "question": "Tệp có bị tải lên máy chủ không?",
+      "answer": "Không. Mọi xử lý diễn ra trên iPhone."
+    },
+    {
+      "question": "Sau khi tăng, định dạng tệp có đổi không?",
+      "answer": "Âm thanh lưu thành âm thanh, video lưu thành video; phát được trên mọi trình phát."
+    }
+  ],
+  "related": [
+    "nhac-tren-iphone-nho",
+    "podcast-sach-noi-tieng-nho",
+    "tang-am-luong-khong-giam-chat-luong"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

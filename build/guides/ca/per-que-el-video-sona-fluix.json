@@ -1,0 +1,105 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "per què el vídeo de l'iPhone sona fluix",
+  "priority": 7,
+  "keywords": "per què el vídeo de l'iPhone sona fluix, vídeo amb so fluix iPhone, vídeo sense so iPhone, altaveu de l'iPhone fluix, el vídeo se sent poc",
+  "title": "Per què el meu vídeo de l'iPhone sona tan fluix? 7 causes",
+  "description": "So fluix en un vídeo de l'iPhone? Esbrina si és la reproducció (so silenciat, Bluetooth, auriculars) o la gravació mateixa, i com resoldre cada cas pas a pas.",
+  "h1": "Per què el meu vídeo de l'iPhone sona tan fluix?",
+  "eyebrow": "Resolució de problemes",
+  "card_title": "Per què sona fluix el vídeo?",
+  "card_summary": "Set causes de so fluix: quatre en la reproducció, tres en la gravació, i la solució de cadascuna.",
+  "quick_answer": "Si tots els vídeos sonen fluix, el problema és la reproducció: comprova que el vídeo no estigui silenciat, que no hi hagi Bluetooth connectat, la Seguretat dels auriculars a Sons i vibracions i que l'altaveu estigui net. Si només n'hi ha un de fluix, el problema és la gravació: la persona era lluny, el micròfon estava tapat o el so es va gravar baix. Llavors fes el fitxer més fort amb Augmenta Volum Vídeo, fins a 10×.",
+  "intro": [
+    "«Per què el vídeo sona tan fluix?» té dues respostes, i val la pena saber quina és la teva abans de tocar res. Prova: posa un altre vídeo. Si també sona fluix, és el telèfon. Si sona bé, és el fitxer.",
+    "Aquestes són les set causes més habituals, separades en aquests dos grups."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/ca/1.webp",
+    "alt": "Captura promocional de la botiga (titular en castellà «Aumentar volumen hasta 1000 %, ×10 más alto»)",
+    "caption": "Quan la gravació mateixa és fluixa, l'app fa el fitxer fins a 10× més fort."
+  },
+  "sections": [
+    {
+      "id": "reproduccio",
+      "heading": "Causes de reproducció (tots els vídeos fluixos)",
+      "paragraphs": [],
+      "list": [
+        "El vídeo està silenciat: toca la icona de l'altaveu al reproductor de Fotos.",
+        "El so va al Bluetooth: pot haver-hi AirPods o el cotxe connectats; comprova la sortida d'àudio al Centre de control.",
+        "Seguretat dels auriculars: Configuració › Sons i vibracions › Seguretat dels auriculars › Reduir els sons forts limita el nivell.",
+        "Altaveu obstruït: pols o borrissol a la reixeta apaguen el so; neteja-la amb un raspall suau i sec."
+      ],
+      "ordered": true,
+      "note": "Cap app pot superar el límit físic de l'altaveu ni canviar el volum de tot el sistema."
+    },
+    {
+      "heading": "Causes de gravació (un vídeo fluix)",
+      "paragraphs": [],
+      "list": [
+        "Distància: qui parlava era lluny del micròfon.",
+        "Micròfon tapat: una funda, un dit o una butxaca van apagar el so.",
+        "Gravació de pantalla o descàrrega: iOS o l'app d'origen van donar el so a un nivell baix."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "La solució quan la gravació és fluixa",
+      "paragraphs": [
+        "No pots apujar una cosa que no es va gravar prou forta, però sí que pots pujar el nivell del fitxer. Augmenta Volum Vídeo multiplica la pista d'àudio fins a 10× i desa un vídeo nou. Sona fort arreu, també a qui l'enviïs."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Fes més fort un vídeo fluix",
+    "intro": "Quan la prova mostra que el problema és el fitxer.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Comparteix el vídeo amb l'app",
+        "text": "Obre el vídeo a Fotos → Comparteix → Increase Volume."
+      },
+      {
+        "name": "Amplifica",
+        "text": "Arrossega «Multiplicació del volum» (×3–×10) i toca «Reforça el volum a ×N»."
+      },
+      {
+        "name": "Compara",
+        "text": "Escolta amb Original/Processat; baixa-ho si sona trencat."
+      },
+      {
+        "name": "Desa",
+        "text": "Toca «Descarrega el processat» → Desa el vídeo."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Com evitar vídeos fluixos",
+    "items": [
+      "Mantén els dits lluny dels forats del micròfon de baix i de prop de la càmera.",
+      "Apropa't a qui parla; la distància fa baixar el nivell de pressa.",
+      "Fes una gravació de prova de cinc segons abans del moment important."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Per què el meu vídeo no té gens de so?",
+      "answer": "Comprova que el so no s'hagi desactivat en editar a Fotos i que cap aparell Bluetooth s'emporti el so. Si la gravació no té pista d'àudio, no es pot amplificar."
+    },
+    {
+      "question": "L'app fa més fort l'altaveu de l'iPhone?",
+      "answer": "No. Fa més fort el fitxer. El màxim de l'altaveu és físic i cap app el supera."
+    },
+    {
+      "question": "Per què els vídeos d'altres persones sonen fluix?",
+      "answer": "Es van gravar o exportar fluixos. Amplifica el fitxer i sonarà fort."
+    }
+  ],
+  "related": [
+    "com-pujar-el-volum-d-un-video-a-l-iphone",
+    "gravacio-de-pantalla-amb-so-fluix-iphone",
+    "pujar-volum-video-des-de-fotos"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

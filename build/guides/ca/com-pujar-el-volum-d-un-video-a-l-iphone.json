@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "com pujar el volum d'un vídeo a l'iPhone",
+  "priority": 1,
+  "keywords": "com pujar el volum d'un vídeo a l'iPhone, augmentar el volum d'un vídeo, vídeo amb so fluix, app per augmentar el volum, amplificador de volum de vídeo",
+  "title": "Com pujar el volum d'un vídeo a l'iPhone (fins a 10×)",
+  "description": "Fes que un vídeo amb so fluix soni més fort a l'iPhone en menys d'un minut: què fan Fotos i iMovie, on s'aturen i com arribar a 10× amb Augmenta Volum Vídeo.",
+  "h1": "Com pujar el volum d'un vídeo a l'iPhone",
+  "eyebrow": "Vídeo",
+  "card_title": "Vídeo més fort",
+  "card_summary": "Fotos no augmenta el volum i iMovie s'atura cap al 500 %. Així arribes a 10× amb un sol control lliscant.",
+  "quick_answer": "Per pujar el volum d'un vídeo a l'iPhone, obre'l a Augmenta Volum Vídeo (Increase Volume, gratis a l'App Store), arrossega «Multiplicació del volum» fins a ×10, toca «Reforça el volum», compara Original i Processat i toca «Descarrega el processat». La còpia més forta es desa a Fotos o a Fitxers i sona fort a qualsevol dispositiu i app. L'app Fotos no pot augmentar el volum, i iMovie s'atura cap al 500 %.",
+  "intro": [
+    "Graves un moment, l'envies a un amic i et respon: «No se sent res.» Un vídeo amb el so massa fluix és un dels problemes més habituals de l'iPhone, perquè la solució no és on la gent la busca. Els botons de volum només canvien com de fort sona el telèfon, i l'editor de Fotos no té control de volum.",
+    "Aquesta guia repassa les tres opcions reals a l'iPhone, què pot fer i què no cadascuna, i després el mètode més ràpid: multiplicar el so del vídeo fins a 10× amb Augmenta Volum Vídeo i desar un fitxer més fort per sempre."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/ca/2.webp",
+    "alt": "Captura de la botiga (titular en castellà «Aumenta el volumen de vídeos»): un dit arrossega el control lliscant rosa sobre un vídeo",
+    "caption": "El control lliscant és damunt de la previsualització del vídeo. Arrossega, escolta, desa."
+  },
+  "sections": [
+    {
+      "heading": "Per què el volum del telèfon no arregla el vídeo",
+      "paragraphs": [
+        "Els botons de volum de l'iPhone canvien com de fort sona *el teu* altaveu. No canvien el so del fitxer de vídeo. Quan comparteixes el fitxer, el telèfon de qui el rep el reprodueix al nivell original, fluix. Per arreglar-ho de debò, cal pujar el nivell de la pista d'àudio i desar un fitxer nou. Això és exactament el que fa un amplificador de volum de vídeo."
+      ]
+    },
+    {
+      "heading": "Opció 1: l'app Fotos (no puja el volum)",
+      "paragraphs": [
+        "Obre el vídeo a Fotos i toca Edita. Hi veuràs una icona d'altaveu que només silencia el clip i, a l'iPhone 16 o posterior amb vídeos amb àudio espacial, Mescla d'àudio, que canvia l'equilibri entre veus i fons. Cap de les dues puja el volum total. Si tota la gravació és fluixa, Fotos no t'ajudarà."
+      ]
+    },
+    {
+      "heading": "Opció 2: iMovie (gratis, límit cap al 500 %)",
+      "paragraphs": [
+        "iMovie pot fer un clip més fort: crea un projecte de pel·lícula, afegeix el vídeo, toca el clip, toca la icona de l'altaveu i arrossega el control cap a la dreta. Hi ha dues limitacions. El control s'atura cap al 500 % (5×), que sovint no n'hi ha prou per a una cosa gravada des de l'altra punta de l'habitació. I has de crear un projecte i tornar a exportar tot el vídeo, cosa que triga uns minuts en un clip llarg."
+      ],
+      "list": [
+        "Obre iMovie → Inicia un projecte nou → Pel·lícula i tria el vídeo.",
+        "Toca el clip a la línia de temps, toca la icona de l'altaveu i arrossega el control de volum cap a la dreta (màxim cap al 500 %).",
+        "Toca Fet → Comparteix → Desa el vídeo i espera que acabi l'exportació."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Opció 3: Augmenta Volum Vídeo (fins a 10×, un control, menys d'un minut)",
+      "paragraphs": [
+        "Augmenta Volum Vídeo està fet precisament per a això. Obre qualsevol vídeo de Fotos o Fitxers, mostra un sol control «Multiplicació del volum» fins a ×10 (1000 %), et deixa comparar Original i Processat abans de desar i desa el resultat amb el full per compartir habitual d'iOS. També obre fitxers només d'àudio, com MP3 i gravacions de Notes de Veu, que iMovie no obre.",
+        "El processament es fa a l'iPhone. No es puja res, no cal cap compte i el vídeo exportat no té marca d'aigua."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Pas a pas: puja el volum d'un vídeo amb Augmenta Volum Vídeo",
+    "intro": "Amb un clip normal triga un minut. Necessites l'app gratuïta de l'App Store i el vídeo a Fotos o Fitxers.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Obre el vídeo a l'app",
+        "text": "Obre l'app i afegeix el vídeo des de Fotos o Fitxers. Més ràpid: obre el vídeo a Fotos, toca Comparteix i tria Increase Volume; el projecte es crea de seguida."
+      },
+      {
+        "name": "Revisa els detalls",
+        "text": "L'app mostra el nom, la mida i la durada del fitxer, perquè sàpigues que és el clip correcte. Si és sobretot veu, activa «Millora la qualitat de l'àudio»."
+      },
+      {
+        "name": "Tria l'amplificació",
+        "text": "Arrossega «Multiplicació del volum». Comença amb ×3 a ×5 si el vídeo només és una mica fluix; ves fins a ×10 si gairebé no se sent. Toca «Reforça el volum a ×N»."
+      },
+      {
+        "name": "Compara Original i Processat",
+        "text": "Fes servir el selector de sota el botó per canviar entre l'original i la versió reforçada. Si les parts fortes sonen trencades, torna enrere i baixa la multiplicació un punt."
+      },
+      {
+        "name": "Descarrega i comparteix",
+        "text": "Toca «Descarrega el processat». Al full per compartir, tria Desa el vídeo per posar la còpia més forta a Fotos, Desa a Fitxers, o envia-la directament per Missatges, WhatsApp, AirDrop o TikTok."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consells per al millor resultat",
+    "items": [
+      "Amplifica *abans* de publicar a TikTok, Instagram o YouTube. Les plataformes igualen el volum en pujar, però no salven una pista que arriba massa fluixa.",
+      "Si el clip té un moment fort (riures, un cop de porta) amb veu fluixa al voltant, fes servir una multiplicació moderada (×3–×5) i activa «Millora la qualitat de l'àudio» en lloc d'anar a ×10.",
+      "L'original no es toca. L'app sempre crea un fitxer nou, així que pots provar diversos nivells.",
+      "Un vídeo gravat amb el micròfon tapat (funda, dit) sona fluix *i* apagat; amplificar arregla el nivell, no el so apagat."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Puc pujar el volum d'un vídeo a l'iPhone sense cap app?",
+      "answer": "Només amb iMovie, que Apple ofereix gratis i que fa un clip fins a un 500 % més fort. Fotos no pot augmentar el volum. Per a més de 5× o un procés més ràpid, fes servir Augmenta Volum Vídeo."
+    },
+    {
+      "question": "Empitjora la qualitat del vídeo si pujo el volum?",
+      "answer": "La imatge no canvia gens. El so es multiplica; si forces massa una gravació que ja té pics forts, es pot distorsionar i sonar trencada. Per això l'app té el selector Original/Processat, perquè escoltis abans de desar."
+    },
+    {
+      "question": "El vídeo continua sonant fort quan l'envio?",
+      "answer": "Sí. L'amplificació és a la pista d'àudio del fitxer, així que sona al nivell nou a qualsevol telèfon, ordinador o xarxa social."
+    },
+    {
+      "question": "Funciona amb vídeos descarregats?",
+      "answer": "Sí, sempre que el fitxer sigui a Fotos o Fitxers i no estigui protegit contra còpia. L'app obre fitxers MP4 i MOV de qualsevol origen."
+    }
+  ],
+  "related": [
+    "mes-fort-sense-perdre-qualitat",
+    "gravacio-de-pantalla-amb-so-fluix-iphone",
+    "imovie-volum-mes-de-500"
+  ],
+  "cta": {
+    "title": "Fes el teu vídeo més fort ara",
+    "text": "Augmenta Volum Vídeo és gratis a l'App Store. Comparteix el vídeo amb l'app, arrossega fins a ×10 i toca «Descarrega el processat»."
+  },
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

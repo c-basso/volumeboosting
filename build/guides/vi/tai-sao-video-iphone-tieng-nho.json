@@ -1,0 +1,100 @@
+{
+  "en_slug": "why-is-my-iphone-video-so-quiet",
+  "keyword": "tại sao video iPhone tiếng nhỏ",
+  "priority": 7,
+  "keywords": "tại sao video iPhone tiếng nhỏ, video iPhone mất tiếng, loa iPhone nhỏ, lỗi âm thanh video iPhone",
+  "title": "Tại sao video trên iPhone tiếng nhỏ? 7 nguyên nhân",
+  "description": "Video trên iPhone tiếng nhỏ? Xác định lỗi nằm ở lúc phát (cài đặt, loa) hay lúc ghi, rồi sửa tệp bị nhỏ với Tăng Âm Lượng Video, to hơn đến 10 lần trên máy.",
+  "h1": "Tại sao video trên iPhone của tôi tiếng nhỏ như vậy?",
+  "eyebrow": "Nguyên nhân",
+  "card_title": "Vì sao video tiếng nhỏ",
+  "card_summary": "Mọi video đều nhỏ là do điện thoại; chỉ một video nhỏ là do lúc ghi. Cách sửa cả hai trường hợp.",
+  "quick_answer": "Nếu mọi video đều nhỏ, nguyên nhân nằm ở lúc phát: An toàn tai nghe, Bluetooth, cân bằng âm thanh hoặc loa bị bám bụi. Nếu chỉ một video nhỏ, âm thanh đã nhỏ từ lúc ghi: khoảng cách xa, micro bị che hoặc gió. Trường hợp sau, tăng video trong Tăng Âm Lượng Video đến 10 lần rồi lưu bản mới.",
+  "intro": [
+    "Video iPhone tiếng nhỏ có hai nhóm nguyên nhân và cách sửa hoàn toàn khác nhau. Bắt đầu bằng một phép thử đơn giản: mở bất kỳ video nào trên YouTube. Nếu cũng nhỏ, vấn đề nằm ở điện thoại. Nếu nghe bình thường, vấn đề nằm ở video đã quay."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/1.webp",
+    "alt": "Ảnh quảng bá Tăng Âm Lượng Video: tăng âm lượng, khuếch đại âm thanh, to hơn đến mười lần",
+    "caption": "Nếu bản ghi nhỏ, làm chính tệp to hơn đến 10 lần."
+  },
+  "sections": [
+    {
+      "id": "phat-lai",
+      "heading": "Nguyên nhân khi phát (mọi video đều nhỏ)",
+      "list": [
+        "Bật «Giảm âm thanh lớn» trong An toàn tai nghe (Cài đặt › Âm thanh & cảm ứng).",
+        "Âm thanh vẫn đi vào thiết bị Bluetooth; kiểm tra Trung tâm điều khiển.",
+        "Cân bằng bị lệch sang một bên (Cài đặt › Trợ năng › Âm thanh & hình ảnh).",
+        "Lưới loa bị bụi hoặc bị ốp che."
+      ]
+    },
+    {
+      "heading": "Nguyên nhân khi ghi (chỉ một video nhỏ)",
+      "list": [
+        "Người nói đứng xa máy quay; khoảng cách gấp đôi thì mức âm giảm rõ rệt.",
+        "Ngón tay hoặc ốp lưng che micro lúc quay.",
+        "Gió hoặc tiếng xe cộ át lời nói."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Bản ghi nhỏ thì làm gì",
+      "paragraphs": [
+        "Cài đặt không thay đổi được tệp. Tăng Âm Lượng Video nâng rãnh âm thanh của video lên đến 10 lần, giữ nguyên hình ảnh và lưu bản mới vào Ảnh hoặc Tệp. Không ứng dụng nào vượt được giới hạn vật lý của loa, nhưng có thể đưa tệp nhỏ về mức bình thường."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Từng bước: sửa video tiếng nhỏ",
+    "intro": "Khoảng một phút.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Thử phát",
+        "text": "Mở một video khác để xác định vấn đề nằm ở đâu."
+      },
+      {
+        "name": "Mở video",
+        "text": "Ảnh → video → Chia sẻ → Tăng Âm Lượng Video."
+      },
+      {
+        "name": "Tăng âm lượng",
+        "text": "Chọn ×3–×10, chạm «Tăng âm lượng» và so sánh với bản gốc."
+      },
+      {
+        "name": "Lưu",
+        "text": "«Tải tệp đã xử lý» → Lưu video."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Cho video lần sau",
+    "items": [
+      "Đến gần người nói hơn; hiệu quả hơn mọi mức tăng.",
+      "Cầm máy ở các cạnh, không che micro.",
+      "Phỏng vấn quan trọng thì dùng micro cài áo."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Có ứng dụng nào làm loa iPhone to hơn không?",
+      "answer": "Không. Không ứng dụng nào vượt được giới hạn vật lý của loa. Ứng dụng chỉ làm tệp to hơn."
+    },
+    {
+      "question": "Vì sao chỉ một video bị nhỏ?",
+      "answer": "Do khoảng cách, micro bị che hoặc gió lúc quay. Cách sửa là tăng âm lượng tệp."
+    },
+    {
+      "question": "Khởi động lại máy có giúp không?",
+      "answer": "Nếu là lỗi khi phát thì đôi khi có. Lỗi do lúc ghi thì khởi động lại không sửa được."
+    }
+  ],
+  "related": [
+    "cach-tang-am-luong-video-tren-iphone",
+    "quay-man-hinh-iphone-tieng-nho",
+    "tang-am-luong-video-tu-anh"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

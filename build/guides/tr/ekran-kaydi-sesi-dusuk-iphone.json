@@ -1,0 +1,100 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "iPhone ekran kaydı sesi düşük",
+  "priority": 3,
+  "keywords": "iPhone ekran kaydı sesi düşük, ekran kaydında ses yok, ekran kaydı sesini artırma, ekran kaydı mikrofon açma",
+  "title": "iPhone Ekran Kaydında Ses Düşük mü? Nedenleri ve Çözüm",
+  "description": "iPhone ekran kaydında ses kısık mı ya da hiç yok mu? Nedenleri, bir sonraki kayıt için doğru ayarlar ve mevcut videoyu Ses Yükseltici ile yükseltmenin yolu.",
+  "h1": "iPhone ekran kaydında ses düşükse",
+  "eyebrow": "Ekran kaydı",
+  "card_title": "Ekran kaydı sesi",
+  "card_summary": "Dahili ses sistem seviyesinde kaydedilir, mikrofondaki sesiniz uzaktan gelir. Kaydı sonradan güçlendirmenin yolu.",
+  "quick_answer": "iOS ekran kaydı uygulama sesini o anki sistem ses seviyesinde kaydeder; mikrofon açıksa sesiniz uzaktan gelir. Zaten sessiz olan bir kaydı düzeltmek için Fotoğraflar'dan Ses Yükseltici'ye paylaşın, ×3–×5 güçlendirin ve yeni bir video olarak kaydedin.",
+  "intro": [
+    "Bir eğitim videosu, oyun klibi ya da online ders kaydediyorsunuz; sonra izlediğinizde ses neredeyse duyulmuyor. Bunun nedeni iPhone ekran kaydının çalışma şeklidir.",
+    "Aşağıda nedenler, bir sonraki kayıt için ayarlar ve mevcut kaydı düzeltmenin yolu var."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/tr/4.webp",
+    "alt": "Ses Yükseltici'de «Ses kalitesini iyileştir» anahtarı ve «Ses çarpanı ×10» kaydırıcısı",
+    "caption": "Ekran kayıtları için genellikle ×3–×5 yeterlidir."
+  },
+  "sections": [
+    {
+      "heading": "Ekran kaydı neden sessiz olur",
+      "list": [
+        "Dahili ses sistem seviyesinde kaydedilir: telefonun sesi kısıksa kayıt da sessiz olur.",
+        "Sessiz modda bazı uygulamalar ses çalmaz, dolayısıyla hiçbir şey kaydedilmez.",
+        "Denetim Merkezi'nde mikrofon açıksa sesiniz iPhone mikrofonuyla kaydedilir ve uzaktan gelir.",
+        "Aramalar ve bazı yayın uygulamaları koruma nedeniyle ses kaydına izin vermez."
+      ]
+    },
+    {
+      "heading": "Bir sonraki kayıt için iyi ayarlar",
+      "list": [
+        "Kayıttan önce sesi yaklaşık %75'e getirin.",
+        "Sessiz modu kapatın.",
+        "Sesinizin de kaydedilmesini istiyorsanız Denetim Merkezi'nde ekran kaydı düğmesine basılı tutup mikrofonu açın.",
+        "Bluetooth kulaklıkların bağlantısını kesin; ses bazen onlara gider."
+      ]
+    },
+    {
+      "heading": "Zaten sessiz olan kayıt",
+      "paragraphs": [
+        "Ekran kaydı Fotoğraflar'a normal bir video olarak kaydedilir. Ses Yükseltici ses parçasını 10 kata kadar yükseltir ve görüntüye dokunmadan yeni bir video oluşturur."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Adım adım: ekran kaydını yükseltin",
+    "intro": "Yaklaşık bir dakika.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Kaydı açın",
+        "text": "Kaydı Fotoğraflar'da açın ve Paylaş → Ses Yükseltici'ye dokunun."
+      },
+      {
+        "name": "Konuşma için iyileştirme",
+        "text": "Sesiniz varsa «Ses kalitesini iyileştir»i açın."
+      },
+      {
+        "name": "Güçlendirin",
+        "text": "×3–×5'e çekin, «Sesi güçlendir»e dokunun ve orijinalle karşılaştırın."
+      },
+      {
+        "name": "Kaydedin",
+        "text": "«İşlenmişi indir» → Videoyu Kaydet."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "İpuçları",
+    "items": [
+      "Uygulama sesi yüksek ama sesiniz kısıksa kablolu kulaklık mikrofonuyla kaydedin.",
+      "YouTube'a veya derse yüklemeden önce güçlendirin.",
+      "Uzun kaydı önce Fotoğraflar'da kırpın; işlem daha hızlı olur."
+    ]
+  },
+  "faq": [
+    {
+      "question": "iPhone ekran kaydında neden ses yok?",
+      "answer": "Sessiz mod, uygulama koruması (aramalar, bazı yayın uygulamaları) veya Bluetooth'a giden ses neden olabilir. Ses hiç kaydedilmediyse hiçbir uygulama onu geri getiremez."
+    },
+    {
+      "question": "Ekran kaydında mikrofon nasıl açılır?",
+      "answer": "Denetim Merkezi'nde ekran kaydı düğmesine basılı tutun ve Mikrofon'a dokunarak açın."
+    },
+    {
+      "question": "Kayıttan sonra ses yükseltilebilir mi?",
+      "answer": "Evet. Videoyu Ses Yükseltici'de açıp 10 kata kadar güçlendirin ve yeni bir kopya olarak kaydedin."
+    }
+  ],
+  "related": [
+    "iphone-video-sesi-nasil-yukseltilir",
+    "iphone-video-sesi-neden-dusuk",
+    "tiktok-video-sesini-yukseltme"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

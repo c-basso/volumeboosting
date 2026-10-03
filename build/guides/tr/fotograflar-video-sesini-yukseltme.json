@@ -1,0 +1,93 @@
+{
+  "en_slug": "how-to-boost-video-volume-from-the-photos-app",
+  "keyword": "Fotoğraflar uygulamasında video sesini yükseltme",
+  "priority": 9,
+  "keywords": "Fotoğraflar uygulamasında video sesini yükseltme, galeri video sesi artırma, iPhone Fotoğraflar ses, paylaşım ekranından ses yükseltme",
+  "title": "iPhone Fotoğraflar Uygulamasından Video Sesini Yükseltin",
+  "description": "iPhone Fotoğraflar düzenleyicisi sesi yalnızca kapatır. Videoyu Paylaş ile Ses Yükseltici'ye gönderin, 10 kata kadar yükseltin ve Fotoğraflar'a geri kaydedin.",
+  "h1": "iPhone Fotoğraflar uygulamasından video sesi nasıl yükseltilir",
+  "eyebrow": "Fotoğraflar",
+  "card_title": "Fotoğraflar'dan güçlendirin",
+  "card_summary": "Doğrudan Fotoğraflar'dan: Paylaş → Ses Yükseltici → güçlendir → Videoyu Kaydet.",
+  "quick_answer": "Videoyu Fotoğraflar'da açın, Paylaş'a dokunun ve Ses Yükseltici'yi seçin. ×3–×10 güçlendirip «İşlenmişi indir» → «Videoyu Kaydet»e dokunun. Yüksek sesli kopya Fotoğraflar'da orijinalin yanında görünür. Fotoğraflar düzenleyicisi sesi kendi başına yükseltemez.",
+  "intro": [
+    "Videolarınızın çoğu Fotoğraflar'dadır, bu yüzden oradan başlamak doğaldır. Fotoğraflar düzenleyicisinde ses kaydırıcısı yoktur, ama videoyu paylaşım ekranıyla doğrudan Ses Yükseltici'ye gönderebilirsiniz ve sonuç Fotoğraflar'a geri döner."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/tr/6.webp",
+    "alt": "Ses Yükseltici'den güçlendirilmiş dosya için seçenekleri gösteren iOS paylaşım ekranı",
+    "caption": "«Videoyu Kaydet» yüksek sesli kopyayı Fotoğraflar'a gönderir."
+  },
+  "sections": [
+    {
+      "heading": "Fotoğraflar düzenleyicisi sesle ne yapabilir",
+      "paragraphs": [
+        "Düzenleme modunda hoparlör simgesi klibin sesini kapatır. iPhone 16 ve sonrasında Ses Miksi konuşma ile arka plan arasındaki dengeyi değiştirir. İkisi de genel ses seviyesini yükseltmez."
+      ]
+    },
+    {
+      "heading": "Paylaşım ekranında Ses Yükseltici görünmüyorsa",
+      "paragraphs": [
+        "Paylaşım ekranında uygulama satırını sonuna kadar kaydırıp «Diğer»e dokunun. Ses Yükseltici'yi bulup Favoriler'e ekleyin; böylece ilk satırda görünür."
+      ]
+    },
+    {
+      "heading": "Kopya nereye kaydedilir?",
+      "paragraphs": [
+        "«Videoyu Kaydet» yüksek sesli videoyu Fotoğraflar'da yeni bir öğe olarak, Son Eklenenler'e kaydeder. Orijinal değişmez. İstemiyorsanız orijinali kendiniz silebilirsiniz."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Adım adım: Fotoğraflar'dan sesi yükseltin",
+    "intro": "Yaklaşık bir dakika.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Paylaş'a dokunun",
+        "text": "Videoyu Fotoğraflar'da açıp Paylaş → Ses Yükseltici."
+      },
+      {
+        "name": "Güçlendirin",
+        "text": "Çarpanı seçip «Sesi güçlendir»e dokunun."
+      },
+      {
+        "name": "Karşılaştırın",
+        "text": "Orijinal/İşlenmiş anahtarıyla dinleyin."
+      },
+      {
+        "name": "Fotoğraflar'a kaydedin",
+        "text": "«İşlenmişi indir» → Videoyu Kaydet."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "İpuçları",
+    "items": [
+      "Uzun videoyu önce Fotoğraflar'da kırpın.",
+      "iCloud Fotoğrafları açıksa yüksek sesli kopya tüm cihazlarınızda görünür.",
+      "Birden fazla klibi tek tek paylaşın."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Fotoğraflar uygulamasında ses kaydırıcısı var mı?",
+      "answer": "Hayır; yalnızca sessize alma ve (yeni iPhone'larda) Ses Miksi var. Sesi yükseltmek için bir uygulama gerekir."
+    },
+    {
+      "question": "Orijinal video silinir mi?",
+      "answer": "Hayır. Yüksek sesli kopya yeni bir öğe olarak kaydedilir."
+    },
+    {
+      "question": "iCloud'daki videoyla çalışır mı?",
+      "answer": "Evet; paylaştığınızda iOS videoyu önce indirir."
+    }
+  ],
+  "related": [
+    "iphone-video-sesi-nasil-yukseltilir",
+    "iphone-video-sesi-neden-dusuk",
+    "tiktok-video-sesini-yukseltme"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

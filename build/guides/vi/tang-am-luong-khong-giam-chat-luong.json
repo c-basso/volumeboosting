@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "tăng âm lượng không giảm chất lượng",
+  "priority": 10,
+  "keywords": "tăng âm lượng không giảm chất lượng, tăng âm lượng không bị rè, âm thanh bị vỡ khi tăng, tăng âm lượng video giữ chất lượng",
+  "title": "Cách tăng âm lượng không giảm chất lượng, không bị rè",
+  "description": "Vì sao âm thanh bị rè khi tăng và cách tránh: khoảng trống mức âm, tăng từng nấc và so sánh. Hình ảnh video không đổi, mọi xử lý diễn ra ngay trên iPhone.",
+  "h1": "Cách tăng âm lượng mà không giảm chất lượng",
+  "eyebrow": "Chất lượng",
+  "card_title": "Tăng không bị rè",
+  "card_summary": "Tiếng rè đến từ đâu, cách tăng từng nấc và vì sao hình ảnh video không đổi.",
+  "quick_answer": "Để tăng âm lượng mà không giảm chất lượng, hãy tăng từng nấc nhỏ và mỗi lần nghe đoạn to nhất bằng tai nghe. Nếu nghe rè, giảm hệ số một nấc. Công tắc Gốc/Đã xử lý trong Tăng Âm Lượng Video có để làm việc này; tệp gốc không đổi và hình ảnh video giữ nguyên.",
+  "intro": [
+    "«Tăng âm lượng có làm giảm chất lượng không?» là câu hỏi gặp nhiều nhất. Câu trả lời ngắn: hình ảnh hoàn toàn không đổi và âm thanh vẫn sạch nếu tăng ở mức hợp lý. Vấn đề duy nhất: đẩy quá tay thì các đoạn to sẽ bị rè."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/5.webp",
+    "alt": "Màn hình kết quả trong Tăng Âm Lượng Video: nút «Tải tệp đã xử lý» và công tắc Gốc/Đã xử lý",
+    "caption": "So sánh bản gốc và bản đã tăng trước khi lưu."
+  },
+  "sections": [
+    {
+      "heading": "Khoảng trống mức âm: vì sao bản ghi nhỏ tăng tốt",
+      "paragraphs": [
+        "Mỗi tệp số đều có mức tối đa. Bản ghi nhỏ còn cách xa giới hạn đó nên có thể nâng nhiều. Bản ghi đã có khoảnh khắc to (tiếng cười, vỗ tay) còn ít khoảng trống; tăng quá mức sẽ cắt mất các đỉnh âm."
+      ]
+    },
+    {
+      "heading": "Cách tránh tiếng rè",
+      "list": [
+        "Bắt đầu ở hệ số vừa phải (×2–×3).",
+        "Nghe đoạn to nhất bằng tai nghe.",
+        "Không rè thì tăng thêm một nấc; rè thì quay lại.",
+        "Với lời nói, bật «Cải thiện chất lượng âm thanh»."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Chất lượng video có thay đổi không?",
+      "paragraphs": [
+        "Tăng Âm Lượng Video chỉ thay đổi rãnh âm thanh. Độ phân giải, tốc độ khung hình và màu sắc giữ nguyên."
+      ]
+    },
+    {
+      "id": "quyen-rieng-tu",
+      "heading": "Quyền riêng tư: mọi thứ trên iPhone",
+      "paragraphs": [
+        "Mọi xử lý diễn ra hoàn toàn trên iPhone. Không tài khoản, không tải lên, không máy chủ. Kết quả được lưu qua bảng chia sẻ iOS vào nơi được chọn (Ảnh, Tệp hoặc một ứng dụng)."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Từng bước: tăng âm lượng sạch",
+    "intro": "Khoảng hai phút.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Mở tệp",
+        "text": "Nhập từ Ảnh hoặc Tệp vào Tăng Âm Lượng Video."
+      },
+      {
+        "name": "Bắt đầu từ mức thấp",
+        "text": "Chọn ×2–×3 và chạm «Tăng âm lượng»."
+      },
+      {
+        "name": "Nghe đoạn to",
+        "text": "So sánh bằng tai nghe với công tắc Gốc/Đã xử lý; điều chỉnh nếu cần."
+      },
+      {
+        "name": "Lưu",
+        "text": "Chạm «Tải tệp đã xử lý»."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Mẹo",
+    "items": [
+      "Đừng tăng lại tệp đã tăng; hãy bắt đầu từ bản gốc.",
+      "Nếu nghe rè qua loa điện thoại, kiểm tra lại bằng tai nghe; đôi khi giới hạn là ở loa.",
+      "Với nhạc, hệ số thấp hơn lời nói là đủ."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Tăng âm lượng có làm giảm chất lượng không?",
+      "answer": "Ở mức hợp lý thì không. Chỉ tăng quá mức mới làm các đoạn to bị rè."
+    },
+    {
+      "question": "Tệp có bị tải lên máy chủ không?",
+      "answer": "Không. Mọi xử lý diễn ra trên iPhone."
+    },
+    {
+      "question": "Sửa được âm thanh đã bị rè không?",
+      "answer": "Tệp gốc không đổi, nên hãy bắt đầu lại với hệ số thấp hơn."
+    }
+  ],
+  "related": [
+    "cach-tang-am-luong-video-tren-iphone",
+    "imovie-tang-am-luong-tren-500",
+    "nhac-tren-iphone-nho"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

@@ -1,0 +1,99 @@
+{
+  "en_slug": "how-to-make-a-tiktok-video-louder",
+  "keyword": "kako narediti video za TikTok glasnejši",
+  "priority": 8,
+  "keywords": "kako narediti video za TikTok glasnejši, tih zvok TikTok, povečati glasnost videa TikTok, tih video TikTok, glasnejši zvok Reels",
+  "title": "Kako narediti video za TikTok glasnejši pred objavo (10×)",
+  "description": "Urejevalnik TikToka izvirnega zvoka ne dvigne nad 100 %. Kako video ojačaš do 10× v Increase Volume pred nalaganjem in ga uravnotežiš z glasbo v ozadju.",
+  "h1": "Kako narediti video za TikTok glasnejši",
+  "eyebrow": "TikTok in Reels",
+  "card_title": "Glasnejši TikTok",
+  "card_summary": "TikTok se ustavi pri 100 % izvirnega zvoka. Ojači posnetek pred nalaganjem, da se glas sliši nad glasbo.",
+  "quick_answer": "TikTok ti dovoli izvirni zvok utišati, ne pa ga dvigniti nad 100 %. Za glasnejši TikTok najprej ojači posnetek: deli video iz Fotografij v Increase Volume, ojači ×3–×6, tapni „Prenesi obdelano“ → Shrani video in glasnejšo kopijo naloži v TikTok. Nato uravnoteži izvirni zvok in glasbo v razdelku Glasnost.",
+  "intro": [
+    "Nihče ne podrsa naprej hitreje kot takrat, ko ne sliši, kaj govoriš. TikTok in Instagram Reels izenačita raven zvoka, a posnetka, ki pride pretih, ne dvigneta, v urejevalniku TikToka pa je 100 % izvirnega zvoka strop.",
+    "Rešitev je, da posnetek narediš glasnejši pred nalaganjem."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/6.webp",
+    "alt": "List za deljenje v iOS z možnostmi Kopiraj, Dodaj oznake in Shrani v Datoteke za ojačeno datoteko",
+    "caption": "Glasnejšo kopijo shrani v Fotografije in jo naloži v TikTok."
+  },
+  "sections": [
+    {
+      "heading": "Zakaj je video za TikTok tih",
+      "paragraphs": [
+        "Mikrofon telefona ujame govor tiho, ko snemaš z iztegnjeno roko ali zunaj. Ko dodaš glasbo, se glas izgubi. Drsnik glasnosti v TikToku zna le utišati: izvirni zvok gre od 0 do 100 %."
+      ]
+    },
+    {
+      "heading": "Postopek: najprej ojači, nato uredi",
+      "paragraphs": [],
+      "list": [
+        "Posnemi kot običajno s kamero iPhona.",
+        "Ojači posnetek v Increase Volume (×3–×6 za govor).",
+        "Glasnejšo kopijo naloži v TikTok ali Instagram.",
+        "Dodaj glasbo in jo v razdelku Glasnost zmanjšaj na približno 20–40 %."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Ali deluje z Reels in Shorts?",
+      "paragraphs": [
+        "Da. Ojačena datoteka je običajen video, zato deluje v Instagram Reels, YouTube Shorts, Snapchatu in CapCutu."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Korak za korakom: ojači posnetek za TikTok",
+    "intro": "Naredi to pred nalaganjem.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Deli posnetek z aplikacijo",
+        "text": "V Fotografijah: Deli → Increase Volume."
+      },
+      {
+        "name": "Izberi raven",
+        "text": "Govor: ×3–×6 z „Izboljšaj kakovost zvoka“. Zelo tiho: do ×10."
+      },
+      {
+        "name": "Ojači in primerjaj",
+        "text": "Tapni „Ojači glasnost na ×N“ in poslušaj z Izvirnik/Obdelano."
+      },
+      {
+        "name": "Shrani in naloži",
+        "text": "„Prenesi obdelano“ → Shrani video, nato v TikToku izberi novo kopijo."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Nasveti za TikTok",
+    "items": [
+      "Podnapisi pomagajo tistim, ki gledajo brez zvoka, a slišen zvok zadrži gledalce.",
+      "Ne pojdi čez ×6, če so v posnetku kriki ali smeh.",
+      "Shranjene videe TikTok z vodnim žigom je tudi mogoče ojačati, a najboljšo kakovost da izvirna datoteka."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Ali lahko v TikToku povečam glasnost nad 100 %?",
+      "answer": "Ne. Urejevalnik TikToka zna izvirni zvok le utišati. Ojači posnetek pred nalaganjem."
+    },
+    {
+      "question": "Ali se kakovost videa poslabša?",
+      "answer": "Ne, slika se ne spremeni. TikTok video ob nalaganju tako ali tako stisne."
+    },
+    {
+      "question": "Ali deluje z Instagram Reels?",
+      "answer": "Da, ojačena datoteka deluje v vsaki aplikaciji."
+    }
+  ],
+  "related": [
+    "kako-povecati-glasnost-videa-na-iphonu",
+    "tih-posnetek-zaslona-iphone",
+    "glasnost-videa-v-fotografijah"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

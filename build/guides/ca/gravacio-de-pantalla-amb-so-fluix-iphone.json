@@ -1,0 +1,100 @@
+{
+  "en_slug": "how-to-make-a-screen-recording-louder-on-iphone",
+  "keyword": "gravació de pantalla amb so fluix iPhone",
+  "priority": 3,
+  "keywords": "gravació de pantalla amb so fluix iPhone, gravació de pantalla sense so, com pujar el so d'una gravació de pantalla, so fluix en gravar la pantalla, volum gravació de pantalla",
+  "title": "So fluix a la gravació de pantalla de l'iPhone: solució",
+  "description": "Per què l'iPhone grava el so de les apps tan fluix? Què revisar abans de la propera gravació de pantalla i com fer-ne una d'existent fins a 10× més forta.",
+  "h1": "So fluix a la gravació de pantalla de l'iPhone: causa i solució",
+  "eyebrow": "Gravació de pantalla",
+  "card_title": "Gravació de pantalla fluixa",
+  "card_summary": "iOS grava el so de les apps més fluix del que el sents. Arregla la propera gravació i amplifica ×5–×10 la que ja tens.",
+  "quick_answer": "iOS grava el so de les apps a un nivell reduït, i encara més fluix amb el volum baix o amb auriculars Bluetooth connectats. La propera vegada, desconnecta el Bluetooth i apuja el volum abans de tocar Gravació de pantalla al Centre de control. Per a una gravació que ja tens: comparteix el vídeo des de Fotos a Increase Volume, amplifica'l ×5–×10 i toca «Descarrega el processat».",
+  "intro": [
+    "Una gravació de pantalla d'un joc, un tutorial o una videotrucada es veu perfecta, però el so gairebé no se sent quan la reprodueixes. No és culpa teva: iOS grava el so del sistema més fluix del que el sents mentre graves.",
+    "Aquí tens què afecta el nivell, com aconseguir una gravació millor la propera vegada i com salvar la que ja tens."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/ca/4.webp",
+    "alt": "Captura de la botiga (titular en castellà «Seleccione la cantidad de aumento»): control de multiplicació del volum ×10 i botó per reforçar",
+    "caption": "Tria la multiplicació per a la gravació de pantalla i toca «Reforça el volum»."
+  },
+  "sections": [
+    {
+      "heading": "Per què les gravacions de pantalla tenen el so fluix",
+      "paragraphs": [
+        "La gravació de pantalla d'iOS captura el so de l'app internament. El nivell segueix en part el volum del sistema, així que una gravació feta amb el volum baix surt fluixa. Amb auriculars Bluetooth connectats, el so de l'app es pot gravar més feble o gens, i moltes apps (streaming, trucades) bloquegen o silencien el so a la gravació de pantalla."
+      ]
+    },
+    {
+      "heading": "Com tenir millor so a la propera gravació",
+      "paragraphs": [],
+      "list": [
+        "Desconnecta els auriculars Bluetooth abans de començar.",
+        "Apuja bé el volum multimèdia abans de tocar Gravació de pantalla.",
+        "Per gravar també la teva veu: mantén premut el botó de gravació de pantalla al Centre de control i activa el Micròfon.",
+        "Desactiva Concentració / No molestis perquè les notificacions no interrompin el so."
+      ],
+      "ordered": false,
+      "note": "Els noms dels botons poden variar una mica entre versions d'iOS."
+    },
+    {
+      "heading": "Ja tens una gravació fluixa? Amplifica el fitxer",
+      "paragraphs": [
+        "Una gravació de pantalla acabada és un vídeo normal a Fotos. Augmenta Volum Vídeo l'obre, multiplica la pista d'àudio fins a 10× i desa una còpia nova al costat de l'original. La imatge no canvia."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Fes més forta una gravació de pantalla",
+    "intro": "Un minut per a una gravació curta.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Comparteix la gravació amb l'app",
+        "text": "Obre la gravació de pantalla a Fotos, toca Comparteix i tria Increase Volume."
+      },
+      {
+        "name": "Tria el nivell",
+        "text": "Les gravacions de pantalla sovint necessiten ×5–×8. Si és veu (tutorial), activa «Millora la qualitat de l'àudio»."
+      },
+      {
+        "name": "Reforça i compara",
+        "text": "Toca «Reforça el volum a ×N» i alterna Original i Processat."
+      },
+      {
+        "name": "Desa",
+        "text": "Toca «Descarrega el processat» → Desa el vídeo. La còpia més forta va a Fotos."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consells",
+    "items": [
+      "Si la gravació té so del joc i veu, amplifica amb moderació (×3–×5) perquè les explosions no sonin trencades.",
+      "Una gravació de pantalla sense pista d'àudio no es pot amplificar; s'ha de tornar a gravar amb so.",
+      "Amplifica abans d'editar a iMovie o CapCut; així treballes amb un senyal fort tota l'estona."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Per què la meva gravació de pantalla no té so?",
+      "answer": "L'app pot bloquejar la gravació del so (streaming, trucades) o el so ha anat als auriculars Bluetooth. Comprova també que el micròfon estava activat si volies gravar la teva veu."
+    },
+    {
+      "question": "Puc pujar el so d'una gravació de pantalla després?",
+      "answer": "Sí. Comparteix el vídeo des de Fotos a Augmenta Volum Vídeo, amplifica'l ×5–×10 i desa la còpia més forta."
+    },
+    {
+      "question": "Empitjora la imatge?",
+      "answer": "No. Només canvia la pista d'àudio; la imatge es copia tal com és."
+    }
+  ],
+  "related": [
+    "com-pujar-el-volum-d-un-video-a-l-iphone",
+    "per-que-el-video-sona-fluix",
+    "video-de-tiktok-mes-fort"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

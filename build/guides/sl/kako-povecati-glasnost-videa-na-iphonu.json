@@ -1,0 +1,120 @@
+{
+  "en_slug": "how-to-make-a-video-louder-on-iphone",
+  "keyword": "kako povečati glasnost videa na iPhonu",
+  "priority": 1,
+  "keywords": "kako povečati glasnost videa na iPhonu, glasnejši video, tih zvok v videu, aplikacija za povečanje glasnosti, ojačevalnik glasnosti videa",
+  "title": "Kako povečati glasnost videa na iPhonu: do 10× glasneje",
+  "description": "Naredi tih video na iPhonu glasnejši v manj kot minuti: kaj zmoreta Fotografije in iMovie, kje se ustavita in kako prideš do 10× z aplikacijo Increase Volume.",
+  "h1": "Kako povečati glasnost videa na iPhonu",
+  "eyebrow": "Video",
+  "card_title": "Glasnejši video",
+  "card_summary": "Fotografije glasnosti ne povečajo, iMovie pa se ustavi pri približno 500 %. Tako prideš do 10× z enim drsnikom.",
+  "quick_answer": "Če želiš povečati glasnost videa na iPhonu, ga odpri v aplikaciji Increase Volume (brezplačno v App Store), premakni drsnik „Množitelj glasnosti“ na ×10, tapni „Ojači glasnost“, primerjaj Izvirnik in Obdelano ter tapni „Prenesi obdelano“. Glasnejša kopija se shrani v Fotografije ali Datoteke in je glasna na vsaki napravi in v vsaki aplikaciji. Aplikacija Fotografije glasnosti ne more povečati, iMovie pa se ustavi pri približno 500 %.",
+  "intro": [
+    "Posnameš trenutek, ga pošlješ prijatelju in dobiš odgovor: „Nič se ne sliši.“ Video s pretihim zvokom je ena najpogostejših težav na iPhonu, ker rešitev ni tam, kjer jo ljudje iščejo. Gumbi za glasnost spremenijo le, kako glasno predvaja telefon, urejevalnik v Fotografijah pa nima nadzora glasnosti.",
+    "Ta vodnik predstavi tri resnične možnosti na iPhonu, kaj vsaka zmore in česa ne, nato pa najhitrejši način: zvok videa pomnoži do 10× z Increase Volume in shrani trajno glasnejšo datoteko."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/2.webp",
+    "alt": "Zaslon „Make video louder“: prst premika rožnati drsnik nad videom v Increase Volume",
+    "caption": "Drsnik je nad predogledom videa. Premakni, poslušaj, shrani."
+  },
+  "sections": [
+    {
+      "heading": "Zakaj glasnost telefona ne popravi videa",
+      "paragraphs": [
+        "Gumbi za glasnost na iPhonu spremenijo, kako glasno igra *tvoj* zvočnik. Zvoka v sami video datoteki ne spremenijo. Ko datoteko deliš, jo telefon prejemnika predvaja na izvirni, tihi ravni. Za pravo rešitev je treba dvigniti raven zvočnega posnetka in shraniti novo datoteko. Prav to naredi ojačevalnik glasnosti za video."
+      ]
+    },
+    {
+      "heading": "1. možnost: aplikacija Fotografije (glasnosti ne poveča)",
+      "paragraphs": [
+        "Odpri video v Fotografijah in tapni Uredi. Videl boš ikono zvočnika, ki posnetek le utiša, na iPhonu 16 ali novejšem pri videih s prostorskim zvokom pa še Zvočni miks, ki spremeni razmerje med glasovi in ozadjem. Nobena od teh možnosti ne poveča skupne glasnosti. Če je celoten posnetek tih, Fotografije ne pomagajo."
+      ]
+    },
+    {
+      "heading": "2. možnost: iMovie (brezplačno, meja okoli 500 %)",
+      "paragraphs": [
+        "iMovie lahko posnetek naredi glasnejši: ustvari filmski projekt, dodaj video, tapni posnetek, tapni ikono zvočnika in premakni drsnik v desno. Omejitvi sta dve. Drsnik se ustavi pri približno 500 % (5×), kar pogosto ne zadošča za posnetek z drugega konca sobe. Poleg tega moraš ustvariti projekt in znova izvoziti celoten video, kar pri dolgem posnetku traja nekaj minut."
+      ],
+      "list": [
+        "Odpri iMovie → Začni nov projekt → Film in izberi video.",
+        "Tapni posnetek na časovnici, tapni ikono zvočnika in premakni drsnik glasnosti v desno (največ okoli 500 %).",
+        "Tapni Končano → Deli → Shrani video in počakaj, da se izvoz konča."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "3. možnost: Increase Volume (do 10×, en drsnik, manj kot minuta)",
+      "paragraphs": [
+        "Increase Volume je narejen prav za to. Odpre katerikoli video iz Fotografij ali Datotek, pokaže en drsnik „Množitelj glasnosti“ do ×10 (1000 %), pred shranjevanjem omogoči primerjavo Izvirnik in Obdelano ter rezultat shrani prek običajnega lista za deljenje v iOS. Odpre tudi samo zvočne datoteke, kot so MP3 in posnetki iz Glasovnih zapiskov, ki jih iMovie ne odpre.",
+        "Obdelava poteka na iPhonu. Nič se ne naloži, račun ni potreben, izvoženi video pa nima vodnega žiga."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Korak za korakom: povečaj glasnost videa z Increase Volume",
+    "intro": "Za običajen posnetek traja približno minuto. Potrebuješ brezplačno aplikacijo iz App Store in video v Fotografijah ali Datotekah.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Odpri video v aplikaciji",
+        "text": "Odpri aplikacijo in dodaj video iz Fotografij ali Datotek. Hitreje: odpri video v Fotografijah, tapni Deli in izberi Increase Volume; projekt se ustvari takoj."
+      },
+      {
+        "name": "Preveri podrobnosti",
+        "text": "Aplikacija pokaže ime datoteke, velikost in trajanje, da veš, da je pravi posnetek. Če gre večinoma za govor, vklopi „Izboljšaj kakovost zvoka“."
+      },
+      {
+        "name": "Izberi ojačitev",
+        "text": "Premakni „Množitelj glasnosti“. Začni pri ×3–×5, če je video le malo tih; pojdi do ×10, če ga komaj slišiš. Tapni „Ojači glasnost na ×N“."
+      },
+      {
+        "name": "Primerjaj Izvirnik in Obdelano",
+        "text": "S stikalom pod gumbom preklapljaj med izvirnikom in ojačano različico. Če glasni deli hreščijo, se vrni in zmanjšaj množitelj za stopnjo."
+      },
+      {
+        "name": "Prenesi in deli",
+        "text": "Tapni „Prenesi obdelano“. Na listu za deljenje izberi Shrani video, da gre glasnejša kopija v Fotografije, Shrani v Datoteke, ali jo pošlji neposredno prek Sporočil, WhatsAppa, Viberja, AirDropa ali TikToka."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Nasveti za najboljši rezultat",
+    "items": [
+      "Ojači *preden* objaviš na TikTok, Instagram ali YouTube. Platforme ob nalaganju izenačijo glasnost, a preveč tihega posnetka ne rešijo.",
+      "Če ima posnetek en glasen trenutek (smeh, loputanje vrat) sredi tihega govora, uporabi zmeren množitelj (×3–×5) in vklopi „Izboljšaj kakovost zvoka“ namesto ×10.",
+      "Izvirnik ostane nedotaknjen. Aplikacija vedno ustvari novo datoteko, zato lahko preizkusiš več ravni.",
+      "Video, posnet s pokritim mikrofonom (ovitek, prst), zveni tiho *in* zamolklo; ojačitev popravi raven, ne zamolklosti."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Ali lahko povečam glasnost videa na iPhonu brez aplikacije?",
+      "answer": "Le z iMovie, ki ga Apple ponuja brezplačno in ki posnetek ojači do približno 500 %. Fotografije glasnosti ne povečajo. Za več kot 5× ali hitrejši postopek uporabi Increase Volume."
+    },
+    {
+      "question": "Ali se kakovost videa poslabša, ko povečam glasnost?",
+      "answer": "Slika se sploh ne spremeni. Zvok se pomnoži; če preveč potisneš posnetek, ki že ima glasne vrhove, se lahko popači in hrešči. Zato ima aplikacija stikalo Izvirnik/Obdelano, da poslušaš pred shranjevanjem."
+    },
+    {
+      "question": "Ali ostane video glasen, ko ga pošljem?",
+      "answer": "Da. Ojačitev je v zvočnem posnetku datoteke, zato se predvaja na novi ravni na vsakem telefonu, računalniku in družbenem omrežju."
+    },
+    {
+      "question": "Ali deluje s prenesenimi videi?",
+      "answer": "Da, če je datoteka v Fotografijah ali Datotekah in ni zaščitena pred kopiranjem. Aplikacija odpre datoteke MP4 in MOV iz katerega koli vira."
+    }
+  ],
+  "related": [
+    "glasneje-brez-izgube-kakovosti",
+    "tih-posnetek-zaslona-iphone",
+    "imovie-glasnost-nad-500"
+  ],
+  "cta": {
+    "title": "Naredi svoj video glasnejši zdaj",
+    "text": "Increase Volume je brezplačen v App Store. Deli video z aplikacijo, premakni na ×10 in tapni „Prenesi obdelano“."
+  },
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

@@ -1,0 +1,120 @@
+{
+  "en_slug": "imovie-volume-limit-how-to-boost-video-beyond-500-percent",
+  "keyword": "iMovie volum més del 500 %",
+  "priority": 11,
+  "keywords": "iMovie volum més del 500 %, iMovie so més fort, límit de volum d'iMovie, pujar el volum a iMovie iPhone, iMovie so fluix",
+  "title": "iMovie s'atura al 500 %? Com fer el vídeo encara més fort",
+  "description": "El control de volum d'iMovie a l'iPhone s'atura cap al 500 %. Com fer el clip fins a un 1000 % (10×) més fort amb Augmenta Volum Vídeo, abans o després.",
+  "h1": "Volum d'iMovie per sobre del 500 %: com superar el límit",
+  "eyebrow": "iMovie",
+  "card_title": "iMovie més del 500 %",
+  "card_summary": "iMovie s'atura cap a 5×. Amplifica el clip fins a 10× abans de posar-lo al projecte.",
+  "quick_answer": "A iMovie a l'iPhone, el control de volum s'atura cap al 500 % (5×). Per anar més enllà, primer amplifica el clip a Augmenta Volum Vídeo (Comparteix → Increase Volume, fins a ×10), desa'l a Fotos i importa la còpia més forta a iMovie. O salta't iMovie: l'app també obre fitxers només d'àudio i desa sense projecte ni exportació.",
+  "intro": [
+    "iMovie és gratis i va molt bé per tallar, però el volum té un sostre. Quan el 500 % no n'hi ha prou, el truc habitual és duplicar la pista d'àudio, cosa que iMovie a l'iPhone no posa fàcil.",
+    "Aquí tens un camí més ràpid."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/ca/4.webp",
+    "alt": "Captura de la botiga (titular en castellà «Seleccione la cantidad de aumento»): control de multiplicació ×10, el doble del màxim d'iMovie",
+    "caption": "Augmenta Volum Vídeo arriba a ×10, el doble del límit d'iMovie."
+  },
+  "sections": [
+    {
+      "heading": "iMovie o Augmenta Volum Vídeo",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "",
+          "iMovie (iPhone)",
+          "Augmenta Volum Vídeo"
+        ],
+        "rows": [
+          [
+            "Volum màxim",
+            "cap al 500 % (5×)",
+            "1000 % (10×)"
+          ],
+          [
+            "Fitxers d'àudio (MP3, M4A)",
+            "No",
+            "Sí"
+          ],
+          [
+            "Projecte i exportació",
+            "Obligatoris",
+            "No, un sol control"
+          ],
+          [
+            "Escoltar abans de desar",
+            "A la línia de temps",
+            "Original/Processat"
+          ],
+          [
+            "Preu",
+            "Gratis",
+            "Descàrrega gratuïta, subscripció"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Fes-los servir junts",
+      "paragraphs": [
+        "Fes servir Augmenta Volum Vídeo per al nivell i iMovie per a l'edició. Amplifica el clip original, per exemple a ×8, importa'l a iMovie i continua editant. Així no cal portar el control d'iMovie al màxim."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Supera el 500 %",
+    "intro": "Abans de posar el clip a iMovie.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Comparteix el clip amb l'app",
+        "text": "A Fotos: Comparteix → Increase Volume."
+      },
+      {
+        "name": "Amplifica",
+        "text": "Arrossega «Multiplicació del volum» fins a ×6–×10 i toca «Reforça el volum a ×N»."
+      },
+      {
+        "name": "Desa",
+        "text": "«Descarrega el processat» → Desa el vídeo."
+      },
+      {
+        "name": "Importa a iMovie",
+        "text": "Afegeix la còpia més forta al projecte d'iMovie i continua."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consells",
+    "items": [
+      "Amplifica abans d'editar; tornar a exportar des d'iMovie porta temps.",
+      "Si ja has exportat des d'iMovie, amplifica el fitxer exportat.",
+      "Per a veu, activa «Millora la qualitat de l'àudio»."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Quin és el volum màxim a iMovie a l'iPhone?",
+      "answer": "Cap al 500 % (5×) per clip."
+    },
+    {
+      "question": "Puc fer un clip més fort del 500 % a iMovie?",
+      "answer": "Directament no. Primer amplifica el clip a Augmenta Volum Vídeo i importa la còpia més forta."
+    },
+    {
+      "question": "Augmenta Volum Vídeo obre projectes d'iMovie?",
+      "answer": "No, però obre els vídeos que exportes des d'iMovie."
+    }
+  ],
+  "related": [
+    "com-pujar-el-volum-d-un-video-a-l-iphone",
+    "mes-fort-sense-perdre-qualitat",
+    "pujar-volum-video-des-de-fotos"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

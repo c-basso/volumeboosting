@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "pujar el volum sense perdre qualitat",
+  "priority": 10,
+  "keywords": "pujar el volum sense perdre qualitat, més fort sense distorsió, amplificar vídeo sense que soni trencat, el so sona trencat després d'amplificar, amplificació d'àudio neta",
+  "title": "Com pujar el volum sense perdre qualitat ni distorsionar",
+  "description": "Quan sona trencat el so i quan no? Com triar la multiplicació, escoltar Original/Processat i fer un vídeo més fort sense que la imatge canviï gens ni mica.",
+  "h1": "Com fer més forts vídeo i àudio sense perdre qualitat",
+  "eyebrow": "Qualitat",
+  "card_title": "Més fort sense perdre qualitat",
+  "card_summary": "Marge, pics i distorsió explicats, i com trobar el nivell més alt que encara sona net.",
+  "quick_answer": "El so només es distorsiona quan els pics més forts passen del sostre digital. Una gravació fluixa té molt de marge i aguanta ×5–×10. Comença amb ×3 a Augmenta Volum Vídeo, troba el moment més fort del clip, alterna Original i Processat i puja mentre soni net. Per a veu, activa «Millora la qualitat de l'àudio». La imatge del vídeo no canvia mai.",
+  "intro": [
+    "La por d'«espatllar» una gravació fa que molta gent no la faci més forta. Però amplificar no és perdre: mentre els pics es quedin per sota del sostre, el so simplement és més fort.",
+    "Aquesta guia explica què passa i com trobar el millor nivell sense endevinar."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/ca/5.webp",
+    "alt": "Captura de la pantalla de resultat amb el botó per descarregar el processat i el selector Original/Processat",
+    "caption": "Alterna Original i Processat abans de desar."
+  },
+  "sections": [
+    {
+      "heading": "Marge: per què les gravacions fluixes aguanten molt",
+      "paragraphs": [
+        "L'àudio digital té un sostre (0 dBFS). Una gravació fluixa pot quedar 20 dB per sota; això deixa espai per a uns 10× abans que els pics toquin el sostre. Un clip amb un cop fort a prop del sostre té poc marge, encara que la resta sigui fluixa."
+      ]
+    },
+    {
+      "heading": "Com sentir la distorsió",
+      "paragraphs": [],
+      "list": [
+        "Troba el tros més fort: riures, un crit, la tornada.",
+        "Escolta alternant Original/Processat.",
+        "Si sona trencat o pla, baixa la multiplicació un punt."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Canvia la qualitat del vídeo?",
+      "paragraphs": [
+        "No. Augmenta Volum Vídeo només canvia la pista d'àudio. La imatge manté la mateixa resolució i no porta marca d'aigua."
+      ]
+    },
+    {
+      "id": "privadesa",
+      "heading": "Privadesa: tot passa a l'iPhone",
+      "paragraphs": [
+        "Els teus fitxers no surten del telèfon. El processament es fa al dispositiu, sense compte i sense pujar res. El resultat es desa amb el full per compartir d'iOS a Fotos, Fitxers o l'app que triïs."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Troba el nivell més alt i net",
+    "intro": "Una prova ràpida de menys d'un minut.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Comença amb ×3",
+        "text": "Arrossega «Multiplicació del volum» fins a ×3 i toca «Reforça el volum a ×3»."
+      },
+      {
+        "name": "Revisa els pics",
+        "text": "Reprodueix el tros més fort amb Original/Processat."
+      },
+      {
+        "name": "Puja o baixa",
+        "text": "Net: passa a ×5, després a ×8 o ×10. Sona trencat: baixa un punt."
+      },
+      {
+        "name": "Desa",
+        "text": "Toca «Descarrega el processat» quan el nivell sigui el correcte."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consells",
+    "items": [
+      "La veu aguanta més que la música.",
+      "«Millora la qualitat de l'àudio» fa les veus més clares amb molta amplificació.",
+      "Prova diversos nivells; l'original sempre es conserva."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Puc fer un vídeo més fort sense que empitjori la qualitat?",
+      "answer": "Sí, mentre els pics no passin del sostre. Escolta amb Original/Processat abans de desar."
+    },
+    {
+      "question": "Per què sona trencat el so després d'amplificar?",
+      "answer": "S'han retallat els pics més forts. Baixa la multiplicació fins que soni net."
+    },
+    {
+      "question": "Es pugen els meus vídeos enlloc?",
+      "answer": "No. Tot es processa a l'iPhone."
+    }
+  ],
+  "related": [
+    "com-pujar-el-volum-d-un-video-a-l-iphone",
+    "imovie-volum-mes-de-500",
+    "musica-fluixa-iphone"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

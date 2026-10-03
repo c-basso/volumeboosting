@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-make-a-video-louder-without-losing-quality",
+  "keyword": "kalite kaybetmeden ses yükseltme",
+  "priority": 10,
+  "keywords": "kalite kaybetmeden ses yükseltme, cızırtısız ses artırma, ses bozulmadan yükseltme, video kalitesi ses güçlendirme",
+  "title": "Kalite Kaybetmeden ve Cızırtısız Ses Nasıl Yükseltilir",
+  "description": "Ses güçlendirince neden cızırdar ve nasıl önlenir: headroom, kademeli güçlendirme ve karşılaştırma. Görüntü değişmez, tüm işlem iPhone'unuzda gerçekleşir.",
+  "h1": "Kalite kaybetmeden ses nasıl yükseltilir",
+  "eyebrow": "Kalite",
+  "card_title": "Cızırtısız güçlendirme",
+  "card_summary": "Cızırtı nereden gelir, kademeli güçlendirme nasıl yapılır ve video görüntüsü neden değişmez.",
+  "quick_answer": "Kalite kaybetmeden sesi yükseltmek için küçük adımlarla güçlendirin ve her seferinde en yüksek kısımları kulaklıkla dinleyin. Cızırtı duyarsanız çarpanı bir kademe düşürün. Ses Yükseltici'deki Orijinal/İşlenmiş anahtarı tam bunun için var; orijinal dosya değişmez ve video görüntüsü aynı kalır.",
+  "intro": [
+    "«Sesi yükseltince kalite düşer mi?» en sık sorulan sorudur. Kısa cevap: görüntü hiç değişmez, ses de doğru seviyede temiz kalır. Tek sorun şu: fazla zorlarsanız yüksek kısımlar cızırdar."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/tr/5.webp",
+    "alt": "«DİNLE İŞLENMİŞ SONUÇ» ekran görüntüsü: «İşlenmişi indir» düğmesi ve Orijinal/İşlenmiş anahtarı",
+    "caption": "Kaydetmeden önce orijinal ile güçlendirilmiş sürümü karşılaştırın."
+  },
+  "sections": [
+    {
+      "heading": "Headroom: sessiz kayıtlar neden iyi güçlenir",
+      "paragraphs": [
+        "Her dijital dosyanın bir üst sınırı vardır. Sessiz bir kayıt bu sınırdan çok uzaktadır, bu yüzden çok yükseltilebilir. Zaten yüksek anları (kahkaha, alkış) olan bir kaydın payı azdır; orada aşırı güçlendirme tepeleri keser."
+      ]
+    },
+    {
+      "heading": "Cızırtı nasıl önlenir",
+      "list": [
+        "Orta bir çarpanla (×2–×3) başlayın.",
+        "En yüksek kısmı kulaklıkla dinleyin.",
+        "Cızırtı yoksa bir kademe artırın; varsa geri dönün.",
+        "Konuşma için «Ses kalitesini iyileştir»i açın."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Video kalitesi değişir mi?",
+      "paragraphs": [
+        "Ses Yükseltici yalnızca ses parçasını değiştirir. Çözünürlük, kare hızı ve renkler aynı kalır."
+      ]
+    },
+    {
+      "id": "gizlilik",
+      "heading": "Gizlilik: her şey iPhone'da",
+      "paragraphs": [
+        "İşlem tamamen iPhone'unuzda gerçekleşir. Hesap yok, yükleme yok, sunucu yok. Sonuç iOS paylaşım ekranıyla seçtiğiniz yere (Fotoğraflar, Dosyalar veya bir uygulama) kaydedilir."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Adım adım: temiz güçlendirme",
+    "intro": "Yaklaşık iki dakika.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Dosyayı açın",
+        "text": "Fotoğraflar veya Dosyalar'dan Ses Yükseltici'ye aktarın."
+      },
+      {
+        "name": "Düşükten başlayın",
+        "text": "×2–×3 seçip «Sesi güçlendir»e dokunun."
+      },
+      {
+        "name": "Yüksek kısmı dinleyin",
+        "text": "Orijinal/İşlenmiş anahtarıyla kulaklıkta karşılaştırın; gerekirse ayarlayın."
+      },
+      {
+        "name": "Kaydedin",
+        "text": "«İşlenmişi indir»e dokunun."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "İpuçları",
+    "items": [
+      "Güçlendirilmiş dosyayı tekrar güçlendirmeyin; orijinalden başlayın.",
+      "Telefon hoparlöründe cızırtılı geliyorsa önce kulaklıkla kontrol edin; bazen sınır hoparlörün kendisidir.",
+      "Müzik için konuşmadan daha düşük çarpan yeterlidir."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Ses yükseltmek kaliteyi düşürür mü?",
+      "answer": "Doğru seviyede hayır. Yalnızca aşırı güçlendirme yüksek kısımlarda cızırtı yaratır."
+    },
+    {
+      "question": "Dosyalarım bir sunucuya yüklenir mi?",
+      "answer": "Hayır. İşlem iPhone'unuzda gerçekleşir."
+    },
+    {
+      "question": "Cızırtılı sesi düzeltebilir miyim?",
+      "answer": "Orijinal dosya değişmediği için daha düşük bir çarpanla yeniden başlayın."
+    }
+  ],
+  "related": [
+    "iphone-video-sesi-nasil-yukseltilir",
+    "imovie-ses-500-uzeri",
+    "iphone-muzik-sesi-dusuk"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}

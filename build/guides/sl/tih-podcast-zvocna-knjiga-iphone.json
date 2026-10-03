@@ -1,0 +1,113 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "tih podkast na iPhonu",
+  "priority": 12,
+  "keywords": "tih podkast na iPhonu, tiha zvočna knjiga, kako ojačati podkast, povečati glasnost zvočne knjige iPhone, Podcasti tih zvok",
+  "title": "Tih podkast ali zvočna knjiga na iPhonu? Kako ju ojačati",
+  "description": "Podkast ali zvočna knjiga igra tiho? Preveri nastavitve Podcastov in slušalk, prenesene epizode MP3 in M4A pa ojači do 10× z Increase Volume na iPhonu.",
+  "h1": "Tih podkast ali zvočna knjiga na iPhonu: rešitve",
+  "eyebrow": "Podkasti",
+  "card_title": "Tih podkast",
+  "card_summary": "Nastavitve Podcastov in kako ojačaš prenesene epizode MP3 in zvočne knjige brez DRM.",
+  "quick_answer": "Če podkast v aplikaciji Podcasti igra tiho, vklopi poudarjanje glasu ob gumbu za hitrost in preveri Varnost slušalk v Zvokih in haptiki. Če imaš epizodo ali zvočno knjigo kot datoteko MP3 ali M4A brez DRM, jo odpri v Increase Volume, vklopi „Izboljšaj kakovost zvoka“, ojači ×3–×8 in glasnejšo kopijo shrani v Datoteke.",
+  "intro": [
+    "Intervjuji, posneti prek telefona, gostje s slabim mikrofonom in starejše zvočne knjige so pogosto tišji od vsega drugega, kar poslušaš. Na avtobusu ali v avtu se glas izgubi v hrupu.",
+    "Rešitvi sta dve: nastavitve predvajanja za pretočne vsebine in ojačitev datoteke, ko jo imaš."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/7.webp",
+    "alt": "Seznam projektov v Increase Volume z datotekami MP3 in MP4, velikostjo in trajanjem",
+    "caption": "Shrani več epizod kot projekte in se k njim vrni pozneje."
+  },
+  "sections": [
+    {
+      "heading": "V aplikaciji Podcasti",
+      "paragraphs": [
+        "Med predvajanjem tapni gumb za hitrost in vklopi poudarjanje glasu. Utiša ozadje in izpostavi govor. Preveri tudi, ali raven omejuje zmanjšanje glasnih zvokov v Varnosti slušalk."
+      ],
+      "note": "Imena se med različicami iOS lahko razlikujejo; preveri na svojem iPhonu."
+    },
+    {
+      "heading": "Zvočne knjige in prenesene datoteke",
+      "paragraphs": [
+        "Zvočne knjige iz Audibla, Storytela ali Apple Books so zaščitene in jih ni mogoče odpreti kot datoteke. Lastne zvočne knjige v MP3, epizode iz virov RSS in posnetke brez DRM lahko ojačaš."
+      ]
+    },
+    {
+      "heading": "Kaj za kaj",
+      "paragraphs": [],
+      "table": {
+        "head": [
+          "Vir",
+          "Rešitev"
+        ],
+        "rows": [
+          [
+            "Podcasti (pretakanje)",
+            "Poudarjanje glasu, nastavitve slušalk"
+          ],
+          [
+            "Spotify / Storytel / Audible",
+            "Nastavitve posamezne aplikacije"
+          ],
+          [
+            "MP3/M4A brez DRM",
+            "Increase Volume, do 10×"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Ojači epizodo ali zvočno knjigo",
+    "intro": "Za datoteke v Datotekah.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Uvozi datoteko",
+        "text": "Odpri aplikacijo in izberi MP3 ali M4A v Datotekah."
+      },
+      {
+        "name": "Vklopi „Izboljšaj kakovost zvoka“",
+        "text": "Glasovi bodo jasnejši."
+      },
+      {
+        "name": "Ojači",
+        "text": "Premakni „Množitelj glasnosti“ na ×3–×8 in tapni „Ojači glasnost na ×N“."
+      },
+      {
+        "name": "Shrani",
+        "text": "„Prenesi obdelano“ → Shrani v Datoteke in poslušaj v aplikaciji, ki odpira datoteke."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Nasveti",
+    "items": [
+      "Dolge datoteke se obdelujejo dlje; pusti aplikacijo odprto do konca.",
+      "Govor prenese večji množitelj kot glasba.",
+      "Če ima intervju en glasen in en tih glas, izberi raven, pri kateri glasni ne hrešči."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Zakaj so nekateri podkasti tišji od drugih?",
+      "answer": "Ustvarjalci miksajo na različne ravni, telefonski intervjuji pa so pogosto tihi."
+    },
+    {
+      "question": "Ali lahko z aplikacijo ojačam zvočno knjigo iz Storytela?",
+      "answer": "Ne. Zaščitenih zvočnih knjig ni mogoče odpreti kot datoteke."
+    },
+    {
+      "question": "Katere datoteke delujejo?",
+      "answer": "MP3, M4A in WAV brez DRM iz Datotek."
+    }
+  ],
+  "related": [
+    "kako-ojaciti-mp3-na-iphonu",
+    "glasovni-zapiski-glasneje",
+    "tiha-glasba-iphone"
+  ],
+  "published": "2026-10-03",
+  "updated": "2026-10-03"
+}

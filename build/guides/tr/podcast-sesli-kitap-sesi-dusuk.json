@@ -1,0 +1,114 @@
+{
+  "en_slug": "how-to-make-a-podcast-or-audiobook-louder-on-iphone",
+  "keyword": "podcast sesli kitap sesi düşük",
+  "priority": 12,
+  "keywords": "podcast sesi düşük, sesli kitap sesini artırma, iPhone podcast sesi yükseltme, ders kaydı sesi kısık",
+  "title": "iPhone'da Podcast veya Sesli Kitap Sesi Düşük mü? Çözüm",
+  "description": "Bazı podcast bölümleri ve sesli kitaplar diğerlerinden çok daha kısık. Ayarları düzeltin, kendi ses dosyalarınızı Ses Yükseltici ile 10 kata kadar yükseltin.",
+  "h1": "iPhone'da podcast ve sesli kitap sesi nasıl yükseltilir",
+  "eyebrow": "Podcast",
+  "card_title": "Podcast sesi düşük",
+  "card_summary": "Akış bölümleri için ayarlar, indirilen dosyalar için güçlendirme. Hangisi neye işe yarar.",
+  "quick_answer": "Podcast'ler uygulamasında bir bölüm kısıksa Kulaklık Güvenliği'ni ve Bluetooth'u kontrol edin; uygulamada ses güçlendirme yoktur. Elinizdeki bir MP3 veya M4A dosyasıysa (indirilmiş bölüm, ders, sesli kitap bölümü) Dosyalar'dan Ses Yükseltici'de açın, ×3–×6 güçlendirin ve yeni dosyayı kaydedin.",
+  "intro": [
+    "Trafikte, metroda ya da yemek yaparken podcast dinlerken bir bölümün diğerlerinden çok daha kısık olması sık rastlanan bir durumdur. Evde kaydedilmiş podcast'lerde, eski sesli kitaplarda ve ders kayıtlarında bu sık görülür."
+  ],
+  "screenshot": {
+    "src": "/img/screenshots/tr/7.webp",
+    "alt": "Ses Yükseltici'deki proje listesi; MP3 ve MP4 dosyaları boyut ve süreleriyle",
+    "caption": "Birden fazla bölüm veya kısım proje listesinde durur."
+  },
+  "sections": [
+    {
+      "heading": "Podcast'ler uygulamasında",
+      "paragraphs": [
+        "Apple Podcast'ler uygulamasında ses güçlendirme yoktur; yalnızca hız ve uyku zamanlayıcısı vardır. Yapabileceğiniz tek şey Kulaklık Güvenliği'nde «Yüksek Sesleri Azalt»ı kapatmak ve Bluetooth cihazının sesini açmaktır. Akış bölümleri düzenlenemez."
+      ]
+    },
+    {
+      "heading": "Sesli kitaplar ve diğer ses dosyaları",
+      "paragraphs": [
+        "Storytel, Audible veya Spotify gibi uygulamalardaki içerik korumalıdır ve dışa aktarılamaz. Ama kendi dosyalarınız, yani MP3 sesli kitaplar, dersler, vaazlar ve WhatsApp'tan gelen ses kayıtları Ses Yükseltici ile güçlendirilebilir."
+      ]
+    },
+    {
+      "heading": "Hangisi neye",
+      "table": {
+        "head": [
+          "Kaynak",
+          "Çözüm"
+        ],
+        "rows": [
+          [
+            "Podcast'ler uygulamasından akış",
+            "Ayarlar (Kulaklık Güvenliği, Bluetooth)"
+          ],
+          [
+            "Storytel, Audible, Spotify",
+            "Uygulama içi ayarlar; dosya düzenlenemez"
+          ],
+          [
+            "İndirilmiş MP3/M4A",
+            "Ses Yükseltici, ×3–×6"
+          ],
+          [
+            "Ders veya konuşma kaydı",
+            "Ses Yükseltici, «Ses kalitesini iyileştir» ile"
+          ]
+        ]
+      }
+    }
+  ],
+  "steps": {
+    "heading": "Adım adım: ses dosyasını yükseltin",
+    "intro": "Dosya başına bir-iki dakika.",
+    "total_time": "PT2M",
+    "items": [
+      {
+        "name": "Dosyayı içe aktarın",
+        "text": "Ses Yükseltici'de + simgesine dokunup bölümü veya kısmı Dosyalar'dan seçin."
+      },
+      {
+        "name": "Konuşma için ayarlayın",
+        "text": "«Ses kalitesini iyileştir»i açıp ×3–×6 seçin."
+      },
+      {
+        "name": "Güçlendirip dinleyin",
+        "text": "«Sesi güçlendir»e dokunup orijinalle karşılaştırın."
+      },
+      {
+        "name": "Kaydedin",
+        "text": "«İşlenmişi indir» → Dosyalar'a Kaydet."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "İpuçları",
+    "items": [
+      "Uzun sesli kitapların işlenmesi zaman alır; telefonu şarjda tutun.",
+      "Tüm bölümlerde aynı çarpanı kullanırsanız seviye eşit olur.",
+      "Güçlendirilmiş dosyaları Dosyalar'da ayrı bir klasörde saklayın."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Podcast'ler uygulamasında ses güçlendirme var mı?",
+      "answer": "Hayır. Akış bölümleri için yalnızca ayarlar yardımcı olur."
+    },
+    {
+      "question": "Storytel veya Audible kitapları güçlendirilebilir mi?",
+      "answer": "Hayır, bu içerik korumalıdır. Yalnızca kendi ses dosyalarınız güçlendirilebilir."
+    },
+    {
+      "question": "Ders kaydı için ne kadar güçlendirmeli?",
+      "answer": "Genellikle ×3–×6, «Ses kalitesini iyileştir» açıkken."
+    }
+  ],
+  "related": [
+    "mp3-sesini-yukseltme-iphone",
+    "sesli-not-sesini-yukseltme",
+    "iphone-muzik-sesi-dusuk"
+  ],
+  "published": "2026-10-04",
+  "updated": "2026-10-04"
+}
