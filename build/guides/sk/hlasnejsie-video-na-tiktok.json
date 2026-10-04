@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/6.webp",
     "alt": "Panel zdieľania iOS s voľbami Kopírovať, Pridať tagy a Uložiť do Súborov pre zosilnený súbor",
-    "caption": "Ulož hlasnejšiu kópiu do Fotiek a nahraj ju do TikToku."
+    "caption": "Ulož hlasnejšiu kópiu do Fotiek a nahraj ju do TikToku.",
+    "hide_in_article": true
   },
   "sections": [
     {

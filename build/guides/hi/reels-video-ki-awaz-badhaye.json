@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/6.webp",
     "alt": "बूस्ट की गई फ़ाइल के लिए कॉपी करें, टैग जोड़ें और फ़ाइल में सहेजें दिखाती iOS शेयर शीट",
-    "caption": "तेज़ कॉपी तस्वीरें ऐप में सेव करें और Instagram या YouTube पर अपलोड करें।"
+    "caption": "तेज़ कॉपी तस्वीरें ऐप में सेव करें और Instagram या YouTube पर अपलोड करें।",
+    "hide_in_article": true
   },
   "sections": [
     {

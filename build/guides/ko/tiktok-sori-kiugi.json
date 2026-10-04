@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/6.webp",
     "alt": "«Download and share anywhere» 화면: 부스트한 영상의 iOS 공유 시트",
-    "caption": "부스트 후 틱톡으로 바로 공유하거나, 사진에 저장한 뒤 업로드하세요."
+    "caption": "부스트 후 틱톡으로 바로 공유하거나, 사진에 저장한 뒤 업로드하세요.",
+    "hide_in_article": true
   },
   "sections": [
     {

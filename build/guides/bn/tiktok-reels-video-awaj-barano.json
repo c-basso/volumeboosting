@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/6.webp",
     "alt": "বুস্ট করা ফাইলের জন্য কপি, ট্যাগ যোগ ও ফাইলে সেভ দেখানো iOS শেয়ার শিট",
-    "caption": "জোরালো কপি ফটো অ্যাপে সেভ করে TikTok বা Reels-এ আপলোড করুন।"
+    "caption": "জোরালো কপি ফটো অ্যাপে সেভ করে TikTok বা Reels-এ আপলোড করুন।",
+    "hide_in_article": true
   },
   "sections": [
     {

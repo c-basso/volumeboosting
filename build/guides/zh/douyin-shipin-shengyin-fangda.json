@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/6.webp",
     "alt": "已放大文件的 iOS 共享面板，包含「拷贝」「添加标签」和「存储到“文件”」",
-    "caption": "把更响的视频存到「照片」，再上传到抖音或快手。"
+    "caption": "把更响的视频存到「照片」，再上传到抖音或快手。",
+    "hide_in_article": true
   },
   "sections": [
     {

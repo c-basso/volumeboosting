@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/de/6.webp",
     "alt": "Screenshot mit der Überschrift Überall herunterladen und teilen: iOS-Teilen-Menü für das verstärkte Video",
-    "caption": "Nach dem Verstärken direkt an TikTok teilen oder in Fotos sichern und von dort hochladen."
+    "caption": "Nach dem Verstärken direkt an TikTok teilen oder in Fotos sichern und von dort hochladen.",
+    "hide_in_article": true
   },
   "sections": [
     {

@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/it/6.webp",
     "alt": "Schermata di condivisione di iOS per il video potenziato",
-    "caption": "Dopo il potenziamento, condividi direttamente su TikTok o salva in Foto e carica da lì."
+    "caption": "Dopo il potenziamento, condividi direttamente su TikTok o salva in Foto e carica da lì.",
+    "hide_in_article": true
   },
   "sections": [
     {

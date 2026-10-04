@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/6.webp",
     "alt": "Tangkapan layar „Download and share anywhere”: lembar berbagi iOS untuk video yang diperkuat",
-    "caption": "Setelah diperkuat, bagikan langsung ke TikTok atau simpan ke Foto lalu unggah dari sana."
+    "caption": "Setelah diperkuat, bagikan langsung ke TikTok atau simpan ke Foto lalu unggah dari sana.",
+    "hide_in_article": true
   },
   "sections": [
     {

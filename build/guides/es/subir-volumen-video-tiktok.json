@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/es/6.webp",
     "alt": "Captura «Descargue y comparta dondequiera»: hoja de compartir de iOS para el vídeo potenciado",
-    "caption": "Después de potenciar, comparte directamente en TikTok o guarda en Fotos y súbelo desde ahí."
+    "caption": "Después de potenciar, comparte directamente en TikTok o guarda en Fotos y súbelo desde ahí.",
+    "hide_in_article": true
   },
   "sections": [
     {

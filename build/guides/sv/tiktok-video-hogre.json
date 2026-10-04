@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/6.webp",
     "alt": "Delningsbladet i iOS med Kopiera, Lägg till taggar och Spara i Filer för den förstärkta filen",
-    "caption": "Spara den högre kopian i Bilder och ladda upp den i TikTok."
+    "caption": "Spara den högre kopian i Bilder och ladda upp den i TikTok.",
+    "hide_in_article": true
   },
   "sections": [
     {

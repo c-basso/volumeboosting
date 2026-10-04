@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/6.webp",
     "alt": "แผ่นแชร์ของ iOS สำหรับไฟล์ที่บูสต์แล้ว แสดงคัดลอก เพิ่มแท็ก และบันทึกไปยังไฟล์",
-    "caption": "บันทึกวิดีโอที่ดังขึ้นในรูปภาพ แล้วอัปโหลดลง TikTok หรือ Reels"
+    "caption": "บันทึกวิดีโอที่ดังขึ้นในรูปภาพ แล้วอัปโหลดลง TikTok หรือ Reels",
+    "hide_in_article": true
   },
   "sections": [
     {

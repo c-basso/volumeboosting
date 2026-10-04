@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/6.webp",
     "alt": "Snimka zaslona „Download and share anywhere”: iOS list za dijeljenje za pojačani video",
-    "caption": "Nakon pojačanja podijeli izravno na TikTok ili spremi u Fotografije i prenesi odande."
+    "caption": "Nakon pojačanja podijeli izravno na TikTok ili spremi u Fotografije i prenesi odande.",
+    "hide_in_article": true
   },
   "sections": [
     {

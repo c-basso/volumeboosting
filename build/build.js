@@ -1118,6 +1118,12 @@ function prepareGuideData(guide, guides, siteData, lang) {
         guide: {
             ...guide,
             url,
+            // `screenshot.hide_in_article`: keep the image for hub cards / OG, but show the
+            // caption as a text callout in the article instead of an unrelated store screenshot.
+            figure: guide.screenshot && !guide.screenshot.hide_in_article ? guide.screenshot : null,
+            callout: guide.screenshot?.hide_in_article && guide.screenshot.caption
+                ? { text: guide.screenshot.caption }
+                : null,
             steps,
             sections,
             related,

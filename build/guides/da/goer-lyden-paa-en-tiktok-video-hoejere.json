@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/6.webp",
     "alt": "Delingsark i iOS i Increase Volume med Gem i Filer og muligheder for at dele den forstærkede video",
-    "caption": "Efter forstærkningen kan du dele direkte til TikTok eller gemme i Fotos og uploade derfra."
+    "caption": "Efter forstærkningen kan du dele direkte til TikTok eller gemme i Fotos og uploade derfra.",
+    "hide_in_article": true
   },
   "sections": [
     {

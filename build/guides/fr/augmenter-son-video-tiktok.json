@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/fr/6.webp",
     "alt": "Capture « Téléchargez et partagez où vous voulez » : feuille de partage iOS pour la vidéo amplifiée",
-    "caption": "Après l'amplification, partagez directement vers TikTok ou enregistrez dans Photos et importez depuis là."
+    "caption": "Après l'amplification, partagez directement vers TikTok ou enregistrez dans Photos et importez depuis là.",
+    "hide_in_article": true
   },
   "sections": [
     {

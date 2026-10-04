@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/6.webp",
     "alt": "Tangkapan skrin «Download and share anywhere»: helaian kongsi iOS untuk video yang dikuatkan",
-    "caption": "Selepas dikuatkan, kongsi terus ke TikTok atau simpan ke Foto dan muat naik dari sana."
+    "caption": "Selepas dikuatkan, kongsi terus ke TikTok atau simpan ke Foto dan muat naik dari sana.",
+    "hide_in_article": true
   },
   "sections": [
     {

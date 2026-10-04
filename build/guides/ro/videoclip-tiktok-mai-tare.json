@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/6.webp",
     "alt": "Fila de partajare iOS cu Copiază, Adaugă etichete și Salvează în Fișiere pentru fișierul amplificat",
-    "caption": "Salvează copia mai tare în Poze și încarc-o în TikTok."
+    "caption": "Salvează copia mai tare în Poze și încarc-o în TikTok.",
+    "hide_in_article": true
   },
   "sections": [
     {

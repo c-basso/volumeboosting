@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/tr/6.webp",
     "alt": "«İNDİR VE PAYLAŞ Her Yerde» ekran görüntüsü: güçlendirilmiş dosya için iOS paylaşım ekranı",
-    "caption": "Yüksek sesli videoyu Fotoğraflar'a kaydedin, sonra TikTok'a veya Reels'e yükleyin."
+    "caption": "Yüksek sesli videoyu Fotoğraflar'a kaydedin, sonra TikTok'a veya Reels'e yükleyin.",
+    "hide_in_article": true
   },
   "sections": [
     {

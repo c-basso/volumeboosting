@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/6.webp",
     "alt": "Panel sdílení iOS v Increase Volume s volbou Uložit do Souborů a možnostmi sdílení zesíleného videa",
-    "caption": "Po zesílení sdílej rovnou na TikTok, nebo ulož do Fotek a nahraj odtud."
+    "caption": "Po zesílení sdílej rovnou na TikTok, nebo ulož do Fotek a nahraj odtud.",
+    "hide_in_article": true
   },
   "sections": [
     {

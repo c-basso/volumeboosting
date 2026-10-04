@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/ca/6.webp",
     "alt": "Captura de la botiga (titular en castellà «Descargue y comparta dondequiera»): full per compartir d'iOS per al vídeo reforçat",
-    "caption": "Desa la còpia més forta a Fotos i puja-la a TikTok."
+    "caption": "Desa la còpia més forta a Fotos i puja-la a TikTok.",
+    "hide_in_article": true
   },
   "sections": [
     {

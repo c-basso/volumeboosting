@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/6.webp",
     "alt": "Delingsarket i iOS med Kopier, Legg til etiketter og Arkiver i Filer for den forsterkede filen",
-    "caption": "Lagre den høyere kopien i Bilder, og last den opp i TikTok."
+    "caption": "Lagre den høyere kopien i Bilder, og last den opp i TikTok.",
+    "hide_in_article": true
   },
   "sections": [
     {
