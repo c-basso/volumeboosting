@@ -1,0 +1,103 @@
+{
+  "keyword": "how to increase iPhone volume",
+  "priority": 13,
+  "keywords": "how to increase iPhone volume, iPhone volume too low, make iPhone louder, iPhone speaker quiet, increase volume on iPhone, iPhone louder than max",
+  "title": "How to Increase iPhone Volume: 8 Fixes When It's Too Quiet",
+  "description": "iPhone too quiet even at full volume? Check the settings that cap sound, clean the speaker, fix Bluetooth, then make quiet videos and audio up to 10× louder.",
+  "h1": "How to increase iPhone volume when it's too quiet",
+  "eyebrow": "iPhone volume",
+  "card_title": "Increase iPhone volume",
+  "card_summary": "Settings that silently cap volume, speaker and Bluetooth checks, and what to do when the phone is already at max.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "To increase iPhone volume, first turn off Reduce Loud Audio in Settings › Sounds & Haptics › Headphone Safety, try EQ «Late Night» in Settings › Music, check Balance, clean the speaker grille and make sure sound isn't going to Bluetooth. The system can't play louder than 100%: if one video or recording is still quiet at max, make the file itself louder with Increase Volume (up to ×10) and save a new copy.",
+  "intro": [
+    "Your iPhone is at maximum and you still can't hear the video, the voice message or the song. Usually one of a few settings is quietly capping the volume, or the sound is going somewhere else.",
+    "Work through the fixes below in order. If everything is set correctly and one particular file is still quiet, the problem is the recording itself — and that can be fixed too."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Volume multiplication x10 slider and Boost Volume button",
+    "caption": "iOS can't go above 100%, but a quiet file can be made up to 10× louder.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Settings that cap iPhone volume (check these first)",
+      "paragraphs": [
+        "These settings don't show a warning, they just keep the sound lower than it could be:"
+      ],
+      "list": [
+        "Reduce Loud Audio: Settings → Sounds & Haptics → Headphone Safety. When on, it caps headphone output at the level you set. Turn it off or raise the limit.",
+        "Sound Check: Settings → Music → Sound Check levels all tracks to the same loudness, which pulls loud songs down. Turn it off if everything feels soft.",
+        "EQ: Settings → Music → EQ. Late Night compresses dynamics so quiet parts come up; Loudness lifts bass and treble at low volume. Try both.",
+        "Volume Limit / Screen Time: Settings → Screen Time → Content & Privacy Restrictions → Volume Limit can be locked by a parent or an old setting.",
+        "Bluetooth: some earbuds and speakers keep their own volume level; raise it on the device too."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Speaker, case and Bluetooth",
+      "paragraphs": [
+        "Lint in the bottom speaker grille or a case covering it can cut the volume noticeably — brush it gently with a soft, dry brush. Open Control Center and check the audio output: if AirPods or a Bluetooth speaker are still connected, the sound plays there. If calls sound quiet, hold the phone so the earpiece at the top is against your ear."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "At maximum and still too quiet? Make the file louder",
+      "paragraphs": [
+        "The volume buttons only change how loud the phone plays. If a video, voice memo or MP3 was recorded quietly, it stays quiet on every device. Increase Volume raises the level inside the file up to ×10 and saves a new copy, so it plays louder everywhere — including on other people's phones."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: make a quiet file louder",
+    "intro": "About a minute, using the free app from the App Store.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Open the file",
+        "text": "Share a video from Photos or an audio file from Files to Increase Volume."
+      },
+      {
+        "name": "Choose the boost",
+        "text": "Drag «Volume multiplication»: ×2–×4 for music, ×3–×6 for speech, up to ×10 for very quiet recordings."
+      },
+      {
+        "name": "Compare",
+        "text": "Tap «Boost Volume» and switch between Original and Processed to check for distortion."
+      },
+      {
+        "name": "Save",
+        "text": "Tap «Download Processed» and save the louder copy to Photos or Files."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Restart the iPhone if the sound suddenly dropped everywhere: a stuck audio route is a common cause.",
+      "Check the Ringer and Alerts slider separately — it does not change media volume.",
+      "Boost a file before sharing it: platforms and other phones can't fix a quiet recording."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Can I make iPhone louder than the maximum volume?",
+      "answer": "Not for the whole system — 100% is the hardware limit. You can make individual videos and audio files louder with an app like Increase Volume."
+    },
+    {
+      "question": "Why did my iPhone volume get lower by itself?",
+      "answer": "Usually Headphone Safety lowered it after loud listening, Sound Check is on, or the output switched to Bluetooth."
+    },
+    {
+      "question": "Does cleaning the speaker really help?",
+      "answer": "Yes, if the grille is clogged. Use a soft dry brush; never push sharp objects or liquids into it."
+    }
+  ],
+  "related": [
+    "why-is-my-iphone-video-so-quiet",
+    "how-to-make-a-video-louder-on-iphone",
+    "how-to-make-music-louder-on-iphone"
+  ]
+}

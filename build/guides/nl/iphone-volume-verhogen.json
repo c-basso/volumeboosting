@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "iPhone volume verhogen",
+  "priority": 13,
+  "keywords": "iphone volume verhogen, iphone geluid te zacht, iphone harder zetten, iphone speaker zacht, iphone harder dan maximum",
+  "title": "iPhone volume verhogen: 8 oplossingen als het te zacht is",
+  "description": "Is je iPhone zelfs op maximaal volume te zacht? Controleer de instellingen die geluid beperken, maak de speaker schoon en maak zachte bestanden tot 10× harder.",
+  "h1": "iPhone volume verhogen als het geluid te zacht is",
+  "eyebrow": "iPhone-volume",
+  "card_title": "iPhone volume verhogen",
+  "card_summary": "Instellingen die het volume stilletjes beperken, speaker- en Bluetooth-checks en wat je doet als alles al op maximaal staat.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Om het iPhone-volume te verhogen, zet je 'Verminder harde audio' uit bij Instellingen › Geluiden en voelbare feedback › Koptelefoonveiligheid, probeer je EQ 'Laat in de avond' bij Instellingen › Muziek, controleer je de balans, maak je het speakerrooster schoon en check je of het geluid niet naar Bluetooth gaat. Het systeem gaat niet boven 100%: blijft een video of opname zacht, maak het bestand zelf dan harder met Audioversterker (tot ×10) en bewaar een nieuwe kopie.",
+  "intro": [
+    "Je iPhone staat op maximaal en toch hoor je de video, het spraakbericht of het nummer nauwelijks. Meestal beperkt een instelling het volume zonder melding, of gaat het geluid naar een ander apparaat.",
+    "Loop de oplossingen hieronder in volgorde door. Staat alles goed en blijft één bestand zacht, dan ligt het aan de opname zelf — en ook dat is op te lossen."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Schuifregelaar 'Volumevermenigvuldiging ×10' en knop 'Volume versterken'",
+    "caption": "iOS gaat niet boven 100%, maar een zacht bestand kan tot 10× harder worden.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Instellingen die het iPhone-volume beperken",
+      "paragraphs": [
+        "Deze instellingen geven geen waarschuwing, ze houden het geluid alleen zachter dan nodig:"
+      ],
+      "list": [
+        "Reduceer harde audio: Instellingen › Geluid en voelbare feedback › Koptelefoonveiligheid. Staat dit aan, dan wordt het koptelefoonvolume begrensd op het niveau dat je kiest. Zet het uit of verhoog de grens.",
+        "Geluidscontrole: Instellingen › Muziek › Geluidscontrole brengt alle nummers op hetzelfde volume en maakt harde nummers dus zachter. Zet het uit als alles zacht klinkt.",
+        "Equalizer: Instellingen › Muziek › EQ. 'Laat op de avond' comprimeert de dynamiek zodat zachte stukken omhoog komen; 'Loudness' versterkt lage en hoge tonen bij laag volume. Probeer beide.",
+        "Volumegrens in Schermtijd: Instellingen › Schermtijd › Beperkingen voor inhoud en privacy kan een grens hebben die een ouder of een oude instelling heeft vastgezet.",
+        "Bluetooth: sommige koptelefoons en speakers hebben een eigen volume; zet dat ook omhoog op het apparaat."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Speaker, hoesje en Bluetooth",
+      "paragraphs": [
+        "Stof in het onderste speakerrooster of een hoesje dat het afdekt kan het volume flink verlagen: maak het voorzichtig schoon met een zacht, droog borsteltje. Open het bedieningspaneel en controleer de audio-uitvoer: zijn AirPods of een Bluetooth-speaker nog verbonden, dan speelt het geluid daar. Klinken gesprekken zacht, houd de bovenste oorluidspreker goed tegen je oor."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "Op maximaal en nog steeds zacht? Maak het bestand harder",
+      "paragraphs": [
+        "De volumeknoppen veranderen alleen hoe hard je iPhone afspeelt. Is een video, spraakmemo of MP3 zacht opgenomen, dan blijft die op elk apparaat zacht. Audioversterker verhoogt het niveau in het bestand tot ×10 en bewaart een nieuwe kopie die overal harder klinkt, ook op de telefoon van een ander."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Stap voor stap: een zacht bestand harder maken",
+    "intro": "Ongeveer een minuut met de gratis app uit de App Store.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Open het bestand",
+        "text": "Deel een video uit Foto's of een audiobestand uit Bestanden met de app."
+      },
+      {
+        "name": "Kies de versterking",
+        "text": "Sleep 'Volumevermenigvuldiging': ×2–×4 voor muziek, ×3–×6 voor spraak, tot ×10 voor heel zachte opnames."
+      },
+      {
+        "name": "Vergelijk",
+        "text": "Tik op 'Volume versterken' en wissel tussen Origineel en Verwerkt om vervorming te horen."
+      },
+      {
+        "name": "Bewaar",
+        "text": "Tik op 'Verwerkte downloaden' en bewaar de hardere kopie in Foto's of Bestanden."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Herstart je iPhone als het geluid opeens overal zachter is: een vastgelopen audioroute is een veelvoorkomende oorzaak.",
+      "De schuifregelaar voor Beltoon en meldingen staat los van het mediavolume.",
+      "Maak een bestand harder vóór het delen: platforms en andere telefoons kunnen een zachte opname niet repareren."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan ik mijn iPhone harder zetten dan het maximale volume?",
+      "answer": "Niet voor het hele systeem: 100% is de hardwaregrens. Losse video's en audiobestanden kun je wel harder maken met een app als Audioversterker."
+    },
+    {
+      "question": "Waarom is het volume van mijn iPhone vanzelf zachter geworden?",
+      "answer": "Meestal heeft Koptelefoonveiligheid het verlaagd na hard luisteren, staat Geluidscontrole aan of is de uitvoer naar Bluetooth gegaan."
+    },
+    {
+      "question": "Helpt het echt om de speaker schoon te maken?",
+      "answer": "Ja, als het rooster verstopt zit. Gebruik een zacht, droog borsteltje en nooit scherpe voorwerpen of vloeistof."
+    }
+  ],
+  "related": [
+    "waarom-is-mijn-video-zo-zacht",
+    "video-geluid-harder-maken-iphone",
+    "muziek-te-zacht-iphone"
+  ]
+}

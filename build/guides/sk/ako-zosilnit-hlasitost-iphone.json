@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "ako zosilniť hlasitosť iPhonu",
+  "priority": 13,
+  "keywords": "ako zosilniť hlasitosť iphone, iphone hrá potichu, tichý iphone, tichý reproduktor iphone, iphone hlasnejšie než maximum",
+  "title": "Ako zosilniť hlasitosť iPhonu: 8 riešení, keď hrá potichu",
+  "description": "iPhone hrá potichu aj na maximum? Skontroluj nastavenia, ktoré obmedzujú zvuk, vyčisti reproduktor, over Bluetooth a zosilni tiché súbory až desaťkrát v iPhone.",
+  "h1": "Ako zosilniť hlasitosť iPhonu, keď hrá potichu",
+  "eyebrow": "Hlasitosť iPhonu",
+  "card_title": "Zosilniť hlasitosť iPhonu",
+  "card_summary": "Nastavenia, ktoré potichu obmedzujú hlasitosť, kontrola reproduktora a Bluetooth a čo robiť, keď je už všetko na maxime.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Hlasitosť iPhonu zvýšiš tak, že v Nastaveniach › Zvuky a haptika › Bezpečnosť slúchadiel vypneš „Znížiť hlasný zvuk“, v Nastaveniach › Hudba skúsiš ekvalizér „Neskoro v noci“, skontroluješ vyváženie, vyčistíš mriežku reproduktora a overíš, že zvuk nejde do Bluetooth. Systém neprekročí 100 %: ak je video alebo nahrávka aj tak tichá, zosilni samotný súbor v aplikácii Zosilňovač hlasitosti a zvuku (až ×10) a ulož novú kópiu.",
+  "intro": [
+    "iPhone je na maxime, a predsa video, hlasovú správu či pesničku takmer nepočuješ. Väčšinou hlasitosť bez varovania obmedzuje nejaké nastavenie, alebo zvuk ide inam.",
+    "Prejdi riešenia nižšie po poradí. Ak je všetko nastavené správne a konkrétny súbor zostáva tichý, problém je v samotnej nahrávke — aj to sa dá opraviť."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Posúvač „Násobok hlasitosti ×10“ a tlačidlo „Zosilniť hlasitosť“",
+    "caption": "iOS neprekročí 100 %, ale tichý súbor môže byť až 10× hlasnejší.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Nastavenia, ktoré obmedzujú hlasitosť iPhonu",
+      "paragraphs": [
+        "Tieto nastavenia nezobrazia žiadne varovanie, len držia zvuk tichší, než by mohol byť:"
+      ],
+      "list": [
+        "Bezpečnosť slúchadiel: Nastavenia › Zvuky a haptika › Bezpečnosť slúchadiel môže obmedziť úroveň v slúchadlách.",
+        "Ekvalizér: Nastavenia › Hudba › Ekvalizér. Voľba „Neskoro v noci“ zdvihne tiché pasáže a v hluku môže hudba pôsobiť hlasnejšie.",
+        "Vyrovnanie hlasitosti: Nastavenia › Hudba. Keď je zapnuté, vyrovnáva hlasitosť skladieb, takže hlasné skladby môžu stíchnuť.",
+        "Vyváženie: Nastavenia › Prístupnosť › Zvuk a obraz › Vyváženie by malo byť v strede.",
+        "Bluetooth: niektoré slúchadlá majú vlastnú hlasitosť; skontroluj ich aplikáciu.",
+        "Nečistoty v reproduktore alebo konektore tlmia zvuk; opatrne ich vyčisti."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Reproduktor, obal a Bluetooth",
+      "paragraphs": [
+        "Prach v spodnej mriežke reproduktora alebo obal, ktorý ju zakrýva, môže hlasitosť citeľne znížiť — opatrne ju vyčisti mäkkým suchým štetcom. Otvor Ovládacie centrum a skontroluj zvukový výstup: ak sú pripojené AirPods alebo Bluetooth reproduktor, hrá zvuk tam. Ak sú tiché hovory, prilož horné slúchadlo poriadne k uchu."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "Na maxime a stále potichu? Zosilni súbor",
+      "paragraphs": [
+        "Tlačidlá hlasitosti menia len to, ako nahlas iPhone prehráva. Video, hlasová poznámka či MP3 nahrané potichu zostanú tiché na každom zariadení. Zosilňovač hlasitosti a zvuku zvýši úroveň v súbore až ×10 a uloží novú kópiu, ktorá hrá hlasnejšie všade, aj na telefónoch iných."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Krok za krokom: zosilni tichý súbor",
+    "intro": "Asi minúta s bezplatnou aplikáciou z App Storu.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Otvor súbor",
+        "text": "Zdieľaj video z Fotiek alebo zvukový súbor zo Súborov do aplikácie."
+      },
+      {
+        "name": "Zvoľ zosilnenie",
+        "text": "Posuň „Násobok hlasitosti“: ×2–×4 pre hudbu, ×3–×6 pre reč, až ×10 pre veľmi tiché nahrávky."
+      },
+      {
+        "name": "Porovnaj",
+        "text": "Ťukni na „Zosilniť hlasitosť“ a prepínaj Pôvodné/Spracované, aby si počul prípadné skreslenie."
+      },
+      {
+        "name": "Ulož",
+        "text": "Ťukni na „Stiahnuť spracované“ a ulož hlasnejšiu kópiu do Fotiek alebo Súborov."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipy",
+    "items": [
+      "Reštartuj iPhone, ak sa zvuk náhle všade stíšil: zaseknutá zvuková cesta je častá príčina.",
+      "Posúvač Zvonenie a upozornenia je samostatný a hlasitosť médií nemení.",
+      "Zosilni súbor pred zdieľaním: platformy ani cudzie telefóny tichú nahrávku neopravia."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dá sa iPhone nastaviť hlasnejšie než na maximum?",
+      "answer": "Pre celý systém nie — 100 % je hardvérový limit. Jednotlivé videá a zvukové súbory však zosilníš aplikáciou ako Zosilňovač hlasitosti a zvuku."
+    },
+    {
+      "question": "Prečo sa hlasitosť iPhonu sama znížila?",
+      "answer": "Zvyčajne ju po hlasitom počúvaní znížila Bezpečnosť slúchadiel, je zapnutá Kontrola zvuku alebo sa výstup prepol na Bluetooth."
+    },
+    {
+      "question": "Pomáha naozaj čistenie reproduktora?",
+      "answer": "Áno, ak je mriežka upchatá. Použi mäkký suchý štetec, nikdy ostré predmety ani tekutiny."
+    }
+  ],
+  "related": [
+    "preco-je-video-potichu",
+    "ako-zosilnit-zvuk-videa-na-iphone",
+    "ticha-hudba-na-iphone"
+  ]
+}

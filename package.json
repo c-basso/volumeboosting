@@ -8,8 +8,10 @@
     "site:preview": "node build/preview.js",
     "index:now": "node build/indexnow.js",
     "index:google": "node build/gindexnow.js",
+    "index:google:status": "node build/gindexnow.js --status",
     "push": "git add . && git commit -m 'wip' && git push origin main",
-    "deploy": "npm run build && npm run validate && npm run sitemap && npm run push"
+    "deploy": "npm run build && npm run validate && npm run sitemap && npm run push",
+    "gsc": "node build/gsc-report.js"
   },
   "dependencies": {
     "@playwright/test": "^1.59.1",

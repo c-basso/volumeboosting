@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "höja volymen på iPhone",
+  "priority": 13,
+  "keywords": "höja volymen iphone, iphone låter för lågt, höj ljudet iphone, iphone högtalare låg, iphone högre än max",
+  "title": "Höja volymen på iPhone: 8 lösningar när ljudet är för lågt",
+  "description": "Låter iPhone för lågt även på max? Kolla inställningarna som begränsar ljudet, rengör högtalaren, kolla Bluetooth och gör tysta filer upp till 10 gånger högre.",
+  "h1": "Så höjer du volymen på iPhone när ljudet är för lågt",
+  "eyebrow": "iPhone-volym",
+  "card_title": "Höja volymen på iPhone",
+  "card_summary": "Inställningar som tyst begränsar volymen, högtalar- och Bluetooth-kontroller och vad du gör när allt redan är på max.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Höj volymen på iPhone genom att stänga av ”Minska höga ljud” i Inställningar › Ljud och haptik › Hörlurssäkerhet, prova EQ ”Sent på kvällen” i Inställningar › Musik, kontrollera balansen, rengör högtalargallret och se till att ljudet inte går till Bluetooth. Systemet går inte över 100 %: är en video eller inspelning ändå låg, gör själva filen högre med Volymförstärkare Ljud & Video (upp till ×10) och spara en ny kopia.",
+  "intro": [
+    "Din iPhone står på max och ändå hör du knappt videon, röstmeddelandet eller låten. Oftast begränsar en inställning volymen utan varning, eller så går ljudet till en annan enhet.",
+    "Gå igenom lösningarna nedan i ordning. Är allt rätt inställt och en viss fil fortfarande låg, är det själva inspelningen — och det går också att fixa."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Skjutreglaget «Volymmultiplikation ×10» och knappen «Boosta volymen»",
+    "caption": "iOS går inte över 100 %, men en låg fil kan bli upp till 10 gånger högre.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Inställningar som begränsar volymen på iPhone",
+      "paragraphs": [
+        "De här inställningarna visar ingen varning, de håller bara ljudet lägre än det kunde vara:"
+      ],
+      "list": [
+        "Hörlurssäkerhet: Inställningar › Ljud och haptik › Hörlurssäkerhet › Minska höga ljud kan begränsa nivån i hörlurar.",
+        "EQ: Inställningar › Musik › EQ. «Sen kväll» lyfter tysta partier och kan göra att musiken upplevs högre i bullriga miljöer.",
+        "Ljudkontroll: Inställningar › Musik. Påslagen jämnar den ut nivåerna mellan låtar, vilket kan dämpa starka spår.",
+        "Balans: Inställningar › Hjälpmedel › Ljud och bild › Balans bör stå i mitten.",
+        "Bluetooth: vissa hörlurar har egen volym; kolla hörlurarnas app.",
+        "Smuts i högtalaren eller porten dämpar ljudet; rengör försiktigt."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Högtalare, skal och Bluetooth",
+      "paragraphs": [
+        "Damm i det nedre högtalargallret eller ett skal som täcker det kan sänka volymen tydligt – rengör försiktigt med en mjuk, torr borste. Öppna Kontrollcenter och kolla ljudutgången: är AirPods eller en Bluetooth-högtalare fortfarande anslutna spelas ljudet där. Låter samtal lågt, håll den övre hörluren tätt mot örat."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "På max och fortfarande lågt? Gör filen högre",
+      "paragraphs": [
+        "Volymknapparna ändrar bara hur högt iPhone spelar. En video, ett röstmemo eller en MP3 som spelats in lågt förblir låg på alla enheter. Volymförstärkare Ljud & Video höjer nivån i filen upp till ×10 och sparar en ny kopia som låter högre överallt, även i andras telefoner."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Steg för steg: gör en låg fil högre",
+    "intro": "Ungefär en minut med den kostnadsfria appen från App Store.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Öppna filen",
+        "text": "Dela en video från Bilder eller en ljudfil från Filer till appen."
+      },
+      {
+        "name": "Välj förstärkning",
+        "text": "Dra «Volymmultiplikation»: ×2–×4 för musik, ×3–×6 för tal, upp till ×10 för väldigt låga inspelningar."
+      },
+      {
+        "name": "Jämför",
+        "text": "Tryck på «Boosta volymen» och växla mellan Original och Bearbetad för att höra distorsion."
+      },
+      {
+        "name": "Spara",
+        "text": "Tryck på «Ladda ned bearbetad» och spara den högre kopian i Bilder eller Filer."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Starta om iPhone om ljudet plötsligt blev lägre överallt: en låst ljudväg är en vanlig orsak.",
+      "Reglaget för Ringsignal och påminnelser är separat och ändrar inte medievolymen.",
+      "Förstärk filen innan du delar den: plattformar och andras telefoner kan inte laga en låg inspelning."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kan jag göra iPhone högre än maxvolymen?",
+      "answer": "Inte för hela systemet – 100 % är hårdvarugränsen. Enskilda videor och ljudfiler kan du däremot göra högre med en app som Volymförstärkare Ljud & Video."
+    },
+    {
+      "question": "Varför blev volymen på min iPhone lägre av sig själv?",
+      "answer": "Oftast sänkte Hörlurssäkerhet den efter högt lyssnande, Ljudkontroll är på eller utgången bytte till Bluetooth."
+    },
+    {
+      "question": "Hjälper det verkligen att rengöra högtalaren?",
+      "answer": "Ja, om gallret är igensatt. Använd en mjuk, torr borste – aldrig vassa föremål eller vätska."
+    }
+  ],
+  "related": [
+    "varfor-ar-videon-sa-tyst",
+    "gor-ljudet-pa-en-video-hogre-iphone",
+    "musiken-for-lag-iphone"
+  ]
+}

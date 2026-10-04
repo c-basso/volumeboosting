@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "iPhone Lautstärke erhöhen",
+  "priority": 13,
+  "keywords": "iphone lautstärke erhöhen, iphone zu leise, iphone lauter machen, iphone maximale lautstärke erhöhen, iphone lautsprecher leise, iphone musik lauter machen",
+  "title": "iPhone Lautstärke erhöhen: 8 Lösungen, wenn es zu leise ist",
+  "description": "iPhone selbst auf voller Lautstärke zu leise? Prüfe die Einstellungen, die den Ton begrenzen, reinige den Lautsprecher und mach leise Dateien bis zu 10× lauter.",
+  "h1": "iPhone Lautstärke erhöhen, wenn es zu leise ist",
+  "eyebrow": "iPhone-Lautstärke",
+  "card_title": "iPhone Lautstärke erhöhen",
+  "card_summary": "Einstellungen, die die Lautstärke still begrenzen, Lautsprecher- und Bluetooth-Checks und was hilft, wenn schon alles auf Maximum steht.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Um die iPhone-Lautstärke zu erhöhen, schalte unter Einstellungen › Töne & Haptik › Kopfhörersicherheit „Laute Töne reduzieren“ aus, probiere unter Einstellungen › Musik den EQ „Spät abends“, prüfe die Balance, reinige das Lautsprechergitter und achte darauf, dass der Ton nicht an Bluetooth geht. Mehr als 100 % schafft das System nicht: Ist ein Video oder eine Aufnahme trotzdem leise, mach die Datei selbst mit Increase Volume bis zu ×10 lauter und speichere eine neue Kopie.",
+  "intro": [
+    "Dein iPhone steht auf Maximum und trotzdem hörst du das Video, die Sprachnachricht oder den Song kaum. Meist begrenzt eine Einstellung die Lautstärke ohne Hinweis, oder der Ton läuft woanders hin.",
+    "Geh die Lösungen unten der Reihe nach durch. Ist alles richtig eingestellt und eine bestimmte Datei bleibt leise, liegt es an der Aufnahme selbst – und auch das lässt sich beheben."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Regler „Lautstärke-Multiplikation ×10“ und Button „Lautstärke verstärken“",
+    "caption": "Über 100 % geht iOS nicht hinaus, eine leise Datei lässt sich aber bis zu 10× lauter machen.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Einstellungen, die die iPhone-Lautstärke begrenzen",
+      "paragraphs": [
+        "Diese Einstellungen zeigen keine Warnung, sie halten den Ton nur leiser als nötig:"
+      ],
+      "list": [
+        "Laute Töne reduzieren: Einstellungen › Töne & Haptik › Kopfhörersicherheit. Wenn aktiv, begrenzt es die Kopfhörerlautstärke auf den eingestellten Pegel. Ausschalten oder Grenze anheben.",
+        "Lautstärke anpassen: Einstellungen › Musik › Lautstärke anpassen gleicht alle Titel auf dieselbe Lautheit an und zieht laute Songs damit herunter. Ausschalten, wenn alles kraftlos wirkt.",
+        "EQ: Einstellungen › Musik › EQ. „Spät nachts“ komprimiert die Dynamik, sodass leise Stellen lauter werden; „Loudness“ hebt Bässe und Höhen bei niedriger Lautstärke an. Probier beides.",
+        "Lautstärkebegrenzung in Bildschirmzeit: Einstellungen › Bildschirmzeit › Beschränkungen kann eine gesperrte Lautstärkegrenze von Eltern oder einer alten Einstellung enthalten.",
+        "Bluetooth: Manche Ohrhörer und Lautsprecher haben eine eigene Lautstärke; auch am Gerät hochdrehen."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Lautsprecher, Hülle und Bluetooth",
+      "paragraphs": [
+        "Staub im unteren Lautsprechergitter oder eine Hülle, die es verdeckt, kann die Lautstärke deutlich senken – reinige es vorsichtig mit einem weichen, trockenen Pinsel. Öffne das Kontrollzentrum und prüfe die Audioausgabe: Sind AirPods oder ein Bluetooth-Lautsprecher noch verbunden, spielt der Ton dort. Sind Telefonate leise, halte die obere Hörmuschel direkt ans Ohr."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "Auf Maximum und immer noch leise? Mach die Datei lauter",
+      "paragraphs": [
+        "Die Lautstärketasten ändern nur, wie laut das iPhone abspielt. Wurde ein Video, eine Sprachmemo oder eine MP3 leise aufgenommen, bleibt sie auf jedem Gerät leise. Increase Volume hebt den Pegel in der Datei bis zu ×10 an und speichert eine neue Kopie, die überall lauter spielt – auch auf den Handys anderer."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Schritt für Schritt: eine leise Datei lauter machen",
+    "intro": "Etwa eine Minute mit der kostenlosen App aus dem App Store.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Datei öffnen",
+        "text": "Teile ein Video aus Fotos oder eine Audiodatei aus Dateien mit Increase Volume."
+      },
+      {
+        "name": "Verstärkung wählen",
+        "text": "Zieh „Lautstärke-Multiplikation“: ×2–×4 für Musik, ×3–×6 für Sprache, bis ×10 für sehr leise Aufnahmen."
+      },
+      {
+        "name": "Vergleichen",
+        "text": "Tippe auf „Lautstärke verstärken“ und wechsle zwischen Original und Verarbeitet, um Verzerrungen zu hören."
+      },
+      {
+        "name": "Speichern",
+        "text": "Tippe auf „Verarbeitete laden“ und sichere die lautere Kopie in Fotos oder Dateien."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tipps",
+    "items": [
+      "Starte das iPhone neu, wenn der Ton plötzlich überall leiser ist: Ein hängender Audioweg ist eine häufige Ursache.",
+      "Der Regler für Klingel- und Hinweistöne ist getrennt und ändert die Medienlautstärke nicht.",
+      "Verstärke eine Datei vor dem Teilen: Plattformen und andere Handys können eine leise Aufnahme nicht reparieren."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kann ich das iPhone lauter als die maximale Lautstärke machen?",
+      "answer": "Nicht für das ganze System – 100 % ist die Hardwaregrenze. Einzelne Videos und Audiodateien kannst du aber mit einer App wie Increase Volume lauter machen."
+    },
+    {
+      "question": "Warum ist die iPhone-Lautstärke von selbst leiser geworden?",
+      "answer": "Meist hat die Kopfhörersicherheit nach lautem Hören reduziert, Lautstärkeausgleich ist an oder die Ausgabe ist auf Bluetooth gewechselt."
+    },
+    {
+      "question": "Hilft es wirklich, den Lautsprecher zu reinigen?",
+      "answer": "Ja, wenn das Gitter verstopft ist. Nimm einen weichen, trockenen Pinsel – niemals spitze Gegenstände oder Flüssigkeiten."
+    }
+  ],
+  "related": [
+    "warum-ist-mein-iphone-video-so-leise",
+    "video-lauter-machen-iphone",
+    "musik-lauter-machen-iphone"
+  ]
+}

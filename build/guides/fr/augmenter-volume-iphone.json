@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "augmenter le volume de l’iPhone",
+  "priority": 13,
+  "keywords": "augmenter volume iphone, iphone son trop faible, monter le son iphone, haut-parleur iphone faible, iphone plus fort que le maximum",
+  "title": "Augmenter le volume de l’iPhone : 8 solutions au son faible",
+  "description": "iPhone trop faible même au maximum ? Vérifiez les réglages qui limitent le son, nettoyez le haut-parleur, le Bluetooth, et rendez un fichier 10× plus fort.",
+  "h1": "Augmenter le volume de l’iPhone quand le son est trop faible",
+  "eyebrow": "Volume iPhone",
+  "card_title": "Augmenter le volume iPhone",
+  "card_summary": "Les réglages qui limitent le volume sans prévenir, haut-parleur et Bluetooth, et que faire quand tout est déjà au maximum.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Pour augmenter le volume de l’iPhone, désactivez « Réduire le volume fort » dans Réglages › Sons et vibrations › Sécurité du casque, essayez l’égaliseur « Tard le soir » dans Réglages › Musique, vérifiez la balance, nettoyez la grille du haut-parleur et assurez-vous que le son ne part pas en Bluetooth. Le système ne dépasse pas 100 % : si une vidéo ou un enregistrement reste faible, amplifiez le fichier lui-même avec l’Amplificateur de Volume Audio (jusqu’à ×10) et enregistrez une nouvelle copie.",
+  "intro": [
+    "Votre iPhone est au maximum et vous entendez à peine la vidéo, le message vocal ou la chanson. Le plus souvent, un réglage limite le volume sans prévenir, ou le son part ailleurs.",
+    "Suivez les solutions ci-dessous dans l’ordre. Si tout est bien réglé et qu’un fichier précis reste faible, c’est l’enregistrement lui-même — et cela se corrige aussi."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Curseur « Multiplication du volume ×10 » et bouton « Amplifier le volume »",
+    "caption": "iOS ne dépasse pas 100 %, mais un fichier faible peut devenir jusqu’à 10× plus fort.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Les réglages qui limitent le volume de l’iPhone",
+      "paragraphs": [
+        "Ces réglages n’affichent aucun avertissement, ils gardent simplement le son plus bas que possible :"
+      ],
+      "list": [
+        "Réduire les sons forts : Réglages › Sons et vibrations › Sécurité des écouteurs. Activé, il plafonne le volume du casque au niveau choisi. Désactivez-le ou relevez la limite.",
+        "Égaliseur de volume : Réglages › Musique › Égaliseur de volume aligne tous les morceaux sur la même intensité et baisse donc les plus forts. Désactivez-le si tout paraît mou.",
+        "Égaliseur (EQ) : Réglages › Musique › Égaliseur. Le préréglage nuit (Late Night) compresse la dynamique pour que les passages doux remontent ; « Loudness » renforce graves et aigus à bas volume. Essayez les deux.",
+        "Limite de volume dans Temps d'écran : Réglages › Temps d'écran › Restrictions relatives au contenu et à la confidentialité peut contenir une limite verrouillée par un parent ou un ancien réglage.",
+        "Bluetooth : certains écouteurs et enceintes ont leur propre volume ; montez-le aussi sur l'appareil."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Haut-parleur, coque et Bluetooth",
+      "paragraphs": [
+        "De la poussière dans la grille du haut-parleur du bas, ou une coque qui la recouvre, peut réduire nettement le volume : nettoyez-la avec une brosse douce et sèche. Ouvrez le Centre de contrôle et vérifiez la sortie audio : si des AirPods ou une enceinte Bluetooth sont encore connectés, le son y part. Si les appels sont faibles, plaquez bien l’écouteur du haut contre l’oreille."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "Au maximum et toujours faible ? Amplifiez le fichier",
+      "paragraphs": [
+        "Les boutons de volume ne changent que la puissance de lecture de l’iPhone. Une vidéo, un mémo vocal ou un MP3 enregistré faiblement reste faible sur tous les appareils. L’Amplificateur de Volume Audio augmente le niveau dans le fichier jusqu’à ×10 et enregistre une nouvelle copie, plus forte partout, y compris sur le téléphone des autres."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Étape par étape : rendre un fichier faible plus fort",
+    "intro": "Environ une minute avec l’app gratuite de l’App Store.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Ouvrir le fichier",
+        "text": "Partagez une vidéo depuis Photos ou un fichier audio depuis Fichiers vers l’app."
+      },
+      {
+        "name": "Choisir l’amplification",
+        "text": "Faites glisser « Multiplication du volume » : ×2–×4 pour la musique, ×3–×6 pour la voix, jusqu’à ×10 pour les enregistrements très faibles."
+      },
+      {
+        "name": "Comparer",
+        "text": "Touchez « Amplifier le volume » et alternez entre Original et Traité pour repérer la saturation."
+      },
+      {
+        "name": "Enregistrer",
+        "text": "Touchez « Télécharger le fichier traité » et enregistrez la copie plus forte dans Photos ou Fichiers."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Conseils",
+    "items": [
+      "Redémarrez l’iPhone si le son a baissé partout d’un coup : une sortie audio bloquée est une cause fréquente.",
+      "Le curseur Sonnerie et alertes est séparé et ne change pas le volume des médias.",
+      "Amplifiez un fichier avant de le partager : les plateformes et les autres téléphones ne corrigent pas un enregistrement faible."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Peut-on rendre l’iPhone plus fort que le volume maximum ?",
+      "answer": "Pas pour tout le système : 100 % est la limite matérielle. Vous pouvez en revanche amplifier des vidéos et fichiers audio avec une app comme l’Amplificateur de Volume Audio."
+    },
+    {
+      "question": "Pourquoi le volume de l’iPhone a-t-il baissé tout seul ?",
+      "answer": "En général, la Sécurité du casque l’a réduit après une écoute forte, l’Égaliseur de volume est activé ou la sortie est passée en Bluetooth."
+    },
+    {
+      "question": "Nettoyer le haut-parleur, ça aide vraiment ?",
+      "answer": "Oui, si la grille est bouchée. Utilisez une brosse douce et sèche, jamais d’objet pointu ni de liquide."
+    }
+  ],
+  "related": [
+    "pourquoi-ma-video-iphone-a-un-son-faible",
+    "comment-augmenter-le-son-d-une-video-sur-iphone",
+    "musique-trop-faible-iphone"
+  ]
+}

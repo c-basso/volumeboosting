@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "cara mengeraskan suara iPhone",
+  "priority": 13,
+  "keywords": "mengeraskan suara iphone, suara iphone kecil, iphone lebih keras, speaker iphone pelan, iphone lebih keras dari maksimal",
+  "title": "Cara Mengeraskan Suara iPhone: 8 Solusi Saat Suara Kecil",
+  "description": "Suara iPhone tetap kecil meski volume penuh? Cek pengaturan yang membatasi volume, speaker, dan Bluetooth, lalu buat file yang pelan hingga 10x lebih keras.",
+  "h1": "Cara mengeraskan suara iPhone saat suaranya terlalu kecil",
+  "eyebrow": "Volume iPhone",
+  "card_title": "Mengeraskan suara iPhone",
+  "card_summary": "Pengaturan yang diam-diam membatasi volume, cek speaker dan Bluetooth, serta yang harus dilakukan saat semuanya sudah maksimal.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Untuk mengeraskan suara iPhone, matikan «Kurangi Audio Keras» di Pengaturan › Suara & Haptik › Keamanan Headphone, coba EQ «Larut Malam» di Pengaturan › Musik, matikan Periksa Suara, bersihkan kisi speaker, dan pastikan audio tidak keluar ke Bluetooth. Sistem tidak bisa melewati 100%: jika video atau rekaman tetap pelan, keraskan file-nya dengan Penguat Volume (hingga ×10) dan simpan salinan baru.",
+  "intro": [
+    "iPhone sudah di volume maksimal, tetapi video, pesan suara, atau lagu nyaris tidak terdengar. Biasanya ada pengaturan yang membatasi volume tanpa peringatan, atau audio keluar ke perangkat lain.",
+    "Coba solusi di bawah secara berurutan. Jika semuanya sudah benar dan satu file tertentu tetap pelan, masalahnya ada di rekamannya – dan itu juga bisa diatasi."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Slider «Pengali volume ×10» dan tombol «Boost volume»",
+    "caption": "iOS tidak bisa melewati 100%, tetapi file yang pelan bisa dibuat hingga 10x lebih keras.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Pengaturan yang membatasi volume iPhone",
+      "paragraphs": [
+        "Pengaturan ini tidak menampilkan peringatan apa pun, hanya membuat suara lebih kecil dari seharusnya:"
+      ],
+      "list": [
+        "Kurangi Audio Keras: Pengaturan › Suara & Haptik › Keamanan Headphone. Jika aktif, volume headphone dibatasi ke level pilihan Anda. Matikan atau naikkan batasnya.",
+        "Periksa Suara: Pengaturan › Musik › Periksa Suara menyamakan semua lagu ke volume yang sama sehingga lagu keras jadi lebih pelan. Matikan jika semuanya terdengar pelan.",
+        "EQ: Pengaturan › Musik › EQ. „Larut Malam” memampatkan dinamika sehingga bagian pelan naik; „Kenyaringan” (Loudness) menonjolkan bass dan treble pada volume rendah. Coba keduanya.",
+        "Batas volume di Durasi Layar: Pengaturan › Durasi Layar › Pembatasan Konten & Privasi mungkin punya batas yang dikunci orang tua atau pengaturan lama.",
+        "Bluetooth: beberapa headphone dan speaker punya volume sendiri; naikkan juga di perangkatnya."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Speaker, casing, dan Bluetooth",
+      "paragraphs": [
+        "Debu di kisi speaker bawah atau casing yang menutupinya bisa menurunkan volume secara nyata – bersihkan perlahan dengan kuas lembut dan kering. Buka Pusat Kontrol dan periksa output audio: jika AirPods atau speaker Bluetooth tersambung, suara keluar di sana. Jika suara telepon kecil, dekatkan speaker atas ke telinga."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "Sudah maksimal tapi tetap pelan? Keraskan file-nya",
+      "paragraphs": [
+        "Tombol volume hanya mengatur seberapa keras iPhone memutar suara. Jika video, memo suara, atau MP3 direkam pelan, file itu akan pelan di perangkat mana pun. Penguat Volume menaikkan level di dalam file hingga ×10 dan menyimpan salinan baru yang lebih keras di mana saja – termasuk di HP orang lain."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: keraskan file yang pelan",
+    "intro": "Sekitar satu menit dengan aplikasi gratis dari App Store.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Buka file",
+        "text": "Bagikan video dari Foto atau file audio dari File ke Penguat Volume."
+      },
+      {
+        "name": "Pilih penguatan",
+        "text": "Geser «Pengali volume»: ×2–×4 untuk musik, ×3–×6 untuk suara bicara, hingga ×10 untuk rekaman yang sangat pelan."
+      },
+      {
+        "name": "Bandingkan",
+        "text": "Ketuk «Boost volume», lalu beralih antara Asli dan Diproses untuk mendengar apakah ada distorsi."
+      },
+      {
+        "name": "Simpan",
+        "text": "Ketuk «Unduh yang diproses» dan simpan salinan yang lebih keras ke Foto atau File."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "Mulai ulang iPhone jika suara tiba-tiba mengecil di mana-mana: jalur audio yang macet sering jadi penyebab.",
+      "Slider Nada Dering & Peringatan terpisah dan tidak mengubah volume media.",
+      "Keraskan file sebelum dikirim: platform dan HP orang lain tidak memperbaiki rekaman yang pelan."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bisakah iPhone dibuat lebih keras dari maksimal?",
+      "answer": "Tidak untuk seluruh sistem – 100% adalah batas perangkat keras. Namun video dan file audio tertentu bisa dibuat lebih keras dengan aplikasi seperti Penguat Volume."
+    },
+    {
+      "question": "Kenapa volume iPhone turun sendiri?",
+      "answer": "Biasanya Keamanan Headphone menurunkannya setelah mendengarkan dengan keras, Periksa Suara aktif, atau output berpindah ke Bluetooth."
+    },
+    {
+      "question": "Apakah membersihkan speaker benar-benar membantu?",
+      "answer": "Ya, jika kisinya tersumbat. Gunakan kuas lembut dan kering – jangan benda tajam atau cairan."
+    }
+  ],
+  "related": [
+    "kenapa-suara-video-pelan",
+    "cara-mengeraskan-suara-video-di-iphone",
+    "musik-pelan-di-iphone"
+  ]
+}

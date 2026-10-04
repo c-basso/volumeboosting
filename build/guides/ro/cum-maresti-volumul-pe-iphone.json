@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "cum măresc volumul pe iPhone",
+  "priority": 13,
+  "keywords": "mărire volum iphone, iphone volum încet, iphone sunet mai tare, difuzor iphone încet, iphone mai tare decât maximul",
+  "title": "Cum mărești volumul pe iPhone: 8 soluții pentru sunet încet",
+  "description": "iPhone-ul se aude încet chiar la maxim? Verifică setările care limitează volumul, difuzorul și Bluetooth-ul și fă fișierele încete de până la 10 ori mai tari.",
+  "h1": "Cum mărești volumul pe iPhone când sunetul e prea încet",
+  "eyebrow": "Volum iPhone",
+  "card_title": "Mărește volumul pe iPhone",
+  "card_summary": "Setări care limitează discret volumul, verificarea difuzorului și a Bluetooth-ului și ce faci când totul e deja la maxim.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Ca să mărești volumul pe iPhone, verifică Configurări › Sunete și haptică › Siguranța căștilor, încearcă egalizatorul „Noaptea târziu” din Configurări › Muzică, pune Balansul la mijloc, curăță grila difuzorului și asigură-te că sunetul nu merge pe Bluetooth. Sistemul nu trece de 100%: dacă un videoclip sau o înregistrare rămâne încet, mărește volumul fișierului cu Amplificator – Volume Boost (până la ×10) și salvează o copie nouă.",
+  "intro": [
+    "iPhone-ul e la maxim, dar abia auzi videoclipul, mesajul vocal sau melodia. De obicei o setare limitează volumul fără avertisment sau sunetul merge pe alt dispozitiv.",
+    "Parcurge soluțiile de mai jos în ordine. Dacă totul e setat corect și un anumit fișier e tot încet, problema e în înregistrarea însăși – și se poate rezolva și ea."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Cursorul „Multiplicare volum ×10” și butonul „Amplifică volumul”",
+    "caption": "iOS nu trece de 100%, dar un fișier încet poate deveni de până la 10 ori mai tare.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Setări care limitează volumul pe iPhone",
+      "paragraphs": [
+        "Aceste setări nu afișează niciun avertisment, doar țin sunetul mai jos decât ar putea fi:"
+      ],
+      "list": [
+        "Siguranța căștilor: Configurări › Sunete și haptică › Siguranța căștilor poate limita nivelul în căști.",
+        "Egalizator: Configurări › Muzică › Egalizator. Setarea „Noaptea târziu” ridică pasajele încete și poate face muzica să pară mai tare în zgomot.",
+        "Verificare sunet: Configurări › Muzică. Activată, egalizează volumul între piese, ceea ce poate coborî piesele tari.",
+        "Balans: Configurări › Accesibilitate › Audio și vizual › Balans trebuie să fie la mijloc.",
+        "Bluetooth: unele căști au volum propriu; verifică aplicația lor.",
+        "Murdăria din difuzor sau din port înăbușă sunetul; curăță cu grijă."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Difuzor, husă și Bluetooth",
+      "paragraphs": [
+        "Praful din grila de jos a difuzorului sau o husă care o acoperă scad vizibil volumul – curăță ușor cu o pensulă moale și uscată. Deschide Centrul de control și verifică ieșirea audio: dacă AirPods sau o boxă Bluetooth sunt conectate, sunetul se aude acolo. Dacă apelurile sunt încete, ține difuzorul de sus aproape de ureche."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "La maxim și tot încet? Mărește volumul fișierului",
+      "paragraphs": [
+        "Butoanele de volum schimbă doar cât de tare redă iPhone-ul. Dacă un videoclip, o notiță vocală sau un MP3 a fost înregistrat încet, va fi încet pe orice dispozitiv. Amplificator – Volume Boost ridică nivelul din fișier până la ×10 și salvează o copie nouă, care se aude mai tare peste tot – și pe telefoanele altora."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Pas cu pas: fă un fișier încet mai tare",
+    "intro": "Cam un minut cu aplicația gratuită din App Store.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Deschide fișierul",
+        "text": "Partajează un videoclip din Poze sau un fișier audio din Fișiere către Amplificator – Volume Boost."
+      },
+      {
+        "name": "Alege amplificarea",
+        "text": "Trage „Multiplicare volum”: ×2–×4 pentru muzică, ×3–×6 pentru voce, până la ×10 pentru înregistrări foarte încete."
+      },
+      {
+        "name": "Compară",
+        "text": "Atinge „Amplifică volumul” și comută între Original și Procesat ca să auzi dacă apare distorsiune."
+      },
+      {
+        "name": "Salvează",
+        "text": "Atinge „Descarcă procesat” și salvează copia mai tare în Poze sau Fișiere."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Sfaturi",
+    "items": [
+      "Repornește iPhone-ul dacă sunetul a scăzut brusc peste tot: o rută audio blocată e o cauză frecventă.",
+      "Cursorul pentru Sonerie și alerte e separat și nu schimbă volumul media.",
+      "Mărește volumul fișierului înainte să-l trimiți: platformele și telefoanele altora nu repară o înregistrare încetă."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Pot face iPhone-ul mai tare decât maximul?",
+      "answer": "Nu pentru tot sistemul – 100% e limita hardware. Videoclipurile și fișierele audio individuale pot fi însă făcute mai tari cu o aplicație precum Amplificator – Volume Boost."
+    },
+    {
+      "question": "De ce a scăzut singur volumul pe iPhone?",
+      "answer": "De obicei Siguranța căștilor l-a redus după ascultare tare, Verificare sunet e activă sau ieșirea a trecut pe Bluetooth."
+    },
+    {
+      "question": "Ajută chiar curățarea difuzorului?",
+      "answer": "Da, dacă grila e înfundată. Folosește o pensulă moale și uscată – niciodată obiecte ascuțite sau lichide."
+    }
+  ],
+  "related": [
+    "de-ce-se-aude-incet-videoclipul",
+    "cum-maresti-volumul-unui-videoclip-pe-iphone",
+    "muzica-se-aude-incet-iphone"
+  ]
+}

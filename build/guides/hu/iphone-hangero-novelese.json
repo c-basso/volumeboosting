@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "iphone hangerő növelése",
+  "priority": 13,
+  "keywords": "iphone hangerő növelése, iphone halk, iphone hangosabb, iphone hangszóró halk, iphone hangosabb a maximumnál",
+  "title": "iPhone hangerő növelése: 8 megoldás, ha túl halk a telefon",
+  "description": "Halk az iPhone még teljes hangerőn is? Nézd meg a hangerőt korlátozó beállításokat, a hangszórót és a Bluetootht, és tedd a halk fájlokat akár 10× hangosabbá.",
+  "h1": "Így növeld az iPhone hangerejét, ha túl halk",
+  "eyebrow": "iPhone hangerő",
+  "card_title": "iPhone hangerő növelése",
+  "card_summary": "Beállítások, amelyek csendben korlátozzák a hangerőt, hangszóró- és Bluetooth-ellenőrzés, és mi a teendő, ha már minden maximumon van.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Az iPhone hangerejének növeléséhez kapcsold ki a „Hangos hangok csökkentése” opciót a Beállítások › Hangok és rezgések › Fejhallgató-biztonság alatt, próbáld ki a „Késő este” hangszínszabályzót a Beállítások › Zene menüben, tisztítsd meg a hangszórórácsot, és ellenőrizd, hogy a hang nem Bluetooth-eszközre megy. A rendszer nem lép túl a 100%-on: ha egy videó vagy felvétel továbbra is halk, magát a fájlt hangosítsd fel a Hangerőnövelő Média appal (akár ×10), és ments új másolatot.",
+  "intro": [
+    "Az iPhone maximumon van, mégis alig hallod a videót, a hangüzenetet vagy a dalt. Általában egy beállítás korlátozza a hangerőt figyelmeztetés nélkül, vagy a hang egy másik eszközre megy.",
+    "Haladj végig sorban az alábbi megoldásokon. Ha minden jól van beállítva, és egy adott fájl még mindig halk, akkor maga a felvétel a gond – és ez is megoldható."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "„Hangerőszorzó ×10” csúszka és „Hangerő kiemelése” gomb",
+    "caption": "Az iOS nem megy 100% fölé, de egy halk fájl akár 10× hangosabb lehet.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Beállítások, amelyek korlátozzák az iPhone hangerejét",
+      "paragraphs": [
+        "Ezek a beállítások nem jeleznek semmit, csak halkabban tartják a hangot, mint amilyen lehetne:"
+      ],
+      "list": [
+        "Hangos hangok csökkentése: Beállítások › Hangok és rezgések › Fejhallgató-biztonság. Bekapcsolva a fejhallgató hangerejét a választott szintre korlátozza. Kapcsold ki, vagy emeld a határt.",
+        "Hangerő-kiegyenlítés: a Beállítások › Zene › Hangerő-kiegyenlítés minden dalt azonos hangerőre hoz, ezért a hangosakat lehalkítja. Kapcsold ki, ha minden halknak tűnik.",
+        "Hangszínszabályzó: Beállítások › Zene › Hangszínszabályzó. A „Késő este” tömöríti a dinamikát, így a halk részek hangosabbak lesznek; a „Hangerő” (Loudness) kis hangerőn kiemeli a mélyeket és a magasakat. Próbáld ki mindkettőt.",
+        "Hangerőkorlát a Képernyőidőben: a Beállítások › Képernyőidő › Tartalom és adatvédelem korlátozásai alatt lehet egy szülő által zárolt vagy régi korlát.",
+        "Bluetooth: egyes fülhallgatóknak és hangszóróknak saját hangerejük van; azon is emeld."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Hangszóró, tok és Bluetooth",
+      "paragraphs": [
+        "A hangszóró alsó rácsában lévő por vagy az azt eltakaró tok érezhetően csökkenti a hangerőt – óvatosan tisztítsd meg puha, száraz ecsettel. Nyisd meg a Vezérlőközpontot, és nézd meg a hangkimenetet: ha AirPods vagy Bluetooth-hangszóró csatlakozik, a hang ott szól. Ha a hívások halkak, tartsd a felső hangszórót közel a füledhez."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "Maximumon is halk? Hangosítsd fel a fájlt",
+      "paragraphs": [
+        "A hangerőgombok csak azt állítják, milyen hangosan játszik le az iPhone. Ha egy videót, hangjegyzetet vagy MP3-at halkan vettek fel, minden eszközön halk lesz. A Hangerőnövelő Média a fájlon belül emeli a szintet akár ×10-re, és új másolatot ment, amely mindenhol hangosabban szól – mások telefonján is."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Lépésről lépésre: halk fájl hangosítása",
+    "intro": "Körülbelül egy perc az ingyenes appal az App Store-ból.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Nyisd meg a fájlt",
+        "text": "Oszd meg a videót a Fotókból vagy a hangfájlt a Fájlokból a Hangerőnövelő Média appal."
+      },
+      {
+        "name": "Válaszd ki az erősítést",
+        "text": "Húzd a „Hangerőszorzó” csúszkát: ×2–×4 zenéhez, ×3–×6 beszédhez, akár ×10 nagyon halk felvételekhez."
+      },
+      {
+        "name": "Hasonlítsd össze",
+        "text": "Koppints a „Hangerő kiemelése” gombra, és válts az Eredeti és a Feldolgozott között, hogy halld, torzul-e."
+      },
+      {
+        "name": "Mentsd el",
+        "text": "Koppints a „Feldolgozott letöltése” gombra, és mentsd a hangosabb másolatot a Fotókba vagy a Fájlokba."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tippek",
+    "items": [
+      "Indítsd újra az iPhone-t, ha a hang hirtelen mindenhol halkabb lett: a beragadt hangútvonal gyakori ok.",
+      "A Csengőhang és figyelmeztetések csúszka külön működik, és nem változtatja a médiahangerőt.",
+      "Hangosítsd fel a fájlt küldés előtt: a platformok és mások telefonjai nem javítják a halk felvételt."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Lehet az iPhone hangosabb a maximumnál?",
+      "answer": "Az egész rendszer nem – a 100% a hardver határa. Egyes videók és hangfájlok viszont hangosabbá tehetők egy olyan appal, mint a Hangerőnövelő Média."
+    },
+    {
+      "question": "Miért halkult le magától az iPhone?",
+      "answer": "Általában a Fejhallgató-biztonság csökkentette hangos hallgatás után, be van kapcsolva a Hangerő-kiegyenlítés, vagy a kimenet Bluetoothra váltott."
+    },
+    {
+      "question": "Tényleg segít a hangszóró tisztítása?",
+      "answer": "Igen, ha a rács eltömődött. Használj puha, száraz ecsetet – soha ne hegyes tárgyat vagy folyadékot."
+    }
+  ],
+  "related": [
+    "miert-halk-a-videom",
+    "hogyan-noveld-a-video-hangerejet-iphone-on",
+    "halk-zene-iphone-on"
+  ]
+}

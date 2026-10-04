@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "paano lakasan ang volume ng iPhone",
+  "priority": 13,
+  "keywords": "lakasan volume iphone, mahina ang iphone, iphone mas malakas, mahinang speaker iphone, iphone mas malakas sa max",
+  "title": "Paano Lakasan ang Volume ng iPhone: 8 Solusyon Kapag Mahina",
+  "description": "Mahina pa rin ang iPhone kahit naka-max? Tingnan ang settings na naglilimita ng volume, ang speaker at Bluetooth, at gawing hanggang 10x mas malakas ang file.",
+  "h1": "Paano lakasan ang volume ng iPhone kapag sobrang hina",
+  "eyebrow": "Volume ng iPhone",
+  "card_title": "Lakasan ang volume ng iPhone",
+  "card_summary": "Mga setting na tahimik na naglilimita ng volume, pag-check ng speaker at Bluetooth, at ano ang gagawin kapag naka-max na ang lahat.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Para lakasan ang volume ng iPhone, i-off ang «Reduce Loud Audio» sa Settings › Sounds & Haptics › Headphone Safety, subukan ang EQ na «Late Night» sa Settings › Music, i-off ang Sound Check, linisin ang speaker grille at siguraduhing hindi napupunta sa Bluetooth ang audio. Hindi lumalampas sa 100% ang system: kung mahina pa rin ang video o recording, lakasan ang mismong file gamit ang Increase Volume (hanggang ×10) at mag-save ng bagong kopya.",
+  "intro": [
+    "Naka-max na ang iPhone pero halos hindi mo marinig ang video, voice message o kanta. Kadalasan may setting na naglilimita ng volume nang walang babala, o napupunta ang audio sa ibang device.",
+    "Subukan ang mga solusyon sa ibaba nang sunod-sunod. Kung tama ang lahat at mahina pa rin ang isang partikular na file, nasa recording mismo ang problema – at may solusyon din doon."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Slider na «Volume multiplication ×10» at button na «Boost Volume»",
+    "caption": "Hindi lumalampas sa 100% ang iOS, pero puwedeng maging hanggang 10x mas malakas ang mahinang file.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Mga setting na naglilimita ng volume ng iPhone",
+      "paragraphs": [
+        "Walang ipinapakitang babala ang mga setting na ito; pinapahina lang nila ang tunog kaysa sa kaya nito:"
+      ],
+      "list": [
+        "Reduce Loud Audio: Settings › Sounds & Haptics › Headphone Safety. Kapag naka-on, nililimitahan nito ang headphone volume sa level na pinili mo. I-off o itaas ang limit.",
+        "Sound Check: Settings › Music › Sound Check ay pinapantay ang lahat ng kanta sa iisang lakas kaya hinihinaan ang malalakas. I-off kung parang matamlay lahat.",
+        "EQ: Settings › Music › EQ. Kino-compress ng Late Night ang dynamics para lumakas ang mahihinang parte; pinapalakas naman ng Loudness ang bass at treble sa mababang volume. Subukan pareho.",
+        "Volume limit sa Screen Time: maaaring may naka-lock na limit sa Settings › Screen Time › Content & Privacy Restrictions mula sa magulang o lumang setting.",
+        "Bluetooth: may sariling volume ang ilang earbuds at speaker; lakasan din sa mismong device."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Speaker, case at Bluetooth",
+      "paragraphs": [
+        "Ang alikabok sa ibabang speaker grille o case na tumatakip dito ay kapansin-pansing nagpapahina ng volume – linisin nang marahan gamit ang malambot at tuyong brush. Buksan ang Control Center at tingnan ang audio output: kung naka-connect ang AirPods o Bluetooth speaker, doon tumutunog ang audio. Kung mahina ang tawag, ilapit ang itaas na speaker sa tainga."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "Naka-max pero mahina pa rin? Lakasan ang file",
+      "paragraphs": [
+        "Binabago lang ng volume buttons kung gaano kalakas magpatugtog ang iPhone. Kung mahina ang pagkaka-record ng video, voice memo o MP3, mahina ito sa kahit anong device. Itinataas ng Increase Volume ang level sa loob ng file hanggang ×10 at nagse-save ng bagong kopya na mas malakas kahit saan – pati sa phone ng iba."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Step by step: lakasan ang mahinang file",
+    "intro": "Mga isang minuto gamit ang libreng app mula sa App Store.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Buksan ang file",
+        "text": "I-share ang video mula sa Photos o audio file mula sa Files papunta sa Increase Volume."
+      },
+      {
+        "name": "Piliin ang boost",
+        "text": "I-drag ang «Volume multiplication»: ×2–×4 sa music, ×3–×6 sa salita, hanggang ×10 sa napakahinang recording."
+      },
+      {
+        "name": "Ikumpara",
+        "text": "I-tap ang «Boost Volume» at magpalit sa Orihinal at Na-process para marinig kung may distortion."
+      },
+      {
+        "name": "I-save",
+        "text": "I-tap ang «Download Processed» at i-save ang mas malakas na kopya sa Photos o Files."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Tips",
+    "items": [
+      "I-restart ang iPhone kung biglang humina ang tunog kahit saan: karaniwang dahilan ang naipit na audio route.",
+      "Hiwalay ang slider ng Ringtone & Alerts at hindi nito binabago ang media volume.",
+      "Lakasan ang file bago ito ipadala: hindi inaayos ng mga platform at phone ng iba ang mahinang recording."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Puwede bang lakasan ang iPhone nang lampas sa max?",
+      "answer": "Hindi para sa buong system – hardware limit ang 100%. Pero puwedeng lakasan ang mga partikular na video at audio file gamit ang app tulad ng Increase Volume."
+    },
+    {
+      "question": "Bakit kusang humina ang volume ng iPhone?",
+      "answer": "Kadalasan ibinaba ito ng Headphone Safety pagkatapos ng malakas na pakikinig, naka-on ang Sound Check, o lumipat sa Bluetooth ang output."
+    },
+    {
+      "question": "Nakakatulong ba talaga ang paglinis ng speaker?",
+      "answer": "Oo, kung barado ang grille. Gumamit ng malambot at tuyong brush – huwag gumamit ng matulis na bagay o likido."
+    }
+  ],
+  "related": [
+    "bakit-mahina-ang-tunog-ng-video-sa-iphone",
+    "paano-lakasan-ang-volume-ng-video-sa-iphone",
+    "paano-lakasan-ang-music-sa-iphone"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "cách tăng âm lượng iPhone",
+  "priority": 13,
+  "keywords": "tăng âm lượng iphone, iphone loa nhỏ, iphone to hơn, loa iphone nhỏ, iphone to hơn mức tối đa",
+  "title": "Cách tăng âm lượng iPhone: 8 cách xử lý khi loa quá nhỏ",
+  "description": "iPhone vẫn nhỏ dù đã mở hết cỡ? Kiểm tra cài đặt giới hạn âm lượng, loa và Bluetooth, rồi làm tệp âm thanh nhỏ to hơn tới 10 lần chỉ trong khoảng một phút.",
+  "h1": "Cách tăng âm lượng iPhone khi âm thanh quá nhỏ",
+  "eyebrow": "Âm lượng iPhone",
+  "card_title": "Tăng âm lượng iPhone",
+  "card_summary": "Các cài đặt âm thầm giới hạn âm lượng, kiểm tra loa và Bluetooth, và cần làm gì khi mọi thứ đã ở mức tối đa.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Để tăng âm lượng iPhone, tắt «Giảm âm thanh lớn» trong Cài đặt › Âm thanh & cảm ứng › An toàn tai nghe, thử EQ «Đêm khuya» trong Cài đặt › Nhạc, để Cân bằng ở giữa, vệ sinh lưới loa và đảm bảo âm thanh không phát qua Bluetooth. Hệ thống không vượt quá 100%: nếu video hay bản ghi vẫn nhỏ, hãy tăng âm lượng chính tệp đó bằng Tăng Âm Lượng Video (tới ×10) và lưu bản sao mới.",
+  "intro": [
+    "iPhone đã ở mức tối đa nhưng video, tin nhắn thoại hay bài hát vẫn gần như không nghe thấy. Thường là một cài đặt giới hạn âm lượng mà không báo, hoặc âm thanh đang phát sang thiết bị khác.",
+    "Hãy thử lần lượt các cách dưới đây. Nếu mọi thứ đã đúng mà một tệp cụ thể vẫn nhỏ, vấn đề nằm ở chính bản ghi – và điều đó cũng xử lý được."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Thanh trượt «Hệ số âm lượng ×10» và nút «Tăng âm lượng»",
+    "caption": "iOS không vượt quá 100%, nhưng tệp nhỏ có thể to hơn tới 10 lần.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Các cài đặt giới hạn âm lượng iPhone",
+      "paragraphs": [
+        "Những cài đặt này không hiện cảnh báo nào, chỉ giữ âm thanh nhỏ hơn mức có thể:"
+      ],
+      "list": [
+        "An toàn tai nghe: Cài đặt › Âm thanh & cảm ứng › An toàn tai nghe › «Giảm âm thanh lớn».",
+        "EQ: Cài đặt › Nhạc › EQ › «Đêm khuya» nâng các đoạn nhỏ.",
+        "Kiểm tra âm thanh trong Cài đặt › Nhạc đưa mọi bài về cùng mức, đôi khi là hạ xuống.",
+        "Cân bằng: Cài đặt › Trợ năng › Âm thanh & hình ảnh › Cân bằng phải ở giữa.",
+        "Âm lượng trong ứng dụng: Spotify, Zing MP3 và YouTube Music có cài đặt riêng.",
+        "Tăng âm lượng của loa Bluetooth riêng."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Loa, ốp lưng và Bluetooth",
+      "paragraphs": [
+        "Bụi trong lưới loa phía dưới hoặc ốp lưng che loa làm âm lượng giảm rõ rệt – hãy vệ sinh nhẹ nhàng bằng cọ mềm, khô. Mở Trung tâm điều khiển và xem đầu ra âm thanh: nếu AirPods hay loa Bluetooth đang kết nối, âm thanh phát ở đó. Nếu cuộc gọi nhỏ, hãy áp sát loa trên vào tai."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "Đã tối đa mà vẫn nhỏ? Tăng âm lượng tệp",
+      "paragraphs": [
+        "Nút âm lượng chỉ thay đổi mức iPhone phát to bao nhiêu. Nếu video, ghi âm hay MP3 được ghi nhỏ, nó sẽ nhỏ trên mọi thiết bị. Tăng Âm Lượng Video nâng mức âm trong tệp tới ×10 và lưu bản sao mới to hơn ở mọi nơi – kể cả trên điện thoại người khác."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Từng bước: làm tệp nhỏ to hơn",
+    "intro": "Khoảng một phút với ứng dụng miễn phí trên App Store.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Mở tệp",
+        "text": "Chia sẻ video từ Ảnh hoặc tệp âm thanh từ Tệp sang Tăng Âm Lượng Video."
+      },
+      {
+        "name": "Chọn mức tăng",
+        "text": "Kéo «Hệ số âm lượng»: ×2–×4 cho nhạc, ×3–×6 cho giọng nói, tới ×10 cho bản ghi rất nhỏ."
+      },
+      {
+        "name": "So sánh",
+        "text": "Chạm «Tăng âm lượng» rồi chuyển giữa Gốc và Đã xử lý để nghe xem có bị rè không."
+      },
+      {
+        "name": "Lưu",
+        "text": "Chạm «Tải tệp đã xử lý» và lưu bản sao to hơn vào Ảnh hoặc Tệp."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Mẹo",
+    "items": [
+      "Khởi động lại iPhone nếu âm thanh đột nhiên nhỏ đi ở mọi nơi: đường âm thanh bị kẹt là nguyên nhân thường gặp.",
+      "Thanh Nhạc chuông & cảnh báo là riêng biệt và không thay đổi âm lượng đa phương tiện.",
+      "Tăng âm lượng tệp trước khi gửi: nền tảng và điện thoại người khác không sửa được bản ghi nhỏ."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Có thể làm iPhone to hơn mức tối đa không?",
+      "answer": "Không cho toàn hệ thống – 100% là giới hạn phần cứng. Nhưng từng video và tệp âm thanh có thể được làm to hơn bằng ứng dụng như Tăng Âm Lượng Video."
+    },
+    {
+      "question": "Vì sao âm lượng iPhone tự giảm?",
+      "answer": "Thường do An toàn tai nghe đã hạ xuống sau khi nghe to, Kiểm tra âm thanh đang bật, hoặc đầu ra đã chuyển sang Bluetooth."
+    },
+    {
+      "question": "Vệ sinh loa có thực sự giúp ích?",
+      "answer": "Có, nếu lưới loa bị tắc. Dùng cọ mềm, khô – không bao giờ dùng vật nhọn hay chất lỏng."
+    }
+  ],
+  "related": [
+    "tai-sao-video-iphone-tieng-nho",
+    "cach-tang-am-luong-video-tren-iphone",
+    "nhac-tren-iphone-nho"
+  ]
+}

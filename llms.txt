@@ -32,18 +32,19 @@
 
 ## How-to guides (English)
 - [All guides](https://volumeboosting.com/guides/)
-- [How to make a video louder on iPhone](https://volumeboosting.com/guides/how-to-make-a-video-louder-on-iphone/): Make a quiet video louder on iPhone in under a minute. What Photos and iMovie can do, their limits, and how to boost any video up to 10× with Increase Volume.
+- [How to make a video louder on iPhone](https://volumeboosting.com/guides/how-to-make-a-video-louder-on-iphone/): Video too quiet on iPhone? See what Photos and iMovie can and can't do, then make any video up to 10× louder with Increase Volume, a free download. Full steps.
 - [How to make a screen recording louder on iPhone](https://volumeboosting.com/guides/how-to-make-a-screen-recording-louder-on-iphone/): iPhone screen recordings often come out too quiet. Learn why, how to record louder next time, and how to boost an existing recording 10× with Increase Volume.
 - [How to increase the volume of a voice memo on iPhone](https://volumeboosting.com/guides/how-to-increase-voice-memo-volume-on-iphone/): Voice Memos’ Enhance Recording cleans noise but never makes the file louder. Learn how to boost a quiet voice memo up to 10× and save it with Increase Volume.
-- [How to make an MP3 louder on iPhone](https://volumeboosting.com/guides/how-to-make-mp3-louder-on-iphone/): Have a quiet MP3, M4A or WAV on your iPhone? Boost it up to 10× and save a louder copy with Increase Volume, entirely on the phone. Steps, safe levels and FAQs.
+- [How to make an audio file louder on iPhone (MP3, M4A, WAV)](https://volumeboosting.com/guides/how-to-make-mp3-louder-on-iphone/): Quiet MP3, M4A or WAV on your iPhone? Make the audio file up to 10× louder and save a new copy with Increase Volume – no computer, no upload. Steps and FAQs.
 - [How to make a TikTok video louder before you post it](https://volumeboosting.com/guides/how-to-make-a-tiktok-video-louder/): TikTok and Reels squash quiet audio even further. Boost your clip 2–5× on iPhone before uploading with Increase Volume so your voice is heard on every phone.
 - [How to boost a video's volume straight from the Photos app](https://volumeboosting.com/guides/how-to-boost-video-volume-from-the-photos-app/): Photos has no volume slider, but you can boost any video without leaving it: tap Share, pick Increase Volume, slide to 10× and save the louder copy to Photos.
-- [iMovie's volume limit (about 500%) and how to go beyond it](https://volumeboosting.com/guides/imovie-volume-limit-how-to-boost-video-beyond-500-percent/): iMovie on iPhone stops at about 500% clip volume. When that is not enough, Increase Volume takes the same video to 10× with one slider, no project or re-export.
-- [How to make a WhatsApp voice message louder on iPhone](https://volumeboosting.com/guides/how-to-make-a-whatsapp-voice-message-louder/): Quiet WhatsApp voice notes on iPhone: first rule out the proximity-sensor earpiece switch, then export the audio and boost it up to 10× with Increase Volume.
+- [iMovie's volume limit (about 500%) and how to go beyond it](https://volumeboosting.com/guides/imovie-volume-limit-how-to-boost-video-beyond-500-percent/): iMovie on iPhone caps clip volume at about 500%. If the video is still too quiet, take it to 10× with one slider in Increase Volume – no project, no re-export.
+- [How to make a WhatsApp voice message louder on iPhone](https://volumeboosting.com/guides/how-to-make-a-whatsapp-voice-message-louder/): WhatsApp voice note too quiet on iPhone? Rule out the earpiece switch first, then export the audio and make it up to 10× louder with Increase Volume, fast.
 - [How to make a video louder without losing quality](https://volumeboosting.com/guides/how-to-make-a-video-louder-without-losing-quality/): Boosting volume causes clipping if you overdo it. Learn how gain works, how much boost is safe, and how to use the Original/Processed check in Increase Volume.
 - [Why is my iPhone video so quiet? Causes and how to fix it](https://volumeboosting.com/guides/why-is-my-iphone-video-so-quiet/): Quiet iPhone video usually comes from mic distance, a covered microphone, wind, Bluetooth or a headphone-safety limit. Find the cause, then boost the file 10×.
-- [How to make music louder on iPhone](https://volumeboosting.com/guides/how-to-make-music-louder-on-iphone/): Songs too quiet on iPhone? Check Sound Check, EQ and headphone limits first, then make your own MP3s and recordings up to 10× louder with Increase Volume.
+- [How to make music louder on iPhone](https://volumeboosting.com/guides/how-to-make-music-louder-on-iphone/): Songs too quiet on iPhone? Turn off Sound Check, try the Late Night EQ and check headphone limits, then make your own MP3s and recordings up to 10× louder.
 - [How to make a podcast or audiobook louder on iPhone](https://volumeboosting.com/guides/how-to-make-a-podcast-or-audiobook-louder-on-iphone/): Quiet podcast episode, audiobook chapter or lecture file? Use your player's voice boost for streams, and boost downloaded files up to 10× with Increase Volume.
+- [How to increase iPhone volume when it's too quiet](https://volumeboosting.com/guides/how-to-increase-iphone-volume/): iPhone too quiet even at full volume? Check the settings that cap sound, clean the speaker, fix Bluetooth, then make quiet videos and audio up to 10× louder.
 
 ## How-to guides (Čeština)
 - [Čeština guides hub](https://volumeboosting.com/cs/navody/)
@@ -59,6 +60,7 @@
 - [Jak zesílit hudbu na iPhonu](https://volumeboosting.com/cs/navody/jak-zesilit-hudbu-na-iphonu/): Písničky na iPhonu hrají potichu? Zkontroluj Kontrolu hlasitosti, ekvalizér a limit sluchátek, pak vlastní MP3 a nahrávky zesil až 10× v Increase Volume.
 - [Limit hlasitosti v iMovie (zhruba 500 %) a jak ho překonat](https://volumeboosting.com/cs/navody/imovie-hlasitost-jak-zesilit-video-nad-500-procent/): iMovie na iPhonu zvýší hlasitost klipu zhruba na 500 %. Když to nestačí, Increase Volume zesílí stejné video až 10× jedním jezdcem, bez projektu a exportu.
 - [Jak zesílit podcast nebo audioknihu na iPhonu](https://volumeboosting.com/cs/navody/jak-zesilit-podcast-nebo-audioknihu-na-iphonu/): Tichý podcast, kapitola audioknihy nebo nahrávka přednášky? U streamu použij zesílení hlasu v přehrávači, stažené soubory zesil až 10× v Increase Volume.
+- [Jak zesílit hlasitost iPhonu, když hraje potichu](https://volumeboosting.com/cs/navody/jak-zesilit-hlasitost-iphone/): iPhone hraje potichu i na maximum? Zkontroluj nastavení, která omezují zvuk, vyčisti reproduktor, ověř Bluetooth a zesil tiché soubory až desetkrát v iPhonu.
 
 ## How-to guides (Dansk)
 - [Dansk guides hub](https://volumeboosting.com/da/guides/)
@@ -74,6 +76,7 @@
 - [Sådan gør du lyden på en video højere uden at miste kvalitet](https://volumeboosting.com/da/guides/goer-lyden-hoejere-uden-at-miste-kvalitet/): For meget forstærkning får lyden til at klippe. Se hvordan forstærkning virker, hvor meget der er sikkert, og hvordan du tjekker resultatet i Increase Volume.
 - [iMovies lydstyrkegrænse (cirka 500 %) og hvordan du går videre](https://volumeboosting.com/da/guides/imovie-lydstyrke-over-500-procent/): iMovie på iPhone stopper ved cirka 500 % lydstyrke. Når det ikke er nok, tager Increase Volume samme video til 10× med én skyder, uden projekt eller eksport.
 - [Sådan gør du en podcast eller lydbog højere på iPhone](https://volumeboosting.com/da/guides/goer-en-podcast-eller-lydbog-hoejere-paa-iphone/): Lavt podcastafsnit, lydbogskapitel eller forelæsning? Brug afspillerens stemmeboost til streams, og forstærk downloadede filer op til 10× med Increase Volume.
+- [Sådan skruer du op for lyden på iPhone, når den er for lav](https://volumeboosting.com/da/guides/skru-op-for-lyden-iphone/): Er iPhone for lav selv på fuld lydstyrke? Tjek indstillingerne, der begrænser lyden, rens højttaleren, tjek Bluetooth og gør lave filer op til 10 gange højere.
 
 ## How-to guides (Deutsch)
 - [Deutsch guides hub](https://volumeboosting.com/de/anleitungen/)
@@ -89,6 +92,7 @@
 - [Video-Ton lauter machen ohne Qualitätsverlust](https://volumeboosting.com/de/anleitungen/ton-lauter-machen-ohne-qualitaetsverlust/): Zu viel Verstärkung lässt den Ton übersteuern. So funktioniert Verstärkung, so viel ist sicher, und so prüfst du das Ergebnis vorher in Increase Volume.
 - [Das Lautstärkelimit von iMovie (etwa 500 %) und wie du es übertriffst](https://volumeboosting.com/de/anleitungen/imovie-lautstaerke-ueber-500-prozent/): iMovie auf dem iPhone stoppt bei etwa 500 % Lautstärke. Reicht das nicht, bringt Increase Volume dasselbe Video mit einem Regler auf 10× – ohne Projekt.
 - [Podcast oder Hörbuch auf dem iPhone lauter machen](https://volumeboosting.com/de/anleitungen/podcast-hoerbuch-lauter-machen-iphone/): Leise Podcastfolge, Hörbuchkapitel oder Vorlesung? Für Streams die Funktion des Players nutzen, eigene Dateien mit Increase Volume bis zu 10× lauter machen.
+- [iPhone Lautstärke erhöhen, wenn es zu leise ist](https://volumeboosting.com/de/anleitungen/iphone-lautstaerke-erhoehen/): iPhone selbst auf voller Lautstärke zu leise? Prüfe die Einstellungen, die den Ton begrenzen, reinige den Lautsprecher und mach leise Dateien bis zu 10× lauter.
 
 ## How-to guides (Ελληνικά)
 - [Ελληνικά guides hub](https://volumeboosting.com/el/odigoi/)
@@ -104,6 +108,7 @@
 - [Πώς να δυναμώσετε τον ήχο ενός βίντεο χωρίς απώλεια ποιότητας](https://volumeboosting.com/el/odigoi/dynamoste-ixo-xoris-apoleia-poiotitas/): Η υπερβολική ενίσχυση κάνει τον ήχο να σπάει. Δείτε πώς λειτουργεί η ενίσχυση, πόση είναι ασφαλής και πώς ελέγχετε το αποτέλεσμα μέσα στο Increase Volume.
 - [Το όριο έντασης του iMovie (περίπου 500%) και πώς το ξεπερνάτε](https://volumeboosting.com/el/odigoi/imovie-entasi-pano-apo-500-tois-ekato/): Το iMovie στο iPhone σταματά περίπου στο 500%. Όταν δεν φτάνει, το Increase Volume πάει το ίδιο βίντεο στο 10× με ένα ρυθμιστικό, χωρίς έργο ή εξαγωγή.
 - [Πώς να δυναμώσετε ένα podcast ή audiobook στο iPhone](https://volumeboosting.com/el/odigoi/dynamoste-podcast-i-audiobook-sto-iphone/): Χαμηλό podcast, audiobook ή διάλεξη; Στο streaming χρησιμοποιήστε τη λειτουργία του player, τα ληφθέντα αρχεία ενισχύστε τα έως 10× με το Increase Volume.
+- [Πώς να δυναμώσετε τον ήχο στο iPhone όταν είναι πολύ χαμηλός](https://volumeboosting.com/el/odigoi/pos-na-dynamosete-ton-ixo-sto-iphone/): Το iPhone ακούγεται χαμηλά ακόμα και στο τέρμα; Ελέγξτε τις ρυθμίσεις που κόβουν την ένταση, το ηχείο και το Bluetooth και κάντε ένα αρχείο 10 φορές πιο δυνατό.
 
 ## How-to guides (Español)
 - [Español guides hub](https://volumeboosting.com/es/guias/)
@@ -119,6 +124,7 @@
 - [Cómo subir el volumen de un vídeo sin perder calidad](https://volumeboosting.com/es/guias/subir-volumen-sin-perder-calidad/): Si te pasas, el audio se satura. Aprende cómo funciona el aumento, cuánto es seguro y cómo comprobarlo con Original/Procesado en Aumentar Volumen. Paso a paso.
 - [El límite de volumen de iMovie (un 500 %) y cómo superarlo](https://volumeboosting.com/es/guias/imovie-volumen-mas-de-500/): iMovie en iPhone se queda en un 500 % por clip. Si no basta, Aumentar Volumen lleva el mismo vídeo a 10× con un solo deslizador, sin proyecto ni exportación.
 - [Cómo subir el volumen de un podcast o audiolibro en iPhone](https://volumeboosting.com/es/guias/subir-volumen-podcast-audiolibro-iphone/): ¿Podcast, audiolibro o clase grabada que se oye bajo? En streaming usa el refuerzo de voz del reproductor; los archivos, súbelos hasta 10× con Aumentar Volumen.
+- [Cómo subir el volumen del iPhone cuando suena bajo](https://volumeboosting.com/es/guias/subir-volumen-iphone/): ¿Tu iPhone suena bajo incluso al máximo? Revisa los ajustes que limitan el sonido, limpia el altavoz, comprueba el Bluetooth y sube tus archivos hasta 10 veces.
 
 ## How-to guides (Suomi)
 - [Suomi guides hub](https://volumeboosting.com/fi/oppaat/)
@@ -134,6 +140,7 @@
 - [Näin saat videon äänen kovemmaksi ilman laadun heikkenemistä](https://volumeboosting.com/fi/oppaat/aani-kovemmaksi-ilman-laadun-heikkenemista/): Liika tehostus säröyttää äänen. Näin tehostus toimii, paljonko on turvallista ja miten tarkistat tuloksen Alkuperäinen/Käsitelty-kytkimellä Increase Volumessa.
 - [iMovien äänenvoimakkuusraja (noin 500 %) ja miten sen yli pääsee](https://volumeboosting.com/fi/oppaat/imovie-aanenvoimakkuus-yli-500-prosenttia/): iMovie iPhonella pysähtyy noin 500 %:iin. Kun se ei riitä, Increase Volume vie saman videon 10×:ään yhdellä liukusäätimellä ilman projektia tai uutta vientiä.
 - [Näin saat podcastin tai äänikirjan kovemmaksi iPhonella](https://volumeboosting.com/fi/oppaat/podcast-tai-aanikirja-kovemmaksi-iphonella/): Hiljainen podcast, äänikirja tai luentotallenne? Käytä suoratoistossa soittimen omaa toimintoa ja tehosta ladatut tiedostot jopa 10× Increase Volumella.
+- [Näin saat iPhonen äänenvoimakkuuden kovemmaksi](https://volumeboosting.com/fi/oppaat/iphone-aanenvoimakkuuden-lisaaminen/): Onko iPhone liian hiljainen täysilläkin? Tarkista ääntä rajoittavat asetukset, puhdista kaiutin, katso Bluetooth ja tee hiljaisista tiedostoista 10× kovempia.
 
 ## How-to guides (Filipino)
 - [Filipino guides hub](https://volumeboosting.com/fil/mga-gabay/)
@@ -149,6 +156,7 @@
 - [Paano lakasan ang tunog ng video nang hindi nasisira ang quality](https://volumeboosting.com/fil/mga-gabay/lakasan-ang-tunog-nang-hindi-nasisira-ang-quality/): Kapag sobra ang boost, nagki-clip ang tunog. Alamin kung paano gumagana ang boost, gaano kalaki ang ligtas, at paano i-check sa Increase Volume bago mag-save.
 - [Ang volume limit ng iMovie (mga 500%) at paano ito lampasan](https://volumeboosting.com/fil/mga-gabay/imovie-volume-lampas-500-percent/): Hanggang mga 500% lang ang volume sa iMovie sa iPhone. Kapag kulang, dadalhin ng Increase Volume ang video sa 10× gamit ang isang slider, walang project.
 - [Paano lakasan ang podcast o audiobook sa iPhone](https://volumeboosting.com/fil/mga-gabay/paano-lakasan-ang-podcast-o-audiobook/): Mahinang podcast, audiobook o lecture? Sa streaming, gamitin ang feature ng player; ang mga na-download na file, i-boost hanggang 10× gamit ang Increase Volume.
+- [Paano lakasan ang volume ng iPhone kapag sobrang hina](https://volumeboosting.com/fil/mga-gabay/paano-lakasan-ang-volume-ng-iphone/): Mahina pa rin ang iPhone kahit naka-max? Tingnan ang settings na naglilimita ng volume, ang speaker at Bluetooth, at gawing hanggang 10x mas malakas ang file.
 
 ## How-to guides (Français)
 - [Français guides hub](https://volumeboosting.com/fr/guides/)
@@ -164,6 +172,7 @@
 - [Comment augmenter le volume d'une vidéo sans perte de qualité](https://volumeboosting.com/fr/guides/augmenter-volume-sans-perte-de-qualite/): Trop amplifier fait saturer le son. Comprenez l'amplification, la marge sûre et comment vérifier le résultat avec Original/Traité avant d'enregistrer.
 - [La limite de volume d'iMovie (500 %) et comment la dépasser](https://volumeboosting.com/fr/guides/imovie-volume-plus-de-500/): Sur iPhone, iMovie plafonne à environ 500 % par clip. Si ça ne suffit pas, l'Amplificateur de Volume Audio porte la vidéo à 10× avec un curseur, sans projet.
 - [Comment augmenter le volume d'un podcast ou d'un livre audio sur iPhone](https://volumeboosting.com/fr/guides/augmenter-volume-podcast-livre-audio-iphone/): Podcast, livre audio ou cours trop faible ? En streaming, activez le boost vocal du lecteur ; vos fichiers, amplifiez-les jusqu'à 10× sur iPhone, pas à pas.
+- [Augmenter le volume de l’iPhone quand le son est trop faible](https://volumeboosting.com/fr/guides/augmenter-volume-iphone/): iPhone trop faible même au maximum ? Vérifiez les réglages qui limitent le son, nettoyez le haut-parleur, le Bluetooth, et rendez un fichier 10× plus fort.
 
 ## How-to guides (עברית)
 - [עברית guides hub](https://volumeboosting.com/he/madrichim/)
@@ -179,6 +188,7 @@
 - [איך להגביר את הקול בסרטון בלי לאבד איכות](https://volumeboosting.com/he/madrichim/hagbarat-kol-bli-ibud-eichut/): הגברת יתר גורמת לחיתוך ולצרימה. הבינו מה קורה בהגברה, כמה מרווח בטוח יש ואיך בודקים עם מקור/מעובד במגביר עוצמת קול לפני השמירה, שלב אחר שלב ובלי מחשב.
 - [מגבלת העוצמה של iMovie (500%) ואיך לעבור אותה](https://volumeboosting.com/he/madrichim/imovie-yoter-mi-500/): ב‑iMovie לאייפון ההגברה נעצרת בכ‑500% לקליפ. אם זה לא מספיק, מגביר עוצמת קול מביא את אותו סרטון לפי 10 עם מחוון אחד, בלי פרויקט, בלי ציר זמן ובלי ייצוא מחדש.
 - [איך להגביר פודקאסט או ספר שמע באייפון](https://volumeboosting.com/he/madrichim/hagbarat-podcast-sefer-shema/): פודקאסט, ספר שמע או הרצאה מוקלטת חלשים? בסטרימינג השתמשו בהגברת הדיבור של הנגן; את הקבצים שבבעלותכם הגבירו עד פי 10 עם מגביר עוצמת קול באייפון, שלב אחר שלב.
+- [איך להגביר את הקול באייפון כשהוא חלש מדי](https://volumeboosting.com/he/madrichim/eich-lehagbir-et-hakol-beiphone/): האייפון חלש גם בעוצמה מלאה? בדקו את ההגדרות שמגבילות את העוצמה, את הרמקול ואת ה‑Bluetooth, והפכו קובץ חלש לחזק עד פי 10.
 
 ## How-to guides (Hrvatski)
 - [Hrvatski guides hub](https://volumeboosting.com/hr/vodici/)
@@ -194,6 +204,7 @@
 - [Kako pojačati glasnoću videa bez gubitka kvalitete](https://volumeboosting.com/hr/vodici/pojacati-glasnocu-bez-gubitka-kvalitete/): Prejako pojačanje reže zvuk. Saznaj što se događa pri pojačanju, koliko je sigurno i kako provjeriti rezultat uz Izvorno/Obrađeno prije spremanja na iPhoneu.
 - [Granica glasnoće u iMovieju (500 %) i kako je prijeći](https://volumeboosting.com/hr/vodici/imovie-glasnoca-vise-od-500/): iMovie na iPhoneu staje na oko 500 % po isječku. Ako to nije dovoljno, Pojačaj Glasnoću Zvuka isti video vodi do 10× jednim klizačem, bez projekta i izvoza.
 - [Kako pojačati podcast ili audioknjigu na iPhoneu](https://volumeboosting.com/hr/vodici/pojacati-podcast-audioknjigu-iphone/): Podcast, audioknjiga ili snimljeno predavanje pretihi? U streamingu koristi pojačanje govora u playeru; svoje datoteke pojačaj do 10× uz Pojačaj Glasnoću Zvuka.
+- [Kako pojačati zvuk na iPhoneu kad je pretih](https://volumeboosting.com/hr/vodici/kako-pojacati-zvuk-na-iphoneu/): Je li iPhone tih i na najvećoj glasnoći? Provjeri postavke koje ograničavaju glasnoću, zvučnik i Bluetooth te učini tihe datoteke i do 10 puta glasnijima.
 
 ## How-to guides (Magyar)
 - [Magyar guides hub](https://volumeboosting.com/hu/utmutatok/)
@@ -209,6 +220,7 @@
 - [Hogyan növeld egy videó hangerejét minőségromlás nélkül](https://volumeboosting.com/hu/utmutatok/hangero-novelese-minosegromlas-nelkul/): A túlzott hangosítás levágja a hangot. Megtudod, mi történik hangosításkor, mennyi a biztonságos tartalék, és hogyan ellenőrizd Eredeti/Feldolgozott módban.
 - [Az iMovie hangerőkorlátja (500%) és a túllépés módja](https://volumeboosting.com/hu/utmutatok/imovie-hangero-500-folott/): Az iMovie iPhone-on klipenként kb. 500%-nál megáll. Ha ez kevés, a Hangerőnövelő Média a videót 10×-re viszi egy csúszkával, projekt és újraexport nélkül.
 - [Hogyan hangosíts podcastot vagy hangoskönyvet iPhone-on](https://volumeboosting.com/hu/utmutatok/podcast-hangoskonyv-hangosabban/): Halk podcast, hangoskönyv vagy rögzített előadás? Streamingnél a lejátszó beszédkiemelését használd; a saját fájljaidat hangosítsd akár 10×-re iPhone-on.
+- [Így növeld az iPhone hangerejét, ha túl halk](https://volumeboosting.com/hu/utmutatok/iphone-hangero-novelese/): Halk az iPhone még teljes hangerőn is? Nézd meg a hangerőt korlátozó beállításokat, a hangszórót és a Bluetootht, és tedd a halk fájlokat akár 10× hangosabbá.
 
 ## How-to guides (Bahasa Indonesia)
 - [Bahasa Indonesia guides hub](https://volumeboosting.com/id/panduan/)
@@ -224,6 +236,7 @@
 - [Cara mengeraskan suara video tanpa mengurangi kualitas](https://volumeboosting.com/id/panduan/mengeraskan-suara-tanpa-mengurangi-kualitas/): Penguatan berlebihan membuat suara pecah. Pahami apa yang terjadi saat volume dinaikkan, batas amannya, dan cara mengecek hasil dengan Asli/Diproses dulu.
 - [Batas volume iMovie (500%) dan cara melewatinya](https://volumeboosting.com/id/panduan/imovie-volume-lebih-dari-500/): iMovie di iPhone berhenti di sekitar 500% per klip. Jika belum cukup, Penguat Volume membawa video yang sama ke 10× dengan satu slider, tanpa proyek dan ekspor.
 - [Cara mengeraskan podcast atau audiobook di iPhone](https://volumeboosting.com/id/panduan/mengeraskan-podcast-audiobook-iphone/): Podcast, audiobook, atau rekaman kuliah terlalu pelan? Saat streaming pakai penguat suara di pemutar; file milik Anda keraskan hingga 10× dengan Penguat Volume.
+- [Cara mengeraskan suara iPhone saat suaranya terlalu kecil](https://volumeboosting.com/id/panduan/cara-mengeraskan-suara-iphone/): Suara iPhone tetap kecil meski volume penuh? Cek pengaturan yang membatasi volume, speaker, dan Bluetooth, lalu buat file yang pelan hingga 10x lebih keras.
 
 ## How-to guides (Italiano)
 - [Italiano guides hub](https://volumeboosting.com/it/guide/)
@@ -239,13 +252,14 @@
 - [Come aumentare il volume di un video senza perdere qualità](https://volumeboosting.com/it/guide/aumentare-volume-senza-perdere-qualita/): Esagerare con il volume fa distorcere l'audio. Scopri cosa succede quando potenzi, quanto margine è sicuro e come verificare con Originale/Elaborato prima.
 - [Il limite di volume di iMovie (500%) e come superarlo](https://volumeboosting.com/it/guide/imovie-volume-oltre-500/): Su iPhone iMovie si ferma intorno al 500% per clip. Se non basta, Aumenta Volume porta lo stesso video a 10× con un solo cursore, senza progetto né riesportare.
 - [Come aumentare il volume di un podcast o audiolibro su iPhone](https://volumeboosting.com/it/guide/aumentare-volume-podcast-audiolibro-iphone/): Podcast, audiolibro o lezione registrata troppo bassi? In streaming usa il boost voce del lettore; i file che possiedi alzali fino a 10× con Aumenta Volume.
+- [Come aumentare il volume dell’iPhone quando è troppo basso](https://volumeboosting.com/it/guide/come-aumentare-il-volume-iphone/): iPhone troppo basso anche al massimo? Controlla le impostazioni che limitano il volume, pulisci l’altoparlante, verifica il Bluetooth e alza i file fino a 10×.
 
 ## How-to guides (日本語)
 - [日本語 guides hub](https://volumeboosting.com/ja/guide/)
 - [iPhoneで動画の音量を上げる方法](https://volumeboosting.com/ja/guide/iphone-douga-onryou-ageru/): iPhoneで音が小さい動画を1分で大きくする方法。写真アプリとiMovieでできること・できないこと、そして音量ブースターでスライダー1本で最大10倍に上げて新しいファイルとして保存する手順を解説します。処理はiPhone内で完結し、元のファイルはそのまま残ります。
 - [LINE・WhatsAppの音声メッセージが小さいときの対処法（iPhone）](https://volumeboosting.com/ja/guide/line-onsei-message-oto-chiisai/): 音声メッセージの音が小さいときは、まず近接センサーによる受話口再生を確認。録音自体が小さい場合は、メッセージを書き出して音量ブースターで最大10倍にし、保存・転送する手順を解説します。処理はiPhone内で完結し、元のファイルはそのまま残ります。
 - [iPhoneの画面収録の音が小さいときの対処法](https://volumeboosting.com/ja/guide/gamen-shuuroku-oto-chiisai/): iPhoneの画面収録はなぜ音が小さくなりがちなのか。次回もっと大きく録るための設定と、すでに撮った画面収録を音量ブースターで写真アプリから最大10倍にする手順を解説します。処理はiPhone内で完結し、元のファイルはそのまま残ります。
-- [iPhoneのボイスメモの音を大きくする方法](https://volumeboosting.com/ja/guide/voice-memo-oto-ookiku/): ボイスメモの「録音を補正」はノイズを減らしますが、ファイル自体は大きくなりません。小さい録音を音量ブースターで最大10倍にし、大きな音のコピーとして保存・共有する手順を解説します。処理はiPhone内で完結し、元のファイルはそのまま残ります。
+- [iPhoneのボイスメモの音量を上げる方法](https://volumeboosting.com/ja/guide/voice-memo-oto-ookiku/): iPhoneのボイスメモの音量を上げるには？「録音を補正」ではファイル自体は大きくなりません。無料でダウンロードできる音量ブースターで、録音した音を最大10倍に大きくして保存・共有する手順を解説します。元の録音はそのまま残ります。
 - [iPhoneで音楽の音量を上げる方法](https://volumeboosting.com/ja/guide/iphone-ongaku-oto-chiisai/): iPhoneで曲の音が小さいときは、まず「音量の自動調整」・イコライザ・ヘッドフォンの音量制限を確認。自分のMP3や録音ファイルは音量ブースターで最大10倍まで大きくできます。処理はiPhone内で完結し、元のファイルはそのまま残ります。
 - [iPhoneでMP3の音量を上げる方法](https://volumeboosting.com/ja/guide/mp3-onryou-ageru-iphone/): iPhoneでMP3・M4A・WAVの音が小さいときは、音量ブースターで最大10倍にして大きなコピーを保存できます。パソコンもアップロードも不要。手順、安全な倍率の目安、よくある質問をまとめました。処理はiPhone内で完結し、元のファイルはそのまま残ります。
 - [iPhoneで撮った動画の音が小さいのはなぜ？原因と対処法](https://volumeboosting.com/ja/guide/douga-oto-chiisai-riyuu/): iPhoneの動画の音が小さい原因は、距離、ふさがれたマイク、風、Bluetooth、ヘッドフォンの音量制限などがほとんど。原因を見分ける方法と、録音自体が小さい動画を最大10倍に上げる方法を解説します。処理はiPhone内で完結し、元のファイルはそのまま残ります。
@@ -254,6 +268,7 @@
 - [音質を落とさずに動画の音量を上げる方法](https://volumeboosting.com/ja/guide/onshitsu-ochizu-onryou-ageru/): 音量を上げすぎると音割れします。ブーストで何が起きるのか、どこまでなら安全か、そして保存前に「オリジナル／処理後」で確認する方法を、iPhoneの音量ブースターを使って手順つきで解説します。処理はiPhone内で完結し、元のファイルはそのまま残ります。
 - [iMovieの音量上限（500%）と、それを超える方法](https://volumeboosting.com/ja/guide/imovie-500-ijou/): iPhoneのiMovieはクリップごとに約500%で音量が止まります。それでも足りないときは、音量ブースターで同じ動画をスライダー1本で最大10倍に。プロジェクト作成や書き出し直しも不要です。処理はiPhone内で完結し、元のファイルはそのまま残ります。
 - [iPhoneでポッドキャストやオーディオブックの音量を上げる方法](https://volumeboosting.com/ja/guide/podcast-audiobook-onryou-ageru/): ポッドキャスト、オーディオブック、録音した講義の音が小さいとき。ストリーミングならプレーヤーの音声強調機能を、手持ちのファイルなら音量ブースターで最大10倍にする方法を解説します。処理はiPhone内で完結し、元のファイルはそのまま残ります。
+- [iPhoneの音量を上げる方法（最大でも小さいとき）](https://volumeboosting.com/ja/guide/iphone-onryou-ageru/): iPhoneの音量を最大にしても小さいときは、音量を制限している設定、スピーカーの汚れ、Bluetoothの出力先を順番に確認しましょう。それでも小さい動画や録音、ボイスメモは、無料アプリでファイル自体を最大10倍まで大きくできます。
 
 ## How-to guides (한국어)
 - [한국어 guides hub](https://volumeboosting.com/ko/guide/)
@@ -269,6 +284,7 @@
 - [음질 손실 없이 동영상 볼륨 키우는 방법](https://volumeboosting.com/ko/guide/eumjil-sonsil-eopsi-bollyum/): 볼륨을 너무 올리면 소리가 깨집니다. 부스트할 때 무슨 일이 일어나는지, 어디까지가 안전한지, 저장 전에 원본/처리본으로 확인하는 방법을 아이폰의 볼륨 부스터로 단계별로 설명합니다. 처리는 아이폰 안에서 끝나고 원본은 그대로 남습니다.
 - [iMovie의 볼륨 한계(500%)와 그것을 넘는 방법](https://volumeboosting.com/ko/guide/imovie-500-isang/): 아이폰 iMovie는 클립당 약 500%에서 음량이 멈춥니다. 그래도 부족하다면 볼륨 부스터로 같은 영상을 슬라이더 하나로 최대 10배까지 키우세요. 프로젝트 생성이나 다시 내보내기도 필요 없습니다. 처리는 아이폰 안에서 끝나고 원본은 그대로 남습니다.
 - [아이폰에서 팟캐스트·오디오북 소리 키우는 방법](https://volumeboosting.com/ko/guide/podcast-audiobook-bollyum/): 팟캐스트, 오디오북, 녹음한 강의 소리가 작을 때. 스트리밍이라면 플레이어의 음성 강화 기능을, 내가 가진 파일이라면 볼륨 부스터로 최대 10배까지 키우는 방법을 단계별로 정리했습니다. 처리는 아이폰 안에서 끝나고 원본은 그대로 남습니다.
+- [아이폰 소리 키우기 (최대로 해도 작을 때)](https://volumeboosting.com/ko/guide/iphone-soli-kiugi/): 아이폰 볼륨을 최대로 해도 소리가 작다면 볼륨을 제한하는 설정, 스피커 먼지, 블루투스 출력을 차례로 확인하세요. 그래도 작은 동영상, 음성 메모, 녹음 파일은 무료 앱으로 파일 자체를 최대 10배까지 증폭할 수 있습니다.
 
 ## How-to guides (Bahasa Melayu)
 - [Bahasa Melayu guides hub](https://volumeboosting.com/ms/panduan/)
@@ -284,6 +300,7 @@
 - [Cara kuatkan suara video tanpa hilang kualiti](https://volumeboosting.com/ms/panduan/kuatkan-suara-tanpa-hilang-kualiti/): Penguatan berlebihan menyebabkan suara pecah. Fahami apa yang berlaku semasa kelantangan dinaikkan, had selamatnya dan cara menyemak hasil dengan Asal/Diproses.
 - [Had kelantangan iMovie (500%) dan cara melepasinya](https://volumeboosting.com/ms/panduan/imovie-volume-lebih-500/): iMovie di iPhone berhenti sekitar 500% bagi setiap klip. Jika belum cukup, Penguat Volume Bunyi membawa video sama ke 10× dengan satu peluncur, tanpa projek.
 - [Cara kuatkan podcast atau buku audio di iPhone](https://volumeboosting.com/ms/panduan/kuatkan-podcast-buku-audio-iphone/): Podcast, buku audio atau kuliah terlalu perlahan? Semasa strim guna penguat suara pemain; fail milik anda kuatkan hingga 10× dengan Penguat Volume Bunyi.
+- [Cara kuatkan suara iPhone bila bunyinya terlalu perlahan](https://volumeboosting.com/ms/panduan/cara-kuatkan-suara-iphone/): iPhone masih perlahan walaupun pada kelantangan penuh? Semak tetapan yang mengehadkan bunyi, pembesar suara dan Bluetooth, dan kuatkan fail hingga 10x ganda.
 
 ## How-to guides (Nederlands)
 - [Nederlands guides hub](https://volumeboosting.com/nl/handleidingen/)
@@ -299,6 +316,7 @@
 - [Een video harder maken zonder kwaliteitsverlies](https://volumeboosting.com/nl/handleidingen/harder-maken-zonder-kwaliteitsverlies/): Te ver versterken laat het geluid vervormen. Lees wat er bij versterken gebeurt, hoeveel ruimte veilig is en hoe je het resultaat vooraf controleert op iPhone.
 - [De volumegrens van iMovie (500%) en hoe je erboven komt](https://volumeboosting.com/nl/handleidingen/imovie-volume-boven-500/): iMovie op iPhone stopt rond 500% per clip. Niet genoeg? Audioversterker brengt dezelfde video met één schuifregelaar naar 10×, zonder project of nieuwe export.
 - [Een podcast of luisterboek harder maken op iPhone](https://volumeboosting.com/nl/handleidingen/podcast-luisterboek-harder-iphone/): Podcast, luisterboek of college te zacht? Gebruik bij streamen de spraakversterking van je speler; eigen bestanden maak je tot 10× harder met Audioversterker.
+- [iPhone volume verhogen als het geluid te zacht is](https://volumeboosting.com/nl/handleidingen/iphone-volume-verhogen/): Is je iPhone zelfs op maximaal volume te zacht? Controleer de instellingen die geluid beperken, maak de speaker schoon en maak zachte bestanden tot 10× harder.
 
 ## How-to guides (Norsk)
 - [Norsk guides hub](https://volumeboosting.com/no/guider/)
@@ -314,6 +332,7 @@
 - [Slik gjør du video og lyd høyere uten kvalitetstap](https://volumeboosting.com/no/guider/hoyere-uten-kvalitetstap/): Når skurrer lyden, og når gjør den ikke? Slik velger du riktig multiplikasjon, lytter til Original/Behandlet og gjør video høyere uten at bildet endres.
 - [iMovie-volum over 500 %: slik går du forbi grensen](https://volumeboosting.com/no/guider/imovie-volum-over-500/): Volumglidebryteren i iMovie på iPhone stopper rundt 500 %. Slik gjør du klippet opptil 1000 % (10×) høyere med Volumforsterker før eller etter iMovie.
 - [Podkast eller lydbok for lav på iPhone: løsningene](https://volumeboosting.com/no/guider/podkast-lydbok-hoyere-iphone/): Podkast eller lydbok for lav på iPhone? Sjekk Forbedre stemmer i Podkaster, og gjør nedlastede MP3- og M4A-episoder opptil 10× høyere med Volumforsterker.
+- [Slik får du høyere volum på iPhone når lyden er for lav](https://volumeboosting.com/no/guider/hoyere-volum-iphone/): Er iPhone for lav selv på fullt volum? Sjekk innstillingene som begrenser lyden, rens høyttaleren, sjekk Bluetooth og gjør lave filer opptil 10 ganger høyere.
 
 ## How-to guides (Polski)
 - [Polski guides hub](https://volumeboosting.com/pl/poradniki/)
@@ -329,6 +348,7 @@
 - [Jak zgłośnić film i dźwięk bez utraty jakości](https://volumeboosting.com/pl/poradniki/glosniej-bez-utraty-jakosci/): Kiedy dźwięk się przesterowuje, a kiedy nie? Jak dobrać mnożnik, odsłuchać Oryginał/Przetworzony i zgłośnić film tak, by obraz i jakość pozostały bez zmian.
 - [Głośność w iMovie powyżej 500%: jak ominąć limit](https://volumeboosting.com/pl/poradniki/imovie-glosnosc-powyzej-500/): Suwak głośności w iMovie na iPhonie zatrzymuje się na ok. 500%. Jak zgłośnić klip do 1000% (10×) w Volume Boost przed iMovie albo po eksporcie z niego.
 - [Podcast lub audiobook za cichy na iPhonie: rozwiązania](https://volumeboosting.com/pl/poradniki/cichy-podcast-audiobook-iphone/): Podcast lub audiobook za cichy? Sprawdź ustawienia aplikacji Podcasty i słuchawek, a pobrane odcinki MP3 i M4A zgłośnij nawet 10× w aplikacji Volume Boost.
+- [Jak zwiększyć głośność iPhone’a, gdy gra za cicho](https://volumeboosting.com/pl/poradniki/jak-zwiekszyc-glosnosc-iphone/): iPhone za cichy nawet na maksimum? Sprawdź ustawienia ograniczające dźwięk, wyczyść głośnik, zweryfikuj Bluetooth i zrób ciche pliki nawet 10 razy głośniejsze.
 
 ## How-to guides (Português)
 - [Português guides hub](https://volumeboosting.com/pt/guias/)
@@ -344,6 +364,7 @@
 - [Como deixar vídeo e áudio mais altos sem perder qualidade](https://volumeboosting.com/pt/guias/aumentar-volume-sem-perder-qualidade/): Quando o som estoura e quando não? Veja como escolher a multiplicação, ouvir Original/Processado e deixar um vídeo mais alto sem que a imagem mude em nada.
 - [Volume do iMovie acima de 500%: como passar do limite](https://volumeboosting.com/pt/guias/imovie-volume-acima-de-500/): O volume do iMovie no iPhone para em cerca de 500%. Veja como deixar o clipe até 1000% (10×) mais alto com o app Aumentar Volume, antes ou depois do iMovie.
 - [Podcast ou audiolivro baixo no iPhone: as soluções](https://volumeboosting.com/pt/guias/podcast-audiolivro-baixo-iphone/): Podcast ou audiolivro baixo? Confira os ajustes do app Podcasts e dos fones, e deixe episódios MP3 e M4A baixados até 10× mais altos com o app Aumentar Volume.
+- [Como aumentar o volume do iPhone quando o som está baixo](https://volumeboosting.com/pt/guias/aumentar-volume-iphone/): iPhone baixo mesmo no máximo? Confira os ajustes que limitam o som, limpe o alto-falante, verifique o Bluetooth e aumente seus arquivos em até 10 vezes.
 
 ## How-to guides (Română)
 - [Română guides hub](https://volumeboosting.com/ro/ghiduri/)
@@ -359,6 +380,7 @@
 - [Cum faci video și audio mai tari fără pierderea calității](https://volumeboosting.com/ro/ghiduri/volum-mai-tare-fara-pierderea-calitatii/): Când sună spart sunetul și când nu? Cum alegi multiplicarea, asculți Original/Procesat și faci un videoclip mai tare fără ca imaginea să se schimbe deloc.
 - [Volum în iMovie peste 500%: cum treci de limită](https://volumeboosting.com/ro/ghiduri/imovie-volum-peste-500/): Cursorul de volum din iMovie pe iPhone se oprește la circa 500%. Cum faci clipul de până la 1000% (10×) mai tare cu Volume Boost, înainte sau după iMovie.
 - [Podcast sau audiobook prea încet pe iPhone: soluțiile](https://volumeboosting.com/ro/ghiduri/podcast-audiobook-incet-iphone/): Podcast sau audiobook prea încet? Verifică setările din Podcasturi și din căști, iar episoadele MP3 și M4A descărcate fă-le de până la 10× mai tari pe iPhone.
+- [Cum mărești volumul pe iPhone când sunetul e prea încet](https://volumeboosting.com/ro/ghiduri/cum-maresti-volumul-pe-iphone/): iPhone-ul se aude încet chiar la maxim? Verifică setările care limitează volumul, difuzorul și Bluetooth-ul și fă fișierele încete de până la 10 ori mai tari.
 
 ## How-to guides (Русский)
 - [Русский guides hub](https://volumeboosting.com/ru/instrukcii/)
@@ -374,6 +396,7 @@
 - [Как сделать видео и аудио громче без потери качества](https://volumeboosting.com/ru/instrukcii/gromche-bez-poteri-kachestva/): Когда звук хрипит, а когда нет? Как выбрать множитель, прослушать «Оригинал/Обработано» и сделать видео громче так, чтобы картинка совсем не изменилась.
 - [Громкость в iMovie больше 500%: как обойти предел](https://volumeboosting.com/ru/instrukcii/imovie-gromkost-bolshe-500/): Ползунок громкости в iMovie на iPhone останавливается около 500%. Как сделать клип громче до 1000% (10×) в приложении «Увеличить Громкость» до или после iMovie.
 - [Тихий подкаст или аудиокнига на iPhone: решения](https://volumeboosting.com/ru/instrukcii/tikhiy-podkast-audiokniga-iphone/): Подкаст или аудиокнига играют тихо? Проверьте настройки «Подкастов» и наушников, а скачанные выпуски MP3 и M4A сделайте громче до 10× в приложении на iPhone.
+- [Как увеличить громкость на айфоне, если звук тихий](https://volumeboosting.com/ru/instrukcii/kak-uvelichit-gromkost-iphone/): Айфон тихий даже на максимуме? Проверьте настройки, которые ограничивают звук, почистите динамик, проверьте Bluetooth и сделайте тихие файлы громче до 10 раз.
 
 ## How-to guides (Slovenčina)
 - [Slovenčina guides hub](https://volumeboosting.com/sk/navody/)
@@ -389,6 +412,7 @@
 - [Ako spraviť video a zvuk hlasnejším bez straty kvality](https://volumeboosting.com/sk/navody/hlasnejsie-bez-straty-kvality/): Kedy zvuk chrčí a kedy nie? Ako vybrať správny násobok, vypočuť si Pôvodné/Spracované a spraviť video hlasnejším tak, aby sa obraz vôbec nijako nezmenil.
 - [Hlasitosť v iMovie nad 500 %: ako obísť limit](https://volumeboosting.com/sk/navody/imovie-hlasitost-nad-500/): Posúvač hlasitosti v iMovie na iPhone končí okolo 500 %. Ako zosilniť klip až na 1000 % (10×) vo Volume Boost, ešte pred iMovie alebo po exporte z neho.
 - [Tichý podcast alebo audiokniha na iPhone: riešenia](https://volumeboosting.com/sk/navody/tichy-podcast-audiokniha-iphone/): Podcast alebo audiokniha hrá potichu? Skontroluj nastavenia Podcastov a slúchadiel a stiahnuté epizódy MP3 a M4A zosilni až 10× vo Volume Boost na iPhone.
+- [Ako zosilniť hlasitosť iPhonu, keď hrá potichu](https://volumeboosting.com/sk/navody/ako-zosilnit-hlasitost-iphone/): iPhone hrá potichu aj na maximum? Skontroluj nastavenia, ktoré obmedzujú zvuk, vyčisti reproduktor, over Bluetooth a zosilni tiché súbory až desaťkrát v iPhone.
 
 ## How-to guides (Svenska)
 - [Svenska guides hub](https://volumeboosting.com/sv/guider/)
@@ -404,6 +428,7 @@
 - [Så gör du video och ljud högre utan kvalitetsförlust](https://volumeboosting.com/sv/guider/hogre-utan-kvalitetsforlust/): När sprakar ljudet, och när gör det inte det? Så väljer du rätt multiplikation, lyssnar på Original/Bearbetad och gör video högre utan att bilden ändras.
 - [iMovie-volym över 500 %: så går du förbi gränsen](https://volumeboosting.com/sv/guider/imovie-volym-over-500/): Volymreglaget i iMovie på iPhone stannar runt 500 %. Så gör du klippet upp till 1000 % (10×) högre med Volymförstärkare, före iMovie eller efter exporten.
 - [Podd eller ljudbok för låg på iPhone: lösningarna](https://volumeboosting.com/sv/guider/podd-ljudbok-for-lag-iphone/): Podden eller ljudboken för låg? Kolla röstförstärkning och hörlursinställningar, och gör nedladdade MP3- och M4A-avsnitt upp till 10× högre med appen.
+- [Så höjer du volymen på iPhone när ljudet är för lågt](https://volumeboosting.com/sv/guider/hoja-volymen-iphone/): Låter iPhone för lågt även på max? Kolla inställningarna som begränsar ljudet, rengör högtalaren, kolla Bluetooth och gör tysta filer upp till 10 gånger högre.
 
 ## How-to guides (Български)
 - [Български guides hub](https://volumeboosting.com/bg/rakovodstva/)
@@ -419,6 +444,7 @@
 - [Как да направите видео и звук по-силни без загуба на качество](https://volumeboosting.com/bg/rakovodstva/po-silno-bez-zaguba-na-kachestvo/): Кога звукът хрипти и кога не? Как да изберете умножението, да чуете „Оригинал/Обработен“ и да направите видеото по-силно, без картината да се промени изобщо.
 - [Сила на звука в iMovie над 500%: как да минете границата](https://volumeboosting.com/bg/rakovodstva/imovie-sila-na-zvuka-nad-500/): Плъзгачът за звука в iMovie на iPhone спира около 500%. Как да усилите клипа до 1000% (10×) с Increase Volume, преди iMovie или след експорта от него.
 - [Тих подкаст или аудиокнига на iPhone: решения](https://volumeboosting.com/bg/rakovodstva/tih-podkast-audiokniga-iphone/): Подкастът или аудиокнигата звучат тихо? Проверете настройките на „Подкасти“ и слушалките, а изтеглените MP3 и M4A епизоди усилете до 10× с Increase Volume.
+- [Как да усилите звука на iPhone, когато е твърде тих](https://volumeboosting.com/bg/rakovodstva/kak-da-usilite-zvuka-na-iphone/): iPhone звучи тихо дори на максимум? Проверете настройките, които ограничават звука, високоговорителя и Bluetooth и направете тих файл до 10 пъти по-силен.
 
 ## How-to guides (Slovenščina)
 - [Slovenščina guides hub](https://volumeboosting.com/sl/vodniki/)
@@ -434,6 +460,7 @@
 - [Kako narediti video in zvok glasnejši brez izgube kakovosti](https://volumeboosting.com/sl/vodniki/glasneje-brez-izgube-kakovosti/): Kdaj zvok hrešči in kdaj ne? Kako izbereš pravi množitelj, poslušaš Izvirnik/Obdelano in narediš video glasnejši, ne da bi se slika kakorkoli spremenila.
 - [Glasnost v iMovie nad 500 %: kako preseči mejo](https://volumeboosting.com/sl/vodniki/imovie-glasnost-nad-500/): Drsnik glasnosti v iMovie na iPhonu se ustavi pri približno 500 %. Kako posnetek ojačaš do 1000 % (10×) z Increase Volume, pred iMovie ali po izvozu iz njega.
 - [Tih podkast ali zvočna knjiga na iPhonu: rešitve](https://volumeboosting.com/sl/vodniki/tih-podcast-zvocna-knjiga-iphone/): Podkast ali zvočna knjiga igra tiho? Preveri nastavitve Podcastov in slušalk, prenesene epizode MP3 in M4A pa ojači do 10× z Increase Volume na iPhonu.
+- [Kako povečati glasnost na iPhonu, ko je zvok pretih](https://volumeboosting.com/sl/vodniki/kako-povecati-glasnost-na-iphonu/): Je iPhone tih tudi na največji glasnosti? Preveri nastavitve, ki omejujejo glasnost, zvočnik in Bluetooth, ter naredi tihe datoteke do 10-krat glasnejše.
 
 ## How-to guides (Català)
 - [Català guides hub](https://volumeboosting.com/ca/guies/)
@@ -449,6 +476,7 @@
 - [Com fer més forts vídeo i àudio sense perdre qualitat](https://volumeboosting.com/ca/guies/mes-fort-sense-perdre-qualitat/): Quan sona trencat el so i quan no? Com triar la multiplicació, escoltar Original/Processat i fer un vídeo més fort sense que la imatge canviï gens ni mica.
 - [Volum d'iMovie per sobre del 500 %: com superar el límit](https://volumeboosting.com/ca/guies/imovie-volum-mes-de-500/): El control de volum d'iMovie a l'iPhone s'atura cap al 500 %. Com fer el clip fins a un 1000 % (10×) més fort amb Augmenta Volum Vídeo, abans o després.
 - [Pòdcast o audiollibre fluix a l'iPhone: les solucions](https://volumeboosting.com/ca/guies/podcast-audiollibre-fluix-iphone/): El pòdcast o l'audiollibre sona fluix? Revisa els ajustos de Podcasts i dels auriculars, i fes els episodis MP3 i M4A descarregats fins a 10× més forts.
+- [Com pujar el volum de l'iPhone quan sona massa fluix](https://volumeboosting.com/ca/guies/com-pujar-el-volum-de-l-iphone/): L'iPhone sona fluix fins i tot al màxim? Revisa els ajustos que limiten el volum, l'altaveu i el Bluetooth, i fes que un fitxer soni fins a 10 vegades més fort.
 
 ## How-to guides (हिन्दी)
 - [हिन्दी guides hub](https://volumeboosting.com/hi/guide/)
@@ -464,6 +492,7 @@
 - [बिना क्वालिटी खोए वीडियो और ऑडियो की आवाज़ कैसे बढ़ाएँ](https://volumeboosting.com/hi/guide/bina-quality-kharab-awaz-badhaye/): आवाज़ कब फटती है और कब नहीं? सही गुणन चुनें, मूल/प्रोसेस्ड सुनें और वीडियो को तेज़ करें, बिना तस्वीर में ज़रा भी बदलाव के। प्राइवेसी भी समझें।
 - [iMovie में 500% से ज़्यादा वॉल्यूम: सीमा कैसे पार करें](https://volumeboosting.com/hi/guide/imovie-volume-500-se-zyada/): iPhone पर iMovie का वॉल्यूम स्लाइडर लगभग 500% पर रुकता है। वॉल्यूम बूस्टर से क्लिप को 1000% (10×) तक तेज़ करें, iMovie से पहले या एक्सपोर्ट के बाद।
 - [iPhone पर पॉडकास्ट या ऑडियोबुक की आवाज़ कम: हल](https://volumeboosting.com/hi/guide/podcast-audiobook-awaz-kam-iphone/): पॉडकास्ट या ऑडियोबुक धीमा बजता है? Podcasts ऐप और हेडफ़ोन की सेटिंग जाँचें, और डाउनलोड किए MP3 व M4A एपिसोड वॉल्यूम बूस्टर से 10× तक तेज़ करें।
+- [iPhone की आवाज़ कैसे बढ़ाएँ जब वह बहुत धीमी हो](https://volumeboosting.com/hi/guide/iphone-ki-awaz-kaise-badhaye/): फुल वॉल्यूम पर भी iPhone धीमा है? वॉल्यूम रोकने वाली सेटिंग्ज़, स्पीकर और Bluetooth जाँचें, और धीमी फ़ाइल को 10 गुना तक तेज़ करें।
 
 ## How-to guides (বাংলা)
 - [বাংলা guides hub](https://volumeboosting.com/bn/guide/)
@@ -479,6 +508,7 @@
 - [কোয়ালিটি না কমিয়ে ভিডিও ও অডিও কীভাবে জোরালো করবেন](https://volumeboosting.com/bn/guide/quality-na-komiye-awaj-barano/): আওয়াজ কখন ফাটে আর কখন ফাটে না? সঠিক গুণন বাছুন, আসল/প্রসেসড শুনুন এবং ছবি একটুও না বদলে ভিডিও জোরালো করুন। প্রাইভেসির বিষয়ও জানুন।
 - [iMovie-তে ৫০০%-এর বেশি ভলিউম: সীমা কীভাবে পার হবেন](https://volumeboosting.com/bn/guide/imovie-volume-500-er-beshi/): iPhone-এ iMovie-র ভলিউম স্লাইডার প্রায় ৫০০%-এ থামে। Increase Volume দিয়ে ক্লিপ ১০০০% (১০×) পর্যন্ত জোরালো করুন, iMovie-র আগে বা এক্সপোর্টের পরে।
 - [iPhone-এ পডকাস্ট বা অডিওবুকের আওয়াজ কম: সমাধান](https://volumeboosting.com/bn/guide/podcast-audiobook-awaj-kom-iphone/): পডকাস্ট বা অডিওবুক আস্তে বাজে? Podcasts অ্যাপ ও হেডফোনের সেটিং দেখুন, আর ডাউনলোড করা MP3 ও M4A পর্ব Increase Volume দিয়ে ১০× পর্যন্ত জোরালো করুন।
+- [iPhone-এর আওয়াজ খুব কম হলে কীভাবে বাড়াবেন](https://volumeboosting.com/bn/guide/iphone-er-awaj-barano/): পুরো ভলিউমেও iPhone আস্তে বাজছে? ভলিউম সীমিত করা সেটিংস, স্পিকার ও Bluetooth দেখুন, আর আস্তে ফাইলকে ১০ গুণ পর্যন্ত জোরে করুন।
 
 ## How-to guides (தமிழ்)
 - [தமிழ் guides hub](https://volumeboosting.com/ta/guide/)
@@ -494,6 +524,7 @@
 - [தரம் குறையாமல் வீடியோ, ஆடியோவை உரத்ததாக்குவது எப்படி](https://volumeboosting.com/ta/guide/quality-kuraiyamal-sound-athigarikka/): சத்தம் எப்போது உடையும், எப்போது உடையாது? சரியான பெருக்கத்தைத் தேர்ந்தெடுத்து, அசல்/செயலாக்கப்பட்டதைக் கேட்டு, படம் மாறாமல் வீடியோவை உரத்ததாக்குங்கள்.
 - [iMovie-ல் 500%-க்கு மேல் ஒலியளவு: வரம்பைத் தாண்டுவது எப்படி](https://volumeboosting.com/ta/guide/imovie-volume-500-mel/): iPhone-ல் iMovie ஒலியளவு ஸ்லைடர் சுமார் 500%-ல் நிற்கும். Increase Volume மூலம் கிளிப்பை 1000% (10×) வரை உரத்ததாக்குங்கள், iMovie-க்கு முன் அல்லது பின்.
 - [iPhone-ல் பாட்காஸ்ட் அல்லது ஆடியோபுக் சத்தம் குறைவு: தீர்வுகள்](https://volumeboosting.com/ta/guide/podcast-audiobook-sound-kammi-iphone/): பாட்காஸ்ட் அல்லது ஆடியோபுக் மெதுவாக ஒலிக்கிறதா? Podcasts செயலி, ஹெட்ஃபோன் அமைப்புகளைப் பாருங்கள்; பதிவிறக்கிய MP3, M4A எபிசோட்களை 10× வரை உரத்ததாக்குங்கள்.
+- [iPhone சத்தம் மிகக் குறைவாக இருந்தால் வால்யூம் அதிகரிப்பது எப்படி](https://volumeboosting.com/ta/guide/iphone-volume-athigarippathu-eppadi/): முழு வால்யூமிலும் iPhone சத்தம் குறைவா? வால்யூமைக் கட்டுப்படுத்தும் அமைப்புகள், ஸ்பீக்கர், Bluetooth-ஐச் சரிபார்த்து, கோப்பை 10 மடங்கு வரை உரக்கச் செய்யுங்கள்.
 
 ## How-to guides (తెలుగు)
 - [తెలుగు guides hub](https://volumeboosting.com/te/guide/)
@@ -509,6 +540,7 @@
 - [క్వాలిటీ తగ్గకుండా సౌండ్ ఎలా పెంచాలి](https://volumeboosting.com/te/guide/quality-taggakunda-sound-penchadam/): సౌండ్ పెంచినప్పుడు ఎందుకు చెదిరిపోతుంది, దాన్ని ఎలా నివారించాలి: హెడ్‌రూమ్, మెట్లవారీ బూస్ట్, పోలిక. వీడియో చిత్రం మారదు, ప్రాసెసింగ్ iPhoneలోనే.
 - [iMovie వాల్యూమ్ పరిమితి: వీడియోను 500% కంటే ఎక్కువ బూస్ట్ చేయడం](https://volumeboosting.com/te/guide/imovie-volume-500-paina/): iPhone iMovieలో క్లిప్ వాల్యూమ్ సుమారు 500% వద్ద ఆగుతుంది. ఎగుమతి చేసిన వీడియోను Increase Volumeలో తెరిచి 10× వరకు బూస్ట్ చేయండి, లేదా రెండింటినీ కలిపి వాడండి.
 - [iPhoneలో పాడ్‌కాస్ట్ మరియు ఆడియోబుక్ సౌండ్ ఎలా పెంచాలి](https://volumeboosting.com/te/guide/podcast-audiobook-sound-takkuva-iphone/): కొన్ని పాడ్‌కాస్ట్ ఎపిసోడ్‌లు, ఆడియోబుక్‌లు చాలా మెల్లగా ఉంటాయి. సెట్టింగ్‌లు సరిచేయండి, మీ స్వంత ఆడియో ఫైళ్లను Increase Volumeతో 10× వరకు బిగ్గరగా చేయండి.
+- [iPhone సౌండ్ మరీ తక్కువగా ఉంటే వాల్యూమ్ పెంచడం ఎలా](https://volumeboosting.com/te/guide/iphone-volume-penchadam-ela/): ఫుల్ వాల్యూమ్‌లోనూ iPhone సౌండ్ తక్కువా? వాల్యూమ్‌ను పరిమితం చేసే సెట్టింగ్‌లు, స్పీకర్, Bluetooth చెక్ చేసి, తక్కువ ఫైల్‌ను 10 రెట్ల వరకు బిగ్గరగా చేయండి.
 
 ## How-to guides (മലയാളം)
 - [മലയാളം guides hub](https://volumeboosting.com/ml/guide/)
@@ -524,6 +556,7 @@
 - [ക്വാളിറ്റി കുറയാതെ സൗണ്ട് കൂട്ടുന്നത് എങ്ങനെ](https://volumeboosting.com/ml/guide/quality-kurayathe-sound-koottan/): സൗണ്ട് കൂട്ടുമ്പോൾ എന്തുകൊണ്ട് പൊട്ടുന്നു, എങ്ങനെ ഒഴിവാക്കാം: ഹെഡ്റൂം, പടിപടിയായുള്ള ബൂസ്റ്റ്, താരതമ്യം. വീഡിയോ ചിത്രം മാറില്ല, പ്രോസസ്സിങ് iPhone-ൽ തന്നെ.
 - [iMovie വോളിയം പരിധി: വീഡിയോ 500%-ൽ കൂടുതൽ ബൂസ്റ്റ് ചെയ്യാം](https://volumeboosting.com/ml/guide/imovie-volume-500-mukalil/): iPhone iMovie-യിൽ ക്ലിപ്പ് വോളിയം ഏകദേശം 500%-ൽ നിൽക്കും. എക്സ്പോർട്ട് ചെയ്ത വീഡിയോ Increase Volume-ൽ തുറന്ന് 10× വരെ ബൂസ്റ്റ് ചെയ്യൂ.
 - [iPhone-ൽ പോഡ്കാസ്റ്റ്, ഓഡിയോബുക്ക് സൗണ്ട് കൂട്ടുന്നത് എങ്ങനെ](https://volumeboosting.com/ml/guide/podcast-audiobook-sound-kuravu-iphone/): ചില പോഡ്കാസ്റ്റ് എപ്പിസോഡുകളും ഓഡിയോബുക്കുകളും വളരെ മൃദുവാണ്. ക്രമീകരണം ശരിയാക്കൂ, സ്വന്തം ഓഡിയോ ഫയലുകൾ Increase Volume-ൽ 10× വരെ ഉച്ചത്തിലാക്കൂ.
+- [iPhone ശബ്ദം വളരെ കുറവാണെങ്കിൽ വോളിയം എങ്ങനെ കൂട്ടാം](https://volumeboosting.com/ml/guide/iphone-volume-koottan/): ഫുൾ വോളിയത്തിലും iPhone ശബ്ദം കുറവാണോ? വോളിയം പരിമിതപ്പെടുത്തുന്ന ക്രമീകരണങ്ങൾ, സ്പീക്കർ, Bluetooth പരിശോധിച്ച് കുറഞ്ഞ ഫയൽ 10 മടങ്ങ് വരെ ഉച്ചത്തിലാക്കൂ.
 
 ## How-to guides (ไทย)
 - [ไทย guides hub](https://volumeboosting.com/th/guide/)
@@ -539,6 +572,7 @@
 - [วิธีเพิ่มเสียงโดยไม่เสียคุณภาพ](https://volumeboosting.com/th/guide/phoem-siang-mai-taek/): ทำไมเสียงแตกเมื่อบูสต์ และหลีกเลี่ยงอย่างไร: เฮดรูม การบูสต์ทีละขั้น และการฟังเทียบ ภาพวิดีโอไม่เปลี่ยน และประมวลผลบน iPhone ทั้งหมด
 - [ขีดจำกัดเสียงของ iMovie: บูสต์วิดีโอให้เกิน 500%](https://volumeboosting.com/th/guide/imovie-phoem-siang-koen-500/): iMovie บน iPhone ปรับเสียงคลิปได้สูงสุดราว 500% เปิดวิดีโอที่ส่งออกแล้วในบูสเตอร์เสียงเพื่อบูสต์ได้ถึง 10 เท่า หรือใช้ทั้งสองแอปร่วมกัน
 - [วิธีเพิ่มเสียงพอดแคสต์และหนังสือเสียงบน iPhone](https://volumeboosting.com/th/guide/podcast-audiobook-siang-bao/): พอดแคสต์บางตอนและหนังสือเสียงบางเล่มเบากว่าปกติมาก แก้การตั้งค่า และทำไฟล์เสียงของคุณเองให้ดังขึ้นได้ถึง 10 เท่าด้วยบูสเตอร์เสียง
+- [วิธีเพิ่มเสียง iPhone เมื่อเสียงเบาเกินไป](https://volumeboosting.com/th/guide/phoem-siang-iphone/): iPhone เสียงเบาแม้เปิดสุดแล้ว? ตรวจการตั้งค่าที่จำกัดเสียง ลำโพง และ Bluetooth แล้วทำให้ไฟล์ที่เบาดังขึ้นได้สูงสุด 10 เท่า
 
 ## How-to guides (Türkçe)
 - [Türkçe guides hub](https://volumeboosting.com/tr/guide/)
@@ -554,6 +588,7 @@
 - [Kalite kaybetmeden ses nasıl yükseltilir](https://volumeboosting.com/tr/guide/kalite-kaybetmeden-ses-yukseltme/): Ses güçlendirince neden cızırdar ve nasıl önlenir: headroom, kademeli güçlendirme ve karşılaştırma. Görüntü değişmez, tüm işlem iPhone'unuzda gerçekleşir.
 - [iMovie ses sınırı: videoyu %500'ün üzerine çıkarmak](https://volumeboosting.com/tr/guide/imovie-ses-500-uzeri/): iPhone'daki iMovie'de klip sesi yaklaşık %500'de durur. Dışa aktarılan videoyu Ses Yükseltici'de açıp 10 kata kadar güçlendirin ya da ikisini birlikte kullanın.
 - [iPhone'da podcast ve sesli kitap sesi nasıl yükseltilir](https://volumeboosting.com/tr/guide/podcast-sesli-kitap-sesi-dusuk/): Bazı podcast bölümleri ve sesli kitaplar diğerlerinden çok daha kısık. Ayarları düzeltin, kendi ses dosyalarınızı Ses Yükseltici ile 10 kata kadar yükseltin.
+- [iPhone ses yükseltme: ses düşükse ne yapmalı](https://volumeboosting.com/tr/guide/iphone-ses-yukseltme/): iPhone sonuna kadar açıkken bile sesi düşük mü? Sesi sınırlayan ayarları kapatın, hoparlörü temizleyin, Bluetooth'u kontrol edin ve dosyaları 10 kata yükseltin.
 
 ## How-to guides (Українська)
 - [Українська guides hub](https://volumeboosting.com/uk/guide/)
@@ -569,6 +604,7 @@
 - [Як збільшити гучність без втрати якості](https://volumeboosting.com/uk/guide/huchnist-bez-vtraty-yakosti/): Чому звук хрипить після підсилення і як цього уникнути: запас рівня, поступове підсилення, порівняння. Зображення не змінюється, обробка йде на вашому iPhone.
 - [Обмеження гучності iMovie: як підсилити відео понад 500%](https://volumeboosting.com/uk/guide/imovie-huchnist-ponad-500/): В iMovie на iPhone гучність кліпу обмежена приблизно 500%. Відкрийте експортоване відео в «Підсилювачі гучності 10x» і підсильте до 10 разів або поєднайте їх.
 - [Як збільшити гучність подкаста й аудіокниги на iPhone](https://volumeboosting.com/uk/guide/tykhyi-podkast-audioknyha-iphone/): Деякі епізоди подкастів та аудіокниги значно тихіші за інші. Виправте налаштування й зробіть власні аудіофайли до 10 разів гучнішими в «Підсилювачі гучності».
+- [Як збільшити гучність на iPhone, коли звук занадто тихий](https://volumeboosting.com/uk/guide/yak-zbilshyty-huchnist-na-iphone/): iPhone тихий навіть на максимумі? Перевірте налаштування, що обмежують гучність, динамік і Bluetooth, і зробіть тихий файл гучнішим до 10 разів за хвилину.
 
 ## How-to guides (Tiếng Việt)
 - [Tiếng Việt guides hub](https://volumeboosting.com/vi/guide/)
@@ -584,6 +620,7 @@
 - [Cách tăng âm lượng mà không giảm chất lượng](https://volumeboosting.com/vi/guide/tang-am-luong-khong-giam-chat-luong/): Vì sao âm thanh bị rè khi tăng và cách tránh: khoảng trống mức âm, tăng từng nấc và so sánh. Hình ảnh video không đổi, mọi xử lý diễn ra ngay trên iPhone.
 - [Giới hạn âm lượng iMovie: tăng video vượt 500%](https://volumeboosting.com/vi/guide/imovie-tang-am-luong-tren-500/): Trong iMovie trên iPhone, âm lượng clip dừng ở khoảng 500%. Mở video đã xuất trong Tăng Âm Lượng Video để tăng đến 10 lần, hoặc kết hợp cả hai ứng dụng.
 - [Cách tăng âm lượng podcast và sách nói trên iPhone](https://volumeboosting.com/vi/guide/podcast-sach-noi-tieng-nho/): Một số tập podcast và sách nói nhỏ hơn hẳn các tập khác. Sửa cài đặt, và làm các tệp âm thanh của riêng bạn to hơn đến 10 lần với ứng dụng Tăng Âm Lượng Video.
+- [Cách tăng âm lượng iPhone khi âm thanh quá nhỏ](https://volumeboosting.com/vi/guide/cach-tang-am-luong-iphone/): iPhone vẫn nhỏ dù đã mở hết cỡ? Kiểm tra cài đặt giới hạn âm lượng, loa và Bluetooth, rồi làm tệp âm thanh nhỏ to hơn tới 10 lần chỉ trong khoảng một phút.
 
 ## How-to guides (简体中文)
 - [简体中文 guides hub](https://volumeboosting.com/zh/guide/)
@@ -599,6 +636,7 @@
 - [如何放大音量又不损失音质](https://volumeboosting.com/zh/guide/bu-shizhen-fangda-yinliang/): 为什么放大声音后会破音，又该如何避免：理解余量、逐级放大、放大前后对比试听。整个过程视频画面完全不变，所有处理都在 iPhone 本地完成，不上传、不需要账号，文件不会离开你的手机，隐私更安心。可在 App Store 免费下载并免费试用。
 - [iMovie 音量上限：把视频放大到 500% 以上](https://volumeboosting.com/zh/guide/imovie-yinliang-chaoguo-500/): iPhone 版 iMovie 的片段音量最高约 500%，对很小声的视频往往不够。把导出的视频在「音量放大器」中打开，可再最高放大 10 倍；也可以先用 iMovie 剪辑、再用 App 补足音量，两者结合使用效果最好。可在 App Store 免费下载并免费试用。
 - [如何在 iPhone 上放大播客和有声书的声音](https://volumeboosting.com/zh/guide/boke-youshengshu-shengyin-xiao/): 有些播客单集和有声书比其他内容小声得多。先检查耳机安全与蓝牙设置；如果是你自己的 MP3、M4A 讲座或有声书文件，就用「音量放大器」最高放大 10 倍，存储为新文件后用任意播放器收听都更清楚。App Store 免费下载，并提供免费试用。
+- [iPhone 音量怎么调大（开到最大还是小声时）](https://volumeboosting.com/zh/guide/iphone-yinliang-tiaoda/): iPhone 音量开到最大还是太小声？先检查会限制音量的设置、清理扬声器、确认没有连着蓝牙耳机或音箱；如果某个视频、语音备忘录或录音文件本身就太小声，可以用免费的「音量放大器」把文件最高放大 10 倍，并另存为一个新副本。
 
 ## Language pages
 - [en](https://volumeboosting.com/)

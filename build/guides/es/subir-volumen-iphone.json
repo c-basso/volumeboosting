@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "subir el volumen del iPhone",
+  "priority": 13,
+  "keywords": "subir volumen iphone, iphone suena bajo, aumentar volumen iphone, altavoz iphone bajo, iphone más alto que el máximo",
+  "title": "Cómo subir el volumen del iPhone: 8 soluciones si suena bajo",
+  "description": "¿Tu iPhone suena bajo incluso al máximo? Revisa los ajustes que limitan el sonido, limpia el altavoz, comprueba el Bluetooth y sube tus archivos hasta 10 veces.",
+  "h1": "Cómo subir el volumen del iPhone cuando suena bajo",
+  "eyebrow": "Volumen del iPhone",
+  "card_title": "Subir el volumen del iPhone",
+  "card_summary": "Los ajustes que limitan el volumen sin avisar, el altavoz y el Bluetooth, y qué hacer cuando ya está al máximo.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Para subir el volumen del iPhone, desactiva «Reducir audio alto» en Ajustes › Sonidos y vibraciones › Seguridad de los auriculares, prueba el ecualizador «Noche» en Ajustes › Música, revisa el Balance, limpia la rejilla del altavoz y comprueba que el sonido no vaya al Bluetooth. El sistema no supera el 100 %: si un vídeo o una grabación sigue bajo, sube el propio archivo con Aumentar Volumen (hasta ×10) y guarda una copia nueva.",
+  "intro": [
+    "Tu iPhone está al máximo y aun así apenas oyes el vídeo, el mensaje de voz o la canción. Casi siempre un ajuste limita el volumen sin avisar o el sonido sale por otro dispositivo.",
+    "Revisa las soluciones de abajo en orden. Si todo está bien y un archivo concreto sigue bajo, el problema es la grabación — y también tiene arreglo."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Deslizador «Multiplicación del volumen ×10» y botón «Potenciar volumen»",
+    "caption": "iOS no pasa del 100 %, pero un archivo bajo puede sonar hasta 10 veces más alto.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Ajustes que limitan el volumen del iPhone",
+      "paragraphs": [
+        "Estos ajustes no muestran avisos, solo mantienen el sonido más bajo de lo que podría ser:"
+      ],
+      "list": [
+        "Reducir sonidos fuertes: Ajustes › Sonidos y vibraciones › Seguridad de los auriculares. Activado, limita el volumen de los auriculares al nivel que elijas. Desactívalo o sube el límite.",
+        "Ajuste de volumen: Ajustes › Música › Ajuste de volumen iguala todas las canciones al mismo volumen y por eso baja las fuertes. Desactívalo si todo te suena flojo.",
+        "Ecualizador: Ajustes › Música › Ecualizador. «Nocturno» comprime la dinámica para que suban las partes suaves; «Volumen» realza graves y agudos a bajo volumen. Prueba los dos.",
+        "Límite de volumen en Tiempo de uso: Ajustes › Tiempo de uso › Restricciones de contenido y privacidad puede tener un límite bloqueado por un padre o un ajuste antiguo.",
+        "Bluetooth: algunos auriculares y altavoces tienen su propio volumen; súbelo también en el dispositivo."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Altavoz, funda y Bluetooth",
+      "paragraphs": [
+        "El polvo en la rejilla del altavoz inferior o una funda que la tapa pueden bajar mucho el volumen: límpiala con un cepillo suave y seco. Abre el Centro de control y revisa la salida de audio: si hay AirPods o un altavoz Bluetooth conectados, el sonido sale por ahí. Si las llamadas se oyen bajo, apoya bien el auricular superior en la oreja."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "¿Al máximo y sigue bajo? Sube el archivo",
+      "paragraphs": [
+        "Los botones de volumen solo cambian lo alto que reproduce el iPhone. Si un vídeo, una nota de voz o un MP3 se grabó bajo, sonará bajo en cualquier dispositivo. Aumentar Volumen sube el nivel dentro del archivo hasta ×10 y guarda una copia nueva que suena más alto en todas partes, también en otros teléfonos."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Paso a paso: haz más alto un archivo bajo",
+    "intro": "Aproximadamente un minuto con la app gratuita de la App Store.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Abre el archivo",
+        "text": "Comparte un vídeo desde Fotos o un audio desde Archivos con la app."
+      },
+      {
+        "name": "Elige la potencia",
+        "text": "Arrastra «Multiplicación del volumen»: ×2–×4 para música, ×3–×6 para voz, hasta ×10 para grabaciones muy bajas."
+      },
+      {
+        "name": "Compara",
+        "text": "Toca «Potenciar volumen» y alterna entre Original y Procesado para detectar distorsión."
+      },
+      {
+        "name": "Guarda",
+        "text": "Toca «Descargar procesado» y guarda la copia más alta en Fotos o Archivos."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consejos",
+    "items": [
+      "Reinicia el iPhone si el sonido bajó de golpe en todas partes: una salida de audio bloqueada es una causa habitual.",
+      "El control de Tono y avisos es independiente y no cambia el volumen multimedia.",
+      "Sube el archivo antes de compartirlo: las plataformas y otros teléfonos no arreglan una grabación baja."
+    ]
+  },
+  "faq": [
+    {
+      "question": "¿Puedo poner el iPhone más alto que el volumen máximo?",
+      "answer": "No para todo el sistema: el 100 % es el límite del hardware. Sí puedes subir vídeos y audios concretos con una app como Aumentar Volumen."
+    },
+    {
+      "question": "¿Por qué el volumen del iPhone bajó solo?",
+      "answer": "Normalmente lo redujo Seguridad de los auriculares tras escuchar alto, está activada la Nivelación de sonido o la salida cambió al Bluetooth."
+    },
+    {
+      "question": "¿Limpiar el altavoz sirve de verdad?",
+      "answer": "Sí, si la rejilla está obstruida. Usa un cepillo suave y seco, nunca objetos punzantes ni líquidos."
+    }
+  ],
+  "related": [
+    "por-que-mi-video-de-iphone-se-escucha-bajo",
+    "como-subir-el-volumen-de-un-video-en-iphone",
+    "musica-se-escucha-bajo-iphone"
+  ]
+}

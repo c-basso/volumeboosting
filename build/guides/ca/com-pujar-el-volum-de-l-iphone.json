@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "com pujar el volum de l'iPhone",
+  "priority": 13,
+  "keywords": "pujar volum iphone, iphone so baix, iphone més fort, altaveu iphone fluix, iphone més fort que el màxim",
+  "title": "Com pujar el volum de l'iPhone: 8 solucions si sona fluix",
+  "description": "L'iPhone sona fluix fins i tot al màxim? Revisa els ajustos que limiten el volum, l'altaveu i el Bluetooth, i fes que un fitxer soni fins a 10 vegades més fort.",
+  "h1": "Com pujar el volum de l'iPhone quan sona massa fluix",
+  "eyebrow": "Volum de l'iPhone",
+  "card_title": "Pujar el volum de l'iPhone",
+  "card_summary": "Ajustos que limiten el volum sense avisar, revisió de l'altaveu i el Bluetooth, i què fer quan ja ho tens tot al màxim.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Per pujar el volum de l'iPhone, revisa Configuració › Sons i vibracions › Seguretat dels auriculars, prova l'equalitzador «Tard a la nit» a Configuració › Música, posa el Balanç al mig, neteja la reixeta de l'altaveu i comprova que el so no vagi al Bluetooth. El sistema no passa del 100 %: si un vídeo o una gravació continua fluix, puja el volum del fitxer amb Augmenta Volum Vídeo (fins a ×10) i desa'n una còpia nova.",
+  "intro": [
+    "L'iPhone és al màxim i tot i així gairebé no sents el vídeo, la nota de veu o la cançó. Normalment hi ha un ajust que limita el volum sense avisar, o el so surt per un altre dispositiu.",
+    "Prova les solucions d'aquí sota per ordre. Si tot està ben configurat i un fitxer concret continua fluix, el problema és la gravació mateixa – i també té solució."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Control «Multiplicació del volum ×10» i botó «Reforça el volum»",
+    "caption": "L'iOS no passa del 100 %, però un fitxer fluix pot sonar fins a 10 vegades més fort.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Ajustos que limiten el volum de l'iPhone",
+      "paragraphs": [
+        "Aquests ajustos no mostren cap avís; simplement mantenen el so més baix del que podria ser:"
+      ],
+      "list": [
+        "Seguretat dels auriculars: Configuració › Sons i vibracions › Seguretat dels auriculars pot limitar el nivell als auriculars.",
+        "Equalitzador: Configuració › Música › Equalitzador. L'opció «Tard a la nit» aixeca els passatges fluixos i pot fer que la música sembli més forta amb soroll.",
+        "Comprovació del so: Configuració › Música. Activada, iguala el volum entre cançons i pot abaixar les pistes fortes.",
+        "Balanç: Configuració › Accessibilitat › Àudio i elements visuals › Balanç ha d'estar al mig.",
+        "Bluetooth: alguns auriculars tenen volum propi; revisa la seva app.",
+        "La brutícia a l'altaveu o al connector apaga el so; neteja-ho amb compte."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Altaveu, funda i Bluetooth",
+      "paragraphs": [
+        "La pols a la reixeta inferior de l'altaveu o una funda que la tapa redueixen força el volum – neteja-la amb un pinzell suau i sec. Obre el Centre de control i mira la sortida d'àudio: si hi ha uns AirPods o un altaveu Bluetooth connectats, el so surt per allà. Si les trucades se senten fluix, acosta l'altaveu superior a l'orella."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "Al màxim i encara fluix? Puja el volum del fitxer",
+      "paragraphs": [
+        "Els botons de volum només canvien com de fort reprodueix l'iPhone. Si un vídeo, una nota de veu o un MP3 es va gravar fluix, sonarà fluix a qualsevol dispositiu. Augmenta Volum Vídeo puja el nivell dins del fitxer fins a ×10 i en desa una còpia nova que sona més forta arreu – també als mòbils dels altres."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Pas a pas: fes més fort un fitxer fluix",
+    "intro": "Un minut aproximadament amb l'app gratuïta de l'App Store.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Obre el fitxer",
+        "text": "Comparteix un vídeo des de Fotos o un fitxer d'àudio des de Fitxers a Augmenta Volum Vídeo."
+      },
+      {
+        "name": "Tria el reforç",
+        "text": "Arrossega «Multiplicació del volum»: ×2–×4 per a música, ×3–×6 per a veu, fins a ×10 per a gravacions molt fluixes."
+      },
+      {
+        "name": "Compara",
+        "text": "Toca «Reforça el volum» i alterna Original i Processat per sentir si hi ha distorsió."
+      },
+      {
+        "name": "Desa",
+        "text": "Toca «Descarrega el processat» i desa la còpia més forta a Fotos o a Fitxers."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consells",
+    "items": [
+      "Reinicia l'iPhone si el so ha baixat de cop a tot arreu: una ruta d'àudio encallada és una causa habitual.",
+      "El control de Timbre i avisos és independent i no canvia el volum multimèdia.",
+      "Puja el volum del fitxer abans d'enviar-lo: les plataformes i els mòbils dels altres no arreglen una gravació fluixa."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Puc fer que l'iPhone soni més fort que el màxim?",
+      "answer": "No per a tot el sistema – el 100 % és el límit del maquinari. Però vídeos i fitxers d'àudio concrets sí que es poden fer més forts amb una app com Augmenta Volum Vídeo."
+    },
+    {
+      "question": "Per què ha baixat sol el volum de l'iPhone?",
+      "answer": "Normalment la Seguretat dels auriculars l'ha reduït després d'escoltar fort, la Comprovació del so és activa o la sortida ha passat al Bluetooth."
+    },
+    {
+      "question": "Netejar l'altaveu ajuda de debò?",
+      "answer": "Sí, si la reixeta està obstruïda. Fes servir un pinzell suau i sec – mai objectes punxeguts ni líquids."
+    }
+  ],
+  "related": [
+    "per-que-el-video-sona-fluix",
+    "com-pujar-el-volum-d-un-video-a-l-iphone",
+    "musica-fluixa-iphone"
+  ]
+}

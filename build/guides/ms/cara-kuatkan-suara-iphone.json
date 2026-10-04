@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "cara kuatkan suara iPhone",
+  "priority": 13,
+  "keywords": "kuatkan suara iphone, suara iphone perlahan, iphone lebih kuat, pembesar suara iphone perlahan, iphone lebih kuat dari maksimum",
+  "title": "Cara Kuatkan Suara iPhone: 8 Penyelesaian Bila Bunyi Rendah",
+  "description": "iPhone masih perlahan walaupun pada kelantangan penuh? Semak tetapan yang mengehadkan bunyi, pembesar suara dan Bluetooth, dan kuatkan fail hingga 10x ganda.",
+  "h1": "Cara kuatkan suara iPhone bila bunyinya terlalu perlahan",
+  "eyebrow": "Kelantangan iPhone",
+  "card_title": "Kuatkan suara iPhone",
+  "card_summary": "Tetapan yang diam-diam mengehadkan kelantangan, semakan pembesar suara dan Bluetooth, dan apa perlu dibuat bila semuanya sudah maksimum.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Untuk menguatkan suara iPhone, matikan «Kurangkan Audio Kuat» dalam Tetapan › Bunyi & Haptik › Keselamatan Fon Kepala, cuba EQ «Lewat Malam» dalam Tetapan › Muzik, matikan Semak Bunyi, bersihkan jaring pembesar suara dan pastikan audio tidak keluar ke Bluetooth. Sistem tidak boleh melepasi 100%: jika video atau rakaman masih perlahan, kuatkan fail itu sendiri dengan Penguat Volume Bunyi (hingga ×10) dan simpan salinan baharu.",
+  "intro": [
+    "iPhone sudah pada kelantangan maksimum, tetapi video, mesej suara atau lagu hampir tidak kedengaran. Biasanya ada tetapan yang mengehadkan kelantangan tanpa amaran, atau audio keluar ke peranti lain.",
+    "Cuba penyelesaian di bawah mengikut urutan. Jika semuanya betul dan satu fail tertentu masih perlahan, masalahnya pada rakaman itu sendiri – dan itu juga boleh diselesaikan."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Peluncur «Pengganda kelantangan ×10» dan butang «Boost kelantangan»",
+    "caption": "iOS tidak boleh melepasi 100%, tetapi fail yang perlahan boleh dibuat hingga 10x lebih kuat.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Tetapan yang mengehadkan kelantangan iPhone",
+      "paragraphs": [
+        "Tetapan ini tidak memaparkan sebarang amaran, cuma membuat bunyi lebih perlahan daripada sepatutnya:"
+      ],
+      "list": [
+        "Kurangkan Audio Kuat: Tetapan › Bunyi & Haptik › Keselamatan Fon Kepala. Jika dihidupkan, kelantangan fon kepala dihadkan ke tahap pilihan anda. Matikan atau naikkan hadnya.",
+        "Semak Bunyi: Tetapan › Muzik › Semak Bunyi menyamakan semua lagu ke kelantangan yang sama, jadi lagu kuat menjadi lebih perlahan. Matikan jika semuanya terasa perlahan.",
+        "EQ: Tetapan › Muzik › EQ. «Lewat Malam» memampatkan dinamik supaya bahagian perlahan naik; «Kenyaringan» (Loudness) menonjolkan bes dan trebel pada kelantangan rendah. Cuba kedua-duanya.",
+        "Had kelantangan dalam Masa Skrin: Tetapan › Masa Skrin › Sekatan Kandungan & Privasi mungkin ada had yang dikunci ibu bapa atau tetapan lama.",
+        "Bluetooth: sesetengah fon kepala dan pembesar suara ada kelantangan sendiri; naikkan juga pada peranti itu."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Pembesar suara, sarung dan Bluetooth",
+      "paragraphs": [
+        "Habuk pada jaring pembesar suara bawah atau sarung yang menutupnya boleh mengurangkan kelantangan dengan ketara – bersihkan perlahan-lahan dengan berus lembut dan kering. Buka Pusat Kawalan dan semak output audio: jika AirPods atau pembesar suara Bluetooth bersambung, bunyi keluar di sana. Jika panggilan perlahan, rapatkan pembesar suara atas ke telinga."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "Sudah maksimum tetapi masih perlahan? Kuatkan fail",
+      "paragraphs": [
+        "Butang kelantangan hanya mengubah sekuat mana iPhone memainkan bunyi. Jika video, memo suara atau MP3 dirakam perlahan, ia akan perlahan pada mana-mana peranti. Penguat Volume Bunyi menaikkan tahap dalam fail hingga ×10 dan menyimpan salinan baharu yang lebih kuat di mana-mana – termasuk pada telefon orang lain."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Langkah demi langkah: kuatkan fail yang perlahan",
+    "intro": "Kira-kira seminit dengan aplikasi percuma dari App Store.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Buka fail",
+        "text": "Kongsi video dari Foto atau fail audio dari Fail ke Penguat Volume Bunyi."
+      },
+      {
+        "name": "Pilih penguatan",
+        "text": "Seret «Pengganda kelantangan»: ×2–×4 untuk muzik, ×3–×6 untuk percakapan, hingga ×10 untuk rakaman yang sangat perlahan."
+      },
+      {
+        "name": "Bandingkan",
+        "text": "Ketik «Boost kelantangan» dan tukar antara Asal dan Diproses untuk mendengar sama ada bunyi pecah."
+      },
+      {
+        "name": "Simpan",
+        "text": "Ketik «Muat turun yang diproses» dan simpan salinan yang lebih kuat ke Foto atau Fail."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Petua",
+    "items": [
+      "Mulakan semula iPhone jika bunyi tiba-tiba menjadi perlahan di mana-mana: laluan audio yang tersekat ialah punca biasa.",
+      "Peluncur Nada Dering & Amaran adalah berasingan dan tidak mengubah kelantangan media.",
+      "Kuatkan fail sebelum menghantarnya: platform dan telefon orang lain tidak membetulkan rakaman yang perlahan."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bolehkah iPhone dibuat lebih kuat daripada maksimum?",
+      "answer": "Tidak untuk seluruh sistem – 100% ialah had perkakasan. Namun video dan fail audio tertentu boleh dikuatkan dengan aplikasi seperti Penguat Volume Bunyi."
+    },
+    {
+      "question": "Kenapa kelantangan iPhone turun sendiri?",
+      "answer": "Biasanya Keselamatan Fon Kepala menurunkannya selepas mendengar dengan kuat, Semak Bunyi dihidupkan atau output bertukar ke Bluetooth."
+    },
+    {
+      "question": "Adakah membersihkan pembesar suara benar-benar membantu?",
+      "answer": "Ya, jika jaringnya tersumbat. Gunakan berus lembut dan kering – jangan objek tajam atau cecair."
+    }
+  ],
+  "related": [
+    "kenapa-suara-video-perlahan",
+    "cara-kuatkan-suara-video-iphone",
+    "muzik-perlahan-iphone"
+  ]
+}

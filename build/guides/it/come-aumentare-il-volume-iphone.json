@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "come aumentare il volume dell’iPhone",
+  "priority": 13,
+  "keywords": "come aumentare il volume iphone, aumentare volume iphone, alzare volume iphone, iphone volume basso, aumentare audio iphone, volume iphone al massimo",
+  "title": "Come aumentare il volume dell’iPhone: 8 soluzioni rapide",
+  "description": "iPhone troppo basso anche al massimo? Controlla le impostazioni che limitano il volume, pulisci l’altoparlante, verifica il Bluetooth e alza i file fino a 10×.",
+  "h1": "Come aumentare il volume dell’iPhone quando è troppo basso",
+  "eyebrow": "Volume iPhone",
+  "card_title": "Aumentare il volume iPhone",
+  "card_summary": "Le impostazioni che limitano il volume, controlli su altoparlante e Bluetooth e cosa fare quando sei già al massimo.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Per aumentare il volume dell’iPhone disattiva «Riduci audio forte» in Impostazioni › Suoni e feedback aptico › Sicurezza cuffie, prova l’equalizzatore «Notte» in Impostazioni › Musica, controlla il Bilanciamento, pulisci la griglia dell’altoparlante e verifica che l’audio non vada al Bluetooth. Il sistema non supera il 100%: se un video o una registrazione resta basso, alza il file stesso con Aumenta Volume (fino a ×10) e salva una nuova copia.",
+  "intro": [
+    "L’iPhone è al massimo e il video, il messaggio vocale o la canzone si sentono ancora poco. Spesso è un’impostazione che limita il volume senza avvisare, oppure l’audio va da un’altra parte.",
+    "Segui i controlli qui sotto nell’ordine. Se è tutto a posto e un file in particolare resta basso, il problema è la registrazione stessa — e si può risolvere."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Cursore «Moltiplicazione volume ×10» e pulsante «Potenzia volume»",
+    "caption": "iOS non va oltre il 100%, ma un file basso può diventare fino a 10 volte più forte.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Impostazioni che limitano il volume (controllale per prime)",
+      "paragraphs": [
+        "Queste impostazioni non mostrano avvisi, tengono solo il suono più basso del possibile:"
+      ],
+      "list": [
+        "Riduci audio forte: Impostazioni › Suoni e feedback aptico › Sicurezza cuffie. Se attivo, limita il volume delle cuffie al livello scelto. Disattivalo o alza la soglia.",
+        "Verifica suono: Impostazioni › Musica › Verifica suono porta tutti i brani allo stesso volume e quindi abbassa quelli forti. Disattivalo se tutto ti sembra basso.",
+        "Equalizzatore: Impostazioni › Musica › Equalizzatore. «Notte inoltrata» comprime la dinamica così le parti piano salgono; «Volume» (Loudness) esalta bassi e alti a basso volume. Provali entrambi.",
+        "Limite di volume in Tempo di utilizzo: Impostazioni › Tempo di utilizzo › Restrizioni contenuti e privacy può avere un limite bloccato da un genitore o da una vecchia impostazione.",
+        "Bluetooth: alcune cuffie e casse hanno un proprio volume; alzalo anche sul dispositivo."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Altoparlante, cover e Bluetooth",
+      "paragraphs": [
+        "Polvere nella griglia dell’altoparlante in basso o una cover che la copre possono ridurre molto il volume: puliscila con un pennello morbido e asciutto. Apri Centro di Controllo e verifica l’uscita audio: se AirPods o una cassa Bluetooth sono ancora collegati, il suono va lì. Se le chiamate sono basse, appoggia bene all’orecchio l’altoparlante in alto."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "Al massimo e ancora basso? Alza il file",
+      "paragraphs": [
+        "I tasti del volume cambiano solo quanto forte suona il telefono. Se un video, un memo vocale o un MP3 è stato registrato basso, resta basso su ogni dispositivo. Aumenta Volume alza il livello dentro il file fino a ×10 e salva una nuova copia, così suona più forte ovunque, anche sui telefoni degli altri."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Passo per passo: rendi più forte un file basso",
+    "intro": "Circa un minuto con l’app gratuita dell’App Store.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Apri il file",
+        "text": "Condividi un video da Foto o un file audio da File verso Aumenta Volume."
+      },
+      {
+        "name": "Scegli l’amplificazione",
+        "text": "Trascina «Moltiplicazione volume»: ×2–×4 per la musica, ×3–×6 per la voce, fino a ×10 per registrazioni molto basse."
+      },
+      {
+        "name": "Confronta",
+        "text": "Tocca «Potenzia volume» e passa tra Originale ed Elaborato per sentire se distorce."
+      },
+      {
+        "name": "Salva",
+        "text": "Tocca «Scarica elaborato» e salva la copia più forte in Foto o File."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Consigli",
+    "items": [
+      "Riavvia l’iPhone se il volume è calato all’improvviso ovunque: un percorso audio bloccato è una causa comune.",
+      "Il cursore Suoneria e avvisi è separato e non cambia il volume dei contenuti.",
+      "Alza il file prima di condividerlo: piattaforme e altri telefoni non possono correggere una registrazione bassa."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Posso alzare l’iPhone oltre il volume massimo?",
+      "answer": "Non per tutto il sistema: il 100% è il limite dell’hardware. Puoi però rendere più forti singoli video e file audio con un’app come Aumenta Volume."
+    },
+    {
+      "question": "Perché il volume dell’iPhone si è abbassato da solo?",
+      "answer": "Di solito l’ha ridotto Sicurezza cuffie dopo un ascolto forte, è attivo Controllo volume oppure l’uscita è passata al Bluetooth."
+    },
+    {
+      "question": "Pulire l’altoparlante serve davvero?",
+      "answer": "Sì, se la griglia è ostruita. Usa un pennello morbido e asciutto, mai oggetti appuntiti o liquidi."
+    }
+  ],
+  "related": [
+    "perche-il-video-ha-audio-basso",
+    "come-aumentare-il-volume-di-un-video-su-iphone",
+    "musica-bassa-iphone"
+  ]
+}

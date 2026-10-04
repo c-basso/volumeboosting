@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "jak zwiększyć głośność iPhone",
+  "priority": 13,
+  "keywords": "jak zwiększyć głośność iphone, cichy iphone, głośność iphone za cicho, cichy głośnik iphone, iphone głośniej niż maksimum",
+  "title": "Jak zwiększyć głośność iPhone’a: 8 sposobów, gdy gra cicho",
+  "description": "iPhone za cichy nawet na maksimum? Sprawdź ustawienia ograniczające dźwięk, wyczyść głośnik, zweryfikuj Bluetooth i zrób ciche pliki nawet 10 razy głośniejsze.",
+  "h1": "Jak zwiększyć głośność iPhone’a, gdy gra za cicho",
+  "eyebrow": "Głośność iPhone",
+  "card_title": "Zwiększ głośność iPhone’a",
+  "card_summary": "Ustawienia, które po cichu ograniczają głośność, kontrola głośnika i Bluetooth oraz co zrobić, gdy wszystko jest już na maksimum.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Aby zwiększyć głośność iPhone’a, wyłącz „Redukuj głośny dźwięk” w Ustawienia › Dźwięki i haptyka › Bezpieczeństwo słuchawek, wypróbuj korektor „Późny wieczór” w Ustawienia › Muzyka, sprawdź balans, wyczyść kratkę głośnika i upewnij się, że dźwięk nie idzie do Bluetooth. System nie przekroczy 100%: jeśli film lub nagranie nadal jest ciche, zrób głośniejszy sam plik we Wzmacniaczu – Volume Boost (do ×10) i zapisz nową kopię.",
+  "intro": [
+    "Twój iPhone jest na maksimum, a mimo to ledwo słyszysz film, wiadomość głosową czy piosenkę. Zwykle jakieś ustawienie ogranicza głośność bez ostrzeżenia albo dźwięk trafia na inne urządzenie.",
+    "Sprawdź poniższe sposoby po kolei. Jeśli wszystko jest dobrze ustawione, a konkretny plik nadal jest cichy, problemem jest samo nagranie — i to też da się naprawić."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Suwak „Mnożnik głośności ×10” i przycisk „Wzmocnij głośność”",
+    "caption": "iOS nie przekroczy 100%, ale cichy plik może być nawet 10 razy głośniejszy.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Ustawienia, które ograniczają głośność iPhone’a",
+      "paragraphs": [
+        "Te ustawienia nie pokazują ostrzeżeń, po prostu trzymają dźwięk ciszej, niż mógłby grać:"
+      ],
+      "list": [
+        "Bezpieczeństwo słuchawek: Ustawienia › Dźwięki i haptyka › Bezpieczeństwo słuchawek może ograniczać poziom w słuchawkach.",
+        "Korektor: Ustawienia › Muzyka › Korektor. Ustawienie „Późny wieczór” podnosi ciche fragmenty i może sprawić, że muzyka wydaje się głośniejsza w hałasie.",
+        "Wyrównywanie głośności: Ustawienia › Muzyka. Włączone wyrównuje poziomy między utworami, co może ściszać głośne nagrania.",
+        "Balans: Ustawienia › Dostępność › Audio i wizualne › Balans powinien być na środku.",
+        "Bluetooth: niektóre słuchawki mają własną głośność; sprawdź ich aplikację.",
+        "Kurz w głośniku lub złączu tłumi dźwięk; delikatnie je wyczyść."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Głośnik, etui i Bluetooth",
+      "paragraphs": [
+        "Kurz w dolnej kratce głośnika albo etui, które ją zasłania, potrafią wyraźnie obniżyć głośność: wyczyść ją delikatnie miękkim, suchym pędzelkiem. Otwórz centrum sterowania i sprawdź wyjście audio: jeśli AirPods lub głośnik Bluetooth są nadal połączone, dźwięk gra tam. Jeśli rozmowy są ciche, przyłóż dobrze górny głośnik do ucha."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "Na maksimum i nadal cicho? Zrób głośniejszy plik",
+      "paragraphs": [
+        "Przyciski głośności zmieniają tylko to, jak głośno gra iPhone. Jeśli film, notatka głosowa czy MP3 zostały nagrane cicho, będą ciche na każdym urządzeniu. Wzmacniacz – Volume Boost podnosi poziom w pliku do ×10 i zapisuje nową kopię, która gra głośniej wszędzie, także na cudzych telefonach."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Krok po kroku: zrób cichy plik głośniejszym",
+    "intro": "Około minuty w darmowej aplikacji z App Store.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Otwórz plik",
+        "text": "Udostępnij film ze Zdjęć lub plik audio z Plików do aplikacji."
+      },
+      {
+        "name": "Wybierz wzmocnienie",
+        "text": "Przeciągnij „Mnożnik głośności”: ×2–×4 dla muzyki, ×3–×6 dla mowy, do ×10 dla bardzo cichych nagrań."
+      },
+      {
+        "name": "Porównaj",
+        "text": "Stuknij „Wzmocnij głośność” i przełączaj Oryginał/Przetworzony, aby usłyszeć zniekształcenia."
+      },
+      {
+        "name": "Zapisz",
+        "text": "Stuknij „Pobierz przetworzony” i zapisz głośniejszą kopię w Zdjęciach lub Plikach."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Wskazówki",
+    "items": [
+      "Uruchom iPhone’a ponownie, jeśli dźwięk nagle ściszył się wszędzie: zawieszona ścieżka audio to częsta przyczyna.",
+      "Suwak Dzwonek i alerty jest osobny i nie zmienia głośności multimediów.",
+      "Wzmocnij plik przed wysłaniem: serwisy i cudze telefony nie naprawią cichego nagrania."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Czy da się ustawić iPhone’a głośniej niż maksimum?",
+      "answer": "Nie dla całego systemu: 100% to limit sprzętu. Pojedyncze filmy i pliki audio można jednak wzmocnić aplikacją taką jak Wzmacniacz – Volume Boost."
+    },
+    {
+      "question": "Dlaczego głośność iPhone’a sama się zmniejszyła?",
+      "answer": "Zwykle obniżyło ją Bezpieczeństwo słuchawek po głośnym słuchaniu, włączone jest Wyrównywanie głośności albo wyjście przełączyło się na Bluetooth."
+    },
+    {
+      "question": "Czy czyszczenie głośnika naprawdę pomaga?",
+      "answer": "Tak, jeśli kratka jest zatkana. Użyj miękkiego, suchego pędzelka, nigdy ostrych przedmiotów ani płynów."
+    }
+  ],
+  "related": [
+    "dlaczego-film-jest-cichy",
+    "jak-zwiekszyc-glosnosc-filmu-iphone",
+    "cicha-muzyka-iphone"
+  ]
+}

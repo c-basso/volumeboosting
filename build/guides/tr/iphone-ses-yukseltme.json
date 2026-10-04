@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "iPhone ses yükseltme",
+  "priority": 13,
+  "keywords": "iphone ses yükseltme, iphone ses yükseltme uygulaması, iphone sesi düşük, iphone sesini yükseltme, apple ses yükseltme, iphone hoparlör ses yükseltme",
+  "title": "iPhone Ses Yükseltme: Ses Düşükse 8 Etkili Çözüm (2026)",
+  "description": "iPhone sonuna kadar açıkken bile sesi düşük mü? Sesi sınırlayan ayarları kapatın, hoparlörü temizleyin, Bluetooth'u kontrol edin ve dosyaları 10 kata yükseltin.",
+  "h1": "iPhone ses yükseltme: ses düşükse ne yapmalı",
+  "eyebrow": "iPhone sesi",
+  "card_title": "iPhone ses yükseltme",
+  "card_summary": "Sesi sessizce sınırlayan ayarlar, hoparlör ve Bluetooth kontrolleri ve telefon zaten sonuna kadar açıksa yapılacaklar.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "iPhone'da sesi yükseltmek için Ayarlar › Ses ve Dokunuş › Kulaklık Güvenliği'nde «Yüksek Sesleri Azalt»ı kapatın, Ayarlar › Müzik'te EQ «Gece Geç Saat»i deneyin, Denge ayarını kontrol edin, hoparlör ızgarasını temizleyin ve sesin Bluetooth'a gitmediğinden emin olun. Sistem %100'ün üzerine çıkamaz: bir video veya kayıt sonuna kadar açıkken bile kısıksa dosyanın kendisini Ses Yükseltici ile 10 kata kadar yükseltip yeni kopya kaydedin.",
+  "intro": [
+    "iPhone sonuna kadar açık ama video, sesli mesaj ya da şarkı yine de duyulmuyor. Çoğu zaman sesi uyarı vermeden sınırlayan bir ayar vardır ya da ses başka bir cihaza gidiyordur.",
+    "Aşağıdaki kontrolleri sırayla yapın. Her şey doğruysa ve belirli bir dosya hâlâ kısıksa sorun kaydın kendisindedir — o da düzeltilebilir."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "«Ses çarpanı ×10» kaydırıcısı ve «Sesi güçlendir» düğmesi",
+    "caption": "iOS %100'ü aşamaz ama kısık bir dosya 10 kata kadar yükseltilebilir.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "iPhone sesini sınırlayan ayarlar (önce bunlara bakın)",
+      "paragraphs": [
+        "Bu ayarlar uyarı göstermez, sadece sesi olabileceğinden daha düşük tutar:"
+      ],
+      "list": [
+        "Kulaklık Güvenliği: Ayarlar › Ses ve Dokunuş › Kulaklık Güvenliği › «Yüksek Sesleri Azalt».",
+        "EQ: Ayarlar › Müzik › EQ › «Gece Geç Saat» sessiz kısımları yükseltir.",
+        "Ses Denetimi: Ayarlar › Müzik'te tüm şarkıları aynı seviyeye getirir, bazen düşürür.",
+        "Denge: Ayarlar › Erişilebilirlik › Ses ve Görsel Öğeler › Denge ortada olmalı.",
+        "Uygulama içi ses: Spotify ve YouTube Music'in kendi ayarları vardır.",
+        "Bluetooth hoparlörün sesini ayrıca açın."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Hoparlör, kılıf ve Bluetooth",
+      "paragraphs": [
+        "Alttaki hoparlör ızgarasındaki toz ya da onu kapatan bir kılıf sesi belirgin şekilde düşürebilir: yumuşak, kuru bir fırçayla temizleyin. Denetim Merkezi'ni açıp ses çıkışını kontrol edin: AirPods veya Bluetooth hoparlör hâlâ bağlıysa ses oraya gider. Aramalar kısıksa üstteki ahizeyi kulağınıza tam yaslayın."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "Sonuna kadar açık ama hâlâ kısık mı? Dosyayı yükseltin",
+      "paragraphs": [
+        "Ses düğmeleri yalnızca telefonun ne kadar yüksek çaldığını değiştirir. Bir video, sesli not veya MP3 kısık kaydedildiyse her cihazda kısık kalır. Ses Yükseltici dosyanın içindeki seviyeyi 10 kata kadar yükseltir ve yeni bir kopya kaydeder; böylece başkalarının telefonlarında da yüksek çalar."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Adım adım: kısık bir dosyayı yükseltin",
+    "intro": "App Store'daki ücretsiz uygulamayla yaklaşık bir dakika.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Dosyayı açın",
+        "text": "Fotoğraflar'dan bir videoyu veya Dosyalar'dan bir ses dosyasını Ses Yükseltici'ye paylaşın."
+      },
+      {
+        "name": "Yükseltmeyi seçin",
+        "text": "«Ses çarpanı»nı sürükleyin: müzik için ×2–×4, konuşma için ×3–×6, çok kısık kayıtlar için ×10'a kadar."
+      },
+      {
+        "name": "Karşılaştırın",
+        "text": "«Sesi güçlendir»e dokunun ve cızırtı olup olmadığını Orijinal/İşlenmiş arasında geçiş yaparak dinleyin."
+      },
+      {
+        "name": "Kaydedin",
+        "text": "«İşlenmişi indir»e dokunup yüksek sesli kopyayı Fotoğraflar'a veya Dosyalar'a kaydedin."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "İpuçları",
+    "items": [
+      "Ses her yerde aniden düştüyse iPhone'u yeniden başlatın: takılı kalan ses yönlendirmesi sık görülen bir nedendir.",
+      "Zil Sesi ve Uyarılar kaydırıcısı ayrıdır ve medya sesini değiştirmez.",
+      "Dosyayı paylaşmadan önce yükseltin: platformlar ve diğer telefonlar kısık bir kaydı düzeltemez."
+    ]
+  },
+  "faq": [
+    {
+      "question": "iPhone'u maksimum sesin üzerine çıkarabilir miyim?",
+      "answer": "Tüm sistem için hayır, %100 donanım sınırıdır. Ancak tek tek video ve ses dosyalarını Ses Yükseltici gibi bir uygulamayla yükseltebilirsiniz."
+    },
+    {
+      "question": "iPhone'un sesi neden kendiliğinden düştü?",
+      "answer": "Genellikle yüksek dinlemeden sonra Kulaklık Güvenliği sesi azaltmıştır, Ses Denetimi açıktır ya da çıkış Bluetooth'a geçmiştir."
+    },
+    {
+      "question": "Hoparlörü temizlemek gerçekten işe yarar mı?",
+      "answer": "Izgara tıkalıysa evet. Yumuşak, kuru bir fırça kullanın; asla sivri cisim ya da sıvı sokmayın."
+    }
+  ],
+  "related": [
+    "iphone-video-sesi-neden-dusuk",
+    "iphone-video-sesi-nasil-yukseltilir",
+    "iphone-muzik-sesi-dusuk"
+  ]
+}

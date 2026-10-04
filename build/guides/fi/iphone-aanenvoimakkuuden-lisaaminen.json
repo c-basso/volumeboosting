@@ -1,0 +1,104 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "iPhonen äänenvoimakkuuden lisääminen",
+  "priority": 13,
+  "keywords": "iphone äänenvoimakkuus, iphone liian hiljainen, iphone äänet kovemmalle, iphone kaiutin hiljainen, iphone kovempi kuin maksimi",
+  "title": "iPhonen äänenvoimakkuus kovemmalle: 8 korjausta hiljaiseen",
+  "description": "Onko iPhone liian hiljainen täysilläkin? Tarkista ääntä rajoittavat asetukset, puhdista kaiutin, katso Bluetooth ja tee hiljaisista tiedostoista 10× kovempia.",
+  "h1": "Näin saat iPhonen äänenvoimakkuuden kovemmaksi",
+  "eyebrow": "iPhonen äänenvoimakkuus",
+  "card_title": "iPhonen ääni kovemmaksi",
+  "card_summary": "Asetukset, jotka rajoittavat äänenvoimakkuutta huomaamatta, kaiuttimen ja Bluetoothin tarkistus sekä mitä tehdä, kun kaikki on jo täysillä.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Saat iPhonen äänet kovemmalle, kun laitat pois päältä ”Vähennä kovia ääniä” kohdassa Asetukset › Äänet ja tuntopalaute › Kuulokkeiden turvallisuus, kokeilet taajuuskorjainta ”Myöhäisilta” kohdassa Asetukset › Musiikki, tarkistat tasapainon, puhdistat kaiutinritilän ja varmistat, ettei ääni mene Bluetoothiin. Järjestelmä ei ylitä 100 %:a: jos video tai tallenne on silti hiljainen, tee itse tiedostosta kovempi Increase Volume -apilla (jopa ×10) ja tallenna uusi kopio.",
+  "intro": [
+    "iPhone on täysillä, mutta video, ääniviesti tai kappale kuuluu silti tuskin. Yleensä jokin asetus rajoittaa äänenvoimakkuutta varoittamatta, tai ääni menee toiseen laitteeseen.",
+    "Käy alla olevat korjaukset läpi järjestyksessä. Jos kaikki on kunnossa ja tietty tiedosto on yhä hiljainen, vika on itse tallenteessa – ja sekin korjaantuu."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Äänenvoimakkuuden kertoja ×10 -liukusäädin ja Tehosta äänenvoimakkuutta -painike",
+    "caption": "iOS ei ylitä 100 %:a, mutta hiljaisesta tiedostosta voi tehdä jopa 10× kovemman.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Asetukset, jotka rajoittavat iPhonen äänenvoimakkuutta",
+      "paragraphs": [
+        "Nämä asetukset eivät näytä varoitusta, ne vain pitävät äänen hiljaisempana kuin voisi:"
+      ],
+      "list": [
+        "Vähennä kovia ääniä: Asetukset › Äänet ja tuntokyky › Kuulokkeiden turvallisuus. Päällä ollessaan se rajoittaa kuulokkeiden äänenvoimakkuuden asettamaasi tasoon. Laita pois tai nosta rajaa.",
+        "Äänitason tarkistus: Asetukset › Musiikki › Äänitason tarkistus tasaa kaikki kappaleet samalle voimakkuudelle ja vetää siksi kovia kappaleita alas. Laita pois, jos kaikki tuntuu vaisulta.",
+        "Taajuuskorjain: Asetukset › Musiikki › Taajuuskorjain. Myöhäinen ilta pakkaa dynamiikkaa niin, että hiljaiset kohdat nousevat; Loudness korostaa bassoja ja diskanttia pienellä voimakkuudella. Kokeile molempia.",
+        "Ruutuajan äänenvoimakkuusraja: Asetukset › Ruutuaika › Sisältö- ja tietosuojarajoitukset voi sisältää vanhemman tai vanhan asetuksen lukitseman rajan.",
+        "Bluetooth: joissain kuulokkeissa ja kaiuttimissa on oma äänenvoimakkuutensa; nosta sitä myös laitteesta."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Kaiutin, suojakuori ja Bluetooth",
+      "paragraphs": [
+        "Pöly alakaiuttimen ritilässä tai sen peittävä kuori voi laskea äänenvoimakkuutta selvästi – puhdista ritilä varovasti pehmeällä, kuivalla siveltimellä. Avaa Ohjauskeskus ja tarkista äänilähtö: jos AirPodsit tai Bluetooth-kaiutin on yhä yhdistetty, ääni soi niistä. Jos puhelut ovat hiljaisia, pidä yläosan kuuloke tiiviisti korvaa vasten."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "Täysillä ja silti hiljaa? Tee tiedostosta kovempi",
+      "paragraphs": [
+        "Äänenvoimakkuuspainikkeet muuttavat vain sitä, kuinka kovaa iPhone toistaa. Hiljaa tallennettu video, äänimuistio tai MP3 on hiljainen kaikilla laitteilla. Increase Volume nostaa tiedoston tasoa jopa ×10 ja tallentaa uuden kopion, joka soi kovempaa kaikkialla – myös muiden puhelimissa."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Vaihe vaiheelta: tee hiljaisesta tiedostosta kovempi",
+    "intro": "Noin minuutti App Storen ilmaisella apilla.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Avaa tiedosto",
+        "text": "Jaa video Kuvista tai äänitiedosto Tiedostoista Increase Volumeen."
+      },
+      {
+        "name": "Valitse vahvistus",
+        "text": "Vedä ”Äänenvoimakkuuden kertoja”: ×2–×4 musiikille, ×3–×6 puheelle, jopa ×10 hyvin hiljaisille tallenteille."
+      },
+      {
+        "name": "Vertaa",
+        "text": "Napauta ”Tehosta äänenvoimakkuutta” ja vaihda Alkuperäinen/Käsitelty kuullaksesi särön."
+      },
+      {
+        "name": "Tallenna",
+        "text": "Napauta ”Lataa käsitelty” ja tallenna kovempi kopio Kuviin tai Tiedostoihin."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Vinkit",
+    "items": [
+      "Käynnistä iPhone uudelleen, jos ääni hiljeni yhtäkkiä kaikkialla: jumittunut äänireitti on yleinen syy.",
+      "Soittoäänen ja hälytysten liukusäädin on erillinen eikä muuta median äänenvoimakkuutta.",
+      "Vahvista tiedosto ennen jakamista: palvelut ja muiden puhelimet eivät korjaa hiljaista tallennetta."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Voiko iPhonen äänen saada kovemmaksi kuin maksimi?",
+      "answer": "Koko järjestelmälle ei – 100 % on laitteiston raja. Yksittäiset videot ja äänitiedostot saa kuitenkin kovemmiksi esimerkiksi Increase Volume -apilla."
+    },
+    {
+      "question": "Miksi iPhonen äänenvoimakkuus laski itsestään?",
+      "answer": "Yleensä Kuulokkeiden turvallisuus laski sen kovan kuuntelun jälkeen, Äänentarkistus on päällä tai lähtö vaihtui Bluetoothiin."
+    },
+    {
+      "question": "Auttaako kaiuttimen puhdistus oikeasti?",
+      "answer": "Kyllä, jos ritilä on tukossa. Käytä pehmeää, kuivaa sivellintä, älä koskaan teräviä esineitä tai nesteitä."
+    }
+  ],
+  "related": [
+    "miksi-iphonen-video-on-niin-hiljainen",
+    "nain-saat-videon-aanen-kovemmaksi-iphonella",
+    "musiikki-kovemmalle-iphonella"
+  ]
+}

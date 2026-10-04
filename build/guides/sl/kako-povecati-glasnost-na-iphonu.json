@@ -1,0 +1,105 @@
+{
+  "en_slug": "how-to-increase-iphone-volume",
+  "keyword": "kako povečati glasnost na iPhonu",
+  "priority": 13,
+  "keywords": "povečati glasnost iphone, iphone tih zvok, iphone glasneje, zvočnik iphone tih, iphone glasneje od maksimuma",
+  "title": "Kako povečati glasnost na iPhonu: 8 rešitev za tih zvok",
+  "description": "Je iPhone tih tudi na največji glasnosti? Preveri nastavitve, ki omejujejo glasnost, zvočnik in Bluetooth, ter naredi tihe datoteke do 10-krat glasnejše.",
+  "h1": "Kako povečati glasnost na iPhonu, ko je zvok pretih",
+  "eyebrow": "Glasnost iPhona",
+  "card_title": "Povečaj glasnost na iPhonu",
+  "card_summary": "Nastavitve, ki tiho omejujejo glasnost, preverjanje zvočnika in Bluetootha ter kaj storiti, ko je vse že na maksimumu.",
+  "published": "2026-10-04",
+  "updated": "2026-10-04",
+  "quick_answer": "Če želiš povečati glasnost na iPhonu, preveri Nastavitve › Zvoki in haptika › Varnost slušalk, preizkusi izenačevalnik „Pozno ponoči“ v Nastavitve › Glasba, postavi ravnovesje na sredino, očisti mrežico zvočnika in preveri, da zvok ne gre na Bluetooth. Sistem ne gre čez 100 %: če video ali posnetek ostane tih, ojači samo datoteko z aplikacijo Increase Volume (do ×10) in shrani novo kopijo.",
+  "intro": [
+    "iPhone je na maksimumu, a video, glasovno sporočilo ali pesem komaj slišiš. Navadno glasnost brez opozorila omejuje kakšna nastavitev ali pa zvok gre na drugo napravo.",
+    "Rešitve spodaj preizkusi po vrsti. Če je vse pravilno nastavljeno in je določena datoteka še vedno tiha, je težava v samem posnetku – tudi to je rešljivo."
+  ],
+  "screenshot": {
+    "src": "/img/guides/how-to-make-a-video-louder-on-iphone.webp",
+    "alt": "Drsnik „Množitelj glasnosti ×10“ in gumb „Ojači glasnost“",
+    "caption": "iOS ne gre čez 100 %, tiha datoteka pa lahko postane do 10-krat glasnejša.",
+    "hide_in_article": true
+  },
+  "sections": [
+    {
+      "heading": "Nastavitve, ki omejujejo glasnost na iPhonu",
+      "paragraphs": [
+        "Te nastavitve ne prikažejo opozorila, le zvok držijo tišji, kot bi lahko bil:"
+      ],
+      "list": [
+        "Varnost slušalk: Nastavitve › Zvoki in haptika › Varnost slušalk lahko omeji raven v slušalkah.",
+        "Izenačevalnik: Nastavitve › Glasba › Izenačevalnik. Nastavitev „Pozno ponoči“ dvigne tihe dele in lahko v hrupu glasba deluje glasneje.",
+        "Preverjanje zvoka: Nastavitve › Glasba. Ko je vklopljeno, izenači glasnost med skladbami, kar lahko utiša glasne skladbe.",
+        "Ravnovesje: Nastavitve › Dostopnost › Zvok in slika › Ravnovesje naj bo na sredini.",
+        "Bluetooth: nekatere slušalke imajo lastno glasnost; preveri njihovo aplikacijo.",
+        "Umazanija v zvočniku ali priključku duši zvok; previdno ju očisti."
+      ],
+      "ordered": true
+    },
+    {
+      "heading": "Zvočnik, ovitek in Bluetooth",
+      "paragraphs": [
+        "Prah v spodnji mrežici zvočnika ali ovitek, ki jo prekriva, opazno zmanjšata glasnost – nežno jo očisti z mehkim suhim čopičem. Odpri Nadzorno središče in preveri zvočni izhod: če so povezane slušalke AirPods ali zvočnik Bluetooth, zvok igra tam. Če so klici tihi, drži zgornji zvočnik tik ob ušesu."
+      ]
+    },
+    {
+      "id": "file",
+      "heading": "Na maksimumu in še vedno tiho? Ojači datoteko",
+      "paragraphs": [
+        "Gumba za glasnost spremenita le, kako glasno predvaja iPhone. Če je bil video, glasovni zapisek ali MP3 posnet tiho, bo tih na vsaki napravi. Increase Volume dvigne raven v datoteki do ×10 in shrani novo kopijo, ki je glasnejša povsod – tudi na telefonih drugih."
+      ]
+    }
+  ],
+  "steps": {
+    "heading": "Korak za korakom: ojačaj tiho datoteko",
+    "intro": "Približno minuta z brezplačno aplikacijo iz App Store.",
+    "total_time": "PT1M",
+    "items": [
+      {
+        "name": "Odpri datoteko",
+        "text": "Deli video iz Fotografij ali zvočno datoteko iz Datotek v Increase Volume."
+      },
+      {
+        "name": "Izberi ojačitev",
+        "text": "Premakni „Množitelj glasnosti“: ×2–×4 za glasbo, ×3–×6 za govor, do ×10 za zelo tihe posnetke."
+      },
+      {
+        "name": "Primerjaj",
+        "text": "Tapni „Ojači glasnost“ in preklapljaj med Izvirnik in Obdelano, da slišiš, ali se pojavi popačenje."
+      },
+      {
+        "name": "Shrani",
+        "text": "Tapni „Prenesi obdelano“ in shrani glasnejšo kopijo v Fotografije ali Datoteke."
+      }
+    ]
+  },
+  "tips": {
+    "heading": "Nasveti",
+    "items": [
+      "Znova zaženi iPhone, če je zvok nenadoma povsod tišji: zataknjena zvočna pot je pogost vzrok.",
+      "Drsnik za zvonjenje in opozorila je ločen in ne spreminja glasnosti predstavnosti.",
+      "Datoteko ojačaj, preden jo pošlješ: platforme in telefoni drugih tihega posnetka ne popravijo."
+    ]
+  },
+  "faq": [
+    {
+      "question": "Lahko naredim iPhone glasnejši od maksimuma?",
+      "answer": "Ne za ves sistem – 100 % je meja strojne opreme. Posamezne videe in zvočne datoteke pa lahko ojačaš z aplikacijo, kot je Increase Volume."
+    },
+    {
+      "question": "Zakaj se je glasnost na iPhonu sama zmanjšala?",
+      "answer": "Navadno jo je po glasnem poslušanju znižala Varnost slušalk, vklopljeno je Preverjanje zvoka ali pa se je izhod preklopil na Bluetooth."
+    },
+    {
+      "question": "Ali čiščenje zvočnika res pomaga?",
+      "answer": "Da, če je mrežica zamašena. Uporabi mehak suh čopič – nikoli ostrih predmetov ali tekočin."
+    }
+  ],
+  "related": [
+    "zakaj-je-video-tih",
+    "kako-povecati-glasnost-videa-na-iphonu",
+    "tiha-glasba-iphone"
+  ]
+}
