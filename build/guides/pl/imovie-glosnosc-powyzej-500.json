@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Suwak „Mnożnik głośności ×10” i przycisk „Wzmocnij głośność do ×10” w Volume Boost",
-    "caption": "Volume Boost dochodzi do ×10, dwa razy wyżej niż limit iMovie."
+    "caption": "Volume Boost dochodzi do ×10, dwa razy wyżej niż limit iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

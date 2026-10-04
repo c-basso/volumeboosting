@@ -16,7 +16,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Increase Volumeలో «వాల్యూమ్ గుణకం ×10» స్లైడర్, «వాల్యూమ్‌ను ×10 వరకు బూస్ట్ చేయి» బటన్",
-    "caption": "iMovie 5× వద్ద ఆగుతుంది; ఇక్కడ స్లైడర్ ×10 వరకు వెళ్తుంది."
+    "caption": "iMovie 5× వద్ద ఆగుతుంది; ఇక్కడ స్లైడర్ ×10 వరకు వెళ్తుంది.",
+    "hide_in_article": true
   },
   "sections": [
     {

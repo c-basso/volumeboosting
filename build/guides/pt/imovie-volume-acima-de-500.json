@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/pt/4.webp",
     "alt": "Tela «Selecione a quantidade de aumento»: controle «Multiplicação do volume ×10» e botão «Amplificar volume para ×10»",
-    "caption": "O app Aumentar Volume chega a ×10, o dobro do limite do iMovie."
+    "caption": "O app Aumentar Volume chega a ×10, o dobro do limite do iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

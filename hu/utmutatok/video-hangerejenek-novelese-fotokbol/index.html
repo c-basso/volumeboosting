@@ -118,7 +118,7 @@
     <meta property="og:title" content="Hogyan növeld a videó hangerejét közvetlenül a Fotókból" />
     <meta property="og:description" content="A Fotókban nincs hangerő-szabályzó, de a videót így is hangosíthatod: Megosztás, válaszd az appot, húzd 10×-ig, és mentsd a másolatot az eredeti mellé." />
     <meta property="og:image" content="https://volumeboosting.com/hu/site_preview.png" />
-    <meta property="og:image:alt" content="„Download and share anywhere” képernyőkép: megosztási lap a hangosított videó Fotókba vagy Fájlokba mentésének lehetőségeivel" />
+    <meta property="og:image:alt" content="A Fotók megosztási lapja egy kijelölt videóhoz, az alkalmazássor elején a Volume Boost ikonjával" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/6.webp" alt="„Download and share anywhere” képernyőkép: megosztási lap a hangosított videó Fotókba vagy Fájlokba mentésének lehetőségeivel" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-boost-video-volume-from-the-photos-app.webp" alt="A Fotók megosztási lapja egy kijelölt videóhoz, az alkalmazássor elején a Volume Boost ikonjával" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>A hangosított másolat a megosztási lapon át kerül vissza a Fotókba; az eredeti változatlan marad.</figcaption>
             </figure>
@@ -488,10 +509,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Hogyan növeld a videó hangerejét közvetlenül a Fotókból","description":"A Fotókban nincs hangerő-szabályzó, de a videót így is hangosíthatod: Megosztás, válaszd az appot, húzd 10×-ig, és mentsd a másolatot az eredeti mellé.","image":["https://volumeboosting.com/img/screenshots/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/hu/utmutatok/video-hangerejenek-novelese-fotokbol/","inLanguage":"hu","about":{"@type":"MobileApplication","name":"Increase Volume – Hang kiemelés","url":"https://volumeboosting.com/hu/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Hogyan növeld a videó hangerejét közvetlenül a Fotókból","description":"A Fotókban nincs hangerő-szabályzó, de a videót így is hangosíthatod: Megosztás, válaszd az appot, húzd 10×-ig, és mentsd a másolatot az eredeti mellé.","image":["https://volumeboosting.com/img/guides/how-to-boost-video-volume-from-the-photos-app.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/hu/utmutatok/video-hangerejenek-novelese-fotokbol/","inLanguage":"hu","about":{"@type":"MobileApplication","name":"Increase Volume – Hang kiemelés","url":"https://volumeboosting.com/hu/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Lépésről lépésre: a Fotókból egy hangosabb videóig","description":"Nem kell előbb megnyitni az appot; a Fotókban kezdj.","image":"https://volumeboosting.com/img/screenshots/6.webp","totalTime":"PT1M","inLanguage":"hu","tool":[{"@type":"HowToTool","name":"Increase Volume – Hang kiemelés"}],"step":[{"@type":"HowToStep","position":1,"name":"Nyisd meg a videót a Fotókban","text":"Keresd meg a halk videót, és nyisd meg teljes képernyőn.","url":"https://volumeboosting.com/hu/utmutatok/video-hangerejenek-novelese-fotokbol/#step-1"},{"@type":"HowToStep","position":2,"name":"Koppints a Megosztás → Increase Volume lehetőségre","text":"Koppints a Megosztás gombra, görgesd az ikonsort, és koppints az Increase Volume-ra. Új projekt nyílik meg.","url":"https://volumeboosting.com/hu/utmutatok/video-hangerejenek-novelese-fotokbol/#step-2"},{"@type":"HowToStep","position":3,"name":"Hangosíts","text":"Húzd a „Hangerőszorzót” a kívánt szintre (×3–×10), beszédhez kapcsold be a „Hangminőség javítása” lehetőséget, és koppints a „Hangerő kiemelése” gombra.","url":"https://volumeboosting.com/hu/utmutatok/video-hangerejenek-novelese-fotokbol/#step-3"},{"@type":"HowToStep","position":4,"name":"Hasonlítsd össze","text":"Az Eredeti/Feldolgozott kapcsolóval hallod a különbséget.","url":"https://volumeboosting.com/hu/utmutatok/video-hangerejenek-novelese-fotokbol/#step-4"},{"@type":"HowToStep","position":5,"name":"Videó mentése","text":"Koppints a „Feldolgozott letöltése”, majd a Videó mentése lehetőségre. A Fotókban a hangosabb másolat közvetlenül az eredeti után jelenik meg.","url":"https://volumeboosting.com/hu/utmutatok/video-hangerejenek-novelese-fotokbol/#step-5"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Lépésről lépésre: a Fotókból egy hangosabb videóig","description":"Nem kell előbb megnyitni az appot; a Fotókban kezdj.","image":"https://volumeboosting.com/img/guides/how-to-boost-video-volume-from-the-photos-app.webp","totalTime":"PT1M","inLanguage":"hu","tool":[{"@type":"HowToTool","name":"Increase Volume – Hang kiemelés"}],"step":[{"@type":"HowToStep","position":1,"name":"Nyisd meg a videót a Fotókban","text":"Keresd meg a halk videót, és nyisd meg teljes képernyőn.","url":"https://volumeboosting.com/hu/utmutatok/video-hangerejenek-novelese-fotokbol/#step-1"},{"@type":"HowToStep","position":2,"name":"Koppints a Megosztás → Increase Volume lehetőségre","text":"Koppints a Megosztás gombra, görgesd az ikonsort, és koppints az Increase Volume-ra. Új projekt nyílik meg.","url":"https://volumeboosting.com/hu/utmutatok/video-hangerejenek-novelese-fotokbol/#step-2"},{"@type":"HowToStep","position":3,"name":"Hangosíts","text":"Húzd a „Hangerőszorzót” a kívánt szintre (×3–×10), beszédhez kapcsold be a „Hangminőség javítása” lehetőséget, és koppints a „Hangerő kiemelése” gombra.","url":"https://volumeboosting.com/hu/utmutatok/video-hangerejenek-novelese-fotokbol/#step-3"},{"@type":"HowToStep","position":4,"name":"Hasonlítsd össze","text":"Az Eredeti/Feldolgozott kapcsolóval hallod a különbséget.","url":"https://volumeboosting.com/hu/utmutatok/video-hangerejenek-novelese-fotokbol/#step-4"},{"@type":"HowToStep","position":5,"name":"Videó mentése","text":"Koppints a „Feldolgozott letöltése”, majd a Videó mentése lehetőségre. A Fotókban a hangosabb másolat közvetlenül az eredeti után jelenik meg.","url":"https://volumeboosting.com/hu/utmutatok/video-hangerejenek-novelese-fotokbol/#step-5"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"hu","mainEntity":[{"@type":"Question","name":"Lecseréli a Fotókból indított hangosítás az eredeti videómat?","acceptedAnswer":{"@type":"Answer","text":"Nem. Az app mindig új fájlt hoz létre. A Videó mentése egy második másolatot ad a Fotókhoz; az eredeti nem változik."}},{"@type":"Question","name":"Hangosíthatok Live Photókat vagy lassított videókat?","acceptedAnswer":{"@type":"Answer","text":"A lassított és gyorsított videók normál videóként exportálódnak, és hangosíthatók. A Live Photók rövid klippel ellátott fotók, videóként nem támogatottak."}},{"@type":"Question","name":"Miért nincs hangerő-szabályzó a Fotókban?","acceptedAnswer":{"@type":"Answer","text":"Az Apple a Fotókat gyors javításokra szánt szerkesztőnek tervezte, a szintváltoztatást az iMovie-ra hagyja. Az iMovie 500%-ig hangosít; a Hangerőnövelő Média ×10-ig megy, és a megosztási lapról működik."}}]}

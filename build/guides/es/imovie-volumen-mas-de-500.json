@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/es/4.webp",
     "alt": "Captura «Seleccione la cantidad de aumento»: deslizador de multiplicación del volumen ×10, el doble que el máximo de iMovie",
-    "caption": "El ×10 de Aumentar Volumen es más o menos el doble del máximo de iMovie."
+    "caption": "El ×10 de Aumentar Volumen es más o menos el doble del máximo de iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

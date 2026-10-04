@@ -118,7 +118,7 @@
     <meta property="og:title" content="Message vocal WhatsApp trop faible sur iPhone : comment le rendre plus fort" />
     <meta property="og:description" content="Vocaux WhatsApp trop faibles sur iPhone : écartez d'abord le passage à l'écouteur (capteur de proximité), puis exportez le message et amplifiez-le jusqu'à 10×." />
     <meta property="og:image" content="https://volumeboosting.com/fr/site_preview.png" />
-    <meta property="og:image:alt" content="Capture « Télécharger et partager où que vous soyez » : feuille de partage iOS avec Enregistrer dans Fichiers pour un vocal amplifié" />
+    <meta property="og:image:alt" content="Feuille de partage du fichier amplifié avec « Copy », « Save Video » et « Save to Files », et l’app Volume Boost" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/fr/6.webp" alt="Capture « Télécharger et partager où que vous soyez » : feuille de partage iOS avec Enregistrer dans Fichiers pour un vocal amplifié" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp" alt="Feuille de partage du fichier amplifié avec « Copy », « Save Video » et « Save to Files », et l’app Volume Boost" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Les vocaux amplifiés s'enregistrent dans Fichiers ou se renvoient directement dans la conversation.</figcaption>
             </figure>
@@ -488,10 +509,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Message vocal WhatsApp trop faible sur iPhone : comment le rendre plus fort","description":"Vocaux WhatsApp trop faibles sur iPhone : écartez d'abord le passage à l'écouteur (capteur de proximité), puis exportez le message et amplifiez-le jusqu'à 10×.","image":["https://volumeboosting.com/img/screenshots/fr/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/fr/guides/message-vocal-whatsapp-trop-faible/","inLanguage":"fr","about":{"@type":"MobileApplication","name":"Increase Volume – Boost sonore","url":"https://volumeboosting.com/fr/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Message vocal WhatsApp trop faible sur iPhone : comment le rendre plus fort","description":"Vocaux WhatsApp trop faibles sur iPhone : écartez d'abord le passage à l'écouteur (capteur de proximité), puis exportez le message et amplifiez-le jusqu'à 10×.","image":["https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/fr/guides/message-vocal-whatsapp-trop-faible/","inLanguage":"fr","about":{"@type":"MobileApplication","name":"Increase Volume – Boost sonore","url":"https://volumeboosting.com/fr/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Étape par étape : amplifier un vocal WhatsApp","description":"Environ une minute avec l'app gratuite.","image":"https://volumeboosting.com/img/screenshots/fr/6.webp","totalTime":"PT1M","inLanguage":"fr","tool":[{"@type":"HowToTool","name":"Increase Volume – Boost sonore"}],"step":[{"@type":"HowToStep","position":1,"name":"Exportez le vocal","text":"Dans WhatsApp, appui long sur le message → Transférer → icône Partager → Increase Volume. (Ou Enregistrer dans Fichiers et ajoutez-le depuis l'app.)","url":"https://volumeboosting.com/fr/guides/message-vocal-whatsapp-trop-faible/#step-1"},{"@type":"HowToStep","position":2,"name":"Activez Améliorer la qualité audio","text":"Un vocal, c'est de la parole ; l'option aide à garder les mots nets après l'amplification.","url":"https://volumeboosting.com/fr/guides/message-vocal-whatsapp-trop-faible/#step-2"},{"@type":"HowToStep","position":3,"name":"Amplifiez","text":"Réglez « Multiplication du volume » sur ×5 pour commencer, ×8–×10 pour un message très faible, puis touchez « Amplifier le volume ».","url":"https://volumeboosting.com/fr/guides/message-vocal-whatsapp-trop-faible/#step-3"},{"@type":"HowToStep","position":4,"name":"Comparez","text":"Basculez Original/Traité. Si le mot le plus fort grésille, baissez le multiplicateur.","url":"https://volumeboosting.com/fr/guides/message-vocal-whatsapp-trop-faible/#step-4"},{"@type":"HowToStep","position":5,"name":"Enregistrez ou transférez","text":"Touchez « Télécharger le fichier traité ». Enregistrez dans Fichiers ou repartagez la copie plus forte dans WhatsApp pour que tout le groupe l'entende.","url":"https://volumeboosting.com/fr/guides/message-vocal-whatsapp-trop-faible/#step-5"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Étape par étape : amplifier un vocal WhatsApp","description":"Environ une minute avec l'app gratuite.","image":"https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp","totalTime":"PT1M","inLanguage":"fr","tool":[{"@type":"HowToTool","name":"Increase Volume – Boost sonore"}],"step":[{"@type":"HowToStep","position":1,"name":"Exportez le vocal","text":"Dans WhatsApp, appui long sur le message → Transférer → icône Partager → Increase Volume. (Ou Enregistrer dans Fichiers et ajoutez-le depuis l'app.)","url":"https://volumeboosting.com/fr/guides/message-vocal-whatsapp-trop-faible/#step-1"},{"@type":"HowToStep","position":2,"name":"Activez Améliorer la qualité audio","text":"Un vocal, c'est de la parole ; l'option aide à garder les mots nets après l'amplification.","url":"https://volumeboosting.com/fr/guides/message-vocal-whatsapp-trop-faible/#step-2"},{"@type":"HowToStep","position":3,"name":"Amplifiez","text":"Réglez « Multiplication du volume » sur ×5 pour commencer, ×8–×10 pour un message très faible, puis touchez « Amplifier le volume ».","url":"https://volumeboosting.com/fr/guides/message-vocal-whatsapp-trop-faible/#step-3"},{"@type":"HowToStep","position":4,"name":"Comparez","text":"Basculez Original/Traité. Si le mot le plus fort grésille, baissez le multiplicateur.","url":"https://volumeboosting.com/fr/guides/message-vocal-whatsapp-trop-faible/#step-4"},{"@type":"HowToStep","position":5,"name":"Enregistrez ou transférez","text":"Touchez « Télécharger le fichier traité ». Enregistrez dans Fichiers ou repartagez la copie plus forte dans WhatsApp pour que tout le groupe l'entende.","url":"https://volumeboosting.com/fr/guides/message-vocal-whatsapp-trop-faible/#step-5"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"fr","mainEntity":[{"@type":"Question","name":"Pourquoi les vocaux sont-ils faibles quand je mets le téléphone à l'oreille ?","acceptedAnswer":{"@type":"Answer","text":"C'est voulu : quand le capteur de proximité est masqué, WhatsApp joue le son dans l'écouteur par discrétion. Montez le volume de l'écouteur avec les boutons pendant la lecture, ou éloignez le téléphone pour utiliser le haut-parleur."}},{"@type":"Question","name":"Peut-on augmenter le volume d'un vocal dans WhatsApp ?","acceptedAnswer":{"@type":"Answer","text":"Non. WhatsApp propose des vitesses de lecture (1×, 1,5×, 2×) mais pas d'amplification. Exportez le message et amplifiez-le avec l'app."}},{"@type":"Question","name":"Ça marche aussi avec Telegram et Messenger ?","acceptedAnswer":{"@type":"Answer","text":"Avec toute app qui permet de partager ou d'enregistrer le fichier audio. Les fichiers amplifiés peuvent être renvoyés par la même app."}}]}

@@ -118,7 +118,7 @@
     <meta property="og:title" content="아이폰에서 동영상 소리 키우는 방법" />
     <meta property="og:description" content="아이폰에서 소리가 작은 동영상을 1분 안에 키우는 방법. 사진 앱과 iMovie로 할 수 있는 것과 한계, 그리고 볼륨 부스터의 슬라이더 하나로 최대 10배까지 올려 새 파일로 저장하는 과정을 정리했습니다." />
     <meta property="og:image" content="https://volumeboosting.com/ko/site_preview.png" />
-    <meta property="og:image:alt" content="«Make video louder» 화면: 동영상 위의 분홍색 슬라이더를 손가락으로 끄는 볼륨 부스터 스크린샷" />
+    <meta property="og:image:alt" content="«볼륨 배율 ×10» 슬라이더와 «볼륨 부스트» 버튼" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/2.webp" alt="«Make video louder» 화면: 동영상 위의 분홍색 슬라이더를 손가락으로 끄는 볼륨 부스터 스크린샷" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-video-louder-on-iphone.webp" alt="«볼륨 배율 ×10» 슬라이더와 «볼륨 부스트» 버튼" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>슬라이더는 동영상 미리보기 위에 있습니다. 끌고, 듣고, 저장하면 끝입니다.</figcaption>
             </figure>
@@ -505,10 +526,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"아이폰에서 동영상 소리 키우는 방법","description":"아이폰에서 소리가 작은 동영상을 1분 안에 키우는 방법. 사진 앱과 iMovie로 할 수 있는 것과 한계, 그리고 볼륨 부스터의 슬라이더 하나로 최대 10배까지 올려 새 파일로 저장하는 과정을 정리했습니다.","image":["https://volumeboosting.com/img/screenshots/2.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/ko/guide/iphone-dongyeongsang-sori-kiugi/","inLanguage":"ko","about":{"@type":"MobileApplication","name":"Increase Volume – 음향 부스트","url":"https://volumeboosting.com/ko/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"아이폰에서 동영상 소리 키우는 방법","description":"아이폰에서 소리가 작은 동영상을 1분 안에 키우는 방법. 사진 앱과 iMovie로 할 수 있는 것과 한계, 그리고 볼륨 부스터의 슬라이더 하나로 최대 10배까지 올려 새 파일로 저장하는 과정을 정리했습니다.","image":["https://volumeboosting.com/img/guides/how-to-make-a-video-louder-on-iphone.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/ko/guide/iphone-dongyeongsang-sori-kiugi/","inLanguage":"ko","about":{"@type":"MobileApplication","name":"Increase Volume – 음향 부스트","url":"https://volumeboosting.com/ko/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"단계별: 볼륨 부스터로 동영상 소리 키우기","description":"일반적인 클립이면 약 1분이면 됩니다. App Store의 무료 앱과 사진 또는 파일에 있는 동영상을 준비하세요.","image":"https://volumeboosting.com/img/screenshots/2.webp","totalTime":"PT1M","inLanguage":"ko","tool":[{"@type":"HowToTool","name":"Increase Volume – 음향 부스트"}],"step":[{"@type":"HowToStep","position":1,"name":"앱에서 동영상 열기","text":"앱을 열고 사진 또는 파일에서 동영상을 추가합니다. 더 빠른 방법: 사진 앱에서 영상을 열고 공유를 탭해 Increase Volume을 선택하면 프로젝트가 바로 만들어집니다.","url":"https://volumeboosting.com/ko/guide/iphone-dongyeongsang-sori-kiugi/#step-1"},{"@type":"HowToStep","position":2,"name":"세부 정보 확인","text":"파일 이름, 크기, 길이가 표시되니 맞는 클립인지 확인하세요. 주로 말소리라면 «오디오 품질 개선»을 켭니다.","url":"https://volumeboosting.com/ko/guide/iphone-dongyeongsang-sori-kiugi/#step-2"},{"@type":"HowToStep","position":3,"name":"부스트 양 선택","text":"«볼륨 배율»을 끕니다. 조금 작은 정도면 ×3~×5부터, 거의 안 들리면 ×10까지 올리세요. «볼륨 ×N으로 부스트»를 탭합니다.","url":"https://volumeboosting.com/ko/guide/iphone-dongyeongsang-sori-kiugi/#step-3"},{"@type":"HowToStep","position":4,"name":"원본과 처리본 비교","text":"버튼 아래 전환으로 원본과 부스트된 소리를 번갈아 들어 봅니다. 큰 부분이 깨져 들리면 돌아가서 배율을 한 단계 낮추세요.","url":"https://volumeboosting.com/ko/guide/iphone-dongyeongsang-sori-kiugi/#step-4"},{"@type":"HowToStep","position":5,"name":"다운로드하고 공유","text":"«처리본 다운로드»를 탭합니다. 공유 시트에서 «비디오 저장»을 선택하면 소리가 커진 사본이 사진에 저장되고, «파일에 저장»이나 메시지·카카오톡·AirDrop·틱톡으로 바로 보낼 수도 있습니다.","url":"https://volumeboosting.com/ko/guide/iphone-dongyeongsang-sori-kiugi/#step-5"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"단계별: 볼륨 부스터로 동영상 소리 키우기","description":"일반적인 클립이면 약 1분이면 됩니다. App Store의 무료 앱과 사진 또는 파일에 있는 동영상을 준비하세요.","image":"https://volumeboosting.com/img/guides/how-to-make-a-video-louder-on-iphone.webp","totalTime":"PT1M","inLanguage":"ko","tool":[{"@type":"HowToTool","name":"Increase Volume – 음향 부스트"}],"step":[{"@type":"HowToStep","position":1,"name":"앱에서 동영상 열기","text":"앱을 열고 사진 또는 파일에서 동영상을 추가합니다. 더 빠른 방법: 사진 앱에서 영상을 열고 공유를 탭해 Increase Volume을 선택하면 프로젝트가 바로 만들어집니다.","url":"https://volumeboosting.com/ko/guide/iphone-dongyeongsang-sori-kiugi/#step-1"},{"@type":"HowToStep","position":2,"name":"세부 정보 확인","text":"파일 이름, 크기, 길이가 표시되니 맞는 클립인지 확인하세요. 주로 말소리라면 «오디오 품질 개선»을 켭니다.","url":"https://volumeboosting.com/ko/guide/iphone-dongyeongsang-sori-kiugi/#step-2"},{"@type":"HowToStep","position":3,"name":"부스트 양 선택","text":"«볼륨 배율»을 끕니다. 조금 작은 정도면 ×3~×5부터, 거의 안 들리면 ×10까지 올리세요. «볼륨 ×N으로 부스트»를 탭합니다.","url":"https://volumeboosting.com/ko/guide/iphone-dongyeongsang-sori-kiugi/#step-3"},{"@type":"HowToStep","position":4,"name":"원본과 처리본 비교","text":"버튼 아래 전환으로 원본과 부스트된 소리를 번갈아 들어 봅니다. 큰 부분이 깨져 들리면 돌아가서 배율을 한 단계 낮추세요.","url":"https://volumeboosting.com/ko/guide/iphone-dongyeongsang-sori-kiugi/#step-4"},{"@type":"HowToStep","position":5,"name":"다운로드하고 공유","text":"«처리본 다운로드»를 탭합니다. 공유 시트에서 «비디오 저장»을 선택하면 소리가 커진 사본이 사진에 저장되고, «파일에 저장»이나 메시지·카카오톡·AirDrop·틱톡으로 바로 보낼 수도 있습니다.","url":"https://volumeboosting.com/ko/guide/iphone-dongyeongsang-sori-kiugi/#step-5"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"ko","mainEntity":[{"@type":"Question","name":"앱 없이 아이폰 동영상 소리를 키울 수 있나요?","acceptedAnswer":{"@type":"Answer","text":"Apple이 무료로 제공하는 iMovie로 클립 음량을 약 500%까지 올릴 수 있습니다. 사진 앱으로는 불가능합니다. 5배 이상이 필요하거나 빠르게 처리하고 싶다면 볼륨 부스터를 사용하세요."}},{"@type":"Question","name":"소리를 키우면 화질이 떨어지나요?","acceptedAnswer":{"@type":"Answer","text":"영상은 전혀 바뀌지 않습니다. 오디오는 배율을 곱하기 때문에, 이미 큰 피크가 있는 녹음을 너무 올리면 소리가 깨질 수 있습니다. 그래서 저장 전에 들어 볼 수 있는 원본/처리본 전환이 있습니다."}},{"@type":"Question","name":"보낸 뒤에도 소리가 큰 상태로 유지되나요?","acceptedAnswer":{"@type":"Answer","text":"네. 부스트가 파일의 오디오 트랙에 기록되므로 어떤 휴대폰, 컴퓨터, SNS에서도 새 음량으로 재생됩니다."}},{"@type":"Question","name":"다운로드한 동영상에도 쓸 수 있나요?","acceptedAnswer":{"@type":"Answer","text":"네. 사진이나 파일에 있고 복사 방지가 걸려 있지 않다면 가능합니다. 출처와 상관없이 MP4·MOV 파일을 열 수 있습니다."}}]}

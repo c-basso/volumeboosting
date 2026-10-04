@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "«Select the amount of boosting» 화면: iMovie 최대치의 두 배인 ×10 볼륨 배율 슬라이더",
-    "caption": "볼륨 부스터의 ×10은 iMovie 최대치의 약 두 배입니다."
+    "caption": "볼륨 부스터의 ×10은 iMovie 최대치의 약 두 배입니다.",
+    "hide_in_article": true
   },
   "sections": [
     {

@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Increase Volume με το ρυθμιστικό Πολλαπλασιασμός έντασης ×10, διπλάσιο από το μέγιστο του iMovie στο iPhone",
-    "caption": "Το ×10 του Increase Volume είναι περίπου το διπλάσιο του μέγιστου του iMovie."
+    "caption": "Το ×10 του Increase Volume είναι περίπου το διπλάσιο του μέγιστου του iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

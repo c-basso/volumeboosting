@@ -118,7 +118,7 @@
     <meta property="og:title" content="Тихо гласово съобщение на iPhone: причини и решение" />
     <meta property="og:description" content="Не чувате гласовите съобщения във WhatsApp или Viber на iPhone? Проверете слушалката и сензора за близост, а едно тихо съобщение усилете до 10× с приложението." />
     <meta property="og:image" content="https://volumeboosting.com/bg/site_preview.png" />
-    <meta property="og:image:alt" content="Панел за споделяне на iOS с „Копиране“, „Добавяне на тагове“ и „Запазване във Файлове“ за усилено аудио в Increase Volume" />
+    <meta property="og:image:alt" content="Меню за споделяне на усиления файл с Copy, Save Video и Save to Files и приложението Volume Boost" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/6.webp" alt="Панел за споделяне на iOS с „Копиране“, „Добавяне на тагове“ и „Запазване във Файлове“ за усилено аудио в Increase Volume" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp" alt="Меню за споделяне на усиления файл с Copy, Save Video и Save to Files и приложението Volume Boost" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>След усилването изпратете по-силното копие обратно в чата или го запазете във „Файлове“.</figcaption>
             </figure>
@@ -484,10 +505,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Тихо гласово съобщение на iPhone: причини и решение","description":"Не чувате гласовите съобщения във WhatsApp или Viber на iPhone? Проверете слушалката и сензора за близост, а едно тихо съобщение усилете до 10× с приложението.","image":["https://volumeboosting.com/img/screenshots/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/bg/rakovodstva/tiho-glasovo-saobshtenie-whatsapp/","inLanguage":"bg","about":{"@type":"MobileApplication","name":"Increase Volume – Усилване на звука","url":"https://volumeboosting.com/bg/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Тихо гласово съобщение на iPhone: причини и решение","description":"Не чувате гласовите съобщения във WhatsApp или Viber на iPhone? Проверете слушалката и сензора за близост, а едно тихо съобщение усилете до 10× с приложението.","image":["https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/bg/rakovodstva/tiho-glasovo-saobshtenie-whatsapp/","inLanguage":"bg","about":{"@type":"MobileApplication","name":"Increase Volume – Усилване на звука","url":"https://volumeboosting.com/bg/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Усилете гласово съобщение с Increase Volume","description":"Около 30 секунди на съобщение, когато файлът е във „Файлове“.","image":"https://volumeboosting.com/img/screenshots/6.webp","totalTime":"PT1M","inLanguage":"bg","tool":[{"@type":"HowToTool","name":"Increase Volume – Усилване на звука"}],"step":[{"@type":"HowToStep","position":1,"name":"Импортирайте съобщението","text":"Отворете Increase Volume и добавете файла от „Файлове“ или го споделете директно от чата към Increase Volume.","url":"https://volumeboosting.com/bg/rakovodstva/tiho-glasovo-saobshtenie-whatsapp/#step-1"},{"@type":"HowToStep","position":2,"name":"Включете „Подобряване на качеството на звука“","text":"Говорът се разбира по-лесно с тази опция; гласът излиза пред фона.","url":"https://volumeboosting.com/bg/rakovodstva/tiho-glasovo-saobshtenie-whatsapp/#step-2"},{"@type":"HowToStep","position":3,"name":"Усилете ×5–×10","text":"Плъзнете „Умножение на силата“. Тихите записи от телефон често понасят ×6–×10. Докоснете „Усилване до ×N“.","url":"https://volumeboosting.com/bg/rakovodstva/tiho-glasovo-saobshtenie-whatsapp/#step-3"},{"@type":"HowToStep","position":4,"name":"Чуйте и запазете","text":"Превключвайте „Оригинал“ и „Обработен“, докоснете „Изтегляне на обработения файл“ и запазете във „Файлове“ или изпратете по-силното копие обратно в чата.","url":"https://volumeboosting.com/bg/rakovodstva/tiho-glasovo-saobshtenie-whatsapp/#step-4"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Усилете гласово съобщение с Increase Volume","description":"Около 30 секунди на съобщение, когато файлът е във „Файлове“.","image":"https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp","totalTime":"PT1M","inLanguage":"bg","tool":[{"@type":"HowToTool","name":"Increase Volume – Усилване на звука"}],"step":[{"@type":"HowToStep","position":1,"name":"Импортирайте съобщението","text":"Отворете Increase Volume и добавете файла от „Файлове“ или го споделете директно от чата към Increase Volume.","url":"https://volumeboosting.com/bg/rakovodstva/tiho-glasovo-saobshtenie-whatsapp/#step-1"},{"@type":"HowToStep","position":2,"name":"Включете „Подобряване на качеството на звука“","text":"Говорът се разбира по-лесно с тази опция; гласът излиза пред фона.","url":"https://volumeboosting.com/bg/rakovodstva/tiho-glasovo-saobshtenie-whatsapp/#step-2"},{"@type":"HowToStep","position":3,"name":"Усилете ×5–×10","text":"Плъзнете „Умножение на силата“. Тихите записи от телефон често понасят ×6–×10. Докоснете „Усилване до ×N“.","url":"https://volumeboosting.com/bg/rakovodstva/tiho-glasovo-saobshtenie-whatsapp/#step-3"},{"@type":"HowToStep","position":4,"name":"Чуйте и запазете","text":"Превключвайте „Оригинал“ и „Обработен“, докоснете „Изтегляне на обработения файл“ и запазете във „Файлове“ или изпратете по-силното копие обратно в чата.","url":"https://volumeboosting.com/bg/rakovodstva/tiho-glasovo-saobshtenie-whatsapp/#step-4"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"bg","mainEntity":[{"@type":"Question","name":"Защо гласовите съобщения във WhatsApp са толкова тихи на iPhone?","acceptedAnswer":{"@type":"Answer","text":"Най-често защото сензорът за близост превключва към слушалката за разговори, когато телефонът е до лицето. Отдалечете го и усилете медийния звук по време на възпроизвеждането."}},{"@type":"Question","name":"Мога ли да усиля едно гласово съобщение във WhatsApp?","acceptedAnswer":{"@type":"Answer","text":"Не в самия WhatsApp. Експортирайте съобщението чрез Препращане → Споделяне, усилете го в Increase Volume и използвайте по-силното копие."}},{"@type":"Question","name":"Губи ли се качество при усилване на гласово съобщение?","acceptedAnswer":{"@type":"Answer","text":"Гласът става по-силен без нови артефакти, но съществуващият фонов шум също се увеличава. Започнете умерено и увеличавайте, като сравнявате „Оригинал“ и „Обработен“."}}]}

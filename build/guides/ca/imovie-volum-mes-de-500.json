@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/ca/4.webp",
     "alt": "Captura de la botiga (titular en castellà «Seleccione la cantidad de aumento»): control de multiplicació ×10, el doble del màxim d'iMovie",
-    "caption": "Augmenta Volum Vídeo arriba a ×10, el doble del límit d'iMovie."
+    "caption": "Augmenta Volum Vídeo arriba a ×10, el doble del límit d'iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

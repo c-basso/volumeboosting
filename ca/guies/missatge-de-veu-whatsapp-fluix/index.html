@@ -118,7 +118,7 @@
     <meta property="og:title" content="Àudio de WhatsApp fluix a l'iPhone: causes i solució" />
     <meta property="og:description" content="No sents els àudios de WhatsApp a l'iPhone? Revisa l'auricular i el sensor de proximitat i fes un missatge fluix fins a 10× més fort amb Augmenta Volum Vídeo." />
     <meta property="og:image" content="https://volumeboosting.com/ca/site_preview.png" />
-    <meta property="og:image:alt" content="Captura de la botiga (titular en castellà «Descargue y comparta dondequiera»): full per compartir d'iOS per a l'àudio reforçat" />
+    <meta property="og:image:alt" content="Full de compartir del fitxer amplificat amb Copy, Save Video i Save to Files, i l’app Volume Boost" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/ca/6.webp" alt="Captura de la botiga (titular en castellà «Descargue y comparta dondequiera»): full per compartir d'iOS per a l'àudio reforçat" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp" alt="Full de compartir del fitxer amplificat amb Copy, Save Video i Save to Files, i l’app Volume Boost" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Després d'amplificar, envia la còpia més forta a WhatsApp o desa-la a Fitxers.</figcaption>
             </figure>
@@ -484,10 +505,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Àudio de WhatsApp fluix a l'iPhone: causes i solució","description":"No sents els àudios de WhatsApp a l'iPhone? Revisa l'auricular i el sensor de proximitat i fes un missatge fluix fins a 10× més fort amb Augmenta Volum Vídeo.","image":["https://volumeboosting.com/img/screenshots/ca/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-03","dateModified":"2026-10-03","mainEntityOfPage":"https://volumeboosting.com/ca/guies/missatge-de-veu-whatsapp-fluix/","inLanguage":"ca","about":{"@type":"MobileApplication","name":"Increase Volume – Potència de so","url":"https://volumeboosting.com/ca/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Àudio de WhatsApp fluix a l'iPhone: causes i solució","description":"No sents els àudios de WhatsApp a l'iPhone? Revisa l'auricular i el sensor de proximitat i fes un missatge fluix fins a 10× més fort amb Augmenta Volum Vídeo.","image":["https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-03","dateModified":"2026-10-03","mainEntityOfPage":"https://volumeboosting.com/ca/guies/missatge-de-veu-whatsapp-fluix/","inLanguage":"ca","about":{"@type":"MobileApplication","name":"Increase Volume – Potència de so","url":"https://volumeboosting.com/ca/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Fes més fort un àudio de WhatsApp amb Augmenta Volum Vídeo","description":"Uns 30 segons per missatge quan el fitxer ja és a Fitxers.","image":"https://volumeboosting.com/img/screenshots/ca/6.webp","totalTime":"PT1M","inLanguage":"ca","tool":[{"@type":"HowToTool","name":"Increase Volume – Potència de so"}],"step":[{"@type":"HowToStep","position":1,"name":"Importa l'àudio","text":"Obre Augmenta Volum Vídeo i afegeix el fitxer des de Fitxers, o comparteix-lo directament des de WhatsApp a Increase Volume.","url":"https://volumeboosting.com/ca/guies/missatge-de-veu-whatsapp-fluix/#step-1"},{"@type":"HowToStep","position":2,"name":"Activa «Millora la qualitat de l'àudio»","text":"La veu s'entén millor amb la millora activada; destaca la veu sobre el fons.","url":"https://volumeboosting.com/ca/guies/missatge-de-veu-whatsapp-fluix/#step-2"},{"@type":"HowToStep","position":3,"name":"Amplifica ×5–×10","text":"Arrossega «Multiplicació del volum». Les gravacions fluixes de mòbil sovint aguanten ×6–×10. Toca «Reforça el volum a ×N».","url":"https://volumeboosting.com/ca/guies/missatge-de-veu-whatsapp-fluix/#step-3"},{"@type":"HowToStep","position":4,"name":"Escolta i desa","text":"Alterna Original i Processat, toca «Descarrega el processat» i desa a Fitxers o envia la còpia més forta a WhatsApp.","url":"https://volumeboosting.com/ca/guies/missatge-de-veu-whatsapp-fluix/#step-4"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Fes més fort un àudio de WhatsApp amb Augmenta Volum Vídeo","description":"Uns 30 segons per missatge quan el fitxer ja és a Fitxers.","image":"https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp","totalTime":"PT1M","inLanguage":"ca","tool":[{"@type":"HowToTool","name":"Increase Volume – Potència de so"}],"step":[{"@type":"HowToStep","position":1,"name":"Importa l'àudio","text":"Obre Augmenta Volum Vídeo i afegeix el fitxer des de Fitxers, o comparteix-lo directament des de WhatsApp a Increase Volume.","url":"https://volumeboosting.com/ca/guies/missatge-de-veu-whatsapp-fluix/#step-1"},{"@type":"HowToStep","position":2,"name":"Activa «Millora la qualitat de l'àudio»","text":"La veu s'entén millor amb la millora activada; destaca la veu sobre el fons.","url":"https://volumeboosting.com/ca/guies/missatge-de-veu-whatsapp-fluix/#step-2"},{"@type":"HowToStep","position":3,"name":"Amplifica ×5–×10","text":"Arrossega «Multiplicació del volum». Les gravacions fluixes de mòbil sovint aguanten ×6–×10. Toca «Reforça el volum a ×N».","url":"https://volumeboosting.com/ca/guies/missatge-de-veu-whatsapp-fluix/#step-3"},{"@type":"HowToStep","position":4,"name":"Escolta i desa","text":"Alterna Original i Processat, toca «Descarrega el processat» i desa a Fitxers o envia la còpia més forta a WhatsApp.","url":"https://volumeboosting.com/ca/guies/missatge-de-veu-whatsapp-fluix/#step-4"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"ca","mainEntity":[{"@type":"Question","name":"Per què els àudios de WhatsApp sonen tan fluix a l'iPhone?","acceptedAnswer":{"@type":"Answer","text":"Normalment perquè el sensor de proximitat passa a l'auricular quan el telèfon és a prop de la cara. Allunya'l i apuja el volum multimèdia mentre sona."}},{"@type":"Question","name":"Puc pujar el volum d'un sol àudio a WhatsApp?","acceptedAnswer":{"@type":"Answer","text":"Dins de WhatsApp no. Exporta el missatge amb Reenvia → Comparteix, amplifica'l a Augmenta Volum Vídeo i fes servir la còpia més forta."}},{"@type":"Question","name":"Es perd qualitat en amplificar un àudio?","acceptedAnswer":{"@type":"Answer","text":"La veu es fa més forta sense artefactes nous, però el soroll de fons que ja hi havia també puja. Comença amb moderació i puja mentre compares Original i Processat."}}]}

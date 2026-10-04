@@ -18,7 +18,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Increase Volume showing the Volume multiplication x10 slider, twice the ceiling of iMovie on iPhone",
-    "caption": "×10 in Increase Volume is roughly double iMovie's maximum."
+    "caption": "×10 in Increase Volume is roughly double iMovie's maximum.",
+    "hide_in_article": true
   },
   "sections": [
     {

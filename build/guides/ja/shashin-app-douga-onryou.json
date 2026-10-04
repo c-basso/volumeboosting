@@ -17,8 +17,8 @@
     "このガイドでは、その流れと、写真アプリの編集画面で実際にできる音声の操作を説明します。"
   ],
   "screenshot": {
-    "src": "/img/screenshots/6.webp",
-    "alt": "「Download and share anywhere」の画面：ブーストした動画を写真やファイルに保存するオプションがある共有シート",
+    "src": "/img/guides/how-to-boost-video-volume-from-the-photos-app.webp",
+    "alt": "「写真」で動画を選択した共有シート。App の列の先頭に Volume Boost のアイコン",
     "caption": "ブーストしたコピーは共有シートで写真に戻り、元の動画はそのままです。"
   },
   "sections": [

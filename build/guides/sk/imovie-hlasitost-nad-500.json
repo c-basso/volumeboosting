@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Posúvač „Násobok hlasitosti ×10“ a tlačidlo „Zosilniť hlasitosť na ×10“ vo Volume Boost",
-    "caption": "Volume Boost ide až na ×10, dvakrát viac ako limit iMovie."
+    "caption": "Volume Boost ide až na ×10, dvakrát viac ako limit iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

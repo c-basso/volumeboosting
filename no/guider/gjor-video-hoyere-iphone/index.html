@@ -118,7 +118,7 @@
     <meta property="og:title" content="Slik gjør du lyden på en video høyere på iPhone" />
     <meta property="og:description" content="Gjør en video med for lav lyd høyere på iPhone på under ett minutt: hva Bilder og iMovie kan, hvor de stopper, og hvordan du når 10× med Volumforsterker." />
     <meta property="og:image" content="https://volumeboosting.com/no/site_preview.png" />
-    <meta property="og:image:alt" content="Skjermbildet «Make video louder»: en finger drar den rosa glidebryteren over en video i Volumforsterker" />
+    <meta property="og:image:alt" content="Glidebryteren «Volummultiplikasjon ×10» og knappen «Boost lydstyrken»" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/2.webp" alt="Skjermbildet «Make video louder»: en finger drar den rosa glidebryteren over en video i Volumforsterker" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-video-louder-on-iphone.webp" alt="Glidebryteren «Volummultiplikasjon ×10» og knappen «Boost lydstyrken»" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Glidebryteren ligger over videoforhåndsvisningen. Dra, lytt, lagre.</figcaption>
             </figure>
@@ -505,10 +526,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Slik gjør du lyden på en video høyere på iPhone","description":"Gjør en video med for lav lyd høyere på iPhone på under ett minutt: hva Bilder og iMovie kan, hvor de stopper, og hvordan du når 10× med Volumforsterker.","image":["https://volumeboosting.com/img/screenshots/2.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/no/guider/gjor-video-hoyere-iphone/","inLanguage":"no","about":{"@type":"MobileApplication","name":"Increase Volume – Lydboost","url":"https://volumeboosting.com/no/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Slik gjør du lyden på en video høyere på iPhone","description":"Gjør en video med for lav lyd høyere på iPhone på under ett minutt: hva Bilder og iMovie kan, hvor de stopper, og hvordan du når 10× med Volumforsterker.","image":["https://volumeboosting.com/img/guides/how-to-make-a-video-louder-on-iphone.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/no/guider/gjor-video-hoyere-iphone/","inLanguage":"no","about":{"@type":"MobileApplication","name":"Increase Volume – Lydboost","url":"https://volumeboosting.com/no/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Steg for steg: gjør en video høyere med Volumforsterker","description":"For et vanlig klipp tar det rundt ett minutt. Du trenger den gratis appen fra App Store og videoen i Bilder eller Filer.","image":"https://volumeboosting.com/img/screenshots/2.webp","totalTime":"PT1M","inLanguage":"no","tool":[{"@type":"HowToTool","name":"Increase Volume – Lydboost"}],"step":[{"@type":"HowToStep","position":1,"name":"Åpne videoen i appen","text":"Åpne appen og legg til videoen fra Bilder eller Filer. Raskere: åpne videoen i Bilder, trykk Del og velg Increase Volume; prosjektet opprettes med en gang.","url":"https://volumeboosting.com/no/guider/gjor-video-hoyere-iphone/#step-1"},{"@type":"HowToStep","position":2,"name":"Sjekk detaljene","text":"Appen viser filnavn, størrelse og varighet, så du vet at det er riktig klipp. Er det mest tale, slå på «Forbedre lydkvalitet».","url":"https://volumeboosting.com/no/guider/gjor-video-hoyere-iphone/#step-2"},{"@type":"HowToStep","position":3,"name":"Velg forsterkningen","text":"Dra «Volummultiplikasjon». Start med ×3 til ×5 hvis videoen bare er litt lav; gå til ×10 hvis du knapt hører den. Trykk «Boost lydstyrken til ×N».","url":"https://volumeboosting.com/no/guider/gjor-video-hoyere-iphone/#step-3"},{"@type":"HowToStep","position":4,"name":"Sammenlign Original og Behandlet","text":"Bruk bryteren under knappen for å bytte mellom originalen og den forsterkede versjonen. Høres de høye partiene skurrete ut, gå tilbake og senk multiplikasjonen ett hakk.","url":"https://volumeboosting.com/no/guider/gjor-video-hoyere-iphone/#step-4"},{"@type":"HowToStep","position":5,"name":"Last ned og del","text":"Trykk «Last ned behandlet». Velg Arkiver video i delingsarket for å legge den høyere kopien i Bilder, Arkiver i Filer, eller send den direkte via Meldinger, WhatsApp, AirDrop eller TikTok.","url":"https://volumeboosting.com/no/guider/gjor-video-hoyere-iphone/#step-5"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Steg for steg: gjør en video høyere med Volumforsterker","description":"For et vanlig klipp tar det rundt ett minutt. Du trenger den gratis appen fra App Store og videoen i Bilder eller Filer.","image":"https://volumeboosting.com/img/guides/how-to-make-a-video-louder-on-iphone.webp","totalTime":"PT1M","inLanguage":"no","tool":[{"@type":"HowToTool","name":"Increase Volume – Lydboost"}],"step":[{"@type":"HowToStep","position":1,"name":"Åpne videoen i appen","text":"Åpne appen og legg til videoen fra Bilder eller Filer. Raskere: åpne videoen i Bilder, trykk Del og velg Increase Volume; prosjektet opprettes med en gang.","url":"https://volumeboosting.com/no/guider/gjor-video-hoyere-iphone/#step-1"},{"@type":"HowToStep","position":2,"name":"Sjekk detaljene","text":"Appen viser filnavn, størrelse og varighet, så du vet at det er riktig klipp. Er det mest tale, slå på «Forbedre lydkvalitet».","url":"https://volumeboosting.com/no/guider/gjor-video-hoyere-iphone/#step-2"},{"@type":"HowToStep","position":3,"name":"Velg forsterkningen","text":"Dra «Volummultiplikasjon». Start med ×3 til ×5 hvis videoen bare er litt lav; gå til ×10 hvis du knapt hører den. Trykk «Boost lydstyrken til ×N».","url":"https://volumeboosting.com/no/guider/gjor-video-hoyere-iphone/#step-3"},{"@type":"HowToStep","position":4,"name":"Sammenlign Original og Behandlet","text":"Bruk bryteren under knappen for å bytte mellom originalen og den forsterkede versjonen. Høres de høye partiene skurrete ut, gå tilbake og senk multiplikasjonen ett hakk.","url":"https://volumeboosting.com/no/guider/gjor-video-hoyere-iphone/#step-4"},{"@type":"HowToStep","position":5,"name":"Last ned og del","text":"Trykk «Last ned behandlet». Velg Arkiver video i delingsarket for å legge den høyere kopien i Bilder, Arkiver i Filer, eller send den direkte via Meldinger, WhatsApp, AirDrop eller TikTok.","url":"https://volumeboosting.com/no/guider/gjor-video-hoyere-iphone/#step-5"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"no","mainEntity":[{"@type":"Question","name":"Kan jeg gjøre lyden på en video høyere på iPhone uten app?","acceptedAnswer":{"@type":"Answer","text":"Bare med iMovie, som Apple tilbyr gratis og som gjør et klipp opptil rundt 500 % høyere. Bilder kan ikke øke volumet. For mer enn 5× eller en raskere arbeidsflyt bruker du Volumforsterker."}},{"@type":"Question","name":"Blir videokvaliteten dårligere når jeg øker lyden?","acceptedAnswer":{"@type":"Answer","text":"Bildet endres ikke i det hele tatt. Lyden multipliseres; presser du et opptak som allerede har høye topper for langt, kan det forvrenges og skurre. Derfor har appen bryteren Original/Behandlet, så du lytter før du lagrer."}},{"@type":"Question","name":"Er videoen fortsatt høy når jeg sender den?","acceptedAnswer":{"@type":"Answer","text":"Ja. Forsterkningen ligger i filens lydspor, så den spilles av på det nye nivået på alle telefoner, datamaskiner og sosiale medier."}},{"@type":"Question","name":"Fungerer det med nedlastede videoer?","acceptedAnswer":{"@type":"Answer","text":"Ja, så lenge filen ligger i Bilder eller Filer og ikke er kopibeskyttet. Appen åpner MP4- og MOV-filer fra hvilken som helst kilde."}}]}

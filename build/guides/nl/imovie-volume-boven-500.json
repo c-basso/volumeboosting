@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Schermafbeelding 'Select the amount of boosting': schuifregelaar volumevermenigvuldiging ×10, het dubbele van het maximum van iMovie",
-    "caption": "De ×10 van Audioversterker is ongeveer het dubbele van het maximum van iMovie."
+    "caption": "De ×10 van Audioversterker is ongeveer het dubbele van het maximum van iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

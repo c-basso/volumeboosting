@@ -118,7 +118,7 @@
     <meta property="og:title" content="Πώς να δυναμώσετε ένα φωνητικό μήνυμα WhatsApp ή Viber στο iPhone" />
     <meta property="og:description" content="Χαμηλό φωνητικό WhatsApp ή Viber στο iPhone; Αποκλείστε πρώτα το ακουστικό, μετά εξαγάγετε το μήνυμα και ενισχύστε το έως και 10× με το Increase Volume." />
     <meta property="og:image" content="https://volumeboosting.com/el/site_preview.png" />
-    <meta property="og:image:alt" content="Φύλλο κοινοποίησης του iOS στο Increase Volume με Αποθήκευση στα Αρχεία και επιλογές κοινοποίησης για ενισχυμένο φωνητικό μήνυμα" />
+    <meta property="og:image:alt" content="Φύλλο κοινής χρήσης για το ενισχυμένο αρχείο με Copy, Save Video και Save to Files και την εφαρμογή Volume Boost" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/6.webp" alt="Φύλλο κοινοποίησης του iOS στο Increase Volume με Αποθήκευση στα Αρχεία και επιλογές κοινοποίησης για ενισχυμένο φωνητικό μήνυμα" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp" alt="Φύλλο κοινής χρήσης για το ενισχυμένο αρχείο με Copy, Save Video και Save to Files και την εφαρμογή Volume Boost" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Τα ενισχυμένα φωνητικά μηνύματα αποθηκεύονται στα Αρχεία ή στέλνονται πίσω στη συνομιλία.</figcaption>
             </figure>
@@ -488,10 +509,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Πώς να δυναμώσετε ένα φωνητικό μήνυμα WhatsApp ή Viber στο iPhone","description":"Χαμηλό φωνητικό WhatsApp ή Viber στο iPhone; Αποκλείστε πρώτα το ακουστικό, μετά εξαγάγετε το μήνυμα και ενισχύστε το έως και 10× με το Increase Volume.","image":["https://volumeboosting.com/img/screenshots/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-01","dateModified":"2026-10-01","mainEntityOfPage":"https://volumeboosting.com/el/odigoi/fonitiko-minyma-whatsapp-xamilos-ixos/","inLanguage":"el","about":{"@type":"MobileApplication","name":"Increase Volume – Ενίσχυση ήχου","url":"https://volumeboosting.com/el/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Πώς να δυναμώσετε ένα φωνητικό μήνυμα WhatsApp ή Viber στο iPhone","description":"Χαμηλό φωνητικό WhatsApp ή Viber στο iPhone; Αποκλείστε πρώτα το ακουστικό, μετά εξαγάγετε το μήνυμα και ενισχύστε το έως και 10× με το Increase Volume.","image":["https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-01","dateModified":"2026-10-01","mainEntityOfPage":"https://volumeboosting.com/el/odigoi/fonitiko-minyma-whatsapp-xamilos-ixos/","inLanguage":"el","about":{"@type":"MobileApplication","name":"Increase Volume – Ενίσχυση ήχου","url":"https://volumeboosting.com/el/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Βήμα βήμα: ενισχύστε ένα φωνητικό μήνυμα","description":"Περίπου ένα λεπτό με τη δωρεάν εφαρμογή Increase Volume.","image":"https://volumeboosting.com/img/screenshots/6.webp","totalTime":"PT1M","inLanguage":"el","tool":[{"@type":"HowToTool","name":"Increase Volume – Ενίσχυση ήχου"}],"step":[{"@type":"HowToStep","position":1,"name":"Εξαγάγετε το φωνητικό","text":"Στο WhatsApp, παρατεταμένο πάτημα στο μήνυμα → Προώθηση → εικονίδιο Κοινοποίησης → Increase Volume. (Ή Αποθήκευση στα Αρχεία και προσθήκη από την εφαρμογή.)","url":"https://volumeboosting.com/el/odigoi/fonitiko-minyma-whatsapp-xamilos-ixos/#step-1"},{"@type":"HowToStep","position":2,"name":"Ενεργοποιήστε τη Βελτίωση ποιότητας ήχου","text":"Τα φωνητικά είναι ομιλία· ο διακόπτης κρατά τις λέξεις καθαρές μετά την ενίσχυση.","url":"https://volumeboosting.com/el/odigoi/fonitiko-minyma-whatsapp-xamilos-ixos/#step-2"},{"@type":"HowToStep","position":3,"name":"Ενισχύστε","text":"Ορίστε τον «Πολλαπλασιασμό έντασης» στο ×5 για αρχή, ×8–×10 για πολύ χαμηλό μήνυμα, και πατήστε «Ενίσχυση έντασης».","url":"https://volumeboosting.com/el/odigoi/fonitiko-minyma-whatsapp-xamilos-ixos/#step-3"},{"@type":"HowToStep","position":4,"name":"Συγκρίνετε","text":"Εναλλάξτε Αρχικό/Επεξεργασμένο. Αν η πιο δυνατή λέξη τρίζει, χαμηλώστε τον πολλαπλασιαστή.","url":"https://volumeboosting.com/el/odigoi/fonitiko-minyma-whatsapp-xamilos-ixos/#step-4"},{"@type":"HowToStep","position":5,"name":"Αποθηκεύστε ή προωθήστε","text":"Πατήστε «Λήψη επεξεργασμένου». Αποθηκεύστε στα Αρχεία ή στείλτε το πιο δυνατό αντίγραφο πίσω στο WhatsApp ή στο Viber, για να το ακούσει όλη η ομάδα.","url":"https://volumeboosting.com/el/odigoi/fonitiko-minyma-whatsapp-xamilos-ixos/#step-5"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Βήμα βήμα: ενισχύστε ένα φωνητικό μήνυμα","description":"Περίπου ένα λεπτό με τη δωρεάν εφαρμογή Increase Volume.","image":"https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp","totalTime":"PT1M","inLanguage":"el","tool":[{"@type":"HowToTool","name":"Increase Volume – Ενίσχυση ήχου"}],"step":[{"@type":"HowToStep","position":1,"name":"Εξαγάγετε το φωνητικό","text":"Στο WhatsApp, παρατεταμένο πάτημα στο μήνυμα → Προώθηση → εικονίδιο Κοινοποίησης → Increase Volume. (Ή Αποθήκευση στα Αρχεία και προσθήκη από την εφαρμογή.)","url":"https://volumeboosting.com/el/odigoi/fonitiko-minyma-whatsapp-xamilos-ixos/#step-1"},{"@type":"HowToStep","position":2,"name":"Ενεργοποιήστε τη Βελτίωση ποιότητας ήχου","text":"Τα φωνητικά είναι ομιλία· ο διακόπτης κρατά τις λέξεις καθαρές μετά την ενίσχυση.","url":"https://volumeboosting.com/el/odigoi/fonitiko-minyma-whatsapp-xamilos-ixos/#step-2"},{"@type":"HowToStep","position":3,"name":"Ενισχύστε","text":"Ορίστε τον «Πολλαπλασιασμό έντασης» στο ×5 για αρχή, ×8–×10 για πολύ χαμηλό μήνυμα, και πατήστε «Ενίσχυση έντασης».","url":"https://volumeboosting.com/el/odigoi/fonitiko-minyma-whatsapp-xamilos-ixos/#step-3"},{"@type":"HowToStep","position":4,"name":"Συγκρίνετε","text":"Εναλλάξτε Αρχικό/Επεξεργασμένο. Αν η πιο δυνατή λέξη τρίζει, χαμηλώστε τον πολλαπλασιαστή.","url":"https://volumeboosting.com/el/odigoi/fonitiko-minyma-whatsapp-xamilos-ixos/#step-4"},{"@type":"HowToStep","position":5,"name":"Αποθηκεύστε ή προωθήστε","text":"Πατήστε «Λήψη επεξεργασμένου». Αποθηκεύστε στα Αρχεία ή στείλτε το πιο δυνατό αντίγραφο πίσω στο WhatsApp ή στο Viber, για να το ακούσει όλη η ομάδα.","url":"https://volumeboosting.com/el/odigoi/fonitiko-minyma-whatsapp-xamilos-ixos/#step-5"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"el","mainEntity":[{"@type":"Question","name":"Γιατί τα φωνητικά είναι χαμηλά όταν βάζω το τηλέφωνο στο αυτί;","acceptedAnswer":{"@type":"Answer","text":"Είναι σκόπιμο: όταν καλύπτεται ο αισθητήρας εγγύτητας, το WhatsApp παίζει από το ακουστικό για ιδιωτικότητα. Ανεβάστε την ένταση του ακουστικού με τα κουμπιά ενώ παίζει, ή κρατήστε το τηλέφωνο μακριά για να ακούσετε από το ηχείο."}},{"@type":"Question","name":"Μπορώ να δυναμώσω ένα φωνητικό μέσα στο WhatsApp;","acceptedAnswer":{"@type":"Answer","text":"Όχι. Το WhatsApp έχει ταχύτητες αναπαραγωγής (1×, 1,5×, 2×) αλλά όχι ενίσχυση έντασης. Εξαγάγετε το μήνυμα και ενισχύστε το με το Increase Volume."}},{"@type":"Question","name":"Λειτουργεί και με Viber, Telegram και Messenger;","acceptedAnswer":{"@type":"Answer","text":"Λειτουργεί με κάθε εφαρμογή που αφήνει να κοινοποιήσετε ή να αποθηκεύσετε το αρχείο ήχου. Όπου αυτό δεν γίνεται, βοηθά μια εγγραφή οθόνης κατά την αναπαραγωγή. Τα ενισχυμένα αρχεία στέλνονται πίσω από την ίδια εφαρμογή."}}]}

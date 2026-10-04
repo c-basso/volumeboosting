@@ -118,7 +118,7 @@
     <meta property="og:title" content="Áudio do WhatsApp baixo no iPhone: causas e solução" />
     <meta property="og:description" content="Não consegue ouvir os áudios do WhatsApp no iPhone? Confira o alto-falante de chamadas e o sensor de proximidade e deixe um áudio baixo até 10× mais alto." />
     <meta property="og:image" content="https://volumeboosting.com/pt/site_preview.png" />
-    <meta property="og:image:alt" content="Planilha de compartilhamento do iOS com Copiar, Adicionar etiquetas e Salvar em Arquivos para um áudio amplificado no app Aumentar Volume" />
+    <meta property="og:image:alt" content="Planilha de compartilhamento do arquivo amplificado com Copy, Save Video e Save to Files e o app Volume Boost" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/pt/6.webp" alt="Planilha de compartilhamento do iOS com Copiar, Adicionar etiquetas e Salvar em Arquivos para um áudio amplificado no app Aumentar Volume" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp" alt="Planilha de compartilhamento do arquivo amplificado com Copy, Save Video e Save to Files e o app Volume Boost" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Depois de amplificar, mande a cópia mais alta de volta ao WhatsApp ou salve no Arquivos.</figcaption>
             </figure>
@@ -484,10 +505,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Áudio do WhatsApp baixo no iPhone: causas e solução","description":"Não consegue ouvir os áudios do WhatsApp no iPhone? Confira o alto-falante de chamadas e o sensor de proximidade e deixe um áudio baixo até 10× mais alto.","image":["https://volumeboosting.com/img/screenshots/pt/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/pt/guias/audio-do-whatsapp-baixo/","inLanguage":"pt","about":{"@type":"MobileApplication","name":"Increase Volume – Reforço de som","url":"https://volumeboosting.com/pt/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Áudio do WhatsApp baixo no iPhone: causas e solução","description":"Não consegue ouvir os áudios do WhatsApp no iPhone? Confira o alto-falante de chamadas e o sensor de proximidade e deixe um áudio baixo até 10× mais alto.","image":["https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/pt/guias/audio-do-whatsapp-baixo/","inLanguage":"pt","about":{"@type":"MobileApplication","name":"Increase Volume – Reforço de som","url":"https://volumeboosting.com/pt/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Aumente o volume de um áudio do WhatsApp com o app","description":"Cerca de 30 segundos por áudio quando o arquivo está no Arquivos.","image":"https://volumeboosting.com/img/screenshots/pt/6.webp","totalTime":"PT1M","inLanguage":"pt","tool":[{"@type":"HowToTool","name":"Increase Volume – Reforço de som"}],"step":[{"@type":"HowToStep","position":1,"name":"Importe o áudio","text":"Abra o app Aumentar Volume e adicione o arquivo do Arquivos, ou compartilhe direto do WhatsApp para Increase Volume.","url":"https://volumeboosting.com/pt/guias/audio-do-whatsapp-baixo/#step-1"},{"@type":"HowToStep","position":2,"name":"Ative «Melhorar qualidade do áudio»","text":"A fala fica mais fácil de entender com a melhoria ativada; ela destaca a voz sobre o fundo.","url":"https://volumeboosting.com/pt/guias/audio-do-whatsapp-baixo/#step-2"},{"@type":"HowToStep","position":3,"name":"Amplifique ×5–×10","text":"Arraste «Multiplicação do volume». Gravações baixas de celular costumam aguentar ×6–×10. Toque em «Amplificar volume para ×N».","url":"https://volumeboosting.com/pt/guias/audio-do-whatsapp-baixo/#step-3"},{"@type":"HowToStep","position":4,"name":"Ouça e salve","text":"Alterne entre Original e Processado, toque em «Baixar processado» e salve no Arquivos ou mande a cópia mais alta de volta no WhatsApp.","url":"https://volumeboosting.com/pt/guias/audio-do-whatsapp-baixo/#step-4"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Aumente o volume de um áudio do WhatsApp com o app","description":"Cerca de 30 segundos por áudio quando o arquivo está no Arquivos.","image":"https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp","totalTime":"PT1M","inLanguage":"pt","tool":[{"@type":"HowToTool","name":"Increase Volume – Reforço de som"}],"step":[{"@type":"HowToStep","position":1,"name":"Importe o áudio","text":"Abra o app Aumentar Volume e adicione o arquivo do Arquivos, ou compartilhe direto do WhatsApp para Increase Volume.","url":"https://volumeboosting.com/pt/guias/audio-do-whatsapp-baixo/#step-1"},{"@type":"HowToStep","position":2,"name":"Ative «Melhorar qualidade do áudio»","text":"A fala fica mais fácil de entender com a melhoria ativada; ela destaca a voz sobre o fundo.","url":"https://volumeboosting.com/pt/guias/audio-do-whatsapp-baixo/#step-2"},{"@type":"HowToStep","position":3,"name":"Amplifique ×5–×10","text":"Arraste «Multiplicação do volume». Gravações baixas de celular costumam aguentar ×6–×10. Toque em «Amplificar volume para ×N».","url":"https://volumeboosting.com/pt/guias/audio-do-whatsapp-baixo/#step-3"},{"@type":"HowToStep","position":4,"name":"Ouça e salve","text":"Alterne entre Original e Processado, toque em «Baixar processado» e salve no Arquivos ou mande a cópia mais alta de volta no WhatsApp.","url":"https://volumeboosting.com/pt/guias/audio-do-whatsapp-baixo/#step-4"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"pt","mainEntity":[{"@type":"Question","name":"Por que os áudios do WhatsApp estão tão baixos no iPhone?","acceptedAnswer":{"@type":"Answer","text":"Na maioria das vezes porque o sensor de proximidade troca para o alto-falante de chamadas quando o celular está perto do rosto. Afaste o aparelho e aumente o volume de mídia enquanto o áudio toca."}},{"@type":"Question","name":"Dá para aumentar o volume de um áudio só no WhatsApp?","acceptedAnswer":{"@type":"Answer","text":"Não dentro do WhatsApp. Exporte o áudio por Encaminhar → Compartilhar, amplifique no app Aumentar Volume e use a cópia mais alta."}},{"@type":"Question","name":"O áudio perde qualidade ao ser amplificado?","acceptedAnswer":{"@type":"Answer","text":"A voz fica mais alta sem novos artefatos, mas o ruído de fundo que já existe também sobe. Comece moderado e aumente comparando Original e Processado."}}]}

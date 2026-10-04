@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-hub">
@@ -223,7 +244,7 @@
             
             <li class="guide-card guide-card-media">
               <a href="https://volumeboosting.com/th/guide/phoem-siang-video-iphone/">
-                <span class="guide-card-thumb"><img src="/img/screenshots/2.webp" alt="" width="460" height="995" loading="lazy" decoding="async" /></span>
+                <span class="guide-card-thumb"><img src="/img/guides/how-to-make-a-video-louder-on-iphone.webp" alt="" width="460" height="995" loading="lazy" decoding="async" /></span>
                 <span class="guide-card-text">
                   <span class="guide-card-eyebrow">วิดีโอ</span>
                   <span class="guide-card-title">เพิ่มเสียงวิดีโอ</span>
@@ -235,7 +256,7 @@
             
             <li class="guide-card guide-card-media">
               <a href="https://volumeboosting.com/th/guide/line-whatsapp-voice-message-siang-bao/">
-                <span class="guide-card-thumb"><img src="/img/screenshots/6.webp" alt="" width="460" height="995" loading="lazy" decoding="async" /></span>
+                <span class="guide-card-thumb"><img src="/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp" alt="" width="460" height="995" loading="lazy" decoding="async" /></span>
                 <span class="guide-card-text">
                   <span class="guide-card-eyebrow">LINE / WhatsApp</span>
                   <span class="guide-card-title">ข้อความเสียงเบา</span>
@@ -259,7 +280,7 @@
             
             <li class="guide-card guide-card-media">
               <a href="https://volumeboosting.com/th/guide/phoem-siang-banthuek-siang/">
-                <span class="guide-card-thumb"><img src="/img/screenshots/4.webp" alt="" width="460" height="995" loading="lazy" decoding="async" /></span>
+                <span class="guide-card-thumb"><img src="/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp" alt="" width="460" height="995" loading="lazy" decoding="async" /></span>
                 <span class="guide-card-text">
                   <span class="guide-card-eyebrow">เสียงบันทึก</span>
                   <span class="guide-card-title">ไฟล์อัดเสียงเบา</span>
@@ -319,7 +340,7 @@
             
             <li class="guide-card guide-card-media">
               <a href="https://volumeboosting.com/th/guide/phoem-siang-video-jak-rup-phap/">
-                <span class="guide-card-thumb"><img src="/img/screenshots/6.webp" alt="" width="460" height="995" loading="lazy" decoding="async" /></span>
+                <span class="guide-card-thumb"><img src="/img/guides/how-to-boost-video-volume-from-the-photos-app.webp" alt="" width="460" height="995" loading="lazy" decoding="async" /></span>
                 <span class="guide-card-text">
                   <span class="guide-card-eyebrow">รูปภาพ</span>
                   <span class="guide-card-title">บูสต์จากรูปภาพ</span>

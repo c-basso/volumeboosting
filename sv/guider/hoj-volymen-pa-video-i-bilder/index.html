@@ -118,7 +118,7 @@
     <meta property="og:title" content="Så höjer du volymen på en video från Bilder-appen" />
     <meta property="og:description" content="Redigeringen i Bilder kan bara stänga av ljudet. Så använder du Dela → Increase Volume för att göra en video upp till 10× högre och spara kopian i Bilder." />
     <meta property="og:image" content="https://volumeboosting.com/sv/site_preview.png" />
-    <meta property="og:image:alt" content="Delningsbladet i iOS med alternativ för den förstärkta filen från Volymförstärkare" />
+    <meta property="og:image:alt" content="Delningsbladet i Bilder för en vald video, med appsymbolen för Volume Boost först i raden med appar" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/6.webp" alt="Delningsbladet i iOS med alternativ för den förstärkta filen från Volymförstärkare" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-boost-video-volume-from-the-photos-app.webp" alt="Delningsbladet i Bilder för en vald video, med appsymbolen för Volume Boost först i raden med appar" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Delningsbladet i iOS skickar videon fram och tillbaka mellan Bilder och appen.</figcaption>
             </figure>
@@ -478,10 +499,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Så höjer du volymen på en video från Bilder-appen","description":"Redigeringen i Bilder kan bara stänga av ljudet. Så använder du Dela → Increase Volume för att göra en video upp till 10× högre och spara kopian i Bilder.","image":["https://volumeboosting.com/img/screenshots/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/sv/guider/hoj-volymen-pa-video-i-bilder/","inLanguage":"sv","about":{"@type":"MobileApplication","name":"Increase Volume – Ljudboost","url":"https://volumeboosting.com/sv/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Så höjer du volymen på en video från Bilder-appen","description":"Redigeringen i Bilder kan bara stänga av ljudet. Så använder du Dela → Increase Volume för att göra en video upp till 10× högre och spara kopian i Bilder.","image":["https://volumeboosting.com/img/guides/how-to-boost-video-volume-from-the-photos-app.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/sv/guider/hoj-volymen-pa-video-i-bilder/","inLanguage":"sv","about":{"@type":"MobileApplication","name":"Increase Volume – Ljudboost","url":"https://volumeboosting.com/sv/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Från Bilder till högre video","description":"Ungefär en minut.","image":"https://volumeboosting.com/img/screenshots/6.webp","totalTime":"PT1M","inLanguage":"sv","tool":[{"@type":"HowToTool","name":"Increase Volume – Ljudboost"}],"step":[{"@type":"HowToStep","position":1,"name":"Öppna videon i Bilder","text":"Tryck på videon och sedan på Dela.","url":"https://volumeboosting.com/sv/guider/hoj-volymen-pa-video-i-bilder/#step-1"},{"@type":"HowToStep","position":2,"name":"Välj Increase Volume","text":"Projektet öppnas direkt i Volymförstärkare.","url":"https://volumeboosting.com/sv/guider/hoj-volymen-pa-video-i-bilder/#step-2"},{"@type":"HowToStep","position":3,"name":"Förstärk","text":"Dra «Volymmultiplikation», tryck på «Boosta volymen till ×N» och jämför Original/Bearbetad.","url":"https://volumeboosting.com/sv/guider/hoj-volymen-pa-video-i-bilder/#step-3"},{"@type":"HowToStep","position":4,"name":"Spara tillbaka i Bilder","text":"Tryck på «Hämta bearbetad» → Spara video.","url":"https://volumeboosting.com/sv/guider/hoj-volymen-pa-video-i-bilder/#step-4"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Från Bilder till högre video","description":"Ungefär en minut.","image":"https://volumeboosting.com/img/guides/how-to-boost-video-volume-from-the-photos-app.webp","totalTime":"PT1M","inLanguage":"sv","tool":[{"@type":"HowToTool","name":"Increase Volume – Ljudboost"}],"step":[{"@type":"HowToStep","position":1,"name":"Öppna videon i Bilder","text":"Tryck på videon och sedan på Dela.","url":"https://volumeboosting.com/sv/guider/hoj-volymen-pa-video-i-bilder/#step-1"},{"@type":"HowToStep","position":2,"name":"Välj Increase Volume","text":"Projektet öppnas direkt i Volymförstärkare.","url":"https://volumeboosting.com/sv/guider/hoj-volymen-pa-video-i-bilder/#step-2"},{"@type":"HowToStep","position":3,"name":"Förstärk","text":"Dra «Volymmultiplikation», tryck på «Boosta volymen till ×N» och jämför Original/Bearbetad.","url":"https://volumeboosting.com/sv/guider/hoj-volymen-pa-video-i-bilder/#step-3"},{"@type":"HowToStep","position":4,"name":"Spara tillbaka i Bilder","text":"Tryck på «Hämta bearbetad» → Spara video.","url":"https://volumeboosting.com/sv/guider/hoj-volymen-pa-video-i-bilder/#step-4"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"sv","mainEntity":[{"@type":"Question","name":"Kan Bilder-appen göra en video högre?","acceptedAnswer":{"@type":"Answer","text":"Nej. Bilder kan bara stänga av ljudet eller justera Ljudmix på modeller som stöds."}},{"@type":"Question","name":"Ersätter appen originalvideon?","acceptedAnswer":{"@type":"Answer","text":"Nej. Den sparar alltid en ny kopia; originalet förblir oförändrat."}},{"@type":"Question","name":"Fungerar det med Live Photos?","acceptedAnswer":{"@type":"Answer","text":"Appen arbetar med videofiler. Spara Live Photo som video i Bilder först."}}]}

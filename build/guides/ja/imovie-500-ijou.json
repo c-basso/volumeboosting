@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "「Select the amount of boosting」の画面：iMovieの最大の2倍にあたる×10の音量倍率スライダー",
-    "caption": "音量ブースターの×10は、iMovieの最大値のおよそ2倍です。"
+    "caption": "音量ブースターの×10は、iMovieの最大値のおよそ2倍です。",
+    "hide_in_article": true
   },
   "sections": [
     {

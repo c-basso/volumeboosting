@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/fr/4.webp",
     "alt": "Capture « Sélectionnez le niveau d'amplification » : curseur de multiplication du volume ×10, le double du maximum d'iMovie",
-    "caption": "Le ×10 de l'Amplificateur de Volume Audio représente environ le double du maximum d'iMovie."
+    "caption": "Le ×10 de l'Amplificateur de Volume Audio représente environ le double du maximum d'iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

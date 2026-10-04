@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Cursorul „Multiplicare volum ×10” și butonul „Amplifică volumul la ×10” în Volume Boost",
-    "caption": "Volume Boost ajunge la ×10, de două ori limita din iMovie."
+    "caption": "Volume Boost ajunge la ×10, de două ori limita din iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

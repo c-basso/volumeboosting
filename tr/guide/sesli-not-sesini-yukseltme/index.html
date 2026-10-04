@@ -118,7 +118,7 @@
     <meta property="og:title" content="iPhone'da sesli not kaydının sesi nasıl yükseltilir" />
     <meta property="og:description" content="Sesli Notlar'daki «Kaydı İyileştir» gürültüyü azaltır ama sesi yükseltmez. Ders veya toplantı kaydını Ses Yükseltici ile 10 kata kadar daha yüksek yapın." />
     <meta property="og:image" content="https://volumeboosting.com/tr/site_preview.png" />
-    <meta property="og:image:alt" content="Ses Yükseltici'de «Ses kalitesini iyileştir» anahtarı ve «Ses çarpanı ×10» kaydırıcısı" />
+    <meta property="og:image:alt" content="Ses Yükseltici'deki Bass & Voice paneli: Bass x10 ve Voice x10 kaydırıcıları ile Reduce noise anahtarı" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/tr/4.webp" alt="Ses Yükseltici'de «Ses kalitesini iyileştir» anahtarı ve «Ses çarpanı ×10» kaydırıcısı" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp" alt="Ses Yükseltici'deki Bass & Voice paneli: Bass x10 ve Voice x10 kaydırıcıları ile Reduce noise anahtarı" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Konuşma için iyileştirmeyi açın ve orta bir güçlendirmeyle başlayın.</figcaption>
             </figure>
@@ -473,10 +494,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"iPhone'da sesli not kaydının sesi nasıl yükseltilir","description":"Sesli Notlar'daki «Kaydı İyileştir» gürültüyü azaltır ama sesi yükseltmez. Ders veya toplantı kaydını Ses Yükseltici ile 10 kata kadar daha yüksek yapın.","image":["https://volumeboosting.com/img/screenshots/tr/4.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-04","dateModified":"2026-10-04","mainEntityOfPage":"https://volumeboosting.com/tr/guide/sesli-not-sesini-yukseltme/","inLanguage":"tr","about":{"@type":"MobileApplication","name":"Increase Volume – Ses güçlendirme","url":"https://volumeboosting.com/tr/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"iPhone'da sesli not kaydının sesi nasıl yükseltilir","description":"Sesli Notlar'daki «Kaydı İyileştir» gürültüyü azaltır ama sesi yükseltmez. Ders veya toplantı kaydını Ses Yükseltici ile 10 kata kadar daha yüksek yapın.","image":["https://volumeboosting.com/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-04","dateModified":"2026-10-04","mainEntityOfPage":"https://volumeboosting.com/tr/guide/sesli-not-sesini-yukseltme/","inLanguage":"tr","about":{"@type":"MobileApplication","name":"Increase Volume – Ses güçlendirme","url":"https://volumeboosting.com/tr/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Adım adım: sesli notu yükseltin","description":"Yaklaşık bir dakika.","image":"https://volumeboosting.com/img/screenshots/tr/4.webp","totalTime":"PT1M","inLanguage":"tr","tool":[{"@type":"HowToTool","name":"Increase Volume – Ses güçlendirme"}],"step":[{"@type":"HowToStep","position":1,"name":"Kaydı paylaşın","text":"Sesli Notlar → kayıt → … → Paylaş → Ses Yükseltici.","url":"https://volumeboosting.com/tr/guide/sesli-not-sesini-yukseltme/#step-1"},{"@type":"HowToStep","position":2,"name":"Konuşma için iyileştirme","text":"«Ses kalitesini iyileştir»i açın.","url":"https://volumeboosting.com/tr/guide/sesli-not-sesini-yukseltme/#step-2"},{"@type":"HowToStep","position":3,"name":"Güçlendirmeyi seçin","text":"Yakın kayıt için ×2–×3, odanın öbür ucundan ×4–×6. «Sesi güçlendir»e dokunun ve orijinalle karşılaştırın.","url":"https://volumeboosting.com/tr/guide/sesli-not-sesini-yukseltme/#step-3"},{"@type":"HowToStep","position":4,"name":"Kaydedin","text":"«İşlenmişi indir» → Dosyalar'a Kaydet.","url":"https://volumeboosting.com/tr/guide/sesli-not-sesini-yukseltme/#step-4"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Adım adım: sesli notu yükseltin","description":"Yaklaşık bir dakika.","image":"https://volumeboosting.com/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp","totalTime":"PT1M","inLanguage":"tr","tool":[{"@type":"HowToTool","name":"Increase Volume – Ses güçlendirme"}],"step":[{"@type":"HowToStep","position":1,"name":"Kaydı paylaşın","text":"Sesli Notlar → kayıt → … → Paylaş → Ses Yükseltici.","url":"https://volumeboosting.com/tr/guide/sesli-not-sesini-yukseltme/#step-1"},{"@type":"HowToStep","position":2,"name":"Konuşma için iyileştirme","text":"«Ses kalitesini iyileştir»i açın.","url":"https://volumeboosting.com/tr/guide/sesli-not-sesini-yukseltme/#step-2"},{"@type":"HowToStep","position":3,"name":"Güçlendirmeyi seçin","text":"Yakın kayıt için ×2–×3, odanın öbür ucundan ×4–×6. «Sesi güçlendir»e dokunun ve orijinalle karşılaştırın.","url":"https://volumeboosting.com/tr/guide/sesli-not-sesini-yukseltme/#step-3"},{"@type":"HowToStep","position":4,"name":"Kaydedin","text":"«İşlenmişi indir» → Dosyalar'a Kaydet.","url":"https://volumeboosting.com/tr/guide/sesli-not-sesini-yukseltme/#step-4"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"tr","mainEntity":[{"@type":"Question","name":"Sesli Notlar'da ses yükseltme seçeneği var mı?","acceptedAnswer":{"@type":"Answer","text":"Hayır. «Kaydı İyileştir» yalnızca gürültüyü azaltır. Sesi artırmak için Ses Yükseltici gibi bir uygulama gerekir."}},{"@type":"Question","name":"Orijinal kayıt değişir mi?","acceptedAnswer":{"@type":"Answer","text":"Hayır. Ses Yükseltici yeni bir kopya oluşturur; orijinal Sesli Notlar'da kalır."}},{"@type":"Question","name":"Ne kadar güçlendirmeliyim?","acceptedAnswer":{"@type":"Answer","text":"Genellikle ×2–×6. Cızırtı duyarsanız bir kademe düşürün."}}]}

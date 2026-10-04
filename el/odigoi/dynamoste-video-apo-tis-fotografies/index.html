@@ -118,7 +118,7 @@
     <meta property="og:title" content="Πώς να δυναμώσετε ένα βίντεο απευθείας από τις Φωτογραφίες" />
     <meta property="og:description" content="Οι Φωτογραφίες δεν έχουν ρυθμιστικό έντασης. Πατήστε Κοινοποίηση, επιλέξτε Increase Volume, σύρετε έως 10× και αποθηκεύστε το δυνατό αντίγραφο στις Φωτογραφίες." />
     <meta property="og:image" content="https://volumeboosting.com/el/site_preview.png" />
-    <meta property="og:image:alt" content="Φύλλο κοινοποίησης του iOS από το Increase Volume με επιλογές αποθήκευσης του ενισχυμένου βίντεο στις Φωτογραφίες ή στα Αρχεία" />
+    <meta property="og:image:alt" content="Φύλλο κοινής χρήσης στις Φωτογραφίες για επιλεγμένο βίντεο, με το εικονίδιο της εφαρμογής Volume Boost πρώτο" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/6.webp" alt="Φύλλο κοινοποίησης του iOS από το Increase Volume με επιλογές αποθήκευσης του ενισχυμένου βίντεο στις Φωτογραφίες ή στα Αρχεία" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-boost-video-volume-from-the-photos-app.webp" alt="Φύλλο κοινής χρήσης στις Φωτογραφίες για επιλεγμένο βίντεο, με το εικονίδιο της εφαρμογής Volume Boost πρώτο" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Το ενισχυμένο αντίγραφο επιστρέφει στις Φωτογραφίες μέσω Κοινοποίησης· το πρωτότυπο μένει όπως ήταν.</figcaption>
             </figure>
@@ -488,10 +509,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Πώς να δυναμώσετε ένα βίντεο απευθείας από τις Φωτογραφίες","description":"Οι Φωτογραφίες δεν έχουν ρυθμιστικό έντασης. Πατήστε Κοινοποίηση, επιλέξτε Increase Volume, σύρετε έως 10× και αποθηκεύστε το δυνατό αντίγραφο στις Φωτογραφίες.","image":["https://volumeboosting.com/img/screenshots/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-01","dateModified":"2026-10-01","mainEntityOfPage":"https://volumeboosting.com/el/odigoi/dynamoste-video-apo-tis-fotografies/","inLanguage":"el","about":{"@type":"MobileApplication","name":"Increase Volume – Ενίσχυση ήχου","url":"https://volumeboosting.com/el/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Πώς να δυναμώσετε ένα βίντεο απευθείας από τις Φωτογραφίες","description":"Οι Φωτογραφίες δεν έχουν ρυθμιστικό έντασης. Πατήστε Κοινοποίηση, επιλέξτε Increase Volume, σύρετε έως 10× και αποθηκεύστε το δυνατό αντίγραφο στις Φωτογραφίες.","image":["https://volumeboosting.com/img/guides/how-to-boost-video-volume-from-the-photos-app.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-01","dateModified":"2026-10-01","mainEntityOfPage":"https://volumeboosting.com/el/odigoi/dynamoste-video-apo-tis-fotografies/","inLanguage":"el","about":{"@type":"MobileApplication","name":"Increase Volume – Ενίσχυση ήχου","url":"https://volumeboosting.com/el/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Βήμα βήμα: από τις Φωτογραφίες σε πιο δυνατό βίντεο","description":"Δεν χρειάζεται να ανοίξετε πρώτα το Increase Volume· ξεκινήστε από τις Φωτογραφίες.","image":"https://volumeboosting.com/img/screenshots/6.webp","totalTime":"PT1M","inLanguage":"el","tool":[{"@type":"HowToTool","name":"Increase Volume – Ενίσχυση ήχου"}],"step":[{"@type":"HowToStep","position":1,"name":"Ανοίξτε το βίντεο στις Φωτογραφίες","text":"Βρείτε το χαμηλό βίντεο και ανοίξτε το σε πλήρη οθόνη.","url":"https://volumeboosting.com/el/odigoi/dynamoste-video-apo-tis-fotografies/#step-1"},{"@type":"HowToStep","position":2,"name":"Κοινοποίηση → Increase Volume","text":"Πατήστε Κοινοποίηση, κυλήστε τη σειρά εικονιδίων και πατήστε Increase Volume. Ανοίγει νέο έργο.","url":"https://volumeboosting.com/el/odigoi/dynamoste-video-apo-tis-fotografies/#step-2"},{"@type":"HowToStep","position":3,"name":"Ενισχύστε","text":"Σύρετε τον «Πολλαπλασιασμό έντασης» στο επίπεδο που χρειάζεστε (×3–×10), ενεργοποιήστε τη «Βελτίωση ποιότητας ήχου» για ομιλία και πατήστε «Ενίσχυση έντασης».","url":"https://volumeboosting.com/el/odigoi/dynamoste-video-apo-tis-fotografies/#step-3"},{"@type":"HowToStep","position":4,"name":"Συγκρίνετε","text":"Με τον διακόπτη Αρχικό/Επεξεργασμένο ακούστε τη διαφορά.","url":"https://volumeboosting.com/el/odigoi/dynamoste-video-apo-tis-fotografies/#step-4"},{"@type":"HowToStep","position":5,"name":"Αποθήκευση βίντεο","text":"Πατήστε «Λήψη επεξεργασμένου» και μετά Αποθήκευση βίντεο. Στις Φωτογραφίες, το πιο δυνατό αντίγραφο βρίσκεται αμέσως μετά το πρωτότυπο.","url":"https://volumeboosting.com/el/odigoi/dynamoste-video-apo-tis-fotografies/#step-5"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Βήμα βήμα: από τις Φωτογραφίες σε πιο δυνατό βίντεο","description":"Δεν χρειάζεται να ανοίξετε πρώτα το Increase Volume· ξεκινήστε από τις Φωτογραφίες.","image":"https://volumeboosting.com/img/guides/how-to-boost-video-volume-from-the-photos-app.webp","totalTime":"PT1M","inLanguage":"el","tool":[{"@type":"HowToTool","name":"Increase Volume – Ενίσχυση ήχου"}],"step":[{"@type":"HowToStep","position":1,"name":"Ανοίξτε το βίντεο στις Φωτογραφίες","text":"Βρείτε το χαμηλό βίντεο και ανοίξτε το σε πλήρη οθόνη.","url":"https://volumeboosting.com/el/odigoi/dynamoste-video-apo-tis-fotografies/#step-1"},{"@type":"HowToStep","position":2,"name":"Κοινοποίηση → Increase Volume","text":"Πατήστε Κοινοποίηση, κυλήστε τη σειρά εικονιδίων και πατήστε Increase Volume. Ανοίγει νέο έργο.","url":"https://volumeboosting.com/el/odigoi/dynamoste-video-apo-tis-fotografies/#step-2"},{"@type":"HowToStep","position":3,"name":"Ενισχύστε","text":"Σύρετε τον «Πολλαπλασιασμό έντασης» στο επίπεδο που χρειάζεστε (×3–×10), ενεργοποιήστε τη «Βελτίωση ποιότητας ήχου» για ομιλία και πατήστε «Ενίσχυση έντασης».","url":"https://volumeboosting.com/el/odigoi/dynamoste-video-apo-tis-fotografies/#step-3"},{"@type":"HowToStep","position":4,"name":"Συγκρίνετε","text":"Με τον διακόπτη Αρχικό/Επεξεργασμένο ακούστε τη διαφορά.","url":"https://volumeboosting.com/el/odigoi/dynamoste-video-apo-tis-fotografies/#step-4"},{"@type":"HowToStep","position":5,"name":"Αποθήκευση βίντεο","text":"Πατήστε «Λήψη επεξεργασμένου» και μετά Αποθήκευση βίντεο. Στις Φωτογραφίες, το πιο δυνατό αντίγραφο βρίσκεται αμέσως μετά το πρωτότυπο.","url":"https://volumeboosting.com/el/odigoi/dynamoste-video-apo-tis-fotografies/#step-5"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"el","mainEntity":[{"@type":"Question","name":"Αντικαθιστά η ενίσχυση από τις Φωτογραφίες το αρχικό βίντεο;","acceptedAnswer":{"@type":"Answer","text":"Όχι. Το Increase Volume γράφει πάντα νέο αρχείο. Με την Αποθήκευση βίντεο προστίθεται δεύτερο αντίγραφο στις Φωτογραφίες· το πρωτότυπο μένει ίδιο."}},{"@type":"Question","name":"Μπορώ να ενισχύσω Live Photos ή βίντεο αργής κίνησης;","acceptedAnswer":{"@type":"Answer","text":"Τα βίντεο αργής κίνησης και time-lapse εξάγονται ως κανονικά βίντεο και ενισχύονται. Τα Live Photos είναι φωτογραφίες με σύντομο κλιπ και δεν υποστηρίζονται ως βίντεο."}},{"@type":"Question","name":"Γιατί οι Φωτογραφίες δεν έχουν ρυθμιστικό έντασης;","acceptedAnswer":{"@type":"Answer","text":"Η Apple βλέπει τις Φωτογραφίες ως εργαλείο γρήγορων διορθώσεων και αφήνει τις αλλαγές επιπέδου στο iMovie. Το iMovie ανεβάζει την ένταση περίπου στο 500%· το Increase Volume φτάνει στο ×10 και δουλεύει από την Κοινοποίηση."}}]}

@@ -14,8 +14,8 @@
     "Phần lớn video nằm trong ứng dụng Ảnh nên bắt đầu từ đó là tự nhiên nhất. Trình sửa của Ảnh không có thanh âm lượng, nhưng có thể gửi video thẳng sang Tăng Âm Lượng Video qua bảng chia sẻ và kết quả sẽ trở về Ảnh."
   ],
   "screenshot": {
-    "src": "/img/screenshots/6.webp",
-    "alt": "Bảng chia sẻ iOS hiển thị tùy chọn cho tệp đã tăng âm lượng từ Tăng Âm Lượng Video",
+    "src": "/img/guides/how-to-boost-video-volume-from-the-photos-app.webp",
+    "alt": "Bảng chia sẻ trong Ảnh cho video đã chọn, biểu tượng ứng dụng Volume Boost đứng đầu hàng ứng dụng",
     "caption": "«Lưu video» đưa bản to hơn trở lại Ảnh."
   },
   "sections": [

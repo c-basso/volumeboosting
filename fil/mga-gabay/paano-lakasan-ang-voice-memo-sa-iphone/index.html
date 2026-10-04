@@ -118,7 +118,7 @@
     <meta property="og:title" content="Paano lakasan ang voice memo sa iPhone" />
     <meta property="og:description" content="Inaalis ng Enhance Recording ang ingay pero hindi nito nilalakasan ang file. Ganito i-boost ang mahinang voice memo hanggang 10× gamit ang Increase Volume." />
     <meta property="og:image" content="https://volumeboosting.com/fil/site_preview.png" />
-    <meta property="og:image:alt" content="Increase Volume na may detalye ng recording, Improve Audio Quality toggle at Volume multiplication ×10 slider" />
+    <meta property="og:image:alt" content="Panel na Bass & Voice sa Increase Volume: mga slider na Bass x10 at Voice x10 at toggle na Reduce noise" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/4.webp" alt="Increase Volume na may detalye ng recording, Improve Audio Quality toggle at Volume multiplication ×10 slider" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp" alt="Panel na Bass & Voice sa Increase Volume: mga slider na Bass x10 at Voice x10 at toggle na Reduce noise" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Para sa boses, i-on ang «Improve Audio Quality» bago mag-boost.</figcaption>
             </figure>
@@ -490,10 +511,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Paano lakasan ang voice memo sa iPhone","description":"Inaalis ng Enhance Recording ang ingay pero hindi nito nilalakasan ang file. Ganito i-boost ang mahinang voice memo hanggang 10× gamit ang Increase Volume.","image":["https://volumeboosting.com/img/screenshots/4.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/fil/mga-gabay/paano-lakasan-ang-voice-memo-sa-iphone/","inLanguage":"fil","about":{"@type":"MobileApplication","name":"Increase Volume – Palakas ng tunog","url":"https://volumeboosting.com/fil/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Paano lakasan ang voice memo sa iPhone","description":"Inaalis ng Enhance Recording ang ingay pero hindi nito nilalakasan ang file. Ganito i-boost ang mahinang voice memo hanggang 10× gamit ang Increase Volume.","image":["https://volumeboosting.com/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/fil/mga-gabay/paano-lakasan-ang-voice-memo-sa-iphone/","inLanguage":"fil","about":{"@type":"MobileApplication","name":"Increase Volume – Palakas ng tunog","url":"https://volumeboosting.com/fil/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Step by step: lakasan ang voice memo","description":"Gumagana sa kahit anong memo na nasa Voice Memos na.","image":"https://volumeboosting.com/img/screenshots/4.webp","totalTime":"PT1M","inLanguage":"fil","tool":[{"@type":"HowToTool","name":"Increase Volume – Palakas ng tunog"}],"step":[{"@type":"HowToStep","position":1,"name":"I-share ang memo sa Increase Volume","text":"Sa Voice Memos, i-tap ang memo, i-tap ang ⋯, piliin ang Share, at piliin ang Increase Volume. (O Save to Files muna at idagdag mula sa app.)","url":"https://volumeboosting.com/fil/mga-gabay/paano-lakasan-ang-voice-memo-sa-iphone/#step-1"},{"@type":"HowToStep","position":2,"name":"I-on ang Improve Audio Quality","text":"I-on ang toggle para boses ang unahin ng boost.","url":"https://volumeboosting.com/fil/mga-gabay/paano-lakasan-ang-voice-memo-sa-iphone/#step-2"},{"@type":"HowToStep","position":3,"name":"I-set ang multiplier","text":"I-drag ang «Volume multiplication» sa ×5 bilang simula; kadalasang ×8–×10 ang kailangan ng malalayong recording. I-tap ang «Boost Volume».","url":"https://volumeboosting.com/fil/mga-gabay/paano-lakasan-ang-voice-memo-sa-iphone/#step-3"},{"@type":"HowToStep","position":4,"name":"Ikumpara","text":"Magpalit sa Orihinal at Na-process sa pinakamalakas na parte ng memo (tawa, kalabog ng tasa). Kung may lagutok, bawasan ang multiplier.","url":"https://volumeboosting.com/fil/mga-gabay/paano-lakasan-ang-voice-memo-sa-iphone/#step-4"},{"@type":"HowToStep","position":5,"name":"Download Processed","text":"I-tap ang «Download Processed» at piliin ang Save to Files, o ipadala diretso ang mas malakas na memo sa Messages, Mail, Messenger o Notes.","url":"https://volumeboosting.com/fil/mga-gabay/paano-lakasan-ang-voice-memo-sa-iphone/#step-5"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Step by step: lakasan ang voice memo","description":"Gumagana sa kahit anong memo na nasa Voice Memos na.","image":"https://volumeboosting.com/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp","totalTime":"PT1M","inLanguage":"fil","tool":[{"@type":"HowToTool","name":"Increase Volume – Palakas ng tunog"}],"step":[{"@type":"HowToStep","position":1,"name":"I-share ang memo sa Increase Volume","text":"Sa Voice Memos, i-tap ang memo, i-tap ang ⋯, piliin ang Share, at piliin ang Increase Volume. (O Save to Files muna at idagdag mula sa app.)","url":"https://volumeboosting.com/fil/mga-gabay/paano-lakasan-ang-voice-memo-sa-iphone/#step-1"},{"@type":"HowToStep","position":2,"name":"I-on ang Improve Audio Quality","text":"I-on ang toggle para boses ang unahin ng boost.","url":"https://volumeboosting.com/fil/mga-gabay/paano-lakasan-ang-voice-memo-sa-iphone/#step-2"},{"@type":"HowToStep","position":3,"name":"I-set ang multiplier","text":"I-drag ang «Volume multiplication» sa ×5 bilang simula; kadalasang ×8–×10 ang kailangan ng malalayong recording. I-tap ang «Boost Volume».","url":"https://volumeboosting.com/fil/mga-gabay/paano-lakasan-ang-voice-memo-sa-iphone/#step-3"},{"@type":"HowToStep","position":4,"name":"Ikumpara","text":"Magpalit sa Orihinal at Na-process sa pinakamalakas na parte ng memo (tawa, kalabog ng tasa). Kung may lagutok, bawasan ang multiplier.","url":"https://volumeboosting.com/fil/mga-gabay/paano-lakasan-ang-voice-memo-sa-iphone/#step-4"},{"@type":"HowToStep","position":5,"name":"Download Processed","text":"I-tap ang «Download Processed» at piliin ang Save to Files, o ipadala diretso ang mas malakas na memo sa Messages, Mail, Messenger o Notes.","url":"https://volumeboosting.com/fil/mga-gabay/paano-lakasan-ang-voice-memo-sa-iphone/#step-5"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"fil","mainEntity":[{"@type":"Question","name":"Napapalakas ba ng Enhance Recording ang voice memo?","acceptedAnswer":{"@type":"Answer","text":"Hindi. Nagbabawas ito ng background noise at echo habang nagpe-play. Sabi ng Apple, hindi binabago ng mga playback setting na ito ang recording mismo, kaya pareho pa rin ang ini-share na memo."}},{"@type":"Question","name":"Anong format ang lalabas na boosted memo?","acceptedAnswer":{"@type":"Answer","text":"Parehong audio format ng ini-share mo (M4A ang export ng Voice Memos). Gumagawa ng bagong file ang app; hindi nagagalaw ang orihinal mong memo."}},{"@type":"Question","name":"Puwede ko bang lakasan ang memo na pinadala sa akin?","acceptedAnswer":{"@type":"Answer","text":"Oo. I-save ang audio mula sa Messages, Mail o WhatsApp sa Files (o i-share diretso sa Increase Volume) at i-boost sa parehong paraan."}}]}

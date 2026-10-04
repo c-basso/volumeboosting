@@ -118,7 +118,7 @@
     <meta property="og:title" content="Jak zesílit nahrávku z Diktafonu na iPhonu" />
     <meta property="og:description" content="Funkce Vylepšit nahrávku v Diktafonu potlačí šum, ale soubor nezesílí. Zjisti, jak tichou nahrávku zesílit až 10× a uložit jako nový soubor v Increase Volume." />
     <meta property="og:image" content="https://volumeboosting.com/cs/site_preview.png" />
-    <meta property="og:image:alt" content="Increase Volume s údaji o nahrávce, přepínačem Vylepšit kvalitu zvuku a jezdcem Násobek hlasitosti ×10" />
+    <meta property="og:image:alt" content="Panel Bass & Voice v Increase Volume: posuvníky Bass x10 a Voice x10 a přepínač Reduce noise" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/4.webp" alt="Increase Volume s údaji o nahrávce, přepínačem Vylepšit kvalitu zvuku a jezdcem Násobek hlasitosti ×10" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp" alt="Panel Bass & Voice v Increase Volume: posuvníky Bass x10 a Voice x10 a přepínač Reduce noise" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>U mluveného slova zapni před zesílením „Vylepšit kvalitu zvuku“.</figcaption>
             </figure>
@@ -490,10 +511,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Jak zesílit nahrávku z Diktafonu na iPhonu","description":"Funkce Vylepšit nahrávku v Diktafonu potlačí šum, ale soubor nezesílí. Zjisti, jak tichou nahrávku zesílit až 10× a uložit jako nový soubor v Increase Volume.","image":["https://volumeboosting.com/img/screenshots/4.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-01","dateModified":"2026-10-01","mainEntityOfPage":"https://volumeboosting.com/cs/navody/jak-zesilit-nahravku-z-diktafonu-na-iphonu/","inLanguage":"cs","about":{"@type":"MobileApplication","name":"Increase Volume – Zesílení zvuku","url":"https://volumeboosting.com/cs/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Jak zesílit nahrávku z Diktafonu na iPhonu","description":"Funkce Vylepšit nahrávku v Diktafonu potlačí šum, ale soubor nezesílí. Zjisti, jak tichou nahrávku zesílit až 10× a uložit jako nový soubor v Increase Volume.","image":["https://volumeboosting.com/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-01","dateModified":"2026-10-01","mainEntityOfPage":"https://volumeboosting.com/cs/navody/jak-zesilit-nahravku-z-diktafonu-na-iphonu/","inLanguage":"cs","about":{"@type":"MobileApplication","name":"Increase Volume – Zesílení zvuku","url":"https://volumeboosting.com/cs/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Postup: jak zesílit nahrávku z Diktafonu","description":"Funguje u jakékoli nahrávky, kterou už máš v Diktafonu.","image":"https://volumeboosting.com/img/screenshots/4.webp","totalTime":"PT1M","inLanguage":"cs","tool":[{"@type":"HowToTool","name":"Increase Volume – Zesílení zvuku"}],"step":[{"@type":"HowToStep","position":1,"name":"Pošli nahrávku do Increase Volume","text":"V Diktafonu klepni na nahrávku, pak na tlačítko ⋯, zvol Sdílet a v řadě aplikací vyber Increase Volume. (Případně ji nejdřív ulož do Souborů a přidej ji z aplikace.)","url":"https://volumeboosting.com/cs/navody/jak-zesilit-nahravku-z-diktafonu-na-iphonu/#step-1"},{"@type":"HowToStep","position":2,"name":"Zapni Vylepšit kvalitu zvuku","text":"Zapni přepínač, aby zesílení upřednostnilo hlas.","url":"https://volumeboosting.com/cs/navody/jak-zesilit-nahravku-z-diktafonu-na-iphonu/#step-2"},{"@type":"HowToStep","position":3,"name":"Nastav násobek","text":"Posuň „Násobek hlasitosti“ na začátek na ×5; vzdálené nahrávky často potřebují ×8–×10. Klepni na „Zesílit hlasitost“.","url":"https://volumeboosting.com/cs/navody/jak-zesilit-nahravku-z-diktafonu-na-iphonu/#step-3"},{"@type":"HowToStep","position":4,"name":"Porovnej","text":"V nejhlasitějším místě nahrávky (smích, položený hrnek) přepni Původní/Zpracované. Pokud to praská, sniž násobek.","url":"https://volumeboosting.com/cs/navody/jak-zesilit-nahravku-z-diktafonu-na-iphonu/#step-4"},{"@type":"HowToStep","position":5,"name":"Stáhni zpracované","text":"Klepni na „Stáhnout zpracované“ a zvol Uložit do Souborů, nebo hlasitější nahrávku rovnou pošli do Zpráv, Mailu, WhatsAppu nebo Poznámek.","url":"https://volumeboosting.com/cs/navody/jak-zesilit-nahravku-z-diktafonu-na-iphonu/#step-5"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Postup: jak zesílit nahrávku z Diktafonu","description":"Funguje u jakékoli nahrávky, kterou už máš v Diktafonu.","image":"https://volumeboosting.com/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp","totalTime":"PT1M","inLanguage":"cs","tool":[{"@type":"HowToTool","name":"Increase Volume – Zesílení zvuku"}],"step":[{"@type":"HowToStep","position":1,"name":"Pošli nahrávku do Increase Volume","text":"V Diktafonu klepni na nahrávku, pak na tlačítko ⋯, zvol Sdílet a v řadě aplikací vyber Increase Volume. (Případně ji nejdřív ulož do Souborů a přidej ji z aplikace.)","url":"https://volumeboosting.com/cs/navody/jak-zesilit-nahravku-z-diktafonu-na-iphonu/#step-1"},{"@type":"HowToStep","position":2,"name":"Zapni Vylepšit kvalitu zvuku","text":"Zapni přepínač, aby zesílení upřednostnilo hlas.","url":"https://volumeboosting.com/cs/navody/jak-zesilit-nahravku-z-diktafonu-na-iphonu/#step-2"},{"@type":"HowToStep","position":3,"name":"Nastav násobek","text":"Posuň „Násobek hlasitosti“ na začátek na ×5; vzdálené nahrávky často potřebují ×8–×10. Klepni na „Zesílit hlasitost“.","url":"https://volumeboosting.com/cs/navody/jak-zesilit-nahravku-z-diktafonu-na-iphonu/#step-3"},{"@type":"HowToStep","position":4,"name":"Porovnej","text":"V nejhlasitějším místě nahrávky (smích, položený hrnek) přepni Původní/Zpracované. Pokud to praská, sniž násobek.","url":"https://volumeboosting.com/cs/navody/jak-zesilit-nahravku-z-diktafonu-na-iphonu/#step-4"},{"@type":"HowToStep","position":5,"name":"Stáhni zpracované","text":"Klepni na „Stáhnout zpracované“ a zvol Uložit do Souborů, nebo hlasitější nahrávku rovnou pošli do Zpráv, Mailu, WhatsAppu nebo Poznámek.","url":"https://volumeboosting.com/cs/navody/jak-zesilit-nahravku-z-diktafonu-na-iphonu/#step-5"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"cs","mainEntity":[{"@type":"Question","name":"Zesílí nahrávku funkce Vylepšit nahrávku?","acceptedAnswer":{"@type":"Answer","text":"Ne. Potlačí šum a ozvěnu během přehrávání. Apple uvádí, že tato nastavení přehrávání samotnou nahrávku nemění, takže sdílená nahrávka zůstane stejná."}},{"@type":"Question","name":"V jakém formátu bude zesílená nahrávka?","acceptedAnswer":{"@type":"Answer","text":"Ve stejném zvukovém formátu, který jsi sdílel (Diktafon exportuje M4A). Increase Volume vytvoří nový soubor; původní nahrávka zůstane netknutá."}},{"@type":"Question","name":"Můžu zesílit nahrávku, kterou mi někdo poslal?","acceptedAnswer":{"@type":"Answer","text":"Ano. Ulož zvuk ze Zpráv, Mailu nebo WhatsAppu do Souborů (nebo ho rovnou sdílej do Increase Volume) a zesil ho stejně."}}]}

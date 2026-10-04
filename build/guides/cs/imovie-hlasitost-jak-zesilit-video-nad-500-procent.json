@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Increase Volume s jezdcem Násobek hlasitosti ×10, dvojnásobkem maxima iMovie na iPhonu",
-    "caption": "×10 v Increase Volume je zhruba dvojnásobek maxima iMovie."
+    "caption": "×10 v Increase Volume je zhruba dvojnásobek maxima iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

@@ -118,7 +118,7 @@
     <meta property="og:title" content="iPhone-ல் வாய்ஸ் மெமோ பதிவின் சத்தத்தை அதிகரிப்பது எப்படி" />
     <meta property="og:description" content="வாய்ஸ் மெமோவின் «பதிவை மேம்படுத்து» கோப்பை உரத்ததாக்காது. பதிவை ஏற்றுமதி செய்து Increase Volume-ல் 10× வரை பூஸ்ட் செய்து உரத்த M4A-ஐச் சேமியுங்கள்." />
     <meta property="og:image" content="https://volumeboosting.com/ta/site_preview.png" />
-    <meta property="og:image:alt" content="Increase Volume-ல் டிராக் விவரங்கள், «ஆடியோ தரத்தை மேம்படுத்து» இயக்கம், «ஒலியளவு பெருக்கம் ×10» ஸ்லைடர்" />
+    <meta property="og:image:alt" content="Increase Volume-ல் Bass & Voice பேனல்: Bass x10, Voice x10 ஸ்லைடர்கள் மற்றும் Reduce noise டாகிள்" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/4.webp" alt="Increase Volume-ல் டிராக் விவரங்கள், «ஆடியோ தரத்தை மேம்படுத்து» இயக்கம், «ஒலியளவு பெருக்கம் ×10» ஸ்லைடர்" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp" alt="Increase Volume-ல் Bass & Voice பேனல்: Bass x10, Voice x10 ஸ்லைடர்கள் மற்றும் Reduce noise டாகிள்" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>பேச்சுக்கு: «ஆடியோ தரத்தை மேம்படுத்து» இயக்கி பெருக்கத்தைத் தேர்ந்தெடுங்கள்.</figcaption>
             </figure>
@@ -478,10 +499,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"iPhone-ல் வாய்ஸ் மெமோ பதிவின் சத்தத்தை அதிகரிப்பது எப்படி","description":"வாய்ஸ் மெமோவின் «பதிவை மேம்படுத்து» கோப்பை உரத்ததாக்காது. பதிவை ஏற்றுமதி செய்து Increase Volume-ல் 10× வரை பூஸ்ட் செய்து உரத்த M4A-ஐச் சேமியுங்கள்.","image":["https://volumeboosting.com/img/screenshots/4.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-03","dateModified":"2026-10-03","mainEntityOfPage":"https://volumeboosting.com/ta/guide/voice-memo-sound-athigarikka/","inLanguage":"ta","about":{"@type":"MobileApplication","name":"Increase Volume – ஒலி பூஸ்ட்","url":"https://volumeboosting.com/ta/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"iPhone-ல் வாய்ஸ் மெமோ பதிவின் சத்தத்தை அதிகரிப்பது எப்படி","description":"வாய்ஸ் மெமோவின் «பதிவை மேம்படுத்து» கோப்பை உரத்ததாக்காது. பதிவை ஏற்றுமதி செய்து Increase Volume-ல் 10× வரை பூஸ்ட் செய்து உரத்த M4A-ஐச் சேமியுங்கள்.","image":["https://volumeboosting.com/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-03","dateModified":"2026-10-03","mainEntityOfPage":"https://volumeboosting.com/ta/guide/voice-memo-sound-athigarikka/","inLanguage":"ta","about":{"@type":"MobileApplication","name":"Increase Volume – ஒலி பூஸ்ட்","url":"https://volumeboosting.com/ta/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"படிப்படியாக: வாய்ஸ் மெமோ பதிவை பூஸ்ட் செய்யுங்கள்","description":"சில நிமிடப் பதிவுக்கு ஒரு நிமிடத்திற்குள்.","image":"https://volumeboosting.com/img/screenshots/4.webp","totalTime":"PT1M","inLanguage":"ta","tool":[{"@type":"HowToTool","name":"Increase Volume – ஒலி பூஸ்ட்"}],"step":[{"@type":"HowToStep","position":1,"name":"பதிவைப் பகிருங்கள்","text":"வாய்ஸ் மெமோவில்: ⋯ → பகிர் → Increase Volume. செயலி கோப்பின் பெயர், அளவு, நீளம் காட்டும்.","url":"https://volumeboosting.com/ta/guide/voice-memo-sound-athigarikka/#step-1"},{"@type":"HowToStep","position":2,"name":"«ஆடியோ தரத்தை மேம்படுத்து» இயக்குங்கள்","text":"பூஸ்டுடன் குரல் தெளிவாகும்.","url":"https://volumeboosting.com/ta/guide/voice-memo-sound-athigarikka/#step-2"},{"@type":"HowToStep","position":3,"name":"பூஸ்ட் செய்யுங்கள்","text":"«ஒலியளவு பெருக்கம்» ×5–×10-க்கு இழுத்து «ஒலியளவை ×N வரை பூஸ்ட் செய்» தட்டுங்கள்.","url":"https://volumeboosting.com/ta/guide/voice-memo-sound-athigarikka/#step-3"},{"@type":"HowToStep","position":4,"name":"ஒப்பிட்டுச் சேமியுங்கள்","text":"அசல், செயலாக்கப்பட்டதைக் கேட்டு, «செயலாக்கப்பட்டதைப் பதிவிறக்கு» தட்டி கோப்புகளில் சேமி தேர்ந்தெடுங்கள்.","url":"https://volumeboosting.com/ta/guide/voice-memo-sound-athigarikka/#step-4"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"படிப்படியாக: வாய்ஸ் மெமோ பதிவை பூஸ்ட் செய்யுங்கள்","description":"சில நிமிடப் பதிவுக்கு ஒரு நிமிடத்திற்குள்.","image":"https://volumeboosting.com/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp","totalTime":"PT1M","inLanguage":"ta","tool":[{"@type":"HowToTool","name":"Increase Volume – ஒலி பூஸ்ட்"}],"step":[{"@type":"HowToStep","position":1,"name":"பதிவைப் பகிருங்கள்","text":"வாய்ஸ் மெமோவில்: ⋯ → பகிர் → Increase Volume. செயலி கோப்பின் பெயர், அளவு, நீளம் காட்டும்.","url":"https://volumeboosting.com/ta/guide/voice-memo-sound-athigarikka/#step-1"},{"@type":"HowToStep","position":2,"name":"«ஆடியோ தரத்தை மேம்படுத்து» இயக்குங்கள்","text":"பூஸ்டுடன் குரல் தெளிவாகும்.","url":"https://volumeboosting.com/ta/guide/voice-memo-sound-athigarikka/#step-2"},{"@type":"HowToStep","position":3,"name":"பூஸ்ட் செய்யுங்கள்","text":"«ஒலியளவு பெருக்கம்» ×5–×10-க்கு இழுத்து «ஒலியளவை ×N வரை பூஸ்ட் செய்» தட்டுங்கள்.","url":"https://volumeboosting.com/ta/guide/voice-memo-sound-athigarikka/#step-3"},{"@type":"HowToStep","position":4,"name":"ஒப்பிட்டுச் சேமியுங்கள்","text":"அசல், செயலாக்கப்பட்டதைக் கேட்டு, «செயலாக்கப்பட்டதைப் பதிவிறக்கு» தட்டி கோப்புகளில் சேமி தேர்ந்தெடுங்கள்.","url":"https://volumeboosting.com/ta/guide/voice-memo-sound-athigarikka/#step-4"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"ta","mainEntity":[{"@type":"Question","name":"வேறு செயலி இல்லாமல் வாய்ஸ் மெமோ ஒலியளவை அதிகரிக்க முடியுமா?","acceptedAnswer":{"@type":"Answer","text":"முடியாது. வாய்ஸ் மெமோ வெட்டலாம், மாற்றலாம், மேம்படுத்தலாம், ஆனால் கோப்பின் ஒலியளவை பூஸ்ட் செய்யாது."}},{"@type":"Question","name":"பூஸ்ட் செய்த கோப்பு எந்த வடிவத்தில் சேமிக்கப்படும்?","acceptedAnswer":{"@type":"Answer","text":"ஆடியோ கோப்புகள் புதிய ஒலிக் கோப்பாக (வாய்ஸ் மெமோ பதிவுகளுக்கு M4A) சேமிக்கப்படும், அதைக் கோப்புகளில் சேமிக்கலாம் அல்லது பகிரலாம்."}},{"@type":"Question","name":"பின்னணி இரைச்சலும் அதிகரிக்குமா?","acceptedAnswer":{"@type":"Answer","text":"ஆம், பதிவில் உள்ள அனைத்தும் அதிகரிக்கும். «ஆடியோ தரத்தை மேம்படுத்து» குரலைத் தனித்து நிற்க உதவும்."}}]}

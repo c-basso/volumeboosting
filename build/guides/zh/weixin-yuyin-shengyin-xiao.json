@@ -15,8 +15,8 @@
     "先分清问题是在手机设置还是录音本身。然后再处理需要放大的文件。"
   ],
   "screenshot": {
-    "src": "/img/screenshots/6.webp",
-    "alt": "「音量放大器」中已放大音频的 iOS 共享面板，包含「拷贝」「添加标签」和「存储到“文件”」",
+    "src": "/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp",
+    "alt": "放大后文件的共享面板：Copy、Save Video、Save to Files 以及 Volume Boost App",
     "caption": "把放大后的音频存储到「文件」，或直接发回聊天。"
   },
   "sections": [

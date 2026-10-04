@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Snimka zaslona „Select the amount of boosting”: klizač množitelja glasnoće ×10, dvostruko više od maksimuma iMovieja",
-    "caption": "×10 u aplikaciji Pojačaj Glasnoću Zvuka otprilike je dvostruko više od maksimuma iMovieja."
+    "caption": "×10 u aplikaciji Pojačaj Glasnoću Zvuka otprilike je dvostruko više od maksimuma iMovieja.",
+    "hide_in_article": true
   },
   "sections": [
     {

@@ -16,7 +16,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Thanh «Hệ số âm lượng ×10» và nút «Tăng âm lượng lên ×10» trong Tăng Âm Lượng Video",
-    "caption": "iMovie dừng ở 5 lần; thanh này lên đến ×10."
+    "caption": "iMovie dừng ở 5 lần; thanh này lên đến ×10.",
+    "hide_in_article": true
   },
   "sections": [
     {

@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Tangkapan layar „Select the amount of boosting”: slider pengali volume ×10, dua kali lipat maksimal iMovie",
-    "caption": "×10 di Penguat Volume kira-kira dua kali lipat maksimal iMovie."
+    "caption": "×10 di Penguat Volume kira-kira dua kali lipat maksimal iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

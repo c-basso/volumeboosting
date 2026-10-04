@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Drsnik „Množitelj glasnosti ×10“ in gumb „Ojači glasnost na ×10“ v Increase Volume",
-    "caption": "Increase Volume gre do ×10, dvakrat več kot meja v iMovie."
+    "caption": "Increase Volume gre do ×10, dvakrat več kot meja v iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

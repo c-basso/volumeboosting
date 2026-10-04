@@ -16,7 +16,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Increase Volume-ൽ «വോളിയം ഗുണനം ×10» സ്ലൈഡർ, «വോളിയം ×10 വരെ ബൂസ്റ്റ് ചെയ്യുക» ബട്ടൺ",
-    "caption": "iMovie 5×-ൽ നിൽക്കും; ഇവിടെ സ്ലൈഡർ ×10 വരെ പോകും."
+    "caption": "iMovie 5×-ൽ നിൽക്കും; ഇവിടെ സ്ലൈഡർ ×10 വരെ പോകും.",
+    "hide_in_article": true
   },
   "sections": [
     {

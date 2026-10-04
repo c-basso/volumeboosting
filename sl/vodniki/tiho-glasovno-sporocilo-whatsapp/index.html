@@ -118,7 +118,7 @@
     <meta property="og:title" content="Tiho glasovno sporočilo na iPhonu: vzroki in rešitev" />
     <meta property="og:description" content="Ne slišiš glasovnih sporočil na WhatsAppu ali Viberju na iPhonu? Preveri slušalko in senzor bližine, eno tiho sporočilo pa ojači do 10× z Increase Volume." />
     <meta property="og:image" content="https://volumeboosting.com/sl/site_preview.png" />
-    <meta property="og:image:alt" content="List za deljenje v iOS z možnostmi Kopiraj, Dodaj oznake in Shrani v Datoteke za ojačen zvok v Increase Volume" />
+    <meta property="og:image:alt" content="List za deljenje okrepljene datoteke z možnostmi Copy, Save Video in Save to Files ter aplikacijo Volume Boost" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/6.webp" alt="List za deljenje v iOS z možnostmi Kopiraj, Dodaj oznake in Shrani v Datoteke za ojačen zvok v Increase Volume" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp" alt="List za deljenje okrepljene datoteke z možnostmi Copy, Save Video in Save to Files ter aplikacijo Volume Boost" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Po ojačitvi pošlji glasnejšo kopijo nazaj v klepet ali jo shrani v Datoteke.</figcaption>
             </figure>
@@ -484,10 +505,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Tiho glasovno sporočilo na iPhonu: vzroki in rešitev","description":"Ne slišiš glasovnih sporočil na WhatsAppu ali Viberju na iPhonu? Preveri slušalko in senzor bližine, eno tiho sporočilo pa ojači do 10× z Increase Volume.","image":["https://volumeboosting.com/img/screenshots/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-03","dateModified":"2026-10-03","mainEntityOfPage":"https://volumeboosting.com/sl/vodniki/tiho-glasovno-sporocilo-whatsapp/","inLanguage":"sl","about":{"@type":"MobileApplication","name":"Increase Volume – Ojačitev zvoka","url":"https://volumeboosting.com/sl/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Tiho glasovno sporočilo na iPhonu: vzroki in rešitev","description":"Ne slišiš glasovnih sporočil na WhatsAppu ali Viberju na iPhonu? Preveri slušalko in senzor bližine, eno tiho sporočilo pa ojači do 10× z Increase Volume.","image":["https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-03","dateModified":"2026-10-03","mainEntityOfPage":"https://volumeboosting.com/sl/vodniki/tiho-glasovno-sporocilo-whatsapp/","inLanguage":"sl","about":{"@type":"MobileApplication","name":"Increase Volume – Ojačitev zvoka","url":"https://volumeboosting.com/sl/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Ojači glasovno sporočilo z Increase Volume","description":"Približno 30 sekund na sporočilo, ko je datoteka v Datotekah.","image":"https://volumeboosting.com/img/screenshots/6.webp","totalTime":"PT1M","inLanguage":"sl","tool":[{"@type":"HowToTool","name":"Increase Volume – Ojačitev zvoka"}],"step":[{"@type":"HowToStep","position":1,"name":"Uvozi sporočilo","text":"Odpri Increase Volume in dodaj datoteko iz Datotek ali jo deli neposredno iz klepeta v Increase Volume.","url":"https://volumeboosting.com/sl/vodniki/tiho-glasovno-sporocilo-whatsapp/#step-1"},{"@type":"HowToStep","position":2,"name":"Vklopi „Izboljšaj kakovost zvoka“","text":"Govor je z izboljšavo bolj razumljiv; glas se dvigne nad ozadje.","url":"https://volumeboosting.com/sl/vodniki/tiho-glasovno-sporocilo-whatsapp/#step-2"},{"@type":"HowToStep","position":3,"name":"Ojači ×5–×10","text":"Premakni „Množitelj glasnosti“. Tihi posnetki s telefona pogosto prenesejo ×6–×10. Tapni „Ojači glasnost na ×N“.","url":"https://volumeboosting.com/sl/vodniki/tiho-glasovno-sporocilo-whatsapp/#step-3"},{"@type":"HowToStep","position":4,"name":"Poslušaj in shrani","text":"Preklapljaj Izvirnik in Obdelano, tapni „Prenesi obdelano“ in shrani v Datoteke ali pošlji glasnejšo kopijo nazaj v klepet.","url":"https://volumeboosting.com/sl/vodniki/tiho-glasovno-sporocilo-whatsapp/#step-4"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Ojači glasovno sporočilo z Increase Volume","description":"Približno 30 sekund na sporočilo, ko je datoteka v Datotekah.","image":"https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp","totalTime":"PT1M","inLanguage":"sl","tool":[{"@type":"HowToTool","name":"Increase Volume – Ojačitev zvoka"}],"step":[{"@type":"HowToStep","position":1,"name":"Uvozi sporočilo","text":"Odpri Increase Volume in dodaj datoteko iz Datotek ali jo deli neposredno iz klepeta v Increase Volume.","url":"https://volumeboosting.com/sl/vodniki/tiho-glasovno-sporocilo-whatsapp/#step-1"},{"@type":"HowToStep","position":2,"name":"Vklopi „Izboljšaj kakovost zvoka“","text":"Govor je z izboljšavo bolj razumljiv; glas se dvigne nad ozadje.","url":"https://volumeboosting.com/sl/vodniki/tiho-glasovno-sporocilo-whatsapp/#step-2"},{"@type":"HowToStep","position":3,"name":"Ojači ×5–×10","text":"Premakni „Množitelj glasnosti“. Tihi posnetki s telefona pogosto prenesejo ×6–×10. Tapni „Ojači glasnost na ×N“.","url":"https://volumeboosting.com/sl/vodniki/tiho-glasovno-sporocilo-whatsapp/#step-3"},{"@type":"HowToStep","position":4,"name":"Poslušaj in shrani","text":"Preklapljaj Izvirnik in Obdelano, tapni „Prenesi obdelano“ in shrani v Datoteke ali pošlji glasnejšo kopijo nazaj v klepet.","url":"https://volumeboosting.com/sl/vodniki/tiho-glasovno-sporocilo-whatsapp/#step-4"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"sl","mainEntity":[{"@type":"Question","name":"Zakaj so glasovna sporočila na WhatsAppu na iPhonu tako tiha?","acceptedAnswer":{"@type":"Answer","text":"Najpogosteje zato, ker senzor bližine preklopi na slušalko, ko je telefon ob obrazu. Odmakni ga in med predvajanjem povečaj glasnost predstavnosti."}},{"@type":"Question","name":"Ali lahko povečam glasnost enega glasovnega sporočila v WhatsAppu?","acceptedAnswer":{"@type":"Answer","text":"V WhatsAppu ne. Izvozi sporočilo prek Posreduj → Deli, ga ojači v Increase Volume in uporabi glasnejšo kopijo."}},{"@type":"Question","name":"Ali se kakovost pri ojačitvi glasovnega sporočila izgubi?","acceptedAnswer":{"@type":"Answer","text":"Glas postane glasnejši brez novih artefaktov, a obstoječi šum v ozadju se prav tako poveča. Začni zmerno in povečuj, medtem ko primerjaš Izvirnik in Obdelano."}}]}

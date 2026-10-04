@@ -17,8 +17,8 @@
     "Ipapakita ng gabay na ito ang workflow at kung ano talaga ang kaya ng Photos editor sa audio."
   ],
   "screenshot": {
-    "src": "/img/screenshots/6.webp",
-    "alt": "iOS share sheet mula sa Increase Volume na may mga option para i-save ang boosted video pabalik sa Photos o sa Files",
+    "src": "/img/guides/how-to-boost-video-volume-from-the-photos-app.webp",
+    "alt": "Share sheet ng Photos para sa napiling video, kasama ang icon ng app na Volume Boost sa unang puwesto",
     "caption": "Bumabalik sa Photos ang boosted na kopya gamit ang share sheet; hindi nagagalaw ang orihinal."
   },
   "sections": [

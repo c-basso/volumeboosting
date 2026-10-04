@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Increase Volume na may Volume multiplication ×10 slider, doble ng maximum ng iMovie sa iPhone",
-    "caption": "Ang ×10 ng Increase Volume ay halos doble ng maximum ng iMovie."
+    "caption": "Ang ×10 ng Increase Volume ay halos doble ng maximum ng iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

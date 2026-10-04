@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/it/4.webp",
     "alt": "Schermata «Seleziona la quantità di aumento»: cursore di moltiplicazione volume ×10, il doppio del massimo di iMovie",
-    "caption": "Il ×10 di Aumenta Volume è circa il doppio del massimo di iMovie."
+    "caption": "Il ×10 di Aumenta Volume è circa il doppio del massimo di iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

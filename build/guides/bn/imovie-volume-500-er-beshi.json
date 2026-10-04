@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Increase Volume-এ «ভলিয়াম গুণন ×10» স্লাইডার ও «ভলিয়াম ×10 পর্যন্ত বুস্ট করুন» বোতাম",
-    "caption": "Increase Volume ×10 পর্যন্ত যায়, iMovie-র সীমার দ্বিগুণ।"
+    "caption": "Increase Volume ×10 পর্যন্ত যায়, iMovie-র সীমার দ্বিগুণ।",
+    "hide_in_article": true
   },
   "sections": [
     {

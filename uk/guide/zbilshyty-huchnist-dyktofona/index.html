@@ -118,7 +118,7 @@
     <meta property="og:title" content="Як збільшити гучність запису «Диктофона» на iPhone" />
     <meta property="og:description" content="«Покращити запис» у «Диктофоні» прибирає шум, але не збільшує гучність. Зробіть запис лекції чи наради до 10 разів гучнішим у «Підсилювачі гучності 10x»." />
     <meta property="og:image" content="https://volumeboosting.com/uk/site_preview.png" />
-    <meta property="og:image:alt" content="Дані доріжки в «Підсилювачі гучності 10x»: увімкнено «Покращити якість звуку», повзунок «Множення гучності ×10»" />
+    <meta property="og:image:alt" content="Панель Bass & Voice у «Підсилювачі гучності 10x»: повзунки Bass x10 і Voice x10 та перемикач Reduce noise" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/4.webp" alt="Дані доріжки в «Підсилювачі гучності 10x»: увімкнено «Покращити якість звуку», повзунок «Множення гучності ×10»" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp" alt="Панель Bass & Voice у «Підсилювачі гучності 10x»: повзунки Bass x10 і Voice x10 та перемикач Reduce noise" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Для мовлення увімкніть покращення й почніть із помірного підсилення.</figcaption>
             </figure>
@@ -473,10 +494,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Як збільшити гучність запису «Диктофона» на iPhone","description":"«Покращити запис» у «Диктофоні» прибирає шум, але не збільшує гучність. Зробіть запис лекції чи наради до 10 разів гучнішим у «Підсилювачі гучності 10x».","image":["https://volumeboosting.com/img/screenshots/4.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-04","dateModified":"2026-10-04","mainEntityOfPage":"https://volumeboosting.com/uk/guide/zbilshyty-huchnist-dyktofona/","inLanguage":"uk","about":{"@type":"MobileApplication","name":"Increase Volume – Підсилення звуку","url":"https://volumeboosting.com/uk/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Як збільшити гучність запису «Диктофона» на iPhone","description":"«Покращити запис» у «Диктофоні» прибирає шум, але не збільшує гучність. Зробіть запис лекції чи наради до 10 разів гучнішим у «Підсилювачі гучності 10x».","image":["https://volumeboosting.com/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-04","dateModified":"2026-10-04","mainEntityOfPage":"https://volumeboosting.com/uk/guide/zbilshyty-huchnist-dyktofona/","inLanguage":"uk","about":{"@type":"MobileApplication","name":"Increase Volume – Підсилення звуку","url":"https://volumeboosting.com/uk/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Крок за кроком: зробіть запис диктофона гучнішим","description":"Близько хвилини.","image":"https://volumeboosting.com/img/screenshots/4.webp","totalTime":"PT1M","inLanguage":"uk","tool":[{"@type":"HowToTool","name":"Increase Volume – Підсилення звуку"}],"step":[{"@type":"HowToStep","position":1,"name":"Поширте запис","text":"«Диктофон» → запис → … → «Поширити» → «Підсилювач гучності 10x».","url":"https://volumeboosting.com/uk/guide/zbilshyty-huchnist-dyktofona/#step-1"},{"@type":"HowToStep","position":2,"name":"Покращення мовлення","text":"Увімкніть «Покращити якість звуку».","url":"https://volumeboosting.com/uk/guide/zbilshyty-huchnist-dyktofona/#step-2"},{"@type":"HowToStep","position":3,"name":"Виберіть підсилення","text":"Близький запис — ×2–×3, з іншого кінця кімнати — ×4–×6. Торкніться «Підсилити гучність» і порівняйте з оригіналом.","url":"https://volumeboosting.com/uk/guide/zbilshyty-huchnist-dyktofona/#step-3"},{"@type":"HowToStep","position":4,"name":"Збережіть","text":"«Завантажити оброблене» → «Зберегти у Файли».","url":"https://volumeboosting.com/uk/guide/zbilshyty-huchnist-dyktofona/#step-4"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Крок за кроком: зробіть запис диктофона гучнішим","description":"Близько хвилини.","image":"https://volumeboosting.com/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp","totalTime":"PT1M","inLanguage":"uk","tool":[{"@type":"HowToTool","name":"Increase Volume – Підсилення звуку"}],"step":[{"@type":"HowToStep","position":1,"name":"Поширте запис","text":"«Диктофон» → запис → … → «Поширити» → «Підсилювач гучності 10x».","url":"https://volumeboosting.com/uk/guide/zbilshyty-huchnist-dyktofona/#step-1"},{"@type":"HowToStep","position":2,"name":"Покращення мовлення","text":"Увімкніть «Покращити якість звуку».","url":"https://volumeboosting.com/uk/guide/zbilshyty-huchnist-dyktofona/#step-2"},{"@type":"HowToStep","position":3,"name":"Виберіть підсилення","text":"Близький запис — ×2–×3, з іншого кінця кімнати — ×4–×6. Торкніться «Підсилити гучність» і порівняйте з оригіналом.","url":"https://volumeboosting.com/uk/guide/zbilshyty-huchnist-dyktofona/#step-3"},{"@type":"HowToStep","position":4,"name":"Збережіть","text":"«Завантажити оброблене» → «Зберегти у Файли».","url":"https://volumeboosting.com/uk/guide/zbilshyty-huchnist-dyktofona/#step-4"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"uk","mainEntity":[{"@type":"Question","name":"Чи є в «Диктофоні» функція збільшення гучності?","acceptedAnswer":{"@type":"Answer","text":"Ні. «Покращити запис» лише зменшує шум. Для гучності потрібна програма на кшталт «Підсилювача гучності 10x»."}},{"@type":"Question","name":"Чи зміниться оригінальний запис?","acceptedAnswer":{"@type":"Answer","text":"Ні. Програма створює нову копію, оригінал лишається в «Диктофоні»."}},{"@type":"Question","name":"Наскільки підсилювати?","acceptedAnswer":{"@type":"Answer","text":"Зазвичай ×2–×6. Якщо чуєте хрипіння, зменште на крок."}}]}

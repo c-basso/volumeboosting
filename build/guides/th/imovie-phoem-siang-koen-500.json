@@ -16,7 +16,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "แถบ «ตัวคูณระดับเสียง ×10» และปุ่ม «บูสระดับเสียงเป็น ×10» ในบูสเตอร์เสียง",
-    "caption": "iMovie หยุดที่ 5 เท่า ส่วนแถบนี้ไปได้ถึง ×10"
+    "caption": "iMovie หยุดที่ 5 เท่า ส่วนแถบนี้ไปได้ถึง ×10",
+    "hide_in_article": true
   },
   "sections": [
     {

@@ -16,7 +16,8 @@
   "screenshot": {
     "src": "/img/screenshots/tr/4.webp",
     "alt": "Ses Yükseltici'de «Ses çarpanı ×10» kaydırıcısı ve «Sesi ×10'a güçlendir» düğmesi",
-    "caption": "iMovie 5 katta durur; bu kaydırıcı ×10'a kadar gider."
+    "caption": "iMovie 5 katta durur; bu kaydırıcı ×10'a kadar gider.",
+    "hide_in_article": true
   },
   "sections": [
     {

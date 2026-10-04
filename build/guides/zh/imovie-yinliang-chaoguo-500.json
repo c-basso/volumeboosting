@@ -16,7 +16,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "「音量放大器」中的「音量倍数 ×10」滑块和「增强至 ×10」按钮",
-    "caption": "iMovie 止于 5 倍；这个滑块可到 ×10。"
+    "caption": "iMovie 止于 5 倍；这个滑块可到 ×10。",
+    "hide_in_article": true
   },
   "sections": [
     {

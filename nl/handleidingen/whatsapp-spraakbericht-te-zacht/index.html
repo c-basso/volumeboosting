@@ -118,7 +118,7 @@
     <meta property="og:title" content="WhatsApp-spraakbericht te zacht op iPhone: zo maak je het harder" />
     <meta property="og:description" content="Spraakberichten in WhatsApp te zacht op iPhone? Sluit eerst de oorspeaker via de nabijheidssensor uit, exporteer dan het bericht en maak het tot 10× harder." />
     <meta property="og:image" content="https://volumeboosting.com/nl/site_preview.png" />
-    <meta property="og:image:alt" content="Schermafbeelding 'Download and share anywhere': iOS-deelmenu met Bewaar in Bestanden voor een versterkte opname" />
+    <meta property="og:image:alt" content="Deelmenu voor het versterkte bestand met Copy, Save Video en Save to Files en de app Volume Boost" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/6.webp" alt="Schermafbeelding 'Download and share anywhere': iOS-deelmenu met Bewaar in Bestanden voor een versterkte opname" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp" alt="Deelmenu voor het versterkte bestand met Copy, Save Video en Save to Files en de app Volume Boost" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Versterkte spraakberichten bewaar je in Bestanden of stuur je direct terug naar de chat.</figcaption>
             </figure>
@@ -488,10 +509,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"WhatsApp-spraakbericht te zacht op iPhone: zo maak je het harder","description":"Spraakberichten in WhatsApp te zacht op iPhone? Sluit eerst de oorspeaker via de nabijheidssensor uit, exporteer dan het bericht en maak het tot 10× harder.","image":["https://volumeboosting.com/img/screenshots/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/nl/handleidingen/whatsapp-spraakbericht-te-zacht/","inLanguage":"nl","about":{"@type":"MobileApplication","name":"Increase Volume – Geluidsboost","url":"https://volumeboosting.com/nl/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"WhatsApp-spraakbericht te zacht op iPhone: zo maak je het harder","description":"Spraakberichten in WhatsApp te zacht op iPhone? Sluit eerst de oorspeaker via de nabijheidssensor uit, exporteer dan het bericht en maak het tot 10× harder.","image":["https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/nl/handleidingen/whatsapp-spraakbericht-te-zacht/","inLanguage":"nl","about":{"@type":"MobileApplication","name":"Increase Volume – Geluidsboost","url":"https://volumeboosting.com/nl/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Stap voor stap: een WhatsApp-spraakbericht harder maken","description":"Een minuut met de gratis app Audioversterker.","image":"https://volumeboosting.com/img/screenshots/6.webp","totalTime":"PT1M","inLanguage":"nl","tool":[{"@type":"HowToTool","name":"Increase Volume – Geluidsboost"}],"step":[{"@type":"HowToStep","position":1,"name":"Exporteer het bericht","text":"Houd in WhatsApp het spraakbericht ingedrukt → Stuur door → deelsymbool → Increase Volume. (Of Bewaar in Bestanden en voeg het toe vanuit de app.)","url":"https://volumeboosting.com/nl/handleidingen/whatsapp-spraakbericht-te-zacht/#step-1"},{"@type":"HowToStep","position":2,"name":"Zet Audiokwaliteit verbeteren aan","text":"Spraakberichten zijn spraak; de schakelaar helpt woorden duidelijk te houden na het versterken.","url":"https://volumeboosting.com/nl/handleidingen/whatsapp-spraakbericht-te-zacht/#step-2"},{"@type":"HowToStep","position":3,"name":"Versterk","text":"Zet 'Volumevermenigvuldiging' eerst op ×5, op ×8–×10 als het heel zacht is, en tik op 'Volume versterken'.","url":"https://volumeboosting.com/nl/handleidingen/whatsapp-spraakbericht-te-zacht/#step-3"},{"@type":"HowToStep","position":4,"name":"Vergelijk","text":"Wissel tussen Origineel/Verwerkt. Kraakt het hardste woord, verlaag dan de vermenigvuldiging.","url":"https://volumeboosting.com/nl/handleidingen/whatsapp-spraakbericht-te-zacht/#step-4"},{"@type":"HowToStep","position":5,"name":"Bewaar of stuur door","text":"Tik op 'Verwerkt bestand downloaden'. Bewaar in Bestanden of deel de luidere kopie terug naar WhatsApp zodat de hele groep het hoort.","url":"https://volumeboosting.com/nl/handleidingen/whatsapp-spraakbericht-te-zacht/#step-5"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Stap voor stap: een WhatsApp-spraakbericht harder maken","description":"Een minuut met de gratis app Audioversterker.","image":"https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp","totalTime":"PT1M","inLanguage":"nl","tool":[{"@type":"HowToTool","name":"Increase Volume – Geluidsboost"}],"step":[{"@type":"HowToStep","position":1,"name":"Exporteer het bericht","text":"Houd in WhatsApp het spraakbericht ingedrukt → Stuur door → deelsymbool → Increase Volume. (Of Bewaar in Bestanden en voeg het toe vanuit de app.)","url":"https://volumeboosting.com/nl/handleidingen/whatsapp-spraakbericht-te-zacht/#step-1"},{"@type":"HowToStep","position":2,"name":"Zet Audiokwaliteit verbeteren aan","text":"Spraakberichten zijn spraak; de schakelaar helpt woorden duidelijk te houden na het versterken.","url":"https://volumeboosting.com/nl/handleidingen/whatsapp-spraakbericht-te-zacht/#step-2"},{"@type":"HowToStep","position":3,"name":"Versterk","text":"Zet 'Volumevermenigvuldiging' eerst op ×5, op ×8–×10 als het heel zacht is, en tik op 'Volume versterken'.","url":"https://volumeboosting.com/nl/handleidingen/whatsapp-spraakbericht-te-zacht/#step-3"},{"@type":"HowToStep","position":4,"name":"Vergelijk","text":"Wissel tussen Origineel/Verwerkt. Kraakt het hardste woord, verlaag dan de vermenigvuldiging.","url":"https://volumeboosting.com/nl/handleidingen/whatsapp-spraakbericht-te-zacht/#step-4"},{"@type":"HowToStep","position":5,"name":"Bewaar of stuur door","text":"Tik op 'Verwerkt bestand downloaden'. Bewaar in Bestanden of deel de luidere kopie terug naar WhatsApp zodat de hele groep het hoort.","url":"https://volumeboosting.com/nl/handleidingen/whatsapp-spraakbericht-te-zacht/#step-5"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"nl","mainEntity":[{"@type":"Question","name":"Waarom worden spraakberichten zacht als ik de telefoon tegen mijn oor houd?","acceptedAnswer":{"@type":"Answer","text":"Dat is zo bedoeld: met de nabijheidssensor afgedekt speelt WhatsApp voor je privacy af via de oorspeaker. Zet het volume van de oorspeaker hoger met de knoppen terwijl het bericht speelt, of houd de telefoon weg om via de luidspreker af te spelen."}},{"@type":"Question","name":"Kan ik een spraakbericht in WhatsApp zelf harder zetten?","acceptedAnswer":{"@type":"Answer","text":"Nee. WhatsApp heeft afspeelsnelheden (1×, 1,5×, 2×), maar geen volumeversterking. Exporteer het bericht en maak het harder met Audioversterker."}},{"@type":"Question","name":"Werkt het ook voor Telegram en Messenger?","acceptedAnswer":{"@type":"Answer","text":"Het werkt met elke app waarmee je het audiobestand kunt delen of bewaren. Versterkte bestanden kun je via dezelfde app doorsturen."}}]}

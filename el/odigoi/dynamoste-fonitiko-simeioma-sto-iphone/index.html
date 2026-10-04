@@ -118,7 +118,7 @@
     <meta property="og:title" content="Πώς να δυναμώσετε ένα φωνητικό σημείωμα στο iPhone" />
     <meta property="og:description" content="Η Βελτίωση εγγραφής μειώνει τον θόρυβο, αλλά δεν δυναμώνει το αρχείο. Δείτε πώς ενισχύετε ένα χαμηλό φωνητικό σημείωμα έως και 10× με το Increase Volume." />
     <meta property="og:image" content="https://volumeboosting.com/el/site_preview.png" />
-    <meta property="og:image:alt" content="Increase Volume με τα στοιχεία της ηχογράφησης, τον διακόπτη Βελτίωση ποιότητας ήχου και το ρυθμιστικό Πολλαπλασιασμός έντασης ×10" />
+    <meta property="og:image:alt" content="Πίνακας Bass & Voice στο Increase Volume: ρυθμιστικά Bass x10 και Voice x10 και διακόπτης Reduce noise" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/4.webp" alt="Increase Volume με τα στοιχεία της ηχογράφησης, τον διακόπτη Βελτίωση ποιότητας ήχου και το ρυθμιστικό Πολλαπλασιασμός έντασης ×10" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp" alt="Πίνακας Bass & Voice στο Increase Volume: ρυθμιστικά Bass x10 και Voice x10 και διακόπτης Reduce noise" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Για ομιλία, ενεργοποιήστε τη «Βελτίωση ποιότητας ήχου» πριν την ενίσχυση.</figcaption>
             </figure>
@@ -490,10 +511,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Πώς να δυναμώσετε ένα φωνητικό σημείωμα στο iPhone","description":"Η Βελτίωση εγγραφής μειώνει τον θόρυβο, αλλά δεν δυναμώνει το αρχείο. Δείτε πώς ενισχύετε ένα χαμηλό φωνητικό σημείωμα έως και 10× με το Increase Volume.","image":["https://volumeboosting.com/img/screenshots/4.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-01","dateModified":"2026-10-01","mainEntityOfPage":"https://volumeboosting.com/el/odigoi/dynamoste-fonitiko-simeioma-sto-iphone/","inLanguage":"el","about":{"@type":"MobileApplication","name":"Increase Volume – Ενίσχυση ήχου","url":"https://volumeboosting.com/el/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Πώς να δυναμώσετε ένα φωνητικό σημείωμα στο iPhone","description":"Η Βελτίωση εγγραφής μειώνει τον θόρυβο, αλλά δεν δυναμώνει το αρχείο. Δείτε πώς ενισχύετε ένα χαμηλό φωνητικό σημείωμα έως και 10× με το Increase Volume.","image":["https://volumeboosting.com/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-01","dateModified":"2026-10-01","mainEntityOfPage":"https://volumeboosting.com/el/odigoi/dynamoste-fonitiko-simeioma-sto-iphone/","inLanguage":"el","about":{"@type":"MobileApplication","name":"Increase Volume – Ενίσχυση ήχου","url":"https://volumeboosting.com/el/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Βήμα βήμα: δυναμώστε ένα φωνητικό σημείωμα","description":"Λειτουργεί με κάθε σημείωμα που ήδη υπάρχει στην εφαρμογή.","image":"https://volumeboosting.com/img/screenshots/4.webp","totalTime":"PT1M","inLanguage":"el","tool":[{"@type":"HowToTool","name":"Increase Volume – Ενίσχυση ήχου"}],"step":[{"@type":"HowToStep","position":1,"name":"Κοινοποιήστε το σημείωμα στο Increase Volume","text":"Στα Φωνητικά σημειώματα πατήστε το σημείωμα, πατήστε ⋯, επιλέξτε Κοινοποίηση και διαλέξτε Increase Volume. (Ή επιλέξτε πρώτα Αποθήκευση στα Αρχεία και προσθέστε το από την εφαρμογή.)","url":"https://volumeboosting.com/el/odigoi/dynamoste-fonitiko-simeioma-sto-iphone/#step-1"},{"@type":"HowToStep","position":2,"name":"Ενεργοποιήστε τη Βελτίωση ποιότητας ήχου","text":"Ενεργοποιήστε τον διακόπτη ώστε η ενίσχυση να ευνοεί τη φωνή.","url":"https://volumeboosting.com/el/odigoi/dynamoste-fonitiko-simeioma-sto-iphone/#step-2"},{"@type":"HowToStep","position":3,"name":"Ορίστε τον πολλαπλασιαστή","text":"Σύρετε τον «Πολλαπλασιασμό έντασης» στο ×5 για αρχή· μακρινές εγγραφές θέλουν συχνά ×8–×10. Πατήστε «Ενίσχυση έντασης».","url":"https://volumeboosting.com/el/odigoi/dynamoste-fonitiko-simeioma-sto-iphone/#step-3"},{"@type":"HowToStep","position":4,"name":"Συγκρίνετε","text":"Εναλλάξτε Αρχικό/Επεξεργασμένο στο πιο δυνατό σημείο (γέλιο, φλιτζάνι που ακουμπά). Αν τρίζει, χαμηλώστε τον πολλαπλασιαστή.","url":"https://volumeboosting.com/el/odigoi/dynamoste-fonitiko-simeioma-sto-iphone/#step-4"},{"@type":"HowToStep","position":5,"name":"Λήψη επεξεργασμένου","text":"Πατήστε «Λήψη επεξεργασμένου» και επιλέξτε Αποθήκευση στα Αρχεία, ή στείλτε το πιο δυνατό σημείωμα απευθείας σε Μηνύματα, Mail, Viber ή Σημειώσεις.","url":"https://volumeboosting.com/el/odigoi/dynamoste-fonitiko-simeioma-sto-iphone/#step-5"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Βήμα βήμα: δυναμώστε ένα φωνητικό σημείωμα","description":"Λειτουργεί με κάθε σημείωμα που ήδη υπάρχει στην εφαρμογή.","image":"https://volumeboosting.com/img/guides/how-to-increase-voice-memo-volume-on-iphone.webp","totalTime":"PT1M","inLanguage":"el","tool":[{"@type":"HowToTool","name":"Increase Volume – Ενίσχυση ήχου"}],"step":[{"@type":"HowToStep","position":1,"name":"Κοινοποιήστε το σημείωμα στο Increase Volume","text":"Στα Φωνητικά σημειώματα πατήστε το σημείωμα, πατήστε ⋯, επιλέξτε Κοινοποίηση και διαλέξτε Increase Volume. (Ή επιλέξτε πρώτα Αποθήκευση στα Αρχεία και προσθέστε το από την εφαρμογή.)","url":"https://volumeboosting.com/el/odigoi/dynamoste-fonitiko-simeioma-sto-iphone/#step-1"},{"@type":"HowToStep","position":2,"name":"Ενεργοποιήστε τη Βελτίωση ποιότητας ήχου","text":"Ενεργοποιήστε τον διακόπτη ώστε η ενίσχυση να ευνοεί τη φωνή.","url":"https://volumeboosting.com/el/odigoi/dynamoste-fonitiko-simeioma-sto-iphone/#step-2"},{"@type":"HowToStep","position":3,"name":"Ορίστε τον πολλαπλασιαστή","text":"Σύρετε τον «Πολλαπλασιασμό έντασης» στο ×5 για αρχή· μακρινές εγγραφές θέλουν συχνά ×8–×10. Πατήστε «Ενίσχυση έντασης».","url":"https://volumeboosting.com/el/odigoi/dynamoste-fonitiko-simeioma-sto-iphone/#step-3"},{"@type":"HowToStep","position":4,"name":"Συγκρίνετε","text":"Εναλλάξτε Αρχικό/Επεξεργασμένο στο πιο δυνατό σημείο (γέλιο, φλιτζάνι που ακουμπά). Αν τρίζει, χαμηλώστε τον πολλαπλασιαστή.","url":"https://volumeboosting.com/el/odigoi/dynamoste-fonitiko-simeioma-sto-iphone/#step-4"},{"@type":"HowToStep","position":5,"name":"Λήψη επεξεργασμένου","text":"Πατήστε «Λήψη επεξεργασμένου» και επιλέξτε Αποθήκευση στα Αρχεία, ή στείλτε το πιο δυνατό σημείωμα απευθείας σε Μηνύματα, Mail, Viber ή Σημειώσεις.","url":"https://volumeboosting.com/el/odigoi/dynamoste-fonitiko-simeioma-sto-iphone/#step-5"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"el","mainEntity":[{"@type":"Question","name":"Η Βελτίωση εγγραφής κάνει το σημείωμα πιο δυνατό;","acceptedAnswer":{"@type":"Answer","text":"Όχι. Μειώνει θόρυβο και αντήχηση κατά την αναπαραγωγή. Η Apple σημειώνει ότι αυτές οι ρυθμίσεις δεν αλλάζουν την ίδια την εγγραφή, οπότε ένα κοινοποιημένο σημείωμα μένει ίδιο."}},{"@type":"Question","name":"Σε ποια μορφή βγαίνει το ενισχυμένο σημείωμα;","acceptedAnswer":{"@type":"Answer","text":"Στην ίδια μορφή ήχου που κοινοποιήσατε (τα Φωνητικά σημειώματα εξάγουν M4A). Το Increase Volume γράφει νέο αρχείο· το αρχικό σημείωμα δεν αγγίζεται."}},{"@type":"Question","name":"Μπορώ να ενισχύσω ηχογράφηση που μου έστειλαν;","acceptedAnswer":{"@type":"Answer","text":"Ναι. Αποθηκεύστε τον ήχο από Μηνύματα, Mail, Viber ή WhatsApp στα Αρχεία (ή κοινοποιήστε τον απευθείας στο Increase Volume) και ενισχύστε τον με τον ίδιο τρόπο."}}]}

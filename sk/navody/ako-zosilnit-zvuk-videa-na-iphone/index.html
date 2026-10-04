@@ -118,7 +118,7 @@
     <meta property="og:title" content="Ako zosilniť zvuk videa na iPhone" />
     <meta property="og:description" content="Sprav tiché video na iPhone hlasnejším za menej ako minútu: čo zvládnu Fotky a iMovie, kde končia a ako dosiahnuť 10× so Zosilňovačom hlasitosti a zvuku." />
     <meta property="og:image" content="https://volumeboosting.com/sk/site_preview.png" />
-    <meta property="og:image:alt" content="Obrazovka „Make video louder“: prst posúva ružový posúvač nad videom vo Volume Boost" />
+    <meta property="og:image:alt" content="Posúvač „Násobok hlasitosti ×10“ a tlačidlo „Zosilniť hlasitosť“" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/2.webp" alt="Obrazovka „Make video louder“: prst posúva ružový posúvač nad videom vo Volume Boost" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-video-louder-on-iphone.webp" alt="Posúvač „Násobok hlasitosti ×10“ a tlačidlo „Zosilniť hlasitosť“" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Posúvač je nad náhľadom videa. Posunieš, vypočuješ, uložíš.</figcaption>
             </figure>
@@ -505,10 +526,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Ako zosilniť zvuk videa na iPhone","description":"Sprav tiché video na iPhone hlasnejším za menej ako minútu: čo zvládnu Fotky a iMovie, kde končia a ako dosiahnuť 10× so Zosilňovačom hlasitosti a zvuku.","image":["https://volumeboosting.com/img/screenshots/2.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/sk/navody/ako-zosilnit-zvuk-videa-na-iphone/","inLanguage":"sk","about":{"@type":"MobileApplication","name":"Increase Volume – Zosilnenie zvuku","url":"https://volumeboosting.com/sk/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Ako zosilniť zvuk videa na iPhone","description":"Sprav tiché video na iPhone hlasnejším za menej ako minútu: čo zvládnu Fotky a iMovie, kde končia a ako dosiahnuť 10× so Zosilňovačom hlasitosti a zvuku.","image":["https://volumeboosting.com/img/guides/how-to-make-a-video-louder-on-iphone.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/sk/navody/ako-zosilnit-zvuk-videa-na-iphone/","inLanguage":"sk","about":{"@type":"MobileApplication","name":"Increase Volume – Zosilnenie zvuku","url":"https://volumeboosting.com/sk/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Krok za krokom: zosilni video vo Volume Boost","description":"Pri bežnom klipe to trvá asi minútu. Potrebuješ bezplatnú aplikáciu z App Store a video vo Fotkách alebo Súboroch.","image":"https://volumeboosting.com/img/screenshots/2.webp","totalTime":"PT1M","inLanguage":"sk","tool":[{"@type":"HowToTool","name":"Increase Volume – Zosilnenie zvuku"}],"step":[{"@type":"HowToStep","position":1,"name":"Otvor video v aplikácii","text":"Otvor aplikáciu a pridaj video z Fotiek alebo Súborov. Rýchlejšie: otvor video vo Fotkách, ťukni na Zdieľať a vyber Increase Volume; projekt sa vytvorí hneď.","url":"https://volumeboosting.com/sk/navody/ako-zosilnit-zvuk-videa-na-iphone/#step-1"},{"@type":"HowToStep","position":2,"name":"Skontroluj podrobnosti","text":"Aplikácia ukáže názov súboru, veľkosť a dĺžku, aby si vedel, že je to správny klip. Ak ide hlavne o reč, zapni „Vylepšiť kvalitu zvuku“.","url":"https://volumeboosting.com/sk/navody/ako-zosilnit-zvuk-videa-na-iphone/#step-2"},{"@type":"HowToStep","position":3,"name":"Vyber zosilnenie","text":"Posuň „Násobok hlasitosti“. Začni na ×3 až ×5, ak je video len trochu tiché; choď na ×10, ak ho takmer nepočuť. Ťukni na „Zosilniť hlasitosť na ×N“.","url":"https://volumeboosting.com/sk/navody/ako-zosilnit-zvuk-videa-na-iphone/#step-3"},{"@type":"HowToStep","position":4,"name":"Porovnaj Pôvodné a Spracované","text":"Prepínačom pod tlačidlom prepínaj medzi originálom a zosilnenou verziou. Ak hlasné miesta chrčia, vráť sa a zníž násobok o stupeň.","url":"https://volumeboosting.com/sk/navody/ako-zosilnit-zvuk-videa-na-iphone/#step-4"},{"@type":"HowToStep","position":5,"name":"Stiahni a zdieľaj","text":"Ťukni na „Stiahnuť spracované“. V paneli zdieľania vyber Uložiť video, aby hlasnejšia kópia išla do Fotiek, Uložiť do Súborov, alebo ju rovno pošli cez Správy, WhatsApp, AirDrop či TikTok.","url":"https://volumeboosting.com/sk/navody/ako-zosilnit-zvuk-videa-na-iphone/#step-5"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Krok za krokom: zosilni video vo Volume Boost","description":"Pri bežnom klipe to trvá asi minútu. Potrebuješ bezplatnú aplikáciu z App Store a video vo Fotkách alebo Súboroch.","image":"https://volumeboosting.com/img/guides/how-to-make-a-video-louder-on-iphone.webp","totalTime":"PT1M","inLanguage":"sk","tool":[{"@type":"HowToTool","name":"Increase Volume – Zosilnenie zvuku"}],"step":[{"@type":"HowToStep","position":1,"name":"Otvor video v aplikácii","text":"Otvor aplikáciu a pridaj video z Fotiek alebo Súborov. Rýchlejšie: otvor video vo Fotkách, ťukni na Zdieľať a vyber Increase Volume; projekt sa vytvorí hneď.","url":"https://volumeboosting.com/sk/navody/ako-zosilnit-zvuk-videa-na-iphone/#step-1"},{"@type":"HowToStep","position":2,"name":"Skontroluj podrobnosti","text":"Aplikácia ukáže názov súboru, veľkosť a dĺžku, aby si vedel, že je to správny klip. Ak ide hlavne o reč, zapni „Vylepšiť kvalitu zvuku“.","url":"https://volumeboosting.com/sk/navody/ako-zosilnit-zvuk-videa-na-iphone/#step-2"},{"@type":"HowToStep","position":3,"name":"Vyber zosilnenie","text":"Posuň „Násobok hlasitosti“. Začni na ×3 až ×5, ak je video len trochu tiché; choď na ×10, ak ho takmer nepočuť. Ťukni na „Zosilniť hlasitosť na ×N“.","url":"https://volumeboosting.com/sk/navody/ako-zosilnit-zvuk-videa-na-iphone/#step-3"},{"@type":"HowToStep","position":4,"name":"Porovnaj Pôvodné a Spracované","text":"Prepínačom pod tlačidlom prepínaj medzi originálom a zosilnenou verziou. Ak hlasné miesta chrčia, vráť sa a zníž násobok o stupeň.","url":"https://volumeboosting.com/sk/navody/ako-zosilnit-zvuk-videa-na-iphone/#step-4"},{"@type":"HowToStep","position":5,"name":"Stiahni a zdieľaj","text":"Ťukni na „Stiahnuť spracované“. V paneli zdieľania vyber Uložiť video, aby hlasnejšia kópia išla do Fotiek, Uložiť do Súborov, alebo ju rovno pošli cez Správy, WhatsApp, AirDrop či TikTok.","url":"https://volumeboosting.com/sk/navody/ako-zosilnit-zvuk-videa-na-iphone/#step-5"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"sk","mainEntity":[{"@type":"Question","name":"Dá sa zosilniť zvuk videa na iPhone bez aplikácie?","acceptedAnswer":{"@type":"Answer","text":"Len v iMovie, ktoré Apple ponúka zadarmo a ktoré zosilní klip asi do 500 %. Fotky hlasitosť nezvýšia. Ak potrebuješ viac ako 5× alebo rýchlejší postup, použi Volume Boost."}},{"@type":"Question","name":"Zhorší sa kvalita videa, keď zosilním zvuk?","acceptedAnswer":{"@type":"Answer","text":"Obraz sa vôbec nezmení. Zvuk sa násobí; ak prepáliš nahrávku, ktorá už má hlasné špičky, môže skresľovať a chrčať. Preto má aplikácia prepínač Pôvodné/Spracované, aby si si to vypočul pred uložením."}},{"@type":"Question","name":"Zostane video hlasné aj po odoslaní?","acceptedAnswer":{"@type":"Answer","text":"Áno. Zosilnenie je vo zvukovej stope súboru, takže hrá na novej úrovni na každom telefóne, počítači aj sociálnej sieti."}},{"@type":"Question","name":"Funguje to aj so stiahnutými videami?","acceptedAnswer":{"@type":"Answer","text":"Áno, ak je súbor vo Fotkách alebo Súboroch a nie je chránený proti kopírovaniu. Aplikácia otvára súbory MP4 a MOV z akéhokoľvek zdroja."}}]}

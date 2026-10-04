@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Плъзгач „Умножение на силата ×10“ и бутон „Усилване до ×10“ в Increase Volume",
-    "caption": "Increase Volume стига до ×10, двойно повече от границата на iMovie."
+    "caption": "Increase Volume стига до ×10, двойно повече от границата на iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

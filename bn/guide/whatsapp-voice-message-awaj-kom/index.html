@@ -118,7 +118,7 @@
     <meta property="og:title" content="iPhone-এ ভয়েস মেসেজের আওয়াজ কম: কারণ ও সমাধান" />
     <meta property="og:description" content="iPhone-এ WhatsApp বা Messenger-এর ভয়েস মেসেজ শোনা যায় না? ইয়ারপিস ও প্রক্সিমিটি সেন্সর দেখুন, আর একটি কম আওয়াজের মেসেজ ১০× পর্যন্ত জোরালো করুন।" />
     <meta property="og:image" content="https://volumeboosting.com/bn/site_preview.png" />
-    <meta property="og:image:alt" content="Increase Volume-এ বুস্ট করা অডিওর জন্য কপি, ট্যাগ যোগ ও ফাইলে সেভ দেখানো iOS শেয়ার শিট" />
+    <meta property="og:image:alt" content="বুস্ট করা ফাইলের শেয়ার শিট: Copy, Save Video ও Save to Files, সঙ্গে Volume Boost অ্যাপ" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/6.webp" alt="Increase Volume-এ বুস্ট করা অডিওর জন্য কপি, ট্যাগ যোগ ও ফাইলে সেভ দেখানো iOS শেয়ার শিট" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp" alt="বুস্ট করা ফাইলের শেয়ার শিট: Copy, Save Video ও Save to Files, সঙ্গে Volume Boost অ্যাপ" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>বুস্টের পর জোরালো কপি চ্যাটে ফেরত পাঠান বা ফাইল অ্যাপে সেভ করুন।</figcaption>
             </figure>
@@ -484,10 +505,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"iPhone-এ ভয়েস মেসেজের আওয়াজ কম: কারণ ও সমাধান","description":"iPhone-এ WhatsApp বা Messenger-এর ভয়েস মেসেজ শোনা যায় না? ইয়ারপিস ও প্রক্সিমিটি সেন্সর দেখুন, আর একটি কম আওয়াজের মেসেজ ১০× পর্যন্ত জোরালো করুন।","image":["https://volumeboosting.com/img/screenshots/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-03","dateModified":"2026-10-03","mainEntityOfPage":"https://volumeboosting.com/bn/guide/whatsapp-voice-message-awaj-kom/","inLanguage":"bn","about":{"@type":"MobileApplication","name":"Increase Volume – ধ্বনি বুস্ট","url":"https://volumeboosting.com/bn/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"iPhone-এ ভয়েস মেসেজের আওয়াজ কম: কারণ ও সমাধান","description":"iPhone-এ WhatsApp বা Messenger-এর ভয়েস মেসেজ শোনা যায় না? ইয়ারপিস ও প্রক্সিমিটি সেন্সর দেখুন, আর একটি কম আওয়াজের মেসেজ ১০× পর্যন্ত জোরালো করুন।","image":["https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-03","dateModified":"2026-10-03","mainEntityOfPage":"https://volumeboosting.com/bn/guide/whatsapp-voice-message-awaj-kom/","inLanguage":"bn","about":{"@type":"MobileApplication","name":"Increase Volume – ধ্বনি বুস্ট","url":"https://volumeboosting.com/bn/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Increase Volume দিয়ে ভয়েস মেসেজ জোরালো করুন","description":"ফাইল অ্যাপে থাকলে প্রতি মেসেজে প্রায় ৩০ সেকেন্ড।","image":"https://volumeboosting.com/img/screenshots/6.webp","totalTime":"PT1M","inLanguage":"bn","tool":[{"@type":"HowToTool","name":"Increase Volume – ধ্বনি বুস্ট"}],"step":[{"@type":"HowToStep","position":1,"name":"ভয়েস মেসেজ ইমপোর্ট করুন","text":"অ্যাপ খুলে ফাইল অ্যাপ থেকে ফাইল যোগ করুন, অথবা চ্যাট থেকে সরাসরি Increase Volume-এ শেয়ার করুন।","url":"https://volumeboosting.com/bn/guide/whatsapp-voice-message-awaj-kom/#step-1"},{"@type":"HowToStep","position":2,"name":"«অডিও গুণমান উন্নত করুন» চালু করুন","text":"এতে কথা আরও স্পষ্ট বোঝা যায়; কণ্ঠ পটভূমির উপরে আসে।","url":"https://volumeboosting.com/bn/guide/whatsapp-voice-message-awaj-kom/#step-2"},{"@type":"HowToStep","position":3,"name":"×5–×10 বুস্ট করুন","text":"«ভলিয়াম গুণন» টানুন। ফোনের কম আওয়াজের রেকর্ডিং প্রায়ই ×6–×10 সহ্য করে। «ভলিয়াম ×N পর্যন্ত বুস্ট করুন» ট্যাপ করুন।","url":"https://volumeboosting.com/bn/guide/whatsapp-voice-message-awaj-kom/#step-3"},{"@type":"HowToStep","position":4,"name":"শুনুন ও সেভ করুন","text":"আসল ও প্রসেসড বদলে শুনুন, «প্রসেসড ডাউনলোড করুন» ট্যাপ করুন এবং ফাইলে সেভ করুন বা জোরালো কপি চ্যাটে ফেরত পাঠান।","url":"https://volumeboosting.com/bn/guide/whatsapp-voice-message-awaj-kom/#step-4"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Increase Volume দিয়ে ভয়েস মেসেজ জোরালো করুন","description":"ফাইল অ্যাপে থাকলে প্রতি মেসেজে প্রায় ৩০ সেকেন্ড।","image":"https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp","totalTime":"PT1M","inLanguage":"bn","tool":[{"@type":"HowToTool","name":"Increase Volume – ধ্বনি বুস্ট"}],"step":[{"@type":"HowToStep","position":1,"name":"ভয়েস মেসেজ ইমপোর্ট করুন","text":"অ্যাপ খুলে ফাইল অ্যাপ থেকে ফাইল যোগ করুন, অথবা চ্যাট থেকে সরাসরি Increase Volume-এ শেয়ার করুন।","url":"https://volumeboosting.com/bn/guide/whatsapp-voice-message-awaj-kom/#step-1"},{"@type":"HowToStep","position":2,"name":"«অডিও গুণমান উন্নত করুন» চালু করুন","text":"এতে কথা আরও স্পষ্ট বোঝা যায়; কণ্ঠ পটভূমির উপরে আসে।","url":"https://volumeboosting.com/bn/guide/whatsapp-voice-message-awaj-kom/#step-2"},{"@type":"HowToStep","position":3,"name":"×5–×10 বুস্ট করুন","text":"«ভলিয়াম গুণন» টানুন। ফোনের কম আওয়াজের রেকর্ডিং প্রায়ই ×6–×10 সহ্য করে। «ভলিয়াম ×N পর্যন্ত বুস্ট করুন» ট্যাপ করুন।","url":"https://volumeboosting.com/bn/guide/whatsapp-voice-message-awaj-kom/#step-3"},{"@type":"HowToStep","position":4,"name":"শুনুন ও সেভ করুন","text":"আসল ও প্রসেসড বদলে শুনুন, «প্রসেসড ডাউনলোড করুন» ট্যাপ করুন এবং ফাইলে সেভ করুন বা জোরালো কপি চ্যাটে ফেরত পাঠান।","url":"https://volumeboosting.com/bn/guide/whatsapp-voice-message-awaj-kom/#step-4"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"bn","mainEntity":[{"@type":"Question","name":"iPhone-এ WhatsApp ভয়েস মেসেজ এত কম আওয়াজে কেন বাজে?","acceptedAnswer":{"@type":"Answer","text":"বেশিরভাগ সময় ফোন মুখের কাছে থাকলে প্রক্সিমিটি সেন্সর ইয়ারপিসে বদলে দেয়। ফোন দূরে রাখুন এবং বাজার সময় মিডিয়া ভলিউম বাড়ান।"}},{"@type":"Question","name":"WhatsApp-এ কি একটি ভয়েস মেসেজের ভলিউম বাড়ানো যায়?","acceptedAnswer":{"@type":"Answer","text":"WhatsApp-এর ভেতরে নয়। ফরওয়ার্ড → শেয়ার দিয়ে মেসেজ এক্সপোর্ট করুন, Increase Volume-এ বুস্ট করুন এবং জোরালো কপি ব্যবহার করুন।"}},{"@type":"Question","name":"ভয়েস মেসেজ বুস্ট করলে কি কোয়ালিটি কমে?","acceptedAnswer":{"@type":"Answer","text":"কণ্ঠ নতুন কোনো ত্রুটি ছাড়াই জোরালো হয়, তবে আগের পটভূমির শব্দও বাড়ে। কম দিয়ে শুরু করুন এবং আসল/প্রসেসড তুলনা করতে করতে বাড়ান।"}}]}

@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Reglaget «Volymmultiplikation ×10» och knappen «Boosta volymen till ×10» i Volymförstärkare",
-    "caption": "Volymförstärkare går till ×10, dubbelt så högt som iMovies gräns."
+    "caption": "Volymförstärkare går till ×10, dubbelt så högt som iMovies gräns.",
+    "hide_in_article": true
   },
   "sections": [
     {

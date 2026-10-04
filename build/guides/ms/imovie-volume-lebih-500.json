@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Tangkapan skrin «Select the amount of boosting»: peluncur pengganda kelantangan ×10, dua kali ganda maksimum iMovie",
-    "caption": "×10 dalam Penguat Volume Bunyi lebih kurang dua kali ganda maksimum iMovie."
+    "caption": "×10 dalam Penguat Volume Bunyi lebih kurang dua kali ganda maksimum iMovie.",
+    "hide_in_article": true
   },
   "sections": [
     {

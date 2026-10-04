@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/de/4.webp",
     "alt": "Increase Volume mit dem Regler Lautstärke-Multiplikation ×10, doppelt so viel wie das Maximum von iMovie auf dem iPhone",
-    "caption": "×10 in Increase Volume ist etwa das Doppelte des iMovie-Maximums."
+    "caption": "×10 in Increase Volume ist etwa das Doppelte des iMovie-Maximums.",
+    "hide_in_article": true
   },
   "sections": [
     {

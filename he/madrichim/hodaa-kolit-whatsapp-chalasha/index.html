@@ -118,7 +118,7 @@
     <meta property="og:title" content="הודעה קולית בוואטסאפ חלשה באייפון: איך להגביר אותה" />
     <meta property="og:description" content="הודעות קוליות בוואטסאפ חלשות באייפון? קודם שללו מעבר לרמקול השיחה בגלל חיישן הקרבה, ואז ייצאו את ההודעה והגבירו אותה עד פי 10 עם מגביר עוצמת קול, בתוך דקה." />
     <meta property="og:image" content="https://volumeboosting.com/he/site_preview.png" />
-    <meta property="og:image:alt" content="צילום מסך «Download and share anywhere»: גיליון השיתוף של iOS עם שמירה ב״קבצים״ עבור הקלטה מוגברת" />
+    <meta property="og:image:alt" content="גיליון השיתוף לקובץ המוגבר עם Copy, Save Video ו-Save to Files, והיישום Volume Boost" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/6.webp" alt="צילום מסך «Download and share anywhere»: גיליון השיתוף של iOS עם שמירה ב״קבצים״ עבור הקלטה מוגברת" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp" alt="גיליון השיתוף לקובץ המוגבר עם Copy, Save Video ו-Save to Files, והיישום Volume Boost" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>הודעות קוליות מוגברות נשמרות ב״קבצים״ או מועברות ישירות לצ׳אט.</figcaption>
             </figure>
@@ -488,10 +509,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"הודעה קולית בוואטסאפ חלשה באייפון: איך להגביר אותה","description":"הודעות קוליות בוואטסאפ חלשות באייפון? קודם שללו מעבר לרמקול השיחה בגלל חיישן הקרבה, ואז ייצאו את ההודעה והגבירו אותה עד פי 10 עם מגביר עוצמת קול, בתוך דקה.","image":["https://volumeboosting.com/img/screenshots/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/he/madrichim/hodaa-kolit-whatsapp-chalasha/","inLanguage":"he","about":{"@type":"MobileApplication","name":"Increase Volume – הגברת שמע","url":"https://volumeboosting.com/he/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"הודעה קולית בוואטסאפ חלשה באייפון: איך להגביר אותה","description":"הודעות קוליות בוואטסאפ חלשות באייפון? קודם שללו מעבר לרמקול השיחה בגלל חיישן הקרבה, ואז ייצאו את ההודעה והגבירו אותה עד פי 10 עם מגביר עוצמת קול, בתוך דקה.","image":["https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/he/madrichim/hodaa-kolit-whatsapp-chalasha/","inLanguage":"he","about":{"@type":"MobileApplication","name":"Increase Volume – הגברת שמע","url":"https://volumeboosting.com/he/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"שלב אחר שלב: הגברת הודעה קולית מוואטסאפ","description":"דקה אחת עם האפליקציה החינמית מגביר עוצמת קול.","image":"https://volumeboosting.com/img/screenshots/6.webp","totalTime":"PT1M","inLanguage":"he","tool":[{"@type":"HowToTool","name":"Increase Volume – הגברת שמע"}],"step":[{"@type":"HowToStep","position":1,"name":"ייצאו את ההודעה","text":"בוואטסאפ, לחיצה ארוכה על ההודעה ← העבר ← סמל השיתוף ← Increase Volume. (או שמירה ב״קבצים״ והוספה מתוך האפליקציה.)","url":"https://volumeboosting.com/he/madrichim/hodaa-kolit-whatsapp-chalasha/#step-1"},{"@type":"HowToStep","position":2,"name":"הפעילו שיפור איכות השמע","text":"הודעות קוליות הן דיבור; המתג עוזר למילים להישאר ברורות אחרי ההגברה.","url":"https://volumeboosting.com/he/madrichim/hodaa-kolit-whatsapp-chalasha/#step-2"},{"@type":"HowToStep","position":3,"name":"הגבירו","text":"כוונו את «הכפלת עוצמה» ל‑×5 להתחלה, ×8–×10 אם ההודעה חלשה מאוד, והקישו «הגברת עוצמה».","url":"https://volumeboosting.com/he/madrichim/hodaa-kolit-whatsapp-chalasha/#step-3"},{"@type":"HowToStep","position":4,"name":"השוו","text":"עברו בין מקור למעובד. אם המילה החזקה ביותר נשמעת סדוקה, הורידו את המכפיל.","url":"https://volumeboosting.com/he/madrichim/hodaa-kolit-whatsapp-chalasha/#step-4"},{"@type":"HowToStep","position":5,"name":"שמרו או העבירו","text":"הקישו «הורדת הקובץ המעובד». שמרו ב״קבצים״ או שתפו את העותק החזק בחזרה לוואטסאפ כדי שכל הקבוצה תשמע.","url":"https://volumeboosting.com/he/madrichim/hodaa-kolit-whatsapp-chalasha/#step-5"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"שלב אחר שלב: הגברת הודעה קולית מוואטסאפ","description":"דקה אחת עם האפליקציה החינמית מגביר עוצמת קול.","image":"https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp","totalTime":"PT1M","inLanguage":"he","tool":[{"@type":"HowToTool","name":"Increase Volume – הגברת שמע"}],"step":[{"@type":"HowToStep","position":1,"name":"ייצאו את ההודעה","text":"בוואטסאפ, לחיצה ארוכה על ההודעה ← העבר ← סמל השיתוף ← Increase Volume. (או שמירה ב״קבצים״ והוספה מתוך האפליקציה.)","url":"https://volumeboosting.com/he/madrichim/hodaa-kolit-whatsapp-chalasha/#step-1"},{"@type":"HowToStep","position":2,"name":"הפעילו שיפור איכות השמע","text":"הודעות קוליות הן דיבור; המתג עוזר למילים להישאר ברורות אחרי ההגברה.","url":"https://volumeboosting.com/he/madrichim/hodaa-kolit-whatsapp-chalasha/#step-2"},{"@type":"HowToStep","position":3,"name":"הגבירו","text":"כוונו את «הכפלת עוצמה» ל‑×5 להתחלה, ×8–×10 אם ההודעה חלשה מאוד, והקישו «הגברת עוצמה».","url":"https://volumeboosting.com/he/madrichim/hodaa-kolit-whatsapp-chalasha/#step-3"},{"@type":"HowToStep","position":4,"name":"השוו","text":"עברו בין מקור למעובד. אם המילה החזקה ביותר נשמעת סדוקה, הורידו את המכפיל.","url":"https://volumeboosting.com/he/madrichim/hodaa-kolit-whatsapp-chalasha/#step-4"},{"@type":"HowToStep","position":5,"name":"שמרו או העבירו","text":"הקישו «הורדת הקובץ המעובד». שמרו ב״קבצים״ או שתפו את העותק החזק בחזרה לוואטסאפ כדי שכל הקבוצה תשמע.","url":"https://volumeboosting.com/he/madrichim/hodaa-kolit-whatsapp-chalasha/#step-5"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"he","mainEntity":[{"@type":"Question","name":"למה הודעות קוליות חלשות כשאני מצמיד את הטלפון לאוזן?","acceptedAnswer":{"@type":"Answer","text":"זה מכוון: כשחיישן הקרבה מכוסה, וואטסאפ מנגן ברמקול השיחה מטעמי פרטיות. הגבירו את עוצמת רמקול השיחה בכפתורים בזמן הניגון, או הרחיקו את הטלפון כדי לנגן ברמקול."}},{"@type":"Question","name":"אפשר להגביר הודעה קולית בתוך וואטסאפ?","acceptedAnswer":{"@type":"Answer","text":"לא. בוואטסאפ יש מהירויות ניגון (1×, 1.5×, 2×), אבל לא הגברת עוצמה. ייצאו את ההודעה והגבירו אותה עם מגביר עוצמת קול."}},{"@type":"Question","name":"זה עובד גם בטלגרם ובמסנג׳ר?","acceptedAnswer":{"@type":"Answer","text":"זה עובד עם כל אפליקציה שמאפשרת לשתף או לשמור את קובץ השמע. את הקבצים המוגברים אפשר להעביר דרך אותה אפליקציה."}}]}

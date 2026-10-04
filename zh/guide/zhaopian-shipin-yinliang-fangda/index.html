@@ -118,7 +118,7 @@
     <meta property="og:title" content="如何直接从 iPhone「照片」App 放大视频音量" />
     <meta property="og:description" content="iPhone「照片」App 的编辑器只能把视频静音，不能调大音量。通过「共享」把视频发到「音量放大器」，最高放大 10 倍，再用「存储视频」存回「照片」，原视频保留不变，整个过程只需几步、不到一分钟。可在 App Store 免费下载并免费试用。" />
     <meta property="og:image" content="https://volumeboosting.com/zh/site_preview.png" />
-    <meta property="og:image:alt" content="显示「音量放大器」已放大文件选项的 iOS 共享面板" />
+    <meta property="og:image:alt" content="「照片」中所选视频的共享面板，App 一行中排在首位的是 Volume Boost 图标" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -235,7 +256,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/6.webp" alt="显示「音量放大器」已放大文件选项的 iOS 共享面板" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-boost-video-volume-from-the-photos-app.webp" alt="「照片」中所选视频的共享面板，App 一行中排在首位的是 Volume Boost 图标" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>「存储视频」会把更响的副本存回「照片」。</figcaption>
             </figure>
@@ -471,10 +492,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"如何直接从 iPhone「照片」App 放大视频音量","description":"iPhone「照片」App 的编辑器只能把视频静音，不能调大音量。通过「共享」把视频发到「音量放大器」，最高放大 10 倍，再用「存储视频」存回「照片」，原视频保留不变，整个过程只需几步、不到一分钟。可在 App Store 免费下载并免费试用。","image":["https://volumeboosting.com/img/screenshots/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-04","dateModified":"2026-10-04","mainEntityOfPage":"https://volumeboosting.com/zh/guide/zhaopian-shipin-yinliang-fangda/","inLanguage":"zh","about":{"@type":"MobileApplication","name":"Increase Volume – 声音增强","url":"https://volumeboosting.com/zh/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"如何直接从 iPhone「照片」App 放大视频音量","description":"iPhone「照片」App 的编辑器只能把视频静音，不能调大音量。通过「共享」把视频发到「音量放大器」，最高放大 10 倍，再用「存储视频」存回「照片」，原视频保留不变，整个过程只需几步、不到一分钟。可在 App Store 免费下载并免费试用。","image":["https://volumeboosting.com/img/guides/how-to-boost-video-volume-from-the-photos-app.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-04","dateModified":"2026-10-04","mainEntityOfPage":"https://volumeboosting.com/zh/guide/zhaopian-shipin-yinliang-fangda/","inLanguage":"zh","about":{"@type":"MobileApplication","name":"Increase Volume – 声音增强","url":"https://volumeboosting.com/zh/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"分步操作：从「照片」放大音量","description":"约一分钟。","image":"https://volumeboosting.com/img/screenshots/6.webp","totalTime":"PT1M","inLanguage":"zh","tool":[{"@type":"HowToTool","name":"Increase Volume – 声音增强"}],"step":[{"@type":"HowToStep","position":1,"name":"轻点「共享」","text":"在「照片」中打开视频 →「共享」→「音量放大器」。","url":"https://volumeboosting.com/zh/guide/zhaopian-shipin-yinliang-fangda/#step-1"},{"@type":"HowToStep","position":2,"name":"放大","text":"选择倍数，轻点「增强音量」。","url":"https://volumeboosting.com/zh/guide/zhaopian-shipin-yinliang-fangda/#step-2"},{"@type":"HowToStep","position":3,"name":"对比","text":"用「原始／处理后」开关试听。","url":"https://volumeboosting.com/zh/guide/zhaopian-shipin-yinliang-fangda/#step-3"},{"@type":"HowToStep","position":4,"name":"存回「照片」","text":"「下载处理后文件」→「存储视频」。","url":"https://volumeboosting.com/zh/guide/zhaopian-shipin-yinliang-fangda/#step-4"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"分步操作：从「照片」放大音量","description":"约一分钟。","image":"https://volumeboosting.com/img/guides/how-to-boost-video-volume-from-the-photos-app.webp","totalTime":"PT1M","inLanguage":"zh","tool":[{"@type":"HowToTool","name":"Increase Volume – 声音增强"}],"step":[{"@type":"HowToStep","position":1,"name":"轻点「共享」","text":"在「照片」中打开视频 →「共享」→「音量放大器」。","url":"https://volumeboosting.com/zh/guide/zhaopian-shipin-yinliang-fangda/#step-1"},{"@type":"HowToStep","position":2,"name":"放大","text":"选择倍数，轻点「增强音量」。","url":"https://volumeboosting.com/zh/guide/zhaopian-shipin-yinliang-fangda/#step-2"},{"@type":"HowToStep","position":3,"name":"对比","text":"用「原始／处理后」开关试听。","url":"https://volumeboosting.com/zh/guide/zhaopian-shipin-yinliang-fangda/#step-3"},{"@type":"HowToStep","position":4,"name":"存回「照片」","text":"「下载处理后文件」→「存储视频」。","url":"https://volumeboosting.com/zh/guide/zhaopian-shipin-yinliang-fangda/#step-4"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"zh","mainEntity":[{"@type":"Question","name":"「照片」App 有音量滑块吗？","acceptedAnswer":{"@type":"Answer","text":"没有，只有静音和（新款 iPhone 上的）「音频混合」。要提高音量需要 App。"}},{"@type":"Question","name":"原视频会被删除吗？","acceptedAnswer":{"@type":"Answer","text":"不会。更响的副本作为新项目存储。"}},{"@type":"Question","name":"iCloud 中的视频能用吗？","acceptedAnswer":{"@type":"Answer","text":"能；共享时 iOS 会先下载视频。"}}]}

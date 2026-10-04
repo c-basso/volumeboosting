@@ -14,8 +14,8 @@
     "大部分视频都在「照片」里，所以从这里开始最自然。「照片」编辑器没有音量滑块，但可以通过共享面板把视频直接发到「音量放大器」，结果再回到「照片」。"
   ],
   "screenshot": {
-    "src": "/img/screenshots/6.webp",
-    "alt": "显示「音量放大器」已放大文件选项的 iOS 共享面板",
+    "src": "/img/guides/how-to-boost-video-volume-from-the-photos-app.webp",
+    "alt": "「照片」中所选视频的共享面板，App 一行中排在首位的是 Volume Boost 图标",
     "caption": "「存储视频」会把更响的副本存回「照片」。"
   },
   "sections": [

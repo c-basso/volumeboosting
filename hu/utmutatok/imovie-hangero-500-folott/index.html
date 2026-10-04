@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -235,13 +256,13 @@
             
 
             
-            <figure class="guide-figure">
-              <div class="guide-figure-frame">
-                <img src="/img/screenshots/4.webp" alt="„Select the amount of boosting” képernyőkép: ×10-es hangerőszorzó csúszka, az iMovie maximumának kétszerese" width="460" height="995" loading="lazy" decoding="async" />
-              </div>
-              <figcaption>A Hangerőnövelő Média ×10-e nagyjából kétszerese az iMovie maximumának.</figcaption>
-            </figure>
             
+            <aside class="guide-callout">
+              <span class="guide-callout-icon" aria-hidden="true">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5"/><path d="M5 12l7-7 7 7"/></svg>
+              </span>
+              <p class="guide-callout-text">A Hangerőnövelő Média ×10-e nagyjából kétszerese az iMovie maximumának.</p>
+            </aside>
             
 
             

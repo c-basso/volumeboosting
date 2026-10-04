@@ -118,7 +118,7 @@
     <meta property="og:title" content="Как увеличить громкость видео из приложения «Фото»" />
     <meta property="og:description" content="Редактор «Фото» умеет только выключить звук. Как через «Поделиться» → Increase Volume сделать видео громче до 10× и сохранить копию обратно в медиатеку «Фото»." />
     <meta property="og:image" content="https://volumeboosting.com/ru/site_preview.png" />
-    <meta property="og:image:alt" content="Меню «Поделиться» iOS с вариантами для усиленного файла из «Увеличить Громкость»" />
+    <meta property="og:image:alt" content="Меню «Поделиться» в «Фото» для выбранного видео, первой в ряду приложений — иконка Volume Boost" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/ru/6.webp" alt="Меню «Поделиться» iOS с вариантами для усиленного файла из «Увеличить Громкость»" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-boost-video-volume-from-the-photos-app.webp" alt="Меню «Поделиться» в «Фото» для выбранного видео, первой в ряду приложений — иконка Volume Boost" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Меню «Поделиться» переносит видео из «Фото» в приложение и обратно.</figcaption>
             </figure>
@@ -478,10 +499,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Как увеличить громкость видео из приложения «Фото»","description":"Редактор «Фото» умеет только выключить звук. Как через «Поделиться» → Increase Volume сделать видео громче до 10× и сохранить копию обратно в медиатеку «Фото».","image":["https://volumeboosting.com/img/screenshots/ru/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/ru/instrukcii/gromkost-video-v-prilozhenii-foto/","inLanguage":"ru","about":{"@type":"MobileApplication","name":"Increase Volume – Усиление звука","url":"https://volumeboosting.com/ru/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Как увеличить громкость видео из приложения «Фото»","description":"Редактор «Фото» умеет только выключить звук. Как через «Поделиться» → Increase Volume сделать видео громче до 10× и сохранить копию обратно в медиатеку «Фото».","image":["https://volumeboosting.com/img/guides/how-to-boost-video-volume-from-the-photos-app.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/ru/instrukcii/gromkost-video-v-prilozhenii-foto/","inLanguage":"ru","about":{"@type":"MobileApplication","name":"Increase Volume – Усиление звука","url":"https://volumeboosting.com/ru/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Из «Фото» к громкому видео","description":"Около минуты.","image":"https://volumeboosting.com/img/screenshots/ru/6.webp","totalTime":"PT1M","inLanguage":"ru","tool":[{"@type":"HowToTool","name":"Increase Volume – Усиление звука"}],"step":[{"@type":"HowToStep","position":1,"name":"Откройте видео в «Фото»","text":"Нажмите на видео, затем «Поделиться».","url":"https://volumeboosting.com/ru/instrukcii/gromkost-video-v-prilozhenii-foto/#step-1"},{"@type":"HowToStep","position":2,"name":"Выберите Increase Volume","text":"Проект сразу откроется в приложении «Увеличить Громкость».","url":"https://volumeboosting.com/ru/instrukcii/gromkost-video-v-prilozhenii-foto/#step-2"},{"@type":"HowToStep","position":3,"name":"Усильте","text":"Сдвиньте «Умножение громкости», нажмите «Усилить громкость до ×N» и сравните «Оригинал/Обработано».","url":"https://volumeboosting.com/ru/instrukcii/gromkost-video-v-prilozhenii-foto/#step-3"},{"@type":"HowToStep","position":4,"name":"Сохраните обратно в «Фото»","text":"Нажмите «Скачать обработанный» → «Сохранить видео».","url":"https://volumeboosting.com/ru/instrukcii/gromkost-video-v-prilozhenii-foto/#step-4"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Из «Фото» к громкому видео","description":"Около минуты.","image":"https://volumeboosting.com/img/guides/how-to-boost-video-volume-from-the-photos-app.webp","totalTime":"PT1M","inLanguage":"ru","tool":[{"@type":"HowToTool","name":"Increase Volume – Усиление звука"}],"step":[{"@type":"HowToStep","position":1,"name":"Откройте видео в «Фото»","text":"Нажмите на видео, затем «Поделиться».","url":"https://volumeboosting.com/ru/instrukcii/gromkost-video-v-prilozhenii-foto/#step-1"},{"@type":"HowToStep","position":2,"name":"Выберите Increase Volume","text":"Проект сразу откроется в приложении «Увеличить Громкость».","url":"https://volumeboosting.com/ru/instrukcii/gromkost-video-v-prilozhenii-foto/#step-2"},{"@type":"HowToStep","position":3,"name":"Усильте","text":"Сдвиньте «Умножение громкости», нажмите «Усилить громкость до ×N» и сравните «Оригинал/Обработано».","url":"https://volumeboosting.com/ru/instrukcii/gromkost-video-v-prilozhenii-foto/#step-3"},{"@type":"HowToStep","position":4,"name":"Сохраните обратно в «Фото»","text":"Нажмите «Скачать обработанный» → «Сохранить видео».","url":"https://volumeboosting.com/ru/instrukcii/gromkost-video-v-prilozhenii-foto/#step-4"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"ru","mainEntity":[{"@type":"Question","name":"Может ли приложение «Фото» сделать видео громче?","acceptedAnswer":{"@type":"Answer","text":"Нет. «Фото» может только выключить звук или настроить «Аудиомикс» на поддерживаемых моделях."}},{"@type":"Question","name":"Заменяет ли приложение исходное видео?","acceptedAnswer":{"@type":"Answer","text":"Нет. Оно всегда сохраняет новую копию; оригинал не меняется."}},{"@type":"Question","name":"Работает ли это с Live Photos?","acceptedAnswer":{"@type":"Answer","text":"Приложение работает с видеофайлами. Сначала сохраните Live Photo как видео в «Фото»."}}]}

@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Increase Volume-ல் «ஒலியளவு பெருக்கம் ×10» ஸ்லைடர், «ஒலியளவை ×10 வரை பூஸ்ட் செய்» பொத்தான்",
-    "caption": "Increase Volume ×10 வரை செல்லும், iMovie வரம்பின் இரு மடங்கு."
+    "caption": "Increase Volume ×10 வரை செல்லும், iMovie வரம்பின் இரு மடங்கு.",
+    "hide_in_article": true
   },
   "sections": [
     {

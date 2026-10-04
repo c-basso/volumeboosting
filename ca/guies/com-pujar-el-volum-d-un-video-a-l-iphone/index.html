@@ -118,7 +118,7 @@
     <meta property="og:title" content="Com pujar el volum d'un vídeo a l'iPhone" />
     <meta property="og:description" content="Fes que un vídeo amb so fluix soni més fort a l'iPhone en menys d'un minut: què fan Fotos i iMovie, on s'aturen i com arribar a 10× amb Augmenta Volum Vídeo." />
     <meta property="og:image" content="https://volumeboosting.com/ca/site_preview.png" />
-    <meta property="og:image:alt" content="Captura de la botiga (titular en castellà «Aumenta el volumen de vídeos»): un dit arrossega el control lliscant rosa sobre un vídeo" />
+    <meta property="og:image:alt" content="Control «Multiplicació del volum ×10» i botó «Reforça el volum»" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/ca/2.webp" alt="Captura de la botiga (titular en castellà «Aumenta el volumen de vídeos»): un dit arrossega el control lliscant rosa sobre un vídeo" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-video-louder-on-iphone.webp" alt="Control «Multiplicació del volum ×10» i botó «Reforça el volum»" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>El control lliscant és damunt de la previsualització del vídeo. Arrossega, escolta, desa.</figcaption>
             </figure>
@@ -505,10 +526,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Com pujar el volum d'un vídeo a l'iPhone","description":"Fes que un vídeo amb so fluix soni més fort a l'iPhone en menys d'un minut: què fan Fotos i iMovie, on s'aturen i com arribar a 10× amb Augmenta Volum Vídeo.","image":["https://volumeboosting.com/img/screenshots/ca/2.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-03","dateModified":"2026-10-03","mainEntityOfPage":"https://volumeboosting.com/ca/guies/com-pujar-el-volum-d-un-video-a-l-iphone/","inLanguage":"ca","about":{"@type":"MobileApplication","name":"Increase Volume – Potència de so","url":"https://volumeboosting.com/ca/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Com pujar el volum d'un vídeo a l'iPhone","description":"Fes que un vídeo amb so fluix soni més fort a l'iPhone en menys d'un minut: què fan Fotos i iMovie, on s'aturen i com arribar a 10× amb Augmenta Volum Vídeo.","image":["https://volumeboosting.com/img/guides/how-to-make-a-video-louder-on-iphone.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-03","dateModified":"2026-10-03","mainEntityOfPage":"https://volumeboosting.com/ca/guies/com-pujar-el-volum-d-un-video-a-l-iphone/","inLanguage":"ca","about":{"@type":"MobileApplication","name":"Increase Volume – Potència de so","url":"https://volumeboosting.com/ca/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Pas a pas: puja el volum d'un vídeo amb Augmenta Volum Vídeo","description":"Amb un clip normal triga un minut. Necessites l'app gratuïta de l'App Store i el vídeo a Fotos o Fitxers.","image":"https://volumeboosting.com/img/screenshots/ca/2.webp","totalTime":"PT1M","inLanguage":"ca","tool":[{"@type":"HowToTool","name":"Increase Volume – Potència de so"}],"step":[{"@type":"HowToStep","position":1,"name":"Obre el vídeo a l'app","text":"Obre l'app i afegeix el vídeo des de Fotos o Fitxers. Més ràpid: obre el vídeo a Fotos, toca Comparteix i tria Increase Volume; el projecte es crea de seguida.","url":"https://volumeboosting.com/ca/guies/com-pujar-el-volum-d-un-video-a-l-iphone/#step-1"},{"@type":"HowToStep","position":2,"name":"Revisa els detalls","text":"L'app mostra el nom, la mida i la durada del fitxer, perquè sàpigues que és el clip correcte. Si és sobretot veu, activa «Millora la qualitat de l'àudio».","url":"https://volumeboosting.com/ca/guies/com-pujar-el-volum-d-un-video-a-l-iphone/#step-2"},{"@type":"HowToStep","position":3,"name":"Tria l'amplificació","text":"Arrossega «Multiplicació del volum». Comença amb ×3 a ×5 si el vídeo només és una mica fluix; ves fins a ×10 si gairebé no se sent. Toca «Reforça el volum a ×N».","url":"https://volumeboosting.com/ca/guies/com-pujar-el-volum-d-un-video-a-l-iphone/#step-3"},{"@type":"HowToStep","position":4,"name":"Compara Original i Processat","text":"Fes servir el selector de sota el botó per canviar entre l'original i la versió reforçada. Si les parts fortes sonen trencades, torna enrere i baixa la multiplicació un punt.","url":"https://volumeboosting.com/ca/guies/com-pujar-el-volum-d-un-video-a-l-iphone/#step-4"},{"@type":"HowToStep","position":5,"name":"Descarrega i comparteix","text":"Toca «Descarrega el processat». Al full per compartir, tria Desa el vídeo per posar la còpia més forta a Fotos, Desa a Fitxers, o envia-la directament per Missatges, WhatsApp, AirDrop o TikTok.","url":"https://volumeboosting.com/ca/guies/com-pujar-el-volum-d-un-video-a-l-iphone/#step-5"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Pas a pas: puja el volum d'un vídeo amb Augmenta Volum Vídeo","description":"Amb un clip normal triga un minut. Necessites l'app gratuïta de l'App Store i el vídeo a Fotos o Fitxers.","image":"https://volumeboosting.com/img/guides/how-to-make-a-video-louder-on-iphone.webp","totalTime":"PT1M","inLanguage":"ca","tool":[{"@type":"HowToTool","name":"Increase Volume – Potència de so"}],"step":[{"@type":"HowToStep","position":1,"name":"Obre el vídeo a l'app","text":"Obre l'app i afegeix el vídeo des de Fotos o Fitxers. Més ràpid: obre el vídeo a Fotos, toca Comparteix i tria Increase Volume; el projecte es crea de seguida.","url":"https://volumeboosting.com/ca/guies/com-pujar-el-volum-d-un-video-a-l-iphone/#step-1"},{"@type":"HowToStep","position":2,"name":"Revisa els detalls","text":"L'app mostra el nom, la mida i la durada del fitxer, perquè sàpigues que és el clip correcte. Si és sobretot veu, activa «Millora la qualitat de l'àudio».","url":"https://volumeboosting.com/ca/guies/com-pujar-el-volum-d-un-video-a-l-iphone/#step-2"},{"@type":"HowToStep","position":3,"name":"Tria l'amplificació","text":"Arrossega «Multiplicació del volum». Comença amb ×3 a ×5 si el vídeo només és una mica fluix; ves fins a ×10 si gairebé no se sent. Toca «Reforça el volum a ×N».","url":"https://volumeboosting.com/ca/guies/com-pujar-el-volum-d-un-video-a-l-iphone/#step-3"},{"@type":"HowToStep","position":4,"name":"Compara Original i Processat","text":"Fes servir el selector de sota el botó per canviar entre l'original i la versió reforçada. Si les parts fortes sonen trencades, torna enrere i baixa la multiplicació un punt.","url":"https://volumeboosting.com/ca/guies/com-pujar-el-volum-d-un-video-a-l-iphone/#step-4"},{"@type":"HowToStep","position":5,"name":"Descarrega i comparteix","text":"Toca «Descarrega el processat». Al full per compartir, tria Desa el vídeo per posar la còpia més forta a Fotos, Desa a Fitxers, o envia-la directament per Missatges, WhatsApp, AirDrop o TikTok.","url":"https://volumeboosting.com/ca/guies/com-pujar-el-volum-d-un-video-a-l-iphone/#step-5"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"ca","mainEntity":[{"@type":"Question","name":"Puc pujar el volum d'un vídeo a l'iPhone sense cap app?","acceptedAnswer":{"@type":"Answer","text":"Només amb iMovie, que Apple ofereix gratis i que fa un clip fins a un 500 % més fort. Fotos no pot augmentar el volum. Per a més de 5× o un procés més ràpid, fes servir Augmenta Volum Vídeo."}},{"@type":"Question","name":"Empitjora la qualitat del vídeo si pujo el volum?","acceptedAnswer":{"@type":"Answer","text":"La imatge no canvia gens. El so es multiplica; si forces massa una gravació que ja té pics forts, es pot distorsionar i sonar trencada. Per això l'app té el selector Original/Processat, perquè escoltis abans de desar."}},{"@type":"Question","name":"El vídeo continua sonant fort quan l'envio?","acceptedAnswer":{"@type":"Answer","text":"Sí. L'amplificació és a la pista d'àudio del fitxer, així que sona al nivell nou a qualsevol telèfon, ordinador o xarxa social."}},{"@type":"Question","name":"Funciona amb vídeos descarregats?","acceptedAnswer":{"@type":"Answer","text":"Sí, sempre que el fitxer sigui a Fotos o Fitxers i no estigui protegit contra còpia. L'app obre fitxers MP4 i MOV de qualsevol origen."}}]}

@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Increase Volume: Äänenvoimakkuuden kertoja ×10 -liukusäädin, kaksinkertainen iMovien maksimiin verrattuna",
-    "caption": "Increase Volumen ×10 on noin kaksinkertainen iMovien maksimiin nähden."
+    "caption": "Increase Volumen ×10 on noin kaksinkertainen iMovien maksimiin nähden.",
+    "hide_in_article": true
   },
   "sections": [
     {

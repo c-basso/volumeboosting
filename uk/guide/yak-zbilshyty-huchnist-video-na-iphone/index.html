@@ -118,7 +118,7 @@
     <meta property="og:title" content="Як збільшити гучність відео на iPhone" />
     <meta property="og:description" content="Зробіть тихе відео на iPhone гучнішим за хвилину: що вміють «Фотографії» та iMovie, де їхня межа і як підсилити звук до 10 разів у «Підсилювачі гучності 10x»." />
     <meta property="og:image" content="https://volumeboosting.com/uk/site_preview.png" />
-    <meta property="og:image:alt" content="Знімок екрана «Make video louder»: палець тягне рожевий повзунок над відео в «Підсилювачі гучності 10x»" />
+    <meta property="og:image:alt" content="Повзунок «Множення гучності ×10» і кнопка «Підсилити гучність»" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/2.webp" alt="Знімок екрана «Make video louder»: палець тягне рожевий повзунок над відео в «Підсилювачі гучності 10x»" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-video-louder-on-iphone.webp" alt="Повзунок «Множення гучності ×10» і кнопка «Підсилити гучність»" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Повзунок розташований просто над переглядом відео. Тягніть, слухайте, зберігайте.</figcaption>
             </figure>
@@ -505,10 +526,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Як збільшити гучність відео на iPhone","description":"Зробіть тихе відео на iPhone гучнішим за хвилину: що вміють «Фотографії» та iMovie, де їхня межа і як підсилити звук до 10 разів у «Підсилювачі гучності 10x».","image":["https://volumeboosting.com/img/screenshots/2.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-04","dateModified":"2026-10-04","mainEntityOfPage":"https://volumeboosting.com/uk/guide/yak-zbilshyty-huchnist-video-na-iphone/","inLanguage":"uk","about":{"@type":"MobileApplication","name":"Increase Volume – Підсилення звуку","url":"https://volumeboosting.com/uk/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Як збільшити гучність відео на iPhone","description":"Зробіть тихе відео на iPhone гучнішим за хвилину: що вміють «Фотографії» та iMovie, де їхня межа і як підсилити звук до 10 разів у «Підсилювачі гучності 10x».","image":["https://volumeboosting.com/img/guides/how-to-make-a-video-louder-on-iphone.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-04","dateModified":"2026-10-04","mainEntityOfPage":"https://volumeboosting.com/uk/guide/yak-zbilshyty-huchnist-video-na-iphone/","inLanguage":"uk","about":{"@type":"MobileApplication","name":"Increase Volume – Підсилення звуку","url":"https://volumeboosting.com/uk/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Крок за кроком: збільшіть гучність відео в «Підсилювачі гучності 10x»","description":"Для звичайного кліпу — близько хвилини. Потрібні безкоштовна програма з App Store і відео у «Фотографіях» або «Файлах».","image":"https://volumeboosting.com/img/screenshots/2.webp","totalTime":"PT1M","inLanguage":"uk","tool":[{"@type":"HowToTool","name":"Increase Volume – Підсилення звуку"}],"step":[{"@type":"HowToStep","position":1,"name":"Відкрийте відео в програмі","text":"Відкрийте програму й додайте відео з «Фотографій» або «Файлів». Найшвидше: відкрийте відео у «Фотографіях», торкніться «Поширити» й виберіть «Підсилювач гучності 10x» — проєкт створиться одразу.","url":"https://volumeboosting.com/uk/guide/yak-zbilshyty-huchnist-video-na-iphone/#step-1"},{"@type":"HowToStep","position":2,"name":"Перевірте дані","text":"Програма показує назву файлу, розмір і тривалість, тож ви переконаєтеся, що це потрібний кліп. Якщо там переважно мовлення, увімкніть «Покращити якість звуку».","url":"https://volumeboosting.com/uk/guide/yak-zbilshyty-huchnist-video-na-iphone/#step-2"},{"@type":"HowToStep","position":3,"name":"Виберіть підсилення","text":"Потягніть «Множення гучності». Якщо відео трохи тихе, почніть із ×3–×5; якщо майже нічого не чути — до ×10. Торкніться «Підсилити гучність до ×N».","url":"https://volumeboosting.com/uk/guide/yak-zbilshyty-huchnist-video-na-iphone/#step-3"},{"@type":"HowToStep","position":4,"name":"Порівняйте оригінал і оброблене","text":"Перемикачем під кнопкою переходьте між оригіналом і підсиленою версією. Якщо гучні місця хриплять, поверніться й зменште множник на крок.","url":"https://volumeboosting.com/uk/guide/yak-zbilshyty-huchnist-video-na-iphone/#step-4"},{"@type":"HowToStep","position":5,"name":"Завантажте й поширте","text":"Торкніться «Завантажити оброблене». У меню «Поширити» виберіть «Зберегти відео», щоб гучніша копія потрапила у «Фотографії», або «Зберегти у Файли», або надішліть одразу в Telegram, Viber, AirDrop чи Instagram.","url":"https://volumeboosting.com/uk/guide/yak-zbilshyty-huchnist-video-na-iphone/#step-5"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Крок за кроком: збільшіть гучність відео в «Підсилювачі гучності 10x»","description":"Для звичайного кліпу — близько хвилини. Потрібні безкоштовна програма з App Store і відео у «Фотографіях» або «Файлах».","image":"https://volumeboosting.com/img/guides/how-to-make-a-video-louder-on-iphone.webp","totalTime":"PT1M","inLanguage":"uk","tool":[{"@type":"HowToTool","name":"Increase Volume – Підсилення звуку"}],"step":[{"@type":"HowToStep","position":1,"name":"Відкрийте відео в програмі","text":"Відкрийте програму й додайте відео з «Фотографій» або «Файлів». Найшвидше: відкрийте відео у «Фотографіях», торкніться «Поширити» й виберіть «Підсилювач гучності 10x» — проєкт створиться одразу.","url":"https://volumeboosting.com/uk/guide/yak-zbilshyty-huchnist-video-na-iphone/#step-1"},{"@type":"HowToStep","position":2,"name":"Перевірте дані","text":"Програма показує назву файлу, розмір і тривалість, тож ви переконаєтеся, що це потрібний кліп. Якщо там переважно мовлення, увімкніть «Покращити якість звуку».","url":"https://volumeboosting.com/uk/guide/yak-zbilshyty-huchnist-video-na-iphone/#step-2"},{"@type":"HowToStep","position":3,"name":"Виберіть підсилення","text":"Потягніть «Множення гучності». Якщо відео трохи тихе, почніть із ×3–×5; якщо майже нічого не чути — до ×10. Торкніться «Підсилити гучність до ×N».","url":"https://volumeboosting.com/uk/guide/yak-zbilshyty-huchnist-video-na-iphone/#step-3"},{"@type":"HowToStep","position":4,"name":"Порівняйте оригінал і оброблене","text":"Перемикачем під кнопкою переходьте між оригіналом і підсиленою версією. Якщо гучні місця хриплять, поверніться й зменште множник на крок.","url":"https://volumeboosting.com/uk/guide/yak-zbilshyty-huchnist-video-na-iphone/#step-4"},{"@type":"HowToStep","position":5,"name":"Завантажте й поширте","text":"Торкніться «Завантажити оброблене». У меню «Поширити» виберіть «Зберегти відео», щоб гучніша копія потрапила у «Фотографії», або «Зберегти у Файли», або надішліть одразу в Telegram, Viber, AirDrop чи Instagram.","url":"https://volumeboosting.com/uk/guide/yak-zbilshyty-huchnist-video-na-iphone/#step-5"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"uk","mainEntity":[{"@type":"Question","name":"Чи можна збільшити гучність відео на iPhone без сторонньої програми?","acceptedAnswer":{"@type":"Answer","text":"Лише через iMovie, яку Apple дає безкоштовно: вона підсилює кліп приблизно до 500%. «Фотографії» гучність не збільшують. Для понад 5 разів або швидшого способу скористайтеся «Підсилювачем гучності 10x»."}},{"@type":"Question","name":"Чи погіршиться якість відео після підсилення?","acceptedAnswer":{"@type":"Answer","text":"Зображення не змінюється зовсім. Підсилюється лише звук; якщо надто сильно підняти запис із гучними піками, можливе хрипіння. Тому в програмі є перемикач «Оригінал/Оброблено», щоб послухати перед збереженням."}},{"@type":"Question","name":"Чи залишиться відео гучним після надсилання?","acceptedAnswer":{"@type":"Answer","text":"Так. Підсилення записане в аудіодоріжку файлу, тож він звучить на новому рівні на будь-якому телефоні, комп'ютері й у соцмережах."}},{"@type":"Question","name":"Чи працює з завантаженими відео?","acceptedAnswer":{"@type":"Answer","text":"Так, якщо файл лежить у «Фотографіях» або «Файлах» і не має захисту від копіювання. Програма відкриває MP4 і MOV з будь-якого джерела."}}]}

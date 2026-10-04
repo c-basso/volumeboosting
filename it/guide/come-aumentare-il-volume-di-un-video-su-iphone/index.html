@@ -118,7 +118,7 @@
     <meta property="og:title" content="Come aumentare il volume di un video su iPhone" />
     <meta property="og:description" content="Alza il volume di un video troppo basso su iPhone in meno di un minuto: cosa fanno Foto e iMovie, dove si fermano e come arrivare a 10× con Aumenta Volume." />
     <meta property="og:image" content="https://volumeboosting.com/it/site_preview.png" />
-    <meta property="og:image:alt" content="Schermata «Aumenta il volume dei video»: un dito trascina il cursore rosa su un video in Aumenta Volume" />
+    <meta property="og:image:alt" content="Cursore «Moltiplicazione volume ×10» e pulsante «Potenzia volume»" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/it/2.webp" alt="Schermata «Aumenta il volume dei video»: un dito trascina il cursore rosa su un video in Aumenta Volume" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-video-louder-on-iphone.webp" alt="Cursore «Moltiplicazione volume ×10» e pulsante «Potenzia volume»" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Il cursore è sopra l'anteprima del video. Trascina, ascolta, salva.</figcaption>
             </figure>
@@ -505,10 +526,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Come aumentare il volume di un video su iPhone","description":"Alza il volume di un video troppo basso su iPhone in meno di un minuto: cosa fanno Foto e iMovie, dove si fermano e come arrivare a 10× con Aumenta Volume.","image":["https://volumeboosting.com/img/screenshots/it/2.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/it/guide/come-aumentare-il-volume-di-un-video-su-iphone/","inLanguage":"it","about":{"@type":"MobileApplication","name":"Increase Volume – Potenziamento audio","url":"https://volumeboosting.com/it/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Come aumentare il volume di un video su iPhone","description":"Alza il volume di un video troppo basso su iPhone in meno di un minuto: cosa fanno Foto e iMovie, dove si fermano e come arrivare a 10× con Aumenta Volume.","image":["https://volumeboosting.com/img/guides/how-to-make-a-video-louder-on-iphone.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/it/guide/come-aumentare-il-volume-di-un-video-su-iphone/","inLanguage":"it","about":{"@type":"MobileApplication","name":"Increase Volume – Potenziamento audio","url":"https://volumeboosting.com/it/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Passo dopo passo: alzare il volume di un video con Aumenta Volume","description":"Per una clip normale serve circa un minuto. Ti servono l'app gratuita da App Store e il video in Foto o File.","image":"https://volumeboosting.com/img/screenshots/it/2.webp","totalTime":"PT1M","inLanguage":"it","tool":[{"@type":"HowToTool","name":"Increase Volume – Potenziamento audio"}],"step":[{"@type":"HowToStep","position":1,"name":"Apri il video nell'app","text":"Apri l'app e aggiungi il video da Foto o File. Più veloce: apri il video in Foto, tocca Condividi e scegli Increase Volume; il progetto viene creato subito.","url":"https://volumeboosting.com/it/guide/come-aumentare-il-volume-di-un-video-su-iphone/#step-1"},{"@type":"HowToStep","position":2,"name":"Controlla i dettagli","text":"L'app mostra nome del file, dimensione e durata per confermare che sia la clip giusta. Se è soprattutto parlato, attiva «Migliora qualità audio».","url":"https://volumeboosting.com/it/guide/come-aumentare-il-volume-di-un-video-su-iphone/#step-2"},{"@type":"HowToStep","position":3,"name":"Scegli quanto potenziare","text":"Trascina «Moltiplicazione volume». Parti da ×3–×5 se il video è solo un po' basso; arriva a ×10 se si sente appena. Tocca «Potenzia volume a ×N».","url":"https://volumeboosting.com/it/guide/come-aumentare-il-volume-di-un-video-su-iphone/#step-3"},{"@type":"HowToStep","position":4,"name":"Confronta Originale ed Elaborato","text":"Usa il selettore sotto il pulsante per passare dall'originale alla versione potenziata. Se le parti forti suonano gracchianti, torna indietro e abbassa il moltiplicatore di un passo.","url":"https://volumeboosting.com/it/guide/come-aumentare-il-volume-di-un-video-su-iphone/#step-4"},{"@type":"HowToStep","position":5,"name":"Scarica e condividi","text":"Tocca «Scarica elaborato». Nel foglio di condivisione scegli Salva video per mettere la copia più forte in Foto, Salva su File, oppure inviala direttamente con Messaggi, WhatsApp, AirDrop o TikTok.","url":"https://volumeboosting.com/it/guide/come-aumentare-il-volume-di-un-video-su-iphone/#step-5"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Passo dopo passo: alzare il volume di un video con Aumenta Volume","description":"Per una clip normale serve circa un minuto. Ti servono l'app gratuita da App Store e il video in Foto o File.","image":"https://volumeboosting.com/img/guides/how-to-make-a-video-louder-on-iphone.webp","totalTime":"PT1M","inLanguage":"it","tool":[{"@type":"HowToTool","name":"Increase Volume – Potenziamento audio"}],"step":[{"@type":"HowToStep","position":1,"name":"Apri il video nell'app","text":"Apri l'app e aggiungi il video da Foto o File. Più veloce: apri il video in Foto, tocca Condividi e scegli Increase Volume; il progetto viene creato subito.","url":"https://volumeboosting.com/it/guide/come-aumentare-il-volume-di-un-video-su-iphone/#step-1"},{"@type":"HowToStep","position":2,"name":"Controlla i dettagli","text":"L'app mostra nome del file, dimensione e durata per confermare che sia la clip giusta. Se è soprattutto parlato, attiva «Migliora qualità audio».","url":"https://volumeboosting.com/it/guide/come-aumentare-il-volume-di-un-video-su-iphone/#step-2"},{"@type":"HowToStep","position":3,"name":"Scegli quanto potenziare","text":"Trascina «Moltiplicazione volume». Parti da ×3–×5 se il video è solo un po' basso; arriva a ×10 se si sente appena. Tocca «Potenzia volume a ×N».","url":"https://volumeboosting.com/it/guide/come-aumentare-il-volume-di-un-video-su-iphone/#step-3"},{"@type":"HowToStep","position":4,"name":"Confronta Originale ed Elaborato","text":"Usa il selettore sotto il pulsante per passare dall'originale alla versione potenziata. Se le parti forti suonano gracchianti, torna indietro e abbassa il moltiplicatore di un passo.","url":"https://volumeboosting.com/it/guide/come-aumentare-il-volume-di-un-video-su-iphone/#step-4"},{"@type":"HowToStep","position":5,"name":"Scarica e condividi","text":"Tocca «Scarica elaborato». Nel foglio di condivisione scegli Salva video per mettere la copia più forte in Foto, Salva su File, oppure inviala direttamente con Messaggi, WhatsApp, AirDrop o TikTok.","url":"https://volumeboosting.com/it/guide/come-aumentare-il-volume-di-un-video-su-iphone/#step-5"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"it","mainEntity":[{"@type":"Question","name":"Si può aumentare il volume di un video su iPhone senza app?","acceptedAnswer":{"@type":"Answer","text":"Solo con iMovie, che Apple offre gratis e che alza il volume di una clip fino al 500% circa. Foto non può alzare il volume. Per più di 5× o per fare prima, usa Aumenta Volume."}},{"@type":"Question","name":"Il video perde qualità se alzo il volume?","acceptedAnswer":{"@type":"Answer","text":"L'immagine non cambia per niente. L'audio viene moltiplicato; se spingi troppo una registrazione che ha già picchi forti, può distorcere e suonare gracchiante. Per questo l'app ha il selettore Originale/Elaborato, per ascoltare prima di salvare."}},{"@type":"Question","name":"Il video resta forte quando lo invio?","acceptedAnswer":{"@type":"Answer","text":"Sì. Il potenziamento è scritto nella traccia audio del file, quindi suona al nuovo livello su qualsiasi telefono, computer o social."}},{"@type":"Question","name":"Funziona con i video scaricati?","acceptedAnswer":{"@type":"Answer","text":"Sì, purché il file sia in Foto o File e non sia protetto da copia. L'app apre file MP4 e MOV da qualsiasi fonte."}}]}

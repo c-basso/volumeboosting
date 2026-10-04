@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Increase Volume med skyderen Lydstyrke-multiplikation ×10, det dobbelte af iMovies loft på iPhone",
-    "caption": "×10 i Increase Volume er cirka det dobbelte af iMovies maksimum."
+    "caption": "×10 i Increase Volume er cirka det dobbelte af iMovies maksimum.",
+    "hide_in_article": true
   },
   "sections": [
     {

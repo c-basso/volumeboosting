@@ -118,7 +118,7 @@
     <meta property="og:title" content="Tichá hlasová správa z WhatsAppu na iPhone: príčiny a riešenie" />
     <meta property="og:description" content="Nepočuješ hlasové správy z WhatsAppu na iPhone? Skontroluj slúchadlo a senzor priblíženia a jednu tichú správu zosilni až 10× vo Volume Boost za pár sekúnd." />
     <meta property="og:image" content="https://volumeboosting.com/sk/site_preview.png" />
-    <meta property="og:image:alt" content="Panel zdieľania iOS s voľbami Kopírovať, Pridať tagy a Uložiť do Súborov pre zosilnený zvuk vo Volume Boost" />
+    <meta property="og:image:alt" content="Hárok zdieľania pre zosilnený súbor s voľbami Copy, Save Video a Save to Files a aplikáciou Volume Boost" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/6.webp" alt="Panel zdieľania iOS s voľbami Kopírovať, Pridať tagy a Uložiť do Súborov pre zosilnený zvuk vo Volume Boost" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp" alt="Hárok zdieľania pre zosilnený súbor s voľbami Copy, Save Video a Save to Files a aplikáciou Volume Boost" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Po zosilnení pošli hlasnejšiu kópiu späť do WhatsAppu alebo ju ulož do Súborov.</figcaption>
             </figure>
@@ -484,10 +505,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"Tichá hlasová správa z WhatsAppu na iPhone: príčiny a riešenie","description":"Nepočuješ hlasové správy z WhatsAppu na iPhone? Skontroluj slúchadlo a senzor priblíženia a jednu tichú správu zosilni až 10× vo Volume Boost za pár sekúnd.","image":["https://volumeboosting.com/img/screenshots/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/sk/navody/ticha-hlasova-sprava-whatsapp/","inLanguage":"sk","about":{"@type":"MobileApplication","name":"Increase Volume – Zosilnenie zvuku","url":"https://volumeboosting.com/sk/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"Tichá hlasová správa z WhatsAppu na iPhone: príčiny a riešenie","description":"Nepočuješ hlasové správy z WhatsAppu na iPhone? Skontroluj slúchadlo a senzor priblíženia a jednu tichú správu zosilni až 10× vo Volume Boost za pár sekúnd.","image":["https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/sk/navody/ticha-hlasova-sprava-whatsapp/","inLanguage":"sk","about":{"@type":"MobileApplication","name":"Increase Volume – Zosilnenie zvuku","url":"https://volumeboosting.com/sk/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Zosilni hlasovú správu z WhatsAppu vo Volume Boost","description":"Asi 30 sekúnd na správu, keď je súbor v Súboroch.","image":"https://volumeboosting.com/img/screenshots/6.webp","totalTime":"PT1M","inLanguage":"sk","tool":[{"@type":"HowToTool","name":"Increase Volume – Zosilnenie zvuku"}],"step":[{"@type":"HowToStep","position":1,"name":"Importuj správu","text":"Otvor Volume Boost a pridaj súbor zo Súborov, alebo ho zdieľaj z WhatsAppu priamo do Increase Volume.","url":"https://volumeboosting.com/sk/navody/ticha-hlasova-sprava-whatsapp/#step-1"},{"@type":"HowToStep","position":2,"name":"Zapni „Vylepšiť kvalitu zvuku“","text":"Reči je s vylepšením lepšie rozumieť; vytiahne hlas nad pozadie.","url":"https://volumeboosting.com/sk/navody/ticha-hlasova-sprava-whatsapp/#step-2"},{"@type":"HowToStep","position":3,"name":"Zosilni ×5–×10","text":"Posuň „Násobok hlasitosti“. Tiché nahrávky z telefónu často znesú ×6–×10. Ťukni na „Zosilniť hlasitosť na ×N“.","url":"https://volumeboosting.com/sk/navody/ticha-hlasova-sprava-whatsapp/#step-3"},{"@type":"HowToStep","position":4,"name":"Vypočuj a ulož","text":"Prepínaj Pôvodné a Spracované, ťukni na „Stiahnuť spracované“ a ulož do Súborov alebo pošli hlasnejšiu kópiu späť do WhatsAppu.","url":"https://volumeboosting.com/sk/navody/ticha-hlasova-sprava-whatsapp/#step-4"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Zosilni hlasovú správu z WhatsAppu vo Volume Boost","description":"Asi 30 sekúnd na správu, keď je súbor v Súboroch.","image":"https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp","totalTime":"PT1M","inLanguage":"sk","tool":[{"@type":"HowToTool","name":"Increase Volume – Zosilnenie zvuku"}],"step":[{"@type":"HowToStep","position":1,"name":"Importuj správu","text":"Otvor Volume Boost a pridaj súbor zo Súborov, alebo ho zdieľaj z WhatsAppu priamo do Increase Volume.","url":"https://volumeboosting.com/sk/navody/ticha-hlasova-sprava-whatsapp/#step-1"},{"@type":"HowToStep","position":2,"name":"Zapni „Vylepšiť kvalitu zvuku“","text":"Reči je s vylepšením lepšie rozumieť; vytiahne hlas nad pozadie.","url":"https://volumeboosting.com/sk/navody/ticha-hlasova-sprava-whatsapp/#step-2"},{"@type":"HowToStep","position":3,"name":"Zosilni ×5–×10","text":"Posuň „Násobok hlasitosti“. Tiché nahrávky z telefónu často znesú ×6–×10. Ťukni na „Zosilniť hlasitosť na ×N“.","url":"https://volumeboosting.com/sk/navody/ticha-hlasova-sprava-whatsapp/#step-3"},{"@type":"HowToStep","position":4,"name":"Vypočuj a ulož","text":"Prepínaj Pôvodné a Spracované, ťukni na „Stiahnuť spracované“ a ulož do Súborov alebo pošli hlasnejšiu kópiu späť do WhatsAppu.","url":"https://volumeboosting.com/sk/navody/ticha-hlasova-sprava-whatsapp/#step-4"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"sk","mainEntity":[{"@type":"Question","name":"Prečo sú hlasové správy z WhatsAppu na iPhone také tiché?","acceptedAnswer":{"@type":"Answer","text":"Najčastejšie preto, že senzor priblíženia prepne na slúchadlo, keď je telefón pri tvári. Odtiahni ho a počas prehrávania pridaj hlasitosť médií."}},{"@type":"Question","name":"Dá sa zvýšiť hlasitosť jednej hlasovej správy vo WhatsAppe?","acceptedAnswer":{"@type":"Answer","text":"Vo WhatsAppe nie. Exportuj správu cez Preposlať → Zdieľať, zosilni ju vo Volume Boost a použi hlasnejšiu kópiu."}},{"@type":"Question","name":"Stratí sa kvalita, keď správu zosilním?","acceptedAnswer":{"@type":"Answer","text":"Hlas bude hlasnejší bez nových artefaktov, ale existujúci šum v pozadí tiež stúpne. Začni mierne a zvyšuj, kým porovnávaš Pôvodné a Spracované."}}]}

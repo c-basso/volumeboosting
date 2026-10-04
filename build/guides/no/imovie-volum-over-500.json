@@ -17,7 +17,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "Glidebryteren «Volummultiplikasjon ×10» og knappen «Boost lydstyrken til ×10» i Volumforsterker",
-    "caption": "Volumforsterker går til ×10, dobbelt så høyt som iMovies grense."
+    "caption": "Volumforsterker går til ×10, dobbelt så høyt som iMovies grense.",
+    "hide_in_article": true
   },
   "sections": [
     {

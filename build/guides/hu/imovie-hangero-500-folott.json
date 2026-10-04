@@ -19,7 +19,8 @@
   "screenshot": {
     "src": "/img/screenshots/4.webp",
     "alt": "„Select the amount of boosting” képernyőkép: ×10-es hangerőszorzó csúszka, az iMovie maximumának kétszerese",
-    "caption": "A Hangerőnövelő Média ×10-e nagyjából kétszerese az iMovie maximumának."
+    "caption": "A Hangerőnövelő Média ×10-e nagyjából kétszerese az iMovie maximumának.",
+    "hide_in_article": true
   },
   "sections": [
     {

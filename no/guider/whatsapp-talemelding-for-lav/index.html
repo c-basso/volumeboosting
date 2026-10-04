@@ -118,7 +118,7 @@
     <meta property="og:title" content="WhatsApp-talemelding for lav på iPhone: årsaker og løsning" />
     <meta property="og:description" content="Hører du ikke WhatsApp-talemeldinger på iPhone? Sjekk øretelefonhøyttaleren og nærhetssensoren, og gjør én lav melding opptil 10× høyere med Volumforsterker." />
     <meta property="og:image" content="https://volumeboosting.com/no/site_preview.png" />
-    <meta property="og:image:alt" content="Delingsarket i iOS med Kopier, Legg til etiketter og Arkiver i Filer for en forsterket lydfil i Volumforsterker" />
+    <meta property="og:image:alt" content="Delingsarket for den forsterkede filen med Copy, Save Video og Save to Files og appen Volume Boost" />
     <meta property="og:image:width" content="1026" />
     <meta property="og:image:height" content="539" />
     <meta property="og:logo" content="https://volumeboosting.com/img/logo.webp" />
@@ -159,9 +159,30 @@
 
     <link
       rel="stylesheet"
-      href="/style.css?v=1791092818599"
+      href="/style.css?v=1791094985992"
     />
     <script>document.documentElement.classList.add('js');</script>
+    <!-- dev-links: on localhost / LAN dev servers, point absolute site links at the local copy (no effect in production) -->
+    <script>
+      (function () {
+        var h = location.hostname;
+        var isDev = h === 'localhost' || h === '127.0.0.1' || h === '[::1]' || h === '0.0.0.0' ||
+          /\.(local|localhost|test)$/.test(h) || /^(10|192\.168|172\.(1[6-9]|2\d|3[01]))\./.test(h);
+        if (!isDev) return;
+        var SITE = 'https://volumeboosting.com';
+        var sel = 'a[href^="' + SITE + '"]';
+        function fix(root) {
+          root.querySelectorAll(sel).forEach(function (a) {
+            a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+          });
+        }
+        document.addEventListener('DOMContentLoaded', function () { fix(document); });
+        document.addEventListener('click', function (e) {
+          var a = e.target.closest && e.target.closest(sel);
+          if (a) a.setAttribute('href', a.getAttribute('href').slice(SITE.length) || '/');
+        }, true);
+      })();
+    </script>
 
   </head>
   <body class="page-guide">
@@ -237,7 +258,7 @@
             
             <figure class="guide-figure">
               <div class="guide-figure-frame">
-                <img src="/img/screenshots/6.webp" alt="Delingsarket i iOS med Kopier, Legg til etiketter og Arkiver i Filer for en forsterket lydfil i Volumforsterker" width="460" height="995" loading="lazy" decoding="async" />
+                <img src="/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp" alt="Delingsarket for den forsterkede filen med Copy, Save Video og Save to Files og appen Volume Boost" width="460" height="995" loading="lazy" decoding="async" />
               </div>
               <figcaption>Etter forsterkningen sender du den høyere kopien tilbake til WhatsApp eller arkiverer den i Filer.</figcaption>
             </figure>
@@ -484,10 +505,10 @@
     </div>
 
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"Article","headline":"WhatsApp-talemelding for lav på iPhone: årsaker og løsning","description":"Hører du ikke WhatsApp-talemeldinger på iPhone? Sjekk øretelefonhøyttaleren og nærhetssensoren, og gjør én lav melding opptil 10× høyere med Volumforsterker.","image":["https://volumeboosting.com/img/screenshots/6.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/no/guider/whatsapp-talemelding-for-lav/","inLanguage":"no","about":{"@type":"MobileApplication","name":"Increase Volume – Lydboost","url":"https://volumeboosting.com/no/","operatingSystem":"iOS"}}
+      {"@context":"https://schema.org","@type":"Article","headline":"WhatsApp-talemelding for lav på iPhone: årsaker og løsning","description":"Hører du ikke WhatsApp-talemeldinger på iPhone? Sjekk øretelefonhøyttaleren og nærhetssensoren, og gjør én lav melding opptil 10× høyere med Volumforsterker.","image":["https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp"],"author":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"publisher":{"@type":"Organization","name":"c-basso","url":"https://volumeboosting.com/","logo":{"@type":"ImageObject","url":"https://volumeboosting.com/img/logo.webp"}},"datePublished":"2026-10-02","dateModified":"2026-10-02","mainEntityOfPage":"https://volumeboosting.com/no/guider/whatsapp-talemelding-for-lav/","inLanguage":"no","about":{"@type":"MobileApplication","name":"Increase Volume – Lydboost","url":"https://volumeboosting.com/no/","operatingSystem":"iOS"}}
     </script>
     <script type="application/ld+json">
-      {"@context":"https://schema.org","@type":"HowTo","name":"Gjør en WhatsApp-talemelding høyere med Volumforsterker","description":"Rundt 30 sekunder per melding når filen ligger i Filer.","image":"https://volumeboosting.com/img/screenshots/6.webp","totalTime":"PT1M","inLanguage":"no","tool":[{"@type":"HowToTool","name":"Increase Volume – Lydboost"}],"step":[{"@type":"HowToStep","position":1,"name":"Importer talemeldingen","text":"Åpne Volumforsterker og legg til filen fra Filer, eller del den direkte fra WhatsApp til Increase Volume.","url":"https://volumeboosting.com/no/guider/whatsapp-talemelding-for-lav/#step-1"},{"@type":"HowToStep","position":2,"name":"Slå på «Forbedre lydkvalitet»","text":"Tale er lettere å forstå med forbedringen aktivert; den løfter stemmen fremfor bakgrunnen.","url":"https://volumeboosting.com/no/guider/whatsapp-talemelding-for-lav/#step-2"},{"@type":"HowToStep","position":3,"name":"Forsterk ×5–×10","text":"Dra «Volummultiplikasjon». Lave telefonopptak tåler ofte ×6–×10. Trykk «Boost lydstyrken til ×N».","url":"https://volumeboosting.com/no/guider/whatsapp-talemelding-for-lav/#step-3"},{"@type":"HowToStep","position":4,"name":"Lytt og lagre","text":"Bytt mellom Original og Behandlet, trykk «Last ned behandlet» og arkiver i Filer eller send den høyere kopien tilbake i WhatsApp.","url":"https://volumeboosting.com/no/guider/whatsapp-talemelding-for-lav/#step-4"}]}
+      {"@context":"https://schema.org","@type":"HowTo","name":"Gjør en WhatsApp-talemelding høyere med Volumforsterker","description":"Rundt 30 sekunder per melding når filen ligger i Filer.","image":"https://volumeboosting.com/img/guides/how-to-make-a-whatsapp-voice-message-louder.webp","totalTime":"PT1M","inLanguage":"no","tool":[{"@type":"HowToTool","name":"Increase Volume – Lydboost"}],"step":[{"@type":"HowToStep","position":1,"name":"Importer talemeldingen","text":"Åpne Volumforsterker og legg til filen fra Filer, eller del den direkte fra WhatsApp til Increase Volume.","url":"https://volumeboosting.com/no/guider/whatsapp-talemelding-for-lav/#step-1"},{"@type":"HowToStep","position":2,"name":"Slå på «Forbedre lydkvalitet»","text":"Tale er lettere å forstå med forbedringen aktivert; den løfter stemmen fremfor bakgrunnen.","url":"https://volumeboosting.com/no/guider/whatsapp-talemelding-for-lav/#step-2"},{"@type":"HowToStep","position":3,"name":"Forsterk ×5–×10","text":"Dra «Volummultiplikasjon». Lave telefonopptak tåler ofte ×6–×10. Trykk «Boost lydstyrken til ×N».","url":"https://volumeboosting.com/no/guider/whatsapp-talemelding-for-lav/#step-3"},{"@type":"HowToStep","position":4,"name":"Lytt og lagre","text":"Bytt mellom Original og Behandlet, trykk «Last ned behandlet» og arkiver i Filer eller send den høyere kopien tilbake i WhatsApp.","url":"https://volumeboosting.com/no/guider/whatsapp-talemelding-for-lav/#step-4"}]}
     </script>
     <script type="application/ld+json">
       {"@context":"https://schema.org","@type":"FAQPage","inLanguage":"no","mainEntity":[{"@type":"Question","name":"Hvorfor er WhatsApp-talemeldinger så lave på iPhone?","acceptedAnswer":{"@type":"Answer","text":"Oftest fordi nærhetssensoren bytter til øretelefonhøyttaleren når telefonen er nær ansiktet. Hold den unna og skru opp medievolumet mens meldingen spilles."}},{"@type":"Question","name":"Kan jeg øke volumet for én talemelding i WhatsApp?","acceptedAnswer":{"@type":"Answer","text":"Ikke inne i WhatsApp. Eksporter meldingen via Videresend → Del, forsterk den i Volumforsterker og bruk den høyere kopien."}},{"@type":"Question","name":"Forsvinner kvaliteten når jeg forsterker en talemelding?","acceptedAnswer":{"@type":"Answer","text":"Stemmen blir høyere uten nye artefakter, men eksisterende bakgrunnsstøy blir også høyere. Start moderat og øk mens du sammenligner Original og Behandlet."}}]}
