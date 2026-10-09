@@ -20,7 +20,7 @@
 - Price: free download with in-app purchases (subscription with free trial, or one-time lifetime plan)
 - Website locales: 37 language-specific pages
 - Public website: https://volumeboosting.com/
-- Last website build date: 2026-10-04
+- Last website build date: 2026-10-09
 
 ## Main sections
 - [Home](https://volumeboosting.com/): Product overview, screenshots, how it works, guides, FAQ, and App Store link
@@ -45,6 +45,7 @@
 - [How to make music louder on iPhone](https://volumeboosting.com/guides/how-to-make-music-louder-on-iphone/): Songs too quiet on iPhone? Turn off Sound Check, try the Late Night EQ and check headphone limits, then make your own MP3s and recordings up to 10× louder.
 - [How to make a podcast or audiobook louder on iPhone](https://volumeboosting.com/guides/how-to-make-a-podcast-or-audiobook-louder-on-iphone/): Quiet podcast episode, audiobook chapter or lecture file? Use your player's voice boost for streams, and boost downloaded files up to 10× with Increase Volume.
 - [How to increase iPhone volume when it's too quiet](https://volumeboosting.com/guides/how-to-increase-iphone-volume/): iPhone too quiet even at full volume? Check the settings that cap sound, clean the speaker, fix Bluetooth, then make quiet videos and audio up to 10× louder.
+- [How to bass boost a video on iPhone](https://volumeboosting.com/guides/how-to-bass-boost-a-video-on-iphone/): Photos and iMovie on iPhone have no bass control. Here's how to bass boost a video, keep voices clear and save a new copy with Increase Volume in a minute.
 
 ## How-to guides (Čeština)
 - [Čeština guides hub](https://volumeboosting.com/cs/navody/)
@@ -708,4 +709,4 @@ No public Android listing is referenced on the website. The published listing is
 - Privacy: https://volumeboosting.com/privacy.html
 - Terms: https://volumeboosting.com/terms.html
 
-Last updated: 2026-10-04
+Last updated: 2026-10-09
