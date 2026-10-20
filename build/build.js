@@ -942,6 +942,17 @@ function attachGuideCards(data, guidesByLang, lang) {
     data.guides.hub_url = guideHubUrl(lang);
 
     const bySlug = new Map(guides.map((guide) => [guide.slug, guide]));
+
+    // Optional hero link to a guide that matches a different search intent than the homepage
+    // (e.g. "make the whole iPhone louder" vs "make this file louder").
+    const intent = data.hero?.intent_link;
+    if (intent?.guide) {
+        if (bySlug.has(intent.guide)) {
+            intent.url = guideUrlForSlug(intent.guide, lang);
+        } else {
+            console.warn(`Warning [${lang}]: hero.intent_link points to unknown guide "${intent.guide}"`);
+        }
+    }
     for (const faq of data.seo?.faq || []) {
         // `guide` may carry an anchor ("slug#section-id") to deep-link the matching section.
         const [slug, anchor] = String(faq.guide || '').split('#');

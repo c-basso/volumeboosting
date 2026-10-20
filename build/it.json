@@ -66,7 +66,11 @@
         "value": "Sul dispositivo",
         "label": "nessun caricamento online"
       }
-    ]
+    ],
+    "intent_link": {
+      "text": "Vuoi alzare il volume di tutto l'iPhone? 8 soluzioni nelle impostazioni",
+      "guide": "come-aumentare-il-volume-iphone"
+    }
   },
   "wave": {
     "before_label": "Prima",
@@ -187,6 +191,11 @@
   "seo": {
     "breadcrumb_home": "Home",
     "faq": [
+      {
+        "question": "Come aumentare il volume dell'iPhone se è troppo basso anche al massimo?",
+        "answer": "Prima controlla le impostazioni che limitano il suono: disattiva «Riduci audio forte» in Impostazioni › Suoni e feedback aptico › Sicurezza cuffie, prova l'equalizzatore «Notte» in Impostazioni › Musica, verifica il Bilanciamento e che l'audio non vada a un dispositivo Bluetooth, poi pulisci la griglia dell'altoparlante. Il sistema non supera il 100%: se un singolo video o una registrazione resta basso, alza il file stesso con Aumenta Volume fino a ×10.",
+        "guide": "come-aumentare-il-volume-iphone"
+      },
       {
         "question": "Come aumento il volume di un video su iPhone?",
         "answer": "Apri Aumenta Volume, importa il video da Foto (o condividilo con l'app), trascina «Moltiplicazione volume» fino a ×10, tocca «Potenzia volume», confronta Originale ed Elaborato e tocca «Scarica elaborato». La copia più forte viene salvata in Foto o File e suona forte su qualsiasi dispositivo.",

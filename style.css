@@ -571,6 +571,21 @@ strong {
   color: var(--text-2);
 }
 
+.hero-intent {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.hero-intent a {
+  color: var(--text-2);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.hero-intent a:hover {
+  color: var(--text);
+}
+
 /* Device + wave panel */
 .visual-panel {
   position: relative;

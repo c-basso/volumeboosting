@@ -1,8 +1,8 @@
 {
   "en_slug": "how-to-increase-iphone-volume",
   "keyword": "iPhone ses yükseltme",
-  "priority": 13,
-  "keywords": "iphone ses yükseltme, iphone ses yükseltme uygulaması, iphone sesi düşük, iphone sesini yükseltme, apple ses yükseltme, iphone hoparlör ses yükseltme",
+  "priority": 0,
+  "keywords": "iphone ses yükseltme, iphone ses yükseltme uygulaması, iphone sesi düşük, iphone sesini yükseltme, apple ses yükseltme, iphone hoparlör ses yükseltme, iphone ses yükseltme kodu, ios ses yükseltme",
   "title": "iPhone Ses Yükseltme: Ses Düşükse 8 Etkili Çözüm (2026)",
   "description": "iPhone sonuna kadar açıkken bile sesi düşük mü? Sesi sınırlayan ayarları kapatın, hoparlörü temizleyin, Bluetooth'u kontrol edin ve dosyaları 10 kata yükseltin.",
   "h1": "iPhone ses yükseltme: ses düşükse ne yapmalı",
@@ -10,7 +10,7 @@
   "card_title": "iPhone ses yükseltme",
   "card_summary": "Sesi sessizce sınırlayan ayarlar, hoparlör ve Bluetooth kontrolleri ve telefon zaten sonuna kadar açıksa yapılacaklar.",
   "published": "2026-10-04",
-  "updated": "2026-10-04",
+  "updated": "2026-10-20",
   "quick_answer": "iPhone'da sesi yükseltmek için Ayarlar › Ses ve Dokunuş › Kulaklık Güvenliği'nde «Yüksek Sesleri Azalt»ı kapatın, Ayarlar › Müzik'te EQ «Gece Geç Saat»i deneyin, Denge ayarını kontrol edin, hoparlör ızgarasını temizleyin ve sesin Bluetooth'a gitmediğinden emin olun. Sistem %100'ün üzerine çıkamaz: bir video veya kayıt sonuna kadar açıkken bile kısıksa dosyanın kendisini Ses Yükseltici ile 10 kata kadar yükseltip yeni kopya kaydedin.",
   "intro": [
     "iPhone sonuna kadar açık ama video, sesli mesaj ya da şarkı yine de duyulmuyor. Çoğu zaman sesi uyarı vermeden sınırlayan bir ayar vardır ya da ses başka bir cihaza gidiyordur.",
@@ -42,6 +42,14 @@
       "heading": "Hoparlör, kılıf ve Bluetooth",
       "paragraphs": [
         "Alttaki hoparlör ızgarasındaki toz ya da onu kapatan bir kılıf sesi belirgin şekilde düşürebilir: yumuşak, kuru bir fırçayla temizleyin. Denetim Merkezi'ni açıp ses çıkışını kontrol edin: AirPods veya Bluetooth hoparlör hâlâ bağlıysa ses oraya gider. Aramalar kısıksa üstteki ahizeyi kulağınıza tam yaslayın."
+      ]
+    },
+    {
+      "id": "kod",
+      "heading": "iPhone ses yükseltme kodu var mı?",
+      "paragraphs": [
+        "Hayır. İnternette dolaşan *#…# biçimindeki «ses yükseltme kodları» Android telefonların servis menüleri içindir. iPhone'da Telefon uygulamasına yazıldığında hoparlör sesini artıran gizli bir kod ya da mühendislik menüsü yoktur; iOS'ta sesi etkileyen her şey yukarıdaki ayarlardadır.",
+        "Sesi %100'ün üzerine çıkaran uygulamalar da telefonun hoparlörünü değil, oynattıkları ya da kaydettikleri dosyanın seviyesini yükseltir. Ses Yükseltici de böyle çalışır: dosyanın kendisini 10 kata kadar yükseltip yeni bir kopya kaydeder."
       ]
     },
     {
@@ -87,6 +95,10 @@
     {
       "question": "iPhone'u maksimum sesin üzerine çıkarabilir miyim?",
       "answer": "Tüm sistem için hayır, %100 donanım sınırıdır. Ancak tek tek video ve ses dosyalarını Ses Yükseltici gibi bir uygulamayla yükseltebilirsiniz."
+    },
+    {
+      "question": "iPhone ses yükseltme kodu işe yarar mı?",
+      "answer": "Hayır. iPhone'da sesi artıran gizli bir tuşlama kodu yoktur; dolaşan kodlar Android servis menüleri içindir. Sesi etkileyen ayarlar Ayarlar › Ses ve Dokunuş, Müzik ve Erişilebilirlik bölümlerindedir."
     },
     {
       "question": "iPhone'un sesi neden kendiliğinden düştü?",

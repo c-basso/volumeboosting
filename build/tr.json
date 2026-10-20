@@ -66,7 +66,11 @@
         "value": "Cihazda",
         "label": "hiçbir şey yüklenmez"
       }
-    ]
+    ],
+    "intent_link": {
+      "text": "iPhone'un genel sesi mi düşük? Ayarlarda 8 çözüm",
+      "guide": "iphone-ses-yukseltme"
+    }
   },
   "wave": {
     "before_label": "Önce",
@@ -187,6 +191,11 @@
   "seo": {
     "breadcrumb_home": "Ana sayfa",
     "faq": [
+      {
+        "question": "iPhone'un sesi sonuna kadar açıkken bile düşükse ne yapmalı?",
+        "answer": "Önce sesi sınırlayan ayarları kontrol edin: Ayarlar › Ses ve Dokunuş › Kulaklık Güvenliği'nde «Yüksek Sesleri Azalt»ı kapatın, Ayarlar › Müzik › EQ'da «Gece Geç Saat»i deneyin, Denge ayarına ve sesin Bluetooth'a gitmediğine bakın, hoparlör ızgarasını temizleyin. Sistem %100'ün üzerine çıkamaz: tek bir video veya kayıt hâlâ kısıksa dosyanın kendisini Ses Yükseltici ile 10 kata kadar yükseltin.",
+        "guide": "iphone-ses-yukseltme"
+      },
       {
         "question": "iPhone'da video sesi nasıl yükseltilir?",
         "answer": "Ses Yükseltici'yi açın, videoyu Fotoğraflar'dan içe aktarın (veya uygulamaya paylaşın), «Ses çarpanı»nı ×10'a kadar çekip «Sesi güçlendir»e dokunun. Orijinal ile işlenmişi karşılaştırıp «İşlenmişi indir»e dokunun. Yüksek sesli kopya Fotoğraflar'a veya Dosyalar'a kaydedilir ve her cihazda yüksek çalar.",
